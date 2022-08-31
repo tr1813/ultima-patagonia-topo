@@ -47,7 +47,7 @@ if not survey:
 
 # Produce the parseable XVI file
 print("Compiling 2D XVI file")
-template = """source '{th_file}'
+template = """source {th_file}
 layout test
   scale 1 500
 endlayout
@@ -56,7 +56,7 @@ select {selector}
 
 export map -projection {projection} -o {tmpdir}/xvi.xvi -layout test -layout-debug station-names"""
 template_args = {
-    "th_file": ENTRY_FILE.replace("\\", "/").replace(" ","\ "),
+    "th_file": ENTRY_FILE.replace("\\", "/"),
     "projection": PROJECTION,
     "selector": survey.therion_id,
     # tmpdir provided in compile_template
@@ -155,7 +155,7 @@ endscrap"""
         coords2 = "{}.{}".format(line[2], line[3])
         if "{}.{}".format(line[2], line[3]) not in seen:
             seen.add(coords2)
-            if line[5] != None:
+            if line[5] != None: 
                 th2_points.append(th2_point.format(
                     x=line[2], y=line[3], station=line[5]))
                 th2_names.append(th2_name.format(
