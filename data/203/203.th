@@ -1,0 +1,17 @@
+survey 203 -title "??"
+  centreline
+  cs UTM18S
+  fix ENT_203001	472905	4434743	253.0	## Perte du Coypo
+  fix ENT_203002	473028	4434786	258.0	## Gouffre F??lin
+  fix ENT_203003	473145	4434865	249.0	## Puits du Bourdon
+  fix ENT_203004	473023	4434914	252.0	## Gros Trou
+  fix ENT_203005	472899	4435932	34.0	## R??surgence
+  fix ENT_203006	472591	4435495	119.0	## R??surgence
+  fix ENT_203007	472563	4435496	121.0	## R??surgence
+  fix ENT_203008	473096	4434992	334.0	## Aven C301
+  fix ENT_203009	472629	4435676	105.0	## Aven
+  fix ENT_203010	470851	4437247	13.0	## Porche 1
+  fix ENT_203011	470883	4433935	35.0	## Abri du Gazon
+  fix ENT_203012	471003	4434013	0.0	## Grotte du Nord
+  endcentreline
+endsurvey

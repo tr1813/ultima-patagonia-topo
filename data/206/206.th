@@ -1,0 +1,107 @@
+survey 206 -title "206 Roberto"
+  input PozoDelContacto/PozoDelContacto.th
+  input PerteDuMoral/PerteDuMoral.th
+  input P85Camp400/P85Camp400.th
+  input CuevaComete/CuevaComete.th
+  input PerteDeLaRiviere/PerteDeLaRiviere.th
+  input Passoire/Passoire.th
+  input GouffrePetitCreux/GouffrePetitCreux.th
+  input PerteDuTemps/PerteDuTemps.th
+
+  centreline
+  fix ENT_206001	476883	4424327	0
+  station ENT_206001 "Cueva Ayayema"
+  fix ENT_206002	476461	4423410	0
+  station ENT_206002 "Grotte du Dyke"
+  fix ENT_206003  475043  4425186  433
+  station ENT_206003 "JJP0"
+  fix ENT_206004  475107 4425112  429
+  station ENT_206004 "JJP1"
+  fix ENT_206005  475175 4425192  444
+  station ENT_206005 "JJP2"
+  fix ENT_206006  475069 4425245  452
+  station ENT_206006 "JJP3"
+  fix ENT_206007 475140 4424860  358
+  station ENT_206007 "JJP8"
+  fix ENT_206008 474961 4425621 457
+  station ENT_206008 "UL04"
+  fix ENT_206009  474841  4425409 373
+  station ENT_206009 "UL07A"
+  fix ENT_206010  474836 4425367 380
+  station ENT_206010 "UL07B"
+  fix ENT_206011  474969 4425554 455
+  station ENT_206011 "UL05"
+  fix ENT_206012  474969 4424637 338
+  station ENT_206012 "Point32"
+  fix ENT_206013  474998 4424705 335
+  station ENT_206013 "Point30"
+  fix ENT_206014  474477 4423817 365
+  station ENT_206014 "Point001"
+  fix ENT_206015  474952 4424624 334
+  station ENT_206015 "Point31"
+  fix ENT_206016  475187 4426380 669
+  station ENT_206016 "GSLS01"
+  fix ENT_206017  475255 4426406 691
+  station ENT_206017 "GSLS02"
+  fix ENT_206018 475361 4426071 679
+  station ENT_206018 "GSLS03"
+  fix ENT_206019  475208 4426189 635
+  station ENT_206019 "GSLS04"
+  fix ENT_206020  475205 4426209 632
+  station ENT_206020 "GSLS05"
+  fix ENT_206021  475202 4426174 618
+  station ENT_206021 "GSLS06"
+  fix ENT_206022  475202 4426174 618 ## possible que c'est un double??
+  station ENT_206022 "GSLS07"
+  fix ENT_206023  475218 4426185 628
+  station ENT_206023 "GSLS08"
+  fix ENT_206024  474458 4427709 214
+  station ENT_206024 "PerteNothofagusBaobab"
+  fix ENT_206025  475373  44264323 759
+  station ENT_206025 "Glaciaire760"
+  fix ENT_206026  475365 4426421 745
+  station ENT_206026 "GrotteSousLaGlaciaire"
+  fix ENT_206027  475063 4426287 600
+  station ENT_206027 "GrotteCamp600"
+  fix ENT_206028  475063 4426287 629 ## memes coords que grotte camp600???
+  station ENT_206028 "PozoDelContacto"
+  equate ENT_206028 PDC16@PozoDelContacto
+  fix ENT_206029  475118  4426181 621
+  station ENT_206029 "UL02"
+  fix ENT_206030  475065 4426047 584
+  station ENT_206030 "UL03"
+  fix ENT_206031  474466 4425996 120 ## probablement fausses? on est quasi dans le seno??
+  station ENT_206031 "AJPP01AB"
+  fix ENT_206032  475106 4425962  579
+  station ENT_206032 "AJPP02"
+  fix ENT_206033  475550 4427985 360
+  station ENT_206033 "PerteDuMoral"
+  equate ENT_206033 PM0@PerteDuMoral
+  fix ENT_206034  474992 4427009 519 ## altitude estimée google earth
+  station ENT_206034 P85Camp400
+  equate ENT_206034 P80_0@P85Camp400
+  fix ENT_206035  475017 4427584 380
+  station ENT_206035 "CuevaComete"
+  equate ENT_206035 ZI1@CuevaComete
+  fix ENT_206036  474963 4427404  398
+  station ENT_206036 "Cueva17"
+  fix ENT_206037  475017 4427584  380
+  station ENT_206037 "CuevaPauseSac"
+  fix ENT_206038  474946 4427389 396
+  station ENT_206038 "CuevaDalle"
+  fix ENT_206039  474982 4427513 382
+  station ENT_206039 "BigPits"
+  fix ENT_206040 474462 4423274 120
+  station ENT_206040 "Perte de la Riviere"
+  equate ENT_206040 RI31@PerteDeLaRiviere
+  fix ENT_206041 474946 4424727 340 ## Passoire
+  station ENT_206041 "Passoire"
+  equate ENT_206041 gd2a1@Passoire
+  fix ENT_206042 474990 4425248 437
+  station ENT_206042 "GouffrePetitCreux"
+  equate ENT_206042 GP01_1.0@GouffrePetitCreux
+  fix ENT_206043  473872 4428412 140 ## perte du temps
+  station ENT_206043 "PerteDuTemps"
+  equate ENT_206043 100@PerteDuTemps
+  endcentreline
+endsurvey

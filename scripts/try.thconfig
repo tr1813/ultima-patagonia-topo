@@ -1,0 +1,4 @@
+source "../raw convert/4_plus_1_convert.th"
+
+lang fr
+export model -o ../outputs/index.3d -fmt survex

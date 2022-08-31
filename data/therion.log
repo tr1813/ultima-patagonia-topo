@@ -1,0 +1,1220 @@
+therion 5.5.0+e2caa7d (2020-05-01)
+initialization file: /usr/local/etc/therion.ini
+reading ... done
+checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
+checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
+configuration file: index.thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+therion: warning -- unable to determine magnetic declination for undated surveys
+output coordinate system: UTM18S
+meridian convergence (deg): -0.2305
+geomag declinations (deg):
+  2008.1.1  15.8203
+  2009.1.1  15.7444
+  2010.1.1  15.6680
+  2011.1.1  15.5966
+  2012.1.1  15.5248
+  2013.1.1  15.4525
+  2014.1.1  15.3797
+  2015.1.1  15.3065
+  2016.1.1  15.2225
+  2017.1.1  15.1380
+  2018.1.1  15.0529
+  2019.1.1  14.9673
+  2020.1.1  14.8811
+  2021.1.1  14.7869
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+average loop error: 4.68%
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.36
+ 2> Copyright © 1990-2018 Olly Betts
+ 3> /tmp/th6571/data.svx:217: warning: Unused fixed point “210”
+ 4> /tmp/th6571/data.svx:218: warning: Unused fixed point “211”
+ 5> /tmp/th6571/data.svx:219: warning: Unused fixed point “212”
+ 6> /tmp/th6571/data.svx:220: warning: Unused fixed point “213”
+ 7> /tmp/th6571/data.svx:221: warning: Unused fixed point “214”
+ 8> /tmp/th6571/data.svx:222: warning: Unused fixed point “215”
+ 9> /tmp/th6571/data.svx:224: warning: Unused fixed point “217”
+10> /tmp/th6571/data.svx:225: warning: Unused fixed point “218”
+11> /tmp/th6571/data.svx:226: warning: Unused fixed point “219”
+12> /tmp/th6571/data.svx:227: warning: Unused fixed point “220”
+13> /tmp/th6571/data.svx:228: warning: Unused fixed point “221”
+14> /tmp/th6571/data.svx:229: warning: Unused fixed point “222”
+15> /tmp/th6571/data.svx:230: warning: Unused fixed point “223”
+16> /tmp/th6571/data.svx:231: warning: Unused fixed point “224”
+17> /tmp/th6571/data.svx:232: warning: Unused fixed point “225”
+18> /tmp/th6571/data.svx:233: warning: Unused fixed point “226”
+19> /tmp/th6571/data.svx:234: warning: Unused fixed point “227”
+20> /tmp/th6571/data.svx:235: warning: Unused fixed point “228”
+21> /tmp/th6571/data.svx:236: warning: Unused fixed point “229”
+22> /tmp/th6571/data.svx:1222: warning: Unused fixed point “1201”
+23> /tmp/th6571/data.svx:1224: warning: Unused fixed point “1203”
+24> /tmp/th6571/data.svx:1225: warning: Unused fixed point “1204”
+25> /tmp/th6571/data.svx:1226: warning: Unused fixed point “1205”
+26> /tmp/th6571/data.svx:1227: warning: Unused fixed point “1206”
+27> /tmp/th6571/data.svx:1228: warning: Unused fixed point “1207”
+28> /tmp/th6571/data.svx:1229: warning: Unused fixed point “1208”
+29> /tmp/th6571/data.svx:1231: warning: Unused fixed point “1210”
+30> /tmp/th6571/data.svx:1234: warning: Unused fixed point “1213”
+31> /tmp/th6571/data.svx:1236: warning: Unused fixed point “1215”
+32> /tmp/th6571/data.svx:1237: warning: Unused fixed point “1216”
+33> /tmp/th6571/data.svx:1238: warning: Unused fixed point “1217”
+34> /tmp/th6571/data.svx:1239: warning: Unused fixed point “1218”
+35> /tmp/th6571/data.svx:1241: warning: Unused fixed point “1220”
+36> /tmp/th6571/data.svx:1242: warning: Unused fixed point “1221”
+37> /tmp/th6571/data.svx:1244: warning: Unused fixed point “1223”
+38> /tmp/th6571/data.svx:1245: warning: Unused fixed point “1224”
+39> /tmp/th6571/data.svx:1247: warning: Unused fixed point “1226”
+40> /tmp/th6571/data.svx:1248: warning: Unused fixed point “1227”
+41> /tmp/th6571/data.svx:1250: warning: Unused fixed point “1229”
+42> /tmp/th6571/data.svx:1251: warning: Unused fixed point “1230”
+43> /tmp/th6571/data.svx:1252: warning: Unused fixed point “1231”
+44> /tmp/th6571/data.svx:1363: warning: Unused fixed point “1335”
+45> /tmp/th6571/data.svx:1364: warning: Unused fixed point “1336”
+46> /tmp/th6571/data.svx:1365: warning: Unused fixed point “1337”
+47> /tmp/th6571/data.svx:1366: warning: Unused fixed point “1338”
+48> /tmp/th6571/data.svx:1367: warning: Unused fixed point “1339”
+49> /tmp/th6571/data.svx:1368: warning: Unused fixed point “1340”
+50> /tmp/th6571/data.svx:1369: warning: Unused fixed point “1341”
+51> /tmp/th6571/data.svx:1370: warning: Unused fixed point “1342”
+52> /tmp/th6571/data.svx:1371: warning: Unused fixed point “1343”
+53> /tmp/th6571/data.svx:1372: warning: Unused fixed point “1344”
+54> /tmp/th6571/data.svx:1374: warning: Unused fixed point “1346”
+55> /tmp/th6571/data.svx:1908: warning: Unused fixed point “1876”
+56> /tmp/th6571/data.svx:1910: warning: Unused fixed point “1878”
+57> /tmp/th6571/data.svx:1912: warning: Unused fixed point “1880”
+58> /tmp/th6571/data.svx:1913: warning: Unused fixed point “1881”
+59> /tmp/th6571/data.svx:1914: warning: Unused fixed point “1882”
+60> /tmp/th6571/data.svx:1917: warning: Unused fixed point “1885”
+61> /tmp/th6571/data.svx:1919: warning: Unused fixed point “1887”
+62> /tmp/th6571/data.svx:1923: warning: Unused fixed point “1891”
+63> /tmp/th6571/data.svx:1925: warning: Unused fixed point “1893”
+64> /tmp/th6571/data.svx:1985: warning: Unused fixed point “1948”
+65> /tmp/th6571/data.svx:1986: warning: Unused fixed point “1949”
+66> /tmp/th6571/data.svx:1987: warning: Unused fixed point “1950”
+67> /tmp/th6571/data.svx:1988: warning: Unused fixed point “1951”
+68> /tmp/th6571/data.svx:1989: warning: Unused fixed point “1952”
+69> /tmp/th6571/data.svx:1990: warning: Unused fixed point “1953”
+70> /tmp/th6571/data.svx:1991: warning: Unused fixed point “1954”
+71> /tmp/th6571/data.svx:1992: warning: Unused fixed point “1955”
+72> /tmp/th6571/data.svx:1993: warning: Unused fixed point “1956”
+73> /tmp/th6571/data.svx:1994: warning: Unused fixed point “1957”
+74> /tmp/th6571/data.svx:1995: warning: Unused fixed point “1958”
+75> /tmp/th6571/data.svx:1996: warning: Unused fixed point “1959”
+76> /tmp/th6571/data.svx:1997: warning: Unused fixed point “1960”
+77> /tmp/th6571/data.svx:1998: warning: Unused fixed point “1961”
+78> /tmp/th6571/data.svx:1999: warning: Unused fixed point “1962”
+79> /tmp/th6571/data.svx:2000: warning: Unused fixed point “1963”
+80> /tmp/th6571/data.svx:2001: warning: Unused fixed point “1964”
+81> /tmp/th6571/data.svx:2002: warning: Unused fixed point “1965”
+82> /tmp/th6571/data.svx:2003: warning: Unused fixed point “1966”
+83> /tmp/th6571/data.svx:2004: warning: Unused fixed point “1967”
+84> /tmp/th6571/data.svx:2005: warning: Unused fixed point “1968”
+85> /tmp/th6571/data.svx:2006: warning: Unused fixed point “1969”
+86> /tmp/th6571/data.svx:2007: warning: Unused fixed point “1970”
+87> /tmp/th6571/data.svx:2008: warning: Unused fixed point “1971”
+88> /tmp/th6571/data.svx:2009: warning: Unused fixed point “1972”
+89> /tmp/th6571/data.svx:2010: warning: Unused fixed point “1973”
+90> /tmp/th6571/data.svx:2011: warning: Unused fixed point “1974”
+91> /tmp/th6571/data.svx:2012: warning: Unused fixed point “1975”
+92> /tmp/th6571/data.svx:2013: warning: Unused fixed point “1976”
+93> /tmp/th6571/data.svx:2014: warning: Unused fixed point “1977”
+94> /tmp/th6571/data.svx:2015: warning: Unused fixed point “1978”
+95> /tmp/th6571/data.svx:2016: warning: Unused fixed point “1979”
+96> /tmp/th6571/data.svx:2017: warning: Unused fixed point “1980”
+97> /tmp/th6571/data.svx:2018: warning: Unused fixed point “1981”
+98> /tmp/th6571/data.svx:2019: warning: Unused fixed point “1982”
+99> /tmp/th6571/data.svx:2020: warning: Unused fixed point “1983”
+100> /tmp/th6571/data.svx:2021: warning: Unused fixed point “1984”
+101> /tmp/th6571/data.svx:2022: warning: Unused fixed point “1985”
+102> /tmp/th6571/data.svx:2023: warning: Unused fixed point “1986”
+103> /tmp/th6571/data.svx:2024: warning: Unused fixed point “1987”
+104> /tmp/th6571/data.svx:2025: warning: Unused fixed point “1988”
+105> /tmp/th6571/data.svx:2026: warning: Unused fixed point “1989”
+106> /tmp/th6571/data.svx:2027: warning: Unused fixed point “1990”
+107> /tmp/th6571/data.svx:2028: warning: Unused fixed point “1991”
+108> /tmp/th6571/data.svx:2029: warning: Unused fixed point “1992”
+109> /tmp/th6571/data.svx:2030: warning: Unused fixed point “1993”
+110> /tmp/th6571/data.svx:2031: warning: Unused fixed point “1994”
+111> /tmp/th6571/data.svx:2032: warning: Unused fixed point “1995”
+112> /tmp/th6571/data.svx:2033: warning: Unused fixed point “1996”
+113> /tmp/th6571/data.svx:2034: warning: Unused fixed point “1997”
+114> /tmp/th6571/data.svx:2035: warning: Unused fixed point “1998”
+115> /tmp/th6571/data.svx:2036: warning: Unused fixed point “1999”
+116> /tmp/th6571/data.svx:2037: warning: Unused fixed point “2000”
+117> /tmp/th6571/data.svx:2038: warning: Unused fixed point “2001”
+118> /tmp/th6571/data.svx:2039: warning: Unused fixed point “2002”
+119> /tmp/th6571/data.svx:2040: warning: Unused fixed point “2003”
+120> /tmp/th6571/data.svx:2041: warning: Unused fixed point “2004”
+121> /tmp/th6571/data.svx:2042: warning: Unused fixed point “2005”
+122> /tmp/th6571/data.svx:2043: warning: Unused fixed point “2006”
+123> /tmp/th6571/data.svx:2044: warning: Unused fixed point “2007”
+124> /tmp/th6571/data.svx:2047: warning: Unused fixed point “2010”
+125> /tmp/th6571/data.svx:2048: warning: Unused fixed point “2011”
+126> /tmp/th6571/data.svx:2049: warning: Unused fixed point “2012”
+127> /tmp/th6571/data.svx:2050: warning: Unused fixed point “2013”
+128> /tmp/th6571/data.svx:2051: warning: Unused fixed point “2014”
+129> /tmp/th6571/data.svx:2052: warning: Unused fixed point “2015”
+130> /tmp/th6571/data.svx:2053: warning: Unused fixed point “2016”
+131> /tmp/th6571/data.svx:2054: warning: Unused fixed point “2017”
+132> /tmp/th6571/data.svx:2055: warning: Unused fixed point “2018”
+133> /tmp/th6571/data.svx:2056: warning: Unused fixed point “2019”
+134> /tmp/th6571/data.svx:2059: warning: Unused fixed point “2022”
+135> /tmp/th6571/data.svx:2060: warning: Unused fixed point “2023”
+136> /tmp/th6571/data.svx:2061: warning: Unused fixed point “2024”
+137> /tmp/th6571/data.svx:2062: warning: Unused fixed point “2025”
+138> /tmp/th6571/data.svx:2077: warning: Unused fixed point “2037”
+139> /tmp/th6571/data.svx:2078: warning: Unused fixed point “2038”
+140> /tmp/th6571/data.svx:2079: warning: Unused fixed point “2039”
+141> /tmp/th6571/data.svx:2080: warning: Unused fixed point “2040”
+142> /tmp/th6571/data.svx:2081: warning: Unused fixed point “2041”
+143> /tmp/th6571/data.svx:2082: warning: Unused fixed point “2042”
+144> /tmp/th6571/data.svx:2083: warning: Unused fixed point “2043”
+145> /tmp/th6571/data.svx:2084: warning: Unused fixed point “2044”
+146> /tmp/th6571/data.svx:2086: warning: Unused fixed point “2046”
+147> /tmp/th6571/data.svx:2087: warning: Unused fixed point “2047”
+148> /tmp/th6571/data.svx:2088: warning: Unused fixed point “2048”
+149> /tmp/th6571/data.svx:2089: warning: Unused fixed point “2049”
+150> /tmp/th6571/data.svx:2090: warning: Unused fixed point “2050”
+151> /tmp/th6571/data.svx:2091: warning: Unused fixed point “2051”
+152> /tmp/th6571/data.svx:2092: warning: Unused fixed point “2052”
+153> /tmp/th6571/data.svx:2093: warning: Unused fixed point “2053”
+154> /tmp/th6571/data.svx:2094: warning: Unused fixed point “2054”
+155> /tmp/th6571/data.svx:2095: warning: Unused fixed point “2055”
+156> /tmp/th6571/data.svx:2096: warning: Unused fixed point “2056”
+157> /tmp/th6571/data.svx:2097: warning: Unused fixed point “2057”
+158> /tmp/th6571/data.svx:2098: warning: Unused fixed point “2058”
+159> /tmp/th6571/data.svx:2099: warning: Unused fixed point “2059”
+160> /tmp/th6571/data.svx:2100: warning: Unused fixed point “2060”
+161> /tmp/th6571/data.svx:2101: warning: Unused fixed point “2061”
+162> /tmp/th6571/data.svx:2102: warning: Unused fixed point “2062”
+163> /tmp/th6571/data.svx:2103: warning: Unused fixed point “2063”
+164> /tmp/th6571/data.svx:2104: warning: Unused fixed point “2064”
+165> /tmp/th6571/data.svx:2105: warning: Unused fixed point “2065”
+166> /tmp/th6571/data.svx:2106: warning: Unused fixed point “2066”
+167> /tmp/th6571/data.svx:2107: warning: Unused fixed point “2067”
+168> /tmp/th6571/data.svx:2108: warning: Unused fixed point “2068”
+169> /tmp/th6571/data.svx:2110: warning: Unused fixed point “2069”
+170> /tmp/th6571/data.svx:2111: warning: Unused fixed point “2070”
+171> /tmp/th6571/data.svx:2112: warning: Unused fixed point “2071”
+172> /tmp/th6571/data.svx:2113: warning: Unused fixed point “2072”
+173> /tmp/th6571/data.svx:2114: warning: Unused fixed point “2073”
+174> /tmp/th6571/data.svx:2115: warning: Unused fixed point “2074”
+175> /tmp/th6571/data.svx:2116: warning: Unused fixed point “2075”
+176> /tmp/th6571/data.svx:2117: warning: Unused fixed point “2076”
+177> /tmp/th6571/data.svx:2118: warning: Unused fixed point “2077”
+178> /tmp/th6571/data.svx:2119: warning: Unused fixed point “2078”
+179> /tmp/th6571/data.svx:2120: warning: Unused fixed point “2079”
+180> /tmp/th6571/data.svx:2121: warning: Unused fixed point “2080”
+181> /tmp/th6571/data.svx:2122: warning: Unused fixed point “2081”
+182> /tmp/th6571/data.svx:2123: warning: Unused fixed point “2082”
+183> /tmp/th6571/data.svx:2124: warning: Unused fixed point “2083”
+184> /tmp/th6571/data.svx:2125: warning: Unused fixed point “2084”
+185> /tmp/th6571/data.svx:2126: warning: Unused fixed point “2085”
+186> /tmp/th6571/data.svx:2127: warning: Unused fixed point “2086”
+187> /tmp/th6571/data.svx:2128: warning: Unused fixed point “2087”
+188> /tmp/th6571/data.svx:2129: warning: Unused fixed point “2088”
+189> /tmp/th6571/data.svx:2130: warning: Unused fixed point “2089”
+190> /tmp/th6571/data.svx:2131: warning: Unused fixed point “2090”
+191> /tmp/th6571/data.svx:2132: warning: Unused fixed point “2091”
+192> /tmp/th6571/data.svx:2133: warning: Unused fixed point “2092”
+193> /tmp/th6571/data.svx:2134: warning: Unused fixed point “2093”
+194> /tmp/th6571/data.svx:2135: warning: Unused fixed point “2094”
+195> /tmp/th6571/data.svx:2136: warning: Unused fixed point “2095”
+196> /tmp/th6571/data.svx:2137: warning: Unused fixed point “2096”
+197> /tmp/th6571/data.svx:2138: warning: Unused fixed point “2097”
+198> /tmp/th6571/data.svx:2139: warning: Unused fixed point “2098”
+199> /tmp/th6571/data.svx:2140: warning: Unused fixed point “2099”
+200> /tmp/th6571/data.svx:2141: warning: Unused fixed point “2100”
+201> /tmp/th6571/data.svx:2142: warning: Unused fixed point “2101”
+202> /tmp/th6571/data.svx:2143: warning: Unused fixed point “2102”
+203> /tmp/th6571/data.svx:2144: warning: Unused fixed point “2103”
+204> /tmp/th6571/data.svx:2145: warning: Unused fixed point “2104”
+205> /tmp/th6571/data.svx:2146: warning: Unused fixed point “2105”
+206> /tmp/th6571/data.svx:2147: warning: Unused fixed point “2106”
+207> /tmp/th6571/data.svx:2148: warning: Unused fixed point “2107”
+208> /tmp/th6571/data.svx:2149: warning: Unused fixed point “2108”
+209> /tmp/th6571/data.svx:2150: warning: Unused fixed point “2109”
+210> /tmp/th6571/data.svx:2151: warning: Unused fixed point “2110”
+211> /tmp/th6571/data.svx:2152: warning: Unused fixed point “2111”
+212> /tmp/th6571/data.svx:2153: warning: Unused fixed point “2112”
+213> /tmp/th6571/data.svx:2154: warning: Unused fixed point “2113”
+214> /tmp/th6571/data.svx:2155: warning: Unused fixed point “2114”
+215> /tmp/th6571/data.svx:2156: warning: Unused fixed point “2115”
+216> /tmp/th6571/data.svx:2157: warning: Unused fixed point “2116”
+217> /tmp/th6571/data.svx:2158: warning: Unused fixed point “2117”
+218> /tmp/th6571/data.svx:2159: warning: Unused fixed point “2118”
+219> /tmp/th6571/data.svx:2160: warning: Unused fixed point “2119”
+220> /tmp/th6571/data.svx:2161: warning: Unused fixed point “2120”
+221> /tmp/th6571/data.svx:2162: warning: Unused fixed point “2121”
+222> /tmp/th6571/data.svx:2163: warning: Unused fixed point “2122”
+223> /tmp/th6571/data.svx:2164: warning: Unused fixed point “2123”
+224> /tmp/th6571/data.svx:2165: warning: Unused fixed point “2124”
+225> /tmp/th6571/data.svx:2166: warning: Unused fixed point “2125”
+226> /tmp/th6571/data.svx:2167: warning: Unused fixed point “2126”
+227> /tmp/th6571/data.svx:2168: warning: Unused fixed point “2127”
+228> /tmp/th6571/data.svx:2169: warning: Unused fixed point “2128”
+229> /tmp/th6571/data.svx:2170: warning: Unused fixed point “2129”
+230> /tmp/th6571/data.svx:2171: warning: Unused fixed point “2130”
+231> /tmp/th6571/data.svx:2172: warning: Unused fixed point “2131”
+232> /tmp/th6571/data.svx:2173: warning: Unused fixed point “2132”
+233> /tmp/th6571/data.svx:2174: warning: Unused fixed point “2133”
+234> /tmp/th6571/data.svx:2175: warning: Unused fixed point “2134”
+235> /tmp/th6571/data.svx:2176: warning: Unused fixed point “2135”
+236> /tmp/th6571/data.svx:2177: warning: Unused fixed point “2136”
+237> /tmp/th6571/data.svx:2178: warning: Unused fixed point “2137”
+238> /tmp/th6571/data.svx:2179: warning: Unused fixed point “2138”
+239> /tmp/th6571/data.svx:2180: warning: Unused fixed point “2139”
+240> /tmp/th6571/data.svx:2181: warning: Unused fixed point “2140”
+241> /tmp/th6571/data.svx:2182: warning: Unused fixed point “2141”
+242> /tmp/th6571/data.svx:2183: warning: Unused fixed point “2142”
+243> /tmp/th6571/data.svx:2184: warning: Unused fixed point “2143”
+244> /tmp/th6571/data.svx:2185: warning: Unused fixed point “2144”
+245> /tmp/th6571/data.svx:2186: warning: Unused fixed point “2145”
+246> /tmp/th6571/data.svx:2187: warning: Unused fixed point “2146”
+247> /tmp/th6571/data.svx:2188: warning: Unused fixed point “2147”
+248> /tmp/th6571/data.svx:2189: warning: Unused fixed point “2148”
+249> /tmp/th6571/data.svx:2190: warning: Unused fixed point “2149”
+250> /tmp/th6571/data.svx:2191: warning: Unused fixed point “2150”
+251> /tmp/th6571/data.svx:2192: warning: Unused fixed point “2151”
+252> /tmp/th6571/data.svx:2193: warning: Unused fixed point “2152”
+253> /tmp/th6571/data.svx:2194: warning: Unused fixed point “2153”
+254> /tmp/th6571/data.svx:2195: warning: Unused fixed point “2154”
+255> /tmp/th6571/data.svx:2196: warning: Unused fixed point “2155”
+256> /tmp/th6571/data.svx:2197: warning: Unused fixed point “2156”
+257> /tmp/th6571/data.svx:2198: warning: Unused fixed point “2157”
+258> /tmp/th6571/data.svx:2199: warning: Unused fixed point “2158”
+259> /tmp/th6571/data.svx:2200: warning: Unused fixed point “2159”
+260> /tmp/th6571/data.svx:2201: warning: Unused fixed point “2160”
+261> /tmp/th6571/data.svx:2202: warning: Unused fixed point “2161”
+262> /tmp/th6571/data.svx:2203: warning: Unused fixed point “2162”
+263> /tmp/th6571/data.svx:2204: warning: Unused fixed point “2163”
+264> /tmp/th6571/data.svx:2205: warning: Unused fixed point “2164”
+265> /tmp/th6571/data.svx:2206: warning: Unused fixed point “2165”
+266> /tmp/th6571/data.svx:2207: warning: Unused fixed point “2166”
+267> /tmp/th6571/data.svx:2208: warning: Unused fixed point “2167”
+268> /tmp/th6571/data.svx:2209: warning: Unused fixed point “2168”
+269> /tmp/th6571/data.svx:2210: warning: Unused fixed point “2169”
+270> /tmp/th6571/data.svx:2211: warning: Unused fixed point “2170”
+271> /tmp/th6571/data.svx:2212: warning: Unused fixed point “2171”
+272> /tmp/th6571/data.svx:2213: warning: Unused fixed point “2172”
+273> /tmp/th6571/data.svx:2214: warning: Unused fixed point “2173”
+274> /tmp/th6571/data.svx:2215: warning: Unused fixed point “2174”
+275> /tmp/th6571/data.svx:2216: warning: Unused fixed point “2175”
+276> /tmp/th6571/data.svx:2217: warning: Unused fixed point “2176”
+277> /tmp/th6571/data.svx:2218: warning: Unused fixed point “2177”
+278> /tmp/th6571/data.svx:2219: warning: Unused fixed point “2178”
+279> /tmp/th6571/data.svx:2220: warning: Unused fixed point “2179”
+280> /tmp/th6571/data.svx:2221: warning: Unused fixed point “2180”
+281> /tmp/th6571/data.svx:2222: warning: Unused fixed point “2181”
+282> /tmp/th6571/data.svx:2223: warning: Unused fixed point “2182”
+283> /tmp/th6571/data.svx:2224: warning: Unused fixed point “2183”
+284> /tmp/th6571/data.svx:2225: warning: Unused fixed point “2184”
+285> /tmp/th6571/data.svx:2226: warning: Unused fixed point “2185”
+286> /tmp/th6571/data.svx:2227: warning: Unused fixed point “2186”
+287> /tmp/th6571/data.svx:2228: warning: Unused fixed point “2187”
+288> /tmp/th6571/data.svx:2229: warning: Unused fixed point “2188”
+289> /tmp/th6571/data.svx:2230: warning: Unused fixed point “2189”
+290> /tmp/th6571/data.svx:2231: warning: Unused fixed point “2190”
+291> /tmp/th6571/data.svx:2232: warning: Unused fixed point “2191”
+292> /tmp/th6571/data.svx:2233: warning: Unused fixed point “2192”
+293> /tmp/th6571/data.svx:2234: warning: Unused fixed point “2193”
+294> /tmp/th6571/data.svx:2235: warning: Unused fixed point “2194”
+295> /tmp/th6571/data.svx:2236: warning: Unused fixed point “2195”
+296> /tmp/th6571/data.svx:2237: warning: Unused fixed point “2196”
+297> /tmp/th6571/data.svx:2238: warning: Unused fixed point “2197”
+298> /tmp/th6571/data.svx:2239: warning: Unused fixed point “2198”
+299> /tmp/th6571/data.svx:2240: warning: Unused fixed point “2199”
+300> /tmp/th6571/data.svx:2241: warning: Unused fixed point “2200”
+301> /tmp/th6571/data.svx:2242: warning: Unused fixed point “2201”
+302> /tmp/th6571/data.svx:2243: warning: Unused fixed point “2202”
+303> /tmp/th6571/data.svx:2244: warning: Unused fixed point “2203”
+304> /tmp/th6571/data.svx:2245: warning: Unused fixed point “2204”
+305> /tmp/th6571/data.svx:2246: warning: Unused fixed point “2205”
+306> /tmp/th6571/data.svx:2247: warning: Unused fixed point “2206”
+307> /tmp/th6571/data.svx:2248: warning: Unused fixed point “2207”
+308> /tmp/th6571/data.svx:2249: warning: Unused fixed point “2208”
+309> /tmp/th6571/data.svx:2250: warning: Unused fixed point “2209”
+310> /tmp/th6571/data.svx:2251: warning: Unused fixed point “2210”
+311> /tmp/th6571/data.svx:2252: warning: Unused fixed point “2211”
+312> /tmp/th6571/data.svx:2253: warning: Unused fixed point “2212”
+313> /tmp/th6571/data.svx:2254: warning: Unused fixed point “2213”
+314> /tmp/th6571/data.svx:2255: warning: Unused fixed point “2214”
+315> /tmp/th6571/data.svx:2256: warning: Unused fixed point “2215”
+316> /tmp/th6571/data.svx:2257: warning: Unused fixed point “2216”
+317> /tmp/th6571/data.svx:2258: warning: Unused fixed point “2217”
+318> /tmp/th6571/data.svx:2259: warning: Unused fixed point “2218”
+319> /tmp/th6571/data.svx:2260: warning: Unused fixed point “2219”
+320> /tmp/th6571/data.svx:2261: warning: Unused fixed point “2220”
+321> /tmp/th6571/data.svx:2262: warning: Unused fixed point “2221”
+322> /tmp/th6571/data.svx:2263: warning: Unused fixed point “2222”
+323> /tmp/th6571/data.svx:2264: warning: Unused fixed point “2223”
+324> /tmp/th6571/data.svx:2265: warning: Unused fixed point “2224”
+325> /tmp/th6571/data.svx:2266: warning: Unused fixed point “2225”
+326> /tmp/th6571/data.svx:2267: warning: Unused fixed point “2226”
+327> /tmp/th6571/data.svx:2268: warning: Unused fixed point “2227”
+328> /tmp/th6571/data.svx:2269: warning: Unused fixed point “2228”
+329> /tmp/th6571/data.svx:2270: warning: Unused fixed point “2229”
+330> /tmp/th6571/data.svx:2271: warning: Unused fixed point “2230”
+331> /tmp/th6571/data.svx:2272: warning: Unused fixed point “2231”
+332> /tmp/th6571/data.svx:2273: warning: Unused fixed point “2232”
+333> /tmp/th6571/data.svx:2274: warning: Unused fixed point “2233”
+334> /tmp/th6571/data.svx:2275: warning: Unused fixed point “2234”
+335> /tmp/th6571/data.svx:2276: warning: Unused fixed point “2235”
+336> /tmp/th6571/data.svx:2277: warning: Unused fixed point “2236”
+337> /tmp/th6571/data.svx:2278: warning: Unused fixed point “2237”
+338> /tmp/th6571/data.svx:2279: warning: Unused fixed point “2238”
+339> /tmp/th6571/data.svx:2280: warning: Unused fixed point “2239”
+340> /tmp/th6571/data.svx:2281: warning: Unused fixed point “2240”
+341> /tmp/th6571/data.svx:2282: warning: Unused fixed point “2241”
+342> /tmp/th6571/data.svx:2283: warning: Unused fixed point “2242”
+343> /tmp/th6571/data.svx:2284: warning: Unused fixed point “2243”
+344> /tmp/th6571/data.svx:2285: warning: Unused fixed point “2244”
+345> /tmp/th6571/data.svx:2286: warning: Unused fixed point “2245”
+346> /tmp/th6571/data.svx:2287: warning: Unused fixed point “2246”
+347> /tmp/th6571/data.svx:2288: warning: Unused fixed point “2247”
+348> /tmp/th6571/data.svx:2289: warning: Unused fixed point “2248”
+349> /tmp/th6571/data.svx:2290: warning: Unused fixed point “2249”
+350> /tmp/th6571/data.svx:2291: warning: Unused fixed point “2250”
+351> /tmp/th6571/data.svx:2292: warning: Unused fixed point “2251”
+352> /tmp/th6571/data.svx:2293: warning: Unused fixed point “2252”
+353> /tmp/th6571/data.svx:2294: warning: Unused fixed point “2253”
+354> /tmp/th6571/data.svx:2295: warning: Unused fixed point “2254”
+355> /tmp/th6571/data.svx:2296: warning: Unused fixed point “2255”
+356> /tmp/th6571/data.svx:2297: warning: Unused fixed point “2256”
+357> /tmp/th6571/data.svx:2298: warning: Unused fixed point “2257”
+358> /tmp/th6571/data.svx:2299: warning: Unused fixed point “2258”
+359> /tmp/th6571/data.svx:2300: warning: Unused fixed point “2259”
+360> /tmp/th6571/data.svx:2301: warning: Unused fixed point “2260”
+361> /tmp/th6571/data.svx:2302: warning: Unused fixed point “2261”
+362> /tmp/th6571/data.svx:2303: warning: Unused fixed point “2262”
+363> /tmp/th6571/data.svx:2304: warning: Unused fixed point “2263”
+364> 
+365> Survey contains 2263 survey stations, joined by 1902 legs.
+366> There are 30 loops.
+367> Survey has 391 connected components.
+368> Total length of survey legs = 14489.58m (14490.06m adjusted)
+369> Total plan length of survey legs = 12309.39m
+370> Total vertical length of survey legs = 5416.33m
+371> Vertical range = 469.00m (from 1332 at 406.00m to 1768 at -63.00m)
+372> North-South range = 23661.00m (from 173 at 4452354.00m to 2036 at 4428693.00m)
+373> East-West range = 17236.93m (from 116 at 490212.60m to 2026 at 472975.67m)
+374>  361 0-nodes.
+375>  203 1-nodes.
+376> 1530 2-nodes.
+377>  147 3-nodes.
+378>   15 4-nodes.
+379>    4 5-nodes.
+380>    1 6-node.
+381>    2 7-nodes.
+382> There were 361 warning(s).
+383> 
+######################### transcription ########################
+ 3> input:217 -- 106/106.th [9]
+ 3> 210 : ENT_106001@106.UltimaPatagonia
+ 4> input:218 -- 106/106.th [10]
+ 4> 211 : ENT_106002@106.UltimaPatagonia
+ 5> input:219 -- 106/106.th [11]
+ 5> 212 : ENT_106003@106.UltimaPatagonia
+ 6> input:220 -- 106/106.th [12]
+ 6> 213 : ENT_106004@106.UltimaPatagonia
+ 7> input:221 -- 106/106.th [13]
+ 7> 214 : ENT_106005@106.UltimaPatagonia
+ 8> input:222 -- 106/106.th [14]
+ 8> 215 : ENT_106006@106.UltimaPatagonia
+ 9> input:224 -- 106/106.th [17]
+ 9> 217 : ENT_106008@106.UltimaPatagonia
+10> input:225 -- 106/106.th [18]
+10> 218 : ENT_106009@106.UltimaPatagonia
+11> input:226 -- 106/106.th [19]
+11> 219 : ENT_106010@106.UltimaPatagonia
+12> input:227 -- 106/106.th [20]
+12> 220 : ENT_106011@106.UltimaPatagonia
+13> input:228 -- 106/106.th [21]
+13> 221 : ENT_106012@106.UltimaPatagonia
+14> input:229 -- 106/106.th [22]
+14> 222 : ENT_106013@106.UltimaPatagonia
+15> input:230 -- 106/106.th [23]
+15> 223 : ENT_106014@106.UltimaPatagonia
+16> input:231 -- 106/106.th [24]
+16> 224 : ENT_106015@106.UltimaPatagonia
+17> input:232 -- 106/106.th [25]
+17> 225 : ENT_106016@106.UltimaPatagonia
+18> input:233 -- 106/106.th [26]
+18> 226 : ENT_106017@106.UltimaPatagonia
+19> input:234 -- 106/106.th [27]
+19> 227 : ENT_106018@106.UltimaPatagonia
+20> input:235 -- 106/106.th [28]
+20> 228 : ENT_106019@106.UltimaPatagonia
+21> input:236 -- 106/106.th [29]
+21> 229 : ENT_106020@106.UltimaPatagonia
+22> input:1222 -- 107/107.th [18]
+22> 1201 : ENT_107001@107.UltimaPatagonia
+23> input:1224 -- 107/107.th [21]
+23> 1203 : ENT_107003@107.UltimaPatagonia
+24> input:1225 -- 107/107.th [22]
+24> 1204 : ENT_107004@107.UltimaPatagonia
+25> input:1226 -- 107/107.th [24]
+25> 1205 : ENT_107005@107.UltimaPatagonia
+26> input:1227 -- 107/107.th [25]
+26> 1206 : ENT_107006@107.UltimaPatagonia
+27> input:1228 -- 107/107.th [26]
+27> 1207 : ENT_107007@107.UltimaPatagonia
+28> input:1229 -- 107/107.th [27]
+28> 1208 : ENT_107008@107.UltimaPatagonia
+29> input:1231 -- 107/107.th [30]
+29> 1210 : ENT_107010@107.UltimaPatagonia
+30> input:1234 -- 107/107.th [35]
+30> 1213 : ENT_107013@107.UltimaPatagonia
+31> input:1236 -- 107/107.th [38]
+31> 1215 : ENT_107015@107.UltimaPatagonia
+32> input:1237 -- 107/107.th [39]
+32> 1216 : ENT_107016@107.UltimaPatagonia
+33> input:1238 -- 107/107.th [40]
+33> 1217 : ENT_107017@107.UltimaPatagonia
+34> input:1239 -- 107/107.th [41]
+34> 1218 : ENT_107018@107.UltimaPatagonia
+35> input:1241 -- 107/107.th [44]
+35> 1220 : ENT_107020@107.UltimaPatagonia
+36> input:1242 -- 107/107.th [45]
+36> 1221 : ENT_107021@107.UltimaPatagonia
+37> input:1244 -- 107/107.th [48]
+37> 1223 : ENT_107023@107.UltimaPatagonia
+38> input:1245 -- 107/107.th [49]
+38> 1224 : ENT_107024@107.UltimaPatagonia
+39> input:1247 -- 107/107.th [52]
+39> 1226 : ENT_107026@107.UltimaPatagonia
+40> input:1248 -- 107/107.th [53]
+40> 1227 : ENT_107027@107.UltimaPatagonia
+41> input:1250 -- 107/107.th [56]
+41> 1229 : ENT_107029@107.UltimaPatagonia
+42> input:1251 -- 107/107.th [57]
+42> 1230 : ENT_107030@107.UltimaPatagonia
+43> input:1252 -- 107/107.th [58]
+43> 1231 : ENT_107031@107.UltimaPatagonia
+44> input:1363 -- 108/108.th [15]
+44> 1335 : ENT_108003@108.UltimaPatagonia
+45> input:1364 -- 108/108.th [16]
+45> 1336 : ENT_108004@108.UltimaPatagonia
+46> input:1365 -- 108/108.th [17]
+46> 1337 : ENT_108005@108.UltimaPatagonia
+47> input:1366 -- 108/108.th [18]
+47> 1338 : ENT_108006@108.UltimaPatagonia
+48> input:1367 -- 108/108.th [20]
+48> 1339 : ENT_108007@108.UltimaPatagonia
+49> input:1368 -- 108/108.th [21]
+49> 1340 : ENT_108008@108.UltimaPatagonia
+50> input:1369 -- 108/108.th [23]
+50> 1341 : ENT_108009@108.UltimaPatagonia
+51> input:1370 -- 108/108.th [24]
+51> 1342 : ENT_108010@108.UltimaPatagonia
+52> input:1371 -- 108/108.th [25]
+52> 1343 : ENT_108011@108.UltimaPatagonia
+53> input:1372 -- 108/108.th [26]
+53> 1344 : ENT_108012@108.UltimaPatagonia
+54> input:1374 -- 108/108.th [29]
+54> 1346 : ENT_108014@108.UltimaPatagonia
+55> input:1908 -- 109/109.th [15]
+55> 1876 : ENT_109001@109.UltimaPatagonia
+56> input:1910 -- 109/109.th [18]
+56> 1878 : ENT_109003@109.UltimaPatagonia
+57> input:1912 -- 109/109.th [21]
+57> 1880 : ENT_109005@109.UltimaPatagonia
+58> input:1913 -- 109/109.th [22]
+58> 1881 : ENT_109006@109.UltimaPatagonia
+59> input:1914 -- 109/109.th [23]
+59> 1882 : ENT_109007@109.UltimaPatagonia
+60> input:1917 -- 109/109.th [28]
+60> 1885 : ENT_109010@109.UltimaPatagonia
+61> input:1919 -- 109/109.th [31]
+61> 1887 : ENT_109012@109.UltimaPatagonia
+62> input:1923 -- 109/109.th [38]
+62> 1891 : ENT_109016@109.UltimaPatagonia
+63> input:1925 -- 109/109.th [41]
+63> 1893 : ENT_109018@109.UltimaPatagonia
+64> input:1985 -- 201/201.th [11]
+64> 1948 : ENT_201001@201.UltimaPatagonia
+65> input:1986 -- 201/201.th [12]
+65> 1949 : ENT_201002@201.UltimaPatagonia
+66> input:1987 -- 201/201.th [13]
+66> 1950 : ENT_201003@201.UltimaPatagonia
+67> input:1988 -- 201/201.th [14]
+67> 1951 : ENT_201004@201.UltimaPatagonia
+68> input:1989 -- 201/201.th [15]
+68> 1952 : ENT_201005@201.UltimaPatagonia
+69> input:1990 -- 201/201.th [16]
+69> 1953 : ENT_201006@201.UltimaPatagonia
+70> input:1991 -- 201/201.th [17]
+70> 1954 : ENT_201007@201.UltimaPatagonia
+71> input:1992 -- 201/201.th [18]
+71> 1955 : ENT_201008@201.UltimaPatagonia
+72> input:1993 -- 201/201.th [19]
+72> 1956 : ENT_201009@201.UltimaPatagonia
+73> input:1994 -- 201/201.th [20]
+73> 1957 : ENT_201010@201.UltimaPatagonia
+74> input:1995 -- 201/201.th [21]
+74> 1958 : ENT_201011@201.UltimaPatagonia
+75> input:1996 -- 201/201.th [22]
+75> 1959 : ENT_201012@201.UltimaPatagonia
+76> input:1997 -- 201/201.th [23]
+76> 1960 : ENT_201013@201.UltimaPatagonia
+77> input:1998 -- 201/201.th [24]
+77> 1961 : ENT_201014@201.UltimaPatagonia
+78> input:1999 -- 201/201.th [25]
+78> 1962 : ENT_201015@201.UltimaPatagonia
+79> input:2000 -- 201/201.th [26]
+79> 1963 : ENT_201016@201.UltimaPatagonia
+80> input:2001 -- 201/201.th [27]
+80> 1964 : ENT_201017@201.UltimaPatagonia
+81> input:2002 -- 201/201.th [28]
+81> 1965 : ENT_201018@201.UltimaPatagonia
+82> input:2003 -- 201/201.th [29]
+82> 1966 : ENT_201019@201.UltimaPatagonia
+83> input:2004 -- 201/201.th [30]
+83> 1967 : ENT_201020@201.UltimaPatagonia
+84> input:2005 -- 201/201.th [31]
+84> 1968 : ENT_201021@201.UltimaPatagonia
+85> input:2006 -- 201/201.th [32]
+85> 1969 : ENT_201022@201.UltimaPatagonia
+86> input:2007 -- 201/201.th [33]
+86> 1970 : ENT_201023@201.UltimaPatagonia
+87> input:2008 -- 201/201.th [34]
+87> 1971 : ENT_201024@201.UltimaPatagonia
+88> input:2009 -- 201/201.th [35]
+88> 1972 : ENT_201025@201.UltimaPatagonia
+89> input:2010 -- 201/201.th [36]
+89> 1973 : ENT_201026@201.UltimaPatagonia
+90> input:2011 -- 201/201.th [37]
+90> 1974 : ENT_201027@201.UltimaPatagonia
+91> input:2012 -- 201/201.th [38]
+91> 1975 : ENT_201028@201.UltimaPatagonia
+92> input:2013 -- 201/201.th [39]
+92> 1976 : ENT_201029@201.UltimaPatagonia
+93> input:2014 -- 201/201.th [40]
+93> 1977 : ENT_201030@201.UltimaPatagonia
+94> input:2015 -- 201/201.th [41]
+94> 1978 : ENT_201031@201.UltimaPatagonia
+95> input:2016 -- 201/201.th [42]
+95> 1979 : ENT_201032@201.UltimaPatagonia
+96> input:2017 -- 201/201.th [43]
+96> 1980 : ENT_201033@201.UltimaPatagonia
+97> input:2018 -- 201/201.th [44]
+97> 1981 : ENT_201034@201.UltimaPatagonia
+98> input:2019 -- 201/201.th [45]
+98> 1982 : ENT_201035@201.UltimaPatagonia
+99> input:2020 -- 201/201.th [46]
+99> 1983 : ENT_201036@201.UltimaPatagonia
+100> input:2021 -- 201/201.th [47]
+100> 1984 : ENT_201037@201.UltimaPatagonia
+101> input:2022 -- 201/201.th [48]
+101> 1985 : ENT_201038@201.UltimaPatagonia
+102> input:2023 -- 201/201.th [49]
+102> 1986 : ENT_201039@201.UltimaPatagonia
+103> input:2024 -- 201/201.th [50]
+103> 1987 : ENT_201040@201.UltimaPatagonia
+104> input:2025 -- 201/201.th [51]
+104> 1988 : ENT_201041@201.UltimaPatagonia
+105> input:2026 -- 201/201.th [52]
+105> 1989 : ENT_201042@201.UltimaPatagonia
+106> input:2027 -- 201/201.th [53]
+106> 1990 : ENT_201043@201.UltimaPatagonia
+107> input:2028 -- 201/201.th [54]
+107> 1991 : ENT_201044@201.UltimaPatagonia
+108> input:2029 -- 201/201.th [55]
+108> 1992 : ENT_201045@201.UltimaPatagonia
+109> input:2030 -- 201/201.th [56]
+109> 1993 : ENT_201046@201.UltimaPatagonia
+110> input:2031 -- 201/201.th [57]
+110> 1994 : ENT_201047@201.UltimaPatagonia
+111> input:2032 -- 201/201.th [58]
+111> 1995 : ENT_201048@201.UltimaPatagonia
+112> input:2033 -- 201/201.th [59]
+112> 1996 : ENT_201049@201.UltimaPatagonia
+113> input:2034 -- 201/201.th [60]
+113> 1997 : ENT_201050@201.UltimaPatagonia
+114> input:2035 -- 201/201.th [61]
+114> 1998 : ENT_201051@201.UltimaPatagonia
+115> input:2036 -- 201/201.th [62]
+115> 1999 : ENT_201052@201.UltimaPatagonia
+116> input:2037 -- 201/201.th [63]
+116> 2000 : ENT_201053@201.UltimaPatagonia
+117> input:2038 -- 201/201.th [64]
+117> 2001 : ENT_201054@201.UltimaPatagonia
+118> input:2039 -- 201/201.th [65]
+118> 2002 : ENT_201055@201.UltimaPatagonia
+119> input:2040 -- 201/201.th [66]
+119> 2003 : ENT_201056@201.UltimaPatagonia
+120> input:2041 -- 201/201.th [67]
+120> 2004 : ENT_201057@201.UltimaPatagonia
+121> input:2042 -- 201/201.th [68]
+121> 2005 : ENT_201058@201.UltimaPatagonia
+122> input:2043 -- 201/201.th [69]
+122> 2006 : ENT_201059@201.UltimaPatagonia
+123> input:2044 -- 201/201.th [70]
+123> 2007 : ENT_201060@201.UltimaPatagonia
+124> input:2047 -- 201/201.th [75]
+124> 2010 : ENT_201063@201.UltimaPatagonia
+125> input:2048 -- 201/201.th [76]
+125> 2011 : ENT_201064@201.UltimaPatagonia
+126> input:2049 -- 201/201.th [77]
+126> 2012 : ENT_201065@201.UltimaPatagonia
+127> input:2050 -- 201/201.th [78]
+127> 2013 : ENT_201066@201.UltimaPatagonia
+128> input:2051 -- 201/201.th [79]
+128> 2014 : ENT_201067@201.UltimaPatagonia
+129> input:2052 -- 201/201.th [80]
+129> 2015 : ENT_201068@201.UltimaPatagonia
+130> input:2053 -- 201/201.th [81]
+130> 2016 : ENT_201069@201.UltimaPatagonia
+131> input:2054 -- 201/201.th [82]
+131> 2017 : ENT_201070@201.UltimaPatagonia
+132> input:2055 -- 201/201.th [83]
+132> 2018 : ENT_201071@201.UltimaPatagonia
+133> input:2056 -- 201/201.th [84]
+133> 2019 : ENT_201072@201.UltimaPatagonia
+134> input:2059 -- 201/201.th [89]
+134> 2022 : ENT_201075@201.UltimaPatagonia
+135> input:2060 -- 201/201.th [90]
+135> 2023 : ENT_201076@201.UltimaPatagonia
+136> input:2061 -- 201/201.th [91]
+136> 2024 : ENT_201077@201.UltimaPatagonia
+137> input:2062 -- 201/201.th [92]
+137> 2025 : ENT_201078@201.UltimaPatagonia
+138> input:2077 -- 209/209.th [9]
+138> 2037 : ENT_209001@209.UltimaPatagonia
+139> input:2078 -- 209/209.th [10]
+139> 2038 : ENT_209002@209.UltimaPatagonia
+140> input:2079 -- 209/209.th [11]
+140> 2039 : ENT_209003@209.UltimaPatagonia
+141> input:2080 -- 209/209.th [12]
+141> 2040 : ENT_209004@209.UltimaPatagonia
+142> input:2081 -- 209/209.th [13]
+142> 2041 : ENT_209005@209.UltimaPatagonia
+143> input:2082 -- 209/209.th [14]
+143> 2042 : ENT_209006@209.UltimaPatagonia
+144> input:2083 -- 209/209.th [15]
+144> 2043 : ENT_209007@209.UltimaPatagonia
+145> input:2084 -- 209/209.th [16]
+145> 2044 : ENT_209008@209.UltimaPatagonia
+146> input:2086 -- 209/209.th [19]
+146> 2046 : ENT_209010@209.UltimaPatagonia
+147> input:2087 -- 209/209.th [20]
+147> 2047 : ENT_209011@209.UltimaPatagonia
+148> input:2088 -- 209/209.th [21]
+148> 2048 : ENT_209012@209.UltimaPatagonia
+149> input:2089 -- 209/209.th [22]
+149> 2049 : ENT_209013@209.UltimaPatagonia
+150> input:2090 -- 209/209.th [23]
+150> 2050 : ENT_209014@209.UltimaPatagonia
+151> input:2091 -- 209/209.th [24]
+151> 2051 : ENT_209015@209.UltimaPatagonia
+152> input:2092 -- 209/209.th [25]
+152> 2052 : ENT_209016@209.UltimaPatagonia
+153> input:2093 -- 209/209.th [26]
+153> 2053 : ENT_209017@209.UltimaPatagonia
+154> input:2094 -- 209/209.th [27]
+154> 2054 : ENT_209018@209.UltimaPatagonia
+155> input:2095 -- 209/209.th [28]
+155> 2055 : ENT_209019@209.UltimaPatagonia
+156> input:2096 -- 209/209.th [29]
+156> 2056 : ENT_209020@209.UltimaPatagonia
+157> input:2097 -- 209/209.th [30]
+157> 2057 : ENT_209021@209.UltimaPatagonia
+158> input:2098 -- 209/209.th [31]
+158> 2058 : ENT_209022@209.UltimaPatagonia
+159> input:2099 -- 209/209.th [32]
+159> 2059 : ENT_209023@209.UltimaPatagonia
+160> input:2100 -- 209/209.th [33]
+160> 2060 : ENT_209024@209.UltimaPatagonia
+161> input:2101 -- 209/209.th [34]
+161> 2061 : ENT_209025@209.UltimaPatagonia
+162> input:2102 -- 209/209.th [35]
+162> 2062 : ENT_209026@209.UltimaPatagonia
+163> input:2103 -- 209/209.th [36]
+163> 2063 : ENT_209027@209.UltimaPatagonia
+164> input:2104 -- 209/209.th [37]
+164> 2064 : ENT_209028@209.UltimaPatagonia
+165> input:2105 -- 209/209.th [38]
+165> 2065 : ENT_209029@209.UltimaPatagonia
+166> input:2106 -- 209/209.th [39]
+166> 2066 : ENT_209030@209.UltimaPatagonia
+167> input:2107 -- 209/209.th [40]
+167> 2067 : ENT_209031@209.UltimaPatagonia
+168> input:2108 -- 209/209.th [41]
+168> 2068 : ENT_209032@209.UltimaPatagonia
+169> input:2110 -- index.th [13]
+169> 2069 : ENT_213001@UltimaPatagonia
+170> input:2111 -- index.th [14]
+170> 2070 : ENT_211001@UltimaPatagonia
+171> input:2112 -- index.th [15]
+171> 2071 : ENT_211002@UltimaPatagonia
+172> input:2113 -- index.th [16]
+172> 2072 : ENT_211003@UltimaPatagonia
+173> input:2114 -- index.th [17]
+173> 2073 : ENT_211004@UltimaPatagonia
+174> input:2115 -- index.th [18]
+174> 2074 : ENT_211005@UltimaPatagonia
+175> input:2116 -- index.th [19]
+175> 2075 : ENT_211006@UltimaPatagonia
+176> input:2117 -- index.th [20]
+176> 2076 : ENT_211007@UltimaPatagonia
+177> input:2118 -- index.th [21]
+177> 2077 : ENT_211008@UltimaPatagonia
+178> input:2119 -- index.th [22]
+178> 2078 : ENT_211009@UltimaPatagonia
+179> input:2120 -- index.th [23]
+179> 2079 : ENT_211010@UltimaPatagonia
+180> input:2121 -- index.th [24]
+180> 2080 : ENT_211011@UltimaPatagonia
+181> input:2122 -- index.th [25]
+181> 2081 : ENT_211012@UltimaPatagonia
+182> input:2123 -- index.th [26]
+182> 2082 : ENT_211013@UltimaPatagonia
+183> input:2124 -- index.th [27]
+183> 2083 : ENT_211014@UltimaPatagonia
+184> input:2125 -- index.th [28]
+184> 2084 : ENT_211015@UltimaPatagonia
+185> input:2126 -- index.th [29]
+185> 2085 : ENT_211016@UltimaPatagonia
+186> input:2127 -- index.th [30]
+186> 2086 : ENT_211017@UltimaPatagonia
+187> input:2128 -- index.th [31]
+187> 2087 : ENT_211018@UltimaPatagonia
+188> input:2129 -- index.th [32]
+188> 2088 : ENT_211019@UltimaPatagonia
+189> input:2130 -- index.th [33]
+189> 2089 : ENT_211020@UltimaPatagonia
+190> input:2131 -- index.th [34]
+190> 2090 : ENT_211021@UltimaPatagonia
+191> input:2132 -- index.th [35]
+191> 2091 : ENT_211022@UltimaPatagonia
+192> input:2133 -- index.th [36]
+192> 2092 : ENT_211023@UltimaPatagonia
+193> input:2134 -- index.th [37]
+193> 2093 : ENT_211024@UltimaPatagonia
+194> input:2135 -- index.th [38]
+194> 2094 : ENT_211025@UltimaPatagonia
+195> input:2136 -- index.th [39]
+195> 2095 : ENT_211026@UltimaPatagonia
+196> input:2137 -- index.th [40]
+196> 2096 : ENT_211027@UltimaPatagonia
+197> input:2138 -- index.th [41]
+197> 2097 : ENT_211028@UltimaPatagonia
+198> input:2139 -- index.th [42]
+198> 2098 : ENT_211029@UltimaPatagonia
+199> input:2140 -- index.th [43]
+199> 2099 : ENT_211030@UltimaPatagonia
+200> input:2141 -- index.th [44]
+200> 2100 : ENT_211031@UltimaPatagonia
+201> input:2142 -- index.th [45]
+201> 2101 : ENT_211032@UltimaPatagonia
+202> input:2143 -- index.th [46]
+202> 2102 : ENT_211033@UltimaPatagonia
+203> input:2144 -- index.th [47]
+203> 2103 : ENT_211034@UltimaPatagonia
+204> input:2145 -- index.th [48]
+204> 2104 : ENT_211035@UltimaPatagonia
+205> input:2146 -- index.th [49]
+205> 2105 : ENT_211036@UltimaPatagonia
+206> input:2147 -- index.th [50]
+206> 2106 : ENT_211037@UltimaPatagonia
+207> input:2148 -- index.th [51]
+207> 2107 : ENT_211038@UltimaPatagonia
+208> input:2149 -- index.th [52]
+208> 2108 : ENT_211039@UltimaPatagonia
+209> input:2150 -- index.th [53]
+209> 2109 : ENT_211040@UltimaPatagonia
+210> input:2151 -- index.th [54]
+210> 2110 : ENT_211041@UltimaPatagonia
+211> input:2152 -- index.th [55]
+211> 2111 : ENT_211042@UltimaPatagonia
+212> input:2153 -- index.th [56]
+212> 2112 : ENT_211043@UltimaPatagonia
+213> input:2154 -- index.th [57]
+213> 2113 : ENT_211044@UltimaPatagonia
+214> input:2155 -- index.th [58]
+214> 2114 : ENT_211045@UltimaPatagonia
+215> input:2156 -- index.th [59]
+215> 2115 : ENT_211046@UltimaPatagonia
+216> input:2157 -- index.th [60]
+216> 2116 : ENT_211047@UltimaPatagonia
+217> input:2158 -- index.th [61]
+217> 2117 : ENT_211048@UltimaPatagonia
+218> input:2159 -- index.th [62]
+218> 2118 : ENT_211049@UltimaPatagonia
+219> input:2160 -- index.th [64]
+219> 2119 : ENT_208001@UltimaPatagonia
+220> input:2161 -- index.th [65]
+220> 2120 : ENT_208002@UltimaPatagonia
+221> input:2162 -- index.th [66]
+221> 2121 : ENT_208003@UltimaPatagonia
+222> input:2163 -- index.th [67]
+222> 2122 : ENT_208004@UltimaPatagonia
+223> input:2164 -- index.th [68]
+223> 2123 : ENT_208005@UltimaPatagonia
+224> input:2165 -- index.th [69]
+224> 2124 : ENT_205001@UltimaPatagonia
+225> input:2166 -- index.th [70]
+225> 2125 : ENT_205002@UltimaPatagonia
+226> input:2167 -- index.th [71]
+226> 2126 : ENT_205003@UltimaPatagonia
+227> input:2168 -- index.th [72]
+227> 2127 : ENT_205004@UltimaPatagonia
+228> input:2169 -- index.th [73]
+228> 2128 : ENT_205005@UltimaPatagonia
+229> input:2170 -- index.th [74]
+229> 2129 : ENT_205006@UltimaPatagonia
+230> input:2171 -- index.th [75]
+230> 2130 : ENT_205007@UltimaPatagonia
+231> input:2172 -- index.th [76]
+231> 2131 : ENT_205008@UltimaPatagonia
+232> input:2173 -- index.th [77]
+232> 2132 : ENT_205009@UltimaPatagonia
+233> input:2174 -- index.th [78]
+233> 2133 : ENT_205010@UltimaPatagonia
+234> input:2175 -- index.th [79]
+234> 2134 : ENT_205011@UltimaPatagonia
+235> input:2176 -- index.th [80]
+235> 2135 : ENT_205012@UltimaPatagonia
+236> input:2177 -- index.th [81]
+236> 2136 : ENT_205013@UltimaPatagonia
+237> input:2178 -- index.th [82]
+237> 2137 : ENT_205014@UltimaPatagonia
+238> input:2179 -- index.th [83]
+238> 2138 : ENT_205015@UltimaPatagonia
+239> input:2180 -- index.th [84]
+239> 2139 : ENT_205016@UltimaPatagonia
+240> input:2181 -- index.th [85]
+240> 2140 : ENT_205017@UltimaPatagonia
+241> input:2182 -- index.th [86]
+241> 2141 : ENT_205018@UltimaPatagonia
+242> input:2183 -- index.th [87]
+242> 2142 : ENT_205019@UltimaPatagonia
+243> input:2184 -- index.th [88]
+243> 2143 : ENT_205020@UltimaPatagonia
+244> input:2185 -- index.th [89]
+244> 2144 : ENT_205021@UltimaPatagonia
+245> input:2186 -- index.th [90]
+245> 2145 : ENT_205022@UltimaPatagonia
+246> input:2187 -- index.th [91]
+246> 2146 : ENT_205023@UltimaPatagonia
+247> input:2188 -- index.th [92]
+247> 2147 : ENT_205024@UltimaPatagonia
+248> input:2189 -- index.th [93]
+248> 2148 : ENT_205025@UltimaPatagonia
+249> input:2190 -- index.th [94]
+249> 2149 : ENT_205026@UltimaPatagonia
+250> input:2191 -- index.th [95]
+250> 2150 : ENT_205027@UltimaPatagonia
+251> input:2192 -- index.th [96]
+251> 2151 : ENT_205028@UltimaPatagonia
+252> input:2193 -- index.th [97]
+252> 2152 : ENT_205029@UltimaPatagonia
+253> input:2194 -- index.th [98]
+253> 2153 : ENT_205030@UltimaPatagonia
+254> input:2195 -- index.th [99]
+254> 2154 : ENT_205031@UltimaPatagonia
+255> input:2196 -- index.th [100]
+255> 2155 : ENT_205032@UltimaPatagonia
+256> input:2197 -- index.th [101]
+256> 2156 : ENT_205033@UltimaPatagonia
+257> input:2198 -- index.th [102]
+257> 2157 : ENT_205034@UltimaPatagonia
+258> input:2199 -- index.th [103]
+258> 2158 : ENT_205035@UltimaPatagonia
+259> input:2200 -- index.th [104]
+259> 2159 : ENT_205036@UltimaPatagonia
+260> input:2201 -- index.th [105]
+260> 2160 : ENT_205037@UltimaPatagonia
+261> input:2202 -- index.th [106]
+261> 2161 : ENT_206001@UltimaPatagonia
+262> input:2203 -- index.th [107]
+262> 2162 : ENT_206002@UltimaPatagonia
+263> input:2204 -- index.th [110]
+263> 2163 : ENT_105001@UltimaPatagonia
+264> input:2205 -- index.th [111]
+264> 2164 : ENT_105002@UltimaPatagonia
+265> input:2206 -- index.th [114]
+265> 2165 : ENT_104001@UltimaPatagonia
+266> input:2207 -- index.th [115]
+266> 2166 : ENT_104002@UltimaPatagonia
+267> input:2208 -- index.th [117]
+267> 2167 : ENT_212001@UltimaPatagonia
+268> input:2209 -- index.th [118]
+268> 2168 : ENT_212002@UltimaPatagonia
+269> input:2210 -- index.th [119]
+269> 2169 : ENT_212003@UltimaPatagonia
+270> input:2211 -- index.th [120]
+270> 2170 : ENT_212004@UltimaPatagonia
+271> input:2212 -- index.th [121]
+271> 2171 : ENT_212005@UltimaPatagonia
+272> input:2213 -- index.th [122]
+272> 2172 : ENT_212006@UltimaPatagonia
+273> input:2214 -- index.th [123]
+273> 2173 : ENT_204001@UltimaPatagonia
+274> input:2215 -- index.th [124]
+274> 2174 : ENT_204002@UltimaPatagonia
+275> input:2216 -- index.th [125]
+275> 2175 : ENT_204003@UltimaPatagonia
+276> input:2217 -- index.th [126]
+276> 2176 : ENT_204004@UltimaPatagonia
+277> input:2218 -- index.th [127]
+277> 2177 : ENT_204005@UltimaPatagonia
+278> input:2219 -- index.th [128]
+278> 2178 : ENT_204006@UltimaPatagonia
+279> input:2220 -- index.th [129]
+279> 2179 : ENT_204007@UltimaPatagonia
+280> input:2221 -- index.th [130]
+280> 2180 : ENT_204008@UltimaPatagonia
+281> input:2222 -- index.th [131]
+281> 2181 : ENT_204009@UltimaPatagonia
+282> input:2223 -- index.th [132]
+282> 2182 : ENT_203001@UltimaPatagonia
+283> input:2224 -- index.th [133]
+283> 2183 : ENT_203002@UltimaPatagonia
+284> input:2225 -- index.th [134]
+284> 2184 : ENT_203003@UltimaPatagonia
+285> input:2226 -- index.th [135]
+285> 2185 : ENT_203004@UltimaPatagonia
+286> input:2227 -- index.th [136]
+286> 2186 : ENT_203005@UltimaPatagonia
+287> input:2228 -- index.th [137]
+287> 2187 : ENT_203006@UltimaPatagonia
+288> input:2229 -- index.th [138]
+288> 2188 : ENT_203007@UltimaPatagonia
+289> input:2230 -- index.th [139]
+289> 2189 : ENT_203008@UltimaPatagonia
+290> input:2231 -- index.th [140]
+290> 2190 : ENT_203009@UltimaPatagonia
+291> input:2232 -- index.th [141]
+291> 2191 : ENT_203010@UltimaPatagonia
+292> input:2233 -- index.th [142]
+292> 2192 : ENT_203011@UltimaPatagonia
+293> input:2234 -- index.th [143]
+293> 2193 : ENT_203012@UltimaPatagonia
+294> input:2235 -- index.th [144]
+294> 2194 : ENT_304001@UltimaPatagonia
+295> input:2236 -- index.th [145]
+295> 2195 : ENT_304002@UltimaPatagonia
+296> input:2237 -- index.th [146]
+296> 2196 : ENT_304003@UltimaPatagonia
+297> input:2238 -- index.th [147]
+297> 2197 : ENT_304004@UltimaPatagonia
+298> input:2239 -- index.th [148]
+298> 2198 : ENT_304005@UltimaPatagonia
+299> input:2240 -- index.th [149]
+299> 2199 : ENT_304006@UltimaPatagonia
+300> input:2241 -- index.th [150]
+300> 2200 : ENT_304007@UltimaPatagonia
+301> input:2242 -- index.th [151]
+301> 2201 : ENT_304008@UltimaPatagonia
+302> input:2243 -- index.th [152]
+302> 2202 : ENT_304009@UltimaPatagonia
+303> input:2244 -- index.th [153]
+303> 2203 : ENT_304010@UltimaPatagonia
+304> input:2245 -- index.th [154]
+304> 2204 : ENT_304011@UltimaPatagonia
+305> input:2246 -- index.th [155]
+305> 2205 : ENT_304012@UltimaPatagonia
+306> input:2247 -- index.th [156]
+306> 2206 : ENT_304013@UltimaPatagonia
+307> input:2248 -- index.th [157]
+307> 2207 : ENT_304014@UltimaPatagonia
+308> input:2249 -- index.th [158]
+308> 2208 : ENT_304015@UltimaPatagonia
+309> input:2250 -- index.th [159]
+309> 2209 : ENT_304016@UltimaPatagonia
+310> input:2251 -- index.th [160]
+310> 2210 : ENT_304017@UltimaPatagonia
+311> input:2252 -- index.th [161]
+311> 2211 : ENT_304018@UltimaPatagonia
+312> input:2253 -- index.th [162]
+312> 2212 : ENT_304019@UltimaPatagonia
+313> input:2254 -- index.th [163]
+313> 2213 : ENT_304020@UltimaPatagonia
+314> input:2255 -- index.th [164]
+314> 2214 : ENT_304021@UltimaPatagonia
+315> input:2256 -- index.th [165]
+315> 2215 : ENT_304022@UltimaPatagonia
+316> input:2257 -- index.th [166]
+316> 2216 : ENT_304023@UltimaPatagonia
+317> input:2258 -- index.th [167]
+317> 2217 : ENT_304024@UltimaPatagonia
+318> input:2259 -- index.th [168]
+318> 2218 : ENT_304025@UltimaPatagonia
+319> input:2260 -- index.th [169]
+319> 2219 : ENT_304026@UltimaPatagonia
+320> input:2261 -- index.th [170]
+320> 2220 : ENT_304027@UltimaPatagonia
+321> input:2262 -- index.th [171]
+321> 2221 : ENT_304028@UltimaPatagonia
+322> input:2263 -- index.th [172]
+322> 2222 : ENT_304029@UltimaPatagonia
+323> input:2264 -- index.th [173]
+323> 2223 : ENT_304030@UltimaPatagonia
+324> input:2265 -- index.th [174]
+324> 2224 : ENT_304031@UltimaPatagonia
+325> input:2266 -- index.th [175]
+325> 2225 : ENT_304032@UltimaPatagonia
+326> input:2267 -- index.th [176]
+326> 2226 : ENT_304033@UltimaPatagonia
+327> input:2268 -- index.th [177]
+327> 2227 : ENT_304034@UltimaPatagonia
+328> input:2269 -- index.th [178]
+328> 2228 : ENT_304035@UltimaPatagonia
+329> input:2270 -- index.th [179]
+329> 2229 : ENT_304036@UltimaPatagonia
+330> input:2271 -- index.th [180]
+330> 2230 : ENT_304037@UltimaPatagonia
+331> input:2272 -- index.th [181]
+331> 2231 : ENT_304038@UltimaPatagonia
+332> input:2273 -- index.th [182]
+332> 2232 : ENT_304039@UltimaPatagonia
+333> input:2274 -- index.th [183]
+333> 2233 : ENT_304040@UltimaPatagonia
+334> input:2275 -- index.th [184]
+334> 2234 : ENT_304041@UltimaPatagonia
+335> input:2276 -- index.th [185]
+335> 2235 : ENT_304042@UltimaPatagonia
+336> input:2277 -- index.th [186]
+336> 2236 : ENT_304043@UltimaPatagonia
+337> input:2278 -- index.th [187]
+337> 2237 : ENT_304044@UltimaPatagonia
+338> input:2279 -- index.th [188]
+338> 2238 : ENT_304045@UltimaPatagonia
+339> input:2280 -- index.th [189]
+339> 2239 : ENT_304046@UltimaPatagonia
+340> input:2281 -- index.th [190]
+340> 2240 : ENT_304047@UltimaPatagonia
+341> input:2282 -- index.th [191]
+341> 2241 : ENT_304048@UltimaPatagonia
+342> input:2283 -- index.th [192]
+342> 2242 : ENT_304049@UltimaPatagonia
+343> input:2284 -- index.th [193]
+343> 2243 : ENT_304050@UltimaPatagonia
+344> input:2285 -- index.th [194]
+344> 2244 : ENT_304051@UltimaPatagonia
+345> input:2286 -- index.th [195]
+345> 2245 : ENT_304052@UltimaPatagonia
+346> input:2287 -- index.th [196]
+346> 2246 : ENT_304053@UltimaPatagonia
+347> input:2288 -- index.th [197]
+347> 2247 : ENT_304054@UltimaPatagonia
+348> input:2289 -- index.th [198]
+348> 2248 : ENT_304055@UltimaPatagonia
+349> input:2290 -- index.th [199]
+349> 2249 : ENT_304056@UltimaPatagonia
+350> input:2291 -- index.th [200]
+350> 2250 : ENT_304057@UltimaPatagonia
+351> input:2292 -- index.th [201]
+351> 2251 : ENT_303001@UltimaPatagonia
+352> input:2293 -- index.th [202]
+352> 2252 : ENT_303002@UltimaPatagonia
+353> input:2294 -- index.th [203]
+353> 2253 : ENT_303003@UltimaPatagonia
+354> input:2295 -- index.th [204]
+354> 2254 : ENT_303004@UltimaPatagonia
+355> input:2296 -- index.th [205]
+355> 2255 : ENT_303005@UltimaPatagonia
+356> input:2297 -- index.th [206]
+356> 2256 : ENT_303006@UltimaPatagonia
+357> input:2298 -- index.th [207]
+357> 2257 : ENT_303007@UltimaPatagonia
+358> input:2299 -- index.th [208]
+358> 2258 : ENT_303008@UltimaPatagonia
+359> input:2300 -- index.th [209]
+359> 2259 : ENT_303009@UltimaPatagonia
+360> input:2301 -- index.th [210]
+360> 2260 : ENT_303010@UltimaPatagonia
+361> input:2302 -- index.th [211]
+361> 2261 : ENT_303011@UltimaPatagonia
+362> input:2303 -- index.th [212]
+362> 2262 : ENT_303012@UltimaPatagonia
+363> input:2304 -- index.th [213]
+363> 2263 : ENT_303013@UltimaPatagonia
+365> 2263 : ENT_303013@UltimaPatagonia -- 1902 : 8@Ayayebo.201.UltimaPatagonia
+366> 30 : 30@a.HaciendasSalinas.106.UltimaPatagonia
+367> 391 : 0@GouffreChameau.107.UltimaPatagonia
+371> 1332 : 33@OjoDeLaMadre.108.UltimaPatagonia -- 1768 : 0@PetiteChinoise.109.UltimaPatagonia
+372> 173 : 1@a.CuevaDelZorro.106.UltimaPatagonia -- 2036 : 10@LosGringos.209.UltimaPatagonia
+373> 116 : 124@c.HaciendasSalinas.106.UltimaPatagonia -- 2026 : 0@LosGringos.209.UltimaPatagonia
+374> 361 : 24@ResurgenceHongo.107.UltimaPatagonia
+375> 203 : 5@b.CuevaDelZorro.106.UltimaPatagonia
+376> 1530 : 209@TroisEntrees.109.UltimaPatagonia
+377> 147 : 204@e.HaciendasSalinas.106.UltimaPatagonia
+378> 15 : 15@a.HaciendasSalinas.106.UltimaPatagonia
+379> 4 : 4@a.HaciendasSalinas.106.UltimaPatagonia
+380> 1 : 2@a.HaciendasSalinas.106.UltimaPatagonia
+381> 2 : 1@a.HaciendasSalinas.106.UltimaPatagonia
+382> 361 : 24@ResurgenceHongo.107.UltimaPatagonia
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+writing ../outputs/index.3d ... done
+writing ../outputs/index.kml ... done
+writing ../outputs/ultima-patagonia ... 
+processing projection plan ... done
+average distortion: 1.75%
+.
+therion: warning -- muddyhollows-p@HaciendasSalinas.106.UltimaPatagonia -- invalid scrap outline
+....
+therion: warning -- whiterhino-p@HaciendasSalinas.106.UltimaPatagonia -- multiple scrap outer outlines not supported yet
+...done
+writing ../outputs/ultima-patagonia.sql ... done
+writing table.html ... done
+compilation time: 2 sec
+
+
+######################### loop errors ##########################
+REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
+ 22.70%   13.8m   60.9m   7    5.0m   12.9m    0.1m [7002@TroisEntrees.109.UltimaPatagonia - 4019 - 4018 - 4017 - 4020 - 4021 - 4021a - 7002]
+ 17.09%    4.3m   25.4m   2   -1.0m   -3.4m    2.5m [E12@TroisEntrees.109.UltimaPatagonia - J1 - E12]
+ 17.06%    3.9m   23.1m   3    0.1m   -0.0m    3.9m [1003@PuntaBlanca.107.UltimaPatagonia - 1001 - 1002 - 1003]
+ 12.46%    4.8m   38.9m   5   -0.3m   -1.3m    4.7m [1004@PuntaBlanca.107.UltimaPatagonia - 1030 - 1031 - 1032 - 1013 - 1004]
+ 11.20%   25.2m  224.6m  30   24.3m   -6.5m    0.7m [A10@TroisEntrees.109.UltimaPatagonia - A10b - A10c - 2000 - 2001 - 2002 - 2004 - 2005 - 2006 - 2007 - 2008 - 2009 - 2010 - 2011 - 2012 - 2013 - 2014 - 309 - 310 - 311 - 312 - 313 - 314 - 315 - S0 - S1 - S2 - S3 - S4 - A11 - A10]
+ 10.08%    9.5m   94.1m   8    7.2m    6.1m    0.1m [4016@TroisEntrees.109.UltimaPatagonia - 4022 - 7000 - 7001 - 7002 - 4019 - 4018 - 4017 - 4016]
+  9.91%    4.7m   47.7m   7    0.1m    0.6m    4.7m [95@PuntaBlanca.107.UltimaPatagonia - 1039 - 1038 - 1037 - 1036 - 1003 - 1001 - 95]
+  8.67%    4.8m   55.7m   5   -3.9m   -2.5m    1.3m [1015@PuntaBlanca.107.UltimaPatagonia - 1016 - 1017 - 1009 - 1014 - 1015]
+  7.86%    7.0m   88.5m  10    4.1m    5.2m    2.3m [1013@PuntaBlanca.107.UltimaPatagonia - 1012 - 1011 - 1010 - 1009 - 1008 - 1007 - 1006 - 1005 - 1004 - 1013]
+  6.15%    1.9m   31.5m   2   -1.8m   -0.8m   -0.0m [1014@PuntaBlanca.107.UltimaPatagonia - 2000 - 1014]
+  6.06%    4.1m   67.7m  11   -2.3m   -3.4m   -0.5m [181@TroisEntrees.109.UltimaPatagonia - 180 - 179 - 177 - 176 - 175 - 174 - 173 - 172 - 189 - 190 - 181]
+  5.44%    6.3m  115.8m  17    0.3m   -3.0m    5.5m [1047@PuntaBlanca.107.UltimaPatagonia - 1055 - 1054 - 1053 - 1072 - 1071 - 1070 - 1023 - 1022 - 1021 - 1026 - 1027 - 1028 - 1029 - 1073 - 2004 - 2005 - 1047]
+  4.57%    2.0m   42.8m   3   -0.0m   -1.5m    1.3m [1010@PuntaBlanca.107.UltimaPatagonia - 1014 - 1009 - 1010]
+  4.34%    3.5m   80.3m   7   -1.7m   -2.9m   -0.9m [2000@PuntaBlanca.107.UltimaPatagonia - 2001 - 2002 - 2003 - 2004 - 1073 - 1029 - 2000]
+  4.16%    1.8m   42.0m   7    1.3m    1.2m    0.2m [56@PuntaBlanca.107.UltimaPatagonia - 66 - 65 - 64 - 63 - 62 - 61 - 56]
+  3.22%    3.8m  119.2m  13   -3.0m   -2.0m   -1.3m [1028@PuntaBlanca.107.UltimaPatagonia - 1040 - 1041 - 1042 - 1043 - 1044 - 1045 - 1046 - 1047 - 2005 - 2004 - 1073 - 1029 - 1028]
+  3.08%    1.3m   43.2m   7    1.0m   -0.8m   -0.2m [4012@PuntaBlanca.107.UltimaPatagonia - 4018 - 4017 - 4016 - 4015 - 4014 - 4013 - 4012]
+  2.53%    1.6m   64.3m  10   -0.5m    0.6m    1.4m [172@TroisEntrees.109.UltimaPatagonia - 189 - 190 - 181 - 181B - 181C - 184 - 185 - 186 - 187 - 172]
+  2.45%    6.7m  272.5m  35    5.3m   -1.8m    3.5m [2011@PuntaBlanca.107.UltimaPatagonia - 2012 - 2013 - 2014 - 2015 - 2016 - 2017 - 2018 - 2024 - 7015 - 7014 - 7013 - 7012 - 7011 - 7010 - 1074 - 1068 - 1067 - 1066 - 1065 - 1064 - 1063 - 1062 - 1061 - 1060 - 1059 - 1058 - 7037 - 7036 - 7030 - 7029 - 7028 - 7027 - 7026 - 2010 - 2011]
+  2.37%    1.6m   66.9m  12    0.5m    1.5m   -0.2m [J26@TroisEntrees.109.UltimaPatagonia - A0 - A1 - B1 - B2 - B3 - B4 - J21 - J22 - J23 - J24 - J25 - J26]
+  2.26%    9.6m  426.7m  41    5.2m   -4.6m    6.7m [21@e.HaciendasSalinas.106.UltimaPatagonia - 200 - 201 - 202 - 206 - 207 - 208 - 209 - 210 - 211 - 214 - 215 - 163 = 163@d.HaciendasSalinas.106.UltimaPatagonia - 162 - 161 - 160 - 159 - 158 - 157 - 55 = 55@b.HaciendasSalinas.106.UltimaPatagonia - 54 - 53 - 52 - 51 - 50 - 1 = 1@a.HaciendasSalinas.106.UltimaPatagonia - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 19 - 20 - 21 = 21@e.HaciendasSalinas.106.UltimaPatagonia]
+  2.25%    4.1m  183.1m  25    1.9m    3.4m    1.5m [1023@PuntaBlanca.107.UltimaPatagonia - 1024 - 1056 - 1057 - 1058 - 7037 - 7036 - 7030 - 7029 - 7028 - 7027 - 7026 - 2010 - 2009 - 2008 - 2007 - 2006 - 2005 - 1047 - 1055 - 1054 - 1053 - 1072 - 1071 - 1070 - 1023]
+  2.22%    1.0m   44.7m   8    0.4m   -0.0m   -0.9m [17@c.HaciendasSalinas.106.UltimaPatagonia - 127 - 117 - 112 - 110 - 109 - 108 - 107 - 17]
+  1.61%    2.0m  124.8m  18    0.0m   -1.1m   -1.7m [J17@TroisEntrees.109.UltimaPatagonia - 171 - 172 - 187 - 186 - 185 - 184 - 183 - 182 - J26 - J25 - J24 - J23 - J22 - J21 - J20 - J19 - J18 - J17]
+  1.15%    0.8m   68.4m   6    0.1m   -0.3m   -0.7m [2010@PuntaBlanca.107.UltimaPatagonia - 7035 - 7034 - 7033 - 7032 - 2011 - 2010]
+  1.07%    0.9m   84.3m  11   -0.1m    0.8m   -0.4m [1029@PuntaBlanca.107.UltimaPatagonia - 1028 - 1027 - 1026 - 1021 - 1020 - 1019 - 1018 - 1015 - 1014 - 2000 - 1029]
+  0.94%    2.1m  223.3m  31   -0.5m   -0.4m    2.0m [4005@PuntaBlanca.107.UltimaPatagonia - 4006 - 4007 - 4008 - 4009 - 4010 - 4011 - 4012 - 4018 - 4019 - 4020 - 4021 - 4022 - 4023 - 43 - 55 - 56 - 66 - 65 - 67 - 68 - 69 - 70 - 71 - 73 - 74 - 4000 - 4001 - 4002 - 4003 - 4004 - 4005]
+  0.00%    0.0m    9.2m   2    0.0m    0.0m    0.0m [23@Lagrimas.108.UltimaPatagonia - 24 - 23]
+##################### end of loop errors #######################
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   9.88%   39.75%  entrance-p@HaciendasSalinas.106.UltimaPatagonia
+   0.03%   35.74%  whiterhino-p@HaciendasSalinas.106.UltimaPatagonia
+   0.04%    3.02%  sumpofdoom-p@HaciendasSalinas.106.UltimaPatagonia
+   0.04%    0.86%  stalchamber-p@HaciendasSalinas.106.UltimaPatagonia
+   0.02%    0.38%  muddyhollows-p@HaciendasSalinas.106.UltimaPatagonia
+   0.02%    0.31%  waterworld-p@HaciendasSalinas.106.UltimaPatagonia
+   0.00%    0.00%  DELETE-ME-survey-legs-DUPLICATE_haciendas_salinas-p@HaciendasSalinas.106.UltimaPatagonia
+   0.00%    0.00%  DUPLICATE_haciendas_salinas-1p@HaciendasSalinas.106.UltimaPatagonia
+################### end of scrap distortions ###################

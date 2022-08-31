@@ -1,0 +1,104 @@
+
+survey Topo_ExsurgChinoise -title Topo_ExsurgChinoise -entrance A20
+
+
+    centreline
+    
+    
+    	units length meters
+    	units compass clino degrees
+    	data diving to todepth from fromdepth tape compass
+    	1	-63.00	0	-63.00	25.00	180.00
+			2	-56.00	1	-63.00	11.00	170.00
+			3	-54.00	2	-56.00	20.00	180.00
+			4	-48.00	3	-54.00	18.00	130.00
+			5	-35.00	4	-48.00	13.00	150.00
+			6	-35.00	5	-35.00	2.50	150.00
+			A1	-30.00	6	-35.00	10.50	180.00
+		
+    	data dimensions station left right up down
+    	1	2.80	2.50	6.50	0.30
+			2	12.00	8.00	15.00	1.50
+			3	9.00	6.00	15.00	0.50
+			4	6.00	6.00	9.00	2.00
+			5	6.00	5.00	4.00	5.00
+			6	6.00	5.00	5.00	4.00
+			A1	0.00	5.00	6.50	1.00
+		
+    endcentreline
+
+
+    centreline
+    
+    
+    	units length meters
+    	units compass clino degrees
+    	data diving to todepth from fromdepth tape compass
+    #	A2	-24.40	A1	not known	13.50	150.00
+			A3	-22.00	A2	-24.40	8.00	130.00
+			A4	-20.00	A3	-22.00	4.00	120.00
+			A5	-13.00	A4	-20.00	18.00	160.00
+			A6	-10.00	A5	-13.00	14.00	150.00
+			A7	-9.00	A6	-10.00	15.00	160.00
+			A8	-6.00	A7	-9.00	14.00	160.00
+			A9	-5.60	A8	-6.00	2.00	180.00
+			A10	-2.60	A9	-5.60	11.00	150.00
+			A11	-2.40	A10	-2.60	4.00	150.00
+		
+    	data dimensions station left right up down
+    	A2	1.00	4.00	7.00	0.50
+			A3	0.50	4.00	7.00	0.50
+			A4	0.00	4.00	8.00	0.50
+			A5	0.50	4.00	8.00	0.50
+			A6	0.00	4.50	8.00	0.50
+			A7	0.00	4.50	8.00	0.50
+			A8	0.00	4.50	8.00	0.50
+			A9	0.00	4.50	8.00	0.50
+			A10	0.00	4.50	8.00	0.50
+			A11	0.00	4.50	8.00	0.50
+		
+    endcentreline
+
+
+    centreline
+    
+    
+    	units length meters
+    	units compass clino degrees
+    	data diving to todepth from fromdepth tape compass
+    #	A12	0.10	A11	not known	8.00	140.00
+			A13	0.50	A12	0.10	10.50	170.00
+			A14	0.20	A13	0.50	18.50	175.00
+			A15	0.20	A14	0.20	29.00	180.00
+			A16	0.00	A15	0.20	4.00	200.00
+			A17	0.00	A16	0.00	11.00	180.00
+		
+    	data dimensions station left right up down
+    	A12	0.00	4.00	8.00	1.00
+			A13	0.00	4.00	8.00	1.00
+			A14	0.00	4.00	8.00	1.00
+			A15	0.00	4.00	8.00	1.50
+			A16	0.50	4.00	8.00	1.50
+			A17	3.00	2.00	8.00	2.00
+		
+    endcentreline
+
+
+    centreline
+    
+    
+    	units length meters
+    	units compass clino degrees
+    	data diving to todepth from fromdepth tape compass
+    #	A18	-3.70	A17	not known	12.50	180.00
+			A19	-3.30	A18	-3.70	15.00	200.00
+			A20	0.00	A19	-3.30	6.00	150.00
+		
+    	data dimensions station left right up down
+    	A18	2.00	2.00	4.00	-
+			A19	1.00	3.00	2.00	-
+			A20	0.00	2.00	2.00	-
+		
+    endcentreline
+
+endsurvey

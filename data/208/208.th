@@ -1,0 +1,14 @@
+survey 208 -title "208 Lobos"
+
+  input Cueva10H10/Cueva10H10.th
+  centreline
+
+  fix ENT_208001	468779	4427269	80.0	## Cueva 10H10
+  station ENT_208001 "Cueva1OH1O"
+  equate ENT_208001 9@Cueva10H10
+  fix ENT_208002	468617	4427344	40.0	## R??surgence 9 plage de la Baleine
+  fix ENT_208003	468950	4428050	20.0	## Grotte 20 plage de la Baleine
+  fix ENT_208004	470687	4426335	559.0	## Aven
+  fix ENT_208005	470676	4426340	561.0	## Aven
+  endcentreline
+endsurvey

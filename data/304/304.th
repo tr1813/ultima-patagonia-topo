@@ -1,0 +1,62 @@
+survey 304 -title "304 Pelantaro"
+
+  centreline
+  fix ENT_304001	493130	4308331	399.0	## Perte de la Sucrière
+  fix ENT_304002	493244	4309199	315.0	## oeil du Diable (ex perte majeure)
+  fix ENT_304003	493001	4308652	330.0	## Perte de la Sucrière inférieure
+  fix ENT_304004	493722	4308518	482.0	## Perte Col 1
+  fix ENT_304005	493342	4308357	484.0	## TC1
+  fix ENT_304006	493337	4308329	488.0	## TC2
+  fix ENT_304007	492238	4307919	544.0	## TC3
+  fix ENT_304008	493149	4307944	533.0	## TC4
+  fix ENT_304009	493139	4307904	533.0	## TC5
+  fix ENT_304010	493149	4307879	522.0	## TC6
+  fix ENT_304011	492835	4307760	386.0	## Gouffre Pacifico
+  fix ENT_304012	492741	4307760	372.0	## Pas de nom
+  fix ENT_304013	492538	4307322	344.0	## Pas de nom
+  fix ENT_304014	492549	4307305	0	## Pas de nom
+  fix ENT_304015	493740	4308750	0	## Perte du col 1
+  fix ENT_304016	493735	4308575	0	## Perte du col 2
+  fix ENT_304017	493488	4308749	0	## Igue du Midi
+  fix ENT_304018	493487	4308761	0	## Igue Enviluc
+  fix ENT_304019	493354	4308416	0	## Cueva de la Manana
+  fix ENT_304020	493378	4308649	0	## Trou du Cairn
+  fix ENT_304021	493345	4308371	483.0	## Gouffre des Trois Arches
+  fix ENT_304022	492718	4307932	358.0	## Gouffre "2 spits pour Rien"
+  fix ENT_304023	494209	4303537	438.0	## Gouffre No Futur
+  fix ENT_304024	494247	4303396	412.0	## Gouffre Retour vers le Futur
+  fix ENT_304025	492630	4307395	325.0	## Arc 13
+  fix ENT_304026	492811	4307523	387.0	## Arc 12
+  fix ENT_304027	492811	4307523	387.0	## Arc 12bis
+  fix ENT_304028	492744	4307438	368.0	## Arc 3
+  fix ENT_304029	492791	4307449	380.0	## Arc 4
+  fix ENT_304030	493519	4304030	545.0	## Gouffre Futur 1
+  fix ENT_304031	493402	4304216	562.0	## Gouffre Futur 2
+  fix ENT_304032	493524	4304050	554.0	## Gouffre N1 Sommet 3
+  fix ENT_304033	493405	4304223	557.0	## Pas de nom
+  fix ENT_304034	493434	4304074	54.0	## Gouffre n3 sommet 3
+  fix ENT_304035	492079	4310722	0	## Machu-Pichu
+  fix ENT_304036	492861	4307876	399.0	## Gouffre "Un cul de plus _ explorer"
+  fix ENT_304037	494155	4303338	407.0	## Gouffre pr??s du camp du Futur
+  fix ENT_304038	492564	4307349	347.0	## Arc 14
+  fix ENT_304039	491290	4307597	230.0	## Cueva del Condor
+  fix ENT_304040	490540	4306695	106.0	## Sumidero Escondido
+  fix ENT_304041	492249	4307720	65.0	## Surgencia Estrella
+  fix ENT_304042	492261	4307711	95.0	## Cueva Estrella
+  fix ENT_304043	490540	4306695	106.0	## Perte perdue
+  fix ENT_304044	490470	4306552	101.0	## Gouffre "Explor??vitefait"
+  fix ENT_304045	491049	4307630	250.0	## Puits 1 Jean-Phi
+  fix ENT_304046	491165	4307597	0	## Pozo Dyke (System de los Tubas)
+  fix ENT_304047	492098	4306813	276.0	## Arc 1
+  fix ENT_304048	492226	4306784	260.0	## Arc 11
+  fix ENT_304049	492134	4306635	258.0	## Arc 111
+  fix ENT_304050	491671	4306206	299.0	## Arc 113
+  fix ENT_304051	491307	4306156	259.0	## Arc 114
+  fix ENT_304052	491808	4306374	291.0	## Arc 112 ; Les myst??res de l'ouest
+  fix ENT_304053	493210	4307750	456.0	## Gouffre du Robinet
+  fix ENT_304054	492409	4307605	212.0	## Arc 20 ou gouffre du Soleil
+  fix ENT_304055	492487	4307678	229.0	## Arc 19
+  fix ENT_304056	492484	4307639	224.0	## Arc 18
+  fix ENT_304057	492637	4307761	300.0	## Arc 17
+  endcentreline
+endsurvey

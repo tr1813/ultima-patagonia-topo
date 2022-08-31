@@ -1,0 +1,47 @@
+therion 5.5.0+e2caa7d (2020-05-01)
+initialization file: /usr/local/etc/therion.ini
+reading ... done
+checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
+checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
+configuration file: template.thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.36
+ 2> Copyright © 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I’ve fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 106 survey stations, joined by 105 legs.
+ 6> There are 0 loops.
+ 7> Total length of survey legs =  701.63m ( 701.63m adjusted)
+ 8> Total plan length of survey legs =  607.72m
+ 9> Total vertical length of survey legs =  242.96m
+10> Vertical range = 185.25m (from 2 at 0.00m to 97 at -185.25m)
+11> North-South range = 378.11m (from 91 at 378.11m to 1 at 0.00m)
+12> East-West range = 318.01m (from 1 at 0.00m to 91 at -318.01m)
+13>    6 1-nodes.
+14>   96 2-nodes.
+15>    4 3-nodes.
+16> 
+######################### transcription ########################
+ 3> 1 : 0@Jackpot
+ 5> 106 : 15B@Jackpot -- 105 : 14B@Jackpot
+10> 2 : 1@Jackpot -- 97 : 6B@Jackpot
+11> 91 : JP@Jackpot -- 1 : 0@Jackpot
+12> 1 : 0@Jackpot -- 91 : JP@Jackpot
+13> 6 : 5@Jackpot
+14> 96 : 5B@Jackpot
+15> 4 : 3@Jackpot
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+writing jackpot.3d ... done
+compilation time: 1 sec
