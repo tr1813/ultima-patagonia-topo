@@ -1,0 +1,116 @@
+survey 211 -title "211 Quincas"
+
+  input AbrigoDelViento/AbrigoDelViento.th
+  input SumideroPiquante/SumideroPiquante.th
+  input GouffreAguilucho/GouffreAguilucho.th
+  input ExsurgencePicaflor/ExsurgencePicaflor.th
+  input PorcheDeLImpatience/PorcheDeLImpatience.th
+  input Gouffre36/Gouffre36.th
+  input GouffreDesMousquetaires/GouffreDesMousquetaires.th
+  input GouffreDeLArche/GouffreDeLArche.th
+  input GrotteMarion/GrotteMarion.th
+  input MeandreDesSables/MeandreDesSables.th
+  input AvenDeLaTraverse/AvenDeLaTraverse.th
+  input SimaDelCol/SimaDelCol.th
+  input MD-BDGS01/MD-BDGS01.th
+  input MD-BDGS02/MD-BDGS02.th
+  input MD-BDGS03/MD-BDGS03.th
+  input MD-BDGS04/MD-BDGS04.th
+  input MD-BDG05/MD-BDG05.th
+  input GrotteGrandeSoeur/GrotteGrandeSoeur.th
+
+  centreline
+  cs UTM18S
+
+  fix ENT_211001	469367	4421504	407.0
+  station ENT_211001 "AbrigoDelViento"
+  equate ENT_211001 10@AbrigoDelViento
+
+  fix ENT_211002	469510	4421914	191.0
+  station ENT_211002 "SumideroPiquante"
+  equate ENT_211002 E@SumideroPiquante
+
+  fix ENT_211003	470302	4421526	73.0
+  station ENT_211003 "Gouffre d'Aguilucho"
+  equate ENT_211003 4@GouffreAguilucho
+
+  fix ENT_211004	470298	4421336	10.0
+  station ENT_211004 "Exsurgence Picaflor"
+  equate ENT_211004 0@ExsurgencePicaflor
+
+  fix ENT_211005	470940	4420800	30.0
+  station ENT_211005 "PorcheDeLImpatience"
+  equate ENT_211005 0@PorcheDeLImpatience
+
+  fix ENT_211006	469700	4421477	348.0	## Sima del Col
+  fix ENT_211007	470451	4422187	192.0	## MD/BDGS01
+  fix ENT_211008	469167	4420570	461.0	## MD/BDGS02
+  fix ENT_211009	470593	4421961	71.0	## MD/BDGS03
+  fix ENT_211010	469430	4420543	536.0	## MD/BDGS04
+  fix ENT_211011	469163	4421761	310.0	## MD/BDG05
+  fix ENT_211012	468326	4422439	360.0	## Grotte Grande Soeur
+
+  fix ENT_211013	469283	4422857	392.0	## Gouffre 36
+  station ENT_211013 "Gouffre 36"
+  equate ENT_211013 ENT@Gouffre36
+
+  fix ENT_211014	469809	4422763	298.0
+  station ENT_211014 "Gouffre des Mousquetaires"
+  equate ENT_211014 5@GouffreDesMousquetaires
+
+  fix ENT_211015	469950	4422849	310.0
+  station ENT_211015 "Gouffre de l'Arche"
+  equate ENT_211015 5@GouffreDeLArche
+
+  fix ENT_211016	469828	4422922	332.0	## Gouffre _ la t??te d'Ours
+  fix ENT_211017	469300	4422855	322.0	## Aven
+  fix ENT_211018	469869	4422885	328.0	## Grotte de Lobos Secos
+
+  fix ENT_211019	468214	4423045	339.0	## Grotte Marion
+  station ENT_211019 "Grotte Marion"
+  equate ENT_211019 0@GrotteMarion
+
+  fix ENT_211020	469499	4422846	384.0
+  station ENT_211020 "Méandre des Sables"
+  equate ENT_211020 9@MeandreDesSables
+
+  fix ENT_211021	468835	4422513	364.0	## Grotte de la Conduite
+  fix ENT_211022	470151	4422766	352.0	## Cueva del Agua
+
+  fix ENT_211023	467933	4422916	353.0	## Aven de la Traverse
+  station ENT_211023 "AvenDeLaTraverse"
+  equate ENT_211023 0@AvenDeLaTraverse
+
+  fix ENT_211024	468873	4422340	354.0	## Grotte du Nomade
+  fix ENT_211025	469520	4422874	291.0	## Grotte Filostik ou Grotte au Squelette
+  fix ENT_211026	468705	4422852	364.0	## Porche de la Madre 2
+  fix ENT_211027	469418	4422796	294.0	## Aven
+  fix ENT_211028	469283	4422170	403.0	## Abri
+  fix ENT_211029	469741	4422253	432.0	## Aven
+  fix ENT_211030	468572	4422366	365.0	## Grand Aven Triple
+  fix ENT_211031	468805	4422367	374.0	## Perte Ensabl??e
+  fix ENT_211032	470582	4422455	581.0	## Cueva 1
+  fix ENT_211033	468379	4422465	357.0	## Porche
+  fix ENT_211034	470236	4422475	309.0	## AVEN ?
+  fix ENT_211035	468258	4422538	415.0	## Aven
+  fix ENT_211036	470178	4422545	303.0	## Lobos Matos
+  fix ENT_211037	470197	4422588	288.0	## aven
+  fix ENT_211038	468322	4422615	389.0	## Aven
+  fix ENT_211039	469821	4422749	298.0	## aven
+  fix ENT_211040	469656	4422828	287.0	## Aven
+  fix ENT_211041	469763	4422959	310.0	## Cueva 5
+  fix ENT_211042	469807	4423507	433.0	## Cueva 6
+  fix ENT_211043	468573	4422358	332.0	## Perte 1Lobos
+
+  fix ENT_211044	467782	4422983	330.0	## Perte des Lobos ?? lobos.tro?
+  station ENT_211044 "Perte des Lobos"
+  equate ENT_211044 PerteDesLobos
+
+  fix ENT_211045	468699	4422722	355.0	## El Culo de la Madre
+  fix ENT_211046	468496	4422512	331.0	## La Grotte
+  fix ENT_211047	468516	4422547	0	## Igue De Dob
+  fix ENT_211048	468366	4422459	0	## Grotte Petite Soeur
+  fix ENT_211049	467782	4422983	330.0	## Puits Octopus
+
+  endcentreline
+endsurvey

@@ -1,0 +1,29 @@
+
+survey Topo_Pissotière -title Topo_Pissotière -entrance 0
+
+
+    centreline
+    date 2020.02.12
+
+    
+    	units length meters
+    	units compass clino degrees
+    	data normal from to tape compass clino
+    	0	0	0.00	0.00	0.00
+			0	1	6.00	0.00	-90.00
+			1	2	11.00	303.00	-38.00
+			2	3	2.20	300.00	-40.00
+			3	4	9.17	294.00	-45.00
+			4	5	10.40	117.00	-16.00
+		
+    	data dimensions station left right up down
+    	0	-	-	-	-
+			1	-	-	-	-
+			2	-	-	-	-
+			3	-	-	-	-
+			4	-	-	-	-
+			5	-	-	-	-
+		
+    endcentreline
+
+endsurvey

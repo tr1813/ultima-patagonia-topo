@@ -1,0 +1,543 @@
+X	Y	Z	_ID	_UID	_NAME	_SURVEY	_SURFACE	_FIXED	_ENTRANCE	_CONTINUA_	_COMMENT
+490183	4452320	66	"44"	"269"	"44"	a.HaciendasSalinas.106.UltimaPatagonia	"0"	"0"	"1"	"0"	Haciendas Salinas
+490088	4452354	105	"173"	"283"	"1"	a.CuevaDelZorro.106.UltimaPatagonia	"0"	"0"	"1"	"0"	Cueva del Zorro
+490220	4452363	10	"254"	"263"	"32"	CuevaPirates.106.UltimaPatagonia	"0"	"0"	"1"	"0"	CuevaPirates
+490220	4452363	10	"263"	"263"	ENT_106001	106.UltimaPatagonia	"1"	"1"	"0"	"0"	CuevaPirates
+490289	4451286	35	"264"	"264"	ENT_106002	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+490289	4451286	3	"265"	"265"	ENT_106003	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+490541	4453870	20	"266"	"266"	ENT_106004	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+490289	4451286	70	"267"	"267"	ENT_106005	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+490604	4450548	0	"268"	"268"	ENT_106006	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+490183	4452320	66	"269"	"269"	ENT_106007	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+490080	4452381	96	"270"	"270"	ENT_106008	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+488815	4453011	186	"271"	"271"	ENT_106009	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+488956	4452962	189	"272"	"272"	ENT_106010	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+488956	4452962	201	"273"	"273"	ENT_106011	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+489317	4452812	224	"274"	"274"	ENT_106012	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+489234	4452876	213	"275"	"275"	ENT_106013	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+487636	4452795	226	"276"	"276"	ENT_106014	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+487474	4452740	218	"277"	"277"	ENT_106015	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+487506	4452738	220	"278"	"278"	ENT_106016	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+487836	4452871	225	"279"	"279"	ENT_106017	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+489278	4452871	216	"280"	"280"	ENT_106018	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+488833	4451227	325	"281"	"281"	ENT_106019	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+489409	4452098	187	"282"	"282"	ENT_106020	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+490088	4452354	105	"283"	"283"	ENT_106021	106.UltimaPatagonia	"1"	"1"	"0"	"0"	
+482804	4447950	369	"284"	"1281"	"0"	Jackpot.107.UltimaPatagonia	"0"	"0"	"1"	"0"	Jackpot
+478699.7	4446570.0	0	"391"	"1278"	"1"	ResurgenceHongo.107.UltimaPatagonia	"0"	"0"	"1"	"0"	RÃ©surgence Hongo
+479556	4447204	380	"457"	"1262"	"8"	GouffreChameau.107.UltimaPatagonia	"0"	"0"	"1"	"0"	Gouffre du Chameau
+476133	4447399	39	"459"	"1264"	"0"	CaboVertical.107.UltimaPatagonia	"0"	"0"	"1"	"0"	Cueva Cabo Vertical
+482357	4446971	50	"493"	"1267"	A5	DuchasDeSanPedro.107.UltimaPatagonia	"0"	"0"	"1"	"0"	Las duchas de San Pedro
+479879	4447862	347	"640"	"1272"	"0"	Casque.107.UltimaPatagonia	"0"	"0"	"1"	"0"	Gouffre Casque
+478831.61	4446350.67	50.28	"799"	"799"	"0"	PuntaBlanca.107.UltimaPatagonia	"0"	"0"	"1"	"0"	Cueva de la Punta Blanca
+478849.3	4446471.18	31.33	"1114"	"1114"	"0"	ChattiereQuiBuffle.107.UltimaPatagonia	"0"	"0"	"1"	"0"	ChattiÃ¨re qui buffle
+478634	4447073	0	"1164"	"1255"	"0"	BahiaBlanca.107.UltimaPatagonia	"0"	"0"	"1"	"0"	RÃ©surgence de la Bahia Blanca
+482764	4445438	25	"1212"	"1265"	"0"	CouleeBlanche.107.UltimaPatagonia	"0"	"0"	"1"	"0"	Porches de la coulÃ©e blanche
+479547	4447215	384	"1253"	"1275"	"5"	MadameCafe.107.UltimaPatagonia	"0"	"0"	"1"	"0"	Madame CafÃ©
+482449	4444663	40	"1254"	"1254"	ENT_107001	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+478634	4447073	0	"1255"	"1255"	ENT_107002	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+478906	4446437	0	"1256"	"1256"	ENT_107003	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+482761	4445427	0	"1257"	"1257"	ENT_107004	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+479065	4447905	436	"1258"	"1258"	ENT_107005	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+479490	4447336	361	"1259"	"1259"	ENT_107006	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+479389	4447402	311	"1260"	"1260"	ENT_107007	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+479490	4447336	0	"1261"	"1261"	ENT_107008	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+479556	4447204	380	"1262"	"1262"	ENT_107009	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+478796	4448311	420	"1263"	"1263"	ENT_107010	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+476133	4447399	39	"1264"	"1264"	ENT_107011	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+482764	4445438	25	"1265"	"1265"	ENT_107012	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+478876	4447299	106	"1266"	"1266"	ENT_107013	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+482357	4446971	50	"1267"	"1267"	ENT_107014	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+480135	4447658	411	"1268"	"1268"	ENT_107015	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+480211	4447632	429	"1269"	"1269"	ENT_107016	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+482762	4445436	0	"1270"	"1270"	ENT_107017	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+482762	4445436	0	"1271"	"1271"	ENT_107018	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+479879	4447862	347	"1272"	"1272"	ENT_107019	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+479373	4446955	387	"1273"	"1273"	ENT_107020	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+479569	4447160	387	"1274"	"1274"	ENT_107021	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+479547	4447215	384	"1275"	"1275"	ENT_107022	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+479795	4447413	405	"1276"	"1276"	ENT_107023	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+479591	4447357	383	"1277"	"1277"	ENT_107024	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+478699.7	4446570.0	0	"1278"	"1278"	ENT_107025	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+477817	4446753	60	"1279"	"1279"	ENT_107026	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+477795	4446685	60	"1280"	"1280"	ENT_107027	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+482804	4447950	369	"1281"	"1281"	ENT_107028	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+482664	4447782	362	"1282"	"1282"	ENT_107029	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+478605	4447058	0	"1283"	"1283"	ENT_107030	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+478574	4446622	50	"1284"	"1284"	ENT_107031	107.UltimaPatagonia	"1"	"1"	"0"	"0"	
+484150	4446766	406	"1318"	"1386"	"33"	OjoDeLaMadre.108.UltimaPatagonia	"0"	"0"	"1"	"0"	Ojo de la Madre
+484295	4447150	365	"1344"	"1387"	"25"	OmbligoDeLaMadre.108.UltimaPatagonia	"0"	"0"	"1"	"0"	Ombligo de la Madre
+484396	4447498	350	"1345"	"1398"	"0"	Lagrimas.108.UltimaPatagonia	"0"	"0"	"1"	"0"	Lagrimas de la Madre
+484150	4446766	406	"1386"	"1386"	ENT_108001	108.UltimaPatagonia	"1"	"1"	"0"	"0"	
+484295	4447150	365	"1387"	"1387"	ENT_108002	108.UltimaPatagonia	"1"	"1"	"0"	"0"	
+484486	4447573	0	"1388"	"1388"	ENT_108003	108.UltimaPatagonia	"1"	"1"	"0"	"0"	
+484396	4447498	294	"1389"	"1389"	ENT_108004	108.UltimaPatagonia	"1"	"1"	"0"	"0"	
+484535	4448170	198	"1390"	"1390"	ENT_108005	108.UltimaPatagonia	"1"	"1"	"0"	"0"	
+484595	4448213	180	"1391"	"1391"	ENT_108006	108.UltimaPatagonia	"1"	"1"	"0"	"0"	
+484633	4448258	191	"1392"	"1392"	ENT_108007	108.UltimaPatagonia	"1"	"1"	"0"	"0"	
+484956	4448483	220	"1393"	"1393"	ENT_108008	108.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485157	4448585	225	"1394"	"1394"	ENT_108009	108.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485495	4447616	317	"1395"	"1395"	ENT_108010	108.UltimaPatagonia	"1"	"1"	"0"	"0"	
+486016	4447774	290	"1396"	"1396"	ENT_108011	108.UltimaPatagonia	"1"	"1"	"0"	"0"	
+483835	4446220	417	"1397"	"1397"	ENT_108012	108.UltimaPatagonia	"1"	"1"	"0"	"0"	
+484396	4447498	350	"1398"	"1398"	ENT_108013	108.UltimaPatagonia	"1"	"1"	"0"	"0"	
+486742	4448369	15	"1399"	"1399"	ENT_108014	108.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485649	4444763	53	"1400"	"1943"	E12	TroisEntrees.109.UltimaPatagonia	"0"	"0"	"1"	"0"	Grotte des trois entrees plus une
+485602	4444774	60	"1781"	"1930"	"0"	QuatreEntreesPlusUne.109.UltimaPatagonia	"0"	"0"	"1"	"0"	Grotte des Quatre EntrÃ©es Plus Une
+485808	4445794	370	"1811"	"1932"	"0"	CuevaCaliza.109.UltimaPatagonia	"0"	"0"	"1"	"0"	Cueva Caliza
+485812	4445780	364	"1847"	"1936"	"0"	GouffreHalal.109.UltimaPatagonia	"0"	"0"	"1"	"0"	Gouffre HALAL
+485537	4445627	359	"1862"	"1937"	"0"	Gouffralail.109.UltimaPatagonia	"0"	"0"	"1"	"0"	Gouffre Ã  l'AiÌl
+485584	4445478	319	"1874"	"1939"	"0"	GrandeTraversee.109.UltimaPatagonia	"0"	"0"	"1"	"0"	La grande Traversee
+485438	4445269	300	"1884"	"1941"	"0"	Gauges.109.UltimaPatagonia	"0"	"0"	"1"	"0"	Gouffre des GaugÃ©s
+485816	4445878	360	"1896"	"1942"	"0"	Pissotiere.109.UltimaPatagonia	"0"	"0"	"1"	"0"	Gouffre de la PissotieÌre
+486340	4445620	0	"1928"	"1945"	A20	PetiteChinoise.109.UltimaPatagonia	"0"	"0"	"1"	"0"	Exsurgence de la Petite Chinoise
+485618	4444774	60	"1929"	"1929"	ENT_109001	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485602	4444774	60	"1930"	"1930"	ENT_109002	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485779	4445842	375	"1931"	"1931"	ENT_109003	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485808	4445794	370	"1932"	"1932"	ENT_109004	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485651	4445694	384	"1933"	"1933"	ENT_109005	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+486410	4445941	414	"1934"	"1934"	ENT_109006	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485737	4445148	278	"1935"	"1935"	ENT_109007	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485812	4445780	364	"1936"	"1936"	ENT_109008	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485537	4445627	359	"1937"	"1937"	ENT_109009	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485587	4445498	319	"1938"	"1938"	ENT_109010	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485584	4445478	319	"1939"	"1939"	ENT_109011	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+486478	4445928	388	"1940"	"1940"	ENT_109012	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485438	4445269	300	"1941"	"1941"	ENT_109013	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485816	4445878	360	"1942"	"1942"	ENT_109014	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485649	4444763	53	"1943"	"1943"	ENT_109015	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485795	4444848	36	"1944"	"1944"	ENT_109016	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+486340	4445620	0	"1945"	"1945"	ENT_109017	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+485880	4445791	0	"1946"	"1946"	ENT_109018	109.UltimaPatagonia	"1"	"1"	"0"	"0"	
+476493.46	4441828.9	336.91	"1955"	"1955"	"8"	Ayayemal.201.UltimaPatagonia	"0"	"0"	"1"	"0"	Ayayemal
+476217	4441660	314	"1956"	"2099"	"0"	Ayayebo.201.UltimaPatagonia	"0"	"0"	"1"	"0"	Ayayebo
+479866	4441309	356	"1970"	"2089"	"0"	GB01.201.UltimaPatagonia	"0"	"0"	"1"	"0"	GB01
+481244	4440093	29	"2008"	"2111"	"23"	Haricot.201.UltimaPatagonia	"0"	"0"	"1"	"0"	Escalade du haricot
+481166	4440010	6	"2037"	"2057"	R1BL_24	Resurgence1.201.UltimaPatagonia	"0"	"0"	"1"	"0"	Resurgence1
+478266	4438945	0	"2038"	"2038"	ENT_201001	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Resurgence 2 du Canyon
+473138	4437000	325	"2039"	"2039"	ENT_201002	201.UltimaPatagonia	"1"	"1"	"0"	"0"	La Rabasse 3
+473081	4438618	385	"2040"	"2040"	ENT_201003	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueve C4 SansNom 3 SansNom
+473185	4437080	337	"2041"	"2041"	ENT_201004	201.UltimaPatagonia	"1"	"1"	"0"	"0"	La Rabasse 1
+473614	4437045	273	"2042"	"2042"	ENT_201005	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva 3
+473794	4437339	294	"2043"	"2043"	ENT_201006	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva 7
+473598	4437045	290	"2044"	"2044"	ENT_201007	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva 1
+473527	4437152	338	"2045"	"2045"	ENT_201008	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva 11
+473512	4437140	340	"2046"	"2046"	ENT_201009	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva du TÃ©lÃ©phone
+473749	4437328	309	"2047"	"2047"	ENT_201010	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva 8
+473423	4437558	492	"2048"	"2048"	ENT_201011	201.UltimaPatagonia	"1"	"1"	"0"	"0"	cueva C4 SansNom 8
+473607	4437277	386	"2049"	"2049"	ENT_201012	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Trou du Marteau
+473066	4437002	311	"2050"	"2050"	ENT_201013	201.UltimaPatagonia	"1"	"1"	"0"	"0"	La Rabasse 2
+473378	4437631	526	"2051"	"2051"	ENT_201014	201.UltimaPatagonia	"1"	"1"	"0"	"0"	cueva C4 SansNom 9
+473524	4437766	469	"2052"	"2052"	ENT_201015	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva C4 SansNom 7
+473535	4437264	347	"2053"	"2053"	ENT_201016	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva 10
+473581	4437960	393	"2054"	"2054"	ENT_201017	201.UltimaPatagonia	"1"	"1"	"0"	"0"	??Secteur Barros Luco
+473619	4437025	268	"2055"	"2055"	ENT_201018	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva 2
+473196	4437124	274	"2056"	"2056"	ENT_201019	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva C4 SansNom 5
+481166	4440010	6	"2057"	"2057"	ENT_201020	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Resurgence 1
+473580	4437961	393	"2058"	"2058"	ENT_201021	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva C4 SansNom 1
+473519	4437155	335	"2059"	"2059"	ENT_201022	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva 12
+473690	4437099	272	"2060"	"2060"	ENT_201023	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva 5
+473520	4437115	8	"2061"	"2061"	ENT_201024	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva 13
+473276	4437291	412	"2062"	"2062"	ENT_201025	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva C4 SansNom 6
+471000	4440731	9	"2063"	"2063"	ENT_201026	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Porche 2 Os de Baleine
+473138	4437000	325	"2064"	"2064"	ENT_201027	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4T2
+473066	4437002	310	"2065"	"2065"	ENT_201028	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4T3
+473670	4437075	270	"2066"	"2066"	ENT_201029	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva 4
+473185	4437080	337	"2067"	"2067"	ENT_201030	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4T1
+473587	4437133	303	"2068"	"2068"	ENT_201031	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C3
+473735	4437228	306	"2069"	"2069"	ENT_201032	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4 Cueva 6
+473607	4437277	385	"2070"	"2070"	ENT_201033	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4 Cueva 9
+473652	4437656	397	"2071"	"2071"	ENT_201034	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4 SansNom10
+473683	4437677	381	"2072"	"2072"	ENT_201035	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4 SansNom 9
+473577	4438008	389	"2073"	"2073"	ENT_201036	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4 Nfissure 0
+473579	4438420	361	"2074"	"2074"	ENT_201037	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4 SansNom 8
+473601	4438564	347	"2075"	"2075"	ENT_201038	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4 SansNom 7
+473616	4438593	342	"2076"	"2076"	ENT_201039	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4 SansNom 6
+473599	4438718	337	"2077"	"2077"	ENT_201040	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C5 Cueva2
+473407	4438857	403	"2078"	"2078"	ENT_201041	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4 SansNom 1
+473028	4438978	312	"2079"	"2079"	ENT_201042	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4 SansNom 4
+473077	4439130	313	"2080"	"2080"	ENT_201043	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C5 Cueva3
+473044	4439162	307	"2081"	"2081"	ENT_201044	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4 SansNom 3
+473343	4439239	391	"2082"	"2082"	ENT_201045	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C5 Cueva1
+473652	4437656	397	"2083"	"2083"	ENT_201046	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva de la casquette
+473344	4439239	391	"2084"	"2084"	ENT_201047	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Champignon
+473077	4439130	313	"2085"	"2085"	ENT_201048	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Gouffre du Colibri
+473683	4437677	382	"2086"	"2086"	ENT_201049	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Trou de la Plaquette
+473599	4438718	338	"2087"	"2087"	ENT_201050	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Porche du Sonnar
+477006	4441940	0	"2088"	"2088"	ENT_201051	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Perte 3
+479866	4441309	356	"2089"	"2089"	ENT_201052	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Trou GB 01
+480018	4441221	351	"2090"	"2090"	ENT_201053	201.UltimaPatagonia	"1"	"1"	"0"	"0"	GB2
+479883	4441642	239	"2091"	"2091"	ENT_201054	201.UltimaPatagonia	"1"	"1"	"0"	"0"	GB3
+476404	4442053	0	"2092"	"2092"	ENT_201055	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Perte 2
+476668	4441599	303	"2093"	"2093"	ENT_201056	201.UltimaPatagonia	"1"	"1"	"0"	"0"	GB Trou 1
+476670	4441599	306	"2094"	"2094"	ENT_201057	201.UltimaPatagonia	"1"	"1"	"0"	"0"	GB Trou 2
+476570	4441550	329	"2095"	"2095"	ENT_201058	201.UltimaPatagonia	"1"	"1"	"0"	"0"	GB Trou 3
+476811	4441550	298	"2096"	"2096"	ENT_201059	201.UltimaPatagonia	"1"	"1"	"0"	"0"	GB Trou 5
+476555	4442064	0	"2097"	"2097"	ENT_201060	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Gouffre du Totem
+476491	4441850	292	"2098"	"2098"	ENT_201061	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Ayayemal
+476217	4441660	314	"2099"	"2099"	ENT_201062	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Ayayebo
+476293	4441568	344	"2100"	"2100"	ENT_201063	201.UltimaPatagonia	"1"	"1"	"0"	"0"	GB1 bis
+476287	4441655	364	"2101"	"2101"	ENT_201064	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Gouffre
+476316	4440859	596	"2102"	"2102"	ENT_201065	201.UltimaPatagonia	"1"	"1"	"0"	"0"	SANS NOM
+476028	4441666	277	"2103"	"2103"	ENT_201066	201.UltimaPatagonia	"1"	"1"	"0"	"0"	SANS NOM
+475784	4441912	388	"2104"	"2104"	ENT_201067	201.UltimaPatagonia	"1"	"1"	"0"	"0"	SANS NOM
+475808	4441893	380	"2105"	"2105"	ENT_201068	201.UltimaPatagonia	"1"	"1"	"0"	"0"	GB 07 02-1
+475787	4441900	382	"2106"	"2106"	ENT_201069	201.UltimaPatagonia	"1"	"1"	"0"	"0"	GB 07 02-2
+476036	4441670	295	"2107"	"2107"	ENT_201070	201.UltimaPatagonia	"1"	"1"	"0"	"0"	GB 07 02-3
+476576	4441740	281	"2108"	"2108"	ENT_201071	201.UltimaPatagonia	"1"	"1"	"0"	"0"	SANS NOM
+476632	4441445	378	"2109"	"2109"	ENT_201072	201.UltimaPatagonia	"1"	"1"	"0"	"0"	SANS NOM
+476597	4441532	316	"2110"	"2110"	ENT_201073	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Gouffre du Ziploc
+481244	4440093	29	"2111"	"2111"	ENT_201074	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva Haricot
+475551	4442964	285	"2112"	"2112"	ENT_201075	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Sumidero del Chorizo Plastico
+475670	4442920	323	"2113"	"2113"	ENT_201076	201.UltimaPatagonia	"1"	"1"	"0"	"0"	SANS NOM
+475375	4442069	430	"2114"	"2114"	ENT_201077	201.UltimaPatagonia	"1"	"1"	"0"	"0"	SANS NOM
+475272	4442209	460	"2115"	"2115"	ENT_201078	201.UltimaPatagonia	"1"	"1"	"0"	"0"	SANS NOM
+473005	4437401	471	"2116"	"2116"	ENT_201079	201.UltimaPatagonia	"1"	"1"	"0"	"0"	C4 SansNom 10
+470851	4437247	13	"2117"	"2117"	ENT_201080	201.UltimaPatagonia	"1"	"1"	"0"	"0"	pacifique nord Porche 1
+472954	4437990	662	"2118"	"2118"	SOMMET360	201.UltimaPatagonia	"1"	"1"	"0"	"0"	Sommet 360Â°
+472902	4437730	603	"2119"	"2119"	BLOCSGRES	201.UltimaPatagonia	"1"	"1"	"0"	"0"	blocks de GrÃ¨s
+472905	4434743	253	"2120"	"2120"	ENT_203001	203.UltimaPatagonia	"1"	"1"	"0"	"0"	
+473028	4434786	258	"2121"	"2121"	ENT_203002	203.UltimaPatagonia	"1"	"1"	"0"	"0"	
+473145	4434865	249	"2122"	"2122"	ENT_203003	203.UltimaPatagonia	"1"	"1"	"0"	"0"	
+473023	4434914	252	"2123"	"2123"	ENT_203004	203.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472899	4435932	34	"2124"	"2124"	ENT_203005	203.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472591	4435495	119	"2125"	"2125"	ENT_203006	203.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472563	4435496	121	"2126"	"2126"	ENT_203007	203.UltimaPatagonia	"1"	"1"	"0"	"0"	
+473096	4434992	334	"2127"	"2127"	ENT_203008	203.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472629	4435676	105	"2128"	"2128"	ENT_203009	203.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470851	4437247	13	"2129"	"2129"	ENT_203010	203.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470883	4433935	35	"2130"	"2130"	ENT_203011	203.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471003	4434013	0	"2131"	"2131"	ENT_203012	203.UltimaPatagonia	"1"	"1"	"0"	"0"	
+474630	4432456	153	"2147"	"2236"	F0	GouffreGazelle.204.UltimaPatagonia	"0"	"0"	"1"	"0"	GouffreGazelle
+475586	4431730	130	"2165"	"2238"	"0"	GrotteFaussePucelle.204.UltimaPatagonia	"0"	"0"	"1"	"0"	Grotte de la Fausse Pucelle
+474547.66	4432393.4	137.59	"2175"	"2175"	A0	GouffreAlouette.204.UltimaPatagonia	"0"	"0"	"1"	"0"	GouffreAlouette
+475708	4431755	170	"2225"	"2245"	G5	GrotteCacahuete.204.UltimaPatagonia	"0"	"0"	"1"	"0"	Grotte de la CacahuÃ¨te
+474630	4432456	153	"2236"	"2236"	ENT_204001	204.UltimaPatagonia	"1"	"1"	"0"	"0"	Gouffre de la Gazelle
+474370	4432520	74	"2237"	"2237"	ENT_204002	204.UltimaPatagonia	"1"	"1"	"0"	"0"	Eveque Cauchon
+475586	4431730	130	"2238"	"2238"	ENT_204003	204.UltimaPatagonia	"1"	"1"	"0"	"0"	Grotte de la fausse Pucelle
+474570	4432422	145	"2239"	"2239"	ENT_204004	204.UltimaPatagonia	"1"	"1"	"0"	"0"	Grotte de l'Alouette
+473390	4434247	316	"2240"	"2240"	ENT_204005	204.UltimaPatagonia	"1"	"1"	"0"	"0"	Trou des Canelures
+473289	4434576	305	"2241"	"2241"	ENT_204006	204.UltimaPatagonia	"1"	"1"	"0"	"0"	Perte
+474168	4435461	157	"2242"	"2242"	ENT_204007	204.UltimaPatagonia	"1"	"1"	"0"	"0"	Perte
+472046	4433537	84	"2243"	"2243"	ENT_204008	204.UltimaPatagonia	"1"	"1"	"0"	"0"	Grotte du Rapace
+471984	4433604	50	"2244"	"2244"	ENT_204009	204.UltimaPatagonia	"1"	"1"	"0"	"0"	Grotte de l'Oursin
+475708	4431755	170	"2245"	"2245"	ENT_204010	204.UltimaPatagonia	"1"	"1"	"0"	"0"	Grotte de la CacahuÃ¨te
+468749	4428616	2	"2246"	"2410"	"0"	AbriCotier.205.UltimaPatagonia	"0"	"0"	"1"	"0"	Abri CÃ´tier
+472991	4429200	250	"2302"	"2413"	"0"	PerteDesDents.205.UltimaPatagonia	"0"	"0"	"1"	"0"	Perte Des Dents
+472888	4429344	233	"2368"	"2414"	"0"	SumideroJuanito.205.UltimaPatagonia	"0"	"0"	"1"	"0"	Sumidero Juanito
+471572	4429671	357	"2392"	"2440"	"0"	GrotteAudeline.205.UltimaPatagonia	"0"	"0"	"1"	"0"	Grotte de l'Audeline
+468749	4428616	2	"2410"	"2410"	ENT_205001	205.UltimaPatagonia	"1"	"1"	"0"	"0"	AbriCotier
+469246	4429044	183	"2411"	"2411"	ENT_205002	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472569	4429495	270	"2412"	"2412"	ENT_205003	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472991	4429200	250	"2413"	"2413"	ENT_205004	205.UltimaPatagonia	"1"	"1"	"0"	"0"	PerteDesDents
+472888	4429344	233	"2414"	"2414"	ENT_205005	205.UltimaPatagonia	"1"	"1"	"0"	"0"	SumideroJuanito
+472675	4429462	245	"2415"	"2415"	ENT_205006	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472620	4429466	237	"2416"	"2416"	ENT_205007	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472373	4429958	300	"2417"	"2417"	ENT_205008	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472414	4429499	281	"2418"	"2418"	ENT_205009	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472798	4429403	260	"2419"	"2419"	ENT_205010	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472768	4429435	265	"2420"	"2420"	ENT_205011	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472890	4429492	294	"2421"	"2421"	ENT_205012	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472672	4429457	249	"2422"	"2422"	ENT_205013	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471557	4429685	399	"2423"	"2423"	ENT_205014	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472343	4429312	309	"2424"	"2424"	ENT_205015	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471527	4429604	415	"2425"	"2425"	ENT_205016	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471546	4429667	407	"2426"	"2426"	ENT_205017	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471601	4429940	413	"2427"	"2427"	ENT_205018	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471184	4431010	275	"2428"	"2428"	ENT_205019	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472620	4429463	249	"2429"	"2429"	ENT_205020	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+474306	4431894	207	"2430"	"2430"	ENT_205021	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+474215	4431943	230	"2431"	"2431"	ENT_205022	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+474413	4431894	191	"2432"	"2432"	ENT_205023	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+474282	4432118	190	"2433"	"2433"	ENT_205024	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+474109	4432134	200	"2434"	"2434"	ENT_205025	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+474488	4432062	170	"2435"	"2435"	ENT_205026	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470380	4431713	1	"2436"	"2436"	ENT_205027	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470163	4431420	2	"2437"	"2437"	ENT_205028	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470109	4431220	28	"2438"	"2438"	ENT_205029	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471491	4431944	20	"2439"	"2439"	ENT_205030	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471572	4429671	357	"2440"	"2440"	ENT_205031	205.UltimaPatagonia	"1"	"1"	"0"	"0"	Grotte de l'Audeline
+472373	4429958	301	"2441"	"2441"	ENT_205032	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472620	4429466	237	"2442"	"2442"	ENT_205033	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472414	4429499	281	"2443"	"2443"	ENT_205034	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471623	4430070	388	"2444"	"2444"	ENT_205035	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471645	4430061	360	"2445"	"2445"	ENT_205036	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471621	4429939	423	"2446"	"2446"	ENT_205037	205.UltimaPatagonia	"1"	"1"	"0"	"0"	
+467673	4428748	6	"2447"	"2447"	ENT_205038	205.UltimaPatagonia	"1"	"1"	"0"	"0"	Porche de la Baleine
+475063	4426287	629	"2464"	"2870"	PDC16	PozoDelContacto.206.UltimaPatagonia	"0"	"0"	"1"	"0"	PozoDelContacto
+475550	4427985	360	"2465"	"2875"	PM0	PerteDuMoral.206.UltimaPatagonia	"0"	"0"	"1"	"0"	PerteDuMoral
+474992	4427009	519	"2475"	"2876"	P80_0	P85Camp400.206.UltimaPatagonia	"0"	"0"	"1"	"0"	P85Camp400
+475017	4427584	380	"2483"	"2877"	ZI1	CuevaComete.206.UltimaPatagonia	"0"	"0"	"1"	"0"	CuevaComete
+474462	4423274	120	"2523"	"2882"	RI31	PerteDeLaRiviere.206.UltimaPatagonia	"0"	"0"	"1"	"0"	PerteDeLaRiviere
+474946	4424727	340	"2541"	"2883"	gd2a1	Passoire.206.UltimaPatagonia	"0"	"0"	"1"	"0"	Passoire
+474990	4425248	437	"2569"	"2884"	GP01_1.0	GouffrePetitCreux.206.UltimaPatagonia	"0"	"0"	"1"	"0"	Gouffre du Petit Creux
+473872	4428412	140	"2616"	"2885"	"100"	PerteDuTemps.206.UltimaPatagonia	"0"	"0"	"1"	"0"	Perte Du Temps
+476883	4424327	0	"2843"	"2843"	ENT_206001	206.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva Ayayema
+476461	4423410	0	"2844"	"2844"	ENT_206002	206.UltimaPatagonia	"1"	"1"	"0"	"0"	Grotte du Dyke
+475043	4425186	433	"2845"	"2845"	ENT_206003	206.UltimaPatagonia	"1"	"1"	"0"	"0"	JJP0
+475107	4425112	429	"2846"	"2846"	ENT_206004	206.UltimaPatagonia	"1"	"1"	"0"	"0"	JJP1
+475175	4425192	444	"2847"	"2847"	ENT_206005	206.UltimaPatagonia	"1"	"1"	"0"	"0"	JJP2
+475069	4425245	452	"2848"	"2848"	ENT_206006	206.UltimaPatagonia	"1"	"1"	"0"	"0"	JJP3
+475140	4424860	358	"2849"	"2849"	ENT_206007	206.UltimaPatagonia	"1"	"1"	"0"	"0"	JJP8
+474961	4425621	457	"2850"	"2850"	ENT_206008	206.UltimaPatagonia	"1"	"1"	"0"	"0"	UL04
+474841	4425409	373	"2851"	"2851"	ENT_206009	206.UltimaPatagonia	"1"	"1"	"0"	"0"	UL07A
+474836	4425367	380	"2852"	"2852"	ENT_206010	206.UltimaPatagonia	"1"	"1"	"0"	"0"	UL07B
+474969	4425554	455	"2853"	"2853"	ENT_206011	206.UltimaPatagonia	"1"	"1"	"0"	"0"	UL05
+474969	4424637	338	"2854"	"2854"	ENT_206012	206.UltimaPatagonia	"1"	"1"	"0"	"0"	Point32
+474998	4424705	335	"2855"	"2855"	ENT_206013	206.UltimaPatagonia	"1"	"1"	"0"	"0"	Point30
+474477	4423817	365	"2856"	"2856"	ENT_206014	206.UltimaPatagonia	"1"	"1"	"0"	"0"	Point001
+474952	4424624	334	"2857"	"2857"	ENT_206015	206.UltimaPatagonia	"1"	"1"	"0"	"0"	Point31
+475187	4426380	669	"2858"	"2858"	ENT_206016	206.UltimaPatagonia	"1"	"1"	"0"	"0"	GSLS01
+475255	4426406	691	"2859"	"2859"	ENT_206017	206.UltimaPatagonia	"1"	"1"	"0"	"0"	GSLS02
+475361	4426071	679	"2860"	"2860"	ENT_206018	206.UltimaPatagonia	"1"	"1"	"0"	"0"	GSLS03
+475208	4426189	635	"2861"	"2861"	ENT_206019	206.UltimaPatagonia	"1"	"1"	"0"	"0"	GSLS04
+475205	4426209	632	"2862"	"2862"	ENT_206020	206.UltimaPatagonia	"1"	"1"	"0"	"0"	GSLS05
+475202	4426174	618	"2863"	"2863"	ENT_206021	206.UltimaPatagonia	"1"	"1"	"0"	"0"	GSLS06
+475202	4426174	618	"2864"	"2864"	ENT_206022	206.UltimaPatagonia	"1"	"1"	"0"	"0"	GSLS07
+475218	4426185	628	"2865"	"2865"	ENT_206023	206.UltimaPatagonia	"1"	"1"	"0"	"0"	GSLS08
+474458	4427709	214	"2866"	"2866"	ENT_206024	206.UltimaPatagonia	"1"	"1"	"0"	"0"	PerteNothofagusBaobab
+475373.0	1314650.04	759	"2867"	"2867"	ENT_206025	206.UltimaPatagonia	"1"	"1"	"0"	"0"	Glaciaire760
+475365	4426421	745	"2868"	"2868"	ENT_206026	206.UltimaPatagonia	"1"	"1"	"0"	"0"	GrotteSousLaGlaciaire
+475063	4426287	600	"2869"	"2869"	ENT_206027	206.UltimaPatagonia	"1"	"1"	"0"	"0"	GrotteCamp600
+475063	4426287	629	"2870"	"2870"	ENT_206028	206.UltimaPatagonia	"1"	"1"	"0"	"0"	PozoDelContacto
+475118	4426181	621	"2871"	"2871"	ENT_206029	206.UltimaPatagonia	"1"	"1"	"0"	"0"	UL02
+475065	4426047	584	"2872"	"2872"	ENT_206030	206.UltimaPatagonia	"1"	"1"	"0"	"0"	UL03
+474466	4425996	120	"2873"	"2873"	ENT_206031	206.UltimaPatagonia	"1"	"1"	"0"	"0"	AJPP01AB
+475106	4425962	579	"2874"	"2874"	ENT_206032	206.UltimaPatagonia	"1"	"1"	"0"	"0"	AJPP02
+475550	4427985	360	"2875"	"2875"	ENT_206033	206.UltimaPatagonia	"1"	"1"	"0"	"0"	PerteDuMoral
+474992	4427009	519	"2876"	"2876"	ENT_206034	206.UltimaPatagonia	"1"	"1"	"0"	"0"	P85Camp400
+475017	4427584	380	"2877"	"2877"	ENT_206035	206.UltimaPatagonia	"1"	"1"	"0"	"0"	CuevaComete
+474963	4427404	398	"2878"	"2878"	ENT_206036	206.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva17
+475017	4427584	380	"2879"	"2879"	ENT_206037	206.UltimaPatagonia	"1"	"1"	"0"	"0"	CuevaPauseSac
+474946	4427389	396	"2880"	"2880"	ENT_206038	206.UltimaPatagonia	"1"	"1"	"0"	"0"	CuevaDalle
+474982	4427513	382	"2881"	"2881"	ENT_206039	206.UltimaPatagonia	"1"	"1"	"0"	"0"	BigPits
+474462	4423274	120	"2882"	"2882"	ENT_206040	206.UltimaPatagonia	"1"	"1"	"0"	"0"	Perte de la Riviere
+474946	4424727	340	"2883"	"2883"	ENT_206041	206.UltimaPatagonia	"1"	"1"	"0"	"0"	Passoire
+474990	4425248	437	"2884"	"2884"	ENT_206042	206.UltimaPatagonia	"1"	"1"	"0"	"0"	GouffrePetitCreux
+473872	4428412	140	"2885"	"2885"	ENT_206043	206.UltimaPatagonia	"1"	"1"	"0"	"0"	PerteDuTemps
+479379	4428572	141	"2896"	"2941"	PC10	SystemeCondors.207.UltimaPatagonia	"0"	"0"	"1"	"0"	SystemeCondors
+479667.74	4427696.0	0	"2916"	"2942"	"0"	ResurgenceLobos.207.UltimaPatagonia	"0"	"0"	"1"	"0"	RÃ©surgence des Lobos
+479379	4428572	141	"2941"	"2941"	ENT_207001	207.UltimaPatagonia	"1"	"1"	"0"	"0"	SystemeCondors
+479667.74	4427696.0	0	"2942"	"2942"	ENT_207002	207.UltimaPatagonia	"1"	"1"	"0"	"0"	Resurgence Des Lobos
+468779	4427269	80	"2956"	"2957"	"9"	Cueva10H10.208.UltimaPatagonia	"0"	"0"	"1"	"0"	Cueva 10H10
+468779	4427269	80	"2957"	"2957"	ENT_208001	208.UltimaPatagonia	"1"	"1"	"0"	"0"	Cueva1OH1O
+468617	4427344	40	"2958"	"2958"	ENT_208002	208.UltimaPatagonia	"1"	"1"	"0"	"0"	
+468950	4428050	20	"2959"	"2959"	ENT_208003	208.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470687	4426335	559	"2960"	"2960"	ENT_208004	208.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470676	4426340	561	"2961"	"2961"	ENT_208005	208.UltimaPatagonia	"1"	"1"	"0"	"0"	
+473616	4425884	215	"3049"	"3516"	E1	PleinCintre.209.UltimaPatagonia	"0"	"0"	"1"	"0"	Perte du Plein Cintre
+472922	4425932	436	"3065"	"3517"	"0"	EmergenceBarillet.209.UltimaPatagonia	"0"	"0"	"1"	"0"	Emergence du Barillet
+471328	4422992	3	"3081"	"3521"	"0"	ResurgencePlage.209.UltimaPatagonia	"0"	"0"	"1"	"0"	RÃ©surgence de la Plage
+473527	4428264	195	"3137"	"3522"	"6"	GrotteEvier.209.UltimaPatagonia	"0"	"0"	"1"	"0"	Grotte Evier
+472980	4428693	154	"3148"	"3524"	"10"	LosGringos.209.UltimaPatagonia	"0"	"0"	"1"	"0"	Cueva los Gringos
+473050	4425902	445	"3149"	"3526"	GD-d	GouffreDeLaDetente.209.UltimaPatagonia	"0"	"0"	"1"	"0"	GouffreDeLaDetente
+470997	4424711	380	"3348"	"3555"	PL11	PozoAlRato.209.UltimaPatagonia	"0"	"0"	"1"	"0"	Pozo Al Rato (Later On)
+471314	4425650	386	"3362"	"3556"	PLC8	PozoDeLosCinquetenos.209.UltimaPatagonia	"0"	"0"	"1"	"0"	Pozo De Los Cinquetenos
+473117	4426008	444	"3368"	"3569"	"5"	CuevaTorseOublie.209.UltimaPatagonia	"0"	"0"	"1"	"0"	Cueva du Torse OubliÃ©
+473093	4426314	452	"3405"	"3574"	"1.310000"	PerteDesSabliers.209.UltimaPatagonia	"0"	"0"	"1"	"0"	PerteDesSabliers
+473616	4425884	215	"3516"	"3516"	ENT_209001	209.UltimaPatagonia	"1"	"1"	"0"	"0"	Grotte du Plein Cintre
+472922	4425932	436	"3517"	"3517"	ENT_209002	209.UltimaPatagonia	"1"	"1"	"0"	"0"	Emergence du Barillet
+473027	4425922	428	"3518"	"3518"	ENT_209003	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+473027	4425450	334	"3519"	"3519"	ENT_209004	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+473067	4425846	422	"3520"	"3520"	ENT_209005	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471328	4422992	3	"3521"	"3521"	ENT_209006	209.UltimaPatagonia	"1"	"1"	"0"	"0"	ResurgencePlage
+473527	4428264	195	"3522"	"3522"	ENT_209007	209.UltimaPatagonia	"1"	"1"	"0"	"0"	GrotteEvier
+473372	4427993	200	"3523"	"3523"	ENT_209008	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472980	4428693	154	"3524"	"3524"	ENT_209009	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+473125	4428203	250	"3525"	"3525"	ENT_209010	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+473050	4425902	445	"3526"	"3526"	ENT_209011	209.UltimaPatagonia	"1"	"1"	"0"	"0"	GouffreDeLaDetente
+473026	4425860	450	"3527"	"3527"	ENT_209012	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+473542	4426174	357	"3528"	"3528"	ENT_209013	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470653	4425395	505	"3529"	"3529"	ENT_209014	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471149	4425341	412	"3530"	"3530"	ENT_209015	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470988	4425143	0	"3531"	"3531"	ENT_209016	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471051	4425241	428	"3532"	"3532"	ENT_209017	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471314	4425512	0	"3533"	"3533"	ENT_209018	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471049	4425081	413	"3534"	"3534"	ENT_209019	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470677	4425348	0	"3535"	"3535"	ENT_209020	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471014	4425120	0	"3536"	"3536"	ENT_209021	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471157	4425311	418	"3537"	"3537"	ENT_209022	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471349	4425470	0	"3538"	"3538"	ENT_209023	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471052	4425189	428	"3539"	"3539"	ENT_209024	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471078	4425341	451	"3540"	"3540"	ENT_209025	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471817	4424205	434	"3541"	"3541"	ENT_209026	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471827	4424273	433	"3542"	"3542"	ENT_209027	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471576	4424536	414	"3543"	"3543"	ENT_209028	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471504	4425157	359	"3544"	"3544"	ENT_209029	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471073	4425289	433	"3545"	"3545"	ENT_209030	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471511	4425318	347	"3546"	"3546"	ENT_209031	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471002	4425391	466	"3547"	"3547"	ENT_209032	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+471288	4425378	370	"3548"	"3548"	ENT_209033	209.UltimaPatagonia	"1"	"1"	"0"	"0"	PerteCoipo
+473653	4425395	512	"3549"	"3549"	ENT_209034	209.UltimaPatagonia	"1"	"1"	"0"	"0"	Trou du Kit
+470677	4425348	0	"3550"	"3550"	ENT_209035	209.UltimaPatagonia	"1"	"1"	"0"	"0"	CHIL
+471001	4424711	351	"3551"	"3551"	ENT_209036	209.UltimaPatagonia	"1"	"1"	"0"	"0"	CuevaSorryTopo
+470986	4424781	393	"3552"	"3552"	ENT_209037	209.UltimaPatagonia	"1"	"1"	"0"	"0"	CuevaDeLaDer
+471262	4425085	405	"3553"	"3553"	ENT_209038	209.UltimaPatagonia	"1"	"1"	"0"	"0"	TrouPresDuCamp
+471238	4424660	368	"3554"	"3554"	ENT_209039	209.UltimaPatagonia	"1"	"1"	"0"	"0"	CuevaP03
+470997	4424711	380	"3555"	"3555"	ENT_209040	209.UltimaPatagonia	"1"	"1"	"0"	"0"	PozolAlRato
+471314	4425650	386	"3556"	"3556"	ENT_209041	209.UltimaPatagonia	"1"	"1"	"0"	"0"	PozoDeLosCinquetenos
+470993	4424746	388	"3557"	"3557"	ENT_209042	209.UltimaPatagonia	"1"	"1"	"0"	"0"	SoloNoSpit
+471486	4424551	364	"3558"	"3558"	ENT_209043	209.UltimaPatagonia	"1"	"1"	"0"	"0"	CuevaVersLeBoutDuMonde
+471388	4424669	392	"3559"	"3559"	ENT_209044	209.UltimaPatagonia	"1"	"1"	"0"	"0"	CuevaSalle
+473067	4426206	486	"3560"	"3560"	CampRobertoEst	209.UltimaPatagonia	"1"	"1"	"0"	"0"	
+472851	4426016	578	"3561"	"3561"	ENT_209045	209.UltimaPatagonia	"1"	"1"	"0"	"0"	PerteLesJumeaux
+472846	4425985	583	"3562"	"3562"	ENT_209046	209.UltimaPatagonia	"1"	"1"	"0"	"0"	PuitsRBE01
+472795	4425923	594	"3563"	"3563"	ENT_209047	209.UltimaPatagonia	"1"	"1"	"0"	"0"	PuitsRBE02
+472783	4425894	609	"3564"	"3564"	ENT_209048	209.UltimaPatagonia	"1"	"1"	"0"	"0"	SorryP20
+472772	4425818	588	"3565"	"3565"	ENT_209049	209.UltimaPatagonia	"1"	"1"	"0"	"0"	SorryP15
+472828	4425970	592	"3566"	"3566"	ENT_209050	209.UltimaPatagonia	"1"	"1"	"0"	"0"	PuitsRBE03
+472733	4425773	599	"3567"	"3567"	ENT_209051	209.UltimaPatagonia	"1"	"1"	"0"	"0"	PuitsRBE04
+472721	4425717	573	"3568"	"3568"	ENT_209052	209.UltimaPatagonia	"1"	"1"	"0"	"0"	PuitsRBE05
+473117	4426008	444	"3569"	"3569"	ENT_209053	209.UltimaPatagonia	"1"	"1"	"0"	"0"	CuevaTorseOublie
+472926	4426115	548	"3570"	"3570"	ENT_209054	209.UltimaPatagonia	"1"	"1"	"0"	"0"	CuevaDeLosTres
+473111	4426060	463	"3571"	"3571"	ENT_209055	209.UltimaPatagonia	"1"	"1"	"0"	"0"	PozoSinNombre
+472712	4426041	673	"3572"	"3572"	ENT_209056	209.UltimaPatagonia	"1"	"1"	"0"	"0"	LeTube
+473106	4426027	449	"3573"	"3573"	ENT_209057	209.UltimaPatagonia	"1"	"1"	"0"	"0"	PozoDelGPSVolando
+473093	4426314	452	"3574"	"3574"	ENT_209058	209.UltimaPatagonia	"1"	"1"	"0"	"0"	PerteDesSabliers
+482476	4427291	0	"3575"	"3584"	FS0	ResurgenceFinDeSeno.210.UltimaPatagonia	"0"	"0"	"1"	"0"	RÃ©surgence Fin De Seno
+482476	4427291	0	"3584"	"3584"	ENT_210001	210.UltimaPatagonia	"1"	"1"	"0"	"0"	ResurgeneFinDelSeno
+469393.43	4421479.5	431.45	"3607"	"3607"	10'	AbrigoDelViento.211.UltimaPatagonia	"0"	"0"	"1"	"0"	AbrigoDelViento
+469510	4421914	191	"3649"	"3832"	E	SumideroPiquante.211.UltimaPatagonia	"0"	"0"	"1"	"0"	SumideroPiquante
+470302	4421526	73	"3746"	"3833"	"4"	GouffreAguilucho.211.UltimaPatagonia	"0"	"0"	"1"	"0"	Gouffre d'Aguilucho
+470298	4421336	10	"3768"	"3834"	"0"	ExsurgencePicaflor.211.UltimaPatagonia	"0"	"0"	"1"	"0"	<lang:fr>Exsurgence Picaflor<lang:es>Exsurgencia Picaflor
+470940	4420800	30	"3783"	"3835"	"0"	PorcheDeLImpatience.211.UltimaPatagonia	"0"	"0"	"1"	"0"	Porche De L'Impatience
+469809	4422763	298	"3794"	"3844"	"5"	GouffreDesMousquetaires.211.UltimaPatagonia	"0"	"0"	"1"	"0"	Gouffre Des Mousquetaires
+469947.49	4422845.77	301.58	"3795"	"3795"	"0"	GouffreArche.211.UltimaPatagonia	"0"	"0"	"1"	"0"	Gouffre de l'Arche
+468214	4423045	339	"3805"	"3849"	"0"	GrotteMarion.211.UltimaPatagonia	"0"	"0"	"1"	"0"	GrotteMarion
+469499	4422846	384	"3825"	"3850"	"9"	MeandreDesSables.211.UltimaPatagonia	"0"	"0"	"1"	"0"	MÃ©andre Des Sables
+467933	4422916	353	"3826"	"3853"	"0"	AvenDeLaTraverse.211.UltimaPatagonia	"0"	"0"	"1"	"0"	Aven De La Traverse
+469367	4421504	407	"3831"	"3831"	ENT_211001	211.UltimaPatagonia	"1"	"1"	"0"	"0"	AbrigoDelViento
+469510	4421914	191	"3832"	"3832"	ENT_211002	211.UltimaPatagonia	"1"	"1"	"0"	"0"	SumideroPiquante
+470302	4421526	73	"3833"	"3833"	ENT_211003	211.UltimaPatagonia	"1"	"1"	"0"	"0"	Gouffre d'Aguilucho
+470298	4421336	10	"3834"	"3834"	ENT_211004	211.UltimaPatagonia	"1"	"1"	"0"	"0"	Exsurgence Picaflor
+470940	4420800	30	"3835"	"3835"	ENT_211005	211.UltimaPatagonia	"1"	"1"	"0"	"0"	PorcheDeLImpatience
+469700	4421477	348	"3836"	"3836"	ENT_211006	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470451	4422187	192	"3837"	"3837"	ENT_211007	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469167	4420570	461	"3838"	"3838"	ENT_211008	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470593	4421961	71	"3839"	"3839"	ENT_211009	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469430	4420543	536	"3840"	"3840"	ENT_211010	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469163	4421761	310	"3841"	"3841"	ENT_211011	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+468326	4422439	360	"3842"	"3842"	ENT_211012	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469283	4422857	392	"3843"	"3843"	ENT_211013	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469809	4422763	298	"3844"	"3844"	ENT_211014	211.UltimaPatagonia	"1"	"1"	"0"	"0"	Gouffre des Mousquetaires
+469950	4422849	310	"3845"	"3845"	ENT_211015	211.UltimaPatagonia	"1"	"1"	"0"	"0"	Gouffre de l'Arche
+469828	4422922	332	"3846"	"3846"	ENT_211016	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469300	4422855	322	"3847"	"3847"	ENT_211017	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469869	4422885	328	"3848"	"3848"	ENT_211018	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+468214	4423045	339	"3849"	"3849"	ENT_211019	211.UltimaPatagonia	"1"	"1"	"0"	"0"	Grotte Marion
+469499	4422846	384	"3850"	"3850"	ENT_211020	211.UltimaPatagonia	"1"	"1"	"0"	"0"	MÃ©andre des Sables
+468835	4422513	364	"3851"	"3851"	ENT_211021	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470151	4422766	352	"3852"	"3852"	ENT_211022	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+467933	4422916	353	"3853"	"3853"	ENT_211023	211.UltimaPatagonia	"1"	"1"	"0"	"0"	AvenDeLaTraverse
+468873	4422340	354	"3854"	"3854"	ENT_211024	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469520	4422874	291	"3855"	"3855"	ENT_211025	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+468705	4422852	364	"3856"	"3856"	ENT_211026	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469418	4422796	294	"3857"	"3857"	ENT_211027	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469283	4422170	403	"3858"	"3858"	ENT_211028	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469741	4422253	432	"3859"	"3859"	ENT_211029	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+468572	4422366	365	"3860"	"3860"	ENT_211030	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+468805	4422367	374	"3861"	"3861"	ENT_211031	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470582	4422455	581	"3862"	"3862"	ENT_211032	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+468379	4422465	357	"3863"	"3863"	ENT_211033	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470236	4422475	309	"3864"	"3864"	ENT_211034	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+468258	4422538	415	"3865"	"3865"	ENT_211035	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470178	4422545	303	"3866"	"3866"	ENT_211036	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470197	4422588	288	"3867"	"3867"	ENT_211037	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+468322	4422615	389	"3868"	"3868"	ENT_211038	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469821	4422749	298	"3869"	"3869"	ENT_211039	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469656	4422828	287	"3870"	"3870"	ENT_211040	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469763	4422959	310	"3871"	"3871"	ENT_211041	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+469807	4423507	433	"3872"	"3872"	ENT_211042	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+468573	4422358	332	"3873"	"3873"	ENT_211043	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+467782	4422983	330	"3874"	"3874"	ENT_211044	211.UltimaPatagonia	"1"	"1"	"0"	"0"	Perte des Lobos
+468699	4422722	355	"3875"	"3875"	ENT_211045	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+468496	4422512	331	"3876"	"3876"	ENT_211046	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+468516	4422547	0	"3877"	"3877"	ENT_211047	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+468366	4422459	0	"3878"	"3878"	ENT_211048	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+467782	4422983	330	"3879"	"3879"	ENT_211049	211.UltimaPatagonia	"1"	"1"	"0"	"0"	
+468000	4417000	30	"3880"	"3880"	ENT_212001	212.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470651	4418054	294	"3881"	"3881"	ENT_212002	212.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470567	4417883	380	"3882"	"3882"	ENT_212003	212.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470359	4417650	525	"3883"	"3883"	ENT_212004	212.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470446	4417762	476	"3884"	"3884"	ENT_212005	212.UltimaPatagonia	"1"	"1"	"0"	"0"	
+470679	4418000	340	"3885"	"3885"	ENT_212006	212.UltimaPatagonia	"1"	"1"	"0"	"0"	
+473667	4416955	90	"3886"	"4239"	"0"	LeMasqueEtLaPlume.213.UltimaPatagonia	"0"	"0"	"1"	"0"	Gouffre du Masque et de la Plume
+472739	4416716	37	"4055"	"4240"	"0"	GrotteFinistere.213.UltimaPatagonia	"0"	"0"	"1"	"0"	Grotte du FinistÃ¨re
+472988	4417752	100	"4226"	"4241"	"0"	PerteGlaciaire.213.UltimaPatagonia	"0"	"0"	"1"	"0"	PerteGlaciaire
+473667	4416955	90	"4239"	"4239"	ENT_213001	213.UltimaPatagonia	"1"	"1"	"0"	"0"	Perte du Masque et de la Plume
+472739	4416716	37	"4240"	"4240"	ENT_213002	213.UltimaPatagonia	"1"	"1"	"0"	"0"	Grotte Finistere
+472988	4417752	100	"4241"	"4241"	ENT_213003	213.UltimaPatagonia	"1"	"1"	"0"	"0"	PerteGlaciaire
+495068	4309020	186	"4242"	"4242"	ENT_303001	303.UltimaPatagonia	"1"	"1"	"0"	"0"	
+494398	4309243	163	"4243"	"4243"	ENT_303002	303.UltimaPatagonia	"1"	"1"	"0"	"0"	
+495399	4309090	20	"4244"	"4244"	ENT_303003	303.UltimaPatagonia	"1"	"1"	"0"	"0"	
+494845	4308933	274	"4245"	"4245"	ENT_303004	303.UltimaPatagonia	"1"	"1"	"0"	"0"	
+495383	4308977	55	"4246"	"4246"	ENT_303005	303.UltimaPatagonia	"1"	"1"	"0"	"0"	
+495075	4308714	253	"4247"	"4247"	ENT_303006	303.UltimaPatagonia	"1"	"1"	"0"	"0"	
+494387	4309486	86	"4248"	"4248"	ENT_303007	303.UltimaPatagonia	"1"	"1"	"0"	"0"	
+494567	4309691	0	"4249"	"4249"	ENT_303008	303.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493877	4308702	0	"4250"	"4250"	ENT_303009	303.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493877	4308689	0	"4251"	"4251"	ENT_303010	303.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493833	4308577	0	"4252"	"4252"	ENT_303011	303.UltimaPatagonia	"1"	"1"	"0"	"0"	
+494928	4309421	301	"4253"	"4253"	ENT_303012	303.UltimaPatagonia	"1"	"1"	"0"	"0"	
+494496	4309737	0	"4254"	"4254"	ENT_303013	303.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493130	4308331	399	"4255"	"4255"	ENT_304001	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493244	4309199	315	"4256"	"4256"	ENT_304002	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493001	4308652	330	"4257"	"4257"	ENT_304003	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493722	4308518	482	"4258"	"4258"	ENT_304004	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493342	4308357	484	"4259"	"4259"	ENT_304005	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493337	4308329	488	"4260"	"4260"	ENT_304006	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492238	4307919	544	"4261"	"4261"	ENT_304007	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493149	4307944	533	"4262"	"4262"	ENT_304008	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493139	4307904	533	"4263"	"4263"	ENT_304009	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493149	4307879	522	"4264"	"4264"	ENT_304010	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492835	4307760	386	"4265"	"4265"	ENT_304011	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492741	4307760	372	"4266"	"4266"	ENT_304012	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492538	4307322	344	"4267"	"4267"	ENT_304013	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492549	4307305	0	"4268"	"4268"	ENT_304014	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493740	4308750	0	"4269"	"4269"	ENT_304015	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493735	4308575	0	"4270"	"4270"	ENT_304016	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493488	4308749	0	"4271"	"4271"	ENT_304017	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493487	4308761	0	"4272"	"4272"	ENT_304018	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493354	4308416	0	"4273"	"4273"	ENT_304019	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493378	4308649	0	"4274"	"4274"	ENT_304020	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493345	4308371	483	"4275"	"4275"	ENT_304021	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492718	4307932	358	"4276"	"4276"	ENT_304022	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+494209	4303537	438	"4277"	"4277"	ENT_304023	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+494247	4303396	412	"4278"	"4278"	ENT_304024	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492630	4307395	325	"4279"	"4279"	ENT_304025	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492811	4307523	387	"4280"	"4280"	ENT_304026	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492811	4307523	387	"4281"	"4281"	ENT_304027	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492744	4307438	368	"4282"	"4282"	ENT_304028	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492791	4307449	380	"4283"	"4283"	ENT_304029	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493519	4304030	545	"4284"	"4284"	ENT_304030	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493402	4304216	562	"4285"	"4285"	ENT_304031	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493524	4304050	554	"4286"	"4286"	ENT_304032	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493405	4304223	557	"4287"	"4287"	ENT_304033	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493434	4304074	54	"4288"	"4288"	ENT_304034	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492079	4310722	0	"4289"	"4289"	ENT_304035	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492861	4307876	399	"4290"	"4290"	ENT_304036	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+494155	4303338	407	"4291"	"4291"	ENT_304037	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492564	4307349	347	"4292"	"4292"	ENT_304038	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+491290	4307597	230	"4293"	"4293"	ENT_304039	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+490540	4306695	106	"4294"	"4294"	ENT_304040	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492249	4307720	65	"4295"	"4295"	ENT_304041	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492261	4307711	95	"4296"	"4296"	ENT_304042	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+490540	4306695	106	"4297"	"4297"	ENT_304043	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+490470	4306552	101	"4298"	"4298"	ENT_304044	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+491049	4307630	250	"4299"	"4299"	ENT_304045	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+491165	4307597	0	"4300"	"4300"	ENT_304046	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492098	4306813	276	"4301"	"4301"	ENT_304047	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492226	4306784	260	"4302"	"4302"	ENT_304048	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492134	4306635	258	"4303"	"4303"	ENT_304049	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+491671	4306206	299	"4304"	"4304"	ENT_304050	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+491307	4306156	259	"4305"	"4305"	ENT_304051	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+491808	4306374	291	"4306"	"4306"	ENT_304052	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+493210	4307750	456	"4307"	"4307"	ENT_304053	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492409	4307605	212	"4308"	"4308"	ENT_304054	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492487	4307678	229	"4309"	"4309"	ENT_304055	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492484	4307639	224	"4310"	"4310"	ENT_304056	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+492637	4307761	300	"4311"	"4311"	ENT_304057	304.UltimaPatagonia	"1"	"1"	"0"	"0"	
+482677	4454593	20	"4312"	"4312"	ENT_105001	UltimaPatagonia	"1"	"1"	"0"	"0"	
+482677	4454593	30	"4313"	"4313"	ENT_105002	UltimaPatagonia	"1"	"1"	"0"	"0"	
+476260	4449342	30	"4314"	"4314"	ENT_102001	UltimaPatagonia	"1"	"1"	"0"	"0"	
+474766	4451367	50	"4315"	"4315"	ENT_102002	UltimaPatagonia	"1"	"1"	"0"	"0"	

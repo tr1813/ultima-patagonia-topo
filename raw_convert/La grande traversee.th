@@ -1,0 +1,38 @@
+
+survey La_grande_traversee -title La_grande_traversee -entrance 0
+
+
+    centreline
+    
+    
+    	units length meters
+    	units compass clino degrees
+    	data normal from to tape compass clino
+    	0	0	0.00	0.00	0.00
+			0	1	10.90	311.00	-19.00
+			1	2	7.10	29.00	11.00
+			2	3	5.50	13.50	12.00
+			3	4	10.30	359.00	11.70
+			4	5	14.20	21.70	-15.50
+			5	6	13.40	0.00	90.00
+			5	7	7.80	79.00	31.00
+			7	8	8.70	5.00	-3.00
+			8	9	8.50	67.00	32.00
+			9	9	0.00	0.00	0.00
+		
+    	data dimensions station left right up down
+    	0	1.50	1.50	2.00	0.50
+			1	1.00	1.00	0.90	0.50
+			2	1.90	4.80	1.20	0.70
+			3	0.70	1.90	1.50	1.30
+			4	0.00	2.60	0.70	2.40
+			5	1.40	4.00	0.00	2.50
+			6	1.00	1.00	0.00	13.40
+			7	2.15	1.80	0.00	1.10
+			8	0.00	2.60	6.60	1.30
+			9	1.50	1.50	0.00	2.00
+			9	1.50	1.50	1.50	1.50
+		
+    endcentreline
+
+endsurvey

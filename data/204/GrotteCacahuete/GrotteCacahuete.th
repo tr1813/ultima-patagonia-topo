@@ -1,0 +1,60 @@
+
+survey GrotteCacahuete -title "Grotte de la Cacahuète" -entrance G5 -attr cad_num 204010 -attr exped UP2010
+
+
+centreline
+
+
+	units length meters
+	units compass clino degrees
+	data normal from to tape compass clino
+	G0	G1	12.00	125.00	90.00
+			G1	G2	5.40	145.00	15.00
+			G2	G3	2.00	90.00	10.00
+			G3	G4	6.50	140.00	20.00
+			G4	G5	4.50	195.00	30.00
+			A0	A1	17.50	36.00	5.00
+			A1	A2	5.70	57.00	-5.00
+			A2	A3	21.00	158.00	10.00
+			A3	A4	18.20	105.00	-10.00
+
+	data dimensions station left right up down
+	G0	14.70	10.00	12.00	1.00
+			G1	14.70	10.00	12.00	1.00
+			G2	5.50	2.00	0.00	1.00
+			G3	1.15	0.80	1.00	-
+			G4	0.40	0.70	1.00	-
+			G5	3.40	2.30	0.00	1.00
+			A1	2.50	0.00	0.00	1.00
+			A2	9.10	0.00	1.00	1.00
+			A3	8.00	0.00	1.00	-
+			A4	7.80	0.00	1.00	1.00
+
+endcentreline
+
+centreline
+
+
+	units length meters
+	units compass clino degrees
+	data normal from to tape compass clino
+	A0	1	16.55	160.00	28.00
+			1	2	19.00	149.00	4.00
+			2	3	10.90	144.00	0.00
+			3	4	8.40	109.00	-35.00
+			4	G0	6.15	42.00	-7.00
+			G0	6	17.06	21.00	-3.00
+			6	A4	15.38	347.00	0.00
+
+	data dimensions station left right up down
+	1	-	5.00	1.00	1.60
+			2	-	10.00	1.00	2.00
+			3	-	4.00	6.00	2.00
+			4	-	3.00	15.00	1.60
+			G0	-	1.00	2.00	1.60
+			6	-	0.00	1.00	1.60
+			A4	-	3.00	-	1.60
+			G5	-	-	-	-
+
+endcentreline
+endsurvey

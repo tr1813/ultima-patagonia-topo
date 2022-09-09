@@ -1,0 +1,52 @@
+survey UltimaPatagonia
+
+	input 106/106.th	 ## Seno Egg
+	input 107/107.th	 ## Barros Luco
+	input 108/108.th	## Sumidero
+	input 109/109.th 	## Trois Entrées
+	input 201/201.th  ## Grande Barrière
+	input 203/203.th 	## ??
+	input 204/204.th 	## Camp 2
+	input 205/205.th 	## Baleine
+	input 206/206.th 	## Roberto
+	input 207/207.th 	## Condors
+	input 208/208.th 	## Lobos
+	input 209/209.th 	## Soplador
+	input 210/210.th  ## Seno Norte
+	input 211/211.th 	## Quincas
+	input 212/212.th 	## Tarlton
+	input 213/213.th  ## Guarello
+	input 303/303.th 	## Avenir
+	input 304/304.th 	## Pelantaro
+
+	## les grottes ci-dessous n'ont pas de zone cadastrale attribuée.
+	## the cave underneath have not been assigned to a cadastral zone yet.
+
+	centreline
+		cs UTM18S
+
+		### 105 - Grand Lac ###
+		fix ENT_105001	482677	4454593	20.0	## Cueva Rapido1
+		fix ENT_105002	482677	4454593	30.0	## Cueva Rapido2
+
+		### 102 - Trinidad ###
+		fix ENT_102001	476260	4449342	30.0	## Porche
+		fix ENT_102002	474766	4451367	50.0	## Punta espolon
+
+
+		### Nouvelles Grottes ou Grottes ovni?  ###
+
+
+		### Connexions ###
+
+		equate 53@ResurgenceHongo.107	21b@ChattiereQuiBuffle.107
+		equate 4005@PuntaBlanca.107 MPH25@ChattiereQuiBuffle.107
+
+
+
+
+	endcentreline
+
+
+
+endsurvey

@@ -1,0 +1,43 @@
+
+survey ResurgenceFinDeSeno -title "Résurgence Fin De Seno" -entrance FS0 -attr cad_num 210001 -attr exped UP2006
+
+
+centreline
+	date 2006.02
+
+	units length meters
+	units compass clino degrees
+	data normal from to tape compass clino
+	FS0	FS1	6.40	251.00	-2.00
+			FS1	FS2	9.60	10.00	-2.00
+			FS2	FS3	12.70	346.00	-2.00
+			FS3	FS4	4.00	360.00	0.00
+			FS4	FS5	2.45	14.00	-5.00
+			FS2	FSa	4.70	105.00	-5.00
+			FSa	FSb	4.40	112.00	-11.00
+			FS2	FSA	1.90	238.00	-22.00
+
+	data dimensions station left right up down
+	FS0	0.00	0.00	0.00	0.00
+			FS1	3.00	-	0.20	1.00
+			FS2	-	2.00	0.50	1.00
+			FS3	0.00	1.50	1.00	1.00
+			FS4	1.00	1.00	0.40	0.80
+			FS5	1.00	0.80	0.70	0.30
+			FSa	3.00	-	2.00	0.80
+			FSb	1.00	1.00	1.00	0.70
+			FSA	-	-	-	-
+
+endcentreline
+
+centreline
+
+
+	units length meters
+	units compass clino degrees
+	data normal from to tape compass clino
+
+	data dimensions station left right up down
+
+endcentreline
+endsurvey
