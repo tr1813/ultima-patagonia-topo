@@ -11,7 +11,9 @@
    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
    crossorigin=""></script>
    <link rel="stylesheet" href="../BareCSS-v1/css/bare.min.css" />
-
+<script src="../therion/data/gis/cadastre.js"></script>
+<script src="../therion/data/gis/pointages.js"></script>
+<script src="../therion/data/gis/visees.js"></script>
 
   <style>
     #map{ width: 450px; height: 400px; }
@@ -41,6 +43,26 @@
     div.csl-indent {
       margin-left: 2em;
     }
+
+    .custom-popup .leaflet-popup-content-wrapper {
+  background:#2e3538;
+  color:#fff;
+  font-size:12px;
+  line-height:15px;
+  }
+.custom-popup .leaflet-popup-content-wrapper a {
+  color:rgba(255,255,255,0.5);
+  }
+.custom-popup .leaflet-popup-tip-container {
+  width:5px;
+  height:10px;
+  }
+.custom-popup .leaflet-popup-tip {
+  background:#2e3538;
+  border-left:1px solid transparent;
+  border-right:11px solid transparent;
+  border-top:11px solid transparent;
+  }
   </style>
 </head>
 <body>
