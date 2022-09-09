@@ -1,5 +1,5 @@
 
-survey ResurgenceHongo -title "Résurgence Hongo" -entrance 1
+survey ResurgenceHongo -title "Résurgence Hongo" -entrance 1 -attr cad_num 107025 -attr exped UP2019
 
 
     centreline

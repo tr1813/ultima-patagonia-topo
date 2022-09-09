@@ -40,8 +40,10 @@ function onEachFeature(feature, layer) {
     let long =  Number(feature.geometry.coordinates[1].toPrecision(7))
     let popUpContent =
       `<a href="${feature.properties.link}">`+
-      `<em>${feature.properties.name}</em></a>`+
-      `<p>${lat}°N<br>${long}°E</p>`+
+      `<h4>${feature.properties.name}</h4></a>`+
+      `<p><em>Latitude:</em>${lat}°N<br><em>Loingitude</em>${long}°E`+
+      `<br><em>N° cadastral:</em>${feature.properties.no_cadastral}</p>`+
+
       `<p><em>Depth</em>: ${feature.properties.depth} m</p>`;
 
       layer.bindPopup(popUpContent)
@@ -51,8 +53,10 @@ function onEachFeature(feature, layer) {
      let lat  = Number(feature.geometry.coordinates[0].toPrecision(7))
      let long =  Number(feature.geometry.coordinates[1].toPrecision(7))
      let popUpContent =
-      `<em>${feature.properties.name}</em>`+
-      `<p>${lat}°N<br>${long}°E</p>`+
+      `<h4>${feature.properties.name}</h4>`+
+      `<p><em>Latitude:</em>${lat}°N<br><em>Loingitude</em>${long}°E`+
+      `<br><em>N° cadastral:</em>${feature.properties.no_cadastral}</p>`+
+
       `<p><em>Depth</em>: ${feature.properties.depth} m</p>`;
 
       layer.bindPopup(popUpContent)

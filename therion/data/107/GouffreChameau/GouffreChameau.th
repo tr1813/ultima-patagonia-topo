@@ -1,5 +1,5 @@
 
-survey GouffreChameau -title "Gouffre du Chameau" -entrance 8
+survey GouffreChameau -title "Gouffre du Chameau" -entrance 8 -attr cad_num 107009 -attr exped UP2019
 
 
     centreline

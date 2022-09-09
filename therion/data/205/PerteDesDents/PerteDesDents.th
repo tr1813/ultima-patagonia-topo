@@ -1,8 +1,5 @@
 
-survey PerteDesDents -title "Perte Des Dents" \
-											-entrance 0  \
-											-attr cad_num 205004 \
-											-attr exped UP2008
+survey PerteDesDents -title "Perte Des Dents" 	-entrance 0 	-attr cad_num 205004 -attr exped UP2008
 
 centreline
 

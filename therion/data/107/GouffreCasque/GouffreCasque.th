@@ -1,5 +1,5 @@
 
-survey GouffreCasque -title "Gouffre Casque" -entrance 0
+survey GouffreCasque -title "Gouffre Casque" -entrance 0 -attr cad_num 107019 -attr exped UP2017
 
 
     centreline
