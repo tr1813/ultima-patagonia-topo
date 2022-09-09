@@ -1,0 +1,19 @@
+survey <Cavite> -title "<Titre de la cavité>" \
+                -entrance "<nom de la station d'entrée>" \
+                -attr exped "<Le nom de l'expédition>" \
+                -attr cad_num "<Le numéro cadastral>"
+
+  centreline
+  date <AAAA.MM.JJ>
+  explo-date <AAAA.MM.JJ>
+  team "<NomTopographe1 Prénom>" <rôle>
+  team "<NomTopographe2 Prénom>" <rôle>
+  explo-team "<NomExplorateur1 Prénom>"
+  explo-team "<NomExplorateur2 Prénom>"
+
+  units length meters
+  units compass clino degrees
+  data normal from to tape compass clino
+  <RENSEIGNER LES DONNEES ICI>
+  endcentreline
+endsurvey

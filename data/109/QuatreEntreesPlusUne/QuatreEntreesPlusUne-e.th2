@@ -1,0 +1,185 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -250 -500 250 500
+##XTHERION## xth_me_area_zoom_to 100
+
+scrap DELETE-ME-survey-legs-QuatreEntreesPlusUne-e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
+    line survey
+        -382.34 -31.30
+        -273.17 -46.65
+    endline
+    line survey
+        -273.17 -46.65
+        -131.35 -122.09
+    endline
+    line survey
+        -131.35 -122.09
+        -131.35 -43.35
+    endline
+    line survey
+        -131.35 -43.35
+        -62.12 -11.06
+    endline
+    line survey
+        91.08 39.57
+        13.29 23.03
+    endline
+    line survey
+        13.29 23.03
+        -92.12 -9.25
+    endline
+    line survey
+        -92.12 -9.25
+        -131.35 -43.35
+    endline
+    line survey
+        -62.12 -11.06
+        32.19 14.21
+    endline
+    line survey
+        32.19 14.21
+        66.65 95.39
+    endline
+    line survey
+        66.65 95.39
+        103.96 152.87
+    endline
+    line survey
+        103.96 152.87
+        181.74 189.17
+    endline
+    line survey
+        181.74 189.17
+        278.01 272.80
+    endline
+    line survey
+        278.01 272.80
+        382.34 281.93
+    endline
+    line survey
+        282.04 -26.26
+        179.45 -59.57
+    endline
+    line survey
+        179.45 -59.57
+        310.85 -85.16
+    endline
+    line survey
+        179.45 -59.57
+        179.45 -23.35
+    endline
+    line survey
+        179.45 -23.35
+        113.75 42.32
+    endline
+    line survey
+        113.75 42.32
+        91.08 39.57
+    endline
+    line survey
+        -382.34 -31.30
+        -308.92 -10.28
+    endline
+    line survey
+        -308.92 -10.28
+        -242.66 12.56
+    endline
+    line survey
+        -242.66 12.56
+        -231.43 6.81
+    endline
+    line survey
+        -231.43 6.81
+        -183.66 11.85
+    endline
+    line survey
+        -183.66 11.85
+        -153.50 -13.43
+    endline
+    line survey
+        -153.50 -13.43
+        -153.50 -281.93
+    endline
+    line survey
+        -153.50 -281.93
+        -67.66 -255.71
+    endline
+    line survey
+        -67.66 -255.71
+        -14.79 -217.28
+    endline
+    line survey
+        -14.79 -217.28
+        -14.79 -39.33
+    endline
+    line survey
+        -14.79 -217.28
+        97.56 -169.57
+    endline
+    line survey
+        -14.79 -39.33
+        65.77 -57.91
+    endline
+    point -382.34 -31.30 station-name -align tr -scale xs -text 0
+    point -273.17 -46.65 station-name -align tr -scale xs -text 1
+    point -131.35 -122.09 station-name -align tr -scale xs -text 2
+    point -131.35 -43.35 station-name -align tr -scale xs -text 3
+    point -62.12 -11.06 station-name -align tr -scale xs -text 4
+    point 91.08 39.57 station-name -align tr -scale xs -text 30
+    point 13.29 23.03 station-name -align tr -scale xs -text 31
+    point -92.12 -9.25 station-name -align tr -scale xs -text 32
+    point 32.19 14.21 station-name -align tr -scale xs -text 5
+    point 66.65 95.39 station-name -align tr -scale xs -text 6
+    point 103.96 152.87 station-name -align tr -scale xs -text 7
+    point 181.74 189.17 station-name -align tr -scale xs -text 8
+    point 278.01 272.80 station-name -align tr -scale xs -text 9
+    point 382.34 281.93 station-name -align tr -scale xs -text 10
+    point 282.04 -26.26 station-name -align tr -scale xs -text 40
+    point 179.45 -59.57 station-name -align tr -scale xs -text 41
+    point 310.85 -85.16 station-name -align tr -scale xs -text 80
+    point 179.45 -23.35 station-name -align tr -scale xs -text 42
+    point 113.75 42.32 station-name -align tr -scale xs -text 43
+    point -308.92 -10.28 station-name -align tr -scale xs -text 51
+    point -242.66 12.56 station-name -align tr -scale xs -text 52
+    point -231.43 6.81 station-name -align tr -scale xs -text 53
+    point -183.66 11.85 station-name -align tr -scale xs -text 54
+    point -153.50 -13.43 station-name -align tr -scale xs -text 55
+    point -153.50 -281.93 station-name -align tr -scale xs -text 56
+    point -67.66 -255.71 station-name -align tr -scale xs -text 57
+    point -14.79 -217.28 station-name -align tr -scale xs -text 58
+    point -14.79 -39.33 station-name -align tr -scale xs -text 59
+    point 97.56 -169.57 station-name -align tr -scale xs -text 60
+    point 65.77 -57.91 station-name -align tr -scale xs -text 70
+endscrap
+
+scrap QuatreEntreesPlusUne-1e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
+    point -382.34 -31.30 station -name 0
+    point -273.17 -46.65 station -name 1
+    point -131.35 -122.09 station -name 2
+    point -131.35 -43.35 station -name 3
+    point -62.12 -11.06 station -name 4
+    point 91.08 39.57 station -name 30
+    point 13.29 23.03 station -name 31
+    point -92.12 -9.25 station -name 32
+    point 32.19 14.21 station -name 5
+    point 66.65 95.39 station -name 6
+    point 103.96 152.87 station -name 7
+    point 181.74 189.17 station -name 8
+    point 278.01 272.80 station -name 9
+    point 382.34 281.93 station -name 10
+    point 282.04 -26.26 station -name 40
+    point 179.45 -59.57 station -name 41
+    point 310.85 -85.16 station -name 80
+    point 179.45 -23.35 station -name 42
+    point 113.75 42.32 station -name 43
+    point -308.92 -10.28 station -name 51
+    point -242.66 12.56 station -name 52
+    point -231.43 6.81 station -name 53
+    point -183.66 11.85 station -name 54
+    point -153.50 -13.43 station -name 55
+    point -153.50 -281.93 station -name 56
+    point -67.66 -255.71 station -name 57
+    point -14.79 -217.28 station -name 58
+    point -14.79 -39.33 station -name 59
+    point 97.56 -169.57 station -name 60
+    point 65.77 -57.91 station -name 70
+endscrap

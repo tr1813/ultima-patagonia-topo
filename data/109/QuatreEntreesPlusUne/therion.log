@@ -1,0 +1,196 @@
+therion 5.5.0+e2caa7d (2020-05-01)
+initialization file: /usr/local/etc/therion.ini
+reading ... done
+checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
+checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
+configuration file: config.thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.36
+ 2> Copyright © 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I’ve fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 30 survey stations, joined by 29 legs.
+ 6> There are 0 loops.
+ 7> Total length of survey legs =  341.20m ( 341.20m adjusted)
+ 8> Total plan length of survey legs =  237.48m
+ 9> Total vertical length of survey legs =  177.61m
+10> Vertical range = 71.61m (from 14 at 39.78m to 25 at -31.83m)
+11> North-South range = 56.84m (from 23 at 19.55m to 14 at -37.29m)
+12> East-West range = 72.80m (from 29 at 18.78m to 10 at -54.02m)
+13>    5 1-nodes.
+14>   22 2-nodes.
+15>    3 3-nodes.
+16> 
+######################### transcription ########################
+ 3> 1 : 0@QuatreEntreesPlusUne
+ 5> 30 : 70@QuatreEntreesPlusUne -- 29 : 60@QuatreEntreesPlusUne
+10> 14 : 10@QuatreEntreesPlusUne -- 25 : 56@QuatreEntreesPlusUne
+11> 23 : 54@QuatreEntreesPlusUne -- 14 : 10@QuatreEntreesPlusUne
+12> 29 : 60@QuatreEntreesPlusUne -- 10 : 6@QuatreEntreesPlusUne
+13> 5 : 4@QuatreEntreesPlusUne
+14> 22 : 53@QuatreEntreesPlusUne
+15> 3 : 2@QuatreEntreesPlusUne
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+processing projection plan ... done
+average distortion: 0.00%
+
+
+############### export maps & scraps selection #################
+M    -1.12 m-all-p@QuatreEntreesPlusUne ()
+S     8.43  QuatreEntreesPlusUne-1p@QuatreEntreesPlusUne ()
+S    -2.92  QuatreEntreesPlusUne-2p@QuatreEntreesPlusUne ()
+S    -8.89  QuatreEntreesPlusUne-3p@QuatreEntreesPlusUne ()
+########## end of export maps & scraps selection ###############
+copying_fonts ...
+Arimo-Regular.ttf
+Arimo-Italic.ttf
+Arimo-Bold.ttf
+Arimo-Regular.ttf
+Arimo-BoldItalic.ttf
+done.
+writing outputs/QuatreEntreesPlusUne.pdf ...
+generating TeX metrics ... done
+####################### metapost log file ########################
+This is MetaPost, version 2.00 (TeX Live 2018) (kpathsea version 6.3.0)  31 MAR 2022 19:00
+**data.mp
+(/usr/local/texlive/2018/texmf-dist/metapost/base/mpost.mp
+(/usr/local/texlive/2018/texmf-dist/metapost/base/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [
+4012] [4013] [4014]
+[4015]
+Warning: patterncolor not supported in Therion [4016]
+[Warning: undefined symbol `l_survey_surface_MY']
+[Warning: undefined symbol `l_wall_bedrock_MY']
+[Warning: undefined symbol `l_wall_clay_MY']
+[Warning: undefined symbol `l_wall_pebbles_MY']
+[Warning: undefined symbol `l_wall_presumed_MY']
+[Warning: undefined symbol `l_wall_sand_MY']
+[Warning: undefined symbol `l_wall_underlying_MY']
+[Warning: undefined symbol `l_wall_unsurveyed_MY']
+[Warning: undefined symbol `l_wall_pit_MY']
+[Warning: undefined symbol `l_wall_overlying_MY']
+[Warning: undefined symbol `l_wall_moonmilk_MY']
+[Warning: undefined symbol `p_airdraught_summer_MY']
+[Warning: undefined symbol `p_airdraught_winter_MY'] [1] [2] [3] [4] [5] [6]
+[7] [8] [9] [10] [11] [12] [13] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp)
+[14] )
+ 
+Here is how much of MetaPost's memory you used:
+ 11968 strings using 275192 characters
+ 4468288 bytes of node memory
+ 1781 symbolic tokens
+ 11i,81n,16p,413b,5f stack positions out of 16i,96n,20p,487b,6f
+30 output files written: data.1 .. data.4016
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+generating TeX metrics ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdfetex 2018.4.16)  31 MAR 2022 19:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex (./thfonts.map{
+/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map})
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
+(./th_fontdef.tex)
+(./th_formdef.tex) (./th_pagedef.tex </Volumes/Tanguy Main 1/QGIS/ultima-patago
+nia-topo/logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg>) (./th_pages.tex)
+ 64 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 265 strings out of 494645
+ 2830 string characters out of 6148133
+ 258255 words of memory out of 5000000
+ 1902 multiletter control sequences out of 15000+600000
+ 16885 words of font info for 57 fonts, out of 8000000 for 9000
+ 1416 hyphenation exceptions out of 8191
+ 8i,5n,6p,350b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+{a_cghrlb.enc}<Arimo-BoldItalic.ttf><Arimo-Bold.ttf><Arimo-Regular.ttf>
+Output written on data.pdf (1 page, 126427 bytes).
+PDF statistics:
+ 74 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 162 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+
+
+############### export maps & scraps selection #################
+M    -1.12 m-all-p@QuatreEntreesPlusUne ()
+S     8.43  QuatreEntreesPlusUne-1p@QuatreEntreesPlusUne ()
+S    -2.92  QuatreEntreesPlusUne-2p@QuatreEntreesPlusUne ()
+S    -8.89  QuatreEntreesPlusUne-3p@QuatreEntreesPlusUne ()
+########## end of export maps & scraps selection ###############
+writing outputs/QuatreEntreesPlusUne.svg ...
+generating TeX metrics ... done
+####################### metapost log file ########################
+This is MetaPost, version 2.00 (TeX Live 2018) (kpathsea version 6.3.0)  31 MAR 2022 19:00
+**data.mp
+(/usr/local/texlive/2018/texmf-dist/metapost/base/mpost.mp
+(/usr/local/texlive/2018/texmf-dist/metapost/base/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [
+4012] [4013] [4014]
+[4015]
+Warning: patterncolor not supported in Therion [4016]
+[Warning: undefined symbol `l_survey_surface_MY']
+[Warning: undefined symbol `l_wall_bedrock_MY']
+[Warning: undefined symbol `l_wall_clay_MY']
+[Warning: undefined symbol `l_wall_pebbles_MY']
+[Warning: undefined symbol `l_wall_presumed_MY']
+[Warning: undefined symbol `l_wall_sand_MY']
+[Warning: undefined symbol `l_wall_underlying_MY']
+[Warning: undefined symbol `l_wall_unsurveyed_MY']
+[Warning: undefined symbol `l_wall_pit_MY']
+[Warning: undefined symbol `l_wall_overlying_MY']
+[Warning: undefined symbol `l_wall_moonmilk_MY']
+[Warning: undefined symbol `p_airdraught_summer_MY']
+[Warning: undefined symbol `p_airdraught_winter_MY'] [1] [2] [3] [4] [5] [6]
+[7] [8] [9] [10] [11] [12] [13] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp)
+[14] )
+ 
+Here is how much of MetaPost's memory you used:
+ 11968 strings using 275192 characters
+ 4468288 bytes of node memory
+ 1781 symbolic tokens
+ 11i,81n,16p,413b,5f stack positions out of 16i,96n,20p,487b,6f
+30 output files written: data.1 .. data.4016
+
+
+#################### end of metapost log file ####################
+converting scraps* ... done
+making svg map ... done
+done
+compilation time: 8 sec
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.01%    0.05%  QuatreEntreesPlusUne-3p@QuatreEntreesPlusUne
+   0.00%    0.03%  QuatreEntreesPlusUne-1p@QuatreEntreesPlusUne
+   0.00%    0.00%  QuatreEntreesPlusUne-2p@QuatreEntreesPlusUne
+   0.00%    0.00%  DELETE-ME-survey-legs-QuatreEntreesPlusUne-p@QuatreEntreesPlusUne
+################### end of scrap distortions ###################

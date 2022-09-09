@@ -1,0 +1,11 @@
+source LosGringos.th
+
+input ../../../layouts/tex/atlas.thl
+layout local
+  copy atlas-plan
+  origin 472940	4428643	300.0 m
+  origin-label 1 1
+endlayout
+
+export atlas -o LosGringos_ee.pdf -layout local -projection extended -layout-debug station-names
+export atlas -o LosGringos_plan.pdf -layout local -projection plan -layout-debug station-names

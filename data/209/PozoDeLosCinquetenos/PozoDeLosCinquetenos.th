@@ -1,0 +1,42 @@
+
+survey PozoDeLosCinquetenos -title "Pozo De Los Cinquetenos"  -entrance PLC8 -attr cad_num 209041 -attr exped UP2006
+
+
+centreline
+
+
+	units length meters
+	units compass clino degrees
+	data normal from to tape compass clino
+	PLCA0	PLCA1	3.00	0.00	90.00
+			PLCA1	PLCA2	2.00	90.00	0.00
+			PLCA2	PLCA3	3.00	90.00	90.00
+			PLCA3	PLC0a	6.00	90.00	0.00
+			PLC0a	PLC0	7.30	90.00	90.00
+			PLC0	PLC1	6.50	257.00	45.00
+			PLC1	PLC2	9.60	198.00	13.00
+			PLC2	PLC3	8.20	135.00	23.00
+			PLC3	PLC4	18.00	80.00	72.00
+			PLC4	PLC5	8.70	20.00	82.00
+			PLC5	PLC6	10.60	70.00	68.00
+			PLC6	PLC7	17.80	81.00	73.00
+			PLC7	PLC8	12.50	248.00	-20.00
+
+	data dimensions station left right up down
+	PLCA0	1.00	0.00	8.00	3.00
+			PLCA1	1.00	0.00	4.00	4.00
+			PLCA2	1.00	0.00	4.00	0.00
+			PLCA3	1.00	0.00	6.00	0.00
+			PLC0a	1.00	0.00	5.00	0.00
+			PLC0	1.50	0.00	2.00	1.00
+			PLC1	4.00	7.70	0.00	1.50
+			PLC2	6.50	4.00	8.50	1.50
+			PLC3	7.30	18.00	52.00	0.00
+			PLC4	4.20	4.60	35.00	0.00
+			PLC5	3.00	12.00	27.00	0.00
+			PLC6	3.40	5.00	17.00	0.00
+			PLC7	3.40	5.00	0.00	0.00
+			PLC8	1.50	2.00	0.00	0.50
+
+endcentreline
+endsurvey

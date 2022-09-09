@@ -1,0 +1,159 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -250 -500 250 500
+##XTHERION## xth_me_area_zoom_to 100
+
+scrap DELETE-ME-survey-legs-OmbligoDeLaMadre-p -projection plan -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
+    line survey
+        -136.61 615.51
+        -140.24 600.24
+    endline
+    line survey
+        -140.24 600.24
+        -115.75 574.80
+    endline
+    line survey
+        -115.75 574.80
+        -116.14 489.53
+    endline
+    line survey
+        -116.14 489.53
+        -48.58 418.27
+    endline
+    line survey
+        -48.58 418.27
+        -76.93 350.16
+    endline
+    line survey
+        -76.93 350.16
+        -102.13 349.06
+    endline
+    line survey
+        -102.13 349.06
+        -116.77 346.69
+    endline
+    line survey
+        -116.77 346.69
+        -147.09 333.62
+    endline
+    line survey
+        -147.09 333.62
+        -161.26 375.67
+    endline
+    line survey
+        -161.26 375.67
+        -238.50 440.24
+    endline
+    line survey
+        -238.50 440.24
+        -270.87 496.14
+    endline
+    line survey
+        -270.87 496.14
+        -300.63 526.22
+    endline
+    line survey
+        -48.58 418.27
+        37.72 316.54
+    endline
+    line survey
+        37.72 316.54
+        54.09 139.29
+    endline
+    line survey
+        54.09 139.29
+        101.57 -10.63
+    endline
+    line survey
+        101.57 -10.63
+        105.43 -121.57
+    endline
+    line survey
+        105.43 -121.57
+        136.54 -217.48
+    endline
+    line survey
+        136.54 -217.48
+        159.29 -290.63
+    endline
+    line survey
+        159.29 -290.63
+        203.62 -376.30
+    endline
+    line survey
+        203.62 -376.30
+        240.63 -440.71
+    endline
+    line survey
+        240.63 -440.71
+        249.76 -479.13
+    endline
+    line survey
+        249.76 -479.13
+        256.30 -503.78
+    endline
+    line survey
+        256.30 -503.78
+        291.10 -544.96
+    endline
+    line survey
+        291.10 -544.96
+        300.63 -615.51
+    endline
+    line survey
+        300.63 -615.51
+        300.63 -615.51
+    endline
+    point -136.61 615.51 station-name -align tr -scale xs -text 0
+    point -140.24 600.24 station-name -align tr -scale xs -text 1
+    point -115.75 574.80 station-name -align tr -scale xs -text 2
+    point -116.14 489.53 station-name -align tr -scale xs -text 3
+    point -48.58 418.27 station-name -align tr -scale xs -text 4
+    point -76.93 350.16 station-name -align tr -scale xs -text 5
+    point -102.13 349.06 station-name -align tr -scale xs -text 6
+    point -116.77 346.69 station-name -align tr -scale xs -text 7
+    point -147.09 333.62 station-name -align tr -scale xs -text 8
+    point -161.26 375.67 station-name -align tr -scale xs -text 9
+    point -238.50 440.24 station-name -align tr -scale xs -text 10
+    point -270.87 496.14 station-name -align tr -scale xs -text 11
+    point -300.63 526.22 station-name -align tr -scale xs -text 12
+    point 37.72 316.54 station-name -align tr -scale xs -text 13
+    point 54.09 139.29 station-name -align tr -scale xs -text 14
+    point 101.57 -10.63 station-name -align tr -scale xs -text 15
+    point 105.43 -121.57 station-name -align tr -scale xs -text 16
+    point 136.54 -217.48 station-name -align tr -scale xs -text 17
+    point 159.29 -290.63 station-name -align tr -scale xs -text 18
+    point 203.62 -376.30 station-name -align tr -scale xs -text 19
+    point 240.63 -440.71 station-name -align tr -scale xs -text 20
+    point 249.76 -479.13 station-name -align tr -scale xs -text 21
+    point 256.30 -503.78 station-name -align tr -scale xs -text 22
+    point 291.10 -544.96 station-name -align tr -scale xs -text 23
+    point 300.63 -615.51 station-name -align tr -scale xs -text 25
+endscrap
+
+scrap OmbligoDeLaMadre-1p -projection plan -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
+    point -136.61 615.51 station -name 0
+    point -140.24 600.24 station -name 1
+    point -115.75 574.80 station -name 2
+    point -116.14 489.53 station -name 3
+    point -48.58 418.27 station -name 4
+    point -76.93 350.16 station -name 5
+    point -102.13 349.06 station -name 6
+    point -116.77 346.69 station -name 7
+    point -147.09 333.62 station -name 8
+    point -161.26 375.67 station -name 9
+    point -238.50 440.24 station -name 10
+    point -270.87 496.14 station -name 11
+    point -300.63 526.22 station -name 12
+    point 37.72 316.54 station -name 13
+    point 54.09 139.29 station -name 14
+    point 101.57 -10.63 station -name 15
+    point 105.43 -121.57 station -name 16
+    point 136.54 -217.48 station -name 17
+    point 159.29 -290.63 station -name 18
+    point 203.62 -376.30 station -name 19
+    point 240.63 -440.71 station -name 20
+    point 249.76 -479.13 station -name 21
+    point 256.30 -503.78 station -name 22
+    point 291.10 -544.96 station -name 23
+    point 300.63 -615.51 station -name 25
+endscrap

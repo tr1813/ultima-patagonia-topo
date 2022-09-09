@@ -1,0 +1,3 @@
+source 209.th
+
+export model -o 209.3d -fmt survex

@@ -1,0 +1,132 @@
+
+survey Las_duchas_de_San_Pedro -title Las_duchas_de_San_Pedro -entrance A5
+
+
+    centreline
+    
+    
+    	units length meters
+    	units compass clino degrees
+    	data normal from to tape compass clino
+    	A0	A0	0.00	0.00	0.00
+			A0	A1	4.44	149.20	36.40
+			A1	B0	0.00	0.00	0.00
+			A1	A2	7.76	158.90	34.10
+			A2	A3	3.94	99.40	38.10
+			A3	A4	13.00	131.50	43.90
+			A4	A5	6.21	111.20	26.00
+		
+    	data dimensions station left right up down
+    	A0	1.00	3.00	1.60	0.00
+			A1	0.50	10.00	1.80	0.00
+			B0	0.50	0.40	0.30	0.40
+			A2	4.00	3.00	1.60	0.20
+			A3	1.00	7.00	2.00	0.20
+			A4	3.00	15.00	5.00	1.50
+			A5	4.00	17.00	6.00	0.00
+		
+    endcentreline
+
+
+    centreline
+    
+    
+    	units length meters
+    	units compass clino degrees
+    	data diving to todepth from fromdepth tape compass
+    #	S1-0	-3.40	A0	not known	5.00	320.00
+			S1-1	-10.20	S1-0	-3.40	11.00	335.00
+			S1-2	-14.10	S1-1	-10.20	9.00	330.00
+			S1-3	-17.00	S1-2	-14.10	4.00	340.00
+			S1-4	-19.80	S1-3	-17.00	17.00	350.00
+			S1-5	-18.50	S1-4	-19.80	10.00	40.00
+			S1-6	-16.10	S1-5	-18.50	5.00	70.00
+		
+    	data dimensions station left right up down
+    	S1-0	1.00	2.00	1.00	0.00
+			S1-1	1.50	2.00	1.00	0.00
+			S1-2	0.00	2.00	1.00	0.00
+			S1-3	2.00	2.00	1.00	0.00
+			S1-4	2.00	3.00	1.00	0.00
+			S1-5	1.00	3.00	1.00	0.00
+			S1-6	1.00	3.00	1.00	0.00
+		
+    endcentreline
+
+
+    centreline
+    
+    
+    	units length meters
+    	units compass clino degrees
+    	data diving to todepth from fromdepth tape compass
+    #	S1-7	-12.80	S1-6	not known	6.50	80.00
+			S1-8	-9.70	S1-7	-12.80	6.50	105.00
+			S1-9	-5.60	S1-8	-9.70	7.00	60.00
+			S1-10	-5.50	S1-9	-5.60	7.00	15.00
+			S1-11	-6.10	S1-10	-5.50	5.00	350.00
+			S1-12	-14.20	S1-11	-6.10	13.00	5.00
+		
+    	data dimensions station left right up down
+    	S1-7	1.50	1.50	0.50	0.00
+			S1-8	1.50	1.50	1.00	0.00
+			S1-9	1.50	1.50	1.00	0.00
+			S1-10	1.50	1.50	1.00	0.00
+			S1-11	1.50	1.50	1.00	0.00
+			S1-12	1.50	1.50	1.00	0.00
+		
+    endcentreline
+
+
+    centreline
+    
+    
+    	units length meters
+    	units compass clino degrees
+    	data normal from to tape compass clino
+    	B0	D1	12.62	30.00	21.50
+			D1	D2	1.62	314.00	-19.20
+			D2	D3	5.93	42.30	23.50
+			D3	D4	14.96	349.30	-31.30
+			D4	D5	9.72	155.00	30.20
+			D5	D6	8.66	53.40	23.60
+			D6	D7	18.16	105.40	39.40
+			D7	D8	5.62	142.80	38.20
+			D8	D8	0.00	0.00	0.00
+			D6	D9	10.89	320.00	-47.70
+			D9	D10	7.46	319.10	-26.00
+			D10	D10	0.00	0.00	0.00
+			D3	D11	4.08	121.00	33.90
+			D11	D12	7.19	115.50	42.90
+			D12	D13	5.56	161.80	44.30
+			D13	D14	6.05	111.70	29.80
+			D14	D15	3.57	34.70	26.70
+			D14	D16	4.24	166.20	30.60
+			D15	D15	0.00	0.00	0.00
+			D16	D16	0.00	0.00	0.00
+		
+    	data dimensions station left right up down
+    	D1	0.50	0.80	0.40	0.40
+			D2	1.13	0.00	0.43	0.78
+			D3	0.43	0.58	0.52	0.78
+			D4	1.02	1.78	1.14	0.00
+			D5	1.78	1.97	0.94	1.12
+			D6	2.65	0.00	1.99	1.67
+			D7	3.09	2.15	1.85	0.38
+			D8	1.24	6.38	6.92	1.72
+			D8	3.48	5.91	7.16	1.42
+			D9	1.94	3.10	1.03	0.98
+			D10	3.32	0.64	0.81	1.10
+			D10	0.00	4.00	1.16	1.82
+			D11	1.68	1.12	1.53	0.00
+			D12	2.24	0.60	1.79	0.97
+			D13	2.75	1.06	2.30	2.09
+			D14	1.54	0.88	0.00	1.26
+			D15	2.33	0.99	0.66	0.83
+			D16	1.11	2.19	0.67	0.93
+			D15	0.00	1.00	0.00	0.50
+			D16	0.00	1.50	0.00	1.00
+		
+    endcentreline
+
+endsurvey
