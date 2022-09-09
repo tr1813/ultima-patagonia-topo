@@ -1,0 +1,108 @@
+
+
+  // initialize the map
+
+  var cave_data = L.layerGroup();
+
+  var mbAttr = 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    token = 'pk.eyJ1IjoidHIxODEzIiwiYSI6ImNrYW04eHZzdjEyNDYyc3RkeGtsdm40YnIifQ.uLpBRjSRgl9hHISjrEphCQ',
+    mbUrl = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}';
+
+
+  var outdoors = L.tileLayer(mbUrl, {attribution: mbAttr, id: 'mapbox/outdoors-v11', tileSize: 512, zoomOffset: -1, accessToken: token}),
+    streets = L.tileLayer(mbUrl, {attribution: mbAttr, id: 'mapbox/streets-v11', tileSize: 512, zoomOffset: -1, accessToken: token});
+
+  var info = L.control();
+
+  info.onAdd = function (cave_data) {
+      this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+      this.update();
+      return this._div;
+  };
+
+  // method that we will use to update the control based on feature properties passed
+  info.update = function (props) {
+    function significantFigure(string) {
+      var pos = string.search(".")
+      return string.slice(0,pos+4)
+    };
+
+      this._div.innerHTML = '<h4>Therion scrap name</h4>' +  (props ?
+          '<b>Name: </b>' + props._NAME + '<br /><b>Survey: </b>' + props._SURVEY + '<br /><b>Average altitude: </b>'+ significantFigure(String(props._Z)) +' m'
+          : 'Hover over a cave passage');
+  };
+
+
+
+function onEachFeature(feature, layer) {
+  if (feature.properties && feature.properties.link) {
+    let lat  = Number(feature.geometry.coordinates[0].toPrecision(7))
+    let long =  Number(feature.geometry.coordinates[1].toPrecision(7))
+    let popUpContent =
+      `<a href="${feature.properties.link}">`+
+      `<h4>${feature.properties.name}</h4></a>`+
+      `<p><em>Latitude:</em>${lat}°N<br><em>Loingitude</em>${long}°E`+
+      `<br><em>N° cadastral:</em>${feature.properties.no_cadastral}</p>`+
+
+      `<p><em>Depth</em>: ${feature.properties.depth} m</p>`;
+
+      layer.bindPopup(popUpContent)
+   /* layer.bindPopup(`<a href="${feature.properties.link}"><em>${feature.properties.name}</em></a><p>${feature.geometry.coordinates[0]}<br>${feature.geometry.coordinates[1]}</p><p><em>Depth</em>:${feature.properties.depth} m</p>`)*/
+  }
+  else if (feature.properties) {
+     let lat  = Number(feature.geometry.coordinates[0].toPrecision(7))
+     let long =  Number(feature.geometry.coordinates[1].toPrecision(7))
+     let popUpContent =
+      `<h4>${feature.properties.name}</h4>`+
+      `<p><em>Latitude:</em>${lat}°N<br><em>Loingitude</em>${long}°E`+
+      `<br><em>N° cadastral:</em>${feature.properties.no_cadastral}</p>`+
+
+      `<p><em>Depth</em>: ${feature.properties.depth} m</p>`;
+
+      layer.bindPopup(popUpContent)
+   /* layer.bindPopup(`<a href="${feature.properties.link}"><em>${feature.properties.name}</em></a><p>${feature.geometry.coordinates[0]}<br>${feature.geometry.coordinates[1]}</p><p><em>Depth</em>:${feature.properties.depth} m</p>`)*/
+  }
+}
+
+var cavesiteMarkerOptions = {
+    radius: 5,
+    fillColor: "#ff7800",
+    color: "#000",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.8
+};
+
+L.geoJSON(geojsonFeature, {
+    style: {
+    radius: 5,
+    fillColor: "#ff7800",
+    color: "#000",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.8
+    },
+    onEachFeature: onEachFeature
+}).addTo(cave_data);
+
+
+
+ var legend = L.control({position: 'bottomright'});
+
+  var mymap = L.map('mapid', {
+    center:[-50.25, -75.755],
+    zoom: 7,
+    layers: [outdoors, cave_data]
+  });
+
+    var baseMaps = {
+      "Outdoors": outdoors,
+      "Streets": streets
+  };
+
+  var overlayMaps = {
+      "caves sites": geojsonFeature
+  };
+  L.control.layers(baseMaps, overlayMaps).addTo(mymap);
+  legend.addTo(mymap);
+   info.addTo(mymap);

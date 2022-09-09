@@ -1,10 +1,10 @@
 
-survey CouleeBlanche -title "Porches de la coulée blanche" -entrance 0
+survey CouleeBlanche -title "Porches de la coulée blanche" -entrance 0 -attr cad_num 107012 -attr exped UP2019
 
     centreline
-    date 2020.02.13
+    date 2019.02.13
 
-      
+
     	units length meters
     	units compass clino degrees
     	data normal from to tape compass clino

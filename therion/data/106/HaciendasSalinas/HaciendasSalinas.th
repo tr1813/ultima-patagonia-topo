@@ -1,4 +1,5 @@
-survey HaciendasSalinas -title "Haciendas Salinas" -attr cad_num 106001 -entrance 44@a
+
+survey HaciendasSalinas -title "Haciendas Salinas" -entrance 44@a -attr cad_num 106001  -attr exped ENG2008
 
 	#
 

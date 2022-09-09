@@ -1,6 +1,5 @@
-survey Gouffre36 -title "Gouffre 36"\
-        -attr exped "UP2010" \
-        -attr cad_num "211013"\
+
+survey Gouffre36 -title "Gouffre 36"  -attr cad_num 211013  -attr exped "UP2010" \
         -entrance ENT \
         -attr profondeur_approx "45"\
         -attr "Developpement_Estime" "50"

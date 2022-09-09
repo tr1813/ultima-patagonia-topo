@@ -1,4 +1,5 @@
-survey CuevaDelZorro -title "Cueva del Zorro" -entrance 1@a -attr cad_num 106021
+
+survey CuevaDelZorro -title "Cueva del Zorro" -entrance 1@a -attr cad_num 106021 -attr exped ENG2008
 
 	equate 5@c 6@b
 	equate 30@a 6@b
