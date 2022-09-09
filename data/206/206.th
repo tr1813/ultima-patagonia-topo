@@ -7,6 +7,8 @@ survey 206 -title "206 Roberto"
   input Passoire/Passoire.th
   input GouffrePetitCreux/GouffrePetitCreux.th
   input PerteDuTemps/PerteDuTemps.th
+  input CuevaAyayema/CuevaAyayema.th
+  input GrotteDuDyke/GrotteDuDyke.th
 
   centreline
   fix ENT_206001	476883	4424327	0

@@ -1,5 +1,5 @@
 survey 109 -title "109 Trois Entrées"
-  input TroisEntrees/TroisEntrees.th
+  input TroisEntreesPlusUne/TroisEntreesPlusUne.th
   input QuatreEntreesPlusUne/QuatreEntreesPlusUne.th
   #input TroisPorches/TroisPorches.th ## meme chose que les trois entrées plus une.
   input CuevaCaliza/CuevaCaliza.th
@@ -35,7 +35,7 @@ survey 109 -title "109 Trois Entrées"
     fix ENT_109014	485816	4445878	360.0	## Gouffre la Pissoti??re
     equate ENT_109014 0@Pissotiere
     fix ENT_109015	485649	4444763	53.0	## Grotte des trois entr??es plus une
-    equate ENT_109015 E12@TroisEntrees
+    equate ENT_109015 E12@TroisEntreesPlusUne
     fix ENT_109016	485795	4444848	36.0	## Gouffre de la Chatiere
     fix ENT_109017	486340	4445620	0	## Resurgence de la Petite Chinoise
     equate ENT_109017 A20@PetiteChinoise

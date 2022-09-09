@@ -1,4 +1,10 @@
 survey 212 -title "212 Tarlton"
+  input GrotteDeTarlton/GrotteDeTarlton.th
+  input TAR01/TAR01.th
+  input TAR02/TAR02.th
+  input TAR03/TAR03.th
+  input TAR04/TAR04.th
+  input TAR05/TAR05.th
 
   centreline
   fix ENT_212001	468000	4417000	30.0	## Grotte de Tarlton

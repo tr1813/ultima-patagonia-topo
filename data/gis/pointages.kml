@@ -73,7 +73,7 @@
 </Placemark>
 <Placemark>
 <styleUrl>#ThEntranceIcon</styleUrl><name><![CDATA[Lagrimas de la Madre]]></name>
-<Point> <coordinates>-75.21829356659801,-50.12455267046825,350.00000000000000</coordinates> </Point>
+<Point> <coordinates>-75.21829356659801,-50.12455267046825,294.00000000000000</coordinates> </Point>
 </Placemark>
 <Placemark>
 <styleUrl>#ThEntranceIcon</styleUrl><name><![CDATA[Grotte des trois entrees plus une]]></name>
@@ -93,7 +93,7 @@
 </Placemark>
 <Placemark>
 <styleUrl>#ThEntranceIcon</styleUrl><name><![CDATA[Gouffre à l'Aïl]]></name>
-<Point> <coordinates>-75.20240252283428,-50.14140895996977,359.00000000000000</coordinates> </Point>
+<Point> <coordinates>-75.20284330264329,-50.14126536873368,401.79000000000002</coordinates> </Point>
 </Placemark>
 <Placemark>
 <styleUrl>#ThEntranceIcon</styleUrl><name><![CDATA[La grande Traversee]]></name>
@@ -132,7 +132,7 @@
 <Point> <coordinates>-75.26384987025828,-50.19180385469868,6.00000000000000</coordinates> </Point>
 </Placemark>
 <Placemark>
-<styleUrl>#ThEntranceIcon</styleUrl><name><![CDATA[GouffreGazelle]]></name>
+<styleUrl>#ThEntranceIcon</styleUrl><name><![CDATA[Gouffre de la Gazelle]]></name>
 <Point> <coordinates>-75.35591781843883,-50.25949694236903,153.00000000000000</coordinates> </Point>
 </Placemark>
 <Placemark>
@@ -302,6 +302,10 @@
 <Placemark>
 <styleUrl>#ThEntranceIcon</styleUrl><name><![CDATA[PerteGlaciaire]]></name>
 <Point> <coordinates>-75.38000608320482,-50.39166232840064,100.00000000000000</coordinates> </Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ThEntranceIcon</styleUrl><name><![CDATA[Gouffre 36]]></name>
+<Point> <coordinates>-75.43170996642861,-50.34556998606097,392.00000000000000</coordinates> </Point>
 </Placemark>
 <Folder>
 <name><![CDATA[106 Seno Egg]]></name>
@@ -704,6 +708,12 @@
 </MultiGeometry>
 </Placemark>
 </Folder>
+</Folder>
+<Folder>
+<name><![CDATA[Cueva No Time]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Résurgence NoTime]]></name>
 </Folder>
 <Folder>
 <name><![CDATA[107 Barros Luco]]></name>
@@ -1285,6 +1295,9 @@
 </Folder>
 </Folder>
 <Folder>
+<name><![CDATA[Cueva des los Pescadores]]></name>
+</Folder>
+<Folder>
 <name><![CDATA[108 Sumidero]]></name>
 <Folder>
 <name><![CDATA[Ojo de la Madre]]></name>
@@ -1350,10 +1363,10 @@
 <styleUrl>#ThSurveyLine</styleUrl>
 <MultiGeometry>
 <LineString><coordinates>
-	-75.21829356659801,-50.12455267046825,350.00000000000000 	-75.21834740155752,-50.12454717293546,347.23000000000002 	-75.21841791746871,-50.12451825993966,342.23000000000002 	-75.21848228898433,-50.12449178680630,338.57999999999998 	-75.21847560165206,-50.12443639714086,332.81999999999999 	-75.21848255151676,-50.12436506266589,328.23000000000002 	-75.21859321674476,-50.12427464587613,317.38000000000000 	-75.21857347659304,-50.12420992715710,310.25000000000000 	-75.21858393545392,-50.12420262243501,306.41000000000003 	-75.21871706763335,-50.12419211875285,299.95999999999998 	-75.21876238390037,-50.12415929570108,296.10000000000002 	-75.21885699554690,-50.12413798183278,293.39999999999998 	-75.21890710004098,-50.12411216492004,291.39999999999998 	-75.21896645057896,-50.12408920859076,287.87000000000000 	-75.21903266726927,-50.12403808846152,281.76999999999998 	-75.21905557925191,-50.12397005157150,276.63000000000000 	-75.21904593798385,-50.12391124983428,272.06000000000000 	-75.21899625334606,-50.12384505870381,271.04000000000002 	-75.21902340474713,-50.12378636745017,265.37000000000000 	-75.21902327952347,-50.12372826727072,261.45999999999998 	-75.21903101482802,-50.12361466007115,256.73000000000002 	-75.21903061175067,-50.12349567189553,252.75999999999999 	-75.21909407990526,-50.12348619854089,251.36000000000001 	-75.21915002755551,-50.12348411431995,247.52000000000001 	-75.21916301311401,-50.12344811432191,245.40000000000001 
+	-75.21829356659801,-50.12455267046825,294.00000000000000 	-75.21834740155752,-50.12454717293546,291.23000000000002 	-75.21841791746871,-50.12451825993966,286.23000000000002 	-75.21848228898433,-50.12449178680630,282.57999999999998 	-75.21847560165206,-50.12443639714086,276.81999999999999 	-75.21848255151676,-50.12436506266589,272.23000000000002 	-75.21859321674476,-50.12427464587613,261.38000000000000 	-75.21857347659304,-50.12420992715710,254.25000000000000 	-75.21858393545392,-50.12420262243501,250.41000000000000 	-75.21871706763335,-50.12419211875285,243.96000000000001 	-75.21876238390037,-50.12415929570108,240.09999999999999 	-75.21885699554690,-50.12413798183278,237.40000000000001 	-75.21890710004098,-50.12411216492004,235.40000000000001 	-75.21896645057896,-50.12408920859076,231.87000000000000 	-75.21903266726927,-50.12403808846152,225.77000000000001 	-75.21905557925191,-50.12397005157150,220.63000000000000 	-75.21904593798385,-50.12391124983428,216.06000000000000 	-75.21899625334606,-50.12384505870381,215.03999999999999 	-75.21902340474713,-50.12378636745017,209.37000000000000 	-75.21902327952347,-50.12372826727072,205.46000000000001 	-75.21903101482802,-50.12361466007115,200.72999999999999 	-75.21903061175067,-50.12349567189553,196.75999999999999 	-75.21909407990526,-50.12348619854089,195.36000000000001 	-75.21915002755551,-50.12348411431995,191.52000000000001 	-75.21916301311401,-50.12344811432191,189.40000000000001 
 </coordinates></LineString>
 <LineString><coordinates>
-	-75.21913047484172,-50.12330733167502,233.81999999999999 	-75.21915380436532,-50.12333085159739,234.90000000000001 	-75.21916301311401,-50.12344811432191,245.40000000000001 	-75.21915002755551,-50.12348411431995,247.52000000000001 
+	-75.21913047484172,-50.12330733167502,177.81999999999999 	-75.21915380436532,-50.12333085159739,178.90000000000001 	-75.21916301311401,-50.12344811432191,189.40000000000001 	-75.21915002755551,-50.12348411431995,191.52000000000001 
 </coordinates></LineString>
 </MultiGeometry>
 </Placemark>
@@ -1362,10 +1375,10 @@
 <styleUrl>#ThSurveyLine</styleUrl>
 <MultiGeometry>
 <LineString><coordinates>
-	-75.21913047484172,-50.12330733167502,233.81999999999999 	-75.21922273201648,-50.12323034987239,229.88000000000000 	-75.21920236937837,-50.12321321001316,229.75999999999999 	-75.21921933320415,-50.12316002419950,226.41000000000000 	-75.21926689955255,-50.12313007473609,224.09000000000000 	-75.21927410011240,-50.12308329299812,220.56999999999999 	-75.21926282608740,-50.12303456749123,219.40000000000001 	-75.21930396878606,-50.12294590014563,213.22000000000000 	-75.21931815737926,-50.12286708701566,208.53000000000000 	-75.21936589259009,-50.12281294367036,207.43000000000001 	-75.21934705545594,-50.12276225380379,205.88000000000000 	-75.21941320559264,-50.12263585484391,199.88000000000000 
+	-75.21913047484172,-50.12330733167502,177.81999999999999 	-75.21922273201648,-50.12323034987239,173.88000000000000 	-75.21920236937837,-50.12321321001316,173.75999999999999 	-75.21921933320415,-50.12316002419950,170.41000000000000 	-75.21926689955255,-50.12313007473609,168.09000000000000 	-75.21927410011240,-50.12308329299812,164.56999999999999 	-75.21926282608740,-50.12303456749123,163.40000000000001 	-75.21930396878606,-50.12294590014563,157.22000000000000 	-75.21931815737926,-50.12286708701566,152.53000000000000 	-75.21936589259009,-50.12281294367036,151.43000000000001 	-75.21934705545594,-50.12276225380379,149.88000000000000 	-75.21941320559264,-50.12263585484391,143.88000000000000 
 </coordinates></LineString>
 <LineString><coordinates>
-	-75.21934705545594,-50.12276225380379,205.88000000000000 	-75.21909236891345,-50.12286616414361,222.13000000000000 	-75.21908162580306,-50.12290305929427,226.44000000000000 	-75.21898790116468,-50.12293426493991,233.00000000000000 
+	-75.21934705545594,-50.12276225380379,149.88000000000000 	-75.21909236891345,-50.12286616414361,166.13000000000000 	-75.21908162580306,-50.12290305929427,170.44000000000000 	-75.21898790116468,-50.12293426493991,177.00000000000000 
 </coordinates></LineString>
 </MultiGeometry>
 </Placemark>
@@ -2090,14 +2103,92 @@
 </MultiGeometry>
 </Placemark>
 </Folder>
+<Folder>
+<name><![CDATA[LaRabasse3]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[La Rabasse 1]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Cueva 7]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Cueva 11]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Cueva du Téléphone]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Cueva 8]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Trou du Marteau]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[La Rabasse 2]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Cueva 12]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Cueva 13]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Porche 2 Os de Baleine]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[C4T2]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[C4T3]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Cueva 4]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[C4T1]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[C4 Cueva 6]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[C4 SansNom10]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[C4 SansNom 9]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[C4 Nfissure 0]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[C4 SansNom 8]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[C4 SansNom 7]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[C4 SansNom 6]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[C5 Cueva2]]></name>
+</Folder>
 </Folder>
 <Folder>
 <name><![CDATA[??]]></name>
+<Folder>
+<name><![CDATA[Perte du Coypo]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Puits du Bourdon]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Gros Trou]]></name>
+</Folder>
 </Folder>
 <Folder>
 <name><![CDATA[204 Camp 2]]></name>
 <Folder>
-<name><![CDATA[GouffreGazelle]]></name>
+<name><![CDATA[Gouffre de la Gazelle]]></name>
 <Placemark>
 <name>G0</name>
 <styleUrl>#ThSurveyLine</styleUrl>
@@ -2191,6 +2282,9 @@
 </coordinates></LineString>
 </MultiGeometry>
 </Placemark>
+</Folder>
+<Folder>
+<name><![CDATA[Trou des Canelures]]></name>
 </Folder>
 </Folder>
 <Folder>
@@ -2425,6 +2519,48 @@
 </coordinates></LineString>
 </MultiGeometry>
 </Placemark>
+</Folder>
+<Folder>
+<name><![CDATA[Abri du Cerfeuil]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Cueva La-Bas]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Cueva Ardilla]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Pozo en Bosque]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[MD/SOU01]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[MD/SOU02]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Perte Inattendue]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[La Perte Ambrée]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[perte-faille]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Perte des 4 champi]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Perte du Jump]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Faille du Coinceur]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Igue du Plouc]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Cueva de la fin de Matinas]]></name>
 </Folder>
 </Folder>
 <Folder>
@@ -2735,6 +2871,12 @@
 </MultiGeometry>
 </Placemark>
 </Folder>
+<Folder>
+<name><![CDATA[Cueva Ayayema]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Grotte du Dyke]]></name>
+</Folder>
 </Folder>
 <Folder>
 <name><![CDATA[207 Condors]]></name>
@@ -2812,6 +2954,9 @@
 </coordinates></LineString>
 </MultiGeometry>
 </Placemark>
+</Folder>
+<Folder>
+<name><![CDATA[Grotte 20 plage de la Baleine]]></name>
 </Folder>
 </Folder>
 <Folder>
@@ -3242,6 +3387,18 @@
 </MultiGeometry>
 </Placemark>
 </Folder>
+<Folder>
+<name><![CDATA[Gouffre de la Gachette]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Bob l'Eponge]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Cueva Gringa]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Doline Calafate]]></name>
+</Folder>
 </Folder>
 <Folder>
 <name><![CDATA[210 Seno norte]]></name>
@@ -3420,6 +3577,9 @@
 </Placemark>
 </Folder>
 <Folder>
+<name><![CDATA[Gouffre 36]]></name>
+</Folder>
+<Folder>
 <name><![CDATA[Gouffre Des Mousquetaires]]></name>
 <Placemark>
 <name>0</name>
@@ -3500,9 +3660,48 @@
 </MultiGeometry>
 </Placemark>
 </Folder>
+<Folder>
+<name><![CDATA[Sima del Col]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[MD/BDGS01]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[MD/BDGS02]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[MD/BDGS03]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[MD/BDGS04]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[MD/BDG05]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[Grotte Grande Soeur]]></name>
+</Folder>
 </Folder>
 <Folder>
 <name><![CDATA[212 Tarlton]]></name>
+<Folder>
+<name><![CDATA[Grotte de Tarlton]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[TAR01]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[TAR02]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[TAR03]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[TAR04]]></name>
+</Folder>
+<Folder>
+<name><![CDATA[TAR05]]></name>
+</Folder>
 </Folder>
 <Folder>
 <name><![CDATA[213 Guarello]]></name>

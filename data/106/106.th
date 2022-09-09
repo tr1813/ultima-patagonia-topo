@@ -35,3 +35,5 @@ survey 106  -title "106 Seno Egg"
 
   endcentreline
 endsurvey
+input CuevaNoTime/CuevaNoTime.th
+input ResurgenceNoTime/ResurgenceNoTime.th

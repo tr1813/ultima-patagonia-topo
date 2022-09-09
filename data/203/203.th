@@ -1,4 +1,8 @@
 survey 203 -title "??"
+  input PerteDuCoypo/PerteDuCoypo.th
+  input PuitsDuBourdon/PuitsDuBourdon.th
+  input GrosTrou/GrosTrou.th
+
   centreline
   cs UTM18S
   fix ENT_203001	472905	4434743	253.0	## Perte du Coypo

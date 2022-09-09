@@ -1,6 +1,8 @@
 survey 208 -title "208 Lobos"
 
   input Cueva10H10/Cueva10H10.th
+  input Grotte20PlageDeLaBaleine/Grotte20PlageDeLaBaleine.th
+
   centreline
 
   fix ENT_208001	468779	4427269	80.0	## Cueva 10H10

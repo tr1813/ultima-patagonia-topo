@@ -3,6 +3,20 @@ survey 205 -title "205 Baleine"
   input PerteDesDents/PerteDesDents.th
   input SumideroJuanito/SumideroJuanito.th
   input GrotteAudeline/GrotteAudeline.th
+  input AbriDuCerfeuil/AbriDuCerfeuil.th
+  input CuevaLaBas/CuevaLaBas.th
+  input CuevaArdilla/CuevaArdilla.th
+  input PozoEnBosque/PozoEnBosque.th
+  input MD-SOU01/MD-SOU01.th
+  input MD-SOU02/MD-SOU02.th
+  input PerteInattendue/PerteInattendue.th
+  input PerteAmbree/PerteAmbree.th
+  input PerteFaille/PerteFaille.th
+  input PerteDesQuatreChampignons/PerteDesQuatreChampignons.th
+  input PerteDuJump/PerteDuJump.th
+  input FailleDuCoinceur/FailleDuCoinceur.th
+  input IgueDuPlouc/IgueDuPlouc.th
+  input CuevaDeLaFinDeMatinas/CuevaDeLaFinDeMatinas.th
 
   centreline
   cs UTM18S

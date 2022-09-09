@@ -1,10 +1,10 @@
 
-survey GouffreGazelle -title GouffreGazelle -entrance F0 -attr cad_num 204001 -attr exped UP2010
+survey GouffreGazelle -title "Gouffre de la Gazelle"  -entrance F0 -attr cad_num 204001 -attr exped UP2010
 
 
 centreline
 	date 2010.02
-	
+
 	units length meters
 	units compass clino degrees
 	data normal from to tape compass clino

@@ -1,9 +1,9 @@
 survey 209 -title "209 Soplador"
 
 
-  input PleinCintre/PleinCintre.th
+  input GrotteDuPleinCintre/GrotteDuPleinCintre.th
   input EmergenceBarillet/EmergenceBarillet.th
-  input ResurgencePlage/ResurgencePlage.th
+  input ResurgenceDeLaPlage/ResurgenceDeLaPlage.th
   input GrotteEvier/GrotteEvier.th
   input LosGringos/LosGringos.th
   input GouffreDeLaDetente/GouffreDeLaDetente.th
@@ -11,13 +11,17 @@ survey 209 -title "209 Soplador"
   input PozoDeLosCinquetenos/PozoDeLosCinquetenos.th
   input CuevaTorseOublie/CuevaTorseOublie.th
   input PerteDesSabliers/PerteDesSabliers.th
+  input GouffreDeLaGachette/GouffreDeLaGachette.th
+  input BobLEponge/BobLEponge.th
+  input CuevaGringa/CuevaGringa.th
+  input DolineCalafate/DolineCalafate.th
 
   centreline
     cs UTM18S
 
     fix ENT_209001	473616	4425884	215.0	##
     station ENT_209001 "Grotte du Plein Cintre"
-    equate ENT_209001 E1@PleinCintre
+    equate ENT_209001 E1@GrotteDuPleinCintre
     fix ENT_209002	472922	4425932	436.0	##
     station ENT_209002 "Emergence du Barillet"
     equate ENT_209002 0@EmergenceBarillet
@@ -25,8 +29,8 @@ survey 209 -title "209 Soplador"
     fix ENT_209004	473027	4425450	334.0	## Perte de l'Acharné
     fix ENT_209005	473067	4425846	422.0	## Perte n?? 18
     fix ENT_209006	471328	4422992	3.0	## Résurgence de la plage
-    station ENT_209006 "ResurgencePlage"
-    equate ENT_209006 0@ResurgencePlage
+    station ENT_209006 "ResurgenceDeLaPlage"
+    equate ENT_209006 0@ResurgenceDeLaPlage
     fix ENT_209007	473527	4428264	195.0
     station ENT_209007 "GrotteEvier"
     equate ENT_209007 6@GrotteEvier
@@ -76,7 +80,6 @@ survey 209 -title "209 Soplador"
     station ENT_209040 "PozolAlRato"
     equate ENT_209040 PL11@PozoAlRato
     fix ENT_209041  471314 4425650 386
-
     station ENT_209041 "PozoDeLosCinquetenos"
     equate ENT_209041 PLC8@PozoDeLosCinquetenos
     fix  ENT_209042 470993 4424746 388

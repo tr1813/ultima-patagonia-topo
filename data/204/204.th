@@ -3,6 +3,7 @@ survey 204 -title "204 Camp 2"
   input GrotteFaussePucelle/GrotteFaussePucelle.th
   input GouffreAlouette/GouffreAlouette.th
   input GrotteCacahuete/GrotteCacahuete.th
+  input TrouDesCanelures/TrouDesCanelures.th
 
 centreline
 cs UTM18S
