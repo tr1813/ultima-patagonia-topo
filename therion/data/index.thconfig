@@ -4,6 +4,7 @@ lang fr
 export model -o ../outputs/index.3d
 export model -o ../outputs/index.lox
 export model -o gis/pointages.kml
+export map -o gis -fmt esri
 export model -o gis -fmt esri
 export database -o ../outputs/ultima-patagonia.sql
 export cave-list
