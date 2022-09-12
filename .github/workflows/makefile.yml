@@ -44,4 +44,4 @@ jobs:
           title: Build ${{ github.run_number }}
           automatic_release_tag: "latest"
           prerelease: false
-          files: ./*/*/*/*.js"
+          files: ./*/*/*/*.js
