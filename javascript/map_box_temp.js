@@ -11,7 +11,7 @@
         iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
         shadowAnchor: [4, 62],  // the same for the shadow
         popupAnchor:  [20, 0], // point from which the popup should open relative to the iconAnchor
-        iconUrl: '../javascript/entrance_icon.png'
+        iconUrl: '../icons/green.png'
     });
 
     var mbAttr = 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',

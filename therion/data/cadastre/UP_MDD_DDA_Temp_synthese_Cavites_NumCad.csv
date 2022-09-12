@@ -1,0 +1,451 @@
+,CAD_NUM,NomCadastre,Nom_complet,X (UTM 18 Sud),Y (UTM 18 Sud),Alt.,Dev. Topo,Termine?,Dev.estimé,Prof.,UP,Commentaire,Explorateurs
+171,ENT,Gouffre36,Gouffre 36,469283.0,4422857.0,392,,oui,50,-45,2010,,"Denis, Olivier T"
+53,ENT_102001,Porche,Porche,476260.0,4449342.0,30,,oui,30,,2008,3 entrées,
+364,ENT_102002,PuntaEspolon,Punta espolon,474766.0,4451367.0,ca 50 m,,NON,200,??,2017,"Exploration Anthony, Yannick, Gelo et Franck, lors de l'incursion sur le Pacifique du 05-02-17. Petite cavité de pied de falaise, rejoignant plusieurs entrées. Un passage inférieur permet de rejoindre un petit actif, se terminant de part et d'autre sur siphon. Explo terminée.",
+47,ENT_105001,CuevaRapido1,Cueva Rapido1,482677.0,4454593.0,20,,oui,240,45,2008,3 entrées,
+48,ENT_105001,CuevaRapido2,Cueva Rapido2,482677.0,4454593.0,30,,oui,150,30,2008,2 entrées,
+45,ENT_106002,CuevaNoTime,Cueva No Time,490289.0,4451286.0,35,,non,640,-15-+25,2008,2 entrées,
+46,ENT_106002,ResurgenceNoTime,Résurgence NoTime,490289.0,4451286.0,3,,non,70,8,2008,Débit estimé: 1m3-s,
+50,ENT_106002,Porche,Porche,490289.0,4451286.0,70,,oui,50,,2008,Porche,
+49,ENT_106004,CuevaNutria,Cueva Nutria,490541.0,4453870.0,20,,oui,50,20,2008,Occupation humaine,
+51,ENT_106006,Grotte,Grotte,490604.0,4450548.0,,,oui,35,,2008,,
+435,ENT_106019,LosTresRios,Los Tres Rios,488833.0,4451227.0,325,,,,,2006ITA,,
+437,ENT_106020,CuevaDelDragon, Cueva del Dragon,489409.0,4452098.0,187,,,,,2006ITA,,
+438,ENT_106021,CuevaDelZorro, Cueva del Zorro,490088.0,4452354.0,105,,,,,2008ENG,,
+58,ENT_107001,CuevaDesLosPescadores,Cueva des los Pescadores,482449.0,4444663.0,40,200.0,oui,,40,2008,résurgence,
+329,ENT_107002,ResurgenceXXX,Résurgence XXX,478634.0,4447073.0,0,220.0,non,220,24,2017,Résurgence sous le nveau de la mer,
+340,ENT_107003,DeuxGrottes,Deux grottes (double entree),478906.0,4446437.0,?,,non,5,?,2017,Repéré le 25-01 par Buldo,
+341,ENT_107004,ChattiereQuiBuffle,Chattiere qui buffle,482761.0,4445427.0,?,,non,100,?,2017,"Arrêt sur rien, à poursuivre (prendre equipement)",
+342,ENT_107005,GouffreDeLaGrotte,Gouffre de la grotte ,479065.0,4447905.0,436,,non,?,?,2017,"A descendre. Repéré le 25-02-2017 par Natalia, Jean Marc, Laurent, Joël (Nord camp du nid du condor)",
+343,ENT_107006,MilleEtUneCascade,Mille et une cascade,479490.0,4447336.0,361,,non,?,?,2017,"Descendu jusqu'à -20. Arret sur lèvre d'un P10 arrosé qui surplombe un gros puits.
+Proche et à l'Est du camp du nid du condor",
+345,ENT_107006,EmergenceDesTuyaux,Emergence des tuyaux ( rameur),479490.0,4447336.0,?,,non,?,?,2017,"(pas sûr des coordonnées utm) (coordonnées : 50°077223 - 075°18.0107) Dans la baie d'accès au plateau nord, coté ouest. Au pied de falaise. Escalade possiblement à faire ( escalade faite par lionel ,denis,david)",
+344,ENT_107007,GouffreDuCampDuNidDuCondor,Gouffre du camp du nid du condor,479389.0,4447402.0,311,,,20,15,2017,Etroit.. Mais continue!! Impenetrable,
+354,ENT_107009,GouffreChameau,Gouffre du Chameau,479556.0,4447204.0,380,162.0,oui,162,113,2017,"A proximité du camp du champignon, arrêt sur trop étroit à la cote -113m",
+356,ENT_107010,PerteDuPointG,perte du Point G,478796.0,4448311.0,420,,oui,35,20,2017,"Bouché, débit de perte lors de la recon environ 5 L-s",
+365,ENT_107011,CuevaCaboVertical,Cueva d'el cabo vertical,476133.0,4447399.0,39,345.0,oui,345,18--14,2017,"Exploration Anthonyet Denis lors de l'incursion sur le Pacifique du 05-02-17.Explo y topo 15-02,Natalia,Buldo,Anton,Richard y Angel. Terminado.Gran porche con tubo-fisura ascendente por el lado sur con pequeño aporte que se cierra. Al norte rampa que lleva a tubo horizontal de buen tamaño, que termina en un pozo de 8 m. que enfrente recibe aporte que abajo del pozo se sifona.",
+366,ENT_107012,CouleeBlanche,Porche de la coulée blanche,482764.0,4445438.0,25 (estimation),84.0,non,84,26,2017,"Le grand porche visible en entrant à droite dans la Bahia Blanca. Repéré par Jean-Marc, Jo, Laurent et Franck. Escalade, topo et explo par Yann et Yannick le 13-02017. Escalade de 20 m derrière le porche d'entrée permet de prendre pied dans un méandre, menant d'un côté à un autre porche en hauteur et de l'autre continue. Explo en cours.",
+368,ENT_107013,GrotteDesCanelures,Grotte des Canelures,478876.0,4447299.0,"106, donnée GPS surestimée",,non,70,15,2017,"Repérée et explorée le 13-02-17 par  Serge, José, Jean-François, Natalia et Franck. Vaste porche visible de la plage, au départ de l'accès au camp Nord. Montée en 15 min par la forêt puis le long d'une canelure. Méandre parcouru par un faible filet d'eau, exploré sur 50 m sur une branche et 20 sur une autre. Arrêt sur passage étroit, l'explo peut être considérée comme terminée.",
+369,ENT_107014,DuchasDeSanPedro,Las Duchas de San Pedro,482357.0,4446971.0,ca 50 m,268.0,oui,268,"45 (-41, +4)",2017,"Découverte par Natalia, Laurent, Jean-Marc et Joël. Deux entrée reliée patr une galerie exondée. Un siphon amont exploré depuis l'entrée inférieur, sûrement en connection avec celui de l'entrée supérieure, mais jonction non faite. Le siphon descend jusqu'à -20, remonte à -5 vers la seconde entrée, puis redescend à -13, terminus des explos. *Siphon de 96 m, -20. ",
+370,ENT_107015,EteAustral,Été austral ,480135.0,4447658.0,411,105.0,oui,105,83,2017, Découvert et descendu par Anthonie et Yannick le 7 février ,
+371,ENT_107016,TrouDuCarnet,Trou du carnet ,480211.0,4447632.0,429,,oui,20,10,2017,descendu par Yannick pour remonté le carnet tombé par Vicenté le 7 février,
+372,ENT_107017,N1,N1,482762.0,4445436.0,?,,oui,10,0,2017,"Prospection et visite , José , Serge et Yannick ",
+373,ENT_107017,N2,N2,482762.0,4445436.0,?,,oui,30,0,2017,"Prospection et visite , José, Serge et Yannick ",
+374,ENT_107019,GouffreCasque,Gouffre du casque,479879.0,4447862.0,347,1600.0,oui,1600,203,2017,1389m de topo,
+382,ENT_107020,CN16-02-1,CN 16-02-1,479373.0,4446955.0,387,,oui,50,40,2017,"Gros gouffre, arrêt à -40",
+383,ENT_107021,CN16-02-2,CN 16-02-2,479569.0,4447160.0,387,,non,20,15,2017,Gros porche avec arrêt sur étroit,
+384,ENT_107022,MadameCafe,Madame Café,479547.0,4447215.0,384,66.0,oui,66,47,2017,,
+385,ENT_107023,CN16-02-4,CN 16-02-4,479795.0,4447413.0,405,,oui,25,25,2017,"Gouffre, arrêt à -25",
+386,ENT_107024,CN16-02-5,CN 16-02-5,479591.0,4447357.0,383,,oui,?,15,2017,Trou près du camp nord 3 avec du débit. Il keut à -15,
+406,ENT_107026,PN01,PN01,477817.0,4446753.0,60,,,30,10,2019,,
+407,ENT_107027,PN02,PN02,477795.0,4446685.0,60,,,15,15,2019,,
+408,ENT_107028,GouffreJackpot,Gouffre Jackpot,482804.0,4447950.0,369,,,987,265,2019,,
+409,ENT_107029,PerteCirque4,PC4 - Perte Cirque 4,482664.0,4447782.0,362,,,20,12,2019,,
+411,ENT_107030,CuevaCascada,Cueva Cascada,478605.0,4447058.0,,,,230,52,2019,,
+403,ENT_107031,PuntaBlanca,Punta Blanca,478574.0,4446622.0,,,,3100,,2019,,
+357,ENT_107031,PuntaBlanca,Cueva de la Punta Blanca,478574.0,4446622.0,?,2287.0,oui,2287,14--44,2017,développement exploré 22,
+317,ENT_108001,OjoDeLaMadre,Ojo de la Madre,484150.0,4446766.0,406,190.0,oui,190,49,2017,"Perte très arrosée, fin sur siphon bas etroit ; depôts fluvio-glaciaires ; spéléothèmes prélevés",
+318,ENT_108002,OmbligoDeLaMadre,Ombligo de la Madre,484295.0,4447150.0,365,283.0,oui,283,146,2017,"Belle perte ; 30m x 10m, tube incliné à 45°, rivière cascadante 200L-s. Arrêt sur siphon etroit. ",
+319,ENT_108003,Sumidero,Sumidero ,484486.0,4447573.0,,,oui,?,?,2017,Perte active mais dans doline bouchée par éboulement et bois. ,
+320,ENT_108004,LagrimasDeLaMadre,Lagrimas de la Madre,484396.0,4447498.0,294,223.0,non,223,116,2017,"Grand porche 20mx15m ; rivière 200L-s ; exploré en partie arrêt sur R3, explo à poursuivre",
+387,ENT_108004,GouffreLagrimas,Gouffre Lagrimas,484396.0,4447498.0,350,,,355,150,2019,,
+321,ENT_108005,Sumidero,Sumidero,484535.0,4448170.0,198,,oui,?,?,2017,Perte active mais dans doline bouchée par éboulement et bois. ,
+322,ENT_108006,Garganta,Garganta,484595.0,4448213.0,180,,oui,,,2017,"Grand porche 20mx20m ; rivière 1m3-s ; très prometteur, à explorer",
+323,ENT_108007,Sumidero,Sumidero,484633.0,4448258.0,191,,oui,?,?,2017,Perte active mais dans doline bouchée par éboulement et bois. ,
+324,ENT_108008,Utero de la Madre,Utero de la Madre,484956.0,4448483.0,220,770.0,oui,xxx 770,xxx 182,2017,"Descendu sans corde jusqu'au siphon, beaux volumes, rivière active ; traces des inventeurs retrouvées ; shunt possible du siphon par escalade de 4m dans une galerie sup. ",
+325,ENT_108009,Sumidero,Sumidero,485157.0,4448585.0,225,,oui,?,?,2017,"Beau porche, bouché par effondrement plafond à quelques mètres de l'entrée, aller voir derrière par le dessus des calcaires. ",
+326,ENT_108010,Sumidero,Sumidero,485495.0,4447616.0,317,,oui,?,?,2017,Petite perte étroite explorée sur quelques mètres; impénétrable,
+327,ENT_108011,agujero,agujero,486016.0,4447774.0,290,,non,,,2017,"Gouffre bordure SE scandinavie, P15 d'entrée, ruissellements, non descendu",
+328,ENT_108012,agujero,agujero,483835.0,4446220.0,417,,non,,,2017,Gouffre bordure SE scandinavieTube à 45° de 2m de diamètre non descendu ; ,
+388,ENT_108014,GouffreDeLArche,Gouffre de l'Arche,486742.0,4448369.0,15,,,15,15,2019,,
+56,ENT_109001,TroisPorches,Grotte des 3 Porches,485618.0,4444774.0,60,280.0,non,120,-32-+17,2008,Arrêt sur puits,
+57,ENT_109002,TroisPorches,Grotte des 3 Porches,485602.0,4444774.0,60,,oui,,,2008,Occupation humaine,
+389,ENT_109003,CuevaBarachos,Cueva Barachos,485779.0,4445842.0,375,,,10,8,2019,,
+390,ENT_109004,CuevaCaliza,Cueva Caliza,485808.0,4445794.0,370,,,200,100,2019,,
+391,ENT_109005,EnDesespoirDeCause,En desespoir de Cause,485651.0,4445694.0,384,,,40,40,2019,,
+392,ENT_109006,P10,P10,486410.0,4445941.0,414,,,10,10,2019,,
+393,ENT_109007,PetiteGrotte,petite Grotte,485737.0,4445148.0,278,,,20,6,2019,,
+394,ENT_109008,GouffreHalal,Gouffre Halal,485812.0,4445780.0,,,,128,105,2019,,
+395,ENT_109009,Gouffralail,Gouffre A l'Aïl,485537.0,4445627.0,359,,,71,46,2019,,
+396,ENT_109010,GouffreMaPremiere,Gouffre Ma première,485587.0,4445498.0,319,,,25,25,2019,,
+397,ENT_109011,GrandeTraversee,Gouffre La Grande Traversée,485584.0,4445478.0,319,,,86,"-4, +11",2019,,
+398,ENT_109012,CuevaDeLaMerienda,Cueva de la Merienda,486478.0,4445928.0,388,,,10,2,2019,,
+399,ENT_109013,Gauges,Gouffre des Gaugés,485438.0,4445269.0,300,,,102,89,2019,,
+400,ENT_109014,Pissotiere,Gouffre la Pissotière,485816.0,4445878.0,360,,,50,24,2019,,
+401,ENT_109015,TroisEntreesPlusUne,Grotte des trois entrées plus une,485649.0,4444763.0,53,,,3024,"-54, +78",2019,,
+404,ENT_109016,TrouDeLaChattiere,Gouffre de la Chatiere,485795.0,4444848.0,36,,,120,36,2019,,
+410,ENT_109017,PetiteChinoise,Resurgence de la Petite Chinoise,486340.0,4445620.0,,,,340,83,2019,,
+412,ENT_109018,ParaisoDeLasDuchas,Paraiso de las duchas,485880.0,4445791.0,,,,218,133,2019,,
+59,ENT_201001,Resurgence2DuCanyon,Résurgence 2 du Canyon,478266.0,4438945.0,0,40.0,non,,-4-+2,2008,Arrêt sur galerie exondé post S1 (-4m-30m),
+105,ENT_201002,LaRabasse3,La Rabasse 3,473138.0,4437000.0,325,0.0,oui,145,-50,2010,,José-Buldo-Vanessa
+132,ENT_201002,C4T2,C4T2,473138.0,4437000.0,325,,,,,2010,,Buldo
+124,ENT_201003,Secteur Barros Luco,Secteur Barros Luco,473081.0,4438618.0,385,0.0,oui,20,-12,2010,,José-Vanessa-Buldo-Sergio
+106,ENT_201003,Secteur Barros Luco,Secteur Barros Luco,473081.0,4438618.0,385,0.0,oui,130,-50,2010,,José-Vanessa-Buldo-Sergio
+107,ENT_201004,LaRabasse1,La Rabasse 1,473185.0,4437080.0,337,0.0,oui,92,-40,2010,,José-Buldo-Vanessa
+135,ENT_201004,C4T1,C4T1,473185.0,4437080.0,337,,,,,2010,,Buldo
+108,ENT_201005,Cueva3,Cueva 3,473614.0,4437045.0,273,0.0,oui,61,-35,2010,,José-Cédric
+109,ENT_201006,Cueva7,Cueva 7,473794.0,4437339.0,294,0.0,oui,51,-35,2010,,José
+110,ENT_201007,Cueva1,Cueva 1,473598.0,4437045.0,290,0.0,oui,52,-30,2010,,José-Cédric
+111,ENT_201008,Cueva11,Cueva 11,473527.0,4437152.0,338,0.0,oui,38,-28,2010,,Serge-Jean Phi-Cédric
+112,ENT_201009,CuevaDuTelephone,Cueva du Téléphone,473512.0,4437140.0,340,0.0,oui,38,-26,2010,,Vanessa-Serge
+113,ENT_201010,Cueva8,Cueva 8,473749.0,4437328.0,309,0.0,oui,30,-26,2010,,Cédric
+114,ENT_201011,cueva101,cueva,473423.0,4437558.0,492,0.0,oui,30,-25,2010,,"Buldo, José, Jean Phi"
+115,ENT_201012,TrouDuMarteau,Trou du Marteau,473607.0,4437277.0,386,0.0,oui,25,-21,2010,Situé au dessus du camp 4 Arrêt sur éboulis (peu d'interré),Cedric-Vanessa-Serge
+138,ENT_201012,C4Cueva 9,C4 Cueva 9,473607.0,4437277.0,385,,,,,2010,,Cédric
+116,ENT_201013,LaRabasse2,La Rabasse 2,473066.0,4437002.0,311,0.0,oui,35,-20,2010,,José-Buldo-Vanessa
+133,ENT_201013,C4T3,C4T3,473066.0,4437002.0,310,,,,,2010,,Buldo
+117,ENT_201014,cueva102,cueva,473378.0,4437631.0,526,0.0,non,25,-20,2010,,"Buldo, José, Jean phi"
+119,ENT_201015,Cueva104,Cueva,473524.0,4437766.0,469,0.0,oui,20,-20,2010,,"Buldo, José, Jean Phi"
+120,ENT_201016,Cueva10,Cueva 10,473535.0,4437264.0,347,0.0,oui,45,-15,2010,,José-Cédric
+121,ENT_201017,Secteur Barros Luco,Secteur Barros Luco,473581.0,4437960.0,393,0.0,oui,30,-15,2010,,José-Vanessa-Buldo-Sergio
+122,ENT_201018,Cueva2,Cueva 2,473619.0,4437025.0,268,0.0,oui,28,-15,2010,,José-Cédric
+123,ENT_201019,Cueva105,Cueva,473196.0,4437124.0,274,0.0,oui,20,-15,2010,,"José, Serge, Vanessa, Buldo, Jean Phi"
+125,ENT_201021,Secteur Barros Luco,Secteur Barros Luco,473580.0,4437961.0,393,0.0,oui,13,-10,2010,,José-Vanessa-Buldo-Sergio
+126,ENT_201022,Cueva12,Cueva 12,473519.0,4437155.0,335,0.0,oui,33,-8,2010,,Serge-Jean Phi-Cédric (porche)
+127,ENT_201023,Cueva5,Cueva 5,473690.0,4437099.0,272,0.0,oui,24,-8,2010,,José-Cédric
+128,ENT_201024,Cueva13,Cueva 13,473520.0,4437115.0,8,0.0,oui,15,-8,2010,,Serge-Jean Phi-Cédric
+129,ENT_201025,Secteur Barros Luco,Secteur Barros Luco,473276.0,4437291.0,412,0.0,oui,15,-8,2010,,José-Vanessa-Buldo-Sergio
+130,ENT_201026,PorcheBaleine,Porche 2 Os de Baleine,471000.0,4440731.0,9,0.0,oui,120,15,2010,Découverte d'ossements de baleine et de lobos (photos disponibles),Jean Phi-Cédric (os baleine+coquillages)
+134,ENT_201029,Cueva4,Cueva 4,473670.0,4437075.0,270,,,,,2010,,Cédric
+136,ENT_201031,C3,C3,473587.0,4437133.0,303,,,,,2010,,Buldo
+137,ENT_201032,C4Cueva6,C4 Cueva 6,473735.0,4437228.0,306,,,,,2010,,
+139,ENT_201034,C4SansNom10,C4 SansNom10,473652.0,4437656.0,397,,,,,2010,,Cédric
+151,ENT_201034,CuevaDeLaCasquette,Cueva de la casquette,473652.0,4437656.0,397,0.0,oui,70,-48,2010,Entrée étroite de la largeur du corps beau donnantsur un puit vertical style cathédrale de 30m (cavité avec plusieurs entrées),Cedric-Vanessa-Serge
+140,ENT_201035,C4SansNom9,C4 SansNom 9,473683.0,4437677.0,381,,,,,2010,,Cédric
+154,ENT_201035,TrouDeLaPlaquette,Trou de la Plaquette,473683.0,4437677.0,382,0.0,oui,45,-23,2010,salle d'effondrement ouverte qui fait au gouffre de la casquette dans un alignement de gouffres qui se suivent vers le Barros Luco,Cedric-Vanessa-Serge
+141,ENT_201036,C4Nfissure0,C4 Nfissure 0,473577.0,4438008.0,389,,,,,2010,,Cédric
+142,ENT_201037,C4SansNom8,C4 SansNom 8,473579.0,4438420.0,361,,,,,2010,,Cédric
+143,ENT_201038,C4SansNom7,C4 SansNom 7,473601.0,4438564.0,347,,,,,2010,,Cédric
+144,ENT_201039,C4SansNom6,C4 SansNom 6,473616.0,4438593.0,342,,,,,2010,,Cédric
+155,ENT_201040,PorcheDuSonnar,Porche du Sonnar,473599.0,4438718.0,338,0.0,oui,26,-20,2010,arrêt sur éboulis,Cedric-Jose-JeanPhilippe-Serge
+145,ENT_201040,C5Cueva2,C5 Cueva2,473599.0,4438718.0,337,,,,,2010,,Cédric
+146,ENT_201041,C4SansNom1,C4 SansNom 1,473407.0,4438857.0,403,,,,,2010,,Cédric
+147,ENT_201042,C4SansNom4,C4 SansNom 4,473028.0,4438978.0,312,,,,,2010,,Cédric
+148,ENT_201043,C5Cueva3,C5 Cueva3,473077.0,4439130.0,313,,,,,2010,,Cédric
+153,ENT_201043,GouffreDuColibri,Gouffre du Colibri,473077.0,4439130.0,313,,non,56,-30,2010,Gouffre d'éffondrement ouvert avec possibilité de continuation mais éboulis instable (plus grosse entrée de la doline),Cedric-Jose-JeanPhilippe-Serge
+149,ENT_201044,C4SansNom3,C4 SansNom 3,473044.0,4439162.0,307,,,,,2010,,Cédric
+150,ENT_201045,C5 Cueva1,C5 Cueva1,473343.0,4439239.0,391,,,,,2010,,Cédric
+152,ENT_201047,Champignon,Champignon,473344.0,4439239.0,391,0.0,oui,60,-45,2010,Situé au dessus du camp 5 près du seul champignon du secteur. Gros puit vertical de plus de 40m qui suit une faille,Cedric
+330,ENT_201051,Perte3,Perte 3,477006.0,4441940.0,,,oui,?,?,2017,Explo perminée. Arret à -15,
+331,ENT_201052,GB1,GB1,479866.0,4441309.0,356,,non,?,?,2017,"23-01-2017 non descendu, à faire.",
+332,ENT_201053,GB2,GB2,480018.0,4441221.0,351,,non,?,?,2017,"23-01-2017 non descendu, à faire.",
+333,ENT_201054,GB3,GB3,479883.0,4441642.0,239,,non,?,?,2017,"P 50, à descendre, 23-01-17, non descendu,à faire",
+334,ENT_201055,Perte2,Perte 2,476404.0,4442053.0,,,?,?,?,2017,Pas d'information,
+335,ENT_201056,GBTrou1,GB Trou 1,476668.0,4441599.0,303,46.0,oui,46,41,2017,Calcaire,
+336,ENT_201057,GBTrou2,GB Trou 2,476670.0,4441599.0,306,,oui,20,15,2017,Calcaire,
+337,ENT_201058,GBTrou3,GB Trou 3,476570.0,4441550.0,329,,oui,30,25,2017,Calcaire,
+338,ENT_201059,GB Trou 5,GB Trou 5,476811.0,4441550.0,298,,?,?,?,2017,Calcaire,
+339,ENT_201060,GouffreDuTotem,Gouffre du Totem,476555.0,4442064.0,?,,?,?,?,2017,"Grosse perte à proximitédu camp GB, descendue jusque -40, arrêt sur trop peur",
+346,ENT_201061,Ayayemal,Ayayémal,476491.0,4441850.0,292,,oui,?,?,2017,Pas d'information,
+347,ENT_201062,Ayayebo,Ayayébo,476217.0,4441660.0,314,160.0,Oui,160,96,2017,"P28 suivi de 2 puits parallèle, 1 descendu (35m) coté ""sec"" le 31-01-17 et branche active descendue le 08-02-17, arrêt à -96 sur étroit plein d'eau",
+348,ENT_201063,GB1bis,GB1 bis,476293.0,4441568.0,344,,non,?,?,2017,Au dessus du GB 30-01-2017 1. A explorer,
+349,ENT_201064,Gouffre2,Gouffre ,476287.0,4441655.0,364,,non,?,?,2017,à descendre. P15 avec une fenêtre qui semble donner un accès à un puits parallèle.,
+350,ENT_201065,SANS NOM,SANS NOM,476316.0,4440859.0,596,,non,?,?,2017,S'ouvre au sommet de la crête. A explorer. Dans zone assez broyée. Etre dos au sommet pour voir l'entrée…,
+351,ENT_201066,SANS NOM,SANS NOM,476028.0,4441666.0,277,,non,?,?,2017,"Gouffre environ 30m à explorer ? Danger, zone broyée, paroies instables…",
+352,ENT_201067,SANS NOM,SANS NOM,475784.0,4441912.0,388,,non,?,?,2017,Porche qui queute proche du contact calcaire grès,
+358,ENT_201068,GB-07-02-1,GB 07 02-1,475808.0,4441893.0,380,,oui,40,30,2017,Pas d'information,
+359,ENT_201069,GB-07-02-2,GB 07 02-2,475787.0,4441900.0,382,,oui,45,40,2017,Pas d'information,
+360,ENT_201070,GB-07-02-3,GB 07 02-3,476036.0,4441670.0,295,,non,30,30,2017,Arrêt sur trou foireux délité,
+361,ENT_201071,SANS NOM,SANS NOM,476576.0,4441740.0,281,45.0,oui,45,43,2017,Gouffre borgne avec quelques paliers sans suite,
+362,ENT_201072,SANS NOM,SANS NOM,476632.0,4441445.0,378,,non,15,15,2017,Petits puits colmaté,
+363,ENT_201073,GouffreDuZiploc,Gouffre du Ziploc,476597.0,4441532.0,316,44.0,oui,44,30,2017,,
+377,ENT_201074,CuevaHarrico,Cueva Harrico,481244.0,4440093.0,29,254.0,oui,254,+85,2017,Situada en las paredes sur de Punta Indice;Escalada desde el mar a gran boca; rampa ascendente y llegamos a un tubo con aire que termina cerrandose; Explo (Anton y Angel),
+378,ENT_201075,SumideroDelChorizoPlastico,Sumidero del Chorizo Plastico,475551.0,4442964.0,285,,oui,50,30,2017,Sumidero al otro lado del collado al norte del campamento,
+379,ENT_201076,SANS NOM,SANS NOM,475670.0,4442920.0,323,,?,?,?,2017,Explorada por( Denis y Anton) Cueva de derrumbe y bloques cercq del Sumidero,
+380,ENT_201077,SANS NOM,SANS NOM,475375.0,4442069.0,430,,oui,45,45,2017,Sima bajada por David y Anton con craneos de Coivos ,
+381,ENT_201078,SANS NOM,SANS NOM,475272.0,4442209.0,460,,,?,?,2017,Zona de grandes bocas de simas muy interesantes Al menos tres bocas de grqndes dimensiones,
+131,ENT_201080,Porche1,Porche 1,470851.0,4437247.0,13,0.0,oui,50,30,2010,"Porche situé avant la plage du Pacifique sur la rive gauche de la rivière (visible depuis la fin du lapiaz du camp 4, le porche s'ouvre 30 m au-dessus de la rivière) Pas de découverte particulière.",Jean Phi-Cédric (Plage Pacifique)
+93,ENT_203001,PerteDuCoypo,Perte du Coypo,472905.0,4434743.0,253,283.0,oui,283,-191,2010,Perte très active présentant de beaux puits et un superbe méandre.,"Jean-Francois H, Thomas, Florian, Olivier T"
+94,ENT_203002,GouffreFelin,Gouffre Félin,473028.0,4434786.0,258,294.0,oui,294,-121,2010,beau réseau de puits,"Olivier T, Isa, Florian, Thomas"
+95,ENT_203003,PuitsDuBourdon,Puits du Bourdon,473145.0,4434865.0,249,107.0,oui,107,-48,2010,"puits donnant sur un superbe méandre cannelé, arrêt sur étroiture","Isa, Olivier T"
+96,ENT_203004,GrosTrou,Gros Trou,473023.0,4434914.0,252,30.0,oui,30,-15,2010,aven s'ouvrant dans le grès,"Isa, Olivier T"
+97,ENT_203005,Résurgence,Résurgence,472899.0,4435932.0,34,,oui,10,0,2010,"Résurgence sur faille, impénétrable","Isa, Olivier T"
+98,ENT_203006,Résurgence,Résurgence,472591.0,4435495.0,119,,oui,0,0,2010,Résurgence non pénétrable,"Isa, Olivier T"
+99,ENT_203007,Résurgence,Résurgence,472563.0,4435496.0,121,,oui,0,0,2010,Résurgence non pénétrable,"Isa, Olivier T"
+102,ENT_203008,Aven C301,Aven C301,473096.0,4434992.0,334,,?,,,2010,P30 non descendu peu interessant,"Isa, Olivier T"
+104,ENT_203009,Aven,Aven,472629.0,4435676.0,105,,?,,,2010,Perte très très intéressante à aller voir,"Isa, Olivier T"
+156,ENT_203011,AbriDuGazon,Abri du Gazon,470883.0,4433935.0,35,,oui,20,0,2010,Grand porche 20m de diamètre dans le grès en bord de plage,"Olivier T, Florian"
+166,ENT_203012,GrotteDuNord,Grotte du Nord,471003.0,4434013.0,0,,oui,,,2010,"Petite cavité en bord de mer avec charbons, ossement, arêtes de poisson","Olivier T, Florian"
+92,ENT_204001,GouffreAlouette,Grotte de l'Alouette,474630.0,4432456.0,153,,oui,,,2010,"explo topo équipe 1 du camp 2 (""les doigts bleus"") le 31-01-2010. Gazelle et Alouette communiquent (même sans radio…)",
+79,ENT_204001,GouffreGazelle,Gouffre de la Gazelle,474630.0,4432456.0,153,505.0,oui,505,-65,2010,"explo topo équipe 1 du camp 2 (""les doigts bleus"") le 31-01-2010. Gazelle et Alouette communiquent (même sans radio…)","Arnaud, Fabien, Bruno, Denis, Steph"
+80,ENT_204002,EvequeCauchon,Evêque Cauchon,474370.0,4432520.0,74,235.0,oui,235,-58,2010,"Découverte par equipe 1 du camp 2 le 02-02-2010. Topographié ensuite par équipe du camp 4. Accés collecteur local, débit >100 L-s","Cédric, Vanessa, Bruno, Didier, Fabien, Stéphane, Denis, Arnauld"
+83,ENT_204003,GrotteFaussePucelle,Grotte de la fausse Pucelle,475586.0,4431730.0,130,117.0,oui,117,-30,2010,"redécouverte par équipe 1 du camp 2 le 01-02-2010 (découverte ""oubliée"" (non topo) par Richard et Jo en raid-éclair en 2000 depuis camp perte du Temps), env. 3 m3-s en crue. Située une centaine de mètres en amont (vers l'est) de la Fausse Pucelle).",Les doigts bleus
+100,ENT_204005,TrouDesCanelures,Trou des Canelures,473390.0,4434247.0,316,,?,,,2010,,Isa
+101,ENT_204006,Perte1,Perte,473289.0,4434576.0,305,,?,,,2010,Perte à voir ,"Olivier T, Isa"
+103,ENT_204007,Perte2,Perte,474168.0,4435461.0,157,,?,,,2010,Perte à voir,"Olivier T, Isa"
+161,ENT_204008,GrotteDuRapace,Grotte du Rapace,472046.0,4433537.0,84,0.0,non,50,6,2010,"joli petit méandre, arrêt sur trémie, deux petits départ laissé, sans grand intérêt","Olivier T, Florian"
+163,ENT_204009,GrotteDeLOursin,Grotte de l'Oursin,471984.0,4433604.0,50,175.0,non,175,25,2010,"Résurgence fossile (?) avec gros courant d'air, au pied du lapiaz. Campement nomade probable. Patelles, os, charbons. Colobris trogloxènes morts. Jolies excentriques et concretionnement ","Olivier T, Isa, Florian, Thomas, Jean Francois H"
+24,ENT_205001,AbriCotier,Abri Cotier,468749.0,4428616.0,2,80.0,oui,,5,2008,Occupation humaine,
+30,ENT_205002,AbriDuCerfeuil,Abri du Cerfeuil,469246.0,4429044.0,183,,oui,,,2008,Occupation humaine,
+34,ENT_205003,CuevaLaBas,Cueva La-Bas,472569.0,4429495.0,270,429.0,oui,,-233,2008,Arrêt sur siphon,
+35,ENT_205004,PerteDesDents,Perte des Dents,472991.0,4429200.0,250,505.0,oui,,-160,2008,Arrêt sur siphon,
+36,ENT_205005,SumideroJuanito,Sima Juanito,472888.0,4429344.0,233,205.0,non,,-134,2008,arrêt sur rien (attention à la crue),
+37,ENT_205006,CuevaArdilla,Cueva Ardilla,472675.0,4429462.0,245,,non,70,-70,2008,Arrêt sur ?,
+236,ENT_205007,Sou30,Sou30,472620.0,4429466.0,237,,oui,40,-35,2010,,
+38,ENT_205007,PozoEnBosque,Pozo en Bosque,472620.0,4429466.0,237,,oui,35,-35,2008,,
+39,ENT_205008,Pozo 2 en Caliza,Pozo 2 en Caliza,472373.0,4429958.0,300,,oui,70,-70,2008,,
+234,ENT_205008,Sou33,Sou33,472373.0,4429958.0,301,0.0,oui,80,-70,2010,,
+40,ENT_205009,Pozo 1 en Caliza,Pozo 1 en Caliza,472414.0,4429499.0,281,,oui,30,-30,2008,,
+237,ENT_205009,Sou31,Sou31,472414.0,4429499.0,281,0.0,oui,30,-30,2010,,
+41,ENT_205010,MD-SOU01,MD-SOU01,472798.0,4429403.0,260,,oui,50,-30,2008,,
+42,ENT_205011,MD-SOU02,MD-SOU02,472768.0,4429435.0,265,,oui,50,-35,2008,,
+67,ENT_205012,PerteInattendue,Perte Inattendue,472890.0,4429492.0,294,1274.0,non,1274,-226,2010,Perte sur contact grès calcaires. Un moins un aflfuent pénétrable n'a pas été topographié.,"Florence, Laurent, Jo, Olivier T, Thomas, Cédric"
+68,ENT_205013,PerteAmbree,La Perte Ambrée,472672.0,4429457.0,249,103.0,oui,103,-81,2010,arrêt méandre impénétrable,"Laurent C, Pierre"
+70,ENT_205014,porche,porche,471557.0,4429685.0,399,,?,,?,2010,Porche jef (voir + bas),Laurent M
+71,ENT_205015,PerteFaille,perte-faille,472343.0,4429312.0,309,,?,?,?,2010,,Laurent M
+72,ENT_205016,sortie traversée,sortie traversée,471527.0,4429604.0,415,,?,?,?,2010,,Laurent M
+73,ENT_205017,Trou serrure entrée,Trou serrure entrée,471546.0,4429667.0,407,,?,?,?,2010,,Laurent M
+74,ENT_205018,grotte jef,grotte jef,471601.0,4429940.0,413,,,,?,2010,h9.5 prof10m long20m,Laurent M
+75,ENT_205019,Aven grd diam,Aven grd diam,471184.0,4431010.0,275,,,,?,2010,axe probable sur faille,Laurent M
+76,ENT_205020,perte 2,perte 2,472620.0,4429463.0,249,,,,?,2010,,
+77,ENT_205021,PerteDesQuatreChampignons,Perte des 4 champi,474306.0,4431894.0,207,420.0,non,420,-165,2010,Exploré mais non topo jusqu'à -200 env. arrêt sur rien,"Sylvain, Cédric, José, Olivier G, Isa, "
+81,ENT_205022,JamesBonde,James Bonde,474215.0,4431943.0,230,0.0,oui,70,-54,2010,A proximité du Golden Igue,"Florian, Olivier G"
+85,ENT_205023,PerteDuJump,Perte du Jump,474413.0,4431894.0,191,,oui,15,-15,2010,Perte sur faille,"Olivier G, Sylvain"
+87,ENT_205024,FailleDuCoinceur,Faille du Coinceur,474282.0,4432118.0,190,0.0,oui,11,-11,2010,Descente sur un coinceur et un spit: on n'a gâché qu'un seul spit,Florian
+88,ENT_205025,IgueDuPlouc,Igue du Plouc,474109.0,4432134.0,200,0.0,oui,12,-9,2010,"""enfin une igue sur MDD""",Florian
+89,ENT_205026,CuevaDeLaFinDeMatinas,Cueva de la fin de Matinas,474488.0,4432062.0,170,0.0,oui,20,-6,2010,plus de temps à enfiler la combi que d'explo!,Florian
+160,ENT_205027,AbriGite,L'Abri-gîte,470380.0,4431713.0,1,,oui,5,0,2010,Abri de quelques m2 avec des semblants d'occupation,"Olivier T, Florian"
+162,ENT_205028,GrotteDuSud,Grotte du Sud,470163.0,4431420.0,2,40.0,oui,40,15,2010,Porche de 40m x20m,"Florian, Olivier T"
+164,ENT_205029,CuevaDeLaMadre,Cueva de la Madre,470109.0,4431220.0,28,532.0,non,532,-18-+20,2010,Porche d'entrée 60m haut par 125m de large. arrêt sur une E6 sur faille facile. ,"Florian, Olivier T"
+165,ENT_205030,Porche,Porche,471491.0,4431944.0,20,,?,,,2010,Porche en bordure de lage non exploré. Traces humaines tres certaines.Porche 10mx5m à aller voir,"Jean Francois H, Thomas, Olivier T"
+203,ENT_205031,GrotteAudeline,porche jef = gr audeline,471572.0,4429671.0,357,,,,,2010,,
+238,ENT_205035,Porche,Porche,471623.0,4430070.0,388,,oui,10,0,2010,"Porche 20m de large, qui queute","Jean Francois H, Thomas, Olivier T"
+240,ENT_205036,Aven,Aven,471645.0,4430061.0,360,,?,,,2010,"Puits 4m de diamètre partant en méandre, à voir","Jean Francois H, Thomas, Olivier T"
+241,ENT_205037,GrotteSueno,Grotte Sueno,471621.0,4429939.0,423,,?,,,2010,Abri à Jeff,"Jean Francois H, Thomas, Olivier T"
+31,ENT_206001,CuevaAyayema,Cueva Ayayema,476883.0,4424327.0,,,oui,,,2008,Coordonnées 2000 fausses (repointage 2008),
+32,ENT_206002,GrotteDuDyke,Grotte du Dyke,476461.0,4423410.0,,,oui,,,2008,Callote hoxipitale,
+446,ENT_207001,SystemeCondors, Systeme des Condors,479379.0,4428572.0,141,,,,,2006,,
+447,ENT_207001,SystemeCondors, Systeme des Condors,479379.0,4428572.0,141,,,,,2006,,
+448,ENT_207001,GouffrePetitCreux, Gouffre du petit creux,479379.0,4428572.0,141,,,,,2006,,
+23,ENT_208001,Cueva10H10,Cueva 10H10,468779.0,4427269.0,80,341.0,non,160,-7-+23,2008,,
+28,ENT_208002,Résurgence 9 plage de la Baleine,Résurgence 9 plage de la Baleine,468617.0,4427344.0,40,,non,10,0,2008,Arrêt sur escalade,
+29,ENT_208003,Grotte20PlageDeLaBaleine,Grotte 20 plage de la Baleine,468950.0,4428050.0,20,,oui,40,,2008,,
+229,ENT_208004,Aven,Aven,470687.0,4426335.0,559,,?,,,2010,Cavité à voir ,Didier
+230,ENT_208005,Aven,Aven,470676.0,4426340.0,561,,?,,,2010,Cavité à voir ,Didier
+13,ENT_209001,PleinCintre,Grotte du Plein Cintre,473616.0,4425884.0,215,500.0,oui,50,+45--34,2008,"Résurgence (arrêt sur siphon, intstrumenté)",
+14,ENT_209002,EmergenceBarillet,Emergence du Barillet,472922.0,4425932.0,436,64.0,oui,,21,2008,Amont de la détente,
+15,ENT_209003,GouffreDeLaGachette,Gouffre de la Gachette,473027.0,4425922.0,428,,oui,40,-15,2008,cavité explorée (jonction avec puits d'entrée de la Détente),
+16,ENT_209004,Perte de l'Acharné,Perte de l'Acharné,473027.0,4425450.0,334,,oui,45,-43,2008,,
+18,ENT_209005,Perte n° 18,Perte n° 18,473067.0,4425846.0,422,57.0,oui,,-34,2008,,
+19,ENT_209006,ResurgenceDeLaPlage,Résurgence de la plage,471328.0,4422992.0,3,380.0,non,,+25--28,2008,Arrêt sur galerie exondé post S1 (-28m-200m),
+20,ENT_209007,GrotteEvier,Grotte de l'Evier,473527.0,4428264.0,195,75.0,non,,-60,2008,Arrêt sur puits à finir par beau temps : entrée de la perte du temps ?,
+21,ENT_209008,BobLEponge,Bob l'Eponge,473372.0,4427993.0,200,,oui,60,-40,2008,"petite perte, arrêt sur siphon",
+22,ENT_209009,CuevaGringa,Cueva Gringa,472980.0,4428693.0,154,,oui,30,-30,2008,petite perte,
+43,ENT_209010,DolineCalafate,Doline Calafate,473125.0,4428203.0,250,,non,,,2008,"rebouchée par éboulis, restes archéologiques",
+167,ENT_209011,GouffreDeLaDetente,Gouffre de la Détente,473050.0,4425902.0,445,,oui,160,-323,2010,dév total: 800m,
+169,ENT_209012,Aven,Aven,473026.0,4425860.0,450,,,,,2010,a explorer - photo 221,
+170,ENT_209013,Aven,Aven,473542.0,4426174.0,357,0.0,,,,2010,P20? photo 200-202,
+211,ENT_209014,GouffreDuKit,Gouffre du Kit,470653.0,4425395.0,505,0.0,oui,130,-120,2010,P100,"Isa, José, Serge"
+212,ENT_209015,GouffreCumpleAnos,Gouffre Cumple Anos,471149.0,4425341.0,412,119.0,non,168,-81,2010,gouffre d'entrée suivi d'un méandre au contact grès-calcaire. Arrêt sur étroiture passable.,"Jean Francois H, Didier, Laurent M, Florence, Olivier T"
+213,ENT_209016,LaMarmotte,La Marmotte,470988.0,4425143.0,,,oui,60,-57,2010,,"José, Isa, Serge"
+214,ENT_209017,AvenKinka4,Aven Kinka 4,471051.0,4425241.0,428,,oui,60,-40,2010,vu et descendu par José le 19-01-2010,José
+215,ENT_209018,Perte3,Perte,471314.0,4425512.0,,,oui,60,-40,2010,,"Isa, José"
+216,ENT_209019,AvenKinka3,Aven Kinka 3,471049.0,4425081.0,413,,oui,48,-28,2010,"vu et descendu par équipe Quinqua 19-01-2010 (Bruno, José, Jo, Fabien et Didier)","José, Bruno, Fabien, Didier"
+217,ENT_209020,Aven,Aven,470677.0,4425348.0,,,oui,30,-20,2010,,"José, Isa, Serge"
+218,ENT_209021,Aven,Aven,471014.0,4425120.0,,,oui,20,-20,2010,,"José, Isa, Serge"
+219,ENT_209022,Aven -20,Aven -20,471157.0,4425311.0,418,,oui,20,-20,2010,,Mulot
+220,ENT_209023,Gouffre1,Gouffre,471349.0,4425470.0,,,oui,,-20,2010,,"Isa, José"
+221,ENT_209024,AvenKinka2,Aven Kinka 2,471052.0,4425189.0,428,,oui,30,-15,2010,"vu et descendu par équipe Quinqua 19-01-2010 (Bruno, José, Jo, Fabien et Didier)","Bruno, Didier, Jo, Fabien, José"
+222,ENT_209025,AvenKinka1,Aven Kinka 1,471078.0,4425341.0,451,,oui,20,-15,2010,vu et descendu par Fabien et Didier le 19-01-2010,"Fabien, Didier"
+223,ENT_209026,Aven non descendu,Aven non descendu,471817.0,4424205.0,434,,?,,,2010,,Mulot
+224,ENT_209027,Aven,Aven,471827.0,4424273.0,433,,?,,,2010,a explorer. P30?,Laurent M
+225,ENT_209028,Aven,Aven,471576.0,4424536.0,414,,?,,,2010,a explorer. P30?,Laurent M
+226,ENT_209029,GrandAvenPerte,Grand Aven-Perte,471504.0,4425157.0,359,,?,,,2010,Trou D,
+227,ENT_209030,TROUA,TROU A,471073.0,4425289.0,433,,?,,,2010,,Mulot
+228,ENT_209031,GrandeDolinePerte,Grande Doline-Perte,471511.0,4425318.0,347,,?,,,2010,impénétrable,
+231,ENT_209032,Aven,Aven,471002.0,4425391.0,466,,,,,2010,,Mulot
+442,ENT_209040,PozoAlRato, Pozo Al rato,470997.0,4424711.0,380,,,,,2006,,
+443,ENT_209041,PozoDeLosCinquetenos, Pozo de los Cinquetenos,471314.0,4425650.0,386,,,,,2006,,
+441,ENT_209053,CuevaTorseOublie, Cueva Torse Oublie,473117.0,4426008.0,444,,,,,2006,,
+444,ENT_209058,PerteDesSabliers, Perte des Sabliers,473093.0,4426314.0,452,,,,,2006,,
+434,ENT_210001,ResurgenceFinDeSeno,Surgencia fin del Seno,482476.0,4427291.0,0,,,,,2006,,
+1,ENT_211001,AbrigoDelViento,El Abrito del Viento,469367.0,4421504.0,407,430.0,oui,20,-197,2008,Arrêt sur Voute Mouillante très étroite,
+2,ENT_211002,SumideroPiquante,Sumidero Piquante,469510.0,4421914.0,191,450.0,oui,,-147,2008,Arrêt sur méandre trop étroit,
+3,ENT_211003,GouffreAguilucho,Gouffre d'Aguilucho,470302.0,4421526.0,73,302.0,non,,-97,2008,Siphon amont - aval,
+4,ENT_211004,ExsurgencePicaflor,Exurgence du Picaflor,470298.0,4421336.0,10,40.0,oui,,5,2008,Résurgence,
+7,ENT_211006,SimaDelCol,Sima del Col,469700.0,4421477.0,348,,oui,30,-30,2008,,
+8,ENT_211007,MD-BDGS01,MD-BDGS01,470451.0,4422187.0,192,,non,,,2008,"cavité non explorée (salle, arrêt sur P20)",
+9,ENT_211008,MD-BDGS02,MD-BDGS02,469167.0,4420570.0,461,,oui,,,2008,Zone de pertes colmaté par les grés - fin de prospection bande de grès,
+10,ENT_211009,MD-BDGS03,MD-BDGS03,470593.0,4421961.0,71,,oui,20,-15,2008,,
+11,ENT_211010,MD-BDGS04,MD-BDGS04,469430.0,4420543.0,536,,non,,,2008,puits sur lapiaz repéré (P40),
+12,ENT_211011,MD-BDG05,MD-BDG05,469163.0,4421761.0,310,,non,,,2008,P15 repéré non descendu : fin prospection bande de grès sud,
+86,ENT_211012,GrotteGrandeSoeur,Grotte Grande Soeur,468326.0,4422439.0,360,0.0,oui,20,-13,2010,,Florian
+172,ENT_211014,GouffreDesMousquetaires,Gouffre des Mousquetaires,469809.0,4422763.0,298,,oui,56,-44,2010,arrêt sur trémie,"Arnauld, Laurent C, Cédric"
+173,ENT_211015,GouffreDeLArche,Gouffre de l'Arche,469950.0,4422849.0,310,,oui,,-32,2010, arrêt méandre impénétrable,"Cédric, Arnault, Laurent C"
+175,ENT_211016,GouffreALaTeteDOurs,Gouffre à la tête d'Ours,469828.0,4422922.0,332,,oui,25,-22,2010,,Olivier T
+176,ENT_211017,Aven,Aven,469300.0,4422855.0,322,0.0,oui,20,-20,2010,"Beau puits 20m, porche 8mx4m, bouché","Olivier T, Denis"
+177,ENT_211018,GrotteDeLobosSecos,Grotte de Lobos Secos,469869.0,4422885.0,328,,oui,79,-17,2010,Sert de camp pour la zone Lobos,"Laurent C, Denis, Arnauld, Cédric, Olivier T"
+178,ENT_211019,GrotteMarion,Grotte Marion,468214.0,4423045.0,339,74.0,oui,74,-17,2010,"explo-topo Thomas et Fabien le 24-01-2010, arrêt sur perte active étroite verticale en crue (qq l-s), ressaut passable sans corde, à faire par temps sec",Fabien Thomas
+179,ENT_211020,MeandreDesSables,Méandre des Sables,469499.0,4422846.0,384,38.0,oui,38,-15,2010,"explo-topo Thomas et Fabien le 24-01-2010, arrêt sur étroiture ponctuelle en roche massive l35 cm à élargir de peu pour passer. Vue sur 3,5 m pénétrable, très fort courant d'air sortant glacial",Fabien Thomas
+180,ENT_211021,GrotteDeLaConduite,Grotte de la Conduite,468835.0,4422513.0,364,,oui,30,-15,2010,Une conduite forcée traverse à la perpendiculiare le gouffre formé à partir d'une fracture vers -15m (avec un remplissage témoin).,"Cédric, Buldo"
+181,ENT_211022,CuevaDelAgua,Cueva del Agua,470151.0,4422766.0,352,,oui,20,-15,2010,effondrement important terminé sur éboulis. Une bache a permis de recueillir de l'eau en période sèche au camp des Lobos (accès facile),"Cédric, Arnauld"
+182,ENT_211023,AvenDeLaTraverse,Aven de la Traverse,467933.0,4422916.0,353,35.0,oui,35,-12,2010,explo-topo Thomas et Fabien le 24-01-2010,Fabien Thomas
+183,ENT_211024,GrotteDuNomade,Grotte du Nomade,468873.0,4422340.0,354,,oui,67,-9,2010,"Située sur la bande de grès, cette grotte est un vraisemblable abri temporaire","Arnauld, Denis, Olivier T"
+184,ENT_211025,GrotteFilostik,Grotte Filostik,469520.0,4422874.0,291,,oui,24,-8,2010,"Courte perte dans laquelle ont été trouvés quelques os, moule, patelles","Isa, Laurent C, Olivier T"
+185,ENT_211026,PorcheDeLaMadre2,Porche de la Madre 2,468705.0,4422852.0,364,,oui,20,-8,2010,petit porche avec un puit de 5m donnant sur un méandre avec arrêt sur éboulis,"Cédric, Jean Phi"
+186,ENT_211027,Aven,Aven,469418.0,4422796.0,294,0.0,oui,15,-6,2010,P6 qui queute,"Olivier T, Denis"
+187,ENT_211028,Abri3,Abri,469283.0,4422170.0,403,,oui,15,0,2010,Abri pouvant servir de camp,"Olivier T, Denis, Arnauld"
+188,ENT_211029,Aven,Aven,469741.0,4422253.0,432,,,,,2010,non descendu,"Olivier T, Denis"
+189,ENT_211030,GrandAvenTriple,Grand Aven Triple,468572.0,4422366.0,365,,oui,,,2010,"R30 au contact, bouché",Fabien
+190,ENT_211031,PerteEnsablée,Perte Ensablée,468805.0,4422367.0,374,,,,,2010,Grotte au contact grès calcaire,Fabien
+191,ENT_211032,Cueva1,Cueva 1,470582.0,4422455.0,581,,,,,2010,"a explorer, grosse entrée (10-20) dans la montée qui va de l'embarcadaire a la caverne des Lobos",Cédric
+192,ENT_211033,Porche,Porche,468379.0,4422465.0,357,,oui,,,2010,porche bouché. Abri au vent,"Olivier T, Denis"
+193,ENT_211034,AVEN ?,AVEN ?,470236.0,4422475.0,309,,,,,2010,,Olivier T
+194,ENT_211035,Aven,Aven,468258.0,4422538.0,415,,,,,2010,non descendu,"Olivier T, Denis"
+195,ENT_211036,LobosMatos,Lobos Matos,470178.0,4422545.0,303,,,,,2010,"a explorer, beau gouffre d'entrée (30m sondé)",Cédric
+196,ENT_211037,aven,aven,470197.0,4422588.0,288,,,,,2010,,
+197,ENT_211038,Aven,Aven,468322.0,4422615.0,389,,,,,2010,P20 interessant non descendu,"Olivier T, Denis"
+198,ENT_211039,aven,aven,469821.0,4422749.0,298,,,,,2010,,
+199,ENT_211040,Aven,Aven,469656.0,4422828.0,287,,oui,,,2010,bouché,"Olivier T, Denis"
+200,ENT_211041,Cueva5,Cueva 5,469763.0,4422959.0,310,,,,,2010,"a explorer, dans la doline des lobos",Cédric
+201,ENT_211042,Cueva6,Cueva 6,469807.0,4423507.0,433,,,,,2010,"a explorer, loin au nord",Cédric
+202,ENT_211043,Perte1Lobos,Perte 1Lobos,468573.0,4422358.0,332,,,,,2010,,
+205,ENT_211044,PerteDesLobos,Perte des Lobos,467782.0,4422983.0,330,556.0,oui,556,-303,2010,,"Florian, ..."
+210,ENT_211044,PuitsOctopus,Puits Octopus,467782.0,4422983.0,330,,oui,,,2010,jonctionne avec la perte des lobos (coordonnées des lobos),
+206,ENT_211045,ElCuloDeLaMadre,El Culo de la Madre,468699.0,4422722.0,355,,oui,182,-78,2010,Grosse entrée impressionnante qui suit un plan de faille et qui se termine par deux belles salles avec arrêt sur des éboulis.,"Sylvain, Cédric, Buldo"
+207,ENT_211046,LaGrotte,La Grotte,468496.0,4422512.0,331,0.0,oui,9,-9,2010,"""inutile d'y aller""",Florian
+208,ENT_211047,IgueDeDob,Igue Dedob,468516.0,4422547.0,,0.0,oui,15,-8,2010,"""buldo m'a forcé à y aller"" Flo.",Florian
+209,ENT_211048,GrottePetiteSoeur,Grotte Petite Soeur,468366.0,4422459.0,,0.0,oui,20,-4,2010,"coups de gouges de 0,1x0,2m",Florian
+61,ENT_212001,GrotteDeTarlton,Grotte de Tarlton,468000.0,4417000.0,30,,oui,100,,2008,Coordonnées (pointage carte) - Intérêt karsto,
+62,ENT_212002,TAR01,TAR01,470651.0,4418054.0,294,,non,,,2008,"cavité repérée, non explorée",
+63,ENT_212003,TAR02,TAR02,470567.0,4417883.0,380,,non,,,2008,"cavité repérée, non explorée",
+64,ENT_212004,TAR03,TAR03,470359.0,4417650.0,525,,non,,,2008,"cavité repérée, non explorée",
+65,ENT_212005,TAR04,TAR04,470446.0,4417762.0,476,,non,,,2008,"cavité repérée, non explorée",
+66,ENT_212006,TAR05,TAR05,470679.0,4418000.0,340,,non,,,2008,"cavité repérée, non explorée (plus d'autres cavités dans le même secteur)",
+0,ENT_213001,LeMasqueEtLaPlume,Perte du Masque et de la Plume,473667.0,4416955.0,90,1156.0,oui,,-66,2008,Instrumenté,
+439,ENT_213002,GrotteFinistere, Grotte du Finistere,472739.0,4416716.0,37,,,,,2006,,
+440,ENT_213003,PerteGlaciaire, Perte Glaciaire,472988.0,4417752.0,100,,,,,2006,Coordonnees probablement fausses,
+246,ENT_303001,Trou 1 sur 3eme bloc calcaire,Trou 1 sur 3eme bloc calcaire,495068.0,4309020.0,186,,,,,2014,,
+248,ENT_303002,PerteDesPortesDAbraham,Perte des Portes d'Abraham,494398.0,4309243.0,163,,,483,-135,2014,Topographie,
+249,ENT_303003,CuevaNutria,Cueva Nutria,495399.0,4309090.0,20,,,176,16 - -15,2014,Topographie,
+256,ENT_303004,LeRaccourci,Le Raccourci,494845.0,4308933.0,274,,non,30,-30,2014,"un P30 non descendu plein lapiaz, voir GPS Buldo",
+257,ENT_303005,Le RaccourciVegetal,Le Raccourci Végétal,495383.0,4308977.0,55,,non,20,-5,2014,petite traversée avec P5 non descendu GPS Buldo,
+258,ENT_303006,CuevaTortillaConCitron,Tortilla con Lemon,495075.0,4308714.0,253,160.0,oui,160,-32,2014,Intégrale,
+260,ENT_303007,GouffreDeLErbra,Gouffre de l'Erbra,494387.0,4309486.0,86,1356.0,non,1356,30 - -59,2014,"Topographie, plus de 400 m explorés non toporgaphié",
+261,ENT_303008,RegardResurgenceAvenir,Regard sur la résurgence de l'Avenir,494567.0,4309691.0,,,,,,2014,20 m en aval de la perte principale,
+268,ENT_303009,CuevaDuPlateau,Cueva du Plateau,493877.0,4308702.0,,,,20,-20,2014,,
+269,ENT_303010,IgueDuDike,Igue du Dike,493877.0,4308689.0,,,,20,-20,2014,,
+270,ENT_303011,Pas de nom,Pas de nom,493833.0,4308577.0,,,oui,0,0,2014,Perte impenetrable,
+277,ENT_303012,P20,P20,494928.0,4309421.0,301,,?,20,-20,2014,"Non descendu, au dessus de l'émergence d'Abraham",
+303,ENT_303013,Pas de nom,Pas de nom,494496.0,4309737.0,,,,,,2014,Sur le chemin pour aller à Erbra ; Grotte Topographiée,
+243,ENT_304001,PerteDeLaSucriere,Perte de la Sucrière,493130.0,4308331.0,399,,oui,120,-80,2014,terminé à -80,
+244,ENT_304002,OjoDelDiablo,Œil du Diable (ex perte majeure),493244.0,4309199.0,315,,,368,-81,2014,Topographie,
+245,ENT_304003,PerteDeLaSucriereInferieure,Perte de la Sucrière inférieure,493001.0,4308652.0,330,,,203,-84,2014,Topographie,
+247,ENT_304004,PerteCol1,Perte Col 1,493722.0,4308518.0,482,,,,,2014,,
+250,ENT_304005,TC1,TC1,493342.0,4308357.0,484,,oui,40,-40,2014,Colmaté,
+251,ENT_304006,TC2,TC2,493337.0,4308329.0,488,,oui,30,-30,2014,Colmaté,
+252,ENT_304007,TC3,TC3,492238.0,4307919.0,544,,oui,65,-65,2014,Colmaté,
+253,ENT_304008,TC4,TC4,493149.0,4307944.0,533,,,0,0,2014,"Impénétrable, à désober",
+254,ENT_304009,TC5,TC5,493139.0,4307904.0,533,,,,,2014,,
+255,ENT_304010,TC6,TC6,493149.0,4307879.0,522,,oui,,,2014,Colmaté,
+262,ENT_304011,GouffrePacifico,Gouffre Pacifico,492835.0,4307760.0,386,,?,356,-196,2014,"Explo Romain-Seba + Lionel-Natalia + Tigrou-Denis-Steph, topo réalisée",
+263,ENT_304012,Pas de nom,Pas de nom,492741.0,4307760.0,372,,,,,2014,,
+264,ENT_304013,Pas de nom,Pas de nom,492538.0,4307322.0,344,,,,,2014,,
+265,ENT_304014,Pas de nom,Pas de nom,492549.0,4307305.0,,,,,,2014,,
+266,ENT_304015,PerteDuCol1,Perte du col 1,493740.0,4308750.0,,,,-30,-30,2014,Puits sur faille,
+267,ENT_304016,PerteduCol2,Perte du col 2,493735.0,4308575.0,,,,0,0,2014,Extrémité Nord de la faille,
+271,ENT_304017,IgueDuMidi,Igue du Midi,493488.0,4308749.0,,,non,70,-58,2014,Arrêt sur méandre étroit,
+272,ENT_304018,IgueEnviluc,Igue Enviluc,493487.0,4308761.0,,,,18,-13,2014,,
+273,ENT_304019,CuevaManana,Cueva de la Mañana,493354.0,4308416.0,,,oui,11,-11,2014,Colmatage de grès,
+274,ENT_304020,TrouDuCairn,Trou du Cairn,493378.0,4308649.0,,,,40,-40,2014,,
+275,ENT_304021,GouffreDesTroisArches,Gouffre des Trois Arches,493345.0,4308371.0,483,,,60,-42,2014,Arrêt sur Siphon,
+276,ENT_304022,GouffreDeuxSpitsPourRien,"Gouffre ""2 spits pour Rien""",492718.0,4307932.0,358,,,50,-33,2014,,
+278,ENT_304023,GouffreNoFutur,Gouffre No Futur,494209.0,4303537.0,438,,,40,-40,2014,Croquis,
+279,ENT_304024,GouffreRetourVersLeFutur,Gouffre Retour vers le Futur,494247.0,4303396.0,412,133.0,,133,-61,2014,"Topo, Arrêt sur désob",
+281,ENT_304025,Arc13,Arc 13,492630.0,4307395.0,325,,,20,-15,2014,Schéma,
+283,ENT_304026,Arc12bis,Arc 12bis,492811.0,4307523.0,387,,,20,-15,2014,Schéma,
+282,ENT_304026,Arc12,Arc 12,492811.0,4307523.0,387,,,40,-30,2014,Schéma,
+284,ENT_304028,Arc3,Arc 3,492744.0,4307438.0,368,,,45,-30,2014,Schéma,
+285,ENT_304029,Arc4,Arc 4,492791.0,4307449.0,380,,,20,-20,2014,Schéma,
+286,ENT_304030,SumideroFuturo,Gouffre Futur 1,493519.0,4304030.0,545,,,,,2014,Voir Schéma Xav,
+287,ENT_304031,SumideroFuturo,Gouffre Futur 2,493402.0,4304216.0,562,,,40,-30,2014,Voir Schéma Xav,
+288,ENT_304032,Gouffre N°1 Sommet 3,Gouffre N°1 Sommet 3,493524.0,4304050.0,554,,,70,-40,2014,Jonctionne avec Gouffre Futur 1 de Tigrou ; Arrêt sur éboulis à -40 m,
+289,ENT_304033,Pas de nom,Pas de nom,493405.0,4304223.0,557,,oui,40,-30,2014,Terminé ; Même gouffre que le Gouffre Futur 2 de Tigrou,
+290,ENT_304034,Gouffre n°3 sommet 3,Gouffre n°3 sommet 3,493434.0,4304074.0,54,,oui,20,-16,2014,Terminé,
+291,ENT_304035,GrotteMachuPichu,Machu-Pichu,492079.0,4310722.0,,214.0,?,214,16 - -4,2014,Topographie,
+292,ENT_304036,GouffreUnCulDePlusAExplorer,"Gouffre ""Un cul de plus à explorer""",492861.0,4307876.0,399,,non,,,2014,A explorer,
+293,ENT_304037,Gouffre près du camp du Futur,Gouffre près du camp du Futur,494155.0,4303338.0,407,,non,20,-20,2014,"A Explorer, P20 mini",
+294,ENT_304038,Arc14,Arc 14,492564.0,4307349.0,347,,non,60,-60,2014,"P60 à explorer par temps sec, arrêt sur rien",
+295,ENT_304039,SystemaLosTubos,Cueva del Condor,491290.0,4307597.0,230,,,763,-110,2014,Altitude estimée ; Systema de los Tubos,
+299,ENT_304040,PertePerdue,Perte perdue,490540.0,4306695.0,106,,oui,25,-10,2014,Coordonnées levées sur carte ; Terminée,
+296,ENT_304040,SumideroEscondido,Sumidero Escondido,490540.0,4306695.0,106,174.0,oui,174,-55,2014,Coordonnées levées sur carte ; Terminée,
+297,ENT_304041,SurgenciaEstrella,Surgencia Estrella,492249.0,4307720.0,65,,non,50,20,2014,"Grosse résurgence, 25 m de long, gros siphon à plonger, galerie remontante sur 20 m",
+298,ENT_304042,CuevaEstrella,Cueva Estrella,492261.0,4307711.0,95,,,100,-30,2014,"Au dessus de la résurgence Estrella, Accés au collecteur entre 2 siphons",
+300,ENT_304044,GouffreExploreViteFait,"Gouffre ""Explorévitefait""",490470.0,4306552.0,101,,oui,100,-60,2014,Coordonnées levées sur carte ; Terminée,
+301,ENT_304045,Puits1JeanPhi,Puits 1 Jean-Phi,491049.0,4307630.0,250,,,,,2014,Altitude estimée,
+302,ENT_304046,SystemaLosTubos,Pozo Dyke (System de los Tubas),491165.0,4307597.0,,,,,,2014,Altitude estimée,
+304,ENT_304047,Arc1,Arc 1,492098.0,4306813.0,276,,oui,50,-30,2014,Croquis ; Fini,
+305,ENT_304048,Arc11,Arc 11,492226.0,4306784.0,260,,oui,50,-30,2014,Croquis ; Fini,
+306,ENT_304049,Arc111,Arc 111,492134.0,4306635.0,258,,oui,30,-15,2014,Croquis ; Fini,
+307,ENT_304050,Arc113,Arc 113,491671.0,4306206.0,299,,oui,20,-15,2014,Croquis ; Fini,
+308,ENT_304051,Arc114,Arc 114,491307.0,4306156.0,259,,oui,40,-20,2014,Croquis ; Fini,
+309,ENT_304052,Arc112,Arc 112 ; Les mystères de l'ouest,491808.0,4306374.0,291,216.0,non,216,-71,2014,"Topographie faite, arrêt sur Rien, méandre actif, 50 l-S ; A faire par temps Sec !!!",
+310,ENT_304053,GouffreDuRobinet,Gouffre du Robinet,493210.0,4307750.0,456,230.0,?,230,-91,2014,Topographie effectuée,
+311,ENT_304054,CuevaDelSol,Arc 20 ou gouffre du Soleil,492409.0,4307605.0,212,140.0,non,140,-100,2014,"Les 30 derniers mètres sont estimés, arrêt sur Rien au sommet d'iun P30, dernier point topo sur AN de début de MC, avec une croix au dessus, P30 difficile à équiper car rien ne tient",
+312,ENT_304055,Arc19,Arc 19,492487.0,4307678.0,229,,non,60,-50,2014,Arrêt du etr. En sommet de P10 non descendu,
+313,ENT_304056,Arc18,Arc 18,492484.0,4307639.0,224,,?,48,-37,2014,arrêt sur éboulis,
+314,ENT_304057,Arc17,Arc 17,492637.0,4307761.0,300,,non,20,-20,2014,"Perte de canelure, importante,P20 mini,  non explorée",
+82,NAN,PerteNotoCanada,Perte Notocanada ,,,,,oui,35,-35,2010,"Deux puits qui s'enchainent, fracturés.",
+418,NAN,CuevaEsperanza,Cueva Esperanza,576150.0,4598655.0,250,,,70,25,2019,,
+419,NAN,FuitePrometteuse,Fuite Prometteuse,575691.0,4601178.0,,,,40,22,2019,,
+420,NAN,TraverseeDeLaCascade,Traversée de la Cascade,576183.0,4600809.0,,,,12,3,2019,,
+421,NAN,AbriSousGlace,L'abri sous glace,576064.0,4600782.0,,,,10,2,2019,,
+422,NAN, SaltoDelAgua,Salto del Agua,575588.0,4601180.0,,,,8,8,2019,,
+423,NAN, MoulinAbou,Moulin Abou,575786.0,4601270.0,,,,20,16,2019,,
+424,NAN,MoulinTapisVolant,Moulin Tapis Volant,575977.0,4601227.0,,,,20,15,2019,,
+425,NAN,Traversee,Traversée,575925.0,4601038.0,,,,25,10,2019,,
+426,NAN,MoulinDuChampignon,Moulin du Champignon,576005.0,4597166.0,,,,20,?,2019,,
+427,NAN,TraverseeDuMeandre1,Traversee du meandre 1,577950.0,4597074.0,,,,30,4,2019,,
+428,NAN,TraverseeDuMeandre2,Traversee du meandre 2,578009.0,4597133.0,,,,15,2,2019,,
+429,NAN,MoulinDeGlace,Moulin de glace,576724.0,4597385.0,,,,7,7,2019,,
+430,NAN,MoulinDeLaConception,Moulin de la Conception,575986.0,4597099.0,,,,30,?,2019,,
+431,NAN,CuevaTempanosEntree1,Cueva Tempanos - Entrée 1,575384.0,4601618.0,48,,,190,58,2019,,
+432,NAN,CuevaTempanosEntree2,Cueva Tempanos - Entrée 2,575379.0,4601714.0,36,,,,,2019,,
+433,NAN,CuevaTempanosEntrée3,Cueva Tempanos - Entrée 3,575465.0,4601707.0,58,,,,,2019,,
+355,NAN,PerteDesTetesBrulees,Perte des têtes brulées,,,??,,oui,35,20,2017,"A proximité du camp GB, descendu par Arnauld et Lionel jusque -20m, bouché. Point GPS Cédric ou Lionel",
+353,NAN,LosGringos,Cueva de los Gringos,,,??,64.0,oui,64,47,2017,"Descendu par Laurence et Arnauld, correspond surement à la grotte des 1001 cascades",
+436,NAN,HaciendasSalinas, Haciendas Salinas,490183.0,4452320.0,66,,,,,2008ENG,,
+204,NAN,LosPiscoleros,Los Piscoleros,,,,,oui,,,2010,"Dans une zone de porche, conduite forcée glacière qui part (voir photo)","Antoine, Denis, Olivier G, Vanessa"
+232,NAN,Traversé du roberto,Traversé du roberto,,,,,oui,,,2010,,"Richard, Olivier T "
+233,NAN,trou noir,trou noir,,,,,oui,,,2010,,"Richard, Olivier T "
+235,NAN,SumideroArdilla,Sumidero Ardilla  ,0.0,0.0,,,non,80,-70,2010,,
+239,NAN,GrotteAudeline,Grotte de l'Audeline,,,,143.0,oui,143,19,2010,traversée fossile,"Laurent C, Pierre"
+242,NAN,Perte1,perte 1,,,,,,,,2010,pas pointée mais juste à coté de la perte 2 et ambrée (n°130),
+316,NAN,ResurgenceDeLAvenir,Résurgence de l'Avenir,,,,700.0,?,700,12 - -39,2014,"Topographie, dont 321 m noyés",
+315,NAN,ResurgenceOubliee,Résurgence Oubliée,494941.0,4309441.0,,,non,2,-1,2014,"Coordonnée estimé sur image satellite ; Résurgence de la perte d'Abraham, prouvé par coloration",
+445,NAN,ResurgenceLobos,Resurgence des Lobos,479668.0,4427696.0,0,,,,,2006,,
+417,NAN,LacTicEtTac,Lac Tic et Tac,577555.0,4603901.0,,,,,,2019,,
+84,NAN,GrotteCacahuete,Grotte de la Cacahuete,,,,186.0,oui,186,-21,2010,"redécouverte par équipe 1 du camp 2 le 01-02-2010 (découverte ""oubliée"" (non topo) par Richard et Jo en raid-éclair en 2000 depuis camp perte du Temps), située une cinquantaine de mètres en rive droite de la perte de la Jeanne dans un renfoncement de falaise.",Les doigts bleus
+416,NAN,Lac2,Lac 2,577528.0,4603955.0,,,,,12,2019,,
+414,NAN,PerteSaloude,Perte Saloude,577141.0,4603383.0,,,,,,2019,,
+78,NAN,GoldenIgue,Golden Igue,,,,0.0,oui,90,-73,2010,"jonction à la voix avec la perte des 4 champi, à proximité du James Bonde","Florian, Olivier G"
+69,NAN,CuevaDeLasLapas,Cueva de Las Lapas,,,,,oui,3,3,2010,,"Richard, Olivier T, Jean-Francois P"
+90,NAN,PorcheDeLaCrevette,Porche de la Crevette,,,,,oui,10,-5,2010,"Porche effondré, sans suite évidente",Les doigts bleus
+118,NAN,cueva103,cueva,473005.0,,401,0.0,oui,20,-20,2010,,"Buldo, José, Jean Phi"
+157,NAN,Résurgence,Résurgence,,,,,oui,15,0,2010,Siphon pénétrable 1m3-s,"Olivier T, Florian"
+158,NAN,Résurgence,Résurgence,,,,,oui,10,0,2010,siphon,"Olivier T, Florian"
+376,NAN,GrotteDesDauphins,grottes des dauphins,481705.0,4438320.0,5,,oui,323,????,2017,"Explo et topo Serge , José , Yannick (dessin Yannick )",
+375,NAN,TroisEntreesPlusUne,Grotte des trois entrées plus une,,,?,2434.0,non,2434,48--54,2017,"Cavité énorme, exploration à continuer",
+60,NAN,Résurgence 3,Résurgence 3,485684.0,4444706.0,0,,non,,,2008,2 m3-s,
+55,NAN,CuevaRien,Cueva Rien,475729.0,4450525.0,,,oui,,,2008,3 grottes,
+54,NAN,Abri2,Abri,476162.0,4461336.0,2,,oui,,,2008,Occupation humaine,
+52,NAN,Abri1,Abri,475478.0,4450597.0,5,,oui,,,2008,Occupation humaine,
+44,NAN,CuevaPirates,Cueva Pirates,790220.0,4452363.0,10,370.0,non,300,40,2008,résurgence (courant d'air arrêt sur puits),
+33,NAN,ResurgenceDuChampignon,Résurgence du Champignon,477682.0,4426231.0,0,,non,,,2008,résurgences sous marine repéré (-25 mètres),
+27,NAN,Résurgence 5 plage de la Baleine,Résurgence 5 plage de la Baleine,,,,,non,,,2008,500 l-s (os de baleine),
+26,NAN,Résurgence 3 plage de la Baleine,Résurgence 3 plage de la Baleine,,,,,non,,,2008,200 l-s (os de baleine),
+25,NAN,Grotte du bout du monde,Grotte du bout du monde,,,40,125.0,non,,-15,2008,arrêt sur rien! ,
+402,NAN,QuatreEntreesPlusUne,Grotte des quatre entrées plus une,,,,,,341,"-32, +40",2019,,
+17,NAN,Perte sans nom,Perte sans nom,,,,,oui,25,-15,2008,30 mètres au dessus de la Détente,
+159,NAN,Résurgence,Résurgence,,,,,oui,10,0,2010,siphon,"Olivier T, Florian"
+405,NAN,ResurgenceHongo,Résurgence Hongo,478745.0,4446553.0,0,,,380,29,2019,,
+168,NAN,GouffreInstantané,Gouffre instantané,,,,0.0,oui,45,-20,2010,50m de la détente. idem Aven?,"Stéphane, Laurent M"
+174,NAN,GouffreDuCanyon,Gouffre du Canyon,,,,,non,75,-29,2010,"Suite de petits ressauts dans méandre. Arrêt sur trémie, suite visible mais impénétrable","Arnauld, Denis, Olivier T"
+367,NAN,BahiaBlanca,Exsurgence de la Punta Blanca,478753.0,4465590.0,0,,non,0,0,2017,A l'endroit où l'on gare les zodiacs pour accéder à la Cueva de la Punta Blanca. Sort sous le niveau de la mer. Plusieurs centaines de litres seconde. Semble plongeable.,
+280,NAN,GouffreSansDeconner,Gouffre SansDéconner,495472.0,4308988.0,21,,,100,-20,2014,Schéma,
+259,NAN,TrouQuiPayePasDeMine,Trou qui paye pas de mine,,,,108.0,,108,-48,2014,Topographie,
+6,NAN,PequinaSud,Pequina Sud,,,,,oui,20,-17,2008,,
+5,NAN,PorcheDeLImpatience,Porche de l'Impatiance,471000.0,4420800.0,30,50.0,oui,,20,2008,Coordonnées (pointage carte) - tectonique,
+413,NAN,MoulinReveBleu,Moulin Rêve Bleu,577225.0,4604263.0,,,,64,32,2019,,
+415,NAN,MoulinDeGlace,Moulin de glace,577289.0,4604031.0,122,,,8,8,2019,,
+91,NAN,PerteJeanneDArc,Perte de la Jeanne d'Arc,,,,,oui,0,0,2010,"Perte gigantesque, >1 m3-s. Impénétrable car effondrée",Les doigts bleus
