@@ -19,9 +19,9 @@
 340,ENT_107003,DeuxGrottes,Deux grottes (double entree),478906.0,4446437.0,?,,non,5,?,2017,Repéré le 25-01 par Buldo,
 341,ENT_107004,ChattiereQuiBuffle,Chattiere qui buffle,482761.0,4445427.0,?,,non,100,?,2017,"Arrêt sur rien, à poursuivre (prendre equipement)",
 342,ENT_107005,GouffreDeLaGrotte,Gouffre de la grotte ,479065.0,4447905.0,436,,non,?,?,2017,"A descendre. Repéré le 25-02-2017 par Natalia, Jean Marc, Laurent, Joël (Nord camp du nid du condor)",
+345,ENT_107006,EmergenceDesTuyaux,Emergence des tuyaux ( rameur),479490.0,4447336.0,?,,non,?,?,2017,"(pas sûr des coordonnées utm) (coordonnées : 50°077223 - 075°18.0107) Dans la baie d'accès au plateau nord, coté ouest. Au pied de falaise. Escalade possiblement à faire ( escalade faite par lionel ,denis,david)",
 343,ENT_107006,MilleEtUneCascade,Mille et une cascade,479490.0,4447336.0,361,,non,?,?,2017,"Descendu jusqu'à -20. Arret sur lèvre d'un P10 arrosé qui surplombe un gros puits.
 Proche et à l'Est du camp du nid du condor",
-345,ENT_107006,EmergenceDesTuyaux,Emergence des tuyaux ( rameur),479490.0,4447336.0,?,,non,?,?,2017,"(pas sûr des coordonnées utm) (coordonnées : 50°077223 - 075°18.0107) Dans la baie d'accès au plateau nord, coté ouest. Au pied de falaise. Escalade possiblement à faire ( escalade faite par lionel ,denis,david)",
 344,ENT_107007,GouffreDuCampDuNidDuCondor,Gouffre du camp du nid du condor,479389.0,4447402.0,311,,,20,15,2017,Etroit.. Mais continue!! Impenetrable,
 354,ENT_107009,GouffreChameau,Gouffre du Chameau,479556.0,4447204.0,380,162.0,oui,162,113,2017,"A proximité du camp du champignon, arrêt sur trop étroit à la cote -113m",
 356,ENT_107010,PerteDuPointG,perte du Point G,478796.0,4448311.0,420,,oui,35,20,2017,"Bouché, débit de perte lors de la recon environ 5 L-s",
@@ -31,8 +31,8 @@ Proche et à l'Est du camp du nid du condor",
 369,ENT_107014,DuchasDeSanPedro,Las Duchas de San Pedro,482357.0,4446971.0,ca 50 m,268.0,oui,268,"45 (-41, +4)",2017,"Découverte par Natalia, Laurent, Jean-Marc et Joël. Deux entrée reliée patr une galerie exondée. Un siphon amont exploré depuis l'entrée inférieur, sûrement en connection avec celui de l'entrée supérieure, mais jonction non faite. Le siphon descend jusqu'à -20, remonte à -5 vers la seconde entrée, puis redescend à -13, terminus des explos. *Siphon de 96 m, -20. ",
 370,ENT_107015,EteAustral,Été austral ,480135.0,4447658.0,411,105.0,oui,105,83,2017, Découvert et descendu par Anthonie et Yannick le 7 février ,
 371,ENT_107016,TrouDuCarnet,Trou du carnet ,480211.0,4447632.0,429,,oui,20,10,2017,descendu par Yannick pour remonté le carnet tombé par Vicenté le 7 février,
-372,ENT_107017,N1,N1,482762.0,4445436.0,?,,oui,10,0,2017,"Prospection et visite , José , Serge et Yannick ",
 373,ENT_107017,N2,N2,482762.0,4445436.0,?,,oui,30,0,2017,"Prospection et visite , José, Serge et Yannick ",
+372,ENT_107017,N1,N1,482762.0,4445436.0,?,,oui,10,0,2017,"Prospection et visite , José , Serge et Yannick ",
 374,ENT_107019,GouffreCasque,Gouffre du casque,479879.0,4447862.0,347,1600.0,oui,1600,203,2017,1389m de topo,
 382,ENT_107020,CN16-02-1,CN 16-02-1,479373.0,4446955.0,387,,oui,50,40,2017,"Gros gouffre, arrêt à -40",
 383,ENT_107021,CN16-02-2,CN 16-02-2,479569.0,4447160.0,387,,non,20,15,2017,Gros porche avec arrêt sur étroit,
@@ -114,8 +114,8 @@ Proche et à l'Est du camp du nid du condor",
 137,ENT_201032,C4Cueva6,C4 Cueva 6,473735.0,4437228.0,306,,,,,2010,,
 139,ENT_201034,C4SansNom10,C4 SansNom10,473652.0,4437656.0,397,,,,,2010,,Cédric
 151,ENT_201034,CuevaDeLaCasquette,Cueva de la casquette,473652.0,4437656.0,397,0.0,oui,70,-48,2010,Entrée étroite de la largeur du corps beau donnantsur un puit vertical style cathédrale de 30m (cavité avec plusieurs entrées),Cedric-Vanessa-Serge
-140,ENT_201035,C4SansNom9,C4 SansNom 9,473683.0,4437677.0,381,,,,,2010,,Cédric
 154,ENT_201035,TrouDeLaPlaquette,Trou de la Plaquette,473683.0,4437677.0,382,0.0,oui,45,-23,2010,salle d'effondrement ouverte qui fait au gouffre de la casquette dans un alignement de gouffres qui se suivent vers le Barros Luco,Cedric-Vanessa-Serge
+140,ENT_201035,C4SansNom9,C4 SansNom 9,473683.0,4437677.0,381,,,,,2010,,Cédric
 141,ENT_201036,C4Nfissure0,C4 Nfissure 0,473577.0,4438008.0,389,,,,,2010,,Cédric
 142,ENT_201037,C4SansNom8,C4 SansNom 8,473579.0,4438420.0,361,,,,,2010,,Cédric
 143,ENT_201038,C4SansNom7,C4 SansNom 7,473601.0,4438564.0,347,,,,,2010,,Cédric
@@ -170,8 +170,8 @@ Proche et à l'Est du camp du nid du condor",
 104,ENT_203009,Aven,Aven,472629.0,4435676.0,105,,?,,,2010,Perte très très intéressante à aller voir,"Isa, Olivier T"
 156,ENT_203011,AbriDuGazon,Abri du Gazon,470883.0,4433935.0,35,,oui,20,0,2010,Grand porche 20m de diamètre dans le grès en bord de plage,"Olivier T, Florian"
 166,ENT_203012,GrotteDuNord,Grotte du Nord,471003.0,4434013.0,0,,oui,,,2010,"Petite cavité en bord de mer avec charbons, ossement, arêtes de poisson","Olivier T, Florian"
-79,ENT_204001,GouffreGazelle,Gouffre de la Gazelle,474630.0,4432456.0,153,505.0,oui,505,-65,2010,"explo topo équipe 1 du camp 2 (""les doigts bleus"") le 31-01-2010. Gazelle et Alouette communiquent (même sans radio…)","Arnaud, Fabien, Bruno, Denis, Steph"
 92,ENT_204001,GouffreAlouette,Grotte de l'Alouette,474630.0,4432456.0,153,,oui,,,2010,"explo topo équipe 1 du camp 2 (""les doigts bleus"") le 31-01-2010. Gazelle et Alouette communiquent (même sans radio…)",
+79,ENT_204001,GouffreGazelle,Gouffre de la Gazelle,474630.0,4432456.0,153,505.0,oui,505,-65,2010,"explo topo équipe 1 du camp 2 (""les doigts bleus"") le 31-01-2010. Gazelle et Alouette communiquent (même sans radio…)","Arnaud, Fabien, Bruno, Denis, Steph"
 80,ENT_204002,EvequeCauchon,Evêque Cauchon,474370.0,4432520.0,74,235.0,oui,235,-58,2010,"Découverte par equipe 1 du camp 2 le 02-02-2010. Topographié ensuite par équipe du camp 4. Accés collecteur local, débit >100 L-s","Cédric, Vanessa, Bruno, Didier, Fabien, Stéphane, Denis, Arnauld"
 83,ENT_204003,GrotteFaussePucelle,Grotte de la fausse Pucelle,475586.0,4431730.0,130,117.0,oui,117,-30,2010,"redécouverte par équipe 1 du camp 2 le 01-02-2010 (découverte ""oubliée"" (non topo) par Richard et Jo en raid-éclair en 2000 depuis camp perte du Temps), env. 3 m3-s en crue. Située une centaine de mètres en amont (vers l'est) de la Fausse Pucelle).",Les doigts bleus
 100,ENT_204005,TrouDesCanelures,Trou des Canelures,473390.0,4434247.0,316,,?,,,2010,,Isa
@@ -185,12 +185,12 @@ Proche et à l'Est du camp du nid du condor",
 35,ENT_205004,PerteDesDents,Perte des Dents,472991.0,4429200.0,250,505.0,oui,,-160,2008,Arrêt sur siphon,
 36,ENT_205005,SumideroJuanito,Sima Juanito,472888.0,4429344.0,233,205.0,non,,-134,2008,arrêt sur rien (attention à la crue),
 37,ENT_205006,CuevaArdilla,Cueva Ardilla,472675.0,4429462.0,245,,non,70,-70,2008,Arrêt sur ?,
-236,ENT_205007,Sou30,Sou30,472620.0,4429466.0,237,,oui,40,-35,2010,,
 38,ENT_205007,PozoEnBosque,Pozo en Bosque,472620.0,4429466.0,237,,oui,35,-35,2008,,
+236,ENT_205007,Sou30,Sou30,472620.0,4429466.0,237,,oui,40,-35,2010,,
 39,ENT_205008,Pozo 2 en Caliza,Pozo 2 en Caliza,472373.0,4429958.0,300,,oui,70,-70,2008,,
 234,ENT_205008,Sou33,Sou33,472373.0,4429958.0,301,0.0,oui,80,-70,2010,,
-40,ENT_205009,Pozo 1 en Caliza,Pozo 1 en Caliza,472414.0,4429499.0,281,,oui,30,-30,2008,,
 237,ENT_205009,Sou31,Sou31,472414.0,4429499.0,281,0.0,oui,30,-30,2010,,
+40,ENT_205009,Pozo 1 en Caliza,Pozo 1 en Caliza,472414.0,4429499.0,281,,oui,30,-30,2008,,
 41,ENT_205010,MD-SOU01,MD-SOU01,472798.0,4429403.0,260,,oui,50,-30,2008,,
 42,ENT_205011,MD-SOU02,MD-SOU02,472768.0,4429435.0,265,,oui,50,-35,2008,,
 67,ENT_205012,PerteInattendue,Perte Inattendue,472890.0,4429492.0,294,1274.0,non,1274,-226,2010,Perte sur contact grès calcaires. Un moins un aflfuent pénétrable n'a pas été topographié.,"Florence, Laurent, Jo, Olivier T, Thomas, Cédric"
@@ -218,6 +218,7 @@ Proche et à l'Est du camp du nid du condor",
 241,ENT_205037,GrotteSueno,Grotte Sueno,471621.0,4429939.0,423,,?,,,2010,Abri à Jeff,"Jean Francois H, Thomas, Olivier T"
 31,ENT_206001,CuevaAyayema,Cueva Ayayema,476883.0,4424327.0,,,oui,,,2008,Coordonnées 2000 fausses (repointage 2008),
 32,ENT_206002,GrotteDuDyke,Grotte du Dyke,476461.0,4423410.0,,,oui,,,2008,Callote hoxipitale,
+33,ENT_206044,ResurgenceDuChampignon,Résurgence du Champignon,477682.0,4426231.0,0,,non,,,2008,résurgences sous marine repéré (-25 mètres),
 446,ENT_207001,SystemeCondors, Systeme des Condors,479379.0,4428572.0,141,,,,,2006,,
 447,ENT_207001,SystemeCondors, Systeme des Condors,479379.0,4428572.0,141,,,,,2006,,
 448,ENT_207001,GouffrePetitCreux, Gouffre du petit creux,479379.0,4428572.0,141,,,,,2006,,
@@ -233,7 +234,6 @@ Proche et à l'Est du camp du nid du condor",
 18,ENT_209005,Perte n° 18,Perte n° 18,473067.0,4425846.0,422,57.0,oui,,-34,2008,,
 19,ENT_209006,ResurgenceDeLaPlage,Résurgence de la plage,471328.0,4422992.0,3,380.0,non,,+25--28,2008,Arrêt sur galerie exondé post S1 (-28m-200m),
 20,ENT_209007,GrotteEvier,Grotte de l'Evier,473527.0,4428264.0,195,75.0,non,,-60,2008,Arrêt sur puits à finir par beau temps : entrée de la perte du temps ?,
-21,ENT_209008,BobLEponge,Bob l'Eponge,473372.0,4427993.0,200,,oui,60,-40,2008,"petite perte, arrêt sur siphon",
 22,ENT_209009,CuevaGringa,Cueva Gringa,472980.0,4428693.0,154,,oui,30,-30,2008,petite perte,
 43,ENT_209010,DolineCalafate,Doline Calafate,473125.0,4428203.0,250,,non,,,2008,"rebouchée par éboulis, restes archéologiques",
 167,ENT_209011,GouffreDeLaDetente,Gouffre de la Détente,473050.0,4425902.0,445,,oui,160,-323,2010,dév total: 800m,
@@ -400,7 +400,7 @@ Proche et à l'Est du camp du nid du condor",
 418,ENT_401006,CuevaEsperanza,Cueva Esperanza,576150.0,4598655.0,250,,,70,25,2019,,
 420,ENT_401007,TraverseeDeLaCascade,Traversée de la Cascade,576183.0,4600809.0,,,,12,3,2019,,
 421,ENT_401008,AbriSousGlace,L'abri sous glace,576064.0,4600782.0,,,,10,2,2019,,
-422,ENT_401009, SaltoDelAgua,Salto del Agua,575588.0,4601180.0,,,,8,8,2019,,
+422,ENT_401009, SaltoDelAgua,Salto del Agua,575588.0,4601180.0,,106,8,8,2019,,
 423,ENT_401010, MoulinAbou,Moulin Abou,575786.0,4601270.0,,,,20,16,2019,,
 424,ENT_401011,MoulinTapisVolant,Moulin Tapis Volant,575977.0,4601227.0,,,,20,15,2019,,
 425,ENT_401012,Traversee,Traversée,575925.0,4601038.0,,,,25,10,2019,,
@@ -412,20 +412,21 @@ Proche et à l'Est du camp du nid du condor",
 431,ENT_401018,CuevaTempanosEntree1,Cueva Tempanos - Entrée 1,575384.0,4601618.0,48,,,190,58,2019,,
 432,ENT_401019,CuevaTempanosEntree2,Cueva Tempanos - Entrée 2,575379.0,4601714.0,36,,,,,2019,,
 433,ENT_401020,CuevaTempanosEntrée3,Cueva Tempanos - Entrée 3,575465.0,4601707.0,58,,,,,2019,,
-436,NAN,HaciendasSalinas, Haciendas Salinas,490183.0,4452320.0,66,,,,,2008ENG,,
-233,NAN,trou noir,trou noir,,,,,oui,,,2010,,"Richard, Olivier T "
-235,NAN,SumideroArdilla,Sumidero Ardilla  ,0.0,0.0,,,non,80,-70,2010,,
-239,NAN,GrotteAudeline,Grotte de l'Audeline,,,,143.0,oui,143,19,2010,traversée fossile,"Laurent C, Pierre"
-242,NAN,Perte1,perte 1,,,,,,,,2010,pas pointée mais juste à coté de la perte 2 et ambrée (n°130),
-355,NAN,PerteDesTetesBrulees,Perte des têtes brulées,,,??,,oui,35,20,2017,"A proximité du camp GB, descendu par Arnauld et Lionel jusque -20m, bouché. Point GPS Cédric ou Lionel",
-259,NAN,TrouQuiPayePasDeMine,Trou qui paye pas de mine,,,,108.0,,108,-48,2014,Topographie,
-367,NAN,BahiaBlanca,Exsurgence de la Punta Blanca,478753.0,4465590.0,0,,non,0,0,2017,A l'endroit où l'on gare les zodiacs pour accéder à la Cueva de la Punta Blanca. Sort sous le niveau de la mer. Plusieurs centaines de litres seconde. Semble plongeable.,
-445,NAN,ResurgenceLobos,Resurgence des Lobos,479668.0,4427696.0,0,,,,,2006,,
+419,ENT_401021,FuitePrometteuse,Fuite Prometteuse,575691.0,4601178.0,,,,40,22,2019,,
 353,NAN,LosGringos,Cueva de los Gringos,,,??,64.0,oui,64,47,2017,"Descendu par Laurence et Arnauld, correspond surement à la grotte des 1001 cascades",
-232,NAN,Traversé du roberto,Traversé du roberto,,,,,oui,,,2010,,"Richard, Olivier T "
+445,NAN,ResurgenceLobos,Resurgence des Lobos,479668.0,4427696.0,0,,,,,2006,,
+355,NAN,PerteDesTetesBrulees,Perte des têtes brulées,,,??,,oui,35,20,2017,"A proximité du camp GB, descendu par Arnauld et Lionel jusque -20m, bouché. Point GPS Cédric ou Lionel",
+242,NAN,Perte1,perte 1,,,,,,,,2010,pas pointée mais juste à coté de la perte 2 et ambrée (n°130),
+367,NAN,BahiaBlanca,Exsurgence de la Punta Blanca,478753.0,4465590.0,0,,non,0,0,2017,A l'endroit où l'on gare les zodiacs pour accéder à la Cueva de la Punta Blanca. Sort sous le niveau de la mer. Plusieurs centaines de litres seconde. Semble plongeable.,
+235,NAN,SumideroArdilla,Sumidero Ardilla  ,0.0,0.0,,,non,80,-70,2010,,
+233,NAN,trou noir,trou noir,,,,,oui,,,2010,,"Richard, Olivier T "
+436,NAN,HaciendasSalinas, Haciendas Salinas,490183.0,4452320.0,66,,,,,2008ENG,,
+259,NAN,TrouQuiPayePasDeMine,Trou qui paye pas de mine,,,,108.0,,108,-48,2014,Topographie,
 316,NAN,ResurgenceDeLAvenir,Résurgence de l'Avenir,,,,700.0,?,700,12 - -39,2014,"Topographie, dont 321 m noyés",
+239,NAN,GrotteAudeline,Grotte de l'Audeline,,,,143.0,oui,143,19,2010,traversée fossile,"Laurent C, Pierre"
+232,NAN,Traversé du roberto,Traversé du roberto,,,,,oui,,,2010,,"Richard, Olivier T "
 78,NAN,GoldenIgue,Golden Igue,,,,0.0,oui,90,-73,2010,"jonction à la voix avec la perte des 4 champi, à proximité du James Bonde","Florian, Olivier G"
-82,NAN,PerteNotoCanada,Perte Notocanada ,,,,,oui,35,-35,2010,"Deux puits qui s'enchainent, fracturés.",
+5,NAN,PorcheDeLImpatience,Porche de l'Impatiance,471000.0,4420800.0,30,50.0,oui,,20,2008,Coordonnées (pointage carte) - tectonique,
 69,NAN,CuevaDeLasLapas,Cueva de Las Lapas,,,,,oui,3,3,2010,,"Richard, Olivier T, Jean-Francois P"
 84,NAN,GrotteCacahuete,Grotte de la Cacahuete,,,,186.0,oui,186,-21,2010,"redécouverte par équipe 1 du camp 2 le 01-02-2010 (découverte ""oubliée"" (non topo) par Richard et Jo en raid-éclair en 2000 depuis camp perte du Temps), située une cinquantaine de mètres en rive droite de la perte de la Jeanne dans un renfoncement de falaise.",Les doigts bleus
 90,NAN,PorcheDeLaCrevette,Porche de la Crevette,,,,,oui,10,-5,2010,"Porche effondré, sans suite évidente",Les doigts bleus
@@ -433,9 +434,9 @@ Proche et à l'Est du camp du nid du condor",
 157,NAN,Résurgence,Résurgence,,,,,oui,15,0,2010,Siphon pénétrable 1m3-s,"Olivier T, Florian"
 204,NAN,LosPiscoleros,Los Piscoleros,,,,,oui,,,2010,"Dans une zone de porche, conduite forcée glacière qui part (voir photo)","Antoine, Denis, Olivier G, Vanessa"
 44,NAN,CuevaPirates,Cueva Pirates,790220.0,4452363.0,10,370.0,non,300,40,2008,résurgence (courant d'air arrêt sur puits),
-33,NAN,ResurgenceDuChampignon,Résurgence du Champignon,477682.0,4426231.0,0,,non,,,2008,résurgences sous marine repéré (-25 mètres),
 27,NAN,Résurgence 5 plage de la Baleine,Résurgence 5 plage de la Baleine,,,,,non,,,2008,500 l-s (os de baleine),
 26,NAN,Résurgence 3 plage de la Baleine,Résurgence 3 plage de la Baleine,,,,,non,,,2008,200 l-s (os de baleine),
+82,NAN,PerteNotoCanada,Perte Notocanada ,,,,,oui,35,-35,2010,"Deux puits qui s'enchainent, fracturés.",
 25,NAN,Grotte du bout du monde,Grotte du bout du monde,,,40,125.0,non,,-15,2008,arrêt sur rien! ,
 402,NAN,QuatreEntreesPlusUne,Grotte des quatre entrées plus une,,,,,,341,"-32, +40",2019,,
 17,NAN,Perte sans nom,Perte sans nom,,,,,oui,25,-15,2008,30 mètres au dessus de la Détente,
@@ -446,6 +447,5 @@ Proche et à l'Est du camp du nid du condor",
 375,NAN,TroisEntreesPlusUne,Grotte des trois entrées plus une,,,?,2434.0,non,2434,48--54,2017,"Cavité énorme, exploration à continuer",
 174,NAN,GouffreDuCanyon,Gouffre du Canyon,,,,,non,75,-29,2010,"Suite de petits ressauts dans méandre. Arrêt sur trémie, suite visible mais impénétrable","Arnauld, Denis, Olivier T"
 6,NAN,PequinaSud,Pequina Sud,,,,,oui,20,-17,2008,,
-5,NAN,PorcheDeLImpatience,Porche de l'Impatiance,471000.0,4420800.0,30,50.0,oui,,20,2008,Coordonnées (pointage carte) - tectonique,
-419,NAN,FuitePrometteuse,Fuite Prometteuse,575691.0,4601178.0,,,,40,22,2019,,
+21,NAN,BobLEponge,Bob l'Eponge,473372.0,4427993.0,200,,oui,60,-40,2008,"petite perte, arrêt sur siphon",
 118,NAN,cueva103,cueva,473005.0,,401,0.0,oui,20,-20,2010,,"Buldo, José, Jean Phi"
