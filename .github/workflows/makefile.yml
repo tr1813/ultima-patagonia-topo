@@ -28,20 +28,11 @@ jobs:
     - name: Run apt update
       run: sudo apt update
 
-    - name: Upload HTML Files
+    - name: Upload Release Files
       uses: "marvinpinto/action-automatic-releases@latest"
       with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           title: Build ${{ github.run_number }}
           automatic_release_tag: "latest"
           prerelease: false
-          files: ./*/*.html
-
-    - name: Upload JS Files
-      uses: "marvinpinto/action-automatic-releases@latest"
-      with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          title: Build ${{ github.run_number }}
-          automatic_release_tag: "latest"
-          prerelease: false
-          files: ./*/*/*/*.js
+          files: ./*/*.html ./*/*/*/*.js
