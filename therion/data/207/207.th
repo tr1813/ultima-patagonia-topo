@@ -4,11 +4,14 @@ survey 207 -title "207 Condors"
   input ResurgenceLobos/ResurgenceLobos.th
 
   centreline
+  
   fix ENT_207001 479379 4428572 141
   station ENT_207001 "SystemeCondors"
   equate ENT_207001 PC10@SystemeCondors
+
   fix ENT_207002 479667.73549189	4427696 0
   station ENT_207002 "Resurgence Des Lobos"
   equate ENT_207002 0@ResurgenceLobos
+
   endcentreline
 endsurvey

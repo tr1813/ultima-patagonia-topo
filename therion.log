@@ -4,46 +4,4 @@ initialization file: /usr/local/etc/therion.ini
 reading ... done
 checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
 checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
-configuration file: therion/config.thconfig
-reading ... done
-reading source files ... done
-preprocessing database ... done
-scanning centreline tree ... done
-searching for centerline loops ... done
-calculating station coordinates ... done
-processing survey data ... 
-####################### cavern log file ########################
- 1> Survex 1.2.36
- 2> Copyright © 1990-2018 Olly Betts
- 3> Survey has no fixed points. Therefore I’ve fixed 1 at (0,0,0)
- 4> 
- 5> Survey contains 30 survey stations, joined by 29 legs.
- 6> There are 0 loops.
- 7> Total length of survey legs =  341.20m ( 341.20m adjusted)
- 8> Total plan length of survey legs =  237.48m
- 9> Total vertical length of survey legs =  177.61m
-10> Vertical range = 71.61m (from 14 at 39.78m to 25 at -31.83m)
-11> North-South range = 56.84m (from 23 at 19.55m to 14 at -37.29m)
-12> East-West range = 72.80m (from 29 at 18.78m to 10 at -54.02m)
-13>    5 1-nodes.
-14>   22 2-nodes.
-15>    3 3-nodes.
-16> 
-######################### transcription ########################
- 3> 1 : 0@QuatreEntreesPlusUne
- 5> 30 : 70@QuatreEntreesPlusUne -- 29 : 60@QuatreEntreesPlusUne
-10> 14 : 10@QuatreEntreesPlusUne -- 25 : 56@QuatreEntreesPlusUne
-11> 23 : 54@QuatreEntreesPlusUne -- 14 : 10@QuatreEntreesPlusUne
-12> 29 : 60@QuatreEntreesPlusUne -- 10 : 6@QuatreEntreesPlusUne
-13> 5 : 4@QuatreEntreesPlusUne
-14> 22 : 53@QuatreEntreesPlusUne
-15> 3 : 2@QuatreEntreesPlusUne
-#################### end of cavern log file ####################
-done
-calculating basic statistics ... done
-processing extended elevation ... done
-processing references ... done
-selecting export objects ... done
-processing projection plan ... done
-writing therion/xvi.xvi ... done
-compilation time: 0 sec
+therion: error -- can't open file for input -- data/index.thconfig

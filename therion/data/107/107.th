@@ -17,77 +17,109 @@ survey 107 -title "107 Barros Luco"
 
   centreline
     cs UTM18S
+    fix ENT_107001	482449	4444663	40.0
+  	station	 ENT_107001	"Cueva des los Pescadores"
 
-    fix ENT_107001	482449	4444663	40.0	## Cueva des los Pescadores
-
-    fix ENT_107002	478634	4447073	0.0	## R??surgence Bahia Blanca
+    fix ENT_107002	478634	4447073	0.0
     station ENT_107002 "Résurgence Bahia Blanca"
     equate ENT_107002 0@BahiaBlanca
 
-    fix ENT_107003	478906	4446437	0	## Deux grottes (double entree)
+    fix ENT_107003	478906	4446437	0
+  	station	 ENT_107003	"Deux grottes (double entree)"
 
-    fix ENT_107004	482761	4445427	0	## Chattiere qui buffle
+    fix ENT_107004	482761	4445427	0
     station ENT_107004 "Chattière qui Buffle"
     equate ENT_107004 0@ChattiereQuiBuffle
 
-    fix ENT_107005	479065	4447905	436.0	## Gouffre de la grotte
-    fix ENT_107006	479490	4447336	361.0	## Mille et une cascade
-    fix ENT_107007	479389	4447402	311.0	## Gouffre du camp du nid du condor
-    fix ENT_107008	479490	4447336	0	## Emergence des tuyaux ( rameur)
+    fix ENT_107005	479065	4447905	436.0
+  	station	 ENT_107005	"Gouffre de la grotte"
 
-    fix ENT_107009	479556	4447204	380.0	## Gouffre du Chameau
+    fix ENT_107006	479490	4447336	361.0
+  	station	 ENT_107006	"Mille et une cascade"
+
+    fix ENT_107007	479389	4447402	311.0
+  	station	 ENT_107007	"Gouffre du camp du nid du condor"
+
+    fix ENT_107008	479490	4447336	0
+  	station	 ENT_107008	"Emergence des tuyaux ( rameur)"
+
+    fix ENT_107009	479556	4447204	380.0
+    station ENT_107009 "Gouffre Chameau"
     equate ENT_107009 8@GouffreChameau
 
-    fix ENT_107010	478796	4448311	420.0	## perte du Point G
+    fix ENT_107010	478796	4448311	420.0
+  	station	 ENT_107010	"perte du Point G"
 
-    fix ENT_107011	476133	4447399	39.0	## Cueva d'el cabo vertical
+    fix ENT_107011	476133	4447399	39.0
+    station ENT_107011 "Cueva d'el cabo vertical"
     equate ENT_107011 0@CuevaCaboVertical
 
-    fix ENT_107012	482764	4445438	25.0	## Porche de la coul??e blanche
+
+    fix ENT_107012	482764	4445438	25.0
+    station ENT_107012	"Porche de la coulée blanche"
     equate ENT_107012 0@CouleeBlanche
 
-    fix ENT_107013	478876	4447299	106.0	## Grotte des Canelures
+    fix ENT_107013	478876	4447299	106.0
+  	station	 ENT_107013	"Grotte des Canelures"
 
-    fix ENT_107014	482357	4446971	50.0	## Las Duchas de San Pedro
+    fix ENT_107014	482357	4446971	50.0
+    station ENT_107014	"Las Duchas de San Pedro"
     equate ENT_107014 A5@DuchasDeSanPedro
 
-    fix ENT_107015	480135	4447658	411.0	## ??t?? austral
-    fix ENT_107016	480211	4447632	429.0	## Trou du carnet
-    fix ENT_107017	482762	4445436	0	## N1
-    fix ENT_107018	482762	4445436	0	## N2
+    fix ENT_107015	480135	4447658	411.0
+  	station	 ENT_107015	"Ete austral"
 
-    fix ENT_107019	479879	4447862	347.0	## Gouffre du casque
+    fix ENT_107016	480211	4447632	429.0
+  	station	 ENT_107016	"Trou du carnet"
+
+    fix ENT_107017	482762	4445436	0
+  	station	 ENT_107017	"N1"
+
+    fix ENT_107018	482762	4445436	0
+  	station	 ENT_107018	"N2"
+
+    fix ENT_107019	479879	4447862	347.0
     station ENT_107019 "Gouffre du Casque"
     equate ENT_107019 0@GouffreCasque
 
-    fix ENT_107020	479373	4446955	387.0	## CN 16-02-1
-    fix ENT_107021	479569	4447160	387.0	## CN 16-02-2
+    fix ENT_107020	479373	4446955	387.0
+  	station	 ENT_107020	"CN 16-02-1"
 
-    fix ENT_107022	479547	4447215	384.0	## Madame Café
+    fix ENT_107021	479569	4447160	387.0
+  	station	 ENT_107021	"CN 16-02-2"
+
+    fix ENT_107022	479547	4447215	384.0
     station ENT_107022 "Madame Café"
     equate ENT_107022 5@MadameCafe
 
-    fix ENT_107023	479795	4447413	405.0	## CN 16-02-4
-    fix ENT_107024	479591	4447357	383.0	## CN 16-02-5
+
+    fix ENT_107023	479795	4447413	405.0
+  	station	 ENT_107023	"CN 16-02-4"
+
+    fix ENT_107024	479591	4447357	383.0
+  	station	 ENT_107024	"CN 16-02-5"
 
     fix ENT_107025	478700	4446570	0.0
     station ENT_107025 "Résurgence Hongo"
     equate ENT_107025 1@ResurgenceHongo
 
-    fix ENT_107026	477817	4446753	60.0	## PN01
-    fix ENT_107027	477795	4446685	60.0	## PN02
+    fix ENT_107026	477817	4446753	60.0
+  	station	 ENT_107026	"PN01"
+
+    fix ENT_107027	477795	4446685	60.0
+  	station	 ENT_107027	"PN02"
 
     fix ENT_107028	482804	4447950	369.0
     station ENT_107028 "Gouffre du Jackpot"
     equate ENT_107028 0@GouffreJackpot
 
-    fix ENT_107029	482664	4447782	362.0	## PC4 - Perte Cirque 4
+    fix ENT_107029	482664	4447782	362.0
     station ENT_107029 "Perte du Cirque 4"
 
-    fix ENT_107030	478605	4447058	0	## Cueva Cascada
+    fix ENT_107030	478605	4447058	0
     station ENT_107030 "Cueva Cascada"
 
-    fix ENT_107031	478574	4446622	50 	## Cueva de la Punta Blanca
+    fix ENT_107031	478574	4446622	50
     station ENT_107031 "Punta Blanca"
     equate ENT_107031 0@PuntaBlanca
 

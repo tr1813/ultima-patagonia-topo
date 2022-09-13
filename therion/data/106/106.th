@@ -6,37 +6,76 @@ survey 106  -title "106 Seno Egg"
   centreline
     cs UTM18S
 
+
     fix ENT_106001	490220	4452363	10.0
     station ENT_106001 "Cueva Pirates/ Hacienda Salinas"
     equate ENT_106001 32@CuevaPirates
 
-    fix ENT_106002	490289	4451286	35.0	## Cueva No Time
-    fix ENT_106003	490289	4451286	3.0	## Résurgence NoTime
-    fix ENT_106004	490541	4453870	20.0	## Cueva Nutria
-    fix ENT_106005	490289	4451286	70.0	## Porche
-    fix ENT_106006	490604	4450548	0	## Grotte
+    fix ENT_106002	490289	4451286	35.0
+    station	 ENT_106002	"Cueva No Time"
 
-    #fix ENT_106007	490183	4452320	66	## Haciendas Salinas
-    equate 100@CuevaPirates 44@a.HaciendasSalinas
-    equate N1@CuevaPirates 24@a.HaciendasSalinas
+    fix ENT_106003	490289	4451286	3.0
+    station	 ENT_106003	"Résurgence NoTime"
 
-    fix ENT_106008 	490080	4452381	96	## Caracara
-    fix ENT_106009  488815 4453011 186 ## Plateau Egg 1, non descendu à cause de blocs instables
-    fix ENT_106010 488956 4452962 189 ## Plateau Egg 2, environ 40 m avec un méandre rétrécissant
-    fix ENT_106011 488956 4452962 201 ## PLateau Egg 3, non descendu, blocs instables
-    fix ENT_106012 489317 4452812 224 ## Plateau Egg 4, aussi PL22 bloqué après 15 m
-    fix ENT_106013 489234 4452876 213 ## Plateau Egg 5, puits entre deux canyons de surface, fin sur 10 m
-    fix ENT_106014 487636 4452795 226 ## Plateau Egg 6,
-    fix ENT_106015 487474 4452740 218 ## Plateau Egg 7,
-    fix ENT_106016 487506 4452738 220 ## Plateau Egg 8, trois entrées permettent accès. Bruit de rivière sous des blocs
-    fix ENT_106017 487836 4452871 225 ## Plateau Egg 9, position hasardeuse?
-    fix ENT_106018 489278 4452871 216 ## Deux puits fossiles
-    fix ENT_106019 	488833 	4451227	325	## Los tres Rios ##
-    fix ENT_106020 	489409 	4452098	187	## Cueva del Dragon ##
+    fix ENT_106004	490541	4453870	20.0
+    station	 ENT_106004	"Cueva Nutria"
+
+    fix ENT_106005	490289	4451286	70.0
+    station	 ENT_106005	"Porche"
+
+    fix ENT_106006	490604	4450548	0
+    station	 ENT_106006	"Grotte"
+
+    #fix ENT_106007	490183	4452320	66
+    #station	 ENT_106007	"Haciendas Salinas"
+
+    fix ENT_106008 	490080	4452381	96
+    station	 ENT_106008 	"Caracara"
+
+    fix ENT_106009  488815 4453011 186
+    station	 ENT_106009 "Plateau Egg 1, non descendu à cause de blocs instables"
+
+    fix ENT_106010 488956 4452962 189
+    station	 ENT_106010  "Plateau Egg 2, environ 40 m avec un méandre rétrécissant"
+
+    fix ENT_106011 488956 4452962 201
+    station	 ENT_106011 "Plateau Egg 3, non descendu, blocs instables"
+
+    fix ENT_106012 489317 4452812 224
+    station	 ENT_106012 "Plateau Egg 4, aussi PL22 bloqué après 15 m"
+
+    fix ENT_106013 489234 4452876 213
+    station	 ENT_106013 "Plateau Egg 5, puits entre deux canyons de surface, fin sur 10 m"
+
+    fix ENT_106014 487636 4452795 226
+    station	 ENT_106014 "Plateau Egg 6,"
+
+    fix ENT_106015 487474 4452740 218
+    station	 ENT_106015 "Plateau Egg 7,"
+
+    fix ENT_106016 487506 4452738 220
+    station	 ENT_106016 "Plateau Egg 8, trois entrées permettent accès. Bruit de rivière sous des blocs"
+
+    fix ENT_106017 487836 4452871 225
+    station	 ENT_106017 "Plateau Egg 9, position hasardeuse?"
+
+    fix ENT_106018 489278 4452871 216
+    station	 ENT_106018 "Deux puits fossiles"
+
+    fix ENT_106019 	488833 	4451227	325
+    station	 ENT_106019 "Los tres Rios"
+
+    fix ENT_106020 	489409 	4452098	187
+    station	 ENT_106020 	"Cueva del Dragon"
 
     fix ENT_106021 	490088 	4452354	105	## Zorro
     station ENT_106021 "Cueva del Zorro"
     equate ENT_106021 1@a.CuevaDelZorro
+
+    ## connections
+
+    equate 100@CuevaPirates 44@a.HaciendasSalinas
+    equate N1@CuevaPirates 24@a.HaciendasSalinas
 
   endcentreline
 endsurvey
