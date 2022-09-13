@@ -62,3 +62,22 @@ geojson.close()
 # geojson.write("var visees = \n")
 # geojson.write(dumps({"type": "FeatureCollection", "features": buffer}, indent=2) + "\n")
 # geojson.close()
+
+reader = shapefile.Reader("../data/gis/stations3d.shp")
+fields = reader.fields[1:]
+field_names = [field[0] for field in fields]
+buffer = []
+for sr in reader.shapeRecords():
+    atr = dict(zip(field_names, sr.record))
+    # filter by centerline
+    
+    if 'ENT' in atr['_NAME']:      
+        print(atr)
+        geom = sr.shape.__geo_interface__
+        buffer.append(dict(type="Feature", geometry=geom, properties=atr))
+    # write the GeoJSON file
+
+geojson = open("../data/gis/points_fixes.js", "w")
+geojson.write("var points_fixes = \n")
+geojson.write(dumps({"type": "FeatureCollection", "features": buffer}, indent=2) + "\n")
+geojson.close()

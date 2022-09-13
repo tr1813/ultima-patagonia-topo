@@ -4,14 +4,19 @@ survey 213 -title "213 Guarello"
   input PerteGlaciaire/PerteGlaciaire.th
 
   centreline
+    cs UTM18S
+    
     fix ENT_213001	473667	4416955	90.0
     station ENT_213001 "Perte du Masque et de la Plume"
     equate 0@LeMasqueEtLaPlume ENT_213001
+
     fix ENT_213002 472739 4416716 37
     station ENT_213002 "Grotte Finistere"
     equate 0@GrotteFinistere ENT_213002
+
     fix ENT_213003 472988 4417752 100 ## coord probablement fausses, trop peu précises?
     station ENT_213003 "PerteGlaciaire"
     equate ENT_213003 0@PerteGlaciaire
+
   endcentreline
 endsurvey

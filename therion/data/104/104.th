@@ -1,0 +1,12 @@
+survey 104 -title "104 Resurgence Ouest"
+
+  centreline
+  cs UTM18S
+
+  fix ENT_104001 475478 4450597 5
+  station ENT_104001 "Abri 1, occupation humaine"
+
+  fix ENT_104002 475729 4450525  0
+  station ENT_104002 "Cueva rien"
+  endcentreline
+endsurvey

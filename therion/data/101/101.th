@@ -1,0 +1,9 @@
+survey 101 -title "101 MDD Nord Ouest"
+
+  centreline
+  cs UTM18S
+
+  fix ENT_101001 476162 4461336  2
+  station ENT_101001 "Abri 2, occupation humaine"
+  endcentreline
+endsurvey

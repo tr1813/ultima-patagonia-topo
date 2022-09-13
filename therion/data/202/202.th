@@ -1,0 +1,10 @@
+survey 202 -title "202 Isla Ramon"
+
+  centreline
+  cs UTM18S
+
+  fix ENT_202001  481705 4438320 5
+  station ENT_202001 "Grotte des Dauphins"
+
+  endcentreline
+endsurvey
