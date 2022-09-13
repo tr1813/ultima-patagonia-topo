@@ -1,6 +1,6 @@
 
 survey Gouffre36 -title "Gouffre 36"  -attr cad_num 211013  -attr exped "UP2010" \
-        -entrance ENT \
+        -entrance 0 \
         -attr profondeur_approx "45"\
         -attr "Developpement_Estime" "50"
 
@@ -13,9 +13,9 @@ survey Gouffre36 -title "Gouffre 36"  -attr cad_num 211013  -attr exped "UP2010"
         units length meters
       	units compass clino degrees
         data normal from to tape compass clino
-        ENT FOND 45 - DOWN
+        0 FOND 45 - DOWN
 
         data dimensions station left right up down
-        ENT 10 3 0 45
+        0 10 3 0 45
         endcentreline
 endsurvey

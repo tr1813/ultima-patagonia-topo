@@ -14,32 +14,61 @@ survey 109 -title "109 Trois Entrées"
   	cs UTM18S
     fix ENT_109001	485618	4444774	60.0	## Grotte des 3 Porches
     #equate ENT_109001 1.1@TroisPorches
+
     fix ENT_109002	485602	4444774	60.0	## Grotte des 3 Porches
     equate ENT_109002 0@QuatreEntreesPlusUne
+
     fix ENT_109003	485779	4445842	375.0	## Cueva Barachos
+
     fix ENT_109004	485808	4445794	370.0	## Cueva Caliza
     equate ENT_109004 0@CuevaCaliza
+
     fix ENT_109005	485651	4445694	384.0	## En desespoir de Cause
+
     fix ENT_109006	486410	4445941	414.0	## P10
+
     fix ENT_109007	485737	4445148	278.0	## petite Grotte
-    fix ENT_109008	485812	4445780	364	## Gouffre Halal ## Altitude Google Earth
+
+    fix ENT_109008	485812	4445780	364	## Altitude Google Earth
+    station ENT_109008 "Gouffre Halal"
     equate ENT_109008 0@GouffreHalal
-    fix ENT_109009	485537	4445627	359.0	## Gouffre A l'A??l
+
+    fix ENT_109009	485537	4445627	359.0
+    station ENT_109009 "Gouffre A l'Ail"
     equate ENT_109009 0@Gouffralail
-    fix ENT_109010	485587	4445498	319.0	## Gouffre Ma premi??re
-    fix ENT_109011	485584	4445478	319.0	## Gouffre La Grande Travers??e
+
+    fix ENT_109010	485587	4445498	319.0	## Gouffre Ma premiere
+
+    fix ENT_109011	485584	4445478	319.0
+    station ENT_109011 "Gouffre La Grande Traversée"
     equate ENT_109011 0@GrandeTraversee
+
     fix ENT_109012	486478	4445928	388.0	## Cueva de la Merienda
-    fix ENT_109013	485438	4445269	300.0	## Gouffre des Gaug??s
+
+    fix ENT_109013	485438	4445269	300.0
+    station ENT_109013	"Gouffre des Gaugés"
     equate ENT_109013 0@Gauges
-    fix ENT_109014	485816	4445878	360.0	## Gouffre la Pissoti??re
+
+    fix ENT_109014	485816	4445878	360.0
+    station ENT_109014 "Gouffre la Pissotière"
     equate ENT_109014 0@Pissotiere
-    fix ENT_109015	485649	4444763	53.0	## Grotte des trois entr??es plus une
+
+    fix ENT_109015	485649	4444763	53.0
+    station ENT_109015 "Grotte des trois entrees plus une"
     equate ENT_109015 E12@TroisEntreesPlusUne
+
     fix ENT_109016	485795	4444848	36.0	## Gouffre de la Chatiere
-    fix ENT_109017	486340	4445620	0	## Resurgence de la Petite Chinoise
+    station ENT_109016 "Gouffre de la Chatière"
+
+    fix ENT_109017	486340	4445620	0
+    station ENT_109017	"Resurgence de la Petite Chinoise"
     equate ENT_109017 A20@PetiteChinoise
+
     fix ENT_109018	485880	4445791	0	## Paraiso de las duchas
+    station ENT_109018 "Paraiso de las Duchas"
+
+    fix ENT_109019 485684 4444706 0
+    station ENT_109019 "Résurgence 3"
   endcentreline
 
 endsurvey

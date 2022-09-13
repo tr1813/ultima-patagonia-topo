@@ -1,0 +1,71 @@
+Version 5.02
+
+Trou Chatiere qui buffle,5795.000,4848.000,0,UTM18S
+Entree 0
+Couleur 0,0,0
+
+Param Deca Degd Clino Degd 0.0000 Dir,Dir,Dir Dep Std ;Topo 01/02/2019. Arnauld et Sylvain. De l'entree vers le fond. Coordonnees de l'entree: 485795, 4444848;
+
+0          0                         0.00    0.00    0.00   0.00   0.00   0.00   0.00 N I
+0          1                         4.10  116.00  -23.00   3.80   3.90   1.34   0.20 N I ;0 = Cairn;
+1          2                         2.65  148.00   -1.00   1.22   0.90   0.40   0.20 N I ;1 = etroiture;
+2          3                         4.36   16.00   22.00   1.33   4.03   2.50   0.50 N I
+3          4                         1.82   94.00   43.00   0.20   0.30   0.60   1.13 N I
+4          5                         1.72  306.00    0.00   0.60   1.00   0.50   0.60 N I
+*          6                         2.78    0.00   -3.00   0.50   0.50   0.50   0.20 N I
+*          7                         4.85   61.00   -2.00   0.50   0.50   0.80   0.20 N I
+*          8                         4.78   26.00  -63.00   1.70   0.90   1.50   5.50 N I
+*          9                         7.51  108.00  -19.00   1.60   1.50  13.00   1.60 N I ;9 = rubalise;
+*          10                        4.10  168.00  -45.00   2.60   1.50   5.50   2.60 N I
+*          11                        0.69  208.00    0.00   0.53   1.37   0.50   0.20 N I
+*          12                        6.11  122.00   -1.00   0.60   0.80   0.30   0.00 N I
+*          13                        6.55  130.00   -4.00   0.50   0.60   0.60   0.20 N I
+*          14                        2.64   63.00    3.00   0.70   1.30   0.90   0.30 N I ;14 = rubalise;
+*          15                        3.06   99.00  -57.00   0.80   0.20   0.30   0.70 N I ;P4.5 m;
+*          16                        5.42  255.00  -35.00   0.20   2.50   2.30   1.40 N I
+*          17                        5.42  155.00  -33.00   0.80   0.20   0.50   1.00 N I
+*          18                        5.19  103.00  -52.00   0.50   0.60   0.60   1.30 N I
+*          19                        4.61   88.00  -28.00   0.20   0.20   1.00   1.30 N I
+*          20                        4.06  106.00  -40.00   0.20   0.60   1.10   3.30 N I
+*          21                        5.59  130.00  -80.00   0.20   2.50   4.00   1.50 N I ;Michel PHILIPS, visite du 9 février 2019 : Bas du puit de 5m qui rejoint la zone des siphons;
+21         22                        7.51  167.00  -20.00   0.20   2.60   4.20   1.60 N I ;22 = rubalise;
+21         21a                       5.45  289.00   -6.00      *      *      *      * N I
+21a        21b                       8.54  170.00  -26.00   3.30   0.00   0.80   3.50 N I ;21b = fil plongeur;
+MPH1       21                        3.13  132.20   -4.00   0.20   2.50   4.00   1.00 N I ;Michel PHILIPS et Philippe AURIOL le 9 février 2019 du bas du puit vers les galeries environnantes. Le P0 de mon relevé est le P21 de la topo précédente, c'est à dire le bas de la corde du dernier puit à 1m du sol. Tous mes points sont notés MPHxx.;
+MPH2       MPH1                      4.11  111.40   34.80   1.00   1.00   2.00   1.00 N I
+MPH3       MPH2                      1.39   41.20   26.00   2.00   1.00   1.00   1.00 N I ;Michel PHILIPS : Le point MPH2 est au niveau du siphon B. A partir du point MPH3, une galerie basse semi noyée continue sur 5 m.;
+MPH4       21                        5.37  354.80   22.90      *      *      *      * N I ;MIchel PHILIPS : Le point MPH4 est au niveau du siphon A;
+MPH5       21                        4.38  124.80  -43.60      *      *      *      * N I ;MIchel PHILIPS : Galerie horizontale qui part en face du siphon A;
+MPH6       MPH5                      6.61  170.30  -12.90   1.00   1.00   1.00   1.00 N I ;Michel PHILIPS : Galerie horizontale largeur 2m;
+MPH7       MPH6                      8.23  111.00   13.10      *      *      *      * N I ;Michel PHILIPS : veines de marbre blanc au sol;
+MPH8       MPH7                      1.96  163.70  -13.30      *      *      *      * N I ;Michel.PHILIPS : AU niveau du point MPH7 un regard boueux incliné vers le bas rejoint le niveau des siphons à environ 5 m de distance.;
+MPH9       MPH8                      2.83   81.40   16.90   0.50   1.00   1.00   1.00 N I
+MPH10      MPH9                      8.83  343.80   24.80      *      *      *      * N I ;Michel PHILIPS : Le point MPH10 est au niveau des siphons.;
+MPH11      MPH5                     10.22  260.40  -38.30      *      *      *      * N I ;Galerie montate vers le haut depuis l'arrivée de la corde;
+MPH12      MPH11                     5.16  280.90  -37.90   1.00   0.50   0.20   0.70 N I
+MPH13      MPH12                     5.06   23.70  -15.30   1.50   1.50   0.50   0.50 N I
+MPH14      MPH13                     5.10  278.30   -9.50   1.00   1.00   0.20   0.60 N I
+MPH15      MPH14                     4.28  289.90   -7.50   0.50   1.00   0.20   0.80 N I
+MPH16      MPH15                     4.49    3.50   10.20   0.40   0.40   0.20   0.30 N I
+MPH17      MPH16                    10.16  303.50  -14.10   1.00   1.00   1.00   1.00 N I ;Michel PHILIPS : Le point MPH16 est dans une petite salle avec une colonne d'érosion centrale et une escalade (non faite) en face et une galerie basse (non topo) qui rejoint le point topo 21 (corde du dernier puit).;
+MPH18      MPH17                     1.94  243.30   10.20      *      *      *      * N I
+MPH19      MPH18                     5.40  289.10  -28.00   0.50   0.50   0.40   0.40 N I ;Michel PHILIPS : Au niveau du point MPH18, une tronçon de galerie supérieure sur la droite rejoint la galerie topographiée quelques mètres plus loin au niveau du point topo MPH20.;
+MPH20      MPH19                     5.26  304.80  -13.00   1.50   1.50   1.50   1.00 N I
+MPH21      MPH20                     5.38  219.70    3.40   1.00   1.00   3.00   1.00 N I ;Michel PHILIPS : Au niveau du point MPH20 le courant d'air est très sensible.;
+MPH22      MPH21                     6.73  282.80    0.20   1.50   1.50   1.00   1.00 N I
+MPH23      MPH22                     4.63  282.80  -29.70   0.50   0.50   0.40   0.40 N I ;Michel PHILIPS : Au niveau du point MPH22 un passage vers le bas mais qui est vite impénétrable.;
+MPH24      MPH23                     4.89  277.80   -5.00      *      *      *      * N I ;MIchel PHILIPS : Petite salle avec courant d'air;
+MPH25      MPH24                    12.06  289.60   11.70      *      *      *      * N I ;Michel PHILIPS : Bassin boueux suivi d'un puit de 3 ou 4 m non descendu.;
+
+[Configuration 5.02]
+
+Visual Topo=2,3,-32000,-32000,-1,-1,265,230,1290,756
+Options=1,1
+Calcul=0,1,-1,-1,-8,-30,0,0,1183,582
+Options=11,1,0,1,1
+ExportDxf=0,100,391,0,1,1,6,7,4,4,3,3,2,7,9
+Colonnes=8.00,8.00,8.00,8.00,8.00,8.00,8.00,8.00,8.00,8.00,8.00,2.00,2.00,4.00,0.38,8.00,8.00,8.00,8.00,8.00,0.38,0.00,0.00
+Plan=0,1,-1,-1,-1,-1,2,60,1275,567
+Options=33807,1.00,10,0,0,0,1,0,0
+Coupe développée=0,1,-1,-1,-1,-1,125,125,1312,532
+Options=35879,1.00,0,0,0,1,0,0

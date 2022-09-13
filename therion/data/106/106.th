@@ -9,14 +9,17 @@ survey 106  -title "106 Seno Egg"
     fix ENT_106001	490220	4452363	10.0
     station ENT_106001 "Cueva Pirates/ Hacienda Salinas"
     equate ENT_106001 32@CuevaPirates
+
     fix ENT_106002	490289	4451286	35.0	## Cueva No Time
     fix ENT_106003	490289	4451286	3.0	## Résurgence NoTime
     fix ENT_106004	490541	4453870	20.0	## Cueva Nutria
     fix ENT_106005	490289	4451286	70.0	## Porche
     fix ENT_106006	490604	4450548	0	## Grotte
+
     #fix ENT_106007	490183	4452320	66	## Haciendas Salinas
     equate 100@CuevaPirates 44@a.HaciendasSalinas
     equate N1@CuevaPirates 24@a.HaciendasSalinas
+
     fix ENT_106008 	490080	4452381	96	## Caracara
     fix ENT_106009  488815 4453011 186 ## Plateau Egg 1, non descendu à cause de blocs instables
     fix ENT_106010 488956 4452962 189 ## Plateau Egg 2, environ 40 m avec un méandre rétrécissant
@@ -30,7 +33,9 @@ survey 106  -title "106 Seno Egg"
     fix ENT_106018 489278 4452871 216 ## Deux puits fossiles
     fix ENT_106019 	488833 	4451227	325	## Los tres Rios ##
     fix ENT_106020 	489409 	4452098	187	## Cueva del Dragon ##
+
     fix ENT_106021 	490088 	4452354	105	## Zorro
+    station ENT_106021 "Cueva del Zorro"
     equate ENT_106021 1@a.CuevaDelZorro
 
   endcentreline

@@ -58,9 +58,11 @@ survey 205 -title "205 Baleine"
   fix ENT_205028	470163	4431420	2.0	## Grotte du Sud
   fix ENT_205029	470109	4431220	28.0	## Cueva de la Madre
   fix ENT_205030	471491	4431944	20.0	## Porche
+
   fix ENT_205031	471572	4429671	357.0	## porche jef = gr audeline
   station ENT_205031 "Grotte de l'Audeline"
   equate ENT_205031 0@GrotteAudeline
+  
   fix ENT_205032	472373	4429958	301.0	## Sou33
   fix ENT_205033	472620	4429466	237.0	## Sou30
   fix ENT_205034	472414	4429499	281.0	## Sou31

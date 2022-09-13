@@ -1,3 +1,0 @@
-source "Jackpot.th"
-
-export model -o jackpot.3d -fmt survex
