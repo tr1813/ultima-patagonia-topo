@@ -139,7 +139,7 @@ for sr in reader.shapeRecords():
         POINTS_FIXES.append(dict(type="Feature", geometry=geom, properties=atr))
 
 geojson = open("../data/gis/points_fixes.js", "w")
-geojson.write("var PointsFixes = \n")
+geojson.write("var pointsFixes = \n")
 geojson.write(dumps({"type": "FeatureCollection", "features": POINTS_FIXES}, indent=2) + "\n")
 geojson.close()
 
