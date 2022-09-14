@@ -20,7 +20,11 @@ source ../data/index.th
 
 export map -fmt esri -o ../data/gis
 export model -fmt esri -o ../data/gis
+
+export database -o ../data/gis/database.csv
 """
+
+
 
 # write temporary config file
 with open("temp.thconfig", 'w') as f:
@@ -29,6 +33,58 @@ with open("temp.thconfig", 'w') as f:
 subprocess.check_output("therion temp.thconfig", shell = True)
 subprocess.check_output("rm temp.thconfig", shell = True)
 subprocess.check_output("rm therion.log", shell = True)
+
+CONFIG_FILE = """
+source ../data/{sector}/{survey}/{survey}.th
+export model -fmt survex -o temp.3d
+"""
+
+def findSurvey(CAD_NUM):
+    try:
+        SURVEY_ADDRESS = database[[(CAD_NUM in value) for value in database['From'].values]]['To'].values[0]
+        SURVEY = SURVEY_ADDRESS.split('@')[1].split('.')[-1]
+        print(SURVEY)
+    except IndexError:
+        SURVEY = "NaN"
+    return SURVEY
+
+def getDepthLength(CAD_NUM):
+    SURVEY = findSurvey(CAD_NUM)
+    if SURVEY != "NaN" and SURVEY !='(null)':
+        print(SURVEY)
+        with open('temp.thconfig', 'w') as f:
+            FORMATTED = CONFIG_FILE.format(sector = CAD_NUM.split('ENT_')[1][:3], survey =SURVEY)
+            f.write(FORMATTED)
+            f.close()
+
+        subprocess.check_output("therion temp.thconfig", shell = True)
+        subprocess.check_output("rm temp.thconfig", shell = True)
+        subprocess.check_output("rm temp.3d", shell = True)
+
+        # open the log and get the depth.
+
+        with open("therion.log", 'r') as f:
+            LOG = f.readlines()
+
+            for LINE in LOG:
+                if "Total length of survey legs" in LINE:
+                    NUMS = LINE.split("Total length of survey legs =")[1].strip(" ")
+                    print(NUMS.split('(')[0].strip(" ").strip("m"))
+                    LENGTH = float(NUMS.split('(')[0].strip(" ").strip("m"))
+                elif "Vertical range" in LINE:
+                    DEPTH = float(LINE.split(" ")[4].strip('m'))
+
+            f.close()
+        subprocess.check_output("rm therion.log", shell = True)
+
+
+    else:
+        DEPTH = "NaN"
+        LENGTH = "NaN"
+    return (LENGTH,DEPTH)
+
+# read the database
+database =  pd.read_csv('../data/gis/database.csv')
 
 # read the synthesis
 DATA = pd.read_csv('../data/BROUILLON_cadastre/UP_MDD_DDA_Temp_synthese_Cavites_NumCad.csv')
@@ -49,14 +105,19 @@ for sr in reader.shapeRecords():
 
         try:
             vals = (SYNTHESE[SYNTHESE['CAD_NUM'] == atr['_NAME']].values[0])
-            print(vals[0], vals[1])
+            LENGTH,DEPTH = getDepthLength(atr['_NAME'])
+            if LENGTH != 'NaN':
+                atr['_LENGTH'] = "{:.0f}".format(LENGTH)
+                atr['_DEPTH'] = "{:.0f}".format(DEPTH)
+            else:
+                atr['_LENGTH'] = str(vals[3])
+                atr['_DEPTH'] = str(vals[4])
+
             atr['_CAD_NUM'] = vals[0].strip('ENT_')
             atr['_CAVENAME'] = vals[1]
-            atr['_LENGTH'] = vals[3]
-            atr['_DEPTH'] = vals[4]
-            atr['_ALTITUDE'] = vals[2]
+            atr['_ALTITUDE'] = str(vals[2])
             atr['_EXPED'] = vals[5]
-            atr['_EXPLORATEURS'] = vals[6]
+            atr['_EXPLORATEURS'] = str(vals[6])
         except IndexError:
             atr['_CAD_NUM'] = atr['_NAME'].strip('ENT_')
             atr['_CAVENAME'] = 'not known'
@@ -78,6 +139,34 @@ for sr in reader.shapeRecords():
         POINTS_FIXES.append(dict(type="Feature", geometry=geom, properties=atr))
 
 geojson = open("../data/gis/points_fixes.js", "w")
-geojson.write("var pointsFixes = \n")
+geojson.write("var PointsFixes = \n")
 geojson.write(dumps({"type": "FeatureCollection", "features": POINTS_FIXES}, indent=2) + "\n")
+geojson.close()
+
+
+reader = shapefile.Reader("../data/gis/shots3d.shp")
+fields = reader.fields[1:]
+field_names = [field[0] for field in fields]
+SURVEY_LINES = []
+
+for sr in reader.shapeRecords():
+    atr = dict(zip(field_names, sr.record))
+    geom = sr.shape.__geo_interface__
+
+    if atr['_SPLAY'] ==0 :
+        nodes = geom['coordinates']
+        newnodes = []
+        for node in nodes:
+            x2,y2 = transformer.transform(node[0],node[1])
+
+            newnodes.append((y2,x2))
+        geom['coordinates'] =  newnodes
+
+        SURVEY_LINES.append(dict(type="Feature", geometry=geom, properties=atr))
+
+print(SURVEY_LINES)
+
+geojson = open("../data/gis/lines2D.js", "w")
+geojson.write("var lines2D = \n")
+geojson.write(dumps({"type": "FeatureCollection", "features": SURVEY_LINES}, indent=2) + "\n")
 geojson.close()
