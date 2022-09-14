@@ -1,4 +1,4 @@
-var PointsFixes = 
+var pointsFixes = 
 {
   "type": "FeatureCollection",
   "features": [
