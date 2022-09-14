@@ -7175,8 +7175,8 @@ var pointsFixes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.08242680807072,
-          -78.23971567028923
+          -75.34588687005972,
+          -50.313704896904106
         ]
       },
       "properties": {
