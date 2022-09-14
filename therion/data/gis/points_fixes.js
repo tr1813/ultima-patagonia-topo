@@ -21,13 +21,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Abri 2, occupation humaine",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "101001",
         "_CAVENAME": "Abri2",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "2",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -49,13 +49,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "102001",
         "_CAVENAME": "Porche",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "30",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -77,13 +77,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Punta Espolon",
+        "_LENGTH": "nan",
+        "_DEPTH": "??",
         "_CAD_NUM": "102002",
         "_CAVENAME": "PuntaEspolon",
-        "_LENGTH": NaN,
-        "_DEPTH": "??",
         "_ALTITUDE": "ca 50 m",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -105,13 +105,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Abri 1, occupation humaine",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "104001",
         "_CAVENAME": "Abri1",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "5",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -133,13 +133,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva rien",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "104002",
         "_CAVENAME": "CuevaRien",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -161,13 +161,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Rapido1",
+        "_LENGTH": "nan",
+        "_DEPTH": "45",
         "_CAD_NUM": "105001",
         "_CAVENAME": "CuevaRapido1",
-        "_LENGTH": NaN,
-        "_DEPTH": "45",
         "_ALTITUDE": "20",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -245,13 +245,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva No Time",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "106002",
         "_CAVENAME": "Porche",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "70",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -301,13 +301,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Nutria",
+        "_LENGTH": "nan",
+        "_DEPTH": "20",
         "_CAD_NUM": "106004",
         "_CAVENAME": "CuevaNutria",
-        "_LENGTH": NaN,
-        "_DEPTH": "20",
         "_ALTITUDE": "20",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -357,13 +357,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "106006",
         "_CAVENAME": "Grotte",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -693,13 +693,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Los tres Rios",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "106019",
         "_CAVENAME": "LosTresRios",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "325",
         "_EXPED": "2006ITA",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -721,13 +721,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva del Dragon",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "106020",
         "_CAVENAME": "CuevaDelDragon",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "187",
         "_EXPED": "2006ITA",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -749,13 +749,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva del Zorro",
+        "_LENGTH": "160",
+        "_DEPTH": "27",
         "_CAD_NUM": "106021",
         "_CAVENAME": "CuevaDelZorro",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "105",
         "_EXPED": "2008ENG",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -777,13 +777,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva des los Pescadores",
+        "_LENGTH": "200.0",
+        "_DEPTH": "40",
         "_CAD_NUM": "107001",
         "_CAVENAME": "CuevaDesLosPescadores",
-        "_LENGTH": 200.0,
-        "_DEPTH": "40",
         "_ALTITUDE": "40",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -805,13 +805,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence Bahia Blanca",
+        "_LENGTH": "444",
+        "_DEPTH": "35",
         "_CAD_NUM": "107002",
         "_CAVENAME": "ResurgenceXXX",
-        "_LENGTH": 220.0,
-        "_DEPTH": "24",
         "_ALTITUDE": "0",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -833,13 +833,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Deux grottes (double entree)",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "107003",
         "_CAVENAME": "DeuxGrottes",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "?",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -861,13 +861,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Chatti\u00e8re qui Buffle",
+        "_LENGTH": "247",
+        "_DEPTH": "38",
         "_CAD_NUM": "107004",
         "_CAVENAME": "ChattiereQuiBuffle",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "?",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -889,13 +889,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de la grotte",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "107005",
         "_CAVENAME": "GouffreDeLaGrotte",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "436",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -917,13 +917,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Mille et une cascade",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "107006",
         "_CAVENAME": "EmergenceDesTuyaux",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "?",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -945,13 +945,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du camp du nid du condor",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
         "_CAD_NUM": "107007",
         "_CAVENAME": "GouffreDuCampDuNidDuCondor",
-        "_LENGTH": NaN,
-        "_DEPTH": "15",
         "_ALTITUDE": "311",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1001,13 +1001,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Chameau",
+        "_LENGTH": "162",
+        "_DEPTH": "113",
         "_CAD_NUM": "107009",
         "_CAVENAME": "GouffreChameau",
-        "_LENGTH": 162.0,
-        "_DEPTH": "113",
         "_ALTITUDE": "380",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1029,13 +1029,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "perte du Point G",
+        "_LENGTH": "nan",
+        "_DEPTH": "20",
         "_CAD_NUM": "107010",
         "_CAVENAME": "PerteDuPointG",
-        "_LENGTH": NaN,
-        "_DEPTH": "20",
         "_ALTITUDE": "420",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1057,13 +1057,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva d'el cabo vertical",
+        "_LENGTH": "345",
+        "_DEPTH": "31",
         "_CAD_NUM": "107011",
         "_CAVENAME": "CuevaCaboVertical",
-        "_LENGTH": 345.0,
-        "_DEPTH": "18--14",
         "_ALTITUDE": "39",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1085,13 +1085,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche de la coul\u00e9e blanche",
+        "_LENGTH": "245",
+        "_DEPTH": "33",
         "_CAD_NUM": "107012",
         "_CAVENAME": "CouleeBlanche",
-        "_LENGTH": 84.0,
-        "_DEPTH": "26",
         "_ALTITUDE": "25 (estimation)",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1113,13 +1113,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte des Canelures",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
         "_CAD_NUM": "107013",
         "_CAVENAME": "GrotteDesCanelures",
-        "_LENGTH": NaN,
-        "_DEPTH": "15",
         "_ALTITUDE": "106, donn\u00e9e GPS surestim\u00e9e",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1141,13 +1141,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Las Duchas de San Pedro",
+        "_LENGTH": "268",
+        "_DEPTH": "45",
         "_CAD_NUM": "107014",
         "_CAVENAME": "DuchasDeSanPedro",
-        "_LENGTH": 268.0,
-        "_DEPTH": "45 (-41, +4)",
         "_ALTITUDE": "ca 50 m",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1169,13 +1169,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Ete austral",
+        "_LENGTH": "105.0",
+        "_DEPTH": "83",
         "_CAD_NUM": "107015",
         "_CAVENAME": "EteAustral",
-        "_LENGTH": 105.0,
-        "_DEPTH": "83",
         "_ALTITUDE": "411",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1197,13 +1197,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou du carnet",
+        "_LENGTH": "nan",
+        "_DEPTH": "10",
         "_CAD_NUM": "107016",
         "_CAVENAME": "TrouDuCarnet",
-        "_LENGTH": NaN,
-        "_DEPTH": "10",
         "_ALTITUDE": "429",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1225,13 +1225,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "N1",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
         "_CAD_NUM": "107017",
         "_CAVENAME": "N2",
-        "_LENGTH": NaN,
-        "_DEPTH": "0",
         "_ALTITUDE": "?",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1281,13 +1281,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du Casque",
+        "_LENGTH": "1389",
+        "_DEPTH": "203",
         "_CAD_NUM": "107019",
         "_CAVENAME": "GouffreCasque",
-        "_LENGTH": 1600.0,
-        "_DEPTH": "203",
         "_ALTITUDE": "347",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1309,13 +1309,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CN 16-02-1",
+        "_LENGTH": "nan",
+        "_DEPTH": "40",
         "_CAD_NUM": "107020",
         "_CAVENAME": "CN16-02-1",
-        "_LENGTH": NaN,
-        "_DEPTH": "40",
         "_ALTITUDE": "387",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1337,13 +1337,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CN 16-02-2",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
         "_CAD_NUM": "107021",
         "_CAVENAME": "CN16-02-2",
-        "_LENGTH": NaN,
-        "_DEPTH": "15",
         "_ALTITUDE": "387",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1365,13 +1365,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Madame Caf\u00e9",
+        "_LENGTH": "66",
+        "_DEPTH": "47",
         "_CAD_NUM": "107022",
         "_CAVENAME": "MadameCafe",
-        "_LENGTH": 66.0,
-        "_DEPTH": "47",
         "_ALTITUDE": "384",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1393,13 +1393,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CN 16-02-4",
+        "_LENGTH": "nan",
+        "_DEPTH": "25",
         "_CAD_NUM": "107023",
         "_CAVENAME": "CN16-02-4",
-        "_LENGTH": NaN,
-        "_DEPTH": "25",
         "_ALTITUDE": "405",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1421,13 +1421,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CN 16-02-5",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
         "_CAD_NUM": "107024",
         "_CAVENAME": "CN16-02-5",
-        "_LENGTH": NaN,
-        "_DEPTH": "15",
         "_ALTITUDE": "383",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1477,13 +1477,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PN01",
+        "_LENGTH": "nan",
+        "_DEPTH": "10",
         "_CAD_NUM": "107026",
         "_CAVENAME": "PN01",
-        "_LENGTH": NaN,
-        "_DEPTH": "10",
         "_ALTITUDE": "60",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1505,13 +1505,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PN02",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
         "_CAD_NUM": "107027",
         "_CAVENAME": "PN02",
-        "_LENGTH": NaN,
-        "_DEPTH": "15",
         "_ALTITUDE": "60",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1533,13 +1533,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du Jackpot",
+        "_LENGTH": "702",
+        "_DEPTH": "185",
         "_CAD_NUM": "107028",
         "_CAVENAME": "GouffreJackpot",
-        "_LENGTH": NaN,
-        "_DEPTH": "265",
         "_ALTITUDE": "369",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1561,13 +1561,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte du Cirque 4",
+        "_LENGTH": "nan",
+        "_DEPTH": "12",
         "_CAD_NUM": "107029",
         "_CAVENAME": "PerteCirque4",
-        "_LENGTH": NaN,
-        "_DEPTH": "12",
         "_ALTITUDE": "362",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1589,13 +1589,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Cascada",
+        "_LENGTH": "nan",
+        "_DEPTH": "52",
         "_CAD_NUM": "107030",
         "_CAVENAME": "CuevaCascada",
-        "_LENGTH": NaN,
-        "_DEPTH": "52",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1617,13 +1617,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Punta Blanca",
+        "_LENGTH": "2796",
+        "_DEPTH": "60",
         "_CAD_NUM": "107031",
         "_CAVENAME": "PuntaBlanca",
-        "_LENGTH": 2287.0,
-        "_DEPTH": "14--44",
         "_ALTITUDE": "?",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1645,13 +1645,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Ojo de la Madre",
+        "_LENGTH": "186",
+        "_DEPTH": "49",
         "_CAD_NUM": "108001",
         "_CAVENAME": "OjoDeLaMadre",
-        "_LENGTH": 190.0,
-        "_DEPTH": "49",
         "_ALTITUDE": "406",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1673,13 +1673,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Ombligo de la Madre",
+        "_LENGTH": "283",
+        "_DEPTH": "146",
         "_CAD_NUM": "108002",
         "_CAVENAME": "OmbligoDeLaMadre",
-        "_LENGTH": 283.0,
-        "_DEPTH": "146",
         "_ALTITUDE": "365",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1701,13 +1701,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sumidero",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "108003",
         "_CAVENAME": "Sumidero",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1729,13 +1729,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Lagrimas de la Madre",
+        "_LENGTH": "355",
+        "_DEPTH": "150",
         "_CAD_NUM": "108004",
         "_CAVENAME": "GouffreLagrimas",
-        "_LENGTH": NaN,
-        "_DEPTH": "150",
         "_ALTITUDE": "350",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1757,13 +1757,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sumidero1",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "108005",
         "_CAVENAME": "Sumidero",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "198",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1785,13 +1785,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Garganta",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "108006",
         "_CAVENAME": "Garganta",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "180",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1813,13 +1813,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sumidero",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "108007",
         "_CAVENAME": "Sumidero",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "191",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1841,13 +1841,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Utero de la Madre",
+        "_LENGTH": "770.0",
+        "_DEPTH": "xxx 182",
         "_CAD_NUM": "108008",
         "_CAVENAME": "Utero de la Madre",
-        "_LENGTH": 770.0,
-        "_DEPTH": "xxx 182",
         "_ALTITUDE": "220",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1869,13 +1869,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sumidero2",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "108009",
         "_CAVENAME": "Sumidero",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "225",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1897,13 +1897,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sumidero3",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "108010",
         "_CAVENAME": "Sumidero",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "317",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1925,13 +1925,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "agujero1",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "108011",
         "_CAVENAME": "agujero",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "290",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -1953,13 +1953,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "agujero",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "108012",
         "_CAVENAME": "agujero",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "417",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2009,13 +2009,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de l'Arche",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
         "_CAD_NUM": "108014",
         "_CAVENAME": "GouffreDeLArche",
-        "_LENGTH": NaN,
-        "_DEPTH": "15",
         "_ALTITUDE": "15",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2037,13 +2037,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte des 3 Porches",
+        "_LENGTH": "279",
+        "_DEPTH": "49",
         "_CAD_NUM": "109001",
         "_CAVENAME": "TroisPorches",
-        "_LENGTH": 280.0,
-        "_DEPTH": "-32-+17",
         "_ALTITUDE": "60",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2065,13 +2065,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte des 3 Porches",
+        "_LENGTH": "341",
+        "_DEPTH": "72",
         "_CAD_NUM": "109002",
         "_CAVENAME": "TroisPorches",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "60",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2093,13 +2093,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Barachos",
+        "_LENGTH": "nan",
+        "_DEPTH": "8",
         "_CAD_NUM": "109003",
         "_CAVENAME": "CuevaBarachos",
-        "_LENGTH": NaN,
-        "_DEPTH": "8",
         "_ALTITUDE": "375",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2121,13 +2121,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Caliza",
+        "_LENGTH": "218",
+        "_DEPTH": "133",
         "_CAD_NUM": "109004",
         "_CAVENAME": "CuevaCaliza",
-        "_LENGTH": NaN,
-        "_DEPTH": "100",
         "_ALTITUDE": "370",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2149,13 +2149,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "En desespoir de Cause",
+        "_LENGTH": "nan",
+        "_DEPTH": "40",
         "_CAD_NUM": "109005",
         "_CAVENAME": "EnDesespoirDeCause",
-        "_LENGTH": NaN,
-        "_DEPTH": "40",
         "_ALTITUDE": "384",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2177,13 +2177,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "P10",
+        "_LENGTH": "nan",
+        "_DEPTH": "10",
         "_CAD_NUM": "109006",
         "_CAVENAME": "P10",
-        "_LENGTH": NaN,
-        "_DEPTH": "10",
         "_ALTITUDE": "414",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2205,13 +2205,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "petite Grotte",
+        "_LENGTH": "nan",
+        "_DEPTH": "6",
         "_CAD_NUM": "109007",
         "_CAVENAME": "PetiteGrotte",
-        "_LENGTH": NaN,
-        "_DEPTH": "6",
         "_ALTITUDE": "278",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2233,13 +2233,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Halal",
+        "_LENGTH": "128",
+        "_DEPTH": "107",
         "_CAD_NUM": "109008",
         "_CAVENAME": "GouffreHalal",
-        "_LENGTH": NaN,
-        "_DEPTH": "105",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2261,13 +2261,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre A l'Ail",
+        "_LENGTH": "71",
+        "_DEPTH": "46",
         "_CAD_NUM": "109009",
         "_CAVENAME": "Gouffralail",
-        "_LENGTH": NaN,
-        "_DEPTH": "46",
         "_ALTITUDE": "359",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2289,13 +2289,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Ma premiere",
+        "_LENGTH": "nan",
+        "_DEPTH": "25",
         "_CAD_NUM": "109010",
         "_CAVENAME": "GouffreMaPremiere",
-        "_LENGTH": NaN,
-        "_DEPTH": "25",
         "_ALTITUDE": "319",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2317,13 +2317,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre La Grande Travers\u00e9e",
+        "_LENGTH": "86",
+        "_DEPTH": "14",
         "_CAD_NUM": "109011",
         "_CAVENAME": "GrandeTraversee",
-        "_LENGTH": NaN,
-        "_DEPTH": "-4, +11",
         "_ALTITUDE": "319",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2345,13 +2345,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva de la Merienda",
+        "_LENGTH": "nan",
+        "_DEPTH": "2",
         "_CAD_NUM": "109012",
         "_CAVENAME": "CuevaDeLaMerienda",
-        "_LENGTH": NaN,
-        "_DEPTH": "2",
         "_ALTITUDE": "388",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2373,13 +2373,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre des Gaug\u00e9s",
+        "_LENGTH": "102",
+        "_DEPTH": "89",
         "_CAD_NUM": "109013",
         "_CAVENAME": "Gauges",
-        "_LENGTH": NaN,
-        "_DEPTH": "89",
         "_ALTITUDE": "300",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2401,13 +2401,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre la Pissoti\u00e8re",
+        "_LENGTH": "39",
+        "_DEPTH": "24",
         "_CAD_NUM": "109014",
         "_CAVENAME": "Pissotiere",
-        "_LENGTH": NaN,
-        "_DEPTH": "24",
         "_ALTITUDE": "360",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2429,13 +2429,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte des trois entrees plus une",
+        "_LENGTH": "3241",
+        "_DEPTH": "102",
         "_CAD_NUM": "109015",
         "_CAVENAME": "TroisEntreesPlusUne",
-        "_LENGTH": NaN,
-        "_DEPTH": "-54, +78",
         "_ALTITUDE": "53",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2457,13 +2457,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de la Chati\u00e8re",
+        "_LENGTH": "nan",
+        "_DEPTH": "36",
         "_CAD_NUM": "109016",
         "_CAVENAME": "TrouDeLaChattiere",
-        "_LENGTH": NaN,
-        "_DEPTH": "36",
         "_ALTITUDE": "36",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2485,13 +2485,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Resurgence de la Petite Chinoise",
+        "_LENGTH": "318",
+        "_DEPTH": "64",
         "_CAD_NUM": "109017",
         "_CAVENAME": "PetiteChinoise",
-        "_LENGTH": NaN,
-        "_DEPTH": "83",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2513,13 +2513,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Paraiso de las Duchas",
+        "_LENGTH": "nan",
+        "_DEPTH": "133",
         "_CAD_NUM": "109018",
         "_CAVENAME": "ParaisoDeLasDuchas",
-        "_LENGTH": NaN,
-        "_DEPTH": "133",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2541,13 +2541,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "109019",
         "_CAVENAME": "R\u00e9surgence 3",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "0",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2569,13 +2569,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Resurgence 2 du Canyon",
+        "_LENGTH": "40.0",
+        "_DEPTH": "-4-+2",
         "_CAD_NUM": "201001",
         "_CAVENAME": "Resurgence2DuCanyon",
-        "_LENGTH": 40.0,
-        "_DEPTH": "-4-+2",
         "_ALTITUDE": "0",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -2597,10 +2597,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "La Rabasse 3",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-50",
         "_CAD_NUM": "201002",
         "_CAVENAME": "LaRabasse3",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-50",
         "_ALTITUDE": "325",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-Buldo-Vanessa"
@@ -2625,10 +2625,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueve C4 SansNom 3 SansNom",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-50",
         "_CAD_NUM": "201003",
         "_CAVENAME": "Secteur Barros Luco",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-50",
         "_ALTITUDE": "385",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-Vanessa-Buldo-Sergio"
@@ -2653,10 +2653,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "La Rabasse 1",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-40",
         "_CAD_NUM": "201004",
         "_CAVENAME": "LaRabasse1",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-40",
         "_ALTITUDE": "337",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-Buldo-Vanessa"
@@ -2681,10 +2681,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 3",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-35",
         "_CAD_NUM": "201005",
         "_CAVENAME": "Cueva3",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-35",
         "_ALTITUDE": "273",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric"
@@ -2709,10 +2709,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 7",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-35",
         "_CAD_NUM": "201006",
         "_CAVENAME": "Cueva7",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-35",
         "_ALTITUDE": "294",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9"
@@ -2737,10 +2737,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 1",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-30",
         "_CAD_NUM": "201007",
         "_CAVENAME": "Cueva1",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-30",
         "_ALTITUDE": "290",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric"
@@ -2765,10 +2765,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 11",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-28",
         "_CAD_NUM": "201008",
         "_CAVENAME": "Cueva11",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-28",
         "_ALTITUDE": "338",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Serge-Jean Phi-C\u00e9dric"
@@ -2793,10 +2793,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva du T\u00e9l\u00e9phone",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-26",
         "_CAD_NUM": "201009",
         "_CAVENAME": "CuevaDuTelephone",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-26",
         "_ALTITUDE": "340",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Vanessa-Serge"
@@ -2821,10 +2821,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 8",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-26",
         "_CAD_NUM": "201010",
         "_CAVENAME": "Cueva8",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-26",
         "_ALTITUDE": "309",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -2849,10 +2849,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "cueva C4 SansNom 8",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-25",
         "_CAD_NUM": "201011",
         "_CAVENAME": "cueva101",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-25",
         "_ALTITUDE": "492",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Buldo, Jos\u00e9, Jean Phi"
@@ -2877,10 +2877,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou du Marteau",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201012",
         "_CAVENAME": "C4Cueva 9",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "385",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -2905,10 +2905,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "La Rabasse 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201013",
         "_CAVENAME": "C4T3",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "310",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Buldo"
@@ -2933,10 +2933,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "cueva C4 SansNom 9",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-20",
         "_CAD_NUM": "201014",
         "_CAVENAME": "cueva102",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-20",
         "_ALTITUDE": "526",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Buldo, Jos\u00e9, Jean phi"
@@ -2961,10 +2961,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva C4 SansNom 7",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-20",
         "_CAD_NUM": "201015",
         "_CAVENAME": "Cueva104",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-20",
         "_ALTITUDE": "469",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Buldo, Jos\u00e9, Jean Phi"
@@ -2989,10 +2989,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 10",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-15",
         "_CAD_NUM": "201016",
         "_CAVENAME": "Cueva10",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-15",
         "_ALTITUDE": "347",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric"
@@ -3017,10 +3017,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "??Secteur Barros Luco",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-15",
         "_CAD_NUM": "201017",
         "_CAVENAME": "Secteur Barros Luco",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-15",
         "_ALTITUDE": "393",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-Vanessa-Buldo-Sergio"
@@ -3045,10 +3045,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 2",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-15",
         "_CAD_NUM": "201018",
         "_CAVENAME": "Cueva2",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-15",
         "_ALTITUDE": "268",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric"
@@ -3073,10 +3073,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva C4 SansNom 5",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-15",
         "_CAD_NUM": "201019",
         "_CAVENAME": "Cueva105",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-15",
         "_ALTITUDE": "274",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9, Serge, Vanessa, Buldo, Jean Phi"
@@ -3129,10 +3129,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva C4 SansNom 1",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-10",
         "_CAD_NUM": "201021",
         "_CAVENAME": "Secteur Barros Luco",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-10",
         "_ALTITUDE": "393",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-Vanessa-Buldo-Sergio"
@@ -3157,10 +3157,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 12",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-8",
         "_CAD_NUM": "201022",
         "_CAVENAME": "Cueva12",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-8",
         "_ALTITUDE": "335",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Serge-Jean Phi-C\u00e9dric (porche)"
@@ -3185,10 +3185,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 5",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-8",
         "_CAD_NUM": "201023",
         "_CAVENAME": "Cueva5",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-8",
         "_ALTITUDE": "272",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric"
@@ -3213,10 +3213,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 13",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-8",
         "_CAD_NUM": "201024",
         "_CAVENAME": "Cueva13",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-8",
         "_ALTITUDE": "8",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Serge-Jean Phi-C\u00e9dric"
@@ -3241,10 +3241,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva C4 SansNom 6",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-8",
         "_CAD_NUM": "201025",
         "_CAVENAME": "Secteur Barros Luco",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-8",
         "_ALTITUDE": "412",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-Vanessa-Buldo-Sergio"
@@ -3269,10 +3269,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche 2 Os de Baleine",
+        "_LENGTH": "0.0",
+        "_DEPTH": "15",
         "_CAD_NUM": "201026",
         "_CAVENAME": "PorcheBaleine",
-        "_LENGTH": 0.0,
-        "_DEPTH": "15",
         "_ALTITUDE": "9",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jean Phi-C\u00e9dric (os baleine+coquillages)"
@@ -3353,10 +3353,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 4",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201029",
         "_CAVENAME": "Cueva4",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "270",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -3409,10 +3409,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C3",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201031",
         "_CAVENAME": "C3",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "303",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Buldo"
@@ -3437,13 +3437,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 Cueva 6",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201032",
         "_CAVENAME": "C4Cueva6",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "306",
         "_EXPED": "2010",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -3493,10 +3493,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom10",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201034",
         "_CAVENAME": "C4SansNom10",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "397",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -3521,10 +3521,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom 9",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-23",
         "_CAD_NUM": "201035",
         "_CAVENAME": "TrouDeLaPlaquette",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-23",
         "_ALTITUDE": "382",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Cedric-Vanessa-Serge"
@@ -3549,10 +3549,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 Nfissure 0",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201036",
         "_CAVENAME": "C4Nfissure0",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "389",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -3577,10 +3577,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom 8",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201037",
         "_CAVENAME": "C4SansNom8",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "361",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -3605,10 +3605,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom 7",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201038",
         "_CAVENAME": "C4SansNom7",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "347",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -3633,10 +3633,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom 6",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201039",
         "_CAVENAME": "C4SansNom6",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "342",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -3661,10 +3661,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C5 Cueva2",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-20",
         "_CAD_NUM": "201040",
         "_CAVENAME": "PorcheDuSonnar",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-20",
         "_ALTITUDE": "338",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Cedric-Jose-JeanPhilippe-Serge"
@@ -3689,10 +3689,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201041",
         "_CAVENAME": "C4SansNom1",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "403",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -3717,10 +3717,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom 4",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201042",
         "_CAVENAME": "C4SansNom4",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "312",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -3745,10 +3745,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C5 Cueva3",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201043",
         "_CAVENAME": "C5Cueva3",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "313",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -3773,10 +3773,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201044",
         "_CAVENAME": "C4SansNom3",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "307",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -3801,10 +3801,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C5 Cueva1",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "201045",
         "_CAVENAME": "C5 Cueva1",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "391",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -3857,10 +3857,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Champignon",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-45",
         "_CAD_NUM": "201047",
         "_CAVENAME": "Champignon",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-45",
         "_ALTITUDE": "391",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Cedric"
@@ -3969,13 +3969,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201051",
         "_CAVENAME": "Perte3",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -3997,13 +3997,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou GB 01",
+        "_LENGTH": "46",
+        "_DEPTH": "41",
         "_CAD_NUM": "201052",
         "_CAVENAME": "GB1",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "356",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4025,13 +4025,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB2",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201053",
         "_CAVENAME": "GB2",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "351",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4053,13 +4053,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB3",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201054",
         "_CAVENAME": "GB3",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "239",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4081,13 +4081,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201055",
         "_CAVENAME": "Perte2",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4109,13 +4109,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB Trou 1",
+        "_LENGTH": "46.0",
+        "_DEPTH": "41",
         "_CAD_NUM": "201056",
         "_CAVENAME": "GBTrou1",
-        "_LENGTH": 46.0,
-        "_DEPTH": "41",
         "_ALTITUDE": "303",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4137,13 +4137,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB Trou 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
         "_CAD_NUM": "201057",
         "_CAVENAME": "GBTrou2",
-        "_LENGTH": NaN,
-        "_DEPTH": "15",
         "_ALTITUDE": "306",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4165,13 +4165,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB Trou 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "25",
         "_CAD_NUM": "201058",
         "_CAVENAME": "GBTrou3",
-        "_LENGTH": NaN,
-        "_DEPTH": "25",
         "_ALTITUDE": "329",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4193,13 +4193,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB Trou 5",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201059",
         "_CAVENAME": "GB Trou 5",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "298",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4221,13 +4221,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du Totem",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201060",
         "_CAVENAME": "GouffreDuTotem",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "?",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4249,13 +4249,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Ayayemal",
+        "_LENGTH": "54",
+        "_DEPTH": "45",
         "_CAD_NUM": "201061",
         "_CAVENAME": "Ayayemal",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "292",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4277,13 +4277,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Ayayebo",
+        "_LENGTH": "159",
+        "_DEPTH": "96",
         "_CAD_NUM": "201062",
         "_CAVENAME": "Ayayebo",
-        "_LENGTH": 160.0,
-        "_DEPTH": "96",
         "_ALTITUDE": "314",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4305,13 +4305,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB1 bis",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201063",
         "_CAVENAME": "GB1bis",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "344",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4333,13 +4333,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201064",
         "_CAVENAME": "Gouffre2",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "364",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4361,13 +4361,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201065",
         "_CAVENAME": "SANS NOM",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "596",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4389,13 +4389,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201066",
         "_CAVENAME": "SANS NOM",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "277",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4417,13 +4417,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201067",
         "_CAVENAME": "SANS NOM",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "388",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4445,13 +4445,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB 07 02-1",
+        "_LENGTH": "nan",
+        "_DEPTH": "30",
         "_CAD_NUM": "201068",
         "_CAVENAME": "GB-07-02-1",
-        "_LENGTH": NaN,
-        "_DEPTH": "30",
         "_ALTITUDE": "380",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4473,13 +4473,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB 07 02-2",
+        "_LENGTH": "nan",
+        "_DEPTH": "40",
         "_CAD_NUM": "201069",
         "_CAVENAME": "GB-07-02-2",
-        "_LENGTH": NaN,
-        "_DEPTH": "40",
         "_ALTITUDE": "382",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4501,13 +4501,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB 07 02-3",
+        "_LENGTH": "nan",
+        "_DEPTH": "30",
         "_CAD_NUM": "201070",
         "_CAVENAME": "GB-07-02-3",
-        "_LENGTH": NaN,
-        "_DEPTH": "30",
         "_ALTITUDE": "295",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4529,13 +4529,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "45.0",
+        "_DEPTH": "43",
         "_CAD_NUM": "201071",
         "_CAVENAME": "SANS NOM",
-        "_LENGTH": 45.0,
-        "_DEPTH": "43",
         "_ALTITUDE": "281",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4557,13 +4557,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
         "_CAD_NUM": "201072",
         "_CAVENAME": "SANS NOM",
-        "_LENGTH": NaN,
-        "_DEPTH": "15",
         "_ALTITUDE": "378",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4585,13 +4585,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du Ziploc",
+        "_LENGTH": "44",
+        "_DEPTH": "29",
         "_CAD_NUM": "201073",
         "_CAVENAME": "GouffreDuZiploc",
-        "_LENGTH": 44.0,
-        "_DEPTH": "30",
         "_ALTITUDE": "316",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4613,13 +4613,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Haricot",
+        "_LENGTH": "254",
+        "_DEPTH": "85",
         "_CAD_NUM": "201074",
         "_CAVENAME": "CuevaHarrico",
-        "_LENGTH": 254.0,
-        "_DEPTH": "+85",
         "_ALTITUDE": "29",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4641,13 +4641,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sumidero del Chorizo Plastico",
+        "_LENGTH": "nan",
+        "_DEPTH": "30",
         "_CAD_NUM": "201075",
         "_CAVENAME": "SumideroDelChorizoPlastico",
-        "_LENGTH": NaN,
-        "_DEPTH": "30",
         "_ALTITUDE": "285",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4669,13 +4669,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201076",
         "_CAVENAME": "SANS NOM",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "323",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4697,13 +4697,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "nan",
+        "_DEPTH": "45",
         "_CAD_NUM": "201077",
         "_CAVENAME": "SANS NOM",
-        "_LENGTH": NaN,
-        "_DEPTH": "45",
         "_ALTITUDE": "430",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4725,13 +4725,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201078",
         "_CAVENAME": "SANS NOM",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "460",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4781,10 +4781,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "pacifique nord Porche 1",
+        "_LENGTH": "0.0",
+        "_DEPTH": "30",
         "_CAD_NUM": "201080",
         "_CAVENAME": "Porche1",
-        "_LENGTH": 0.0,
-        "_DEPTH": "30",
         "_ALTITUDE": "13",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jean Phi-C\u00e9dric (Plage Pacifique)"
@@ -4809,13 +4809,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte des Dauphins",
+        "_LENGTH": "nan",
+        "_DEPTH": "????",
         "_CAD_NUM": "202001",
         "_CAVENAME": "GrotteDesDauphins",
-        "_LENGTH": NaN,
-        "_DEPTH": "????",
         "_ALTITUDE": "5",
         "_EXPED": "2017",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -4837,10 +4837,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte du Coypo",
+        "_LENGTH": "283.0",
+        "_DEPTH": "-191",
         "_CAD_NUM": "203001",
         "_CAVENAME": "PerteDuCoypo",
-        "_LENGTH": 283.0,
-        "_DEPTH": "-191",
         "_ALTITUDE": "253",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jean-Francois H, Thomas, Florian, Olivier T"
@@ -4865,10 +4865,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre F\u00e9lin",
+        "_LENGTH": "294.0",
+        "_DEPTH": "-121",
         "_CAD_NUM": "203002",
         "_CAVENAME": "GouffreFelin",
-        "_LENGTH": 294.0,
-        "_DEPTH": "-121",
         "_ALTITUDE": "258",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Isa, Florian, Thomas"
@@ -4893,10 +4893,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Puits du Bourdon",
+        "_LENGTH": "107.0",
+        "_DEPTH": "-48",
         "_CAD_NUM": "203003",
         "_CAVENAME": "PuitsDuBourdon",
-        "_LENGTH": 107.0,
-        "_DEPTH": "-48",
         "_ALTITUDE": "249",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Olivier T"
@@ -4921,10 +4921,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gros Trou",
+        "_LENGTH": "30.0",
+        "_DEPTH": "-15",
         "_CAD_NUM": "203004",
         "_CAVENAME": "GrosTrou",
-        "_LENGTH": 30.0,
-        "_DEPTH": "-15",
         "_ALTITUDE": "252",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Olivier T"
@@ -4949,10 +4949,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
         "_CAD_NUM": "203005",
         "_CAVENAME": "R\u00e9surgence",
-        "_LENGTH": NaN,
-        "_DEPTH": "0",
         "_ALTITUDE": "34",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Olivier T"
@@ -4977,10 +4977,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
         "_CAD_NUM": "203006",
         "_CAVENAME": "R\u00e9surgence",
-        "_LENGTH": NaN,
-        "_DEPTH": "0",
         "_ALTITUDE": "119",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Olivier T"
@@ -5005,10 +5005,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
         "_CAD_NUM": "203007",
         "_CAVENAME": "R\u00e9surgence",
-        "_LENGTH": NaN,
-        "_DEPTH": "0",
         "_ALTITUDE": "121",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Olivier T"
@@ -5033,10 +5033,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven C301",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "203008",
         "_CAVENAME": "Aven C301",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "334",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Olivier T"
@@ -5061,10 +5061,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "203009",
         "_CAVENAME": "Aven",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "105",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Olivier T"
@@ -5117,10 +5117,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Abri du Gazon",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
         "_CAD_NUM": "203011",
         "_CAVENAME": "AbriDuGazon",
-        "_LENGTH": NaN,
-        "_DEPTH": "0",
         "_ALTITUDE": "35",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Florian"
@@ -5145,10 +5145,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte du Nord",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "203012",
         "_CAVENAME": "GrotteDuNord",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "0",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Florian"
@@ -5173,13 +5173,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de la Gazelle",
+        "_LENGTH": "207",
+        "_DEPTH": "64",
         "_CAD_NUM": "204001",
         "_CAVENAME": "GouffreAlouette",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "153",
         "_EXPED": "2010",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -5201,10 +5201,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Eveque Cauchon",
+        "_LENGTH": "235.0",
+        "_DEPTH": "-58",
         "_CAD_NUM": "204002",
         "_CAVENAME": "EvequeCauchon",
-        "_LENGTH": 235.0,
-        "_DEPTH": "-58",
         "_ALTITUDE": "74",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric, Vanessa, Bruno, Didier, Fabien, St\u00e9phane, Denis, Arnauld"
@@ -5229,10 +5229,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte de la fausse Pucelle",
+        "_LENGTH": "117",
+        "_DEPTH": "30",
         "_CAD_NUM": "204003",
         "_CAVENAME": "GrotteFaussePucelle",
-        "_LENGTH": 117.0,
-        "_DEPTH": "-30",
         "_ALTITUDE": "130",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Les doigts bleus"
@@ -5285,10 +5285,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou des Canelures",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "204005",
         "_CAVENAME": "TrouDesCanelures",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "316",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa"
@@ -5313,10 +5313,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "204006",
         "_CAVENAME": "Perte1",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "305",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Isa"
@@ -5341,10 +5341,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "204007",
         "_CAVENAME": "Perte2",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "157",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Isa"
@@ -5369,10 +5369,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte du Rapace",
+        "_LENGTH": "0.0",
+        "_DEPTH": "6",
         "_CAD_NUM": "204008",
         "_CAVENAME": "GrotteDuRapace",
-        "_LENGTH": 0.0,
-        "_DEPTH": "6",
         "_ALTITUDE": "84",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Florian"
@@ -5397,10 +5397,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte de l'Oursin",
+        "_LENGTH": "175.0",
+        "_DEPTH": "25",
         "_CAD_NUM": "204009",
         "_CAVENAME": "GrotteDeLOursin",
-        "_LENGTH": 175.0,
-        "_DEPTH": "25",
         "_ALTITUDE": "50",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Isa, Florian, Thomas, Jean Francois H"
@@ -5453,13 +5453,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "AbriCotier",
+        "_LENGTH": "295",
+        "_DEPTH": "7",
         "_CAD_NUM": "205001",
         "_CAVENAME": "AbriCotier",
-        "_LENGTH": 80.0,
-        "_DEPTH": "5",
         "_ALTITUDE": "2",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -5481,13 +5481,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Abri du Cerfeuil",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "205002",
         "_CAVENAME": "AbriDuCerfeuil",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "183",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -5509,13 +5509,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva La-Bas",
+        "_LENGTH": "429.0",
+        "_DEPTH": "-233",
         "_CAD_NUM": "205003",
         "_CAVENAME": "CuevaLaBas",
-        "_LENGTH": 429.0,
-        "_DEPTH": "-233",
         "_ALTITUDE": "270",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -5537,13 +5537,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteDesDents",
+        "_LENGTH": "502",
+        "_DEPTH": "157",
         "_CAD_NUM": "205004",
         "_CAVENAME": "PerteDesDents",
-        "_LENGTH": 505.0,
-        "_DEPTH": "-160",
         "_ALTITUDE": "250",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -5565,13 +5565,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SumideroJuanito",
+        "_LENGTH": "205",
+        "_DEPTH": "134",
         "_CAD_NUM": "205005",
         "_CAVENAME": "SumideroJuanito",
-        "_LENGTH": 205.0,
-        "_DEPTH": "-134",
         "_ALTITUDE": "233",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -5593,13 +5593,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Ardilla",
+        "_LENGTH": "nan",
+        "_DEPTH": "-70",
         "_CAD_NUM": "205006",
         "_CAVENAME": "CuevaArdilla",
-        "_LENGTH": NaN,
-        "_DEPTH": "-70",
         "_ALTITUDE": "245",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -5621,13 +5621,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pozo en Bosque",
+        "_LENGTH": "nan",
+        "_DEPTH": "-35",
         "_CAD_NUM": "205007",
         "_CAVENAME": "PozoEnBosque",
-        "_LENGTH": NaN,
-        "_DEPTH": "-35",
         "_ALTITUDE": "237",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -5649,13 +5649,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pozo 2 en Caliza",
+        "_LENGTH": "nan",
+        "_DEPTH": "-70",
         "_CAD_NUM": "205008",
         "_CAVENAME": "Pozo 2 en Caliza",
-        "_LENGTH": NaN,
-        "_DEPTH": "-70",
         "_ALTITUDE": "300",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -5677,13 +5677,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pozo 1 en Caliza",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-30",
         "_CAD_NUM": "205009",
         "_CAVENAME": "Sou31",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-30",
         "_ALTITUDE": "281",
         "_EXPED": "2010",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -5705,13 +5705,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MD/SOU01",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
         "_CAD_NUM": "205010",
         "_CAVENAME": "MD-SOU01",
-        "_LENGTH": NaN,
-        "_DEPTH": "-30",
         "_ALTITUDE": "260",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -5733,13 +5733,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MD/SOU02",
+        "_LENGTH": "nan",
+        "_DEPTH": "-35",
         "_CAD_NUM": "205011",
         "_CAVENAME": "MD-SOU02",
-        "_LENGTH": NaN,
-        "_DEPTH": "-35",
         "_ALTITUDE": "265",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -5761,10 +5761,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte Inattendue",
+        "_LENGTH": "1274.0",
+        "_DEPTH": "-226",
         "_CAD_NUM": "205012",
         "_CAVENAME": "PerteInattendue",
-        "_LENGTH": 1274.0,
-        "_DEPTH": "-226",
         "_ALTITUDE": "294",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florence, Laurent, Jo, Olivier T, Thomas, C\u00e9dric"
@@ -5789,10 +5789,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "La Perte Ambr\u00e9e",
+        "_LENGTH": "103.0",
+        "_DEPTH": "-81",
         "_CAD_NUM": "205013",
         "_CAVENAME": "PerteAmbree",
-        "_LENGTH": 103.0,
-        "_DEPTH": "-81",
         "_ALTITUDE": "249",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Laurent C, Pierre"
@@ -5817,10 +5817,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "porche",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "205014",
         "_CAVENAME": "porche",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "399",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Laurent M"
@@ -5845,10 +5845,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "perte/faille",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "205015",
         "_CAVENAME": "PerteFaille",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "309",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Laurent M"
@@ -5873,10 +5873,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "sortie travers\u00e9e",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "205016",
         "_CAVENAME": "sortie travers\u00e9e",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "415",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Laurent M"
@@ -5901,10 +5901,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou serrure entr\u00e9e",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "205017",
         "_CAVENAME": "Trou serrure entr\u00e9e",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "407",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Laurent M"
@@ -5929,10 +5929,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "grotte jef",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "205018",
         "_CAVENAME": "grotte jef",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "413",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Laurent M"
@@ -5957,10 +5957,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven grd diam",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "205019",
         "_CAVENAME": "Aven grd diam",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "275",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Laurent M"
@@ -5985,13 +5985,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "perte 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "205020",
         "_CAVENAME": "perte 2",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
         "_ALTITUDE": "249",
         "_EXPED": "2010",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -6013,10 +6013,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte des 4 champis",
+        "_LENGTH": "420.0",
+        "_DEPTH": "-165",
         "_CAD_NUM": "205021",
         "_CAVENAME": "PerteDesQuatreChampignons",
-        "_LENGTH": 420.0,
-        "_DEPTH": "-165",
         "_ALTITUDE": "207",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Sylvain, C\u00e9dric, Jos\u00e9, Olivier G, Isa, "
@@ -6041,10 +6041,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "James Bonde",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-54",
         "_CAD_NUM": "205022",
         "_CAVENAME": "JamesBonde",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-54",
         "_ALTITUDE": "230",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian, Olivier G"
@@ -6069,10 +6069,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte du Jump",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
         "_CAD_NUM": "205023",
         "_CAVENAME": "PerteDuJump",
-        "_LENGTH": NaN,
-        "_DEPTH": "-15",
         "_ALTITUDE": "191",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier G, Sylvain"
@@ -6097,10 +6097,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Faille du Coinceur",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-11",
         "_CAD_NUM": "205024",
         "_CAVENAME": "FailleDuCoinceur",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-11",
         "_ALTITUDE": "190",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian"
@@ -6125,10 +6125,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Igue du Plouc",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-9",
         "_CAD_NUM": "205025",
         "_CAVENAME": "IgueDuPlouc",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-9",
         "_ALTITUDE": "200",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian"
@@ -6153,10 +6153,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva de la fin de Matinas",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-6",
         "_CAD_NUM": "205026",
         "_CAVENAME": "CuevaDeLaFinDeMatinas",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-6",
         "_ALTITUDE": "170",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian"
@@ -6181,10 +6181,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "L'Abri-g\u00eete",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
         "_CAD_NUM": "205027",
         "_CAVENAME": "AbriGite",
-        "_LENGTH": NaN,
-        "_DEPTH": "0",
         "_ALTITUDE": "1",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Florian"
@@ -6209,10 +6209,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte du Sud",
+        "_LENGTH": "40.0",
+        "_DEPTH": "15",
         "_CAD_NUM": "205028",
         "_CAVENAME": "GrotteDuSud",
-        "_LENGTH": 40.0,
-        "_DEPTH": "15",
         "_ALTITUDE": "2",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian, Olivier T"
@@ -6237,10 +6237,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva de la Madre",
+        "_LENGTH": "532.0",
+        "_DEPTH": "-18-+20",
         "_CAD_NUM": "205029",
         "_CAVENAME": "CuevaDeLaMadre",
-        "_LENGTH": 532.0,
-        "_DEPTH": "-18-+20",
         "_ALTITUDE": "28",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian, Olivier T"
@@ -6265,10 +6265,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "205030",
         "_CAVENAME": "Porche",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "20",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jean Francois H, Thomas, Olivier T"
@@ -6293,13 +6293,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte de l'Audeline",
+        "_LENGTH": "143",
+        "_DEPTH": "19",
         "_CAD_NUM": "205031",
         "_CAVENAME": "GrotteAudeline",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "357",
         "_EXPED": "2010",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -6405,10 +6405,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
         "_CAD_NUM": "205035",
         "_CAVENAME": "Porche",
-        "_LENGTH": NaN,
-        "_DEPTH": "0",
         "_ALTITUDE": "388",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jean Francois H, Thomas, Olivier T"
@@ -6433,10 +6433,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "205036",
         "_CAVENAME": "Aven",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "360",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jean Francois H, Thomas, Olivier T"
@@ -6461,10 +6461,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte Sueno",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "205037",
         "_CAVENAME": "GrotteSueno",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "423",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jean Francois H, Thomas, Olivier T"
@@ -6517,13 +6517,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Ayayema",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "206001",
         "_CAVENAME": "CuevaAyayema",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -6545,13 +6545,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte du Dyke",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "206002",
         "_CAVENAME": "GrotteDuDyke",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -7721,13 +7721,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence du Champignon",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "206044",
         "_CAVENAME": "ResurgenceDuChampignon",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "0",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -7748,14 +7748,14 @@ var PointsFixes =
         "_FIXED": 1,
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
-        "_COMMENT": "SystemeCondors",
+        "_COMMENT": "Syst\u00e8me des Condors",
+        "_LENGTH": "270",
+        "_DEPTH": "14",
         "_CAD_NUM": "207001",
         "_CAVENAME": "SystemeCondors",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "141",
         "_EXPED": "2006",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -7805,13 +7805,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva1OH1O",
+        "_LENGTH": "341",
+        "_DEPTH": "30",
         "_CAD_NUM": "208001",
         "_CAVENAME": "Cueva10H10",
-        "_LENGTH": 341.0,
-        "_DEPTH": "-7-+23",
         "_ALTITUDE": "80",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -7833,13 +7833,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R??surgence 9 plage de la Baleine",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
         "_CAD_NUM": "208002",
         "_CAVENAME": "R\u00e9surgence 9 plage de la Baleine",
-        "_LENGTH": NaN,
-        "_DEPTH": "0",
         "_ALTITUDE": "40",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -7861,13 +7861,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte 20 plage de la Baleine",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "208003",
         "_CAVENAME": "Grotte20PlageDeLaBaleine",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "20",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -7889,10 +7889,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "208004",
         "_CAVENAME": "Aven",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "559",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Didier"
@@ -7917,10 +7917,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "208005",
         "_CAVENAME": "Aven",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "561",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Didier"
@@ -7945,13 +7945,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte du Plein Cintre",
+        "_LENGTH": "505",
+        "_DEPTH": "87",
         "_CAD_NUM": "209001",
         "_CAVENAME": "PleinCintre",
-        "_LENGTH": 500.0,
-        "_DEPTH": "+45--34",
         "_ALTITUDE": "215",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -7973,13 +7973,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Emergence du Barillet",
+        "_LENGTH": "64",
+        "_DEPTH": "21",
         "_CAD_NUM": "209002",
         "_CAVENAME": "EmergenceBarillet",
-        "_LENGTH": 64.0,
-        "_DEPTH": "21",
         "_ALTITUDE": "436",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -8001,13 +8001,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de la Gachette",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
         "_CAD_NUM": "209003",
         "_CAVENAME": "GouffreDeLaGachette",
-        "_LENGTH": NaN,
-        "_DEPTH": "-15",
         "_ALTITUDE": "428",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -8029,13 +8029,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte de l'Acharn\u00e9",
+        "_LENGTH": "nan",
+        "_DEPTH": "-43",
         "_CAD_NUM": "209004",
         "_CAVENAME": "Perte de l'Acharn\u00e9",
-        "_LENGTH": NaN,
-        "_DEPTH": "-43",
         "_ALTITUDE": "334",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -8057,13 +8057,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte n?? 18",
+        "_LENGTH": "57.0",
+        "_DEPTH": "-34",
         "_CAD_NUM": "209005",
         "_CAVENAME": "Perte n\u00b0 18",
-        "_LENGTH": 57.0,
-        "_DEPTH": "-34",
         "_ALTITUDE": "422",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -8085,13 +8085,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "ResurgenceDeLaPlage",
+        "_LENGTH": "378",
+        "_DEPTH": "52",
         "_CAD_NUM": "209006",
         "_CAVENAME": "ResurgenceDeLaPlage",
-        "_LENGTH": 380.0,
-        "_DEPTH": "+25--28",
         "_ALTITUDE": "3",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -8113,13 +8113,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GrotteEvier",
+        "_LENGTH": "71",
+        "_DEPTH": "60",
         "_CAD_NUM": "209007",
         "_CAVENAME": "GrotteEvier",
-        "_LENGTH": 75.0,
-        "_DEPTH": "-60",
         "_ALTITUDE": "195",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -8141,13 +8141,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Gringa (Los Gringos)",
+        "_LENGTH": "64",
+        "_DEPTH": "47",
         "_CAD_NUM": "209009",
         "_CAVENAME": "CuevaGringa",
-        "_LENGTH": NaN,
-        "_DEPTH": "-30",
         "_ALTITUDE": "154",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -8169,13 +8169,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Doline Calafate",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "209010",
         "_CAVENAME": "DolineCalafate",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "250",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -8197,13 +8197,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GouffreDeLaDetente",
+        "_LENGTH": "863",
+        "_DEPTH": "316",
         "_CAD_NUM": "209011",
         "_CAVENAME": "GouffreDeLaDetente",
-        "_LENGTH": NaN,
-        "_DEPTH": "-323",
         "_ALTITUDE": "445",
         "_EXPED": "2010",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -8225,13 +8225,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "209012",
         "_CAVENAME": "Aven",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "450",
         "_EXPED": "2010",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -8253,13 +8253,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "0.0",
+        "_DEPTH": "nan",
         "_CAD_NUM": "209013",
         "_CAVENAME": "Aven",
-        "_LENGTH": 0.0,
-        "_DEPTH": NaN,
         "_ALTITUDE": "357",
         "_EXPED": "2010",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -8281,10 +8281,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du Kit",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-120",
         "_CAD_NUM": "209014",
         "_CAVENAME": "GouffreDuKit",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-120",
         "_ALTITUDE": "505",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Jos\u00e9, Serge"
@@ -8309,10 +8309,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Cumple Anos",
+        "_LENGTH": "119.0",
+        "_DEPTH": "-81",
         "_CAD_NUM": "209015",
         "_CAVENAME": "GouffreCumpleAnos",
-        "_LENGTH": 119.0,
-        "_DEPTH": "-81",
         "_ALTITUDE": "412",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jean Francois H, Didier, Laurent M, Florence, Olivier T"
@@ -8337,11 +8337,11 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "La Marmotte",
+        "_LENGTH": "nan",
+        "_DEPTH": "-57",
         "_CAD_NUM": "209016",
         "_CAVENAME": "LaMarmotte",
-        "_LENGTH": NaN,
-        "_DEPTH": "-57",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9, Isa, Serge"
       }
@@ -8365,10 +8365,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven Kinka 4",
+        "_LENGTH": "nan",
+        "_DEPTH": "-40",
         "_CAD_NUM": "209017",
         "_CAVENAME": "AvenKinka4",
-        "_LENGTH": NaN,
-        "_DEPTH": "-40",
         "_ALTITUDE": "428",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9"
@@ -8393,11 +8393,11 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte",
+        "_LENGTH": "nan",
+        "_DEPTH": "-40",
         "_CAD_NUM": "209018",
         "_CAVENAME": "Perte3",
-        "_LENGTH": NaN,
-        "_DEPTH": "-40",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Jos\u00e9"
       }
@@ -8421,10 +8421,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven Kinka 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "-28",
         "_CAD_NUM": "209019",
         "_CAVENAME": "AvenKinka3",
-        "_LENGTH": NaN,
-        "_DEPTH": "-28",
         "_ALTITUDE": "413",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9, Bruno, Fabien, Didier"
@@ -8449,11 +8449,11 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
         "_CAD_NUM": "209020",
         "_CAVENAME": "Aven",
-        "_LENGTH": NaN,
-        "_DEPTH": "-20",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9, Isa, Serge"
       }
@@ -8477,11 +8477,11 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
         "_CAD_NUM": "209021",
         "_CAVENAME": "Aven",
-        "_LENGTH": NaN,
-        "_DEPTH": "-20",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9, Isa, Serge"
       }
@@ -8505,10 +8505,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven -20",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
         "_CAD_NUM": "209022",
         "_CAVENAME": "Aven -20",
-        "_LENGTH": NaN,
-        "_DEPTH": "-20",
         "_ALTITUDE": "418",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Mulot"
@@ -8533,11 +8533,11 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
         "_CAD_NUM": "209023",
         "_CAVENAME": "Gouffre1",
-        "_LENGTH": NaN,
-        "_DEPTH": "-20",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Jos\u00e9"
       }
@@ -8561,10 +8561,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven Kinka 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
         "_CAD_NUM": "209024",
         "_CAVENAME": "AvenKinka2",
-        "_LENGTH": NaN,
-        "_DEPTH": "-15",
         "_ALTITUDE": "428",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Bruno, Didier, Jo, Fabien, Jos\u00e9"
@@ -8589,10 +8589,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven Kinka 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
         "_CAD_NUM": "209025",
         "_CAVENAME": "AvenKinka1",
-        "_LENGTH": NaN,
-        "_DEPTH": "-15",
         "_ALTITUDE": "451",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Fabien, Didier"
@@ -8617,10 +8617,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven non descendu",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "209026",
         "_CAVENAME": "Aven non descendu",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "434",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Mulot"
@@ -8645,10 +8645,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "209027",
         "_CAVENAME": "Aven",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "433",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Laurent M"
@@ -8673,10 +8673,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "209028",
         "_CAVENAME": "Aven",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "414",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Laurent M"
@@ -8701,13 +8701,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grand Aven-Perte",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "209029",
         "_CAVENAME": "GrandAvenPerte",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "359",
         "_EXPED": "2010",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -8729,10 +8729,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TROU A",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "209030",
         "_CAVENAME": "TROUA",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "433",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Mulot"
@@ -8757,13 +8757,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grande Doline-Perte",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "209031",
         "_CAVENAME": "GrandeDolinePerte",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "347",
         "_EXPED": "2010",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -8785,10 +8785,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "209032",
         "_CAVENAME": "Aven",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "466",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Mulot"
@@ -9009,13 +9009,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PozolAlRato",
+        "_LENGTH": "128",
+        "_DEPTH": "120",
         "_CAD_NUM": "209040",
         "_CAVENAME": "PozoAlRato",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "380",
         "_EXPED": "2006",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9037,13 +9037,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PozoDeLosCinquetenos",
+        "_LENGTH": "113",
+        "_DEPTH": "76",
         "_CAD_NUM": "209041",
         "_CAVENAME": "PozoDeLosCinquetenos",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "386",
         "_EXPED": "2006",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9373,13 +9373,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CuevaTorseOublie",
+        "_LENGTH": "78",
+        "_DEPTH": "67",
         "_CAD_NUM": "209053",
         "_CAVENAME": "CuevaTorseOublie",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "444",
         "_EXPED": "2006",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9513,13 +9513,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteDesSabliers",
+        "_LENGTH": "667",
+        "_DEPTH": "275",
         "_CAD_NUM": "209058",
         "_CAVENAME": "PerteDesSabliers",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "452",
         "_EXPED": "2006",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9541,13 +9541,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Resurgence Fin Del Seno",
+        "_LENGTH": "46",
+        "_DEPTH": "2",
         "_CAD_NUM": "210001",
         "_CAVENAME": "ResurgenceFinDeSeno",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "0",
         "_EXPED": "2006",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9569,13 +9569,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "AbrigoDelViento",
+        "_LENGTH": "430",
+        "_DEPTH": "197",
         "_CAD_NUM": "211001",
         "_CAVENAME": "AbrigoDelViento",
-        "_LENGTH": 430.0,
-        "_DEPTH": "-197",
         "_ALTITUDE": "407",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9597,13 +9597,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SumideroPiquante",
+        "_LENGTH": "451",
+        "_DEPTH": "149",
         "_CAD_NUM": "211002",
         "_CAVENAME": "SumideroPiquante",
-        "_LENGTH": 450.0,
-        "_DEPTH": "-147",
         "_ALTITUDE": "191",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9625,13 +9625,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre d'Aguilucho",
+        "_LENGTH": "302",
+        "_DEPTH": "97",
         "_CAD_NUM": "211003",
         "_CAVENAME": "GouffreAguilucho",
-        "_LENGTH": 302.0,
-        "_DEPTH": "-97",
         "_ALTITUDE": "73",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9653,13 +9653,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Exsurgence Picaflor",
+        "_LENGTH": "79",
+        "_DEPTH": "5",
         "_CAD_NUM": "211004",
         "_CAVENAME": "ExsurgencePicaflor",
-        "_LENGTH": 40.0,
-        "_DEPTH": "5",
         "_ALTITUDE": "10",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9709,13 +9709,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sima del Col",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
         "_CAD_NUM": "211006",
         "_CAVENAME": "SimaDelCol",
-        "_LENGTH": NaN,
-        "_DEPTH": "-30",
         "_ALTITUDE": "348",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9737,13 +9737,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MD/BDGS01",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211007",
         "_CAVENAME": "MD-BDGS01",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "192",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9765,13 +9765,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MD/BDGS02",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211008",
         "_CAVENAME": "MD-BDGS02",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "461",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9793,13 +9793,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MD/BDGS03",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
         "_CAD_NUM": "211009",
         "_CAVENAME": "MD-BDGS03",
-        "_LENGTH": NaN,
-        "_DEPTH": "-15",
         "_ALTITUDE": "71",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9821,13 +9821,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MD/BDGS04",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211010",
         "_CAVENAME": "MD-BDGS04",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "536",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9849,13 +9849,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MD/BDG05",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211011",
         "_CAVENAME": "MD-BDG05",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "310",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -9877,10 +9877,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte Grande Soeur",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-13",
         "_CAD_NUM": "211012",
         "_CAVENAME": "GrotteGrandeSoeur",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-13",
         "_ALTITUDE": "360",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian"
@@ -9905,10 +9905,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre 36",
+        "_LENGTH": "45",
+        "_DEPTH": "45",
         "_CAD_NUM": "211013",
         "_CAVENAME": "Gouffre36",
-        "_LENGTH": NaN,
-        "_DEPTH": "-45",
         "_ALTITUDE": "392",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Denis, Olivier T"
@@ -9933,10 +9933,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre des Mousquetaires",
+        "_LENGTH": "56",
+        "_DEPTH": "44",
         "_CAD_NUM": "211014",
         "_CAVENAME": "GouffreDesMousquetaires",
-        "_LENGTH": NaN,
-        "_DEPTH": "-44",
         "_ALTITUDE": "298",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Arnauld, Laurent C, C\u00e9dric"
@@ -9961,10 +9961,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de l'Arche",
+        "_LENGTH": "41",
+        "_DEPTH": "32",
         "_CAD_NUM": "211015",
         "_CAVENAME": "GouffreDeLArche",
-        "_LENGTH": NaN,
-        "_DEPTH": "-32",
         "_ALTITUDE": "310",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric, Arnault, Laurent C"
@@ -9989,10 +9989,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre _ la t??te d'Ours",
+        "_LENGTH": "nan",
+        "_DEPTH": "-22",
         "_CAD_NUM": "211016",
         "_CAVENAME": "GouffreALaTeteDOurs",
-        "_LENGTH": NaN,
-        "_DEPTH": "-22",
         "_ALTITUDE": "332",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T"
@@ -10017,10 +10017,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-20",
         "_CAD_NUM": "211017",
         "_CAVENAME": "Aven",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-20",
         "_ALTITUDE": "322",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Denis"
@@ -10045,10 +10045,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte de Lobos Secos",
+        "_LENGTH": "nan",
+        "_DEPTH": "-17",
         "_CAD_NUM": "211018",
         "_CAVENAME": "GrotteDeLobosSecos",
-        "_LENGTH": NaN,
-        "_DEPTH": "-17",
         "_ALTITUDE": "328",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Laurent C, Denis, Arnauld, C\u00e9dric, Olivier T"
@@ -10073,10 +10073,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte Marion",
+        "_LENGTH": "74",
+        "_DEPTH": "17",
         "_CAD_NUM": "211019",
         "_CAVENAME": "GrotteMarion",
-        "_LENGTH": 74.0,
-        "_DEPTH": "-17",
         "_ALTITUDE": "339",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Fabien Thomas"
@@ -10101,10 +10101,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "M\u00e9andre des Sables",
+        "_LENGTH": "38",
+        "_DEPTH": "15",
         "_CAD_NUM": "211020",
         "_CAVENAME": "MeandreDesSables",
-        "_LENGTH": 38.0,
-        "_DEPTH": "-15",
         "_ALTITUDE": "384",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Fabien Thomas"
@@ -10129,10 +10129,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte de la Conduite",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
         "_CAD_NUM": "211021",
         "_CAVENAME": "GrotteDeLaConduite",
-        "_LENGTH": NaN,
-        "_DEPTH": "-15",
         "_ALTITUDE": "364",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric, Buldo"
@@ -10157,10 +10157,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva del Agua",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
         "_CAD_NUM": "211022",
         "_CAVENAME": "CuevaDelAgua",
-        "_LENGTH": NaN,
-        "_DEPTH": "-15",
         "_ALTITUDE": "352",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric, Arnauld"
@@ -10185,10 +10185,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "AvenDeLaTraverse",
+        "_LENGTH": "35",
+        "_DEPTH": "12",
         "_CAD_NUM": "211023",
         "_CAVENAME": "AvenDeLaTraverse",
-        "_LENGTH": 35.0,
-        "_DEPTH": "-12",
         "_ALTITUDE": "353",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Fabien Thomas"
@@ -10213,10 +10213,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte du Nomade",
+        "_LENGTH": "nan",
+        "_DEPTH": "-9",
         "_CAD_NUM": "211024",
         "_CAVENAME": "GrotteDuNomade",
-        "_LENGTH": NaN,
-        "_DEPTH": "-9",
         "_ALTITUDE": "354",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Arnauld, Denis, Olivier T"
@@ -10241,10 +10241,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte Filostik ou Grotte au Squelette",
+        "_LENGTH": "nan",
+        "_DEPTH": "-8",
         "_CAD_NUM": "211025",
         "_CAVENAME": "GrotteFilostik",
-        "_LENGTH": NaN,
-        "_DEPTH": "-8",
         "_ALTITUDE": "291",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Laurent C, Olivier T"
@@ -10269,10 +10269,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche de la Madre 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "-8",
         "_CAD_NUM": "211026",
         "_CAVENAME": "PorcheDeLaMadre2",
-        "_LENGTH": NaN,
-        "_DEPTH": "-8",
         "_ALTITUDE": "364",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric, Jean Phi"
@@ -10297,10 +10297,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-6",
         "_CAD_NUM": "211027",
         "_CAVENAME": "Aven",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-6",
         "_ALTITUDE": "294",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Denis"
@@ -10325,10 +10325,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Abri",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
         "_CAD_NUM": "211028",
         "_CAVENAME": "Abri3",
-        "_LENGTH": NaN,
-        "_DEPTH": "0",
         "_ALTITUDE": "403",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Denis, Arnauld"
@@ -10353,10 +10353,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211029",
         "_CAVENAME": "Aven",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "432",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Denis"
@@ -10381,10 +10381,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grand Aven Triple",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211030",
         "_CAVENAME": "GrandAvenTriple",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "365",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Fabien"
@@ -10409,10 +10409,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte Ensabl??e",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211031",
         "_CAVENAME": "PerteEnsabl\u00e9e",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "374",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Fabien"
@@ -10437,10 +10437,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211032",
         "_CAVENAME": "Cueva1",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "581",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -10465,10 +10465,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211033",
         "_CAVENAME": "Porche",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "357",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Denis"
@@ -10493,10 +10493,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "AVEN ?",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211034",
         "_CAVENAME": "AVEN ?",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "309",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T"
@@ -10521,10 +10521,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211035",
         "_CAVENAME": "Aven",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "415",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Denis"
@@ -10549,10 +10549,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Lobos Matos",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211036",
         "_CAVENAME": "LobosMatos",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "303",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -10577,13 +10577,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211037",
         "_CAVENAME": "aven",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "288",
         "_EXPED": "2010",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -10605,10 +10605,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211038",
         "_CAVENAME": "Aven",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "389",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Denis"
@@ -10633,13 +10633,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211039",
         "_CAVENAME": "aven",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "298",
         "_EXPED": "2010",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -10661,10 +10661,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211040",
         "_CAVENAME": "Aven",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "287",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Denis"
@@ -10689,10 +10689,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 5",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211041",
         "_CAVENAME": "Cueva5",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "310",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -10717,10 +10717,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 6",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211042",
         "_CAVENAME": "Cueva6",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "433",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric"
@@ -10745,13 +10745,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte 1Lobos",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "211043",
         "_CAVENAME": "Perte1Lobos",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "332",
         "_EXPED": "2010",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -10773,10 +10773,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte des Lobos",
+        "_LENGTH": "556.0",
+        "_DEPTH": "-303",
         "_CAD_NUM": "211044",
         "_CAVENAME": "PerteDesLobos",
-        "_LENGTH": 556.0,
-        "_DEPTH": "-303",
         "_ALTITUDE": "330",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian, ..."
@@ -10801,10 +10801,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "El Culo de la Madre",
+        "_LENGTH": "nan",
+        "_DEPTH": "-78",
         "_CAD_NUM": "211045",
         "_CAVENAME": "ElCuloDeLaMadre",
-        "_LENGTH": NaN,
-        "_DEPTH": "-78",
         "_ALTITUDE": "355",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Sylvain, C\u00e9dric, Buldo"
@@ -10829,10 +10829,10 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "La Grotte",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-9",
         "_CAD_NUM": "211046",
         "_CAVENAME": "LaGrotte",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-9",
         "_ALTITUDE": "331",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian"
@@ -10857,11 +10857,11 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Igue De Dob",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-8",
         "_CAD_NUM": "211047",
         "_CAVENAME": "IgueDeDob",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-8",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian"
       }
@@ -10885,11 +10885,11 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte Petite Soeur",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-4",
         "_CAD_NUM": "211048",
         "_CAVENAME": "GrottePetiteSoeur",
-        "_LENGTH": 0.0,
-        "_DEPTH": "-4",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian"
       }
@@ -10941,13 +10941,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte de Tarlton",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "212001",
         "_CAVENAME": "GrotteDeTarlton",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "30",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -10969,13 +10969,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TAR01",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "212002",
         "_CAVENAME": "TAR01",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "294",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -10997,13 +10997,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TAR02",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "212003",
         "_CAVENAME": "TAR02",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "380",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11025,13 +11025,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TAR03",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "212004",
         "_CAVENAME": "TAR03",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "525",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11053,13 +11053,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TAR04",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "212005",
         "_CAVENAME": "TAR04",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "476",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11081,13 +11081,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TAR05",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "212006",
         "_CAVENAME": "TAR05",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "340",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11109,13 +11109,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte du Masque et de la Plume",
+        "_LENGTH": "1156.0",
+        "_DEPTH": "-66",
         "_CAD_NUM": "213001",
         "_CAVENAME": "LeMasqueEtLaPlume",
-        "_LENGTH": 1156.0,
-        "_DEPTH": "-66",
         "_ALTITUDE": "90",
         "_EXPED": "2008",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11137,13 +11137,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte Finistere",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "213002",
         "_CAVENAME": "GrotteFinistere",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "37",
         "_EXPED": "2006",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11165,13 +11165,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteGlaciaire",
+        "_LENGTH": "166",
+        "_DEPTH": "32",
         "_CAD_NUM": "213003",
         "_CAVENAME": "PerteGlaciaire",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "100",
         "_EXPED": "2006",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11193,13 +11193,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou 1 sur 3eme bloc calcaire",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "303001",
         "_CAVENAME": "Trou 1 sur 3eme bloc calcaire",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "186",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11221,13 +11221,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte des Portes d'Abraham",
+        "_LENGTH": "483",
+        "_DEPTH": "135",
         "_CAD_NUM": "303002",
         "_CAVENAME": "PerteDesPortesDAbraham",
-        "_LENGTH": NaN,
-        "_DEPTH": "-135",
         "_ALTITUDE": "163",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11249,13 +11249,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Nutria",
+        "_LENGTH": "nan",
+        "_DEPTH": "16 - -15",
         "_CAD_NUM": "303003",
         "_CAVENAME": "CuevaNutria",
-        "_LENGTH": NaN,
-        "_DEPTH": "16 - -15",
         "_ALTITUDE": "20",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11277,13 +11277,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Le Raccourci",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
         "_CAD_NUM": "303004",
         "_CAVENAME": "LeRaccourci",
-        "_LENGTH": NaN,
-        "_DEPTH": "-30",
         "_ALTITUDE": "274",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11305,13 +11305,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Le Raccourci V\u00e9g\u00e9tal",
+        "_LENGTH": "nan",
+        "_DEPTH": "-5",
         "_CAD_NUM": "303005",
         "_CAVENAME": "Le RaccourciVegetal",
-        "_LENGTH": NaN,
-        "_DEPTH": "-5",
         "_ALTITUDE": "55",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11333,13 +11333,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Tortilla con Citron",
+        "_LENGTH": "121",
+        "_DEPTH": "33",
         "_CAD_NUM": "303006",
         "_CAVENAME": "CuevaTortillaConCitron",
-        "_LENGTH": 160.0,
-        "_DEPTH": "-32",
         "_ALTITUDE": "253",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11361,13 +11361,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de l'Erbra",
+        "_LENGTH": "1356.0",
+        "_DEPTH": "30 - -59",
         "_CAD_NUM": "303007",
         "_CAVENAME": "GouffreDeLErbra",
-        "_LENGTH": 1356.0,
-        "_DEPTH": "30 - -59",
         "_ALTITUDE": "86",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11389,13 +11389,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Regard sur la r??surgence de l'Avenir",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "303008",
         "_CAVENAME": "RegardResurgenceAvenir",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11417,13 +11417,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva du Plateau",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
         "_CAD_NUM": "303009",
         "_CAVENAME": "CuevaDuPlateau",
-        "_LENGTH": NaN,
-        "_DEPTH": "-20",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11445,13 +11445,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Igue du Dike",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
         "_CAD_NUM": "303010",
         "_CAVENAME": "IgueDuDike",
-        "_LENGTH": NaN,
-        "_DEPTH": "-20",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11473,13 +11473,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pas de nom",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
         "_CAD_NUM": "303011",
         "_CAVENAME": "Pas de nom",
-        "_LENGTH": NaN,
-        "_DEPTH": "0",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11501,13 +11501,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "P20",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
         "_CAD_NUM": "303012",
         "_CAVENAME": "P20",
-        "_LENGTH": NaN,
-        "_DEPTH": "-20",
         "_ALTITUDE": "301",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11529,13 +11529,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pas de nom",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "303013",
         "_CAVENAME": "Pas de nom",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11557,13 +11557,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Sans D\u00e9conner",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
         "_CAD_NUM": "303014",
         "_CAVENAME": "GouffreSansDeconner",
-        "_LENGTH": NaN,
-        "_DEPTH": "-20",
         "_ALTITUDE": "21",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11585,13 +11585,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Resurgence Oubliee",
+        "_LENGTH": "nan",
+        "_DEPTH": "-1",
         "_CAD_NUM": "303015",
         "_CAVENAME": "ResurgenceOubliee",
-        "_LENGTH": NaN,
-        "_DEPTH": "-1",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11613,13 +11613,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte de la Sucri\u00e8re",
+        "_LENGTH": "nan",
+        "_DEPTH": "-80",
         "_CAD_NUM": "304001",
         "_CAVENAME": "PerteDeLaSucriere",
-        "_LENGTH": NaN,
-        "_DEPTH": "-80",
         "_ALTITUDE": "399",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11641,13 +11641,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "oeil du Diable (ex perte majeure)",
+        "_LENGTH": "nan",
+        "_DEPTH": "-81",
         "_CAD_NUM": "304002",
         "_CAVENAME": "OjoDelDiablo",
-        "_LENGTH": NaN,
-        "_DEPTH": "-81",
         "_ALTITUDE": "315",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11669,13 +11669,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte de la Sucri\u00e8re inf\u00e9rieure",
+        "_LENGTH": "nan",
+        "_DEPTH": "-84",
         "_CAD_NUM": "304003",
         "_CAVENAME": "PerteDeLaSucriereInferieure",
-        "_LENGTH": NaN,
-        "_DEPTH": "-84",
         "_ALTITUDE": "330",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11697,13 +11697,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte Col 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "304004",
         "_CAVENAME": "PerteCol1",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "482",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11725,13 +11725,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TC1",
+        "_LENGTH": "nan",
+        "_DEPTH": "-40",
         "_CAD_NUM": "304005",
         "_CAVENAME": "TC1",
-        "_LENGTH": NaN,
-        "_DEPTH": "-40",
         "_ALTITUDE": "484",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11753,13 +11753,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TC2",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
         "_CAD_NUM": "304006",
         "_CAVENAME": "TC2",
-        "_LENGTH": NaN,
-        "_DEPTH": "-30",
         "_ALTITUDE": "488",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11781,13 +11781,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TC3",
+        "_LENGTH": "nan",
+        "_DEPTH": "-65",
         "_CAD_NUM": "304007",
         "_CAVENAME": "TC3",
-        "_LENGTH": NaN,
-        "_DEPTH": "-65",
         "_ALTITUDE": "544",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11809,13 +11809,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TC4",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
         "_CAD_NUM": "304008",
         "_CAVENAME": "TC4",
-        "_LENGTH": NaN,
-        "_DEPTH": "0",
         "_ALTITUDE": "533",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11837,13 +11837,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TC5",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "304009",
         "_CAVENAME": "TC5",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "533",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11865,13 +11865,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TC6",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "304010",
         "_CAVENAME": "TC6",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "522",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11893,13 +11893,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Pacifico",
+        "_LENGTH": "nan",
+        "_DEPTH": "-196",
         "_CAD_NUM": "304011",
         "_CAVENAME": "GouffrePacifico",
-        "_LENGTH": NaN,
-        "_DEPTH": "-196",
         "_ALTITUDE": "386",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11921,13 +11921,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pas de nom",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "304012",
         "_CAVENAME": "Pas de nom",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "372",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11949,13 +11949,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pas de nom",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "304013",
         "_CAVENAME": "Pas de nom",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "344",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -11977,13 +11977,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pas de nom",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "304014",
         "_CAVENAME": "Pas de nom",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12005,13 +12005,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte du col 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
         "_CAD_NUM": "304015",
         "_CAVENAME": "PerteDuCol1",
-        "_LENGTH": NaN,
-        "_DEPTH": "-30",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12033,13 +12033,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte du col 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
         "_CAD_NUM": "304016",
         "_CAVENAME": "PerteduCol2",
-        "_LENGTH": NaN,
-        "_DEPTH": "0",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12061,13 +12061,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Igue du Midi",
+        "_LENGTH": "nan",
+        "_DEPTH": "-58",
         "_CAD_NUM": "304017",
         "_CAVENAME": "IgueDuMidi",
-        "_LENGTH": NaN,
-        "_DEPTH": "-58",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12089,13 +12089,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Igue Enviluc",
+        "_LENGTH": "nan",
+        "_DEPTH": "-13",
         "_CAD_NUM": "304018",
         "_CAVENAME": "IgueEnviluc",
-        "_LENGTH": NaN,
-        "_DEPTH": "-13",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12117,13 +12117,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva de la Manana",
+        "_LENGTH": "nan",
+        "_DEPTH": "-11",
         "_CAD_NUM": "304019",
         "_CAVENAME": "CuevaManana",
-        "_LENGTH": NaN,
-        "_DEPTH": "-11",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12145,13 +12145,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou du Cairn",
+        "_LENGTH": "nan",
+        "_DEPTH": "-40",
         "_CAD_NUM": "304020",
         "_CAVENAME": "TrouDuCairn",
-        "_LENGTH": NaN,
-        "_DEPTH": "-40",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12173,13 +12173,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre des Trois Arches",
+        "_LENGTH": "nan",
+        "_DEPTH": "-42",
         "_CAD_NUM": "304021",
         "_CAVENAME": "GouffreDesTroisArches",
-        "_LENGTH": NaN,
-        "_DEPTH": "-42",
         "_ALTITUDE": "483",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12201,13 +12201,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre 2 spits pour Rien",
+        "_LENGTH": "nan",
+        "_DEPTH": "-33",
         "_CAD_NUM": "304022",
         "_CAVENAME": "GouffreDeuxSpitsPourRien",
-        "_LENGTH": NaN,
-        "_DEPTH": "-33",
         "_ALTITUDE": "358",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12229,13 +12229,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre No Futur",
+        "_LENGTH": "nan",
+        "_DEPTH": "-40",
         "_CAD_NUM": "304023",
         "_CAVENAME": "GouffreNoFutur",
-        "_LENGTH": NaN,
-        "_DEPTH": "-40",
         "_ALTITUDE": "438",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12257,13 +12257,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Retour vers le Futur",
+        "_LENGTH": "133.0",
+        "_DEPTH": "-61",
         "_CAD_NUM": "304024",
         "_CAVENAME": "GouffreRetourVersLeFutur",
-        "_LENGTH": 133.0,
-        "_DEPTH": "-61",
         "_ALTITUDE": "412",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12285,13 +12285,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 13",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
         "_CAD_NUM": "304025",
         "_CAVENAME": "Arc13",
-        "_LENGTH": NaN,
-        "_DEPTH": "-15",
         "_ALTITUDE": "325",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12313,13 +12313,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 12",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
         "_CAD_NUM": "304026",
         "_CAVENAME": "Arc12",
-        "_LENGTH": NaN,
-        "_DEPTH": "-30",
         "_ALTITUDE": "387",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12369,13 +12369,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
         "_CAD_NUM": "304028",
         "_CAVENAME": "Arc3",
-        "_LENGTH": NaN,
-        "_DEPTH": "-30",
         "_ALTITUDE": "368",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12397,13 +12397,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 4",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
         "_CAD_NUM": "304029",
         "_CAVENAME": "Arc4",
-        "_LENGTH": NaN,
-        "_DEPTH": "-20",
         "_ALTITUDE": "380",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12425,13 +12425,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte du Futur",
+        "_LENGTH": "701",
+        "_DEPTH": "366",
         "_CAD_NUM": "304030",
         "_CAVENAME": "SumideroFuturo",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "545",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12453,13 +12453,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Futur 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
         "_CAD_NUM": "304031",
         "_CAVENAME": "SumideroFuturo",
-        "_LENGTH": NaN,
-        "_DEPTH": "-30",
         "_ALTITUDE": "562",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12481,13 +12481,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre N1 Sommet 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "-40",
         "_CAD_NUM": "304032",
         "_CAVENAME": "Gouffre N\u00b01 Sommet 3",
-        "_LENGTH": NaN,
-        "_DEPTH": "-40",
         "_ALTITUDE": "554",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12509,13 +12509,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pas de nom",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
         "_CAD_NUM": "304033",
         "_CAVENAME": "Pas de nom",
-        "_LENGTH": NaN,
-        "_DEPTH": "-30",
         "_ALTITUDE": "557",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12537,13 +12537,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre n3 sommet 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "-16",
         "_CAD_NUM": "304034",
         "_CAVENAME": "Gouffre n\u00b03 sommet 3",
-        "_LENGTH": NaN,
-        "_DEPTH": "-16",
         "_ALTITUDE": "54",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12565,13 +12565,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Machu-Pichu",
+        "_LENGTH": "214.0",
+        "_DEPTH": "16 - -4",
         "_CAD_NUM": "304035",
         "_CAVENAME": "GrotteMachuPichu",
-        "_LENGTH": 214.0,
-        "_DEPTH": "16 - -4",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12593,13 +12593,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Un cul de plus _ explorer",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "304036",
         "_CAVENAME": "GouffreUnCulDePlusAExplorer",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "399",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12621,13 +12621,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre pr??s du camp du Futur",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
         "_CAD_NUM": "304037",
         "_CAVENAME": "Gouffre pr\u00e8s du camp du Futur",
-        "_LENGTH": NaN,
-        "_DEPTH": "-20",
         "_ALTITUDE": "407",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12649,13 +12649,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 14",
+        "_LENGTH": "nan",
+        "_DEPTH": "-60",
         "_CAD_NUM": "304038",
         "_CAVENAME": "Arc14",
-        "_LENGTH": NaN,
-        "_DEPTH": "-60",
         "_ALTITUDE": "347",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12677,13 +12677,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva del Condor",
+        "_LENGTH": "nan",
+        "_DEPTH": "-110",
         "_CAD_NUM": "304039",
         "_CAVENAME": "SystemaLosTubos",
-        "_LENGTH": NaN,
-        "_DEPTH": "-110",
         "_ALTITUDE": "230",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12705,13 +12705,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sumidero Escondido",
+        "_LENGTH": "nan",
+        "_DEPTH": "-10",
         "_CAD_NUM": "304040",
         "_CAVENAME": "PertePerdue",
-        "_LENGTH": NaN,
-        "_DEPTH": "-10",
         "_ALTITUDE": "106",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12733,13 +12733,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Surgencia Estrella",
+        "_LENGTH": "nan",
+        "_DEPTH": "20",
         "_CAD_NUM": "304041",
         "_CAVENAME": "SurgenciaEstrella",
-        "_LENGTH": NaN,
-        "_DEPTH": "20",
         "_ALTITUDE": "65",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12761,13 +12761,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Estrella",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
         "_CAD_NUM": "304042",
         "_CAVENAME": "CuevaEstrella",
-        "_LENGTH": NaN,
-        "_DEPTH": "-30",
         "_ALTITUDE": "95",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12817,13 +12817,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Explor\u00e9vitefait",
+        "_LENGTH": "nan",
+        "_DEPTH": "-60",
         "_CAD_NUM": "304044",
         "_CAVENAME": "GouffreExploreViteFait",
-        "_LENGTH": NaN,
-        "_DEPTH": "-60",
         "_ALTITUDE": "101",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12845,13 +12845,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Puits 1 Jean-Phi",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "304045",
         "_CAVENAME": "Puits1JeanPhi",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "250",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12873,13 +12873,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pozo Dyke (System de los Tubas)",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "304046",
         "_CAVENAME": "SystemaLosTubos",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12901,13 +12901,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
         "_CAD_NUM": "304047",
         "_CAVENAME": "Arc1",
-        "_LENGTH": NaN,
-        "_DEPTH": "-30",
         "_ALTITUDE": "276",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12929,13 +12929,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 11",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
         "_CAD_NUM": "304048",
         "_CAVENAME": "Arc11",
-        "_LENGTH": NaN,
-        "_DEPTH": "-30",
         "_ALTITUDE": "260",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12957,13 +12957,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 111",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
         "_CAD_NUM": "304049",
         "_CAVENAME": "Arc111",
-        "_LENGTH": NaN,
-        "_DEPTH": "-15",
         "_ALTITUDE": "258",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -12985,13 +12985,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 113",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
         "_CAD_NUM": "304050",
         "_CAVENAME": "Arc113",
-        "_LENGTH": NaN,
-        "_DEPTH": "-15",
         "_ALTITUDE": "299",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13013,13 +13013,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 114",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
         "_CAD_NUM": "304051",
         "_CAVENAME": "Arc114",
-        "_LENGTH": NaN,
-        "_DEPTH": "-20",
         "_ALTITUDE": "259",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13041,13 +13041,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 112 ; Les myst\u00e8res de l'ouest",
+        "_LENGTH": "216.0",
+        "_DEPTH": "-71",
         "_CAD_NUM": "304052",
         "_CAVENAME": "Arc112",
-        "_LENGTH": 216.0,
-        "_DEPTH": "-71",
         "_ALTITUDE": "291",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13069,13 +13069,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du Robinet",
+        "_LENGTH": "230.0",
+        "_DEPTH": "-91",
         "_CAD_NUM": "304053",
         "_CAVENAME": "GouffreDuRobinet",
-        "_LENGTH": 230.0,
-        "_DEPTH": "-91",
         "_ALTITUDE": "456",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13097,13 +13097,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 20 ou gouffre du Soleil",
+        "_LENGTH": "140.0",
+        "_DEPTH": "-100",
         "_CAD_NUM": "304054",
         "_CAVENAME": "CuevaDelSol",
-        "_LENGTH": 140.0,
-        "_DEPTH": "-100",
         "_ALTITUDE": "212",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13125,13 +13125,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 19",
+        "_LENGTH": "nan",
+        "_DEPTH": "-50",
         "_CAD_NUM": "304055",
         "_CAVENAME": "Arc19",
-        "_LENGTH": NaN,
-        "_DEPTH": "-50",
         "_ALTITUDE": "229",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13153,13 +13153,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 18",
+        "_LENGTH": "nan",
+        "_DEPTH": "-37",
         "_CAD_NUM": "304056",
         "_CAVENAME": "Arc18",
-        "_LENGTH": NaN,
-        "_DEPTH": "-37",
         "_ALTITUDE": "224",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13181,13 +13181,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 17",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
         "_CAD_NUM": "304057",
         "_CAVENAME": "Arc17",
-        "_LENGTH": NaN,
-        "_DEPTH": "-20",
         "_ALTITUDE": "300",
         "_EXPED": "2014",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13209,13 +13209,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MoulinReveBleu",
+        "_LENGTH": "nan",
+        "_DEPTH": "32",
         "_CAD_NUM": "401001",
         "_CAVENAME": "MoulinReveBleu",
-        "_LENGTH": NaN,
-        "_DEPTH": "32",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13237,13 +13237,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteSaloude",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "401002",
         "_CAVENAME": "PerteSaloude",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13265,13 +13265,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MoulinDeGlace",
+        "_LENGTH": "nan",
+        "_DEPTH": "8",
         "_CAD_NUM": "401003",
         "_CAVENAME": "MoulinDeGlace",
-        "_LENGTH": NaN,
-        "_DEPTH": "8",
         "_ALTITUDE": "122",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13293,13 +13293,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Lac2",
+        "_LENGTH": "nan",
+        "_DEPTH": "12",
         "_CAD_NUM": "401004",
         "_CAVENAME": "Lac2",
-        "_LENGTH": NaN,
-        "_DEPTH": "12",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13321,13 +13321,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Lac Tic et Tac",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "401005",
         "_CAVENAME": "LacTicEtTac",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13349,13 +13349,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Esperanza",
+        "_LENGTH": "nan",
+        "_DEPTH": "25",
         "_CAD_NUM": "401006",
         "_CAVENAME": "CuevaEsperanza",
-        "_LENGTH": NaN,
-        "_DEPTH": "25",
         "_ALTITUDE": "250",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13377,13 +13377,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Travers\u00e9e de la Cascade",
+        "_LENGTH": "nan",
+        "_DEPTH": "3",
         "_CAD_NUM": "401007",
         "_CAVENAME": "TraverseeDeLaCascade",
-        "_LENGTH": NaN,
-        "_DEPTH": "3",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13405,13 +13405,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "L'abri sous Glace",
+        "_LENGTH": "nan",
+        "_DEPTH": "2",
         "_CAD_NUM": "401008",
         "_CAVENAME": "AbriSousGlace",
-        "_LENGTH": NaN,
-        "_DEPTH": "2",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13433,13 +13433,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Salto del Agua",
+        "_LENGTH": "106.0",
+        "_DEPTH": "2019",
         "_CAD_NUM": "401009",
         "_CAVENAME": " SaltoDelAgua",
-        "_LENGTH": 106.0,
-        "_DEPTH": "2019",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": NaN,
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13461,13 +13461,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Moulin Abou",
+        "_LENGTH": "nan",
+        "_DEPTH": "16",
         "_CAD_NUM": "401010",
         "_CAVENAME": " MoulinAbou",
-        "_LENGTH": NaN,
-        "_DEPTH": "16",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13489,13 +13489,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Moulin Tapis Volant",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
         "_CAD_NUM": "401011",
         "_CAVENAME": "MoulinTapisVolant",
-        "_LENGTH": NaN,
-        "_DEPTH": "15",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13517,13 +13517,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Travers\u00e9e",
+        "_LENGTH": "nan",
+        "_DEPTH": "10",
         "_CAD_NUM": "401012",
         "_CAVENAME": "Traversee",
-        "_LENGTH": NaN,
-        "_DEPTH": "10",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13545,13 +13545,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Moulin du Champignon",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "401013",
         "_CAVENAME": "MoulinDuChampignon",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13573,13 +13573,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Traversee du meandre 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "4",
         "_CAD_NUM": "401014",
         "_CAVENAME": "TraverseeDuMeandre1",
-        "_LENGTH": NaN,
-        "_DEPTH": "4",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13601,13 +13601,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Traversee du meandre 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "2",
         "_CAD_NUM": "401015",
         "_CAVENAME": "TraverseeDuMeandre2",
-        "_LENGTH": NaN,
-        "_DEPTH": "2",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13629,13 +13629,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Moulin de glace",
+        "_LENGTH": "nan",
+        "_DEPTH": "7",
         "_CAD_NUM": "401016",
         "_CAVENAME": "MoulinDeGlace",
-        "_LENGTH": NaN,
-        "_DEPTH": "7",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13657,13 +13657,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Moulin de la Conception",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "401017",
         "_CAVENAME": "MoulinDeLaConception",
-        "_LENGTH": NaN,
-        "_DEPTH": "?",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13685,13 +13685,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Tempanos - Entr\u00e9e 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "58",
         "_CAD_NUM": "401018",
         "_CAVENAME": "CuevaTempanosEntree1",
-        "_LENGTH": NaN,
-        "_DEPTH": "58",
         "_ALTITUDE": "48",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13713,13 +13713,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Tempanos - Entr\u00e9e 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "401019",
         "_CAVENAME": "CuevaTempanosEntree2",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "36",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13741,13 +13741,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Tempanos - Entr\u00e9e 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "401020",
         "_CAVENAME": "CuevaTempanosEntr\u00e9e3",
-        "_LENGTH": NaN,
-        "_DEPTH": NaN,
         "_ALTITUDE": "58",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     },
     {
@@ -13769,13 +13769,13 @@ var PointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Fuite Prometteuse",
+        "_LENGTH": "nan",
+        "_DEPTH": "22",
         "_CAD_NUM": "401021",
         "_CAVENAME": "FuitePrometteuse",
-        "_LENGTH": NaN,
-        "_DEPTH": "22",
-        "_ALTITUDE": NaN,
+        "_ALTITUDE": "nan",
         "_EXPED": "2019",
-        "_EXPLORATEURS": NaN
+        "_EXPLORATEURS": "nan"
       }
     }
   ]
