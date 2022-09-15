@@ -1,5 +1,6 @@
 survey 303 -title "303 Avenir"
   input PerteDesPortesDAbraham/PerteDesPortesDAbraham.th
+  input CuevaNutria/CuevaNutria.th
   input CuevaTortillaConCitron/CuevaTortillaConCitron.th
 
   centreline
@@ -12,6 +13,7 @@ survey 303 -title "303 Avenir"
 
   fix ENT_303003	495399	4309090	20.0
  	station	 ENT_303003	"Cueva Nutria"
+  equate ENT_303003 0@CuevaNutria
 
   fix ENT_303004	494845	4308933	274.0
  	station	 ENT_303004	"Le Raccourci"

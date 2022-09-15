@@ -19,7 +19,7 @@ Param Deca Degd Prof 0.0000 Dir,Dir,Dir Arr 0,0,255 ;TOPOGRAPHIE LE 01 FEVRIER 2
 *          S1.11                     3.00  260.00   -3.20   3.00   3.00   1.00   0.00 N I
 *          S1.12                     6.00  280.00    0.00   3.00   3.00   1.00   0.00 N I
 
-Param Deca Degd Clino Degd 0.0000 Dir,Dir,Dir Arr 255,104,32 ;Topographie le 01 février 2014, Franck Bréhier, Carlos (Moogli) Placido, plus un petit bout avant avec Michel Philips;
+Param Deca Degd Clino Degd 0.0000 Dir,Dir,Dir Arr 255,104,32 ;Topographie le 01 fï¿½vrier 2014, Franck Brï¿½hier, Carlos (Moogli) Placido, plus un petit bout avant avec Michel Philips;
 
 S1.12      1                         5.00    5.00   10.00   0.50   0.50   3.00   0.70 N I
 *          2                         8.00  345.00   10.00   0.00   2.00   3.00   1.20 N I
@@ -48,9 +48,9 @@ S1.12      1                         5.00    5.00   10.00   0.50   0.50   3.00  
 *          G4                       10.09  237.50    1.40   1.20   3.10   2.20   0.50 N I
 *          G5                        9.03  242.20   58.20      *      *      *      * N I
 
-Param Deca Degd Prof 0.0000 Dir,Dir,Dir Arr 255,173,91 ;Topo faite le 04 février, Franck;
+Param Deca Degd Prof 0.0000 Dir,Dir,Dir Arr 255,173,91 ;Topo faite le 04 fï¿½vrier, Franck;
 
-S1.12      S2.0                     18.00  150.00   -1.10   0.00   0.50   1.50   1.00 N I ;vrai départ du siphon;
+S1.12      S2.0                     18.00  150.00   -1.10   0.00   0.50   1.50   1.00 N I ;vrai dï¿½part du siphon;
 
 Param Deca Degd Prof 0.0000 Dir,Dir,Dir Arr 0,0,255
 
@@ -60,9 +60,9 @@ S2.0       S2.1                      3.00  130.00   -2.00   0.00   0.60   2.00  
 *          S2.4                      6.00  140.00   -6.60   0.80   0.60   1.00   0.00 N I
 *          S2.5                      3.00  315.00   -4.60   0.60   0.60   1.00   0.00 N I
 *          S2.6                      8.00  245.00   -1.50   0.60   0.00   0.60   0.00 N I
-*          S2.7                      2.00  300.00    0.00   0.00   0.60   0.60   0.60 N I ;sortie étroite, derrière 10 m de conduit étroit avec tout le jus, S3 plongé sur 2 mètres, infranchissable.;
+*          S2.7                      2.00  300.00    0.00   0.00   0.60   0.60   0.60 N I ;sortie ï¿½troite, derriï¿½re 10 m de conduit ï¿½troit avec tout le jus, S3 plongï¿½ sur 2 mï¿½tres, infranchissable.;
 
-Param Deca Degd Clino Degd 0.0000 Dir,Dir,Dir Arr 255,104,32 ;visée estimée;
+Param Deca Degd Clino Degd 0.0000 Dir,Dir,Dir Arr 255,104,32 ;visï¿½e estimï¿½e;
 
 S2.7       S2.8                     10.00  260.00    0.00   0.40   0.40   0.70   0.00 N I
 
