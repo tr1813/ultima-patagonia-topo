@@ -11728,8 +11728,8 @@ var pointsFixes =
         "_LENGTH": "443",
         "_DEPTH": "32",
         "_CAD_NUM": "304004",
-        "_CAVENAME": "PerteCol1",
-        "_ALTITUDE": "482",
+        "_CAVENAME": "ResurgenceDeLAvenir",
+        "_ALTITUDE": "3",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan"
       }
@@ -13237,13 +13237,13 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte Col 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "304058",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known"
+        "_CAVENAME": "PerteCol1",
+        "_ALTITUDE": "482",
+        "_EXPED": "2014",
+        "_EXPLORATEURS": "nan"
       }
     },
     {
