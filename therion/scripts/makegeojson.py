@@ -113,11 +113,15 @@ for sr in reader.shapeRecords():
                 atr['_LENGTH'] = str(vals[3])
                 atr['_DEPTH'] = str(vals[4])
 
+            ROOT  = 'https://tr1813.github.io/ultima-patagonia-topo/therion/data/'
+            CAVE_URL = ROOT+vals[0].strip('ENT_')[:3]+'/'+vals[1]+'/'+vals[1]+'.html'
+            print(CAVE_URL)
             atr['_CAD_NUM'] = vals[0].strip('ENT_')
             atr['_CAVENAME'] = vals[1]
             atr['_ALTITUDE'] = str(vals[2])
             atr['_EXPED'] = vals[5]
             atr['_EXPLORATEURS'] = str(vals[6])
+            atr['_URL'] = "{}".format(CAVE_URL)
         except IndexError:
             atr['_CAD_NUM'] = atr['_NAME'].strip('ENT_')
             atr['_CAVENAME'] = 'not known'
@@ -126,6 +130,7 @@ for sr in reader.shapeRecords():
             atr['_ALTITUDE'] = "not known"
             atr['_EXPED'] = "not known"
             atr['_EXPLORATEURS'] = "not known"
+            atr['_URL'] = "not known"
             pass
 
         #print(atr)
@@ -142,7 +147,6 @@ geojson = open("../data/gis/points_fixes.js", "w")
 geojson.write("var pointsFixes = \n")
 geojson.write(dumps({"type": "FeatureCollection", "features": POINTS_FIXES}, indent=2) + "\n")
 geojson.close()
-
 
 reader = shapefile.Reader("../data/gis/shots3d.shp")
 fields = reader.fields[1:]
