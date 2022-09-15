@@ -1,5 +1,9 @@
 survey 304 -title "304 Pelantaro"
+
+  input PerteDeLaSucriereInferieure/PerteDeLaSucriereInferieure.th
+  input ResurgenceDeLAvenir/ResurgenceDeLAvenir.th
   input SumideroFuturo/SumideroFuturo.th
+  input CuevaDelSol/CuevaDelSol.th
 
   centreline
   fix ENT_304001	493130	4308331	399.0
@@ -10,9 +14,12 @@ survey 304 -title "304 Pelantaro"
 
   fix ENT_304003	493001	4308652	330.0
  	station	 ENT_304003	"Perte de la Sucrière inférieure"
+  equate ENT_304003 0@PerteDeLaSucriereInferieure
 
-  fix ENT_304004	493722	4308518	482.0
- 	station	 ENT_304004	"Perte Col 1"
+
+  fix ENT_304004 494716 4309605 3
+  station ENT_304004 "Résurgence Avenir"
+  equate ENT_304004 0@ResurgenceDeLAvenir
 
   fix ENT_304005	493342	4308357	484.0
  	station	 ENT_304005	"TC1"
@@ -163,7 +170,8 @@ survey 304 -title "304 Pelantaro"
  	station	 ENT_304053	"Gouffre du Robinet"
 
   fix ENT_304054	492409	4307605	212.0
- 	station	 ENT_304054	"Arc 20 ou gouffre du Soleil"
+ 	station	 ENT_304054	"Cueva del Sol (Arc20)"
+  equate ENT_304054 0@CuevaDelSol
 
   fix ENT_304055	492487	4307678	229.0
  	station	 ENT_304055	"Arc 19"
@@ -173,5 +181,9 @@ survey 304 -title "304 Pelantaro"
 
   fix ENT_304057	492637	4307761	300.0
  	station	 ENT_304057	"Arc 17"
+
+  fix ENT_304058	493722	4308518	482.0
+  station	 ENT_304058	"Perte Col 1"
+
   endcentreline
 endsurvey

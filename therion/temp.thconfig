@@ -3,3 +3,5 @@ source ../data/index.th
 
 export map -fmt esri -o ../data/gis
 export model -fmt esri -o ../data/gis
+
+export database -o ../data/gis/database.csv

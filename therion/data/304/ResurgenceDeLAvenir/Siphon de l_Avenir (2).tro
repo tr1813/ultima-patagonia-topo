@@ -21,7 +21,7 @@ Param Deca Degd Prof 0.0000 Dir,Dir,Dir Arr 0,0,255 ;TOPOGRAPHIE LE 01 FEVRIER 2
 *          S1.11                     3.00  260.00   -3.20   3.00   3.00   1.00   0.00 N I
 *          S1.12                     6.00  280.00    0.00   3.00   3.00   1.00   0.00 N I
 
-Param Deca Degd Clino Degd 0.0000 Dir,Dir,Dir Arr 255,104,32 ;Topographie le 01 février 2014, Franck Bréhier, Carlos (Moogli) Placido, plus un petit bout avant avec Michel Philips;
+Param Deca Degd Clino Degd 0.0000 Dir,Dir,Dir Arr 255,104,32 ;Topographie le 01 fï¿½vrier 2014, Franck Brï¿½hier, Carlos (Moogli) Placido, plus un petit bout avant avec Michel Philips;
 
 S1.12      1                         5.00    5.00   10.00   0.50   0.50   3.00   0.70 N I
 *          2                         8.00  345.00   10.00   0.00   2.00   3.00   1.20 N I
@@ -67,5 +67,5 @@ ExportDxf=0,100,391,0,1,1,6,7,4,4,3,3,2,7,9
 Colonnes=8.00,8.00,8.00,8.00,8.00,8.00,8.00,8.00,8.00,8.00,8.00,2.00,2.00,4.00,0.38,8.00,8.00,8.00,8.00,8.00,0.38,0.00,0.00
 Plan=0,1,-1,-1,-4,-23,282,230,1364,691
 Options=35865,1.00,10,0,4,0,1,0,1
-Coupe développée=0,1,-1,-1,-4,-23,132,132,1214,593
+Coupe dï¿½veloppï¿½e=0,1,-1,-1,-4,-23,132,132,1214,593
 Options=35937,1.00,0,4,0,1,0,0

@@ -1,0 +1,4 @@
+source ResurgenceDeLAvenir.th
+
+export model -o ResurgenceDeLAvenir.3d
+export model -o ResurgenceDeLAvenir.lox

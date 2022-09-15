@@ -16,10 +16,8 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-
-
+    
     steps:
-
 
     - uses: actions/checkout@v2
       with:
@@ -35,4 +33,4 @@ jobs:
           title: Build ${{ github.run_number }}
           automatic_release_tag: "latest"
           prerelease: false
-          files: ./*/*.html ./*/*/*/*.js
+          files: ./*/*.html ./*/*/*/*.js ./therion/template.th
