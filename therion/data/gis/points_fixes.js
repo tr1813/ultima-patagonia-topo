@@ -1793,11 +1793,11 @@ var pointsFixes =
         "_LENGTH": "355",
         "_DEPTH": "150",
         "_CAD_NUM": "108004",
-        "_CAVENAME": "GouffreLagrimas",
-        "_ALTITUDE": "350",
-        "_EXPED": "2019",
+        "_CAVENAME": "LagrimasDeLaMadre",
+        "_ALTITUDE": "294",
+        "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/GouffreLagrimas/GouffreLagrimas.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/LagrimasDeLaMadre/LagrimasDeLaMadre.html"
       }
     },
     {
@@ -2037,8 +2037,8 @@ var pointsFixes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.21829356659818,
-          -50.12455267046837
+          -75.18544392179567,
+          -50.116776110070184
         ]
       },
       "properties": {
@@ -2050,44 +2050,15 @@ var pointsFixes =
         "_FIXED": 1,
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
-        "_COMMENT": "Gouffre Lagrimas",
-        "_CAD_NUM": "108013",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.18544392179567,
-          -50.116776110070184
-        ]
-      },
-      "properties": {
-        "_ID": 1404,
-        "_UID": 1404,
-        "_NAME": "ENT_108014",
-        "_SURVEY": "108.UltimaPatagonia",
-        "_SURFACE": 1,
-        "_FIXED": 1,
-        "_ENTRANCE": 0,
-        "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de l'Arche",
         "_LENGTH": "nan",
-        "_DEPTH": "15",
-        "_CAD_NUM": "108014",
-        "_CAVENAME": "GouffreDeLArche",
-        "_ALTITUDE": "15",
+        "_DEPTH": "150",
+        "_CAD_NUM": "108013",
+        "_CAVENAME": "GouffreLagrimas",
+        "_ALTITUDE": "350",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/GouffreDeLArche/GouffreDeLArche.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/GouffreLagrimas/GouffreLagrimas.html"
       }
     },
     {
@@ -2100,8 +2071,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1960,
-        "_UID": 1960,
+        "_ID": 1959,
+        "_UID": 1959,
         "_NAME": "ENT_109001",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2129,8 +2100,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1961,
-        "_UID": 1961,
+        "_ID": 1960,
+        "_UID": 1960,
         "_NAME": "ENT_109002",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2158,8 +2129,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1962,
-        "_UID": 1962,
+        "_ID": 1961,
+        "_UID": 1961,
         "_NAME": "ENT_109003",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2187,8 +2158,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1963,
-        "_UID": 1963,
+        "_ID": 1962,
+        "_UID": 1962,
         "_NAME": "ENT_109004",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2216,8 +2187,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1964,
-        "_UID": 1964,
+        "_ID": 1963,
+        "_UID": 1963,
         "_NAME": "ENT_109005",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2245,8 +2216,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1965,
-        "_UID": 1965,
+        "_ID": 1964,
+        "_UID": 1964,
         "_NAME": "ENT_109006",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2274,8 +2245,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1966,
-        "_UID": 1966,
+        "_ID": 1965,
+        "_UID": 1965,
         "_NAME": "ENT_109007",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2303,8 +2274,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1967,
-        "_UID": 1967,
+        "_ID": 1966,
+        "_UID": 1966,
         "_NAME": "ENT_109008",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2332,8 +2303,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1968,
-        "_UID": 1968,
+        "_ID": 1967,
+        "_UID": 1967,
         "_NAME": "ENT_109009",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2361,8 +2332,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1969,
-        "_UID": 1969,
+        "_ID": 1968,
+        "_UID": 1968,
         "_NAME": "ENT_109010",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2390,8 +2361,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1970,
-        "_UID": 1970,
+        "_ID": 1969,
+        "_UID": 1969,
         "_NAME": "ENT_109011",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2419,8 +2390,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1971,
-        "_UID": 1971,
+        "_ID": 1970,
+        "_UID": 1970,
         "_NAME": "ENT_109012",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2448,8 +2419,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1972,
-        "_UID": 1972,
+        "_ID": 1971,
+        "_UID": 1971,
         "_NAME": "ENT_109013",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2477,8 +2448,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1973,
-        "_UID": 1973,
+        "_ID": 1972,
+        "_UID": 1972,
         "_NAME": "ENT_109014",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2506,8 +2477,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1974,
-        "_UID": 1974,
+        "_ID": 1973,
+        "_UID": 1973,
         "_NAME": "ENT_109015",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2535,8 +2506,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1975,
-        "_UID": 1975,
+        "_ID": 1974,
+        "_UID": 1974,
         "_NAME": "ENT_109016",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2564,8 +2535,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1976,
-        "_UID": 1976,
+        "_ID": 1975,
+        "_UID": 1975,
         "_NAME": "ENT_109017",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2593,8 +2564,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1977,
-        "_UID": 1977,
+        "_ID": 1976,
+        "_UID": 1976,
         "_NAME": "ENT_109018",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2622,8 +2593,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1978,
-        "_UID": 1978,
+        "_ID": 1977,
+        "_UID": 1977,
         "_NAME": "ENT_109019",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2651,8 +2622,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2070,
-        "_UID": 2070,
+        "_ID": 2069,
+        "_UID": 2069,
         "_NAME": "ENT_201001",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2680,8 +2651,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2071,
-        "_UID": 2071,
+        "_ID": 2070,
+        "_UID": 2070,
         "_NAME": "ENT_201002",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2709,8 +2680,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2072,
-        "_UID": 2072,
+        "_ID": 2071,
+        "_UID": 2071,
         "_NAME": "ENT_201003",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2738,8 +2709,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2073,
-        "_UID": 2073,
+        "_ID": 2072,
+        "_UID": 2072,
         "_NAME": "ENT_201004",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2767,8 +2738,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2074,
-        "_UID": 2074,
+        "_ID": 2073,
+        "_UID": 2073,
         "_NAME": "ENT_201005",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2796,8 +2767,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2075,
-        "_UID": 2075,
+        "_ID": 2074,
+        "_UID": 2074,
         "_NAME": "ENT_201006",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2825,8 +2796,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2076,
-        "_UID": 2076,
+        "_ID": 2075,
+        "_UID": 2075,
         "_NAME": "ENT_201007",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2854,8 +2825,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2077,
-        "_UID": 2077,
+        "_ID": 2076,
+        "_UID": 2076,
         "_NAME": "ENT_201008",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2883,8 +2854,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2078,
-        "_UID": 2078,
+        "_ID": 2077,
+        "_UID": 2077,
         "_NAME": "ENT_201009",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2912,8 +2883,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2079,
-        "_UID": 2079,
+        "_ID": 2078,
+        "_UID": 2078,
         "_NAME": "ENT_201010",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2941,8 +2912,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2080,
-        "_UID": 2080,
+        "_ID": 2079,
+        "_UID": 2079,
         "_NAME": "ENT_201011",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2970,8 +2941,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2081,
-        "_UID": 2081,
+        "_ID": 2080,
+        "_UID": 2080,
         "_NAME": "ENT_201012",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2999,8 +2970,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2082,
-        "_UID": 2082,
+        "_ID": 2081,
+        "_UID": 2081,
         "_NAME": "ENT_201013",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3028,8 +2999,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2083,
-        "_UID": 2083,
+        "_ID": 2082,
+        "_UID": 2082,
         "_NAME": "ENT_201014",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3057,8 +3028,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2084,
-        "_UID": 2084,
+        "_ID": 2083,
+        "_UID": 2083,
         "_NAME": "ENT_201015",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3086,8 +3057,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2085,
-        "_UID": 2085,
+        "_ID": 2084,
+        "_UID": 2084,
         "_NAME": "ENT_201016",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3115,8 +3086,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2086,
-        "_UID": 2086,
+        "_ID": 2085,
+        "_UID": 2085,
         "_NAME": "ENT_201017",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3144,8 +3115,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2087,
-        "_UID": 2087,
+        "_ID": 2086,
+        "_UID": 2086,
         "_NAME": "ENT_201018",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3173,8 +3144,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2088,
-        "_UID": 2088,
+        "_ID": 2087,
+        "_UID": 2087,
         "_NAME": "ENT_201019",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3202,8 +3173,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2089,
-        "_UID": 2089,
+        "_ID": 2088,
+        "_UID": 2088,
         "_NAME": "ENT_201020",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3231,8 +3202,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2090,
-        "_UID": 2090,
+        "_ID": 2089,
+        "_UID": 2089,
         "_NAME": "ENT_201021",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3260,8 +3231,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2091,
-        "_UID": 2091,
+        "_ID": 2090,
+        "_UID": 2090,
         "_NAME": "ENT_201022",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3289,8 +3260,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2092,
-        "_UID": 2092,
+        "_ID": 2091,
+        "_UID": 2091,
         "_NAME": "ENT_201023",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3318,8 +3289,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2093,
-        "_UID": 2093,
+        "_ID": 2092,
+        "_UID": 2092,
         "_NAME": "ENT_201024",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3347,8 +3318,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2094,
-        "_UID": 2094,
+        "_ID": 2093,
+        "_UID": 2093,
         "_NAME": "ENT_201025",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3376,8 +3347,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2095,
-        "_UID": 2095,
+        "_ID": 2094,
+        "_UID": 2094,
         "_NAME": "ENT_201026",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3405,8 +3376,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2096,
-        "_UID": 2096,
+        "_ID": 2095,
+        "_UID": 2095,
         "_NAME": "ENT_201027",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3434,8 +3405,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2097,
-        "_UID": 2097,
+        "_ID": 2096,
+        "_UID": 2096,
         "_NAME": "ENT_201028",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3463,8 +3434,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2098,
-        "_UID": 2098,
+        "_ID": 2097,
+        "_UID": 2097,
         "_NAME": "ENT_201029",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3492,8 +3463,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2099,
-        "_UID": 2099,
+        "_ID": 2098,
+        "_UID": 2098,
         "_NAME": "ENT_201030",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3521,8 +3492,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2100,
-        "_UID": 2100,
+        "_ID": 2099,
+        "_UID": 2099,
         "_NAME": "ENT_201031",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3550,8 +3521,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2101,
-        "_UID": 2101,
+        "_ID": 2100,
+        "_UID": 2100,
         "_NAME": "ENT_201032",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3579,8 +3550,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2102,
-        "_UID": 2102,
+        "_ID": 2101,
+        "_UID": 2101,
         "_NAME": "ENT_201033",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3608,8 +3579,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2103,
-        "_UID": 2103,
+        "_ID": 2102,
+        "_UID": 2102,
         "_NAME": "ENT_201034",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3637,8 +3608,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2104,
-        "_UID": 2104,
+        "_ID": 2103,
+        "_UID": 2103,
         "_NAME": "ENT_201035",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3666,8 +3637,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2105,
-        "_UID": 2105,
+        "_ID": 2104,
+        "_UID": 2104,
         "_NAME": "ENT_201036",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3695,8 +3666,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2106,
-        "_UID": 2106,
+        "_ID": 2105,
+        "_UID": 2105,
         "_NAME": "ENT_201037",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3724,8 +3695,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2107,
-        "_UID": 2107,
+        "_ID": 2106,
+        "_UID": 2106,
         "_NAME": "ENT_201038",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3753,8 +3724,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2108,
-        "_UID": 2108,
+        "_ID": 2107,
+        "_UID": 2107,
         "_NAME": "ENT_201039",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3782,8 +3753,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2109,
-        "_UID": 2109,
+        "_ID": 2108,
+        "_UID": 2108,
         "_NAME": "ENT_201040",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3811,8 +3782,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2110,
-        "_UID": 2110,
+        "_ID": 2109,
+        "_UID": 2109,
         "_NAME": "ENT_201041",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3840,8 +3811,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2111,
-        "_UID": 2111,
+        "_ID": 2110,
+        "_UID": 2110,
         "_NAME": "ENT_201042",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3869,8 +3840,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2112,
-        "_UID": 2112,
+        "_ID": 2111,
+        "_UID": 2111,
         "_NAME": "ENT_201043",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3898,8 +3869,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2113,
-        "_UID": 2113,
+        "_ID": 2112,
+        "_UID": 2112,
         "_NAME": "ENT_201044",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3927,8 +3898,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2114,
-        "_UID": 2114,
+        "_ID": 2113,
+        "_UID": 2113,
         "_NAME": "ENT_201045",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3956,8 +3927,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2115,
-        "_UID": 2115,
+        "_ID": 2114,
+        "_UID": 2114,
         "_NAME": "ENT_201046",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3985,8 +3956,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2116,
-        "_UID": 2116,
+        "_ID": 2115,
+        "_UID": 2115,
         "_NAME": "ENT_201047",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4014,8 +3985,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2117,
-        "_UID": 2117,
+        "_ID": 2116,
+        "_UID": 2116,
         "_NAME": "ENT_201048",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4043,8 +4014,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2118,
-        "_UID": 2118,
+        "_ID": 2117,
+        "_UID": 2117,
         "_NAME": "ENT_201049",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4072,8 +4043,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2119,
-        "_UID": 2119,
+        "_ID": 2118,
+        "_UID": 2118,
         "_NAME": "ENT_201050",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4101,8 +4072,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2120,
-        "_UID": 2120,
+        "_ID": 2119,
+        "_UID": 2119,
         "_NAME": "ENT_201051",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4130,8 +4101,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2121,
-        "_UID": 2121,
+        "_ID": 2120,
+        "_UID": 2120,
         "_NAME": "ENT_201052",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4159,8 +4130,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2122,
-        "_UID": 2122,
+        "_ID": 2121,
+        "_UID": 2121,
         "_NAME": "ENT_201053",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4188,8 +4159,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2123,
-        "_UID": 2123,
+        "_ID": 2122,
+        "_UID": 2122,
         "_NAME": "ENT_201054",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4217,8 +4188,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2124,
-        "_UID": 2124,
+        "_ID": 2123,
+        "_UID": 2123,
         "_NAME": "ENT_201055",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4246,8 +4217,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2125,
-        "_UID": 2125,
+        "_ID": 2124,
+        "_UID": 2124,
         "_NAME": "ENT_201056",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4275,8 +4246,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2126,
-        "_UID": 2126,
+        "_ID": 2125,
+        "_UID": 2125,
         "_NAME": "ENT_201057",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4304,8 +4275,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2127,
-        "_UID": 2127,
+        "_ID": 2126,
+        "_UID": 2126,
         "_NAME": "ENT_201058",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4333,8 +4304,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2128,
-        "_UID": 2128,
+        "_ID": 2127,
+        "_UID": 2127,
         "_NAME": "ENT_201059",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4362,8 +4333,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2129,
-        "_UID": 2129,
+        "_ID": 2128,
+        "_UID": 2128,
         "_NAME": "ENT_201060",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4391,8 +4362,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2130,
-        "_UID": 2130,
+        "_ID": 2129,
+        "_UID": 2129,
         "_NAME": "ENT_201061",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4420,8 +4391,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2131,
-        "_UID": 2131,
+        "_ID": 2130,
+        "_UID": 2130,
         "_NAME": "ENT_201062",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4449,8 +4420,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2132,
-        "_UID": 2132,
+        "_ID": 2131,
+        "_UID": 2131,
         "_NAME": "ENT_201063",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4478,8 +4449,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2133,
-        "_UID": 2133,
+        "_ID": 2132,
+        "_UID": 2132,
         "_NAME": "ENT_201064",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4507,8 +4478,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2134,
-        "_UID": 2134,
+        "_ID": 2133,
+        "_UID": 2133,
         "_NAME": "ENT_201065",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4536,8 +4507,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2135,
-        "_UID": 2135,
+        "_ID": 2134,
+        "_UID": 2134,
         "_NAME": "ENT_201066",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4565,8 +4536,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2136,
-        "_UID": 2136,
+        "_ID": 2135,
+        "_UID": 2135,
         "_NAME": "ENT_201067",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4594,8 +4565,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2137,
-        "_UID": 2137,
+        "_ID": 2136,
+        "_UID": 2136,
         "_NAME": "ENT_201068",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4623,8 +4594,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2138,
-        "_UID": 2138,
+        "_ID": 2137,
+        "_UID": 2137,
         "_NAME": "ENT_201069",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4652,8 +4623,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2139,
-        "_UID": 2139,
+        "_ID": 2138,
+        "_UID": 2138,
         "_NAME": "ENT_201070",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4681,8 +4652,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2140,
-        "_UID": 2140,
+        "_ID": 2139,
+        "_UID": 2139,
         "_NAME": "ENT_201071",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4710,8 +4681,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2141,
-        "_UID": 2141,
+        "_ID": 2140,
+        "_UID": 2140,
         "_NAME": "ENT_201072",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4739,8 +4710,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2142,
-        "_UID": 2142,
+        "_ID": 2141,
+        "_UID": 2141,
         "_NAME": "ENT_201073",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4768,8 +4739,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2143,
-        "_UID": 2143,
+        "_ID": 2142,
+        "_UID": 2142,
         "_NAME": "ENT_201074",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4797,8 +4768,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2144,
-        "_UID": 2144,
+        "_ID": 2143,
+        "_UID": 2143,
         "_NAME": "ENT_201075",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4826,8 +4797,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2145,
-        "_UID": 2145,
+        "_ID": 2144,
+        "_UID": 2144,
         "_NAME": "ENT_201076",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4855,8 +4826,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2146,
-        "_UID": 2146,
+        "_ID": 2145,
+        "_UID": 2145,
         "_NAME": "ENT_201077",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4884,8 +4855,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2147,
-        "_UID": 2147,
+        "_ID": 2146,
+        "_UID": 2146,
         "_NAME": "ENT_201078",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4913,8 +4884,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2148,
-        "_UID": 2148,
+        "_ID": 2147,
+        "_UID": 2147,
         "_NAME": "ENT_201079",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4942,8 +4913,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2149,
-        "_UID": 2149,
+        "_ID": 2148,
+        "_UID": 2148,
         "_NAME": "ENT_201080",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4971,8 +4942,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2152,
-        "_UID": 2152,
+        "_ID": 2151,
+        "_UID": 2151,
         "_NAME": "ENT_202001",
         "_SURVEY": "202.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5000,8 +4971,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2153,
-        "_UID": 2153,
+        "_ID": 2152,
+        "_UID": 2152,
         "_NAME": "ENT_203001",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5029,8 +5000,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2154,
-        "_UID": 2154,
+        "_ID": 2153,
+        "_UID": 2153,
         "_NAME": "ENT_203002",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5058,8 +5029,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2155,
-        "_UID": 2155,
+        "_ID": 2154,
+        "_UID": 2154,
         "_NAME": "ENT_203003",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5087,8 +5058,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2156,
-        "_UID": 2156,
+        "_ID": 2155,
+        "_UID": 2155,
         "_NAME": "ENT_203004",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5116,8 +5087,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2157,
-        "_UID": 2157,
+        "_ID": 2156,
+        "_UID": 2156,
         "_NAME": "ENT_203005",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5145,8 +5116,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2158,
-        "_UID": 2158,
+        "_ID": 2157,
+        "_UID": 2157,
         "_NAME": "ENT_203006",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5174,8 +5145,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2159,
-        "_UID": 2159,
+        "_ID": 2158,
+        "_UID": 2158,
         "_NAME": "ENT_203007",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5203,8 +5174,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2160,
-        "_UID": 2160,
+        "_ID": 2159,
+        "_UID": 2159,
         "_NAME": "ENT_203008",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5232,8 +5203,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2161,
-        "_UID": 2161,
+        "_ID": 2160,
+        "_UID": 2160,
         "_NAME": "ENT_203009",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5261,8 +5232,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2162,
-        "_UID": 2162,
+        "_ID": 2161,
+        "_UID": 2161,
         "_NAME": "ENT_203010",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5290,8 +5261,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2163,
-        "_UID": 2163,
+        "_ID": 2162,
+        "_UID": 2162,
         "_NAME": "ENT_203011",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5319,8 +5290,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2164,
-        "_UID": 2164,
+        "_ID": 2163,
+        "_UID": 2163,
         "_NAME": "ENT_203012",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5348,8 +5319,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2269,
-        "_UID": 2269,
+        "_ID": 2268,
+        "_UID": 2268,
         "_NAME": "ENT_204001",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5377,8 +5348,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2270,
-        "_UID": 2270,
+        "_ID": 2269,
+        "_UID": 2269,
         "_NAME": "ENT_204002",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5406,8 +5377,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2271,
-        "_UID": 2271,
+        "_ID": 2270,
+        "_UID": 2270,
         "_NAME": "ENT_204003",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5435,8 +5406,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2272,
-        "_UID": 2272,
+        "_ID": 2271,
+        "_UID": 2271,
         "_NAME": "ENT_204004",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5464,8 +5435,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2273,
-        "_UID": 2273,
+        "_ID": 2272,
+        "_UID": 2272,
         "_NAME": "ENT_204005",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5493,8 +5464,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2274,
-        "_UID": 2274,
+        "_ID": 2273,
+        "_UID": 2273,
         "_NAME": "ENT_204006",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5522,8 +5493,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2275,
-        "_UID": 2275,
+        "_ID": 2274,
+        "_UID": 2274,
         "_NAME": "ENT_204007",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5551,8 +5522,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2276,
-        "_UID": 2276,
+        "_ID": 2275,
+        "_UID": 2275,
         "_NAME": "ENT_204008",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5580,8 +5551,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2277,
-        "_UID": 2277,
+        "_ID": 2276,
+        "_UID": 2276,
         "_NAME": "ENT_204009",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5609,8 +5580,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2278,
-        "_UID": 2278,
+        "_ID": 2277,
+        "_UID": 2277,
         "_NAME": "ENT_204010",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5638,8 +5609,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2443,
-        "_UID": 2443,
+        "_ID": 2442,
+        "_UID": 2442,
         "_NAME": "ENT_205001",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5667,8 +5638,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2444,
-        "_UID": 2444,
+        "_ID": 2443,
+        "_UID": 2443,
         "_NAME": "ENT_205002",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5696,8 +5667,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2445,
-        "_UID": 2445,
+        "_ID": 2444,
+        "_UID": 2444,
         "_NAME": "ENT_205003",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5725,8 +5696,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2446,
-        "_UID": 2446,
+        "_ID": 2445,
+        "_UID": 2445,
         "_NAME": "ENT_205004",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5754,8 +5725,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2447,
-        "_UID": 2447,
+        "_ID": 2446,
+        "_UID": 2446,
         "_NAME": "ENT_205005",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5783,8 +5754,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2448,
-        "_UID": 2448,
+        "_ID": 2447,
+        "_UID": 2447,
         "_NAME": "ENT_205006",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5812,8 +5783,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2449,
-        "_UID": 2449,
+        "_ID": 2448,
+        "_UID": 2448,
         "_NAME": "ENT_205007",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5841,8 +5812,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2450,
-        "_UID": 2450,
+        "_ID": 2449,
+        "_UID": 2449,
         "_NAME": "ENT_205008",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5870,8 +5841,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2451,
-        "_UID": 2451,
+        "_ID": 2450,
+        "_UID": 2450,
         "_NAME": "ENT_205009",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5899,8 +5870,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2452,
-        "_UID": 2452,
+        "_ID": 2451,
+        "_UID": 2451,
         "_NAME": "ENT_205010",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5928,8 +5899,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2453,
-        "_UID": 2453,
+        "_ID": 2452,
+        "_UID": 2452,
         "_NAME": "ENT_205011",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5957,8 +5928,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2454,
-        "_UID": 2454,
+        "_ID": 2453,
+        "_UID": 2453,
         "_NAME": "ENT_205012",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5986,8 +5957,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2455,
-        "_UID": 2455,
+        "_ID": 2454,
+        "_UID": 2454,
         "_NAME": "ENT_205013",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6015,8 +5986,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2456,
-        "_UID": 2456,
+        "_ID": 2455,
+        "_UID": 2455,
         "_NAME": "ENT_205014",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6044,8 +6015,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2457,
-        "_UID": 2457,
+        "_ID": 2456,
+        "_UID": 2456,
         "_NAME": "ENT_205015",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6073,8 +6044,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2458,
-        "_UID": 2458,
+        "_ID": 2457,
+        "_UID": 2457,
         "_NAME": "ENT_205016",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6102,8 +6073,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2459,
-        "_UID": 2459,
+        "_ID": 2458,
+        "_UID": 2458,
         "_NAME": "ENT_205017",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6131,8 +6102,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2460,
-        "_UID": 2460,
+        "_ID": 2459,
+        "_UID": 2459,
         "_NAME": "ENT_205018",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6160,8 +6131,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2461,
-        "_UID": 2461,
+        "_ID": 2460,
+        "_UID": 2460,
         "_NAME": "ENT_205019",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6189,8 +6160,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2462,
-        "_UID": 2462,
+        "_ID": 2461,
+        "_UID": 2461,
         "_NAME": "ENT_205020",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6218,8 +6189,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2463,
-        "_UID": 2463,
+        "_ID": 2462,
+        "_UID": 2462,
         "_NAME": "ENT_205021",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6247,8 +6218,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2464,
-        "_UID": 2464,
+        "_ID": 2463,
+        "_UID": 2463,
         "_NAME": "ENT_205022",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6276,8 +6247,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2465,
-        "_UID": 2465,
+        "_ID": 2464,
+        "_UID": 2464,
         "_NAME": "ENT_205023",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6305,8 +6276,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2466,
-        "_UID": 2466,
+        "_ID": 2465,
+        "_UID": 2465,
         "_NAME": "ENT_205024",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6334,8 +6305,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2467,
-        "_UID": 2467,
+        "_ID": 2466,
+        "_UID": 2466,
         "_NAME": "ENT_205025",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6363,8 +6334,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2468,
-        "_UID": 2468,
+        "_ID": 2467,
+        "_UID": 2467,
         "_NAME": "ENT_205026",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6392,8 +6363,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2469,
-        "_UID": 2469,
+        "_ID": 2468,
+        "_UID": 2468,
         "_NAME": "ENT_205027",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6421,8 +6392,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2470,
-        "_UID": 2470,
+        "_ID": 2469,
+        "_UID": 2469,
         "_NAME": "ENT_205028",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6450,8 +6421,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2471,
-        "_UID": 2471,
+        "_ID": 2470,
+        "_UID": 2470,
         "_NAME": "ENT_205029",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6479,8 +6450,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2472,
-        "_UID": 2472,
+        "_ID": 2471,
+        "_UID": 2471,
         "_NAME": "ENT_205030",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6508,8 +6479,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2473,
-        "_UID": 2473,
+        "_ID": 2472,
+        "_UID": 2472,
         "_NAME": "ENT_205031",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6537,8 +6508,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2474,
-        "_UID": 2474,
+        "_ID": 2473,
+        "_UID": 2473,
         "_NAME": "ENT_205032",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6566,8 +6537,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2475,
-        "_UID": 2475,
+        "_ID": 2474,
+        "_UID": 2474,
         "_NAME": "ENT_205033",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6595,8 +6566,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2476,
-        "_UID": 2476,
+        "_ID": 2475,
+        "_UID": 2475,
         "_NAME": "ENT_205034",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6624,8 +6595,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2477,
-        "_UID": 2477,
+        "_ID": 2476,
+        "_UID": 2476,
         "_NAME": "ENT_205035",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6653,8 +6624,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2478,
-        "_UID": 2478,
+        "_ID": 2477,
+        "_UID": 2477,
         "_NAME": "ENT_205036",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6682,8 +6653,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2479,
-        "_UID": 2479,
+        "_ID": 2478,
+        "_UID": 2478,
         "_NAME": "ENT_205037",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6711,8 +6682,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2480,
-        "_UID": 2480,
+        "_ID": 2479,
+        "_UID": 2479,
         "_NAME": "ENT_205038",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6740,8 +6711,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2876,
-        "_UID": 2876,
+        "_ID": 2875,
+        "_UID": 2875,
         "_NAME": "ENT_206001",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6769,8 +6740,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2877,
-        "_UID": 2877,
+        "_ID": 2876,
+        "_UID": 2876,
         "_NAME": "ENT_206002",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6798,8 +6769,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2878,
-        "_UID": 2878,
+        "_ID": 2877,
+        "_UID": 2877,
         "_NAME": "ENT_206003",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6827,8 +6798,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2879,
-        "_UID": 2879,
+        "_ID": 2878,
+        "_UID": 2878,
         "_NAME": "ENT_206004",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6856,8 +6827,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2880,
-        "_UID": 2880,
+        "_ID": 2879,
+        "_UID": 2879,
         "_NAME": "ENT_206005",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6885,8 +6856,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2881,
-        "_UID": 2881,
+        "_ID": 2880,
+        "_UID": 2880,
         "_NAME": "ENT_206006",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6914,8 +6885,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2882,
-        "_UID": 2882,
+        "_ID": 2881,
+        "_UID": 2881,
         "_NAME": "ENT_206007",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6943,8 +6914,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2883,
-        "_UID": 2883,
+        "_ID": 2882,
+        "_UID": 2882,
         "_NAME": "ENT_206008",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6972,8 +6943,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2884,
-        "_UID": 2884,
+        "_ID": 2883,
+        "_UID": 2883,
         "_NAME": "ENT_206009",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7001,8 +6972,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2885,
-        "_UID": 2885,
+        "_ID": 2884,
+        "_UID": 2884,
         "_NAME": "ENT_206010",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7030,8 +7001,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2886,
-        "_UID": 2886,
+        "_ID": 2885,
+        "_UID": 2885,
         "_NAME": "ENT_206011",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7059,8 +7030,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2887,
-        "_UID": 2887,
+        "_ID": 2886,
+        "_UID": 2886,
         "_NAME": "ENT_206012",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7088,8 +7059,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2888,
-        "_UID": 2888,
+        "_ID": 2887,
+        "_UID": 2887,
         "_NAME": "ENT_206013",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7117,8 +7088,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2889,
-        "_UID": 2889,
+        "_ID": 2888,
+        "_UID": 2888,
         "_NAME": "ENT_206014",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7146,8 +7117,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2890,
-        "_UID": 2890,
+        "_ID": 2889,
+        "_UID": 2889,
         "_NAME": "ENT_206015",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7175,8 +7146,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2891,
-        "_UID": 2891,
+        "_ID": 2890,
+        "_UID": 2890,
         "_NAME": "ENT_206016",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7204,8 +7175,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2892,
-        "_UID": 2892,
+        "_ID": 2891,
+        "_UID": 2891,
         "_NAME": "ENT_206017",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7233,8 +7204,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2893,
-        "_UID": 2893,
+        "_ID": 2892,
+        "_UID": 2892,
         "_NAME": "ENT_206018",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7262,8 +7233,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2894,
-        "_UID": 2894,
+        "_ID": 2893,
+        "_UID": 2893,
         "_NAME": "ENT_206019",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7291,8 +7262,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2895,
-        "_UID": 2895,
+        "_ID": 2894,
+        "_UID": 2894,
         "_NAME": "ENT_206020",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7320,8 +7291,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2896,
-        "_UID": 2896,
+        "_ID": 2895,
+        "_UID": 2895,
         "_NAME": "ENT_206021",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7349,8 +7320,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2897,
-        "_UID": 2897,
+        "_ID": 2896,
+        "_UID": 2896,
         "_NAME": "ENT_206022",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7378,8 +7349,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2898,
-        "_UID": 2898,
+        "_ID": 2897,
+        "_UID": 2897,
         "_NAME": "ENT_206023",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7407,8 +7378,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2899,
-        "_UID": 2899,
+        "_ID": 2898,
+        "_UID": 2898,
         "_NAME": "ENT_206024",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7436,8 +7407,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2900,
-        "_UID": 2900,
+        "_ID": 2899,
+        "_UID": 2899,
         "_NAME": "ENT_206025",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7465,8 +7436,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2901,
-        "_UID": 2901,
+        "_ID": 2900,
+        "_UID": 2900,
         "_NAME": "ENT_206026",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7494,8 +7465,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2902,
-        "_UID": 2902,
+        "_ID": 2901,
+        "_UID": 2901,
         "_NAME": "ENT_206027",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7523,8 +7494,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2903,
-        "_UID": 2903,
+        "_ID": 2902,
+        "_UID": 2902,
         "_NAME": "ENT_206028",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7552,8 +7523,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2904,
-        "_UID": 2904,
+        "_ID": 2903,
+        "_UID": 2903,
         "_NAME": "ENT_206029",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7581,8 +7552,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2905,
-        "_UID": 2905,
+        "_ID": 2904,
+        "_UID": 2904,
         "_NAME": "ENT_206030",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7610,8 +7581,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2906,
-        "_UID": 2906,
+        "_ID": 2905,
+        "_UID": 2905,
         "_NAME": "ENT_206031",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7639,8 +7610,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2907,
-        "_UID": 2907,
+        "_ID": 2906,
+        "_UID": 2906,
         "_NAME": "ENT_206032",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7668,8 +7639,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2908,
-        "_UID": 2908,
+        "_ID": 2907,
+        "_UID": 2907,
         "_NAME": "ENT_206033",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7697,8 +7668,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2909,
-        "_UID": 2909,
+        "_ID": 2908,
+        "_UID": 2908,
         "_NAME": "ENT_206034",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7726,8 +7697,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2910,
-        "_UID": 2910,
+        "_ID": 2909,
+        "_UID": 2909,
         "_NAME": "ENT_206035",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7755,8 +7726,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2911,
-        "_UID": 2911,
+        "_ID": 2910,
+        "_UID": 2910,
         "_NAME": "ENT_206036",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7784,8 +7755,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2912,
-        "_UID": 2912,
+        "_ID": 2911,
+        "_UID": 2911,
         "_NAME": "ENT_206037",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7813,8 +7784,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2913,
-        "_UID": 2913,
+        "_ID": 2912,
+        "_UID": 2912,
         "_NAME": "ENT_206038",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7842,8 +7813,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2914,
-        "_UID": 2914,
+        "_ID": 2913,
+        "_UID": 2913,
         "_NAME": "ENT_206039",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7871,8 +7842,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2915,
-        "_UID": 2915,
+        "_ID": 2914,
+        "_UID": 2914,
         "_NAME": "ENT_206040",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7900,8 +7871,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2916,
-        "_UID": 2916,
+        "_ID": 2915,
+        "_UID": 2915,
         "_NAME": "ENT_206041",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7929,8 +7900,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2917,
-        "_UID": 2917,
+        "_ID": 2916,
+        "_UID": 2916,
         "_NAME": "ENT_206042",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7958,8 +7929,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2918,
-        "_UID": 2918,
+        "_ID": 2917,
+        "_UID": 2917,
         "_NAME": "ENT_206043",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7987,8 +7958,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2919,
-        "_UID": 2919,
+        "_ID": 2918,
+        "_UID": 2918,
         "_NAME": "ENT_206044",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8016,8 +7987,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2975,
-        "_UID": 2975,
+        "_ID": 2974,
+        "_UID": 2974,
         "_NAME": "ENT_207001",
         "_SURVEY": "207.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8040,13 +8011,13 @@ var pointsFixes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.28549994240838,
-          -50.302500953873825
+          -75.28550000570917,
+          -50.302500953718386
         ]
       },
       "properties": {
-        "_ID": 2976,
-        "_UID": 2976,
+        "_ID": 2975,
+        "_UID": 2975,
         "_NAME": "ENT_207002",
         "_SURVEY": "207.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8074,8 +8045,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2991,
-        "_UID": 2991,
+        "_ID": 2990,
+        "_UID": 2990,
         "_NAME": "ENT_208001",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8103,8 +8074,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2992,
-        "_UID": 2992,
+        "_ID": 2991,
+        "_UID": 2991,
         "_NAME": "ENT_208002",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8132,8 +8103,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2993,
-        "_UID": 2993,
+        "_ID": 2992,
+        "_UID": 2992,
         "_NAME": "ENT_208003",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8161,8 +8132,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2994,
-        "_UID": 2994,
+        "_ID": 2993,
+        "_UID": 2993,
         "_NAME": "ENT_208004",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8190,8 +8161,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2995,
-        "_UID": 2995,
+        "_ID": 2994,
+        "_UID": 2994,
         "_NAME": "ENT_208005",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8219,8 +8190,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3550,
-        "_UID": 3550,
+        "_ID": 3549,
+        "_UID": 3549,
         "_NAME": "ENT_209001",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8248,8 +8219,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3551,
-        "_UID": 3551,
+        "_ID": 3550,
+        "_UID": 3550,
         "_NAME": "ENT_209002",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8277,8 +8248,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3552,
-        "_UID": 3552,
+        "_ID": 3551,
+        "_UID": 3551,
         "_NAME": "ENT_209003",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8306,8 +8277,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3553,
-        "_UID": 3553,
+        "_ID": 3552,
+        "_UID": 3552,
         "_NAME": "ENT_209004",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8335,8 +8306,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3554,
-        "_UID": 3554,
+        "_ID": 3553,
+        "_UID": 3553,
         "_NAME": "ENT_209005",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8364,8 +8335,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3555,
-        "_UID": 3555,
+        "_ID": 3554,
+        "_UID": 3554,
         "_NAME": "ENT_209006",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8393,8 +8364,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3556,
-        "_UID": 3556,
+        "_ID": 3555,
+        "_UID": 3555,
         "_NAME": "ENT_209007",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8422,8 +8393,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3557,
-        "_UID": 3557,
+        "_ID": 3556,
+        "_UID": 3556,
         "_NAME": "ENT_209009",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8451,8 +8422,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3558,
-        "_UID": 3558,
+        "_ID": 3557,
+        "_UID": 3557,
         "_NAME": "ENT_209010",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8480,8 +8451,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3559,
-        "_UID": 3559,
+        "_ID": 3558,
+        "_UID": 3558,
         "_NAME": "ENT_209011",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8509,8 +8480,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3560,
-        "_UID": 3560,
+        "_ID": 3559,
+        "_UID": 3559,
         "_NAME": "ENT_209012",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8538,8 +8509,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3561,
-        "_UID": 3561,
+        "_ID": 3560,
+        "_UID": 3560,
         "_NAME": "ENT_209013",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8567,8 +8538,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3562,
-        "_UID": 3562,
+        "_ID": 3561,
+        "_UID": 3561,
         "_NAME": "ENT_209014",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8596,8 +8567,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3563,
-        "_UID": 3563,
+        "_ID": 3562,
+        "_UID": 3562,
         "_NAME": "ENT_209015",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8625,8 +8596,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3564,
-        "_UID": 3564,
+        "_ID": 3563,
+        "_UID": 3563,
         "_NAME": "ENT_209016",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8654,8 +8625,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3565,
-        "_UID": 3565,
+        "_ID": 3564,
+        "_UID": 3564,
         "_NAME": "ENT_209017",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8683,8 +8654,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3566,
-        "_UID": 3566,
+        "_ID": 3565,
+        "_UID": 3565,
         "_NAME": "ENT_209018",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8712,8 +8683,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3567,
-        "_UID": 3567,
+        "_ID": 3566,
+        "_UID": 3566,
         "_NAME": "ENT_209019",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8741,8 +8712,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3568,
-        "_UID": 3568,
+        "_ID": 3567,
+        "_UID": 3567,
         "_NAME": "ENT_209020",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8770,8 +8741,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3569,
-        "_UID": 3569,
+        "_ID": 3568,
+        "_UID": 3568,
         "_NAME": "ENT_209021",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8799,8 +8770,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3570,
-        "_UID": 3570,
+        "_ID": 3569,
+        "_UID": 3569,
         "_NAME": "ENT_209022",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8828,8 +8799,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3571,
-        "_UID": 3571,
+        "_ID": 3570,
+        "_UID": 3570,
         "_NAME": "ENT_209023",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8857,8 +8828,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3572,
-        "_UID": 3572,
+        "_ID": 3571,
+        "_UID": 3571,
         "_NAME": "ENT_209024",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8886,8 +8857,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3573,
-        "_UID": 3573,
+        "_ID": 3572,
+        "_UID": 3572,
         "_NAME": "ENT_209025",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8915,8 +8886,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3574,
-        "_UID": 3574,
+        "_ID": 3573,
+        "_UID": 3573,
         "_NAME": "ENT_209026",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8944,8 +8915,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3575,
-        "_UID": 3575,
+        "_ID": 3574,
+        "_UID": 3574,
         "_NAME": "ENT_209027",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8973,8 +8944,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3576,
-        "_UID": 3576,
+        "_ID": 3575,
+        "_UID": 3575,
         "_NAME": "ENT_209028",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9002,8 +8973,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3577,
-        "_UID": 3577,
+        "_ID": 3576,
+        "_UID": 3576,
         "_NAME": "ENT_209029",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9031,8 +9002,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3578,
-        "_UID": 3578,
+        "_ID": 3577,
+        "_UID": 3577,
         "_NAME": "ENT_209030",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9060,8 +9031,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3579,
-        "_UID": 3579,
+        "_ID": 3578,
+        "_UID": 3578,
         "_NAME": "ENT_209031",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9089,8 +9060,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3580,
-        "_UID": 3580,
+        "_ID": 3579,
+        "_UID": 3579,
         "_NAME": "ENT_209032",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9118,8 +9089,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3581,
-        "_UID": 3581,
+        "_ID": 3580,
+        "_UID": 3580,
         "_NAME": "ENT_209033",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9147,8 +9118,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3582,
-        "_UID": 3582,
+        "_ID": 3581,
+        "_UID": 3581,
         "_NAME": "ENT_209034",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9176,8 +9147,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3583,
-        "_UID": 3583,
+        "_ID": 3582,
+        "_UID": 3582,
         "_NAME": "ENT_209035",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9205,8 +9176,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3584,
-        "_UID": 3584,
+        "_ID": 3583,
+        "_UID": 3583,
         "_NAME": "ENT_209036",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9234,8 +9205,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3585,
-        "_UID": 3585,
+        "_ID": 3584,
+        "_UID": 3584,
         "_NAME": "ENT_209037",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9263,8 +9234,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3586,
-        "_UID": 3586,
+        "_ID": 3585,
+        "_UID": 3585,
         "_NAME": "ENT_209038",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9292,8 +9263,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3587,
-        "_UID": 3587,
+        "_ID": 3586,
+        "_UID": 3586,
         "_NAME": "ENT_209039",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9321,8 +9292,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3588,
-        "_UID": 3588,
+        "_ID": 3587,
+        "_UID": 3587,
         "_NAME": "ENT_209040",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9350,8 +9321,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3589,
-        "_UID": 3589,
+        "_ID": 3588,
+        "_UID": 3588,
         "_NAME": "ENT_209041",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9379,8 +9350,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3590,
-        "_UID": 3590,
+        "_ID": 3589,
+        "_UID": 3589,
         "_NAME": "ENT_209042",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9408,8 +9379,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3591,
-        "_UID": 3591,
+        "_ID": 3590,
+        "_UID": 3590,
         "_NAME": "ENT_209043",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9437,8 +9408,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3592,
-        "_UID": 3592,
+        "_ID": 3591,
+        "_UID": 3591,
         "_NAME": "ENT_209044",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9466,8 +9437,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3594,
-        "_UID": 3594,
+        "_ID": 3593,
+        "_UID": 3593,
         "_NAME": "ENT_209045",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9495,8 +9466,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3595,
-        "_UID": 3595,
+        "_ID": 3594,
+        "_UID": 3594,
         "_NAME": "ENT_209046",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9524,8 +9495,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3596,
-        "_UID": 3596,
+        "_ID": 3595,
+        "_UID": 3595,
         "_NAME": "ENT_209047",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9553,8 +9524,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3597,
-        "_UID": 3597,
+        "_ID": 3596,
+        "_UID": 3596,
         "_NAME": "ENT_209048",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9582,8 +9553,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3598,
-        "_UID": 3598,
+        "_ID": 3597,
+        "_UID": 3597,
         "_NAME": "ENT_209049",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9611,8 +9582,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3599,
-        "_UID": 3599,
+        "_ID": 3598,
+        "_UID": 3598,
         "_NAME": "ENT_209050",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9640,8 +9611,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3600,
-        "_UID": 3600,
+        "_ID": 3599,
+        "_UID": 3599,
         "_NAME": "ENT_209051",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9669,8 +9640,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3601,
-        "_UID": 3601,
+        "_ID": 3600,
+        "_UID": 3600,
         "_NAME": "ENT_209052",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9698,8 +9669,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3602,
-        "_UID": 3602,
+        "_ID": 3601,
+        "_UID": 3601,
         "_NAME": "ENT_209053",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9727,8 +9698,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3603,
-        "_UID": 3603,
+        "_ID": 3602,
+        "_UID": 3602,
         "_NAME": "ENT_209054",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9756,8 +9727,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3604,
-        "_UID": 3604,
+        "_ID": 3603,
+        "_UID": 3603,
         "_NAME": "ENT_209055",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9785,8 +9756,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3605,
-        "_UID": 3605,
+        "_ID": 3604,
+        "_UID": 3604,
         "_NAME": "ENT_209056",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9814,8 +9785,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3606,
-        "_UID": 3606,
+        "_ID": 3605,
+        "_UID": 3605,
         "_NAME": "ENT_209057",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9843,8 +9814,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3607,
-        "_UID": 3607,
+        "_ID": 3606,
+        "_UID": 3606,
         "_NAME": "ENT_209058",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9872,8 +9843,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3617,
-        "_UID": 3617,
+        "_ID": 3616,
+        "_UID": 3616,
         "_NAME": "ENT_210001",
         "_SURVEY": "210.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9901,8 +9872,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3866,
-        "_UID": 3866,
+        "_ID": 3865,
+        "_UID": 3865,
         "_NAME": "ENT_211001",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9930,8 +9901,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3867,
-        "_UID": 3867,
+        "_ID": 3866,
+        "_UID": 3866,
         "_NAME": "ENT_211002",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9959,8 +9930,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3868,
-        "_UID": 3868,
+        "_ID": 3867,
+        "_UID": 3867,
         "_NAME": "ENT_211003",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9988,8 +9959,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3869,
-        "_UID": 3869,
+        "_ID": 3868,
+        "_UID": 3868,
         "_NAME": "ENT_211004",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10017,8 +9988,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3870,
-        "_UID": 3870,
+        "_ID": 3869,
+        "_UID": 3869,
         "_NAME": "ENT_211005",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10046,8 +10017,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3871,
-        "_UID": 3871,
+        "_ID": 3870,
+        "_UID": 3870,
         "_NAME": "ENT_211006",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10075,8 +10046,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3872,
-        "_UID": 3872,
+        "_ID": 3871,
+        "_UID": 3871,
         "_NAME": "ENT_211007",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10104,8 +10075,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3873,
-        "_UID": 3873,
+        "_ID": 3872,
+        "_UID": 3872,
         "_NAME": "ENT_211008",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10133,8 +10104,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3874,
-        "_UID": 3874,
+        "_ID": 3873,
+        "_UID": 3873,
         "_NAME": "ENT_211009",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10162,8 +10133,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3875,
-        "_UID": 3875,
+        "_ID": 3874,
+        "_UID": 3874,
         "_NAME": "ENT_211010",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10191,8 +10162,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3876,
-        "_UID": 3876,
+        "_ID": 3875,
+        "_UID": 3875,
         "_NAME": "ENT_211011",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10220,8 +10191,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3877,
-        "_UID": 3877,
+        "_ID": 3876,
+        "_UID": 3876,
         "_NAME": "ENT_211012",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10249,8 +10220,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3878,
-        "_UID": 3878,
+        "_ID": 3877,
+        "_UID": 3877,
         "_NAME": "ENT_211013",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10278,8 +10249,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3879,
-        "_UID": 3879,
+        "_ID": 3878,
+        "_UID": 3878,
         "_NAME": "ENT_211014",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10307,8 +10278,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3880,
-        "_UID": 3880,
+        "_ID": 3879,
+        "_UID": 3879,
         "_NAME": "ENT_211015",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10336,8 +10307,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3881,
-        "_UID": 3881,
+        "_ID": 3880,
+        "_UID": 3880,
         "_NAME": "ENT_211016",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10365,8 +10336,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3882,
-        "_UID": 3882,
+        "_ID": 3881,
+        "_UID": 3881,
         "_NAME": "ENT_211017",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10394,8 +10365,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3883,
-        "_UID": 3883,
+        "_ID": 3882,
+        "_UID": 3882,
         "_NAME": "ENT_211018",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10423,8 +10394,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3884,
-        "_UID": 3884,
+        "_ID": 3883,
+        "_UID": 3883,
         "_NAME": "ENT_211019",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10452,8 +10423,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3885,
-        "_UID": 3885,
+        "_ID": 3884,
+        "_UID": 3884,
         "_NAME": "ENT_211020",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10481,8 +10452,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3886,
-        "_UID": 3886,
+        "_ID": 3885,
+        "_UID": 3885,
         "_NAME": "ENT_211021",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10510,8 +10481,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3887,
-        "_UID": 3887,
+        "_ID": 3886,
+        "_UID": 3886,
         "_NAME": "ENT_211022",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10539,8 +10510,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3888,
-        "_UID": 3888,
+        "_ID": 3887,
+        "_UID": 3887,
         "_NAME": "ENT_211023",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10568,8 +10539,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3889,
-        "_UID": 3889,
+        "_ID": 3888,
+        "_UID": 3888,
         "_NAME": "ENT_211024",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10597,8 +10568,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3890,
-        "_UID": 3890,
+        "_ID": 3889,
+        "_UID": 3889,
         "_NAME": "ENT_211025",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10626,8 +10597,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3891,
-        "_UID": 3891,
+        "_ID": 3890,
+        "_UID": 3890,
         "_NAME": "ENT_211026",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10655,8 +10626,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3892,
-        "_UID": 3892,
+        "_ID": 3891,
+        "_UID": 3891,
         "_NAME": "ENT_211027",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10684,8 +10655,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3893,
-        "_UID": 3893,
+        "_ID": 3892,
+        "_UID": 3892,
         "_NAME": "ENT_211028",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10713,8 +10684,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3894,
-        "_UID": 3894,
+        "_ID": 3893,
+        "_UID": 3893,
         "_NAME": "ENT_211029",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10742,8 +10713,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3895,
-        "_UID": 3895,
+        "_ID": 3894,
+        "_UID": 3894,
         "_NAME": "ENT_211030",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10771,8 +10742,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3896,
-        "_UID": 3896,
+        "_ID": 3895,
+        "_UID": 3895,
         "_NAME": "ENT_211031",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10800,8 +10771,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3897,
-        "_UID": 3897,
+        "_ID": 3896,
+        "_UID": 3896,
         "_NAME": "ENT_211032",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10829,8 +10800,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3898,
-        "_UID": 3898,
+        "_ID": 3897,
+        "_UID": 3897,
         "_NAME": "ENT_211033",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10858,8 +10829,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3899,
-        "_UID": 3899,
+        "_ID": 3898,
+        "_UID": 3898,
         "_NAME": "ENT_211034",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10887,8 +10858,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3900,
-        "_UID": 3900,
+        "_ID": 3899,
+        "_UID": 3899,
         "_NAME": "ENT_211035",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10916,8 +10887,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3901,
-        "_UID": 3901,
+        "_ID": 3900,
+        "_UID": 3900,
         "_NAME": "ENT_211036",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10945,8 +10916,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3902,
-        "_UID": 3902,
+        "_ID": 3901,
+        "_UID": 3901,
         "_NAME": "ENT_211037",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10974,8 +10945,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3903,
-        "_UID": 3903,
+        "_ID": 3902,
+        "_UID": 3902,
         "_NAME": "ENT_211038",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11003,8 +10974,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3904,
-        "_UID": 3904,
+        "_ID": 3903,
+        "_UID": 3903,
         "_NAME": "ENT_211039",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11032,8 +11003,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3905,
-        "_UID": 3905,
+        "_ID": 3904,
+        "_UID": 3904,
         "_NAME": "ENT_211040",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11061,8 +11032,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3906,
-        "_UID": 3906,
+        "_ID": 3905,
+        "_UID": 3905,
         "_NAME": "ENT_211041",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11090,8 +11061,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3907,
-        "_UID": 3907,
+        "_ID": 3906,
+        "_UID": 3906,
         "_NAME": "ENT_211042",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11119,8 +11090,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3908,
-        "_UID": 3908,
+        "_ID": 3907,
+        "_UID": 3907,
         "_NAME": "ENT_211043",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11148,8 +11119,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3909,
-        "_UID": 3909,
+        "_ID": 3908,
+        "_UID": 3908,
         "_NAME": "ENT_211044",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11177,8 +11148,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3910,
-        "_UID": 3910,
+        "_ID": 3909,
+        "_UID": 3909,
         "_NAME": "ENT_211045",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11206,8 +11177,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3911,
-        "_UID": 3911,
+        "_ID": 3910,
+        "_UID": 3910,
         "_NAME": "ENT_211046",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11235,8 +11206,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3912,
-        "_UID": 3912,
+        "_ID": 3911,
+        "_UID": 3911,
         "_NAME": "ENT_211047",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11264,8 +11235,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3913,
-        "_UID": 3913,
+        "_ID": 3912,
+        "_UID": 3912,
         "_NAME": "ENT_211048",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11293,8 +11264,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3914,
-        "_UID": 3914,
+        "_ID": 3913,
+        "_UID": 3913,
         "_NAME": "ENT_211049",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11322,8 +11293,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3915,
-        "_UID": 3915,
+        "_ID": 3914,
+        "_UID": 3914,
         "_NAME": "ENT_212001",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11351,8 +11322,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3916,
-        "_UID": 3916,
+        "_ID": 3915,
+        "_UID": 3915,
         "_NAME": "ENT_212002",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11380,8 +11351,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3917,
-        "_UID": 3917,
+        "_ID": 3916,
+        "_UID": 3916,
         "_NAME": "ENT_212003",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11409,8 +11380,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3918,
-        "_UID": 3918,
+        "_ID": 3917,
+        "_UID": 3917,
         "_NAME": "ENT_212004",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11438,8 +11409,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3919,
-        "_UID": 3919,
+        "_ID": 3918,
+        "_UID": 3918,
         "_NAME": "ENT_212005",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11467,8 +11438,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3920,
-        "_UID": 3920,
+        "_ID": 3919,
+        "_UID": 3919,
         "_NAME": "ENT_212006",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11496,8 +11467,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4274,
-        "_UID": 4274,
+        "_ID": 4273,
+        "_UID": 4273,
         "_NAME": "ENT_213001",
         "_SURVEY": "213.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11525,8 +11496,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4275,
-        "_UID": 4275,
+        "_ID": 4274,
+        "_UID": 4274,
         "_NAME": "ENT_213002",
         "_SURVEY": "213.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11554,8 +11525,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4276,
-        "_UID": 4276,
+        "_ID": 4275,
+        "_UID": 4275,
         "_NAME": "ENT_213003",
         "_SURVEY": "213.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11583,8 +11554,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4408,
-        "_UID": 4408,
+        "_ID": 4407,
+        "_UID": 4407,
         "_NAME": "ENT_303001",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11612,8 +11583,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4409,
-        "_UID": 4409,
+        "_ID": 4408,
+        "_UID": 4408,
         "_NAME": "ENT_303002",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11641,8 +11612,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4410,
-        "_UID": 4410,
+        "_ID": 4409,
+        "_UID": 4409,
         "_NAME": "ENT_303003",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11670,8 +11641,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4411,
-        "_UID": 4411,
+        "_ID": 4410,
+        "_UID": 4410,
         "_NAME": "ENT_303004",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11699,8 +11670,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4412,
-        "_UID": 4412,
+        "_ID": 4411,
+        "_UID": 4411,
         "_NAME": "ENT_303005",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11728,8 +11699,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4413,
-        "_UID": 4413,
+        "_ID": 4412,
+        "_UID": 4412,
         "_NAME": "ENT_303006",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11757,8 +11728,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4414,
-        "_UID": 4414,
+        "_ID": 4413,
+        "_UID": 4413,
         "_NAME": "ENT_303007",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11786,8 +11757,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4415,
-        "_UID": 4415,
+        "_ID": 4414,
+        "_UID": 4414,
         "_NAME": "ENT_303008",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11815,8 +11786,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4416,
-        "_UID": 4416,
+        "_ID": 4415,
+        "_UID": 4415,
         "_NAME": "ENT_303009",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11844,8 +11815,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4417,
-        "_UID": 4417,
+        "_ID": 4416,
+        "_UID": 4416,
         "_NAME": "ENT_303010",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11873,8 +11844,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4418,
-        "_UID": 4418,
+        "_ID": 4417,
+        "_UID": 4417,
         "_NAME": "ENT_303011",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11902,8 +11873,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4419,
-        "_UID": 4419,
+        "_ID": 4418,
+        "_UID": 4418,
         "_NAME": "ENT_303012",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11931,8 +11902,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4420,
-        "_UID": 4420,
+        "_ID": 4419,
+        "_UID": 4419,
         "_NAME": "ENT_303013",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11960,8 +11931,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4421,
-        "_UID": 4421,
+        "_ID": 4420,
+        "_UID": 4420,
         "_NAME": "ENT_303014",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11989,8 +11960,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4422,
-        "_UID": 4422,
+        "_ID": 4421,
+        "_UID": 4421,
         "_NAME": "ENT_303015",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12013,13 +11984,13 @@ var pointsFixes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.07547908572788,
-          -51.36486031365533
+          -75.07547904709257,
+          -51.364860270537235
         ]
       },
       "properties": {
-        "_ID": 4509,
-        "_UID": 4509,
+        "_ID": 4508,
+        "_UID": 4508,
         "_NAME": "ENTREE",
         "_SURVEY": "ResurgenceDeLAvenir.304.UltimaPatagonia",
         "_SURFACE": 0,
@@ -12047,8 +12018,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4618,
-        "_UID": 4618,
+        "_ID": 4617,
+        "_UID": 4617,
         "_NAME": "ENT_304001",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12076,8 +12047,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4619,
-        "_UID": 4619,
+        "_ID": 4618,
+        "_UID": 4618,
         "_NAME": "ENT_304002",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12105,8 +12076,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4620,
-        "_UID": 4620,
+        "_ID": 4619,
+        "_UID": 4619,
         "_NAME": "ENT_304003",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12134,8 +12105,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4621,
-        "_UID": 4621,
+        "_ID": 4620,
+        "_UID": 4620,
         "_NAME": "ENT_304004",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12163,8 +12134,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4622,
-        "_UID": 4622,
+        "_ID": 4621,
+        "_UID": 4621,
         "_NAME": "ENT_304005",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12192,8 +12163,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4623,
-        "_UID": 4623,
+        "_ID": 4622,
+        "_UID": 4622,
         "_NAME": "ENT_304006",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12221,8 +12192,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4624,
-        "_UID": 4624,
+        "_ID": 4623,
+        "_UID": 4623,
         "_NAME": "ENT_304007",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12250,8 +12221,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4625,
-        "_UID": 4625,
+        "_ID": 4624,
+        "_UID": 4624,
         "_NAME": "ENT_304008",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12279,8 +12250,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4626,
-        "_UID": 4626,
+        "_ID": 4625,
+        "_UID": 4625,
         "_NAME": "ENT_304009",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12308,8 +12279,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4627,
-        "_UID": 4627,
+        "_ID": 4626,
+        "_UID": 4626,
         "_NAME": "ENT_304010",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12337,8 +12308,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4628,
-        "_UID": 4628,
+        "_ID": 4627,
+        "_UID": 4627,
         "_NAME": "ENT_304011",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12366,8 +12337,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4629,
-        "_UID": 4629,
+        "_ID": 4628,
+        "_UID": 4628,
         "_NAME": "ENT_304012",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12395,8 +12366,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4630,
-        "_UID": 4630,
+        "_ID": 4629,
+        "_UID": 4629,
         "_NAME": "ENT_304013",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12424,8 +12395,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4631,
-        "_UID": 4631,
+        "_ID": 4630,
+        "_UID": 4630,
         "_NAME": "ENT_304014",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12453,8 +12424,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4632,
-        "_UID": 4632,
+        "_ID": 4631,
+        "_UID": 4631,
         "_NAME": "ENT_304015",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12482,8 +12453,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4633,
-        "_UID": 4633,
+        "_ID": 4632,
+        "_UID": 4632,
         "_NAME": "ENT_304016",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12511,8 +12482,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4634,
-        "_UID": 4634,
+        "_ID": 4633,
+        "_UID": 4633,
         "_NAME": "ENT_304017",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12540,8 +12511,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4635,
-        "_UID": 4635,
+        "_ID": 4634,
+        "_UID": 4634,
         "_NAME": "ENT_304018",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12569,8 +12540,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4636,
-        "_UID": 4636,
+        "_ID": 4635,
+        "_UID": 4635,
         "_NAME": "ENT_304019",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12598,8 +12569,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4637,
-        "_UID": 4637,
+        "_ID": 4636,
+        "_UID": 4636,
         "_NAME": "ENT_304020",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12627,8 +12598,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4638,
-        "_UID": 4638,
+        "_ID": 4637,
+        "_UID": 4637,
         "_NAME": "ENT_304021",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12656,8 +12627,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4639,
-        "_UID": 4639,
+        "_ID": 4638,
+        "_UID": 4638,
         "_NAME": "ENT_304022",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12685,8 +12656,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4640,
-        "_UID": 4640,
+        "_ID": 4639,
+        "_UID": 4639,
         "_NAME": "ENT_304023",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12714,8 +12685,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4641,
-        "_UID": 4641,
+        "_ID": 4640,
+        "_UID": 4640,
         "_NAME": "ENT_304024",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12743,8 +12714,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4642,
-        "_UID": 4642,
+        "_ID": 4641,
+        "_UID": 4641,
         "_NAME": "ENT_304025",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12772,8 +12743,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4643,
-        "_UID": 4643,
+        "_ID": 4642,
+        "_UID": 4642,
         "_NAME": "ENT_304026",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12801,8 +12772,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4644,
-        "_UID": 4644,
+        "_ID": 4643,
+        "_UID": 4643,
         "_NAME": "ENT_304027",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12830,8 +12801,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4645,
-        "_UID": 4645,
+        "_ID": 4644,
+        "_UID": 4644,
         "_NAME": "ENT_304028",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12859,8 +12830,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4646,
-        "_UID": 4646,
+        "_ID": 4645,
+        "_UID": 4645,
         "_NAME": "ENT_304029",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12888,8 +12859,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4647,
-        "_UID": 4647,
+        "_ID": 4646,
+        "_UID": 4646,
         "_NAME": "ENT_304030",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12917,8 +12888,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4648,
-        "_UID": 4648,
+        "_ID": 4647,
+        "_UID": 4647,
         "_NAME": "ENT_304031",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12946,8 +12917,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4649,
-        "_UID": 4649,
+        "_ID": 4648,
+        "_UID": 4648,
         "_NAME": "ENT_304032",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12975,8 +12946,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4650,
-        "_UID": 4650,
+        "_ID": 4649,
+        "_UID": 4649,
         "_NAME": "ENT_304033",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13004,8 +12975,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4651,
-        "_UID": 4651,
+        "_ID": 4650,
+        "_UID": 4650,
         "_NAME": "ENT_304034",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13033,8 +13004,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4652,
-        "_UID": 4652,
+        "_ID": 4651,
+        "_UID": 4651,
         "_NAME": "ENT_304035",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13062,8 +13033,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4653,
-        "_UID": 4653,
+        "_ID": 4652,
+        "_UID": 4652,
         "_NAME": "ENT_304036",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13091,8 +13062,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4654,
-        "_UID": 4654,
+        "_ID": 4653,
+        "_UID": 4653,
         "_NAME": "ENT_304037",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13120,8 +13091,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4655,
-        "_UID": 4655,
+        "_ID": 4654,
+        "_UID": 4654,
         "_NAME": "ENT_304038",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13149,8 +13120,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4656,
-        "_UID": 4656,
+        "_ID": 4655,
+        "_UID": 4655,
         "_NAME": "ENT_304039",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13178,8 +13149,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4657,
-        "_UID": 4657,
+        "_ID": 4656,
+        "_UID": 4656,
         "_NAME": "ENT_304040",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13207,8 +13178,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4658,
-        "_UID": 4658,
+        "_ID": 4657,
+        "_UID": 4657,
         "_NAME": "ENT_304041",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13236,8 +13207,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4659,
-        "_UID": 4659,
+        "_ID": 4658,
+        "_UID": 4658,
         "_NAME": "ENT_304042",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13265,8 +13236,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4660,
-        "_UID": 4660,
+        "_ID": 4659,
+        "_UID": 4659,
         "_NAME": "ENT_304043",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13294,8 +13265,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4661,
-        "_UID": 4661,
+        "_ID": 4660,
+        "_UID": 4660,
         "_NAME": "ENT_304044",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13323,8 +13294,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4662,
-        "_UID": 4662,
+        "_ID": 4661,
+        "_UID": 4661,
         "_NAME": "ENT_304045",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13352,8 +13323,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4663,
-        "_UID": 4663,
+        "_ID": 4662,
+        "_UID": 4662,
         "_NAME": "ENT_304046",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13381,8 +13352,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4664,
-        "_UID": 4664,
+        "_ID": 4663,
+        "_UID": 4663,
         "_NAME": "ENT_304047",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13410,8 +13381,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4665,
-        "_UID": 4665,
+        "_ID": 4664,
+        "_UID": 4664,
         "_NAME": "ENT_304048",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13439,8 +13410,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4666,
-        "_UID": 4666,
+        "_ID": 4665,
+        "_UID": 4665,
         "_NAME": "ENT_304049",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13468,8 +13439,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4667,
-        "_UID": 4667,
+        "_ID": 4666,
+        "_UID": 4666,
         "_NAME": "ENT_304050",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13497,8 +13468,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4668,
-        "_UID": 4668,
+        "_ID": 4667,
+        "_UID": 4667,
         "_NAME": "ENT_304051",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13526,8 +13497,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4669,
-        "_UID": 4669,
+        "_ID": 4668,
+        "_UID": 4668,
         "_NAME": "ENT_304052",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13555,8 +13526,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4670,
-        "_UID": 4670,
+        "_ID": 4669,
+        "_UID": 4669,
         "_NAME": "ENT_304053",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13584,8 +13555,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4671,
-        "_UID": 4671,
+        "_ID": 4670,
+        "_UID": 4670,
         "_NAME": "ENT_304054",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13613,8 +13584,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4672,
-        "_UID": 4672,
+        "_ID": 4671,
+        "_UID": 4671,
         "_NAME": "ENT_304055",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13642,8 +13613,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4673,
-        "_UID": 4673,
+        "_ID": 4672,
+        "_UID": 4672,
         "_NAME": "ENT_304056",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13671,8 +13642,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4674,
-        "_UID": 4674,
+        "_ID": 4673,
+        "_UID": 4673,
         "_NAME": "ENT_304057",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13700,8 +13671,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4675,
-        "_UID": 4675,
+        "_ID": 4674,
+        "_UID": 4674,
         "_NAME": "ENT_304058",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13729,8 +13700,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4676,
-        "_UID": 4676,
+        "_ID": 4675,
+        "_UID": 4675,
         "_NAME": "ENT_401001",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13758,8 +13729,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4677,
-        "_UID": 4677,
+        "_ID": 4676,
+        "_UID": 4676,
         "_NAME": "ENT_401002",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13787,8 +13758,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4678,
-        "_UID": 4678,
+        "_ID": 4677,
+        "_UID": 4677,
         "_NAME": "ENT_401003",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13816,8 +13787,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4679,
-        "_UID": 4679,
+        "_ID": 4678,
+        "_UID": 4678,
         "_NAME": "ENT_401004",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13845,8 +13816,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4680,
-        "_UID": 4680,
+        "_ID": 4679,
+        "_UID": 4679,
         "_NAME": "ENT_401005",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13874,8 +13845,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4681,
-        "_UID": 4681,
+        "_ID": 4680,
+        "_UID": 4680,
         "_NAME": "ENT_401006",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13903,8 +13874,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4682,
-        "_UID": 4682,
+        "_ID": 4681,
+        "_UID": 4681,
         "_NAME": "ENT_401007",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13932,8 +13903,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4683,
-        "_UID": 4683,
+        "_ID": 4682,
+        "_UID": 4682,
         "_NAME": "ENT_401008",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13961,8 +13932,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4684,
-        "_UID": 4684,
+        "_ID": 4683,
+        "_UID": 4683,
         "_NAME": "ENT_401009",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13990,8 +13961,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4685,
-        "_UID": 4685,
+        "_ID": 4684,
+        "_UID": 4684,
         "_NAME": "ENT_401010",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14019,8 +13990,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4686,
-        "_UID": 4686,
+        "_ID": 4685,
+        "_UID": 4685,
         "_NAME": "ENT_401011",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14048,8 +14019,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4687,
-        "_UID": 4687,
+        "_ID": 4686,
+        "_UID": 4686,
         "_NAME": "ENT_401012",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14077,8 +14048,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4688,
-        "_UID": 4688,
+        "_ID": 4687,
+        "_UID": 4687,
         "_NAME": "ENT_401013",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14106,8 +14077,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4689,
-        "_UID": 4689,
+        "_ID": 4688,
+        "_UID": 4688,
         "_NAME": "ENT_401014",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14135,8 +14106,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4690,
-        "_UID": 4690,
+        "_ID": 4689,
+        "_UID": 4689,
         "_NAME": "ENT_401015",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14164,8 +14135,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4691,
-        "_UID": 4691,
+        "_ID": 4690,
+        "_UID": 4690,
         "_NAME": "ENT_401016",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14193,8 +14164,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4692,
-        "_UID": 4692,
+        "_ID": 4691,
+        "_UID": 4691,
         "_NAME": "ENT_401017",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14222,8 +14193,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4693,
-        "_UID": 4693,
+        "_ID": 4692,
+        "_UID": 4692,
         "_NAME": "ENT_401018",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14251,8 +14222,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4694,
-        "_UID": 4694,
+        "_ID": 4693,
+        "_UID": 4693,
         "_NAME": "ENT_401019",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14280,8 +14251,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4695,
-        "_UID": 4695,
+        "_ID": 4694,
+        "_UID": 4694,
         "_NAME": "ENT_401020",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14309,8 +14280,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4696,
-        "_UID": 4696,
+        "_ID": 4695,
+        "_UID": 4695,
         "_NAME": "ENT_401021",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,

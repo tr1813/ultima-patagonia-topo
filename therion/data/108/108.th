@@ -48,8 +48,8 @@ centreline
   fix ENT_108013  484396  4447498 350.0
  	station	 ENT_108013	"Gouffre Lagrimas"
 
-  fix ENT_108014	486742	4448369	15.0
- 	station	 ENT_108014	"Gouffre de l'Arche"
+  fix ENT_108013	486742	4448369	15.0
+ 	station	 ENT_108013	"Gouffre de l'Arche"
 
 endcentreline
 endsurvey
