@@ -1,7 +1,0 @@
-therion 6.0.6 (2022-03-12)
-  - using Proj 7.1.1, compiled against 7.1.1
-initialization file: /usr/local/etc/therion.ini
-reading ... done
-checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
-checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
-therion: error -- can't open file for input -- data/index.thconfig
