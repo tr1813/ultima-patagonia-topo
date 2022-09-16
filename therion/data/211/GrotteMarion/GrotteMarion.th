@@ -1,9 +1,19 @@
 
-survey GrotteMarion -title GrotteMarion -entrance 0 -attr cad_num 211019 -attr exped UP2010
+survey GrotteMarion -title "Grotte Marion" -entrance 0 -attr cad_num 211019 -attr exped UP2010
+
+input GrotteMarion-p.th2
+input GrotteMarion-e.th2
 
 
 centreline
-	date 2010.02
+	date 2010.01.24
+	explo-date 2010.01.24
+
+	team "Fabien Hobléa"
+	team "Thomas Fischer"
+	explo-team "Fabien Hobléa"
+	explo-team "Thomas Fischer"
+
 
 	units length meters
 	units compass clino degrees
@@ -15,6 +25,7 @@ centreline
 			4	5	12.50	20.00	-32.00
 			5	6	5.20	0.00	-8.00
 			6	7	4.40	350.00	-5.00
+			extend left
 			6	8	6.70	120.00	0.00
 			8	9	10.50	160.00	30.00
 
