@@ -1,0 +1,50 @@
+survey 204 -title "204 Camp 2"
+  input GouffreGazelle/GouffreGazelle.th
+  input GrotteFaussePucelle/GrotteFaussePucelle.th
+  input GouffreAlouette/GouffreAlouette.th
+  input GrotteCacahuete/GrotteCacahuete.th
+  input TrouDesCanelures/TrouDesCanelures.th
+
+centreline
+    cs UTM18S
+    fix ENT_204001	474630	4432456	153.0
+    station ENT_204001 "Gouffre de la Gazelle"
+    equate ENT_204001 F0@GouffreGazelle
+
+    fix ENT_204002	474370	4432520	74.0
+    station ENT_204002 "Eveque Cauchon"
+
+    fix ENT_204003	475586	4431730	130.0
+    station ENT_204003 "Grotte de la fausse Pucelle"
+    equate ENT_204003 0@GrotteFaussePucelle
+
+    fix ENT_204004 474570 4432422 145	#474630	4432456	153.0
+    station ENT_204004 "Grotte de l'Alouette"
+    equate ENT_204004 A11@GouffreAlouette
+
+    fix ENT_204005	473390	4434247	316.0
+    station ENT_204005 "Trou des Canelures"
+
+    fix ENT_204006	473289	4434576	305.0
+    station ENT_204006 "Perte"
+
+    fix ENT_204007	474168	4435461	157.0
+    station ENT_204007 "Perte"
+
+    fix ENT_204008	472046	4433537	84.0
+    station ENT_204008 "Grotte du Rapace"
+
+    fix ENT_204009	471984	4433604	50.0
+    station ENT_204009 "Grotte de l'Oursin"
+
+    fix ENT_204010 475708  4431755 170 ## coords estimées par description 100 m est de la fausse pucelle
+    station ENT_204010 "Grotte de la Cacahuète"
+    equate ENT_204010 G5@GrotteCacahuete
+
+endcentreline
+
+  ## Connexions:
+  equate F15@GouffreGazelle F15@GouffreAlouette
+  equate F4@GouffreGazelle F4@GouffreAlouette
+
+endsurvey

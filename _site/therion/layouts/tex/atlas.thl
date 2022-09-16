@@ -1,0 +1,51 @@
+input ../metapost/lines.thl
+input ../metapost/scalebar_arrow.thl
+
+layout atlas-plan
+  copy custom_lines
+  copy custom_scalebar
+  copy custom_arrow
+  scale 1 500
+  grid-size 5 5 5 m
+  symbol-colour point station-name [20 20 80]
+  colour map-fg [90 90 90]
+  map-header 0 0 nw
+  symbol-assign point station AUT
+  symbol-assign line survey MY
+  origin-label A 1
+  overlap 0 m
+code tex-map
+\def\dopage{%
+\vbox{\centerline{\framed{\mapbox}}
+\bigskip
+\line{%
+  \vbox to \ht\navbox{
+    \medskip
+    \hbox{\size[14]\the\pagelabel
+      \ifpagenumbering\space(\the\pagenum)\fi
+      \space\size[4]\the\pagename}
+    \ifpagenumbering
+      \medskip
+      \hbox{\qquad\qquad
+        \vtop{%
+          \hbox to 0pt{\hss\showpointer\pointerN\hss}
+          \hbox to 0pt{\llap{\showpointer\pointerW\hskip0.7em}%
+            \raise1pt\hbox to 0pt{\hss$\updownarrow$\hss}%
+            \raise1pt\hbox to 0pt{\hss$\leftrightarrow$\hss}%
+            \rlap{\hskip0.7em\showpointer\pointerE}}
+            \hbox to 0pt{\hss\showpointer\pointerS\hss}
+        }\qquad\qquad
+        \vtop{\def\arr{$\uparrow$}
+          \showpointerlist\pointerU
+          \def\arr{$\downarrow$}
+          \showpointerlist\pointerD}
+          }
+    \fi
+    \vss
+    \scalebar
+  }
+    \hss
+  \box\navbox}}}
+
+endcode
+endlayout

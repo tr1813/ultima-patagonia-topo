@@ -1,0 +1,55 @@
+survey 108 -title "108 Sumidero"
+  input OjoDeLaMadre/OjoDeLaMadre.th
+  input OmbligoDeLaMadre/OmbligoDeLaMadre.th
+  input LagrimasDeLaMadre/LagrimasDeLaMadre.th
+
+centreline
+  cs UTM18S
+
+  fix ENT_108001	484150	4446766	406.0
+  station	 ENT_108001	"Ojo de la Madre"
+  equate ENT_108001 33@OjoDeLaMadre
+
+  fix ENT_108002	484295	4447150	365.0
+  station	 ENT_108002	"Ombligo de la Madre"
+  equate ENT_108002 25@OmbligoDeLaMadre
+
+  fix ENT_108003	484486	4447573	0
+  station	 ENT_108003	"Sumidero"
+
+  fix ENT_108004	484396	4447498	294.0
+  station	 ENT_108004	"Lagrimas de la Madre"
+  equate ENT_108004 0@LagrimasDeLaMadre
+
+  fix ENT_108005	484535	4448170	198.0
+  station	 ENT_108005	"Sumidero1"
+
+  fix ENT_108006	484595	4448213	180.0
+  station	 ENT_108006	"Garganta"
+
+  fix ENT_108007	484633	4448258	191.0
+ 	station	 ENT_108007	"Sumidero"
+
+  fix ENT_108008	484956	4448483	220.0
+ 	station	 ENT_108008	"Utero de la Madre"
+
+  fix ENT_108009	485157	4448585	225.0
+ 	station	 ENT_108009	"Sumidero2"
+
+  fix ENT_108010	485495	4447616	317.0
+ 	station	 ENT_108010	"Sumidero3"
+
+  fix ENT_108011	486016	4447774	290.0
+ 	station	 ENT_108011	"agujero1"
+
+  fix ENT_108012	483835	4446220	417.0
+ 	station	 ENT_108012	"agujero"
+
+  fix ENT_108013  484396  4447498 350.0
+ 	station	 ENT_108013	"Gouffre Lagrimas"
+
+  fix ENT_108014	486742	4448369	15.0
+ 	station	 ENT_108014	"Gouffre de l'Arche"
+
+endcentreline
+endsurvey

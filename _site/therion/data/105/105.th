@@ -1,0 +1,14 @@
+survey 105 -title "105 Grand Lac"
+
+  centreline
+    cs UTM18S
+    
+    fix ENT_105001	482677	4454593	20.0	## Cueva Rapido1
+    station ENT_105001 "Cueva Rapido1"
+
+    fix ENT_105002	482677	4454593	30.0	## Cueva Rapido2
+    station ENT_105002 "Cueva Rapido 2"
+
+  endcentreline
+
+endsurvey

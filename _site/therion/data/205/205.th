@@ -1,0 +1,143 @@
+survey 205 -title "205 Baleine"
+  input AbriCotier/AbriCotier.th
+  input PerteDesDents/PerteDesDents.th
+  input SumideroJuanito/SumideroJuanito.th
+  input GrotteAudeline/GrotteAudeline.th
+  input AbriDuCerfeuil/AbriDuCerfeuil.th
+  input CuevaLaBas/CuevaLaBas.th
+  input CuevaArdilla/CuevaArdilla.th
+  input PozoEnBosque/PozoEnBosque.th
+  input MD-SOU01/MD-SOU01.th
+  input MD-SOU02/MD-SOU02.th
+  input PerteInattendue/PerteInattendue.th
+  input PerteAmbree/PerteAmbree.th
+  input PerteFaille/PerteFaille.th
+  input PerteDesQuatreChampignons/PerteDesQuatreChampignons.th
+  input PerteDuJump/PerteDuJump.th
+  input FailleDuCoinceur/FailleDuCoinceur.th
+  input IgueDuPlouc/IgueDuPlouc.th
+  input CuevaDeLaFinDeMatinas/CuevaDeLaFinDeMatinas.th
+
+  centreline
+  cs UTM18S
+
+  fix ENT_205001	468749	4428616	2.0
+  station ENT_205001 "AbriCotier"
+  equate ENT_205001 0@AbriCotier
+
+  fix ENT_205002	469246	4429044	183.0
+ 	station	 ENT_205002	"Abri du Cerfeuil"
+
+  fix ENT_205003	472569	4429495	270.0
+ 	station	 ENT_205003	"Cueva La-Bas"
+
+  fix ENT_205004	472991	4429200	250.0
+  station ENT_205004 "PerteDesDents"
+  equate ENT_205004 0@PerteDesDents
+
+  fix ENT_205005	472888	4429344	233.0
+  station ENT_205005 "SumideroJuanito"
+  equate ENT_205005 0@SumideroJuanito
+
+  fix ENT_205006	472675	4429462	245.0
+ 	station	 ENT_205006	"Cueva Ardilla"
+
+  fix ENT_205007	472620	4429466	237.0
+ 	station	 ENT_205007	"Pozo en Bosque"
+
+  fix ENT_205008	472373	4429958	300.0
+ 	station	 ENT_205008	"Pozo 2 en Caliza"
+
+  fix ENT_205009	472414	4429499	281.0
+ 	station	 ENT_205009	"Pozo 1 en Caliza"
+
+  fix ENT_205010	472798	4429403	260.0
+ 	station	 ENT_205010	"MD/SOU01"
+
+  fix ENT_205011	472768	4429435	265.0
+ 	station	 ENT_205011	"MD/SOU02"
+
+  fix ENT_205012	472890	4429492	294.0
+ 	station	 ENT_205012	"Perte Inattendue"
+
+  fix ENT_205013	472672	4429457	249.0
+ 	station	 ENT_205013	"La Perte Ambrée"
+
+  fix ENT_205014	471557	4429685	399.0
+ 	station	 ENT_205014	"porche"
+
+  fix ENT_205015	472343	4429312	309.0
+ 	station	 ENT_205015	"perte/faille"
+
+  fix ENT_205016	471527	4429604	415.0
+ 	station	 ENT_205016	"sortie traversée"
+
+  fix ENT_205017	471546	4429667	407.0
+ 	station	 ENT_205017	"Trou serrure entrée"
+
+  fix ENT_205018	471601	4429940	413.0
+ 	station	 ENT_205018	"grotte jef"
+
+  fix ENT_205019	471184	4431010	275.0
+ 	station	 ENT_205019	"Aven grd diam"
+
+  fix ENT_205020	472620	4429463	249.0
+ 	station	 ENT_205020	"perte 2"
+
+  fix ENT_205021	474306	4431894	207.0
+ 	station	 ENT_205021	"Perte des 4 champis"
+
+  fix ENT_205022	474215	4431943	230.0
+ 	station	 ENT_205022	"James Bonde"
+
+  fix ENT_205023	474413	4431894	191.0
+ 	station	 ENT_205023	"Perte du Jump"
+
+  fix ENT_205024	474282	4432118	190.0
+ 	station	 ENT_205024	"Faille du Coinceur"
+
+  fix ENT_205025	474109	4432134	200.0
+ 	station	 ENT_205025	"Igue du Plouc"
+
+  fix ENT_205026	474488	4432062	170.0
+ 	station	 ENT_205026	"Cueva de la fin de Matinas"
+
+  fix ENT_205027	470380	4431713	1.0
+ 	station	 ENT_205027	"L'Abri-gîte"
+
+  fix ENT_205028	470163	4431420	2.0
+ 	station	 ENT_205028	"Grotte du Sud"
+
+  fix ENT_205029	470109	4431220	28.0
+ 	station	 ENT_205029	"Cueva de la Madre"
+
+  fix ENT_205030	471491	4431944	20.0
+ 	station	 ENT_205030	"Porche"
+
+  fix ENT_205031	471572	4429671	357.0
+  station ENT_205031 "Grotte de l'Audeline"
+  equate ENT_205031 0@GrotteAudeline
+
+  fix ENT_205032	472373	4429958	301.0
+ 	station	 ENT_205032	"Sou33"
+
+  fix ENT_205033	472620	4429466	237.0
+ 	station	 ENT_205033	"Sou30"
+
+  fix ENT_205034	472414	4429499	281.0
+ 	station	 ENT_205034	"Sou31"
+
+  fix ENT_205035	471623	4430070	388.0
+ 	station	 ENT_205035	"Porche"
+
+  fix ENT_205036	471645	4430061	360.0
+ 	station	 ENT_205036	"Aven"
+
+  fix ENT_205037	471621	4429939	423.0
+ 	station	 ENT_205037	"Grotte Sueno"
+
+  fix ENT_205038 467673	4428748 6
+  station ENT_205038 "Porche de la Baleine"
+
+  endcentreline
+endsurvey

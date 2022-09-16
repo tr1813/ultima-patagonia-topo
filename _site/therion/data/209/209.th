@@ -1,0 +1,206 @@
+survey 209 -title "209 Soplador"
+
+
+  input GrotteDuPleinCintre/GrotteDuPleinCintre.th
+  input EmergenceBarillet/EmergenceBarillet.th
+  input ResurgenceDeLaPlage/ResurgenceDeLaPlage.th
+  input GrotteEvier/GrotteEvier.th
+  input LosGringos/LosGringos.th
+  input GouffreDeLaDetente/GouffreDeLaDetente.th
+  input PozoAlRato/PozoAlRato.th
+  input PozoDeLosCinquetenos/PozoDeLosCinquetenos.th
+  input CuevaTorseOublie/CuevaTorseOublie.th
+  input PerteDesSabliers/PerteDesSabliers.th
+  input GouffreDeLaGachette/GouffreDeLaGachette.th
+  input BobLEponge/BobLEponge.th
+  input CuevaGringa/CuevaGringa.th
+  input DolineCalafate/DolineCalafate.th
+
+  centreline
+    cs UTM18S
+
+    fix ENT_209001	473616	4425884	215.0
+    station ENT_209001 "Grotte du Plein Cintre"
+    equate ENT_209001 E1@GrotteDuPleinCintre
+
+    fix ENT_209002	472922	4425932	436.0
+    station ENT_209002 "Emergence du Barillet"
+    equate ENT_209002 0@EmergenceBarillet
+
+   fix ENT_209003	473027	4425922	428.0
+   station	 ENT_209003	"Gouffre de la Gachette"
+
+   fix ENT_209004	473027	4425450	334.0
+   station	 ENT_209004	"Perte de l'Acharné"
+
+   fix ENT_209005	473067	4425846	422.0
+   station	 ENT_209005	"Perte n?? 18"
+
+    fix ENT_209006	471328	4422992	3.0
+    station ENT_209006 "ResurgenceDeLaPlage"
+    equate ENT_209006 0@ResurgenceDeLaPlage
+
+    fix ENT_209007	473527	4428264	195.0
+    station ENT_209007 "GrotteEvier"
+    equate ENT_209007 6@GrotteEvier
+
+   fix ENT_209009	472980	4428693	154.0
+   station	 ENT_209009	"Cueva Gringa (Los Gringos)"
+   equate ENT_209009 10@LosGringos
+
+   fix ENT_209010	473125	4428203	250.0
+   station	 ENT_209010	"Doline Calafate"
+
+   fix ENT_209011	473050	4425902	445.0
+   station ENT_209011 "GouffreDeLaDetente"
+   equate ENT_209011 GD-d@GouffreDeLaDetente
+
+   fix ENT_209012	473026	4425860	450.0
+   station	 ENT_209012	"Aven"
+
+   fix ENT_209013	473542	4426174	357.0
+   station	 ENT_209013	"Aven"
+
+   fix ENT_209014	470653	4425395	505.0
+   station	 ENT_209014	"Gouffre du Kit"
+
+   fix ENT_209015	471149	4425341	412.0
+   station	 ENT_209015	"Gouffre Cumple Anos"
+
+   fix ENT_209016	470988	4425143	0
+   station	 ENT_209016	"La Marmotte"
+
+   fix ENT_209017	471051	4425241	428.0
+   station	 ENT_209017	"Aven Kinka 4"
+
+   fix ENT_209018	471314	4425512	0
+   station	 ENT_209018	"Perte"
+
+   fix ENT_209019	471049	4425081	413.0
+   station	 ENT_209019	"Aven Kinka 3"
+
+   fix ENT_209020	470677	4425348	0
+   station	 ENT_209020	"Aven"
+
+   fix ENT_209021	471014	4425120	0
+   station	 ENT_209021	"Aven"
+
+   fix ENT_209022	471157	4425311	418.0
+   station	 ENT_209022	"Aven -20"
+
+   fix ENT_209023	471349	4425470	0
+   station	 ENT_209023	"Gouffre"
+
+   fix ENT_209024	471052	4425189	428.0
+   station	 ENT_209024	"Aven Kinka 2"
+
+   fix ENT_209025	471078	4425341	451.0
+   station	 ENT_209025	"Aven Kinka 1"
+
+   fix ENT_209026	471817	4424205	434.0
+   station	 ENT_209026	"Aven non descendu"
+
+   fix ENT_209027	471827	4424273	433.0
+   station	 ENT_209027	"Aven"
+
+   fix ENT_209028	471576	4424536	414.0
+   station	 ENT_209028	"Aven"
+
+   fix ENT_209029	471504	4425157	359.0
+   station	 ENT_209029	"Grand Aven-Perte"
+
+   fix ENT_209030	471073	4425289	433.0
+   station	 ENT_209030	"TROU A"
+
+   fix ENT_209031	471511	4425318	347.0
+   station	 ENT_209031	"Grande Doline-Perte"
+
+   fix ENT_209032	471002	4425391	466.0
+   station	 ENT_209032	"Aven"
+
+    fix ENT_209033   471288 4425378 370
+    station ENT_209033 "PerteCoipo"
+
+    fix ENT_209034 473653 4425395 512
+    station ENT_209034 "Trou du Kit"
+
+    fix ENT_209035 470677 4425348 00
+    station ENT_209035 "CHIL"
+
+    fix ENT_209036 471001 4424711 351
+    station ENT_209036 "CuevaSorryTopo"
+
+    fix ENT_209037 470986 4424781 393
+    station ENT_209037 "CuevaDeLaDer"
+
+    fix ENT_209038  471262 4425085 405
+    station ENT_209038 "TrouPresDuCamp"
+
+    fix ENT_209039 471238 4424660 368
+    station ENT_209039 "CuevaP03"
+
+    fix ENT_209040  470997 4424711 380
+    station ENT_209040 "PozolAlRato"
+    equate ENT_209040 PL11@PozoAlRato
+
+    fix ENT_209041  471314 4425650 386
+    station ENT_209041 "PozoDeLosCinquetenos"
+    equate ENT_209041 PLC8@PozoDeLosCinquetenos
+
+    fix  ENT_209042 470993 4424746 388
+    station ENT_209042 "SoloNoSpit"
+
+    fix ENT_209043  471486  4424551 364
+    station ENT_209043 "CuevaVersLeBoutDuMonde"
+
+    fix ENT_209044 471388 4424669 392
+    station ENT_209044 "CuevaSalle"
+
+    fix CampRobertoEst 473067 4426206  486
+
+    fix ENT_209045  472851 4426016 578
+    station ENT_209045 "PerteLesJumeaux"
+
+    fix ENT_209046 472846 4425985 583
+    station ENT_209046 "PuitsRBE01"
+
+    fix ENT_209047  472795 4425923  594
+    station ENT_209047 "PuitsRBE02"
+
+    fix ENT_209048  472783 4425894 609
+    station ENT_209048  "SorryP20"
+
+    fix ENT_209049 472772 4425818 588
+    station ENT_209049 "SorryP15"
+
+    fix ENT_209050  472828 4425970 592
+    station ENT_209050 "PuitsRBE03"
+
+    fix ENT_209051  472733 4425773 599
+    station ENT_209051 "PuitsRBE04"
+
+    fix ENT_209052  472721 4425717 573
+    station ENT_209052 "PuitsRBE05"
+
+    fix ENT_209053  473117 4426008 444
+    station ENT_209053 "CuevaTorseOublie"
+    equate ENT_209053 5@CuevaTorseOublie
+
+    fix ENT_209054 472926 4426115 548
+    station ENT_209054  "CuevaDeLosTres"
+
+    fix ENT_209055  473111 4426060  463
+    station ENT_209055 "PozoSinNombre"
+
+    fix ENT_209056 472712 4426041 673
+    station ENT_209056 "LeTube"
+
+		fix ENT_209057 473106 4426027 449
+    station ENT_209057  "PozoDelGPSVolando"
+
+    fix ENT_209058 473093 4426314 452
+    station ENT_209058 "PerteDesSabliers"
+    equate ENT_209058 1.31@PerteDesSabliers
+
+  endcentreline
+endsurvey

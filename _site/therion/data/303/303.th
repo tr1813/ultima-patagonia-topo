@@ -1,0 +1,56 @@
+survey 303 -title "303 Avenir"
+  input PerteDesPortesDAbraham/PerteDesPortesDAbraham.th
+  input CuevaNutria/CuevaNutria.th
+  input CuevaTortillaConCitron/CuevaTortillaConCitron.th
+
+  centreline
+  fix ENT_303001	495068	4309020	186.0
+ 	station	 ENT_303001	"Trou 1 sur 3eme bloc calcaire"
+
+  fix ENT_303002	494398	4309243	163.0
+ 	station	 ENT_303002	"Perte des Portes d'Abraham"
+  equate ENT_303002 38@PerteDesPortesDAbraham
+
+  fix ENT_303003	495399	4309090	20.0
+ 	station	 ENT_303003	"Cueva Nutria"
+  equate ENT_303003 0@CuevaNutria
+
+  fix ENT_303004	494845	4308933	274.0
+ 	station	 ENT_303004	"Le Raccourci"
+
+  fix ENT_303005	495383	4308977	55.0
+ 	station	 ENT_303005	"Le Raccourci Végétal"
+
+  fix ENT_303006	495075	4308714	253.0
+ 	station	 ENT_303006	"Tortilla con Citron"
+  equate ENT_303006 0@CuevaTortillaConCitron
+
+  fix ENT_303007	494387	4309486	86.0
+ 	station	 ENT_303007	"Gouffre de l'Erbra"
+
+  fix ENT_303008	494567	4309691	0
+ 	station	 ENT_303008	"Regard sur la r??surgence de l'Avenir"
+
+  fix ENT_303009	493877	4308702	0
+ 	station	 ENT_303009	"Cueva du Plateau"
+
+  fix ENT_303010	493877	4308689	0
+ 	station	 ENT_303010	"Igue du Dike"
+
+  fix ENT_303011	493833	4308577	0
+ 	station	 ENT_303011	"Pas de nom"
+
+  fix ENT_303012	494928	4309421	301.0
+ 	station	 ENT_303012	"P20"
+
+  fix ENT_303013	494496	4309737	0
+ 	station	 ENT_303013	"Pas de nom"
+
+  fix ENT_303014  495472  4308988  21
+ 	station	 ENT_303014 	"Gouffre Sans Déconner"
+
+  fix ENT_303015  494941  4309441 0
+ 	station	 ENT_303015 "Resurgence Oubliee"
+
+  endcentreline
+endsurvey

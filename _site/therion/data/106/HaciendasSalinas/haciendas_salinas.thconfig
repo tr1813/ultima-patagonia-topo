@@ -1,0 +1,18 @@
+source haciendas_salinas.th
+
+input layouts/detailed-p.thl
+
+layout local-p
+  copy detailed-p
+  scale 1 2000
+  symbol-hide point station-name
+  symbol-show point label
+  color map-fg [98 95 80]
+endlayout
+
+lang fr
+export map -o "hacienda_salinas.pdf" -projection plan -layout local-p
+#export model -o "hacienda_salinas.lox"
+#export model -o "hacienda_salinas.tro"
+#export model -o "hacienda_salinas.kml"
+#export model -o "haciend_salinas_TH.3d" -fmt survex

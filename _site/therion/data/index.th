@@ -1,0 +1,46 @@
+survey UltimaPatagonia
+
+	input 101/101.th	## MDD Nord-ouest
+	input 102/102.th	## Trinidad
+	input 104/104.th  ## Résurgence Ouest
+	input 105/105.th 	## Grand Lac
+	input 106/106.th	## Seno Egg
+	input 107/107.th	## Barros Luco
+	input 108/108.th	## Sumidero
+	input 109/109.th 	## Trois Entrées
+	input 201/201.th  ## Grande Barrière
+	input 202/202.th 	## Isla Ramon
+	input 203/203.th 	## Pacifique
+	input 204/204.th 	## Camp 2
+	input 205/205.th 	## Baleine
+	input 206/206.th 	## Roberto
+	input 207/207.th 	## Condors
+	input 208/208.th 	## Lobos
+	input 209/209.th 	## Soplador
+	input 210/210.th  ## Seno Norte
+	input 211/211.th 	## Quincas
+	input 212/212.th 	## Tarlton
+	input 213/213.th  ## Guarello
+
+	input 303/303.th 	## Avenir
+	input 304/304.th 	## Pelantaro
+
+	input 401/401.th 	## Glacier Tempanos
+
+	## les grottes ci-dessous n'ont pas de zone cadastrale attribuée.
+	## the cave underneath have not been assigned to a cadastral zone yet.
+
+	centreline
+		### Connexions ###
+		cs UTM18S
+		#equate 53@ResurgenceHongo.107	21b@ChattiereQuiBuffle.107
+		#equate 4005@PuntaBlanca.107 MPH25@ChattiereQuiBuffle.107
+
+
+
+
+	endcentreline
+
+
+
+endsurvey

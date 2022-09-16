@@ -1,0 +1,22 @@
+,CAD_NUM,NomCadastre,Nom_complet,X (UTM 18 Sud),Y (UTM 18 Sud),Alt.,Dev. Topo,Termine?,Dev.estimé,Prof.,UP,Commentaire,Explorateurs
+6,NAN,PequinaSud,Pequina Sud,,,,,oui,20,-17,2008,,
+17,NAN,Perte sans nom,Perte sans nom,,,,,oui,25,-15,2008,30 mètres au dessus de la Détente,
+25,NAN,Grotte du bout du monde,Grotte du bout du monde,,,40,125.0,non,,-15,2008,arrêt sur rien! ,
+26,NAN,Résurgence 3 plage de la Baleine,Résurgence 3 plage de la Baleine,,,,,non,,,2008,200 l-s (os de baleine),
+27,NAN,Résurgence 5 plage de la Baleine,Résurgence 5 plage de la Baleine,,,,,non,,,2008,500 l-s (os de baleine),
+69,NAN,CuevaDeLasLapas,Cueva de Las Lapas,,,,,oui,3,3,2010,,"Richard, Olivier T, Jean-Francois P"
+82,NAN,PerteNotoCanada,Perte Notocanada ,,,,,oui,35,-35,2010,"Deux puits qui s'enchainent, fracturés.",
+90,NAN,PorcheDeLaCrevette,Porche de la Crevette,,,,,oui,10,-5,2010,"Porche effondré, sans suite évidente",Les doigts bleus
+91,NAN,PerteJeanneDArc,Perte de la Jeanne d'Arc,,,,,oui,0,0,2010,"Perte gigantesque, >1 m3-s. Impénétrable car effondrée",Les doigts bleus
+118,NAN,cueva103,cueva,473005.0,,401,0.0,oui,20,-20,2010,,"Buldo, José, Jean Phi"
+157,NAN,Résurgence,Résurgence,,,,,oui,15,0,2010,Siphon pénétrable 1m3-s,"Olivier T, Florian"
+158,NAN,Résurgence,Résurgence,,,,,oui,10,0,2010,siphon,"Olivier T, Florian"
+159,NAN,Résurgence,Résurgence,,,,,oui,10,0,2010,siphon,"Olivier T, Florian"
+168,NAN,GouffreInstantané,Gouffre instantané,,,,0.0,oui,45,-20,2010,50m de la détente. idem Aven?,"Stéphane, Laurent M"
+174,NAN,GouffreDuCanyon,Gouffre du Canyon,,,,,non,75,-29,2010,"Suite de petits ressauts dans méandre. Arrêt sur trémie, suite visible mais impénétrable","Arnauld, Denis, Olivier T"
+204,NAN,LosPiscoleros,Los Piscoleros,,,,,oui,,,2010,"Dans une zone de porche, conduite forcée glacière qui part (voir photo)","Antoine, Denis, Olivier G, Vanessa"
+232,NAN,Traversé du roberto,Traversé du roberto,,,,,oui,,,2010,,"Richard, Olivier T "
+233,NAN,trou noir,trou noir,,,,,oui,,,2010,,"Richard, Olivier T "
+235,NAN,SumideroArdilla,Sumidero Ardilla  ,0.0,0.0,,,non,80,-70,2010,,
+259,NAN,TrouQuiPayePasDeMine,Trou qui paye pas de mine,,,,108.0,,108,-48,2014,Topographie,
+355,NAN,PerteDesTetesBrulees,Perte des têtes brulées,,,??,,oui,35,20,2017,"A proximité du camp GB, descendu par Arnauld et Lionel jusque -20m, bouché. Point GPS Cédric ou Lionel",

@@ -1,0 +1,11 @@
+survey 210 -title "210 Seno norte"
+
+  input ResurgenceFinDeSeno/ResurgenceFinDeSeno.th
+
+  centreline
+
+  fix ENT_210001 482476 4427291 0
+  station ENT_210001 "Resurgence Fin Del Seno"
+  equate ENT_210001 FS0@ResurgenceFinDeSeno
+  endcentreline
+endsurvey
