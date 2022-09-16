@@ -49,7 +49,7 @@ if not survey:
 print("Compiling 2D XVI file")
 template = """source {th_file}
 layout test
-  scale 1 500
+  scale 1 100
 endlayout
 
 select {selector}
@@ -155,7 +155,7 @@ endscrap"""
         coords2 = "{}.{}".format(line[2], line[3])
         if "{}.{}".format(line[2], line[3]) not in seen:
             seen.add(coords2)
-            if line[5] != None: 
+            if line[5] != None:
                 th2_points.append(th2_point.format(
                     x=line[2], y=line[3], station=line[5]))
                 th2_names.append(th2_name.format(

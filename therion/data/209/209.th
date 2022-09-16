@@ -7,6 +7,7 @@ survey 209 -title "209 Soplador"
   input GrotteEvier/GrotteEvier.th
   input LosGringos/LosGringos.th
   input GouffreDeLaDetente/GouffreDeLaDetente.th
+  input GouffreCumpleAnos/GouffreCumpleAnos.th
   input PozoAlRato/PozoAlRato.th
   input PozoDeLosCinquetenos/PozoDeLosCinquetenos.th
   input CuevaTorseOublie/CuevaTorseOublie.th
@@ -66,6 +67,7 @@ survey 209 -title "209 Soplador"
 
    fix ENT_209015	471149	4425341	412.0
    station	 ENT_209015	"Gouffre Cumple Anos"
+   equate ENT_209015 0@GouffreCumpleAnos
 
    fix ENT_209016	470988	4425143	0
    station	 ENT_209016	"La Marmotte"

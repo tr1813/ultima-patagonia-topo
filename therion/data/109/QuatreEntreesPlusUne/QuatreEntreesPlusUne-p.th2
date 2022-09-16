@@ -187,7 +187,7 @@ endscrap
 
 scrap QuatreEntreesPlusUne-1p -projection plan -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 
-line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_1 -visibility off
+line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_1 -visibility off
   269.4926 556.4346
   269.4926 556.4346 279.248 564.056 279.248 567.1046
   279.248 570.1532 276.8092 575.6406 275.5897 575.9454
@@ -209,8 +209,8 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_1 -visibility
   269.4926 556.4346
 endline
 
-area u:smallblocks_MY -attr scale 1.2
-  QuatreEntreesPlusUne-1p_u_smallblocks_MY_1
+area u:smallblocks -attr scale 1.2
+  QuatreEntreesPlusUne-1p_u_smallblocks_1
 endarea
 
 line floor-step 
@@ -298,7 +298,7 @@ line ceiling-step -outline out
   382.304 676.0333 386.971 688.4786 386.971 688.4786
 endline
 
-line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_2 -visibility off
+line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_2 -visibility off
   457.8735 620.8559
   457.8735 620.8559 438.8127 605.5244 437.1552 603.0382
   435.4977 600.552 433.0115 596.8227 431.3541 588.5354
@@ -311,8 +311,8 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_2 -visibility
   477.3486 625.8283 457.8735 620.8559 457.8735 620.8559
 endline
 
-area u:smallblocks_MY -attr scale 1.4 -clip off
-  QuatreEntreesPlusUne-1p_u_smallblocks_MY_2
+area u:smallblocks -attr scale 1.4 -clip off
+  QuatreEntreesPlusUne-1p_u_smallblocks_2
 endarea
 
 point 388.74 569.84 station -name 0
@@ -633,7 +633,7 @@ line contour
   114.5552 556.4595 105.1694 575.7125 108.0573 590.1522
 endline
 
-line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_3 -visibility off
+line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_3 -visibility off
   295.543 381.9512
   263.9668 380.1758
   265.3848 357.4707
@@ -648,11 +648,11 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_3 -visibility
   295.543 381.9512
 endline
 
-area u:smallblocks_MY -attr scale 0.8
-  QuatreEntreesPlusUne-1p_u_smallblocks_MY_3
+area u:smallblocks -attr scale 0.8
+  QuatreEntreesPlusUne-1p_u_smallblocks_3
 endarea
 
-line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_4 -visibility off
+line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_4 -visibility off
   298.2031 365.9863
   285.1836 361.0098
   284.6313 360.8372 284.077 360.674 283.5234 360.5059
@@ -680,11 +680,11 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_4 -visibility
   298.2031 365.9863
 endline
 
-area u:smallblocks_MY -attr scale 0.8
-  QuatreEntreesPlusUne-1p_u_smallblocks_MY_4
+area u:smallblocks -attr scale 0.8
+  QuatreEntreesPlusUne-1p_u_smallblocks_4
 endarea
 
-line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_5 -visibility off
+line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_5 -visibility off
   303.0469 350.6113
   300.951 349.8493 298.8525 349.0933 296.75 348.3496
   295.5634 347.9299 294.3751 347.5126 293.1855 347.1016
@@ -714,11 +714,11 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_5 -visibility
   303.0469 350.6113
 endline
 
-area u:smallblocks_MY -attr scale 0.8
-  QuatreEntreesPlusUne-1p_u_smallblocks_MY_5
+area u:smallblocks -attr scale 0.8
+  QuatreEntreesPlusUne-1p_u_smallblocks_5
 endarea
 
-line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_6 -visibility off
+line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_6 -visibility off
   307.9297 336.8555
   307.9037 336.8481 307.8775 336.8413 307.8516 336.834
   305.2501 336.0975 302.6529 335.3465 300.0566 334.5918
@@ -735,12 +735,12 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_6 -visibility
   307.9297 336.8555
 endline
 
-area u:smallblocks_MY -attr scale 0.8
-  QuatreEntreesPlusUne-1p_u_smallblocks_MY_6
+area u:smallblocks -attr scale 0.8
+  QuatreEntreesPlusUne-1p_u_smallblocks_6
 endarea
 
 point 63.933 559.602 altitude -align r
-line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_7 -visibility off
+line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_7 -visibility off
   350.3619 685.4684
   350.3619 685.4684 336.1406 687.3154 333.7396 686.2072
   331.3386 685.0991 316.5632 677.5267 315.455 676.6032
@@ -753,11 +753,11 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_7 -visibility
   350.3619 685.4684
 endline
 
-area u:smallblocks_MY -attr scale 0.7
-  QuatreEntreesPlusUne-1p_u_smallblocks_MY_7
+area u:smallblocks -attr scale 0.7
+  QuatreEntreesPlusUne-1p_u_smallblocks_7
 endarea
 
-line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_8 -visibility off
+line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_8 -visibility off
   299.0174 663.49
   299.0174 663.49 302.5265 675.1256 307.5132 677.1573
   312.4999 679.1889 327.8294 684.545 328.5682 686.2072
@@ -771,8 +771,8 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_MY_8 -visibility
   299.0174 663.49
 endline
 
-area u:smallblocks_MY -attr scale 1.2
-  QuatreEntreesPlusUne-1p_u_smallblocks_MY_8
+area u:smallblocks -attr scale 1.2
+  QuatreEntreesPlusUne-1p_u_smallblocks_8
 endarea
 
 line wall:invisible 

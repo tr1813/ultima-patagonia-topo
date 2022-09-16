@@ -158,11 +158,10 @@ layout custom_lines
 	    initsymbol("l_wall_flowstone_MY");
 	    initsymbol("l_rockborder_MY");
 	    initsymbol("l_survey_cave_MY");
-	    initsymbol("l_pit_MY");
 	    initsymbol("l_contour_MY");
 
         # grey dashed line
-    	def l_u_fault_MY (expr P)=
+    	def l_u_fault (expr P)=
     		T:=identity;
     		pickup PenC;
     	  thdraw P withcolor (0.5,0.5,0.5) dashed evenly scaled (2*optical_zoom);
@@ -204,7 +203,7 @@ layout custom_lines
     	enddef;
 
     	# thin grey line
-    	def l_u_texture_MY (expr P)=
+    	def l_u_texture (expr P)=
     	  T:=identity;
     	  thdraw P withpen PenD withcolor (0.3,0.3,0.3);
     	enddef;
@@ -243,10 +242,12 @@ layout custom_lines
     	 def l_u_wallstep (expr P) =
     	  T:=identity;
     	  laenge:= arclength P;
-    	  symsize:=adjust_step(laenge,0.25u);
-    	  ministep:=symsize/5;
+    	  symsize:=adjust_step(laenge,0.12u);
+				offset:= symsize*1.5;
+    	  ministep:=offset/5;
     	  cur:=0;
     	  pickup PenC;
+
     	  forever:
     	    t0 := arctime (cur) of P;
     	    t1 := arctime (cur+ministep) of P;
@@ -255,24 +256,24 @@ layout custom_lines
     	    t4 := arctime (cur+4*ministep) of P;
     	    t5 := arctime (cur+5*ministep) of P;
 
-    	    thclean (subpath (t5,t0) of P) -- ((point t0 of P) + symsize/2 * unitvector(thdir(P,t0) rotated 90)) ..
-    	    ((point t1 of P) + symsize/2 * unitvector(thdir(P,t1) rotated 90)) ..
-    	    ((point t2 of P) + symsize/2 * unitvector(thdir(P,t2) rotated 90)) ..
-    	    ((point t3a of P) + symsize/2 * unitvector(thdir(P,t3a) rotated 90)) ..
-    	    ((point t4 of P) + symsize/2 * unitvector(thdir(P,t4) rotated 90)) ..
-    	    ((point t5 of P) + symsize/2 * unitvector(thdir(P,t5) rotated 90))--cycle;
+    	    thclean (subpath (t5,t0) of P) -- ((point t0 of P) + symsize * unitvector(thdir(P,t0) rotated 90)) ..
+    	    ((point t1 of P) + symsize * unitvector(thdir(P,t1) rotated 90)) ..
+    	    ((point t2 of P) + symsize * unitvector(thdir(P,t2) rotated 90)) ..
+    	    ((point t3a of P) + symsize * unitvector(thdir(P,t3a) rotated 90)) ..
+    	    ((point t4 of P) + symsize * unitvector(thdir(P,t4) rotated 90)) ..
+    	    ((point t5 of P) + symsize * unitvector(thdir(P,t5) rotated 90))--cycle;
 
-    	    thdraw ((point t0 of P) + symsize/2 * unitvector(thdir(P,t0) rotated 90)) ..
-    	    ((point t1 of P) + symsize/2 * unitvector(thdir(P,t1) rotated 90)) ..
-    	    ((point t2 of P) + symsize/2 * unitvector(thdir(P,t2) rotated 90)) ..
-    	    ((point t3a of P) + symsize/2 * unitvector(thdir(P,t3a) rotated 90)) ..
-    	    ((point t4 of P) + symsize/2 * unitvector(thdir(P,t4) rotated 90)) ..
-    	    ((point t5 of P) + symsize/2 * unitvector(thdir(P,t5) rotated 90));
+    	    thdraw ((point t0 of P) + symsize * unitvector(thdir(P,t0) rotated 90)) ..
+    	    ((point t1 of P) + symsize * unitvector(thdir(P,t1) rotated 90)) ..
+    	    ((point t2 of P) + symsize * unitvector(thdir(P,t2) rotated 90)) ..
+    	    ((point t3a of P) + symsize * unitvector(thdir(P,t3a) rotated 90)) ..
+    	    ((point t4 of P) + symsize * unitvector(thdir(P,t4) rotated 90)) ..
+    	    ((point t5 of P) + symsize * unitvector(thdir(P,t5) rotated 90)) withpen PenC;
 
-    	    thdraw ((point t3a of P) + symsize/2 * unitvector(thdir(P,t3a) rotated 90)) --
-    	    ((point t3a of P) + 4/3*symsize * unitvector(thdir(P,t3a) rotated 90)) withpen PenC;
+    	    thdraw ((point t3a of P) + symsize * unitvector(thdir(P,t3a) rotated 90)) --
+    	    ((point t3a of P) + 7/4*symsize * unitvector(thdir(P,t3a) rotated 90)) withpen PenD;
 
-    	    cur := cur + symsize;
+    	    cur := cur + offset;
     	    exitif cur > laenge - (1*symsize/3); % for rounding errors
     	  endfor;
     	  pickup PenA;
@@ -340,6 +341,56 @@ layout custom_lines
         		exitif cur > laenge - (1*symsize/3); % for rounding errors
       		endfor;
     	enddef;
+
+			def l_pit_MY (expr P) =
+				T:=identity;
+					laenge:= arclength P;
+					symsize:=adjust_step(laenge,0.25u);
+					triangle_width:=symsize/2;
+					cur:=(symsize-triangle_width)/2;
+					pickup PenC;
+					forever:
+						t1 := arctime (cur) of P;
+						t  := arctime (cur + triangle_width/2) of P;
+						t2 := arctime (cur + triangle_width) of P;
+						if ATTR__height >= 10:
+							thfill (subpath (t1,t2) of P) --
+								((point t of P) + symsize/2 * unitvector(thdir(P,t) rotated 90)) --
+								cycle;
+						else:
+							thclean (subpath (t1,t2) of P) --
+								((point t of P) + symsize/2 * unitvector(thdir(P,t) rotated 90)) --
+								cycle;
+							thfill (point t2 of P) --((point t of P) + symsize/2 * unitvector(thdir(P,t) rotated 90)) --
+								(point t1 of P)--cycle;
+						fi;
+						cur := cur + symsize;
+						exitif cur > laenge - (1*symsize/3); % for rounding errors
+						t1:=arctime (cur) of P;
+					endfor;
+					thdraw P;
+				enddef;
+
+				initsymbol("l_pit_MY");
+
+				def l_floorstep_MY (expr P) =
+				  T:=identity;
+				  cas := 0;
+				  dlzka := arclength P;
+				  mojkrok:=adjust_step(dlzka, 0.141u);
+				  pickup PenD;
+				  forever:
+				    t := arctime cas of P;
+				    mark_ (P,t,0.08u);
+				    cas := cas + mojkrok;
+				    exitif cas > dlzka + (mojkrok / 3); % for rounding errors
+				  endfor;
+				  pickup PenC;
+				  thdraw P;
+				enddef;
+
+				initsymbol("l_floorstep_MY");
+
 
     	def l_u_wallbigpit (expr P) =
     	   T:=identity;
@@ -419,7 +470,7 @@ layout custom_lines
 	    initsymbol("l_u_overlay_MY");
 	    initsymbol("l_u_mine_MY");
 	    initsymbol("l_u_underlay_MY");
-	    initsymbol("l_u_fault_MY");
+	    initsymbol("l_u_fault");
 	    initsymbol("l_u_icestep_MY");
 	    initsymbol("l_u_icepit_MY");
 	    initsymbol("l_u_wallstep");
@@ -427,7 +478,7 @@ layout custom_lines
 	    initsymbol("l_u_wallbigpit");
 	    initsymbol("l_u_dripline_MY");
 			initsymbol("l_u_oldsnow_MY");
-	    initsymbol("l_u_texture_MY");
+	    initsymbol("l_u_texture");
 	    initsymbol("l_u_wall_flowstone_MY");
 
 endlayout
@@ -435,7 +486,7 @@ endlayout
 # define legend label
 text en "line u:flowstone_MY" "flowstone  wall"
 text en "line u:openshaft_MY" "open shaft"
-text en "line u:texture_MY" "bedrock exposed"
+text en "line u:texture" "bedrock exposed"
 text en "line u:wall_flowstone_MY" "wall flowstone"
 text en "line u:overlay_MY" "overlying passage"
 text en "line u:mine_MY" "mine addit"
