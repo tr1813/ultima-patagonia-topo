@@ -2,7 +2,8 @@
 survey MeandreDesSables -title "Méandre Des Sables" -entrance 9 -attr cad_num 211020 -attr exped UP2010
 
 centreline
-	date 2010.02
+	date 2010.01.24
+	team "Fabien Hobléa"
 	units length meters
 	units compass clino degrees
 	data normal from to tape compass clino
