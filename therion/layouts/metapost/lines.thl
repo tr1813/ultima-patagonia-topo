@@ -56,7 +56,7 @@ layout custom_lines
 		enddef;
 
 		# orange wall line with chevrons
-		def l_wall_flowstone_MY (expr P) =
+		def l_wall_flowstone (expr P) =
 		  T:=identity;
 		  cas := 0;
 		  dlzka := arclength P;
@@ -155,7 +155,7 @@ layout custom_lines
 	    initsymbol("l_wall_blocks_MY");
 	    initsymbol("l_wall_debris_MY");
 	    initsymbol("l_wall_ice_MY");
-	    initsymbol("l_wall_flowstone_MY");
+	    initsymbol("l_wall_flowstone");
 	    initsymbol("l_rockborder_MY");
 	    initsymbol("l_survey_cave_MY");
 	    initsymbol("l_contour_MY");
@@ -189,7 +189,7 @@ layout custom_lines
     	enddef;
 
     	# a thin grey, dashed line
-    	def l_u_dripline_MY (expr Path)=
+    	def l_u_dripline (expr Path)=
     	  T:=identity;
     	  pickup PenC;
     	  thdraw Path withcolor (0.25,0.25,0.25) dashed evenly scaled (1*optical_zoom);
@@ -209,7 +209,7 @@ layout custom_lines
     	enddef;
 
     	# line made of orange crescents for flowstone inside a passage
-    	def l_u_wall_flowstone_MY (expr P)=
+    	def l_u_wall_flowstone (expr P)=
     	  T:=identity;
     	  cas := 0;
     	  dlzka := arclength P;
@@ -476,20 +476,20 @@ layout custom_lines
 	    initsymbol("l_u_wallstep");
 	    initsymbol("l_u_bigpit_MY");
 	    initsymbol("l_u_wallbigpit");
-	    initsymbol("l_u_dripline_MY");
+	    initsymbol("l_u_dripline");
 			initsymbol("l_u_oldsnow_MY");
 	    initsymbol("l_u_texture");
-	    initsymbol("l_u_wall_flowstone_MY");
+	    initsymbol("l_u_wall_flowstone");
 
 endlayout
 
 # define legend label
-text en "line u:flowstone_MY" "flowstone  wall"
+text en "line u:flowstone" "flowstone  wall"
 text en "line u:openshaft_MY" "open shaft"
 text en "line u:texture" "bedrock exposed"
-text en "line u:wall_flowstone_MY" "wall flowstone"
+text en "line u:wall_flowstone" "wall flowstone"
 text en "line u:overlay_MY" "overlying passage"
 text en "line u:mine_MY" "mine addit"
-text en "line u:dripline_MY" "dripline"
+text en "line u:dripline" "dripline"
 text en "line u:oldsnow_MY" "old snow level"
 text en "line u:icepit_MY" "ice pit"

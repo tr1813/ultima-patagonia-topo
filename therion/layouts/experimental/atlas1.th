@@ -51,7 +51,7 @@ layout atlas1
     enddef;
 
 
-    def l_u_flowstone_MY (expr P) = 
+    def l_u_flowstone (expr P) = 
       T:=identity;
       cas := 0;
       dlzka := arclength P;
@@ -204,7 +204,7 @@ layout atlas1
     initsymbol("l_pit_MY");
     initsymbol("a_water_MY");
     initsymbol("p_u_logger_MY");
-    initsymbol("l_u_flowstone_MY");
+    initsymbol("l_u_flowstone");
     initsymbol("l_u_texture");
     initsymbol("l_u_contour_MY");
     initsymbol("p_pillar_MY");
@@ -236,7 +236,7 @@ layout atlas1
 endlayout
 
 text en "point u:logger_MY"  "logger"
-text en "line u:flowstone_MY" "flowstone  wall"
+text en "line u:flowstone" "flowstone  wall"
 
 #q2 := ((point t1 of P) + .25u * unitvector(thdir(P,t1) rotated -135)) --           ((point t2 of P) + .25u * unitvector(thdir(P,t2) rotated -45));
 #thdraw q2 withcolor(0.5,0.5,0.5);
@@ -245,5 +245,5 @@ text en "line u:openshaft_MY" "open shaft"
 text de "line u:openshaft_MY" "Eingangskessel"
 text en "line u:texture" "bedrock wall"
 text de "line u:texture" "Felsboden"
-text de "line u:flowstone_MY" "flächiger Sinter"
+text de "line u:flowstone" "flächiger Sinter"
 

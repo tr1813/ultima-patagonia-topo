@@ -207,7 +207,7 @@ enddef;
 
     # FLOWSTONE
 
-    def l_wall_flowstone_MY (expr P) =
+    def l_wall_flowstone (expr P) =
       T:=identity;
       cas := 0;
       dlzka := arclength P;
@@ -309,7 +309,7 @@ enddef;
 
 
     # FLOWSTONE
-    def l_u_wall_flowstone_MY (expr P)=
+    def l_u_wall_flowstone (expr P)=
       T:=identity;
       cas := 0;
       dlzka := arclength P;
@@ -400,6 +400,8 @@ endcode
  symbol-colour point helictite [85 45 10]
  symbol-colour point soda-straw [85 45 10]
  symbol-colour point crystal [85 45 10]
+ symbol-colour point popcorn [85 45 10]
+
 
  ## sedimentary fills
  symbol-assign line rock-border MY
@@ -429,16 +431,16 @@ endlayout
 
 #english labels
 text en "point u:logger_MY"  "logger"
-text en "line u:flowstone_MY" "flowstone  wall"
+text en "line u:flowstone" "flowstone  wall"
 text en "line u:openshaft_MY" "open shaft"
 text en "line u:texture" "bedrock exposed"
 text en "point u:waterdrip_MY" "water drips"
 text en "point u:sampled_MY" "sample taken"
-text en "line u:wall_flowstone_MY" "wall flowstone"
+text en "line u:wall_flowstone" "wall flowstone"
 text en "point u:grass_MY" "grass"
 
 
 #german labels
 text de "line u:openshaft_MY" "Eingangskessel"
 text de "line u:texture" "Felsboden"
-text de "line u:flowstone_MY" "flächiger Sinter"
+text de "line u:flowstone" "flächiger Sinter"

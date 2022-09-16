@@ -54,6 +54,7 @@ layout detailed-p
   symbol-colour point helictite [85 45 10]
   symbol-colour point soda-straw [85 45 10]
   symbol-colour point crystal [85 45 10]
+  symbol-colour point popcorn [85 45 10]
 
   ## sedimentary fills
   symbol-assign line rock-border MY
@@ -63,7 +64,7 @@ layout detailed-p
 
   symbol-colour area clay [65 55 10]
   symbol-colour line wall:clay [65 55 10]
-  symbol-colour area sand [85 75 10]
+  #symbol-colour area sand [85 75 10]
   symbol-colour line water-flow [0 10 70]
 
   ## misc
