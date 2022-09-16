@@ -1,0 +1,8 @@
+source raw_convert/4_plus_1_convert.th
+layout test
+  scale 1 500
+endlayout
+
+select QuatreEntreesPlusUne
+
+export map -projection plan -o xvi.xvi -layout test -layout-debug station-names

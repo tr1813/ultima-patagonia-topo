@@ -1,0 +1,205 @@
+survey 201 -title "201 Grande Barrière"
+    input Ayayemal/Ayayemal.th
+    input Ayayebo/Ayayebo.th
+    input GB01/GB01.th
+    input Ziploc/Ziploc.th
+    input Haricot/Haricot.th
+    input Resurgence1/Resurgence1.th
+    input LaRabasse3/LaRabasse3.th
+    input LaRabasse1/LaRabasse1.th
+    input Cueva7/Cueva7.th
+    input Cueva11/Cueva11.th
+    input CuevaDuTelephone/CuevaDuTelephone.th
+    input Cueva8/Cueva8.th
+    input TrouDuMarteau/TrouDuMarteau.th
+    input LaRabasse2/LaRabasse2.th
+    input Cueva12/Cueva12.th
+    input Cueva13/Cueva13.th
+    input PorcheOsDeBaleine/PorcheOsDeBaleine.th
+    input C4T2/C4T2.th
+    input C4T3/C4T3.th
+    input Cueva4/Cueva4.th
+    input C4T1/C4T1.th
+    input C4Cueva6/C4Cueva6.th
+    input C4SansNom10/C4SansNom10.th
+    input C4SansNom9/C4SansNom9.th
+    input C4Nfissure0/C4Nfissure0.th
+    input C4SansNom8/C4SansNom8.th
+    input C4SansNom7/C4SansNom7.th
+    input C4SansNom6/C4SansNom6.th
+    input C5Cueva2/C5Cueva2.th
+centreline
+		cs UTM18S
+
+    fix ENT_201001	478266	4438945	0.0
+    station ENT_201001  "Resurgence 2 du Canyon"
+    fix ENT_201002	473138	4437000	325.0
+    station ENT_201002 "La Rabasse 3"
+    fix ENT_201003	473081	4438618	385.0
+    station ENT_201003  "Cueve C4 SansNom 3 SansNom"
+    fix ENT_201004	473185	4437080	337.0
+    station ENT_201004  "La Rabasse 1"
+    fix ENT_201005	473614	4437045	273.0
+    station ENT_201005  "Cueva 3"
+    fix ENT_201006	473794	4437339	294.0
+    station ENT_201006  "Cueva 7"
+    fix ENT_201007	473598	4437045	290.0
+    station ENT_201007  "Cueva 1"
+    fix ENT_201008	473527	4437152	338.0
+    station ENT_201008  "Cueva 11"
+    fix ENT_201009	473512	4437140	340.0
+    station ENT_201009  "Cueva du Téléphone"
+    fix ENT_201010	473749	4437328	309.0
+    station ENT_201010  "Cueva 8"
+    fix ENT_201011	473423	4437558	492.0
+    station ENT_201011  "cueva C4 SansNom 8"
+    fix ENT_201012	473607	4437277	386.0
+    station ENT_201012 "Trou du Marteau"
+    fix ENT_201013	473066	4437002	311.0
+    station ENT_201013  "La Rabasse 2"
+    fix ENT_201014	473378	4437631	526.0
+    station ENT_201014  "cueva C4 SansNom 9"
+    fix ENT_201015	473524	4437766	469.0
+    station ENT_201015  "Cueva C4 SansNom 7"
+    fix ENT_201016	473535	4437264	347.0
+    station ENT_201016  "Cueva 10"
+    fix ENT_201017	473581	4437960	393.0
+    station ENT_201017  "??Secteur Barros Luco"
+    fix ENT_201018	473619	4437025	268.0
+    station ENT_201018  "Cueva 2"
+    fix ENT_201019	473196	4437124	274.0
+    station ENT_201019  "Cueva C4 SansNom 5"
+    fix ENT_201020 481166 4440010 6
+    station ENT_201020 "Resurgence 1"
+    equate ENT_201020 R1BL_24@Resurgence1
+    fix ENT_201021	473580	4437961	393.0
+    station ENT_201021  "Cueva C4 SansNom 1 "
+    fix ENT_201022	473519	4437155	335.0
+    station ENT_201022  "Cueva 12"
+    fix ENT_201023	473690	4437099	272.0
+    station ENT_201023  "Cueva 5"
+    fix ENT_201024	473520	4437115	8.0
+    station ENT_201024  "Cueva 13"
+    fix ENT_201025	473276	4437291	412.0
+    station ENT_201025  "Cueva C4 SansNom 6"
+    fix ENT_201026	471000	4440731	9.0
+    station ENT_201026  "Porche 2 Os de Baleine"
+    fix ENT_201027	473138	4437000	325.0
+    station ENT_201027  "C4T2"
+    fix ENT_201028	473066	4437002	310.0
+    station ENT_201028  "C4T3"
+    fix ENT_201029	473670	4437075	270.0
+    station ENT_201029  "Cueva 4"
+    fix ENT_201030	473185	4437080	337.0
+    station ENT_201030  "C4T1"
+    fix ENT_201031	473587	4437133	303.0
+    station ENT_201031  "C3"
+    fix ENT_201032	473735	4437228	306.0
+    station ENT_201032  "C4 Cueva 6"
+    fix ENT_201033	473607	4437277	385.0
+    station ENT_201033  "C4 Cueva 9"
+    fix ENT_201034	473652	4437656	397.0
+    station ENT_201034  "C4 SansNom10"
+    fix ENT_201035	473683	4437677	381.0
+    station ENT_201035  "C4 SansNom 9"
+    fix ENT_201036	473577	4438008	389.0
+    station ENT_201036  "C4 Nfissure 0"
+    fix ENT_201037	473579	4438420	361.0
+    station ENT_201037  "C4 SansNom 8"
+    fix ENT_201038	473601	4438564	347.0
+    station ENT_201038  "C4 SansNom 7"
+    fix ENT_201039	473616	4438593	342.0
+    station ENT_201039  "C4 SansNom 6"
+    fix ENT_201040	473599	4438718	337.0
+    station ENT_201040  "C5 Cueva2"
+    fix ENT_201041	473407	4438857	403.0
+    station ENT_201041  "C4 SansNom 1"
+    fix ENT_201042	473028	4438978	312.0
+    station ENT_201042  "C4 SansNom 4"
+    fix ENT_201043	473077	4439130	313.0
+    station ENT_201043  "C5 Cueva3"
+    fix ENT_201044	473044	4439162	307.0
+    station ENT_201044  "C4 SansNom 3"
+    fix ENT_201045	473343	4439239	391.0
+    station ENT_201045  "C5 Cueva1"
+    fix ENT_201046	473652	4437656	397.0
+    station ENT_201046  "Cueva de la casquette"
+    fix ENT_201047	473344	4439239	391.0
+    station ENT_201047  "Champignon"
+    fix ENT_201048	473077	4439130	313.0
+    station ENT_201048  "Gouffre du Colibri"
+    fix ENT_201049	473683	4437677	382.0
+    station ENT_201049  "Trou de la Plaquette"
+    fix ENT_201050	473599	4438718	338.0
+    station ENT_201050  "Porche du Sonnar"
+    fix ENT_201051	477006	4441940	0
+    station ENT_201051  "Perte 3"
+    fix ENT_201052	479866	4441309	356.0
+    station ENT_201052 "Trou GB 01"
+    equate ENT_201052 0@GB01
+    fix ENT_201053	480018	4441221	351.0
+    station ENT_201053  "GB2"
+    fix ENT_201054	479883	4441642	239.0
+    station ENT_201054  "GB3"
+    fix ENT_201055	476404	4442053	0
+    station ENT_201055  "Perte 2"
+    fix ENT_201056	476668	4441599	303.0
+    station ENT_201056  "GB Trou 1"
+    fix ENT_201057	476670	4441599	306.0
+    station ENT_201057  "GB Trou 2"
+    fix ENT_201058	476570	4441550	329.0
+    station ENT_201058  "GB Trou 3"
+    fix ENT_201059	476811	4441550	298.0
+    station ENT_201059  "GB Trou 5"
+    fix ENT_201060	476555	4442064	0
+    station ENT_201060  "Gouffre du Totem"
+    fix ENT_201061	476491	4441850	292.0
+    station ENT_201061 "Ayayemal"
+    equate ENT_201061 0@Ayayemal
+    fix ENT_201062	476217	4441660	314.0
+    station ENT_201062 "Ayayebo"
+    equate ENT_201062 0@Ayayebo
+    fix ENT_201063	476293	4441568	344.0
+    station ENT_201063  "GB1 bis"
+    fix ENT_201064	476287	4441655	364.0
+    station ENT_201064  "Gouffre"
+    fix ENT_201065	476316	4440859	596.0
+    station ENT_201065  "SANS NOM"
+    fix ENT_201066	476028	4441666	277.0
+    station ENT_201066  "SANS NOM"
+    fix ENT_201067	475784	4441912	388.0
+    station ENT_201067  "SANS NOM"
+    fix ENT_201068	475808	4441893	380.0
+    station ENT_201068  "GB 07 02-1"
+    fix ENT_201069	475787	4441900	382.0
+    station ENT_201069  "GB 07 02-2"
+    fix ENT_201070	476036	4441670	295.0
+    station ENT_201070  "GB 07 02-3"
+    fix ENT_201071	476576	4441740	281.0
+    station ENT_201071  "SANS NOM"
+    fix ENT_201072	476632	4441445	378.0
+    station ENT_201072  "SANS NOM"
+    fix ENT_201073	476597	4441532	316.0
+    station ENT_201073 	"Gouffre du Ziploc"
+    equate ENT_201073 0@Ziploc
+    fix ENT_201074	481244	4440093	29.0
+    station ENT_201074 "Cueva Haricot"
+    equate ENT_201074 23@Haricot
+    fix ENT_201075	475551	4442964	285.0
+    station ENT_201075  "Sumidero del Chorizo Plastico"
+    fix ENT_201076	475670	4442920	323.0
+    station ENT_201076  "SANS NOM"
+    fix ENT_201077	475375	4442069	430.0
+    station ENT_201077  "SANS NOM"
+    fix ENT_201078	475272	4442209	460.0
+    station ENT_201078  "SANS NOM"
+    fix ENT_201079 473005 4437401 471
+    station ENT_201079  "C4 SansNom 10"
+    fix ENT_201080 470851 4437247 13
+    station ENT_201080 "pacifique nord Porche 1"
+		fix SOMMET360 472954 4437990 662
+    station SOMMET360  "Sommet 360°"
+		fix BLOCSGRES 472902 4437730 603
+    station BLOCSGRES  "blocks de Grès"
+endcentreline
+endsurvey

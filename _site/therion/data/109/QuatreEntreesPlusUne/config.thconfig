@@ -1,0 +1,45 @@
+source QuatreEntreesPlusUne.th
+
+input ../../../layouts/detailed-p.thl
+
+layout local-p
+  copy detailed-p
+  scale 1 500
+  legend off
+  map-header 0 0 off
+  symbol-show point label
+  symbol-show point passage-height
+
+  symbol-color point station-name [60 60 60]
+  color map-bg transparent
+  map-comment "Centre Terre<br>Ultima Patagonia 2019"
+  code tex-map
+  #\framethickness=0.5mm
+  \def\xcenter{10}
+  \def\ycenter{120}
+  \def\yscale{2}
+
+  # change this
+
+  \def\customheader{
+  \size[13]\bf \the\cavename \ss
+  \si \par \size[9]Iles Madre de Dios \ss
+  \par Dévelopement: \the\cavelength
+  \par Dénivelé: \the\cavedepth
+  \par Topographie: Centre Terre
+  \par Ultima Patagonia 2019}
+
+  \def\maplayout{
+
+  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - \yscale\relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter-45\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{W} {\hbox{\loadpicture{"/Volumes/Tanguy Main 1/QGIS/ultima-patagonia-topo/logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+  }
+  endcode
+endlayout
+
+
+lang fr
+export map -o outputs/QuatreEntreesPlusUne.pdf -projection plan -layout local-p
+export map -o outputs/QuatreEntreesPlusUne.svg -projection plan -layout local-p

@@ -1,0 +1,29 @@
+survey 212 -title "212 Tarlton"
+  input GrotteDeTarlton/GrotteDeTarlton.th
+  input TAR01/TAR01.th
+  input TAR02/TAR02.th
+  input TAR03/TAR03.th
+  input TAR04/TAR04.th
+  input TAR05/TAR05.th
+
+  centreline
+  cs UTM18S
+  fix ENT_212001	468000	4417000	30.0
+ 	station	 ENT_212001	"Grotte de Tarlton"
+
+  fix ENT_212002	470651	4418054	294.0
+ 	station	 ENT_212002	"TAR01"
+
+  fix ENT_212003	470567	4417883	380.0
+ 	station	 ENT_212003	"TAR02"
+
+  fix ENT_212004	470359	4417650	525.0
+ 	station	 ENT_212004	"TAR03"
+
+  fix ENT_212005	470446	4417762	476.0
+ 	station	 ENT_212005	"TAR04"
+
+  fix ENT_212006	470679	4418000	340.0
+ 	station	 ENT_212006	"TAR05"
+  endcentreline
+endsurvey

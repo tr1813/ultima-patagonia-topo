@@ -1,0 +1,49 @@
+survey 401 -title "401 Tempanos"
+centreline
+
+  fix ENT_401001 577225 4604263 0
+ 	station	ENT_401001	"MoulinReveBleu"
+  fix ENT_401002 577141 4603383 0
+ 	station	ENT_401002	"PerteSaloude"
+  fix ENT_401003 577289 4604031 122
+ 	station	ENT_401003	"MoulinDeGlace"
+  fix ENT_401004 577528 4603955 0
+ 	station	ENT_401004	"Lac2"
+  fix ENT_401005 577555 4603901 0
+ 	station	ENT_401005	"Lac Tic et Tac"
+  fix ENT_401006 576150 4598655 250
+ 	station	ENT_401006	"Cueva Esperanza"
+  fix ENT_401007  576183  4600809 0
+ 	station	ENT_401007	"Traversée de la Cascade"
+  fix ENT_401008  576064  4600782  0
+ 	station	ENT_401008	"L'abri sous Glace"
+  fix ENT_401009 575588 4601180 0
+ 	station	ENT_401009	"Salto del Agua"
+  fix ENT_401010 575786 4601270 0
+ 	station	ENT_401010	"Moulin Abou"
+  fix ENT_401011 575977 4601227 0
+ 	station	ENT_401011	"Moulin Tapis Volant"
+  fix ENT_401012 575925 4601038 0
+ 	station	ENT_401012	"Traversée"
+  fix ENT_401013 576005 4597166 0
+ 	station	ENT_401013	"Moulin du Champignon"
+  fix ENT_401014 577950 4597074 0
+ 	station	ENT_401014	"Traversee du meandre 1"
+  fix ENT_401015 578009 4597133 0
+ 	station	ENT_401015	"Traversee du meandre 2"
+  fix ENT_401016 576724 4597385 0
+ 	station	ENT_401016	"Moulin de glace"
+  fix ENT_401017 575986 4597099 0
+ 	station	ENT_401017	"Moulin de la Conception"
+  fix ENT_401018 575384 4601618 48
+ 	station	ENT_401018	"Cueva Tempanos - Entrée 1"
+  fix ENT_401019 575379 4601714 36
+ 	station	ENT_401019	"Cueva Tempanos - Entrée 2"
+  fix ENT_401020 575465 4601707 58
+ 	station	ENT_401020	"Cueva Tempanos - Entrée 3"
+  fix ENT_401021 575691 4601178 0
+ 	station	ENT_401021	"Fuite Prometteuse"
+
+  endcentreline
+
+endsurvey

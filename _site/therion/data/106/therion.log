@@ -1,0 +1,216 @@
+therion 5.5.0+e2caa7d (2020-05-01)
+initialization file: /usr/local/etc/therion.ini
+reading ... done
+checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
+checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
+configuration file: HaciendasSalinas/config.thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+average loop error: 2.25%
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.36
+ 2> Copyright © 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I’ve fixed 46 at (0,0,0)
+ 4> 
+ 5> Survey contains 172 survey stations, joined by 173 legs.
+ 6> There are 2 loops.
+ 7> Total length of survey legs = 1364.24m (1364.43m adjusted)
+ 8> Total plan length of survey legs = 1242.61m
+ 9> Total vertical length of survey legs =  472.97m
+10> Vertical range = 87.16m (from 133 at 13.25m to 44 at -73.91m)
+11> North-South range = 383.01m (from 44 at 246.42m to 86 at -136.59m)
+12> East-West range = 197.00m (from 108 at 38.69m to 86 at -158.31m)
+13>   16 1-nodes.
+14>  139 2-nodes.
+15>   16 3-nodes.
+16>    1 4-node.
+17> 
+######################### transcription ########################
+ 3> 46 : 1@b.HaciendasSalinas
+ 5> 172 : 55@e.HaciendasSalinas
+ 6> 2 : 1@a.HaciendasSalinas
+10> 133 : 156@d.HaciendasSalinas -- 44 : 44@a.HaciendasSalinas
+11> 44 : 44@a.HaciendasSalinas -- 86 : 93@b.HaciendasSalinas
+12> 108 : 116@c.HaciendasSalinas -- 86 : 93@b.HaciendasSalinas
+13> 16 : 16@a.HaciendasSalinas
+14> 139 : 161@d.HaciendasSalinas
+15> 16 : 16@a.HaciendasSalinas
+16> 1 : 2@a.HaciendasSalinas
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+processing projection plan ... done
+average distortion: 1.75%
+
+
+############### export maps & scraps selection #################
+M   -27.74 m-all-p@HaciendasSalinas ()
+S   -54.10  entrance-p@HaciendasSalinas ()
+S   -44.69  sumpofdoom-p@HaciendasSalinas ()
+S   -16.80  muddyhollows-p@HaciendasSalinas ()
+S   -21.28  whiterhino-p@HaciendasSalinas ()
+S    -7.46  stalchamber-p@HaciendasSalinas ()
+S   -22.13  waterworld-p@HaciendasSalinas ()
+########## end of export maps & scraps selection ###############
+copying_fonts ...
+Arimo-Regular.ttf
+Arimo-Italic.ttf
+Arimo-Bold.ttf
+Arimo-Regular.ttf
+Arimo-BoldItalic.ttf
+done.
+writing HaciendasSalinas/outputs/HaciendasSalinas.pdf ...
+generating TeX metrics ... done
+####################### metapost log file ########################
+This is MetaPost, version 2.00 (TeX Live 2018) (kpathsea version 6.3.0)  1 APR 2022 17:45
+**data.mp
+(/usr/local/texlive/2018/texmf-dist/metapost/base/mpost.mp
+(/usr/local/texlive/2018/texmf-dist/metapost/base/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [
+4012] [4013] [4014]
+[4015]
+Warning: patterncolor not supported in Therion [4016]
+[Warning: undefined symbol `l_survey_surface_MY']
+[Warning: undefined symbol `l_wall_bedrock_MY']
+[Warning: undefined symbol `l_wall_clay_MY']
+[Warning: undefined symbol `l_wall_pebbles_MY']
+[Warning: undefined symbol `l_wall_presumed_MY']
+[Warning: undefined symbol `l_wall_sand_MY']
+[Warning: undefined symbol `l_wall_underlying_MY']
+[Warning: undefined symbol `l_wall_unsurveyed_MY']
+[Warning: undefined symbol `l_wall_pit_MY']
+[Warning: undefined symbol `l_wall_overlying_MY']
+[Warning: undefined symbol `l_wall_moonmilk_MY']
+[Warning: undefined symbol `p_airdraught_summer_MY']
+[Warning: undefined symbol `p_airdraught_winter_MY'] [1] [2] [3] [4] [5] [6]
+[7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22]
+[23] [24] [25] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) [26] )
+ 
+Here is how much of MetaPost's memory you used:
+ 32289 strings using 841993 characters
+ 8861024 bytes of node memory
+ 1786 symbolic tokens
+ 11i,81n,16p,329b,5f stack positions out of 16i,96n,17p,390b,6f
+42 output files written: data.1 .. data.4016
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+generating TeX metrics ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdfetex 2018.4.16)  1 APR 2022 17:45
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex (./thfonts.map{
+/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map})
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
+(./th_fontdef.tex)
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 81 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 282 strings out of 494645
+ 3000 string characters out of 6148133
+ 1056425 words of memory out of 5000000
+ 1919 multiletter control sequences out of 15000+600000
+ 16885 words of font info for 57 fonts, out of 8000000 for 9000
+ 1416 hyphenation exceptions out of 8191
+ 8i,5n,6p,238b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+{a_cghrlb.enc}<Arimo-BoldItalic.ttf><Arimo-Bold.ttf><Arimo-Regular.ttf>
+Output written on data.pdf (1 page, 440236 bytes).
+PDF statistics:
+ 101 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 243 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+
+
+############### export maps & scraps selection #################
+M   -27.74 m-all-p@HaciendasSalinas ()
+S   -54.10  entrance-p@HaciendasSalinas ()
+S   -44.69  sumpofdoom-p@HaciendasSalinas ()
+S   -16.80  muddyhollows-p@HaciendasSalinas ()
+S   -21.28  whiterhino-p@HaciendasSalinas ()
+S    -7.46  stalchamber-p@HaciendasSalinas ()
+S   -22.13  waterworld-p@HaciendasSalinas ()
+########## end of export maps & scraps selection ###############
+writing HaciendasSalinas/outputs/HaciendasSalinas.svg ...
+generating TeX metrics ... done
+####################### metapost log file ########################
+This is MetaPost, version 2.00 (TeX Live 2018) (kpathsea version 6.3.0)  1 APR 2022 17:45
+**data.mp
+(/usr/local/texlive/2018/texmf-dist/metapost/base/mpost.mp
+(/usr/local/texlive/2018/texmf-dist/metapost/base/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [
+4012] [4013] [4014]
+[4015]
+Warning: patterncolor not supported in Therion [4016]
+[Warning: undefined symbol `l_survey_surface_MY']
+[Warning: undefined symbol `l_wall_bedrock_MY']
+[Warning: undefined symbol `l_wall_clay_MY']
+[Warning: undefined symbol `l_wall_pebbles_MY']
+[Warning: undefined symbol `l_wall_presumed_MY']
+[Warning: undefined symbol `l_wall_sand_MY']
+[Warning: undefined symbol `l_wall_underlying_MY']
+[Warning: undefined symbol `l_wall_unsurveyed_MY']
+[Warning: undefined symbol `l_wall_pit_MY']
+[Warning: undefined symbol `l_wall_overlying_MY']
+[Warning: undefined symbol `l_wall_moonmilk_MY']
+[Warning: undefined symbol `p_airdraught_summer_MY']
+[Warning: undefined symbol `p_airdraught_winter_MY'] [1] [2] [3] [4] [5] [6]
+[7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22]
+[23] [24] [25] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) [26] )
+ 
+Here is how much of MetaPost's memory you used:
+ 32289 strings using 841993 characters
+ 8861024 bytes of node memory
+ 1786 symbolic tokens
+ 11i,81n,16p,329b,5f stack positions out of 16i,96n,17p,390b,6f
+42 output files written: data.1 .. data.4016
+
+
+#################### end of metapost log file ####################
+converting scraps* ... done
+making svg map ... done
+done
+compilation time: 17 sec
+
+
+######################### loop errors ##########################
+REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
+  2.26%    9.6m  426.7m  41    6.2m   -3.0m    6.7m [2@a.HaciendasSalinas - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 19 - 20 - 21 = 21@e.HaciendasSalinas - 200 - 201 - 202 - 206 - 207 - 208 - 209 - 210 - 211 - 214 - 215 - 163 = 163@d.HaciendasSalinas - 162 - 161 - 160 - 159 - 158 - 157 - 55 = 55@b.HaciendasSalinas - 54 - 53 - 52 - 51 - 50 - 1 = 1@a.HaciendasSalinas - 2]
+  2.22%    1.0m   44.7m   8    0.4m    0.1m   -0.9m [17@c.HaciendasSalinas - 127 - 117 - 112 - 110 - 109 - 108 - 107 - 17]
+##################### end of loop errors #######################
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   9.88%   39.75%  entrance-p@HaciendasSalinas
+   0.05%    3.09%  sumpofdoom-p@HaciendasSalinas
+   0.02%    1.58%  whiterhino-p@HaciendasSalinas
+   0.02%    0.67%  muddyhollows-p@HaciendasSalinas
+   0.02%    0.58%  stalchamber-p@HaciendasSalinas
+   0.02%    0.22%  waterworld-p@HaciendasSalinas
+   0.00%    0.00%  DELETE-ME-survey-legs-DUPLICATE_haciendas_salinas-p@HaciendasSalinas
+   0.00%    0.00%  DUPLICATE_haciendas_salinas-1p@HaciendasSalinas
+################### end of scrap distortions ###################
