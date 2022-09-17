@@ -4,6 +4,8 @@ survey 204 -title "204 Camp 2"
   input GouffreAlouette/GouffreAlouette.th
   input GrotteCacahuete/GrotteCacahuete.th
   input TrouDesCanelures/TrouDesCanelures.th
+  input EvequeCauchon/EvequeCauchon.th
+
 
 centreline
     cs UTM18S
@@ -12,7 +14,8 @@ centreline
     equate ENT_204001 F0@GouffreGazelle
 
     fix ENT_204002	474370	4432520	74.0
-    station ENT_204002 "Eveque Cauchon"
+    station ENT_204002 "Evêque Cauchon"
+    equate ENT_204002 11@EvequeCauchon
 
     fix ENT_204003	475586	4431730	130.0
     station ENT_204003 "Grotte de la fausse Pucelle"

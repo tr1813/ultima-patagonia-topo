@@ -123,9 +123,9 @@ centreline
     fix ENT_201045	473343	4439239	391.0
     station ENT_201045  "C5 Cueva1"
     fix ENT_201046	473652	4437656	397.0
-    station ENT_201046  "Cueva de la casquette"
+    station ENT_201046  "Cueva de la Casquette"
     fix ENT_201047	473344	4439239	391.0
-    station ENT_201047  "Champignon"
+    station ENT_201047  "Cueva Champignon"
     fix ENT_201048	473077	4439130	313.0
     station ENT_201048  "Gouffre du Colibri"
     fix ENT_201049	473683	4437677	382.0

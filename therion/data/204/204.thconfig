@@ -1,0 +1,4 @@
+source 204.th
+
+export model -o 204.3d -fmt survex
+export model -o 204.lox
