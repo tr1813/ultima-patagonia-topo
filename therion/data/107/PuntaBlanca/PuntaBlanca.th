@@ -1,6 +1,19 @@
 
 survey PuntaBlanca -title "Cueva de la Punta Blanca" -entrance 0 -attr cad_num 107031
 
+input PuntaBlanca-p.th2
+
+map m-tout-p -projection plan
+  PuntaBlanca-ENTp
+  PuntaBlanca-2p
+  PuntaBlanca-9p
+  PuntaBlanca-3p
+  PuntaBlanca-4p
+  PuntaBlanca-5p
+  PuntaBlanca-6p
+  PuntaBlanca-7p
+  PuntaBlanca-8p
+endmap
 
     centreline
 
@@ -647,7 +660,7 @@ survey PuntaBlanca -title "Cueva de la Punta Blanca" -entrance 0 -attr cad_num 1
 			1080	1081	13.90	287.00	-5.40
 			1081	1082	8.80	215.30	10.90
 			1082	1083	3.54	351.30	-68.50
-			1083	7001	4.92	77.90	-7.70
+			2021	7002	4.92	77.90	-7.70
 			7001	7002	17.66	71.50	-19.90
 			7002	7003	11.20	65.30	-17.80
 			7003	7004	1.26	59.30	-10.20
@@ -681,7 +694,7 @@ survey PuntaBlanca -title "Cueva de la Punta Blanca" -entrance 0 -attr cad_num 1
 			7030	7031	3.57	283.90	5.20
 			7030	7036	5.65	108.40	-40.70
 			7036	7037	7.08	81.30	-9.90
-			7037	1058	2.86	44.00	10.80
+		  7037	1058	2.86	44.00	10.80
 			2011	7032	17.38	225.20	18.10
 			7032	7033	7.41	250.90	50.60
 			7033	7034	9.76	225.20	-26.70
@@ -757,5 +770,6 @@ survey PuntaBlanca -title "Cueva de la Punta Blanca" -entrance 0 -attr cad_num 1
 			8008	2.07	0.82	0.00	2.48
 
     endcentreline
-
+    equate 7031 1025
+    equate 1083 2018
 endsurvey

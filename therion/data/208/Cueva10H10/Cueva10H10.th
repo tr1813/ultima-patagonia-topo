@@ -1,6 +1,8 @@
 
 survey Cueva10H10 -title "Cueva 10H10" -entrance 9 -attr cad_num 208001 -attr exped UP2008
 
+	input Cueva10H10-p.th2
+	input Cueva10H10-e.th2
 centreline
 	date 2008.02.26
 	units length meters

@@ -1,0 +1,193 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -250 -500 250 500
+##XTHERION## xth_me_area_zoom_to 100
+
+scrap DELETE-ME-survey-legs-Cueva10H10-e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
+    line survey
+        4725.00 -309.84
+        4305.04 -376.38
+    endline
+    line survey
+        4305.04 -376.38
+        2505.83 -376.38
+    endline
+    line survey
+        2505.83 -376.38
+        481.54 -588.98
+    endline
+    line survey
+        1957.92 -588.98
+        481.54 -588.98
+    endline
+    line survey
+        3394.93 -588.98
+        1957.92 -588.98
+    endline
+    line survey
+        3976.77 -433.07
+        3394.93 -588.98
+    endline
+    line survey
+        4195.09 -402.36
+        3976.77 -433.07
+    endline
+    line survey
+        481.54 -588.98
+        -357.04 -588.98
+    endline
+    line survey
+        -357.04 -588.98
+        -1459.87 -293.70
+    endline
+    line survey
+        -1459.87 -293.70
+        -2443.97 -310.63
+    endline
+    line survey
+        -2443.97 -310.63
+        -3296.95 -160.24
+    endline
+    line survey
+        -3296.95 -160.24
+        -3974.90 155.91
+    endline
+    line survey
+        -3974.90 155.91
+        -4725.00 588.98
+    endline
+
+
+    point 4725.00 -309.84 station -name 0
+    point 4305.04 -376.38 station -name 1
+    point 2505.83 -376.38 station -name 2
+    point 481.54 -588.98 station -name 3
+    point 1957.92 -588.98 station -name 10
+    point 3394.93 -588.98 station -name 11
+    point 3976.77 -433.07 station -name 12
+    point 4195.09 -402.36 station -name 13
+    point -357.04 -588.98 station -name 4
+    point -1459.87 -293.70 station -name 5
+    point -2443.97 -310.63 station -name 6
+    point -3296.95 -160.24 station -name 7
+    point -3974.90 155.91 station -name 8
+    point -4725.00 588.98 station -name 9
+endscrap
+
+scrap Cueva10H10-1e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
+
+point 4725.00 -309.84 station-name -align tr -scale xs -text 0
+point 4305.04 -376.38 station-name -align tr -scale xs -text 1
+point 2505.83 -376.38 station-name -align tr -scale xs -text 2
+point 481.54 -588.98 station-name -align tr -scale xs -text 3
+point 1957.92 -588.98 station-name -align tr -scale xs -text 10
+point 3394.93 -588.98 station-name -align tr -scale xs -text 11
+point 3976.77 -433.07 station-name -align tr -scale xs -text 12
+point 4195.09 -402.36 station-name -align tr -scale xs -text 13
+point -357.04 -588.98 station-name -align tr -scale xs -text 4
+point -1459.87 -293.70 station-name -align tr -scale xs -text 5
+point -2443.97 -310.63 station-name -align tr -scale xs -text 6
+point -3296.95 -160.24 station-name -align tr -scale xs -text 7
+point -3974.90 155.91 station-name -align tr -scale xs -text 8
+point -4725.00 588.98 station-name -align tr -scale xs -text 9
+
+    point 4725.00 -309.84 station -name 0
+    point 4305.04 -376.38 station -name 1
+    point 2505.83 -376.38 station -name 2
+    point 481.54 -588.98 station -name 3
+    point 1957.92 -588.98 station -name 10
+    point 3394.93 -588.98 station -name 11
+    point 3976.77 -433.07 station -name 12
+    point 4195.09 -402.36 station -name 13
+    point -357.04 -588.98 station -name 4
+    point -1459.87 -293.70 station -name 5
+    point -2443.97 -310.63 station -name 6
+    point -3296.95 -160.24 station -name 7
+    point -3974.90 155.91 station -name 8
+    point -4725.00 588.98 station -name 9
+endscrap
+
+scrap DELETE-ME-survey-legs-DUPLICATE_Cueva10H10-e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
+    line survey
+        4725.00 -309.84
+        4305.04 -376.38
+    endline
+    line survey
+        4305.04 -376.38
+        2505.83 -376.38
+    endline
+    line survey
+        2505.83 -376.38
+        481.54 -588.98
+    endline
+    line survey
+        1957.92 -588.98
+        481.54 -588.98
+    endline
+    line survey
+        3394.93 -588.98
+        1957.92 -588.98
+    endline
+    line survey
+        3976.77 -433.07
+        3394.93 -588.98
+    endline
+    line survey
+        4195.09 -402.36
+        3976.77 -433.07
+    endline
+    line survey
+        481.54 -588.98
+        -357.04 -588.98
+    endline
+    line survey
+        -357.04 -588.98
+        -1459.87 -293.70
+    endline
+    line survey
+        -1459.87 -293.70
+        -2443.97 -310.63
+    endline
+    line survey
+        -2443.97 -310.63
+        -3296.95 -160.24
+    endline
+    line survey
+        -3296.95 -160.24
+        -3974.90 155.91
+    endline
+    line survey
+        -3974.90 155.91
+        -4725.00 588.98
+    endline
+    point 4725.00 -309.84 station-name -align tr -scale xs -text 0
+    point 4305.04 -376.38 station-name -align tr -scale xs -text 1
+    point 2505.83 -376.38 station-name -align tr -scale xs -text 2
+    point 481.54 -588.98 station-name -align tr -scale xs -text 3
+    point 1957.92 -588.98 station-name -align tr -scale xs -text 10
+    point 3394.93 -588.98 station-name -align tr -scale xs -text 11
+    point 3976.77 -433.07 station-name -align tr -scale xs -text 12
+    point 4195.09 -402.36 station-name -align tr -scale xs -text 13
+    point -357.04 -588.98 station-name -align tr -scale xs -text 4
+    point -1459.87 -293.70 station-name -align tr -scale xs -text 5
+    point -2443.97 -310.63 station-name -align tr -scale xs -text 6
+    point -3296.95 -160.24 station-name -align tr -scale xs -text 7
+    point -3974.90 155.91 station-name -align tr -scale xs -text 8
+    point -4725.00 588.98 station-name -align tr -scale xs -text 9
+endscrap
+
+scrap DUPLICATE_Cueva10H10-1e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
+    point 4725.00 -309.84 station -name 0
+    point 4305.04 -376.38 station -name 1
+    point 2505.83 -376.38 station -name 2
+    point 481.54 -588.98 station -name 3
+    point 1957.92 -588.98 station -name 10
+    point 3394.93 -588.98 station -name 11
+    point 3976.77 -433.07 station -name 12
+    point 4195.09 -402.36 station -name 13
+    point -357.04 -588.98 station -name 4
+    point -1459.87 -293.70 station -name 5
+    point -2443.97 -310.63 station -name 6
+    point -3296.95 -160.24 station -name 7
+    point -3974.90 155.91 station -name 8
+    point -4725.00 588.98 station -name 9
+endscrap

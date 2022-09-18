@@ -25,11 +25,12 @@ survey 107 -title "107 Barros Luco"
     equate ENT_107002 0@BahiaBlanca
 
     fix ENT_107003	478906	4446437	0
-  	station	 ENT_107003	"Deux grottes (double entree)"
+  	#station	 ENT_107003	"Deux grottes (double entree)"
+    #equate ENT_107003 0@PuntaBlanca
 
     fix ENT_107004	482761	4445427	0
-    station ENT_107004 "Chattière qui Buffle"
-    equate ENT_107004 0@ChattiereQuiBuffle
+    #station ENT_107004 "Chattière qui Buffle"
+    #equate ENT_107004 0@ChattiereQuiBuffle
 
     fix ENT_107005	479065	4447905	436.0
   	station	 ENT_107005	"Gouffre de la grotte"
@@ -101,7 +102,7 @@ survey 107 -title "107 Barros Luco"
 
     fix ENT_107025	478700	4446570	0.0
     station ENT_107025 "Résurgence Hongo"
-    equate ENT_107025 1@ResurgenceHongo
+    equate ENT_107025 53@ResurgenceHongo
 
     fix ENT_107026	477817	4446753	60.0
   	station	 ENT_107026	"PN01"
@@ -120,8 +121,20 @@ survey 107 -title "107 Barros Luco"
     station ENT_107030 "Cueva Cascada"
 
     fix ENT_107031	478574	4446622	50
-    station ENT_107031 "Punta Blanca"
-    equate ENT_107031 0@PuntaBlanca
+    #station ENT_107031 "Punta Blanca"
+    #equate ENT_107031 0@PuntaBlanca
+
+
+    equate 1@ResurgenceHongo	21b@ChattiereQuiBuffle
+    equate 4003@PuntaBlanca MPH25@ChattiereQuiBuffle
+
+
+
 
   endcentreline
+
+  map m-PuntaBlanca-p -projection plan
+    m-tout-p@PuntaBlanca
+    m-tout-p@ResurgenceHongo
+  endmap
 endsurvey
