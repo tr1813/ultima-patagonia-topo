@@ -7,7 +7,13 @@ layout custom_areas
 		# blueish water area
 		def a_water_MY (expr p) =
 			T:=identity;
-			thfill p withcolor (0.1,0.1,0.25);
+			thfill p withcolor (66/255,135/255,245/255);
+		enddef;
+
+		# darker blue sump area
+		def a_sump_MY (expr p) =
+			T:=identity;
+			thfill p withcolor (2/255,95/255,225/255);
 		enddef;
 
 		# define an ice pattern
@@ -151,6 +157,7 @@ layout custom_areas
 		initsymbol("a_snow_MY");
 		initsymbol("a_ice_MY");
 		initsymbol("a_water_MY");
+		initsymbol("a_sump_MY");
 		initsymbol("a_clay_MY");
 		initsymbol("a_sand_MY");
 		initsymbol("a_pebbles_MY");

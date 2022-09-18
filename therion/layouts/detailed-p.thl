@@ -35,8 +35,8 @@ layout detailed-p
   symbol-assign area snow MY
 
   symbol-colour area ice [0 70 90]
-  symbol-colour area water [0 10 70]
-  symbol-colour area sump [0 10 70]
+  symbol-assign area water MY
+  symbol-assign area sump MY
   symbol-colour point water-flow [0 10 70]
 
   ## formations
