@@ -1,4 +1,4 @@
-,NomComplet,NomCadastre,Commentaire,X_UTM18S,Y_UTM18S,Z,Dévelopement,Dénivellé,Explorateurs,UP
+CadNum,NomComplet,NomCadastre,Commentaire,X_UTM18S,Y_UTM18S,Z,Dévelopement,Dénivellé,Explorateurs,UP
 ENTREE,,,,,,,,,,
 ENT_101001,Abri,Abri2,Occupation humaine,476162.0,4461336.0,2,,,,2008
 ENT_102001,Porche,Porche,3 entrées,476260.0,4449342.0,30,,,,2008
@@ -68,7 +68,7 @@ ENT_108007,Sumidero,Sumidero,Perte active mais dans doline bouchée par éboulem
 ENT_108008,Utero de la Madre,Utero de la Madre,"Descendu sans corde jusqu'au siphon, beaux volumes, rivière active ; traces des inventeurs retrouvées ; shunt possible du siphon par escalade de 4m dans une galerie sup. ",484956.0,4448483.0,220,770.0,xxx 182,,2017
 ENT_108009,Sumidero,Sumidero,"Beau porche, bouché par effondrement plafond à quelques mètres de l'entrée, aller voir derrière par le dessus des calcaires. ",485157.0,4448585.0,225,,?,,2017
 ENT_108010,Sumidero,Sumidero,Petite perte étroite explorée sur quelques mètres; impénétrable,485495.0,4447616.0,317,,?,,2017
-ENT_108011,agujero,agujero,"Gouffre bordure SE scandinavie, P15 d'entrée, ruissellements", non descendu",486016.0,4447774.0,290,,,,2017
+ENT_108011,agujero,agujero,"Gouffre bordure SE scandinavie, P15 d'entrée, ruissellements, non descendu",486016.0,4447774.0,290,,,,2017
 ENT_108012,agujero,agujero,"Gouffre bordure SETube à 45° de 2m de diamètre non descendu" ; ,483835.0,4446220.0,417,,,,2017
 ENT_108013,Gouffre de l'Arche,GouffreDeLArche,,486742.0,4448369.0,15,,15,,2019
 ENT_109001,Grotte des 3 Porches,TroisPorches,Arrêt sur puits,485618.0,4444774.0,60,280.0,-32-+17,,2008
