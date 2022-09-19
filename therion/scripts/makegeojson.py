@@ -43,7 +43,6 @@ def findSurvey(CAD_NUM):
     try:
         SURVEY_ADDRESS = database[[(CAD_NUM in value) for value in database['From'].values]]['To'].values[0]
         SURVEY = SURVEY_ADDRESS.split('@')[1].split('.')[-1]
-        print(SURVEY)
     except IndexError:
         SURVEY = "NaN"
     return SURVEY
@@ -87,9 +86,9 @@ def getDepthLength(CAD_NUM):
 database =  pd.read_csv('../data/gis/database.csv')
 
 # read the synthesis
-DATA = pd.read_csv('../data/BROUILLON_cadastre/UP_MDD_DDA_Temp_synthese_Cavites_NumCad.csv')
+SYNTHESE = pd.read_csv('../data/SYNTHESE_POINTAGES.csv')
 
-SYNTHESE = DATA[['CAD_NUM','NomCadastre','Alt.','Dev. Topo','Prof.','UP','Explorateurs']]
+#SYNTHESE = DATA[['CAD_NUM','NomCadastre','Alt.','Dev. Topo','Prof.','UP','Explorateurs']]
 
 
 reader = shapefile.Reader("../data/gis/stations3d.shp")
@@ -104,25 +103,26 @@ for sr in reader.shapeRecords():
     if 'ENT' in atr['_NAME']:
 
         try:
-            vals = (SYNTHESE[SYNTHESE['CAD_NUM'] == atr['_NAME']].values[0])
+            vals = (SYNTHESE[SYNTHESE['CadNum'] == atr['_NAME']].values[0])
+            print(vals)
             LENGTH,DEPTH = getDepthLength(atr['_NAME'])
             if LENGTH != 'NaN':
                 atr['_LENGTH'] = "{:.0f}".format(LENGTH)
                 atr['_DEPTH'] = "{:.0f}".format(DEPTH)
             else:
-                atr['_LENGTH'] = str(vals[3])
-                atr['_DEPTH'] = str(vals[4])
+                atr['_LENGTH'] = str(vals[7])
+                atr['_DEPTH'] = str(vals[8])
 
             ROOT  = 'https://tr1813.github.io/ultima-patagonia-topo/therion/data/'
-            CAVE_URL = ROOT+vals[0].strip('ENT_')[:3]+'/'+vals[1]+'/'+vals[1]+'.html'
+            CAVE_URL = ROOT+vals[0].strip('ENT_')[:3]+'/'+vals[2]+'/'+vals[2]+'.html'
             print(CAVE_URL)
             atr['_CAD_NUM'] = vals[0].strip('ENT_')
             atr['_CAVENAME'] = vals[1]
-            atr['_ALTITUDE'] = str(vals[2])
-            atr['_EXPED'] = vals[5]
-            atr['_EXPLORATEURS'] = str(vals[6])
+            atr['_ALTITUDE'] = str(vals[6])
+            atr['_EXPED'] = vals[10]
+            atr['_EXPLORATEURS'] = str(vals[9])
             atr['_URL'] = "{}".format(CAVE_URL)
-        except IndexError:
+        except (IndexError,TypeError):
             atr['_CAD_NUM'] = atr['_NAME'].strip('ENT_')
             atr['_CAVENAME'] = 'not known'
             atr['_LENGTH'] = "not known"
@@ -147,6 +147,8 @@ geojson = open("../data/gis/points_fixes.js", "w")
 geojson.write("var pointsFixes = \n")
 geojson.write(dumps({"type": "FeatureCollection", "features": POINTS_FIXES}, indent=2) + "\n")
 geojson.close()
+
+
 
 reader = shapefile.Reader("../data/gis/shots3d.shp")
 fields = reader.fields[1:]
@@ -173,4 +175,50 @@ print(SURVEY_LINES)
 geojson = open("../data/gis/lines2D.js", "w")
 geojson.write("var lines2D = \n")
 geojson.write(dumps({"type": "FeatureCollection", "features": SURVEY_LINES}, indent=2) + "\n")
+geojson.close()
+
+reader = shapefile.Reader("../data/gis/outline2d.shp")
+fields = reader.fields[1:]
+#print(fields)
+field_names = [field[0] for field in fields]
+OUTLINES = []
+
+for sr in reader.shapeRecords():
+    atr = dict(zip(field_names, sr.record))
+    try:
+        #print(sr.shape.__geo_interface__)
+        geom = sr.shape.__geo_interface__
+
+        polygons = geom['coordinates']
+        newpolygons = []
+        for polygon in polygons:
+            newnodes = []
+
+            for node in polygon:
+                print(len(node))
+                if len(node) > 2:
+                    newsubnodes = []
+                    for subnode in node:
+                        x2,y2 = transformer.transform(subnode[0],subnode[1])
+
+                        newsubnodes.append((y2,x2))
+                    newnodes.append(newsubnodes)
+                else:
+                    x2,y2 = transformer.transform(node[0],node[1])
+
+                    newnodes.append((y2,x2))
+            newpolygons.append(newnodes)
+
+        geom['coordinates'] =  newpolygons
+
+        OUTLINES.append(dict(type="Feature", geometry=geom, properties=atr))
+    except ValueError:
+        print("possibly an empty polygon")
+
+
+print(OUTLINES)
+
+geojson = open("../data/gis/outlines2D.js", "w")
+geojson.write("var outlines2D = \n")
+geojson.write(dumps({"type": "FeatureCollection", "features": OUTLINES}, indent=2) + "\n")
 geojson.close()
