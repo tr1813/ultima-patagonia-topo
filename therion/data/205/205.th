@@ -43,13 +43,13 @@ survey 205 -title "205 Baleine"
  	station	 ENT_205006	"Cueva Ardilla"
 
   fix ENT_205007	472620	4429466	237.0
- 	station	 ENT_205007	"Pozo en Bosque"
+ 	station	 ENT_205007	"Sou 30 / Pozo en Bosque"
 
   fix ENT_205008	472373	4429958	300.0
- 	station	 ENT_205008	"Pozo 2 en Caliza"
+ 	station	 ENT_205008	"Sou 33 / Pozo 2 en Caliza"
 
   fix ENT_205009	472414	4429499	281.0
- 	station	 ENT_205009	"Pozo 1 en Caliza"
+ 	station	 ENT_205009	"Sou 31 / Pozo 1 en Caliza"
 
   fix ENT_205010	472798	4429403	260.0
  	station	 ENT_205010	"MD/SOU01"
@@ -118,26 +118,17 @@ survey 205 -title "205 Baleine"
   station ENT_205031 "Grotte de l'Audeline"
   equate ENT_205031 0@GrotteAudeline
 
-  fix ENT_205032	472373	4429958	301.0
- 	station	 ENT_205032	"Sou33"
+  fix ENT_205032	471623	4430070	388.0
+ 	station	 ENT_205032	"Porche"
 
-  fix ENT_205033	472620	4429466	237.0
- 	station	 ENT_205033	"Sou30"
+  fix ENT_205033	471645	4430061	360.0
+ 	station	 ENT_205033	"Aven"
 
-  fix ENT_205034	472414	4429499	281.0
- 	station	 ENT_205034	"Sou31"
+  fix ENT_205034	471621	4429939	423.0
+ 	station	 ENT_205034	"Grotte Sueno"
 
-  fix ENT_205035	471623	4430070	388.0
- 	station	 ENT_205035	"Porche"
-
-  fix ENT_205036	471645	4430061	360.0
- 	station	 ENT_205036	"Aven"
-
-  fix ENT_205037	471621	4429939	423.0
- 	station	 ENT_205037	"Grotte Sueno"
-
-  fix ENT_205038 467673	4428748 6
-  station ENT_205038 "Porche de la Baleine"
+  fix ENT_205035 467673	4428748 6
+  station ENT_205035 "Porche de la Baleine"
 
   endcentreline
 endsurvey
