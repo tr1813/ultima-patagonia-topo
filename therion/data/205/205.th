@@ -6,7 +6,6 @@ survey 205 -title "205 Baleine"
   input AbriDuCerfeuil/AbriDuCerfeuil.th
   input CuevaLaBas/CuevaLaBas.th
   input CuevaArdilla/CuevaArdilla.th
-  input PozoEnBosque/PozoEnBosque.th
   input MD-SOU01/MD-SOU01.th
   input MD-SOU02/MD-SOU02.th
   input PerteInattendue/PerteInattendue.th
