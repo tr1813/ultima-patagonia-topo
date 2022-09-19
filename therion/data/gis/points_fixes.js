@@ -28,7 +28,7 @@ var pointsFixes =
         "_ALTITUDE": "2",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/101/Abri/Abri.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/101/Abri2/Abri2.html"
       }
     },
     {
@@ -86,7 +86,7 @@ var pointsFixes =
         "_ALTITUDE": "ca 50 m",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/102/Punta espolon/Punta espolon.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/102/PuntaEspolon/PuntaEspolon.html"
       }
     },
     {
@@ -115,7 +115,7 @@ var pointsFixes =
         "_ALTITUDE": "5",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/104/Abri/Abri.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/104/Abri1/Abri1.html"
       }
     },
     {
@@ -144,7 +144,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/104/Cueva Rien/Cueva Rien.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/104/CuevaRien/CuevaRien.html"
       }
     },
     {
@@ -173,7 +173,7 @@ var pointsFixes =
         "_ALTITUDE": "30",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/105/Cueva Rapido2/Cueva Rapido2.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/105/CuevaRapido2/CuevaRapido2.html"
       }
     },
     {
@@ -318,7 +318,7 @@ var pointsFixes =
         "_ALTITUDE": "20",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/Cueva Nutria/Cueva Nutria.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/CuevaNutria/CuevaNutria.html"
       }
     },
     {
@@ -724,7 +724,7 @@ var pointsFixes =
         "_ALTITUDE": "325",
         "_EXPED": "2006ITA",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/Los Tres Rios/Los Tres Rios.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/LosTresRios/LosTresRios.html"
       }
     },
     {
@@ -753,7 +753,7 @@ var pointsFixes =
         "_ALTITUDE": "187",
         "_EXPED": "2006ITA",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/ Cueva del Dragon/ Cueva del Dragon.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/CuevaDelDragon/CuevaDelDragon.html"
       }
     },
     {
@@ -782,7 +782,7 @@ var pointsFixes =
         "_ALTITUDE": "105",
         "_EXPED": "2008ENG",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/ Cueva del Zorro/ Cueva del Zorro.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/CuevaDelZorro/CuevaDelZorro.html"
       }
     },
     {
@@ -811,7 +811,7 @@ var pointsFixes =
         "_ALTITUDE": "40",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Cueva des los Pescadores/Cueva des los Pescadores.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CuevaDesLosPescadores/CuevaDesLosPescadores.html"
       }
     },
     {
@@ -840,7 +840,7 @@ var pointsFixes =
         "_ALTITUDE": "0",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/R\u00e9surgence XXX/R\u00e9surgence XXX.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/ResurgenceXXX/ResurgenceXXX.html"
       }
     },
     {
@@ -869,7 +869,7 @@ var pointsFixes =
         "_ALTITUDE": "?",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Deux grottes (double entree)/Deux grottes (double entree).html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/DeuxGrottes/DeuxGrottes.html"
       }
     },
     {
@@ -898,7 +898,7 @@ var pointsFixes =
         "_ALTITUDE": "?",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Chattiere qui buffle/Chattiere qui buffle.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/ChattiereQuiBuffle/ChattiereQuiBuffle.html"
       }
     },
     {
@@ -927,7 +927,7 @@ var pointsFixes =
         "_ALTITUDE": "436",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Gouffre de la grotte /Gouffre de la grotte .html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/GouffreDeLaGrotte/GouffreDeLaGrotte.html"
       }
     },
     {
@@ -956,7 +956,7 @@ var pointsFixes =
         "_ALTITUDE": "?",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Emergence des tuyaux ( rameur)/Emergence des tuyaux ( rameur).html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/EmergenceDesTuyaux/EmergenceDesTuyaux.html"
       }
     },
     {
@@ -985,7 +985,7 @@ var pointsFixes =
         "_ALTITUDE": "311",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Gouffre du camp du nid du condor/Gouffre du camp du nid du condor.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/GouffreDuCampDuNidDuCondor/GouffreDuCampDuNidDuCondor.html"
       }
     },
     {
@@ -1043,7 +1043,7 @@ var pointsFixes =
         "_ALTITUDE": "380",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Gouffre du Chameau/Gouffre du Chameau.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/GouffreChameau/GouffreChameau.html"
       }
     },
     {
@@ -1072,7 +1072,7 @@ var pointsFixes =
         "_ALTITUDE": "420",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/perte du Point G/perte du Point G.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/PerteDuPointG/PerteDuPointG.html"
       }
     },
     {
@@ -1101,7 +1101,7 @@ var pointsFixes =
         "_ALTITUDE": "39",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Cueva d'el cabo vertical/Cueva d'el cabo vertical.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CuevaCaboVertical/CuevaCaboVertical.html"
       }
     },
     {
@@ -1130,7 +1130,7 @@ var pointsFixes =
         "_ALTITUDE": "25 (estimation)",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Porche de la coul\u00e9e blanche/Porche de la coul\u00e9e blanche.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CouleeBlanche/CouleeBlanche.html"
       }
     },
     {
@@ -1159,7 +1159,7 @@ var pointsFixes =
         "_ALTITUDE": "106, donn\u00e9e GPS surestim\u00e9e",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Grotte des Canelures/Grotte des Canelures.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/GrotteDesCanelures/GrotteDesCanelures.html"
       }
     },
     {
@@ -1188,7 +1188,7 @@ var pointsFixes =
         "_ALTITUDE": "ca 50 m",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Las Duchas de San Pedro/Las Duchas de San Pedro.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/DuchasDeSanPedro/DuchasDeSanPedro.html"
       }
     },
     {
@@ -1217,7 +1217,7 @@ var pointsFixes =
         "_ALTITUDE": "411",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/\u00c9t\u00e9 austral /\u00c9t\u00e9 austral .html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/EteAustral/EteAustral.html"
       }
     },
     {
@@ -1246,7 +1246,7 @@ var pointsFixes =
         "_ALTITUDE": "429",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Trou du carnet /Trou du carnet .html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/TrouDuCarnet/TrouDuCarnet.html"
       }
     },
     {
@@ -1333,7 +1333,7 @@ var pointsFixes =
         "_ALTITUDE": "347",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Gouffre du casque/Gouffre du casque.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/GouffreCasque/GouffreCasque.html"
       }
     },
     {
@@ -1362,7 +1362,7 @@ var pointsFixes =
         "_ALTITUDE": "387",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CN 16-02-1/CN 16-02-1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CN16-02-1/CN16-02-1.html"
       }
     },
     {
@@ -1391,7 +1391,7 @@ var pointsFixes =
         "_ALTITUDE": "387",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CN 16-02-2/CN 16-02-2.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CN16-02-2/CN16-02-2.html"
       }
     },
     {
@@ -1420,7 +1420,7 @@ var pointsFixes =
         "_ALTITUDE": "384",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Madame Caf\u00e9/Madame Caf\u00e9.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/MadameCafe/MadameCafe.html"
       }
     },
     {
@@ -1449,7 +1449,7 @@ var pointsFixes =
         "_ALTITUDE": "405",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CN 16-02-4/CN 16-02-4.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CN16-02-4/CN16-02-4.html"
       }
     },
     {
@@ -1478,7 +1478,7 @@ var pointsFixes =
         "_ALTITUDE": "383",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CN 16-02-5/CN 16-02-5.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CN16-02-5/CN16-02-5.html"
       }
     },
     {
@@ -1594,7 +1594,7 @@ var pointsFixes =
         "_ALTITUDE": "369",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Gouffre Jackpot/Gouffre Jackpot.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/GouffreJackpot/GouffreJackpot.html"
       }
     },
     {
@@ -1623,7 +1623,7 @@ var pointsFixes =
         "_ALTITUDE": "362",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/PC4 - Perte Cirque 4/PC4 - Perte Cirque 4.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/PerteCirque4/PerteCirque4.html"
       }
     },
     {
@@ -1652,7 +1652,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Cueva Cascada/Cueva Cascada.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CuevaCascada/CuevaCascada.html"
       }
     },
     {
@@ -1681,7 +1681,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/Punta Blanca/Punta Blanca.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/PuntaBlanca/PuntaBlanca.html"
       }
     },
     {
@@ -1710,7 +1710,7 @@ var pointsFixes =
         "_ALTITUDE": "406",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/Ojo de la Madre/Ojo de la Madre.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/OjoDeLaMadre/OjoDeLaMadre.html"
       }
     },
     {
@@ -1739,7 +1739,7 @@ var pointsFixes =
         "_ALTITUDE": "365",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/Ombligo de la Madre/Ombligo de la Madre.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/OmbligoDeLaMadre/OmbligoDeLaMadre.html"
       }
     },
     {
@@ -1768,7 +1768,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/Sumidero /Sumidero .html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/Sumidero/Sumidero.html"
       }
     },
     {
@@ -1797,7 +1797,7 @@ var pointsFixes =
         "_ALTITUDE": "350",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/Gouffre Lagrimas/Gouffre Lagrimas.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/GouffreLagrimas/GouffreLagrimas.html"
       }
     },
     {
@@ -2058,7 +2058,7 @@ var pointsFixes =
         "_ALTITUDE": "15",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/Gouffre de l'Arche/Gouffre de l'Arche.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/GouffreDeLArche/GouffreDeLArche.html"
       }
     },
     {
@@ -2087,7 +2087,7 @@ var pointsFixes =
         "_ALTITUDE": "60",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Grotte des 3 Porches/Grotte des 3 Porches.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/TroisPorches/TroisPorches.html"
       }
     },
     {
@@ -2116,7 +2116,7 @@ var pointsFixes =
         "_ALTITUDE": "60",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Grotte des 3 Porches/Grotte des 3 Porches.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/TroisPorches/TroisPorches.html"
       }
     },
     {
@@ -2145,7 +2145,7 @@ var pointsFixes =
         "_ALTITUDE": "375",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Cueva Barachos/Cueva Barachos.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/CuevaBarachos/CuevaBarachos.html"
       }
     },
     {
@@ -2174,7 +2174,7 @@ var pointsFixes =
         "_ALTITUDE": "370",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Cueva Caliza/Cueva Caliza.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/CuevaCaliza/CuevaCaliza.html"
       }
     },
     {
@@ -2203,7 +2203,7 @@ var pointsFixes =
         "_ALTITUDE": "384",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/En desespoir de Cause/En desespoir de Cause.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/EnDesespoirDeCause/EnDesespoirDeCause.html"
       }
     },
     {
@@ -2261,7 +2261,7 @@ var pointsFixes =
         "_ALTITUDE": "278",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/petite Grotte/petite Grotte.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/PetiteGrotte/PetiteGrotte.html"
       }
     },
     {
@@ -2290,7 +2290,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Gouffre Halal/Gouffre Halal.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/GouffreHalal/GouffreHalal.html"
       }
     },
     {
@@ -2319,7 +2319,7 @@ var pointsFixes =
         "_ALTITUDE": "359",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Gouffre A l'A\u00efl/Gouffre A l'A\u00efl.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Gouffralail/Gouffralail.html"
       }
     },
     {
@@ -2348,7 +2348,7 @@ var pointsFixes =
         "_ALTITUDE": "319",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Gouffre Ma premi\u00e8re/Gouffre Ma premi\u00e8re.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/GouffreMaPremiere/GouffreMaPremiere.html"
       }
     },
     {
@@ -2377,7 +2377,7 @@ var pointsFixes =
         "_ALTITUDE": "319",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Gouffre La Grande Travers\u00e9e/Gouffre La Grande Travers\u00e9e.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/GrandeTraversee/GrandeTraversee.html"
       }
     },
     {
@@ -2406,7 +2406,7 @@ var pointsFixes =
         "_ALTITUDE": "388",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Cueva de la Merienda/Cueva de la Merienda.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/CuevaDeLaMerienda/CuevaDeLaMerienda.html"
       }
     },
     {
@@ -2435,7 +2435,7 @@ var pointsFixes =
         "_ALTITUDE": "300",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Gouffre des Gaug\u00e9s/Gouffre des Gaug\u00e9s.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Gauges/Gauges.html"
       }
     },
     {
@@ -2464,7 +2464,7 @@ var pointsFixes =
         "_ALTITUDE": "360",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Gouffre la Pissoti\u00e8re/Gouffre la Pissoti\u00e8re.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Pissotiere/Pissotiere.html"
       }
     },
     {
@@ -2493,7 +2493,7 @@ var pointsFixes =
         "_ALTITUDE": "53",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Grotte des trois entr\u00e9es plus une/Grotte des trois entr\u00e9es plus une.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/TroisEntreesPlusUne/TroisEntreesPlusUne.html"
       }
     },
     {
@@ -2522,7 +2522,7 @@ var pointsFixes =
         "_ALTITUDE": "36",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Gouffre de la Chatiere/Gouffre de la Chatiere.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/TrouDeLaChattiere/TrouDeLaChattiere.html"
       }
     },
     {
@@ -2551,7 +2551,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Resurgence de la Petite Chinoise/Resurgence de la Petite Chinoise.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/PetiteChinoise/PetiteChinoise.html"
       }
     },
     {
@@ -2580,7 +2580,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Paraiso de las duchas/Paraiso de las duchas.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/ParaisoDeLasDuchas/ParaisoDeLasDuchas.html"
       }
     },
     {
@@ -2638,7 +2638,7 @@ var pointsFixes =
         "_ALTITUDE": "0",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/R\u00e9surgence 2 du Canyon/R\u00e9surgence 2 du Canyon.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Resurgence2DuCanyon/Resurgence2DuCanyon.html"
       }
     },
     {
@@ -2754,7 +2754,7 @@ var pointsFixes =
         "_ALTITUDE": "273",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva 3/Cueva 3.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva3/Cueva3.html"
       }
     },
     {
@@ -2783,7 +2783,7 @@ var pointsFixes =
         "_ALTITUDE": "294",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva 7/Cueva 7.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva7/Cueva7.html"
       }
     },
     {
@@ -2812,7 +2812,7 @@ var pointsFixes =
         "_ALTITUDE": "290",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva 1/Cueva 1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva1/Cueva1.html"
       }
     },
     {
@@ -2841,7 +2841,7 @@ var pointsFixes =
         "_ALTITUDE": "338",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Serge-Jean Phi-C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva 11/Cueva 11.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva11/Cueva11.html"
       }
     },
     {
@@ -2870,7 +2870,7 @@ var pointsFixes =
         "_ALTITUDE": "340",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Vanessa-Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva du T\u00e9l\u00e9phone/Cueva du T\u00e9l\u00e9phone.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/CuevaDuTelephone/CuevaDuTelephone.html"
       }
     },
     {
@@ -2899,7 +2899,7 @@ var pointsFixes =
         "_ALTITUDE": "309",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva 8/Cueva 8.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva8/Cueva8.html"
       }
     },
     {
@@ -2928,7 +2928,7 @@ var pointsFixes =
         "_ALTITUDE": "492",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Buldo, Jos\u00e9, Jean Phi",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/cueva/cueva.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/cueva101/cueva101.html"
       }
     },
     {
@@ -2957,7 +2957,7 @@ var pointsFixes =
         "_ALTITUDE": "385",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4 Cueva 9/C4 Cueva 9.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4Cueva 9/C4Cueva 9.html"
       }
     },
     {
@@ -3015,7 +3015,7 @@ var pointsFixes =
         "_ALTITUDE": "526",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Buldo, Jos\u00e9, Jean phi",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/cueva/cueva.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/cueva102/cueva102.html"
       }
     },
     {
@@ -3044,7 +3044,7 @@ var pointsFixes =
         "_ALTITUDE": "469",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Buldo, Jos\u00e9, Jean Phi",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva/Cueva.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva104/Cueva104.html"
       }
     },
     {
@@ -3073,7 +3073,7 @@ var pointsFixes =
         "_ALTITUDE": "347",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva 10/Cueva 10.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva10/Cueva10.html"
       }
     },
     {
@@ -3131,7 +3131,7 @@ var pointsFixes =
         "_ALTITUDE": "268",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva 2/Cueva 2.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva2/Cueva2.html"
       }
     },
     {
@@ -3160,7 +3160,7 @@ var pointsFixes =
         "_ALTITUDE": "274",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9, Serge, Vanessa, Buldo, Jean Phi",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva/Cueva.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva105/Cueva105.html"
       }
     },
     {
@@ -3247,7 +3247,7 @@ var pointsFixes =
         "_ALTITUDE": "335",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Serge-Jean Phi-C\u00e9dric (porche)",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva 12/Cueva 12.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva12/Cueva12.html"
       }
     },
     {
@@ -3276,7 +3276,7 @@ var pointsFixes =
         "_ALTITUDE": "272",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva 5/Cueva 5.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva5/Cueva5.html"
       }
     },
     {
@@ -3305,7 +3305,7 @@ var pointsFixes =
         "_ALTITUDE": "8",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Serge-Jean Phi-C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva 13/Cueva 13.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva13/Cueva13.html"
       }
     },
     {
@@ -3363,7 +3363,7 @@ var pointsFixes =
         "_ALTITUDE": "9",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jean Phi-C\u00e9dric (os baleine+coquillages)",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Porche 2 Os de Baleine/Porche 2 Os de Baleine.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/PorcheBaleine/PorcheBaleine.html"
       }
     },
     {
@@ -3450,7 +3450,7 @@ var pointsFixes =
         "_ALTITUDE": "270",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva 4/Cueva 4.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva4/Cueva4.html"
       }
     },
     {
@@ -3537,7 +3537,7 @@ var pointsFixes =
         "_ALTITUDE": "306",
         "_EXPED": "2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4 Cueva 6/C4 Cueva 6.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4Cueva6/C4Cueva6.html"
       }
     },
     {
@@ -3595,7 +3595,7 @@ var pointsFixes =
         "_ALTITUDE": "397",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Cedric-Vanessa-Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva de la casquette/Cueva de la casquette.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/CuevaDeLaCasquette/CuevaDeLaCasquette.html"
       }
     },
     {
@@ -3624,7 +3624,7 @@ var pointsFixes =
         "_ALTITUDE": "382",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Cedric-Vanessa-Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Trou de la Plaquette/Trou de la Plaquette.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/TrouDeLaPlaquette/TrouDeLaPlaquette.html"
       }
     },
     {
@@ -3653,7 +3653,7 @@ var pointsFixes =
         "_ALTITUDE": "389",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4 Nfissure 0/C4 Nfissure 0.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4Nfissure0/C4Nfissure0.html"
       }
     },
     {
@@ -3682,7 +3682,7 @@ var pointsFixes =
         "_ALTITUDE": "361",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4 SansNom 8/C4 SansNom 8.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4SansNom8/C4SansNom8.html"
       }
     },
     {
@@ -3711,7 +3711,7 @@ var pointsFixes =
         "_ALTITUDE": "347",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4 SansNom 7/C4 SansNom 7.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4SansNom7/C4SansNom7.html"
       }
     },
     {
@@ -3740,7 +3740,7 @@ var pointsFixes =
         "_ALTITUDE": "342",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4 SansNom 6/C4 SansNom 6.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4SansNom6/C4SansNom6.html"
       }
     },
     {
@@ -3769,7 +3769,7 @@ var pointsFixes =
         "_ALTITUDE": "338",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Cedric-Jose-JeanPhilippe-Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Porche du Sonnar/Porche du Sonnar.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/PorcheDuSonnar/PorcheDuSonnar.html"
       }
     },
     {
@@ -3798,7 +3798,7 @@ var pointsFixes =
         "_ALTITUDE": "403",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4 SansNom 1/C4 SansNom 1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4SansNom1/C4SansNom1.html"
       }
     },
     {
@@ -3827,7 +3827,7 @@ var pointsFixes =
         "_ALTITUDE": "312",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4 SansNom 4/C4 SansNom 4.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4SansNom4/C4SansNom4.html"
       }
     },
     {
@@ -3856,7 +3856,7 @@ var pointsFixes =
         "_ALTITUDE": "313",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Cedric-Jose-JeanPhilippe-Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Gouffre du Colibri/Gouffre du Colibri.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GouffreDuColibri/GouffreDuColibri.html"
       }
     },
     {
@@ -3885,7 +3885,7 @@ var pointsFixes =
         "_ALTITUDE": "307",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4 SansNom 3/C4 SansNom 3.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4SansNom3/C4SansNom3.html"
       }
     },
     {
@@ -4088,7 +4088,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Perte 3/Perte 3.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Perte3/Perte3.html"
       }
     },
     {
@@ -4204,7 +4204,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Perte 2/Perte 2.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Perte2/Perte2.html"
       }
     },
     {
@@ -4233,7 +4233,7 @@ var pointsFixes =
         "_ALTITUDE": "303",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB Trou 1/GB Trou 1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GBTrou1/GBTrou1.html"
       }
     },
     {
@@ -4262,7 +4262,7 @@ var pointsFixes =
         "_ALTITUDE": "306",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB Trou 2/GB Trou 2.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GBTrou2/GBTrou2.html"
       }
     },
     {
@@ -4291,7 +4291,7 @@ var pointsFixes =
         "_ALTITUDE": "329",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB Trou 3/GB Trou 3.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GBTrou3/GBTrou3.html"
       }
     },
     {
@@ -4349,7 +4349,7 @@ var pointsFixes =
         "_ALTITUDE": "?",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Gouffre du Totem/Gouffre du Totem.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GouffreDuTotem/GouffreDuTotem.html"
       }
     },
     {
@@ -4378,7 +4378,7 @@ var pointsFixes =
         "_ALTITUDE": "292",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Ayay\u00e9mal/Ayay\u00e9mal.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Ayayemal/Ayayemal.html"
       }
     },
     {
@@ -4407,7 +4407,7 @@ var pointsFixes =
         "_ALTITUDE": "314",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Ayay\u00e9bo/Ayay\u00e9bo.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Ayayebo/Ayayebo.html"
       }
     },
     {
@@ -4436,7 +4436,7 @@ var pointsFixes =
         "_ALTITUDE": "344",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB1 bis/GB1 bis.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB1bis/GB1bis.html"
       }
     },
     {
@@ -4465,7 +4465,7 @@ var pointsFixes =
         "_ALTITUDE": "364",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Gouffre /Gouffre .html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Gouffre2/Gouffre2.html"
       }
     },
     {
@@ -4581,7 +4581,7 @@ var pointsFixes =
         "_ALTITUDE": "380",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB 07 02-1/GB 07 02-1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB-07-02-1/GB-07-02-1.html"
       }
     },
     {
@@ -4610,7 +4610,7 @@ var pointsFixes =
         "_ALTITUDE": "382",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB 07 02-2/GB 07 02-2.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB-07-02-2/GB-07-02-2.html"
       }
     },
     {
@@ -4639,7 +4639,7 @@ var pointsFixes =
         "_ALTITUDE": "295",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB 07 02-3/GB 07 02-3.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB-07-02-3/GB-07-02-3.html"
       }
     },
     {
@@ -4726,7 +4726,7 @@ var pointsFixes =
         "_ALTITUDE": "316",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Gouffre du Ziploc/Gouffre du Ziploc.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GouffreDuZiploc/GouffreDuZiploc.html"
       }
     },
     {
@@ -4755,7 +4755,7 @@ var pointsFixes =
         "_ALTITUDE": "29",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva Harrico/Cueva Harrico.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/CuevaHarrico/CuevaHarrico.html"
       }
     },
     {
@@ -4784,7 +4784,7 @@ var pointsFixes =
         "_ALTITUDE": "285",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Sumidero del Chorizo Plastico/Sumidero del Chorizo Plastico.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/SumideroDelChorizoPlastico/SumideroDelChorizoPlastico.html"
       }
     },
     {
@@ -4900,7 +4900,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4 SansNom 10/C4 SansNom 10.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4SansNom10/C4SansNom10.html"
       }
     },
     {
@@ -4929,7 +4929,7 @@ var pointsFixes =
         "_ALTITUDE": "13",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jean Phi-C\u00e9dric (Plage Pacifique)",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Porche 1/Porche 1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Porche1/Porche1.html"
       }
     },
     {
@@ -4958,7 +4958,7 @@ var pointsFixes =
         "_ALTITUDE": "5",
         "_EXPED": "2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/202/grottes des dauphins/grottes des dauphins.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/202/GrotteDesDauphins/GrotteDesDauphins.html"
       }
     },
     {
@@ -4987,7 +4987,7 @@ var pointsFixes =
         "_ALTITUDE": "253",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jean-Francois H, Thomas, Florian, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/Perte du Coypo/Perte du Coypo.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/PerteDuCoypo/PerteDuCoypo.html"
       }
     },
     {
@@ -5016,7 +5016,7 @@ var pointsFixes =
         "_ALTITUDE": "258",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Isa, Florian, Thomas",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/Gouffre F\u00e9lin/Gouffre F\u00e9lin.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/GouffreFelin/GouffreFelin.html"
       }
     },
     {
@@ -5045,7 +5045,7 @@ var pointsFixes =
         "_ALTITUDE": "249",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/Puits du Bourdon/Puits du Bourdon.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/PuitsDuBourdon/PuitsDuBourdon.html"
       }
     },
     {
@@ -5074,7 +5074,7 @@ var pointsFixes =
         "_ALTITUDE": "252",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/Gros Trou/Gros Trou.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/GrosTrou/GrosTrou.html"
       }
     },
     {
@@ -5248,7 +5248,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/Porche 1/Porche 1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/Porche1/Porche1.html"
       }
     },
     {
@@ -5277,7 +5277,7 @@ var pointsFixes =
         "_ALTITUDE": "35",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/Abri du Gazon/Abri du Gazon.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/AbriDuGazon/AbriDuGazon.html"
       }
     },
     {
@@ -5306,7 +5306,7 @@ var pointsFixes =
         "_ALTITUDE": "0",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/Grotte du Nord/Grotte du Nord.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/GrotteDuNord/GrotteDuNord.html"
       }
     },
     {
@@ -5335,7 +5335,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/Gouffre de la Gazelle/Gouffre de la Gazelle.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/GouffreGazelle/GouffreGazelle.html"
       }
     },
     {
@@ -5364,7 +5364,7 @@ var pointsFixes =
         "_ALTITUDE": "74",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric, Vanessa, Bruno, Didier, Fabien, St\u00e9phane, Denis, Arnauld",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/Ev\u00eaque Cauchon/Ev\u00eaque Cauchon.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/EvequeCauchon/EvequeCauchon.html"
       }
     },
     {
@@ -5393,7 +5393,7 @@ var pointsFixes =
         "_ALTITUDE": "130",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Les doigts bleus",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/Grotte de la fausse Pucelle/Grotte de la fausse Pucelle.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/GrotteFaussePucelle/GrotteFaussePucelle.html"
       }
     },
     {
@@ -5422,7 +5422,7 @@ var pointsFixes =
         "_ALTITUDE": "153",
         "_EXPED": "2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/Grotte de l'Alouette/Grotte de l'Alouette.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/GouffreAlouette/GouffreAlouette.html"
       }
     },
     {
@@ -5451,7 +5451,7 @@ var pointsFixes =
         "_ALTITUDE": "316",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/Trou des Canelures/Trou des Canelures.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/TrouDesCanelures/TrouDesCanelures.html"
       }
     },
     {
@@ -5480,7 +5480,7 @@ var pointsFixes =
         "_ALTITUDE": "305",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Isa",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/Perte/Perte.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/Perte1/Perte1.html"
       }
     },
     {
@@ -5509,7 +5509,7 @@ var pointsFixes =
         "_ALTITUDE": "157",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Isa",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/Perte/Perte.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/Perte2/Perte2.html"
       }
     },
     {
@@ -5538,7 +5538,7 @@ var pointsFixes =
         "_ALTITUDE": "84",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/Grotte du Rapace/Grotte du Rapace.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/GrotteDuRapace/GrotteDuRapace.html"
       }
     },
     {
@@ -5567,7 +5567,7 @@ var pointsFixes =
         "_ALTITUDE": "50",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Isa, Florian, Thomas, Jean Francois H",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/Grotte de l'Oursin/Grotte de l'Oursin.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/GrotteDeLOursin/GrotteDeLOursin.html"
       }
     },
     {
@@ -5596,7 +5596,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Les doigts bleus",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/Grotte de la Cacahuete/Grotte de la Cacahuete.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/GrotteCacahuete/GrotteCacahuete.html"
       }
     },
     {
@@ -5625,7 +5625,7 @@ var pointsFixes =
         "_ALTITUDE": "2",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Abri Cotier/Abri Cotier.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/AbriCotier/AbriCotier.html"
       }
     },
     {
@@ -5654,7 +5654,7 @@ var pointsFixes =
         "_ALTITUDE": "183",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Abri du Cerfeuil/Abri du Cerfeuil.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/AbriDuCerfeuil/AbriDuCerfeuil.html"
       }
     },
     {
@@ -5683,7 +5683,7 @@ var pointsFixes =
         "_ALTITUDE": "270",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Cueva La-Bas/Cueva La-Bas.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/CuevaLaBas/CuevaLaBas.html"
       }
     },
     {
@@ -5712,7 +5712,7 @@ var pointsFixes =
         "_ALTITUDE": "250",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Perte des Dents/Perte des Dents.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/PerteDesDents/PerteDesDents.html"
       }
     },
     {
@@ -5741,7 +5741,7 @@ var pointsFixes =
         "_ALTITUDE": "233",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Sima Juanito/Sima Juanito.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/SumideroJuanito/SumideroJuanito.html"
       }
     },
     {
@@ -5770,7 +5770,7 @@ var pointsFixes =
         "_ALTITUDE": "245",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Cueva Ardilla/Cueva Ardilla.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/CuevaArdilla/CuevaArdilla.html"
       }
     },
     {
@@ -5799,7 +5799,7 @@ var pointsFixes =
         "_ALTITUDE": "237",
         "_EXPED": "2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Sou30 (pozo 1 en caliza)/Sou30 (pozo 1 en caliza).html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Sou30/Sou30.html"
       }
     },
     {
@@ -5944,7 +5944,7 @@ var pointsFixes =
         "_ALTITUDE": "294",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florence, Laurent, Jo, Olivier T, Thomas, C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Perte Inattendue/Perte Inattendue.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/PerteInattendue/PerteInattendue.html"
       }
     },
     {
@@ -5973,7 +5973,7 @@ var pointsFixes =
         "_ALTITUDE": "249",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Laurent C, Pierre",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/La Perte Ambr\u00e9e/La Perte Ambr\u00e9e.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/PerteAmbree/PerteAmbree.html"
       }
     },
     {
@@ -6031,7 +6031,7 @@ var pointsFixes =
         "_ALTITUDE": "309",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Laurent M",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/perte-faille/perte-faille.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/PerteFaille/PerteFaille.html"
       }
     },
     {
@@ -6205,7 +6205,7 @@ var pointsFixes =
         "_ALTITUDE": "207",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Sylvain, C\u00e9dric, Jos\u00e9, Olivier G, Isa, ",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Perte des 4 champi/Perte des 4 champi.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/PerteDesQuatreChampignons/PerteDesQuatreChampignons.html"
       }
     },
     {
@@ -6234,7 +6234,7 @@ var pointsFixes =
         "_ALTITUDE": "230",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian, Olivier G",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/James Bonde/James Bonde.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/JamesBonde/JamesBonde.html"
       }
     },
     {
@@ -6263,7 +6263,7 @@ var pointsFixes =
         "_ALTITUDE": "191",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier G, Sylvain",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Perte du Jump/Perte du Jump.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/PerteDuJump/PerteDuJump.html"
       }
     },
     {
@@ -6292,7 +6292,7 @@ var pointsFixes =
         "_ALTITUDE": "190",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Faille du Coinceur/Faille du Coinceur.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/FailleDuCoinceur/FailleDuCoinceur.html"
       }
     },
     {
@@ -6321,7 +6321,7 @@ var pointsFixes =
         "_ALTITUDE": "200",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Igue du Plouc/Igue du Plouc.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/IgueDuPlouc/IgueDuPlouc.html"
       }
     },
     {
@@ -6350,7 +6350,7 @@ var pointsFixes =
         "_ALTITUDE": "170",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Cueva de la fin de Matinas/Cueva de la fin de Matinas.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/CuevaDeLaFinDeMatinas/CuevaDeLaFinDeMatinas.html"
       }
     },
     {
@@ -6379,7 +6379,7 @@ var pointsFixes =
         "_ALTITUDE": "1",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/L'Abri-g\u00eete/L'Abri-g\u00eete.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/AbriGite/AbriGite.html"
       }
     },
     {
@@ -6408,7 +6408,7 @@ var pointsFixes =
         "_ALTITUDE": "2",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Grotte du Sud/Grotte du Sud.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/GrotteDuSud/GrotteDuSud.html"
       }
     },
     {
@@ -6437,7 +6437,7 @@ var pointsFixes =
         "_ALTITUDE": "28",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Cueva de la Madre/Cueva de la Madre.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/CuevaDeLaMadre/CuevaDeLaMadre.html"
       }
     },
     {
@@ -6495,7 +6495,7 @@ var pointsFixes =
         "_ALTITUDE": "357",
         "_EXPED": "2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/porche jef = gr audeline/porche jef = gr audeline.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/GrotteAudeline/GrotteAudeline.html"
       }
     },
     {
@@ -6582,7 +6582,7 @@ var pointsFixes =
         "_ALTITUDE": "423",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jean Francois H, Thomas, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Grotte Sueno/Grotte Sueno.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/GrotteSueno/GrotteSueno.html"
       }
     },
     {
@@ -6640,7 +6640,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/Cueva Ayayema/Cueva Ayayema.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/CuevaAyayema/CuevaAyayema.html"
       }
     },
     {
@@ -6669,7 +6669,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/Grotte du Dyke/Grotte du Dyke.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/GrotteDuDyke/GrotteDuDyke.html"
       }
     },
     {
@@ -7887,7 +7887,7 @@ var pointsFixes =
         "_ALTITUDE": "0",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/R\u00e9surgence du Champignon/R\u00e9surgence du Champignon.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/ResurgenceDuChampignon/ResurgenceDuChampignon.html"
       }
     },
     {
@@ -7916,7 +7916,7 @@ var pointsFixes =
         "_ALTITUDE": "141",
         "_EXPED": "2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/207/ Gouffre du petit creux/ Gouffre du petit creux.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/207/GouffrePetitCreux/GouffrePetitCreux.html"
       }
     },
     {
@@ -7945,7 +7945,7 @@ var pointsFixes =
         "_ALTITUDE": "0",
         "_EXPED": "2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/207/Resurgence des Lobos/Resurgence des Lobos.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/207/ResurgenceLobos/ResurgenceLobos.html"
       }
     },
     {
@@ -7974,7 +7974,7 @@ var pointsFixes =
         "_ALTITUDE": "80",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/208/Cueva 10H10/Cueva 10H10.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/208/Cueva10H10/Cueva10H10.html"
       }
     },
     {
@@ -8032,7 +8032,7 @@ var pointsFixes =
         "_ALTITUDE": "20",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/208/Grotte 20 plage de la Baleine/Grotte 20 plage de la Baleine.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/208/Grotte20PlageDeLaBaleine/Grotte20PlageDeLaBaleine.html"
       }
     },
     {
@@ -8119,7 +8119,7 @@ var pointsFixes =
         "_ALTITUDE": "215",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Grotte du Plein Cintre/Grotte du Plein Cintre.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PleinCintre/PleinCintre.html"
       }
     },
     {
@@ -8148,7 +8148,7 @@ var pointsFixes =
         "_ALTITUDE": "436",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Emergence du Barillet/Emergence du Barillet.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/EmergenceBarillet/EmergenceBarillet.html"
       }
     },
     {
@@ -8177,7 +8177,7 @@ var pointsFixes =
         "_ALTITUDE": "428",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Gouffre de la Gachette/Gouffre de la Gachette.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/GouffreDeLaGachette/GouffreDeLaGachette.html"
       }
     },
     {
@@ -8264,7 +8264,7 @@ var pointsFixes =
         "_ALTITUDE": "3",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/R\u00e9surgence de la plage/R\u00e9surgence de la plage.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/ResurgenceDeLaPlage/ResurgenceDeLaPlage.html"
       }
     },
     {
@@ -8293,7 +8293,7 @@ var pointsFixes =
         "_ALTITUDE": "195",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Grotte de l'Evier/Grotte de l'Evier.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/GrotteEvier/GrotteEvier.html"
       }
     },
     {
@@ -8322,7 +8322,7 @@ var pointsFixes =
         "_ALTITUDE": "154",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Cueva Gringa/Cueva Gringa.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CuevaGringa/CuevaGringa.html"
       }
     },
     {
@@ -8351,7 +8351,7 @@ var pointsFixes =
         "_ALTITUDE": "250",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Doline Calafate/Doline Calafate.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/DolineCalafate/DolineCalafate.html"
       }
     },
     {
@@ -8380,7 +8380,7 @@ var pointsFixes =
         "_ALTITUDE": "445",
         "_EXPED": "2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Gouffre de la D\u00e9tente/Gouffre de la D\u00e9tente.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/GouffreDeLaDetente/GouffreDeLaDetente.html"
       }
     },
     {
@@ -8467,7 +8467,7 @@ var pointsFixes =
         "_ALTITUDE": "505",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Jos\u00e9, Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Gouffre du Kit/Gouffre du Kit.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/GouffreDuKit/GouffreDuKit.html"
       }
     },
     {
@@ -8496,7 +8496,7 @@ var pointsFixes =
         "_ALTITUDE": "412",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jean Francois H, Didier, Laurent M, Florence, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Gouffre Cumple Anos/Gouffre Cumple Anos.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/GouffreCumpleAnos/GouffreCumpleAnos.html"
       }
     },
     {
@@ -8525,7 +8525,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9, Isa, Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/La Marmotte/La Marmotte.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/LaMarmotte/LaMarmotte.html"
       }
     },
     {
@@ -8554,7 +8554,7 @@ var pointsFixes =
         "_ALTITUDE": "428",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Aven Kinka 4/Aven Kinka 4.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/AvenKinka4/AvenKinka4.html"
       }
     },
     {
@@ -8583,7 +8583,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Jos\u00e9",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Perte/Perte.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Perte3/Perte3.html"
       }
     },
     {
@@ -8612,7 +8612,7 @@ var pointsFixes =
         "_ALTITUDE": "413",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Jos\u00e9, Bruno, Fabien, Didier",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Aven Kinka 3/Aven Kinka 3.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/AvenKinka3/AvenKinka3.html"
       }
     },
     {
@@ -8728,7 +8728,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Jos\u00e9",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Gouffre/Gouffre.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Gouffre1/Gouffre1.html"
       }
     },
     {
@@ -8757,7 +8757,7 @@ var pointsFixes =
         "_ALTITUDE": "428",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Bruno, Didier, Jo, Fabien, Jos\u00e9",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Aven Kinka 2/Aven Kinka 2.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/AvenKinka2/AvenKinka2.html"
       }
     },
     {
@@ -8786,7 +8786,7 @@ var pointsFixes =
         "_ALTITUDE": "451",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Fabien, Didier",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Aven Kinka 1/Aven Kinka 1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/AvenKinka1/AvenKinka1.html"
       }
     },
     {
@@ -8902,7 +8902,7 @@ var pointsFixes =
         "_ALTITUDE": "359",
         "_EXPED": "2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Grand Aven-Perte/Grand Aven-Perte.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/GrandAvenPerte/GrandAvenPerte.html"
       }
     },
     {
@@ -8931,7 +8931,7 @@ var pointsFixes =
         "_ALTITUDE": "433",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Mulot",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/TROU A/TROU A.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/TROUA/TROUA.html"
       }
     },
     {
@@ -8960,7 +8960,7 @@ var pointsFixes =
         "_ALTITUDE": "347",
         "_EXPED": "2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Grande Doline-Perte/Grande Doline-Perte.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/GrandeDolinePerte/GrandeDolinePerte.html"
       }
     },
     {
@@ -9018,7 +9018,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Perte Coipo/Perte Coipo.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PerteCoipo/PerteCoipo.html"
       }
     },
     {
@@ -9076,7 +9076,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Cueva Sorry Topo/Cueva Sorry Topo.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CuevaSorryTopo/CuevaSorryTopo.html"
       }
     },
     {
@@ -9105,7 +9105,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Cueva De La Der/Cueva De La Der.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CuevaDeLaDer/CuevaDeLaDer.html"
       }
     },
     {
@@ -9134,7 +9134,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Trou Pres Du Camp/Trou Pres Du Camp.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/TrouPresDuCamp/TrouPresDuCamp.html"
       }
     },
     {
@@ -9163,7 +9163,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Cueva P03/Cueva P03.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CuevaP03/CuevaP03.html"
       }
     },
     {
@@ -9192,7 +9192,7 @@ var pointsFixes =
         "_ALTITUDE": "380",
         "_EXPED": "2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/ Pozo Al rato/ Pozo Al rato.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PozoAlRato/PozoAlRato.html"
       }
     },
     {
@@ -9221,7 +9221,7 @@ var pointsFixes =
         "_ALTITUDE": "386",
         "_EXPED": "2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/ Pozo de los Cinquetenos/ Pozo de los Cinquetenos.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PozoDeLosCinquetenos/PozoDeLosCinquetenos.html"
       }
     },
     {
@@ -9250,7 +9250,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/SoloNoSpit/SoloNoSpit.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Solo No Spit/Solo No Spit.html"
       }
     },
     {
@@ -9279,7 +9279,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Cueva Vers Le Bout Du Monde/Cueva Vers Le Bout Du Monde.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CuevaVersLeBoutDuMonde/CuevaVersLeBoutDuMonde.html"
       }
     },
     {
@@ -9308,7 +9308,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CuevaSalle/CuevaSalle.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Cueva Salle/Cueva Salle.html"
       }
     },
     {
@@ -9337,7 +9337,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PerteLesJumeaux/PerteLesJumeaux.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Perte Les Jumeaux/Perte Les Jumeaux.html"
       }
     },
     {
@@ -9366,7 +9366,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PuitsRBE01/PuitsRBE01.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Puits RBE01/Puits RBE01.html"
       }
     },
     {
@@ -9395,7 +9395,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PuitsRBE02/PuitsRBE02.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Puits RBE02/Puits RBE02.html"
       }
     },
     {
@@ -9482,7 +9482,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Puits RBE03/Puits RBE03.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PuitsRBE03/PuitsRBE03.html"
       }
     },
     {
@@ -9511,7 +9511,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Puits RBE04/Puits RBE04.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PuitsRBE04/PuitsRBE04.html"
       }
     },
     {
@@ -9540,7 +9540,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Puits RBE05/Puits RBE05.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PuitsRBE05/PuitsRBE05.html"
       }
     },
     {
@@ -9569,7 +9569,7 @@ var pointsFixes =
         "_ALTITUDE": "444",
         "_EXPED": "2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/ Cueva Torse Oublie/ Cueva Torse Oublie.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CuevaTorseOublie/CuevaTorseOublie.html"
       }
     },
     {
@@ -9598,7 +9598,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Cueva de los Tres/Cueva de los Tres.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CueveDeLosTres/CueveDeLosTres.html"
       }
     },
     {
@@ -9627,7 +9627,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Pozo Sin Nombre/Pozo Sin Nombre.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PozoSinNombre/PozoSinNombre.html"
       }
     },
     {
@@ -9656,7 +9656,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Le Tube/Le Tube.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/LeTube/LeTube.html"
       }
     },
     {
@@ -9685,7 +9685,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Pozo Del GPS Volando/Pozo Del GPS Volando.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PozoDelGPSVolando/PozoDelGPSVolando.html"
       }
     },
     {
@@ -9714,7 +9714,7 @@ var pointsFixes =
         "_ALTITUDE": "452",
         "_EXPED": "2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/ Perte des Sabliers/ Perte des Sabliers.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PerteDesSabliers/PerteDesSabliers.html"
       }
     },
     {
@@ -9743,7 +9743,7 @@ var pointsFixes =
         "_ALTITUDE": "0",
         "_EXPED": "2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/210/Surgencia fin del Seno/Surgencia fin del Seno.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/210/ResurgenceFinDeSeno/ResurgenceFinDeSeno.html"
       }
     },
     {
@@ -9772,7 +9772,7 @@ var pointsFixes =
         "_ALTITUDE": "407",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/El Abrito del Viento/El Abrito del Viento.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/AbrigoDelViento/AbrigoDelViento.html"
       }
     },
     {
@@ -9801,7 +9801,7 @@ var pointsFixes =
         "_ALTITUDE": "191",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Sumidero Piquante/Sumidero Piquante.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/SumideroPiquante/SumideroPiquante.html"
       }
     },
     {
@@ -9830,7 +9830,7 @@ var pointsFixes =
         "_ALTITUDE": "73",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Gouffre d'Aguilucho/Gouffre d'Aguilucho.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GouffreAguilucho/GouffreAguilucho.html"
       }
     },
     {
@@ -9859,7 +9859,7 @@ var pointsFixes =
         "_ALTITUDE": "10",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Exurgence du Picaflor/Exurgence du Picaflor.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/ExsurgencePicaflor/ExsurgencePicaflor.html"
       }
     },
     {
@@ -9888,7 +9888,7 @@ var pointsFixes =
         "_ALTITUDE": "30",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Porche de l'Impatience/Porche de l'Impatience.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/PorcheDeLImpatience/PorcheDeLImpatience.html"
       }
     },
     {
@@ -9917,7 +9917,7 @@ var pointsFixes =
         "_ALTITUDE": "348",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Sima del Col/Sima del Col.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/SimaDelCol/SimaDelCol.html"
       }
     },
     {
@@ -10091,7 +10091,7 @@ var pointsFixes =
         "_ALTITUDE": "360",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Grotte Grande Soeur/Grotte Grande Soeur.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrotteGrandeSoeur/GrotteGrandeSoeur.html"
       }
     },
     {
@@ -10120,7 +10120,7 @@ var pointsFixes =
         "_ALTITUDE": "392",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Denis, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Gouffre 36/Gouffre 36.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Gouffre36/Gouffre36.html"
       }
     },
     {
@@ -10149,7 +10149,7 @@ var pointsFixes =
         "_ALTITUDE": "298",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Arnauld, Laurent C, C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Gouffre des Mousquetaires/Gouffre des Mousquetaires.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GouffreDesMousquetaires/GouffreDesMousquetaires.html"
       }
     },
     {
@@ -10178,7 +10178,7 @@ var pointsFixes =
         "_ALTITUDE": "310",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric, Arnault, Laurent C",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Gouffre de l'Arche/Gouffre de l'Arche.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GouffreDeLArche/GouffreDeLArche.html"
       }
     },
     {
@@ -10207,7 +10207,7 @@ var pointsFixes =
         "_ALTITUDE": "332",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Gouffre \u00e0 la t\u00eate d'Ours/Gouffre \u00e0 la t\u00eate d'Ours.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GouffreALaTeteDOurs/GouffreALaTeteDOurs.html"
       }
     },
     {
@@ -10265,7 +10265,7 @@ var pointsFixes =
         "_ALTITUDE": "328",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Laurent C, Denis, Arnauld, C\u00e9dric, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Grotte de Lobos Secos/Grotte de Lobos Secos.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrotteDeLobosSecos/GrotteDeLobosSecos.html"
       }
     },
     {
@@ -10294,7 +10294,7 @@ var pointsFixes =
         "_ALTITUDE": "339",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Fabien Thomas",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Grotte Marion/Grotte Marion.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrotteMarion/GrotteMarion.html"
       }
     },
     {
@@ -10323,7 +10323,7 @@ var pointsFixes =
         "_ALTITUDE": "384",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Fabien Thomas",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/M\u00e9andre des Sables/M\u00e9andre des Sables.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/MeandreDesSables/MeandreDesSables.html"
       }
     },
     {
@@ -10352,7 +10352,7 @@ var pointsFixes =
         "_ALTITUDE": "364",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric, Buldo",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Grotte de la Conduite/Grotte de la Conduite.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrotteDeLaConduite/GrotteDeLaConduite.html"
       }
     },
     {
@@ -10381,7 +10381,7 @@ var pointsFixes =
         "_ALTITUDE": "352",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric, Arnauld",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Cueva del Agua/Cueva del Agua.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/CuevaDelAgua/CuevaDelAgua.html"
       }
     },
     {
@@ -10410,7 +10410,7 @@ var pointsFixes =
         "_ALTITUDE": "353",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Fabien Thomas",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Aven de la Traverse/Aven de la Traverse.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/AvenDeLaTraverse/AvenDeLaTraverse.html"
       }
     },
     {
@@ -10439,7 +10439,7 @@ var pointsFixes =
         "_ALTITUDE": "354",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Arnauld, Denis, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Grotte du Nomade/Grotte du Nomade.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrotteDuNomade/GrotteDuNomade.html"
       }
     },
     {
@@ -10468,7 +10468,7 @@ var pointsFixes =
         "_ALTITUDE": "291",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Isa, Laurent C, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Grotte Filostik/Grotte Filostik.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrotteFilostik/GrotteFilostik.html"
       }
     },
     {
@@ -10497,7 +10497,7 @@ var pointsFixes =
         "_ALTITUDE": "364",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric, Jean Phi",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Porche de la Madre 2/Porche de la Madre 2.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/PorcheDeLaMadre2/PorcheDeLaMadre2.html"
       }
     },
     {
@@ -10555,7 +10555,7 @@ var pointsFixes =
         "_ALTITUDE": "403",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Olivier T, Denis, Arnauld",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Abri/Abri.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Abri3/Abri3.html"
       }
     },
     {
@@ -10613,7 +10613,7 @@ var pointsFixes =
         "_ALTITUDE": "365",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Fabien",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Grand Aven Triple/Grand Aven Triple.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrandAvenTriple/GrandAvenTriple.html"
       }
     },
     {
@@ -10642,7 +10642,7 @@ var pointsFixes =
         "_ALTITUDE": "374",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Fabien",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Perte Ensabl\u00e9e/Perte Ensabl\u00e9e.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/PerteEnsabl\u00e9e/PerteEnsabl\u00e9e.html"
       }
     },
     {
@@ -10671,7 +10671,7 @@ var pointsFixes =
         "_ALTITUDE": "581",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Cueva 1/Cueva 1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Cueva1/Cueva1.html"
       }
     },
     {
@@ -10787,7 +10787,7 @@ var pointsFixes =
         "_ALTITUDE": "303",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Lobos Matos/Lobos Matos.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/LobosMatos/LobosMatos.html"
       }
     },
     {
@@ -10932,7 +10932,7 @@ var pointsFixes =
         "_ALTITUDE": "310",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Cueva 5/Cueva 5.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Cueva5/Cueva5.html"
       }
     },
     {
@@ -10961,7 +10961,7 @@ var pointsFixes =
         "_ALTITUDE": "433",
         "_EXPED": "2010",
         "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Cueva 6/Cueva 6.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Cueva6/Cueva6.html"
       }
     },
     {
@@ -10990,7 +10990,7 @@ var pointsFixes =
         "_ALTITUDE": "332",
         "_EXPED": "2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Perte 1Lobos/Perte 1Lobos.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Perte1Lobos/Perte1Lobos.html"
       }
     },
     {
@@ -11019,7 +11019,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": NaN,
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Perte des Lobos/Perte des Lobos.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/PerteDesLobos/PerteDesLobos.html"
       }
     },
     {
@@ -11048,7 +11048,7 @@ var pointsFixes =
         "_ALTITUDE": "355",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Sylvain, C\u00e9dric, Buldo",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/El Culo de la Madre/El Culo de la Madre.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/ElCuloDeLaMadre/ElCuloDeLaMadre.html"
       }
     },
     {
@@ -11077,7 +11077,7 @@ var pointsFixes =
         "_ALTITUDE": "331",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/La Grotte/La Grotte.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/LaGrotte/LaGrotte.html"
       }
     },
     {
@@ -11106,7 +11106,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Igue Dedob/Igue Dedob.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/IgueDeDob/IgueDeDob.html"
       }
     },
     {
@@ -11135,7 +11135,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2010",
         "_EXPLORATEURS": "Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Grotte Petite Soeur/Grotte Petite Soeur.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrottePetiteSoeur/GrottePetiteSoeur.html"
       }
     },
     {
@@ -11164,7 +11164,7 @@ var pointsFixes =
         "_ALTITUDE": "330",
         "_EXPED": "2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Puits Octopus/Puits Octopus.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/PuitsOctopus/PuitsOctopus.html"
       }
     },
     {
@@ -11193,7 +11193,7 @@ var pointsFixes =
         "_ALTITUDE": "30",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/212/Grotte de Tarlton/Grotte de Tarlton.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/212/GrotteDeTarlton/GrotteDeTarlton.html"
       }
     },
     {
@@ -11367,7 +11367,7 @@ var pointsFixes =
         "_ALTITUDE": "90",
         "_EXPED": "2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/213/Perte du Masque et de la Plume/Perte du Masque et de la Plume.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/213/LeMasqueEtLaPlume/LeMasqueEtLaPlume.html"
       }
     },
     {
@@ -11396,7 +11396,7 @@ var pointsFixes =
         "_ALTITUDE": "37",
         "_EXPED": "2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/213/ Grotte du Finistere/ Grotte du Finistere.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/213/GrotteFinistere/GrotteFinistere.html"
       }
     },
     {
@@ -11425,7 +11425,7 @@ var pointsFixes =
         "_ALTITUDE": "100",
         "_EXPED": "2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/213/ Perte Glaciaire/ Perte Glaciaire.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/213/PerteGlaciaire/PerteGlaciaire.html"
       }
     },
     {
@@ -11483,7 +11483,7 @@ var pointsFixes =
         "_ALTITUDE": "163",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Perte des Portes d'Abraham/Perte des Portes d'Abraham.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/PerteDesPortesDAbraham/PerteDesPortesDAbraham.html"
       }
     },
     {
@@ -11512,7 +11512,7 @@ var pointsFixes =
         "_ALTITUDE": "20",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Cueva Nutria/Cueva Nutria.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/CuevaNutria/CuevaNutria.html"
       }
     },
     {
@@ -11541,7 +11541,7 @@ var pointsFixes =
         "_ALTITUDE": "274",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Le Raccourci/Le Raccourci.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/LeRaccourci/LeRaccourci.html"
       }
     },
     {
@@ -11570,7 +11570,7 @@ var pointsFixes =
         "_ALTITUDE": "55",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Le Raccourci V\u00e9g\u00e9tal/Le Raccourci V\u00e9g\u00e9tal.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Le RaccourciVegetal/Le RaccourciVegetal.html"
       }
     },
     {
@@ -11599,7 +11599,7 @@ var pointsFixes =
         "_ALTITUDE": "253",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Tortilla con Lemon/Tortilla con Lemon.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/CuevaTortillaConCitron/CuevaTortillaConCitron.html"
       }
     },
     {
@@ -11628,7 +11628,7 @@ var pointsFixes =
         "_ALTITUDE": "86",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Gouffre de l'Erbra/Gouffre de l'Erbra.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/GouffreDeLErbra/GouffreDeLErbra.html"
       }
     },
     {
@@ -11657,7 +11657,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Regard sur la r\u00e9surgence de l'Avenir/Regard sur la r\u00e9surgence de l'Avenir.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/RegardResurgenceAvenir/RegardResurgenceAvenir.html"
       }
     },
     {
@@ -11686,7 +11686,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Cueva du Plateau/Cueva du Plateau.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/CuevaDuPlateau/CuevaDuPlateau.html"
       }
     },
     {
@@ -11715,7 +11715,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Igue du Dike/Igue du Dike.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/IgueDuDike/IgueDuDike.html"
       }
     },
     {
@@ -11831,7 +11831,7 @@ var pointsFixes =
         "_ALTITUDE": "21",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Gouffre SansD\u00e9conner/Gouffre SansD\u00e9conner.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/GouffreSansDeconner/GouffreSansDeconner.html"
       }
     },
     {
@@ -11860,7 +11860,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/R\u00e9surgence Oubli\u00e9e/R\u00e9surgence Oubli\u00e9e.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/ResurgenceOubliee/ResurgenceOubliee.html"
       }
     },
     {
@@ -11918,7 +11918,7 @@ var pointsFixes =
         "_ALTITUDE": "399",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Perte de la Sucri\u00e8re/Perte de la Sucri\u00e8re.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/PerteDeLaSucriere/PerteDeLaSucriere.html"
       }
     },
     {
@@ -11947,7 +11947,7 @@ var pointsFixes =
         "_ALTITUDE": "315",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/\u0152il du Diable (ex perte majeure)/\u0152il du Diable (ex perte majeure).html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/OjoDelDiablo/OjoDelDiablo.html"
       }
     },
     {
@@ -11976,7 +11976,7 @@ var pointsFixes =
         "_ALTITUDE": "330",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Perte de la Sucri\u00e8re inf\u00e9rieure/Perte de la Sucri\u00e8re inf\u00e9rieure.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/PerteDeLaSucriereInferieure/PerteDeLaSucriereInferieure.html"
       }
     },
     {
@@ -12005,7 +12005,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/R\u00e9surgence de l'Avenir/R\u00e9surgence de l'Avenir.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/ResurgenceDeLAvenir/ResurgenceDeLAvenir.html"
       }
     },
     {
@@ -12208,7 +12208,7 @@ var pointsFixes =
         "_ALTITUDE": "386",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Gouffre Pacifico/Gouffre Pacifico.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffrePacifico/GouffrePacifico.html"
       }
     },
     {
@@ -12324,7 +12324,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Perte du col 1/Perte du col 1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/PerteDuCol1/PerteDuCol1.html"
       }
     },
     {
@@ -12353,7 +12353,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Perte du col 2/Perte du col 2.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/PerteduCol2/PerteduCol2.html"
       }
     },
     {
@@ -12382,7 +12382,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Igue du Midi/Igue du Midi.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/IgueDuMidi/IgueDuMidi.html"
       }
     },
     {
@@ -12411,7 +12411,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Igue Enviluc/Igue Enviluc.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/IgueEnviluc/IgueEnviluc.html"
       }
     },
     {
@@ -12440,7 +12440,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Cueva de la Ma\u00f1ana/Cueva de la Ma\u00f1ana.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/CuevaManana/CuevaManana.html"
       }
     },
     {
@@ -12469,7 +12469,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Trou du Cairn/Trou du Cairn.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/TrouDuCairn/TrouDuCairn.html"
       }
     },
     {
@@ -12498,7 +12498,7 @@ var pointsFixes =
         "_ALTITUDE": "483",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Gouffre des Trois Arches/Gouffre des Trois Arches.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffreDesTroisArches/GouffreDesTroisArches.html"
       }
     },
     {
@@ -12527,7 +12527,7 @@ var pointsFixes =
         "_ALTITUDE": "358",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Gouffre \"2 spits pour Rien\"/Gouffre \"2 spits pour Rien\".html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffreDeuxSpitsPourRien/GouffreDeuxSpitsPourRien.html"
       }
     },
     {
@@ -12556,7 +12556,7 @@ var pointsFixes =
         "_ALTITUDE": "438",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Gouffre No Futur/Gouffre No Futur.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffreNoFutur/GouffreNoFutur.html"
       }
     },
     {
@@ -12585,7 +12585,7 @@ var pointsFixes =
         "_ALTITUDE": "412",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Gouffre Retour vers le Futur/Gouffre Retour vers le Futur.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffreRetourVersLeFutur/GouffreRetourVersLeFutur.html"
       }
     },
     {
@@ -12614,7 +12614,7 @@ var pointsFixes =
         "_ALTITUDE": "325",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 13/Arc 13.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc13/Arc13.html"
       }
     },
     {
@@ -12643,7 +12643,7 @@ var pointsFixes =
         "_ALTITUDE": "387",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 12/Arc 12.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc12/Arc12.html"
       }
     },
     {
@@ -12672,7 +12672,7 @@ var pointsFixes =
         "_ALTITUDE": "387",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 12bis/Arc 12bis.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc12bis/Arc12bis.html"
       }
     },
     {
@@ -12701,7 +12701,7 @@ var pointsFixes =
         "_ALTITUDE": "368",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 3/Arc 3.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc3/Arc3.html"
       }
     },
     {
@@ -12730,7 +12730,7 @@ var pointsFixes =
         "_ALTITUDE": "380",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 4/Arc 4.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc4/Arc4.html"
       }
     },
     {
@@ -12759,7 +12759,7 @@ var pointsFixes =
         "_ALTITUDE": "545",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Gouffre Futur 1/Gouffre Futur 1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/SumideroFuturo/SumideroFuturo.html"
       }
     },
     {
@@ -12788,7 +12788,7 @@ var pointsFixes =
         "_ALTITUDE": "562",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Gouffre Futur 2/Gouffre Futur 2.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/SumideroFuturo/SumideroFuturo.html"
       }
     },
     {
@@ -12904,7 +12904,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Machu-Pichu/Machu-Pichu.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GrotteMachuPichu/GrotteMachuPichu.html"
       }
     },
     {
@@ -12933,7 +12933,7 @@ var pointsFixes =
         "_ALTITUDE": "399",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Gouffre \"Un cul de plus \u00e0 explorer\"/Gouffre \"Un cul de plus \u00e0 explorer\".html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffreUnCulDePlusAExplorer/GouffreUnCulDePlusAExplorer.html"
       }
     },
     {
@@ -12991,7 +12991,7 @@ var pointsFixes =
         "_ALTITUDE": "347",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 14/Arc 14.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc14/Arc14.html"
       }
     },
     {
@@ -13020,7 +13020,7 @@ var pointsFixes =
         "_ALTITUDE": "230",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Cueva del Condor/Cueva del Condor.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/SystemaLosTubos/SystemaLosTubos.html"
       }
     },
     {
@@ -13049,7 +13049,7 @@ var pointsFixes =
         "_ALTITUDE": "106",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Sumdiero Escondido/Sumdiero Escondido.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/SumideroEscondido/SumideroEscondido.html"
       }
     },
     {
@@ -13078,7 +13078,7 @@ var pointsFixes =
         "_ALTITUDE": "65",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Surgencia Estrella/Surgencia Estrella.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/SurgenciaEstrella/SurgenciaEstrella.html"
       }
     },
     {
@@ -13107,7 +13107,7 @@ var pointsFixes =
         "_ALTITUDE": "95",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Cueva Estrella/Cueva Estrella.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/CuevaEstrella/CuevaEstrella.html"
       }
     },
     {
@@ -13136,7 +13136,7 @@ var pointsFixes =
         "_ALTITUDE": "106",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Perte perdue/Perte perdue.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/PertePerdue/PertePerdue.html"
       }
     },
     {
@@ -13165,7 +13165,7 @@ var pointsFixes =
         "_ALTITUDE": "101",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Gouffre \"Explor\u00e9vitefait\"/Gouffre \"Explor\u00e9vitefait\".html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffreExploreViteFait/GouffreExploreViteFait.html"
       }
     },
     {
@@ -13194,7 +13194,7 @@ var pointsFixes =
         "_ALTITUDE": "250",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Puits 1 Jean-Phi/Puits 1 Jean-Phi.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Puits1JeanPhi/Puits1JeanPhi.html"
       }
     },
     {
@@ -13223,7 +13223,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Pozo Dyke (System de los Tubas)/Pozo Dyke (System de los Tubas).html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/SystemaLosTubos/SystemaLosTubos.html"
       }
     },
     {
@@ -13252,7 +13252,7 @@ var pointsFixes =
         "_ALTITUDE": "276",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 1/Arc 1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc1/Arc1.html"
       }
     },
     {
@@ -13281,7 +13281,7 @@ var pointsFixes =
         "_ALTITUDE": "260",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 11/Arc 11.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc11/Arc11.html"
       }
     },
     {
@@ -13310,7 +13310,7 @@ var pointsFixes =
         "_ALTITUDE": "258",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 111/Arc 111.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc111/Arc111.html"
       }
     },
     {
@@ -13339,7 +13339,7 @@ var pointsFixes =
         "_ALTITUDE": "299",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 113/Arc 113.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc113/Arc113.html"
       }
     },
     {
@@ -13368,7 +13368,7 @@ var pointsFixes =
         "_ALTITUDE": "259",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 114/Arc 114.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc114/Arc114.html"
       }
     },
     {
@@ -13397,7 +13397,7 @@ var pointsFixes =
         "_ALTITUDE": "291",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 112 ; Les myst\u00e8res de l'ouest/Arc 112 ; Les myst\u00e8res de l'ouest.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc112/Arc112.html"
       }
     },
     {
@@ -13426,7 +13426,7 @@ var pointsFixes =
         "_ALTITUDE": "456",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Gouffre du Robinet/Gouffre du Robinet.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffreDuRobinet/GouffreDuRobinet.html"
       }
     },
     {
@@ -13455,7 +13455,7 @@ var pointsFixes =
         "_ALTITUDE": "212",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 20 ou gouffre du Soleil/Arc 20 ou gouffre du Soleil.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/CuevaDelSol/CuevaDelSol.html"
       }
     },
     {
@@ -13484,7 +13484,7 @@ var pointsFixes =
         "_ALTITUDE": "229",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 19/Arc 19.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc19/Arc19.html"
       }
     },
     {
@@ -13513,7 +13513,7 @@ var pointsFixes =
         "_ALTITUDE": "224",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 18/Arc 18.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc18/Arc18.html"
       }
     },
     {
@@ -13542,7 +13542,7 @@ var pointsFixes =
         "_ALTITUDE": "300",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc 17/Arc 17.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc17/Arc17.html"
       }
     },
     {
@@ -13571,7 +13571,7 @@ var pointsFixes =
         "_ALTITUDE": "482",
         "_EXPED": "2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Perte Col 1/Perte Col 1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/PerteCol1/PerteCol1.html"
       }
     },
     {
@@ -13600,7 +13600,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Moulin R\u00eave Bleu/Moulin R\u00eave Bleu.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/MoulinReveBleu/MoulinReveBleu.html"
       }
     },
     {
@@ -13629,7 +13629,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Perte Saloude/Perte Saloude.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/PerteSaloude/PerteSaloude.html"
       }
     },
     {
@@ -13658,7 +13658,7 @@ var pointsFixes =
         "_ALTITUDE": "122",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Moulin de glace/Moulin de glace.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/MoulinDeGlace/MoulinDeGlace.html"
       }
     },
     {
@@ -13687,7 +13687,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Lac 2/Lac 2.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Lac2/Lac2.html"
       }
     },
     {
@@ -13716,7 +13716,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Lac Tic et Tac/Lac Tic et Tac.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/LacTicEtTac/LacTicEtTac.html"
       }
     },
     {
@@ -13745,7 +13745,7 @@ var pointsFixes =
         "_ALTITUDE": "250",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Cueva Esperanza/Cueva Esperanza.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/CuevaEsperanza/CuevaEsperanza.html"
       }
     },
     {
@@ -13774,7 +13774,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Travers\u00e9e de la Cascade/Travers\u00e9e de la Cascade.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/TraverseeDeLaCascade/TraverseeDeLaCascade.html"
       }
     },
     {
@@ -13803,7 +13803,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/L'abri sous glace/L'abri sous glace.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/AbriSousGlace/AbriSousGlace.html"
       }
     },
     {
@@ -13832,7 +13832,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Salto del Agua/Salto del Agua.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/ SaltoDelAgua/ SaltoDelAgua.html"
       }
     },
     {
@@ -13861,7 +13861,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Moulin Abou/Moulin Abou.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/ MoulinAbou/ MoulinAbou.html"
       }
     },
     {
@@ -13890,7 +13890,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Moulin Tapis Volant/Moulin Tapis Volant.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/MoulinTapisVolant/MoulinTapisVolant.html"
       }
     },
     {
@@ -13919,7 +13919,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Travers\u00e9e/Travers\u00e9e.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Traversee/Traversee.html"
       }
     },
     {
@@ -13948,7 +13948,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Moulin du Champignon/Moulin du Champignon.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/MoulinDuChampignon/MoulinDuChampignon.html"
       }
     },
     {
@@ -13977,7 +13977,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Traversee du meandre 1/Traversee du meandre 1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/TraverseeDuMeandre1/TraverseeDuMeandre1.html"
       }
     },
     {
@@ -14006,7 +14006,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Traversee du meandre 2/Traversee du meandre 2.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/TraverseeDuMeandre2/TraverseeDuMeandre2.html"
       }
     },
     {
@@ -14035,7 +14035,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Moulin de glace/Moulin de glace.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/MoulinDeGlace/MoulinDeGlace.html"
       }
     },
     {
@@ -14064,7 +14064,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Moulin de la Conception/Moulin de la Conception.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/MoulinDeLaConception/MoulinDeLaConception.html"
       }
     },
     {
@@ -14093,7 +14093,7 @@ var pointsFixes =
         "_ALTITUDE": "48",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Cueva Tempanos - Entr\u00e9e 1/Cueva Tempanos - Entr\u00e9e 1.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/CuevaTempanosEntree1/CuevaTempanosEntree1.html"
       }
     },
     {
@@ -14122,7 +14122,7 @@ var pointsFixes =
         "_ALTITUDE": "36",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Cueva Tempanos - Entr\u00e9e 2/Cueva Tempanos - Entr\u00e9e 2.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/CuevaTempanosEntree2/CuevaTempanosEntree2.html"
       }
     },
     {
@@ -14151,7 +14151,7 @@ var pointsFixes =
         "_ALTITUDE": "58",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Cueva Tempanos - Entr\u00e9e 3/Cueva Tempanos - Entr\u00e9e 3.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/CuevaTempanosEntr\u00e9e3/CuevaTempanosEntr\u00e9e3.html"
       }
     },
     {
@@ -14180,7 +14180,7 @@ var pointsFixes =
         "_ALTITUDE": "nan",
         "_EXPED": "2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Fuite Prometteuse/Fuite Prometteuse.html"
+        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/FuitePrometteuse/FuitePrometteuse.html"
       }
     }
   ]
