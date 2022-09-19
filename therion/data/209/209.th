@@ -123,8 +123,8 @@ survey 209 -title "209 Soplador"
     fix ENT_209033   471288 4425378 370
     station ENT_209033 "PerteCoipo"
 
-    fix ENT_209034 473653 4425395 512
-    station ENT_209034 "Trou du Kit"
+    #fix ENT_209034 473653 4425395 512
+    #station ENT_209034 "Trou du Kit"
 
     fix ENT_209035 470677 4425348 00
     station ENT_209035 "CHIL"
