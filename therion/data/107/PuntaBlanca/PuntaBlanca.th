@@ -4,15 +4,23 @@ survey PuntaBlanca -title "Cueva de la Punta Blanca" -entrance 0 -attr cad_num 1
 input PuntaBlanca-p.th2
 
 map m-tout-p -projection plan
-  PuntaBlanca-ENTp
-  PuntaBlanca-2p
-  PuntaBlanca-9p
-  PuntaBlanca-3p
-  PuntaBlanca-4p
-  PuntaBlanca-5p
-  PuntaBlanca-6p
+  m-superieure-p
+  m-inferieure-p [-25 -10 m] none
+endmap
+
+map m-superieure-p -projection plan
+PuntaBlanca-ENTp
+PuntaBlanca-2p
+PuntaBlanca-9p
+PuntaBlanca-3p
+PuntaBlanca-4p
+PuntaBlanca-5p
+PuntaBlanca-6p
+PuntaBlanca-8p
+endmap
+
+map m-inferieure-p -projection plan
   PuntaBlanca-7p
-  PuntaBlanca-8p
 endmap
 
     centreline

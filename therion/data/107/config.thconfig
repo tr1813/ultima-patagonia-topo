@@ -1,27 +1,31 @@
 source 107.th
 
 
-select m-PuntaBlanca-p
+select m-PuntaBlanca-p@107
 
 input ../../layouts/detailed-p.thl
 input ../../layouts/detailed-e.thl
 
+maps-offset on
+
 layout local-p
   copy detailed-p
-  scale 1 500
+  scale 1 1000
   legend off
   map-header 0 0 off
   symbol-show point label
   symbol-show point passage-height
   color map-bg [85 85 85]
   symbol-color point station-name [60 60 60]
+  symbol-hide point station-name
+  symbol-hide line survey
   #color map-bg transparent
   map-comment "Centre Terre<br>Ultima Patagonia 2019"
   code tex-map
   #\framethickness=0.5mm
   \def\xcenter{4}
   \def\ycenter{10}
-  \def\xscale{1}
+  \def\xscale{-1}
   \def\yscale{1}
 
   # change this
@@ -36,7 +40,7 @@ layout local-p
 
   \def\maplayout{
 
-  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
+  \legendbox{10}{10}{N}{\customheader}
   \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - \yscale\relax}{N}{\northarrow}
   \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\scalebar}
   \legendbox{\the\numexpr\xcenter-\xscale\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{E} {\hbox{\loadpicture{"../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
@@ -84,7 +88,7 @@ layout local-e
   \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
   \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - \yscale\relax}{N}{\northarrow}
   \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\scalebar}
-  \legendbox{\the\numexpr\xcenter-\xscale\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{E} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+  \legendbox{\the\numexpr\xcenter-\xscale\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{E} {\hbox{\loadpicture{"../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
   }
   endcode
 endlayout
