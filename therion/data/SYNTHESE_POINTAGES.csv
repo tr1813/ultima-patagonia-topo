@@ -69,7 +69,7 @@ ENT_108008,Utero de la Madre,Utero de la Madre,"Descendu sans corde jusqu'au sip
 ENT_108009,Sumidero,Sumidero,"Beau porche, bouché par effondrement plafond à quelques mètres de l'entrée, aller voir derrière par le dessus des calcaires. ",485157.0,4448585.0,225,,?,,2017
 ENT_108010,Sumidero,Sumidero,Petite perte étroite explorée sur quelques mètres; impénétrable,485495.0,4447616.0,317,,?,,2017
 ENT_108011,agujero,agujero,"Gouffre bordure SE scandinavie, P15 d'entrée, ruissellements, non descendu",486016.0,4447774.0,290,,,,2017
-ENT_108012,agujero,agujero,"Gouffre bordure SETube à 45° de 2m de diamètre non descendu" ; ,483835.0,4446220.0,417,,,,2017
+ENT_108012,agujero,agujero,"Gouffre bordure SETube à 45° de 2m de diamètre non descendu",483835.0,4446220.0,417,,,,2017
 ENT_108013,Gouffre de l'Arche,GouffreDeLArche,,486742.0,4448369.0,15,,15,,2019
 ENT_109001,Grotte des 3 Porches,TroisPorches,Arrêt sur puits,485618.0,4444774.0,60,280.0,-32-+17,,2008
 ENT_109002,Grotte des 3 Porches,TroisPorches,Occupation humaine,485602.0,4444774.0,60,,,,2008
@@ -327,13 +327,13 @@ ENT_209047,PuitsRBE02,Puits RBE02,472795,4425923,594,,,,,2006
 ENT_209048,SorryP20,SorryP20,472783,4425894,609,,,,,2006
 ENT_209049,SorryP15,SorryP15,472772,4425818,588,,,,,2006
 ENT_209050,Puits RBE03,PuitsRBE03,472828,4425970,592,,,,,2006
-ENT_209051,Puits RBE04,PuitsRBE04,,,,,,,,
-ENT_209052,Puits RBE05,PuitsRBE05,,,,,,,,
+ENT_209051,Puits RBE04,PuitsRBE04,472733,4425773,599,,,,,2006
+ENT_209052,Puits RBE05,PuitsRBE05,472721,4425717,573,,,,,2006
 ENT_209053, Cueva Torse Oublie,CuevaTorseOublie,,473117.0,4426008.0,444,,,,2006
-ENT_209054,Cueva de los Tres,CueveDeLosTres,,,,,,,,
-ENT_209055,Pozo Sin Nombre,PozoSinNombre,,,,,,,,
-ENT_209056,Le Tube,LeTube,,,,,,,,
-ENT_209057,Pozo Del GPS Volando,PozoDelGPSVolando,,,,,,,,
+ENT_209054,Cueva de los Tres,CueveDeLosTres,472926,4426115,548,,,,,2006
+ENT_209055,Pozo Sin Nombre,PozoSinNombre,473111,4426060,463,,,,,2006
+ENT_209056,Le Tube,LeTube,472712,4426041,673,,,,,2006
+ENT_209057,Pozo Del GPS Volando,PozoDelGPSVolando,473106,4426027,449,,,,,2006
 ENT_209058, Perte des Sabliers,PerteDesSabliers,,473093.0,4426314.0,452,,,,2006
 ENT_210001,Surgencia fin del Seno,ResurgenceFinDeSeno,,482476.0,4427291.0,0,,,,2006
 ENT_211001,El Abrito del Viento,AbrigoDelViento,Arrêt sur Voute Mouillante très étroite,469367.0,4421504.0,407,430.0,-197,,2008
