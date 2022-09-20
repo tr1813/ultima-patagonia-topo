@@ -45,6 +45,9 @@ survey 209 -title "209 Soplador"
     station ENT_209007 "GrotteEvier"
     equate ENT_209007 6@GrotteEvier
 
+    fix ENT_209008	473372 4427993 200
+    station ENT_209008 "Bob l'eponge"
+
    fix ENT_209009	472980	4428693	154.0
    station	 ENT_209009	"Cueva Gringa (Los Gringos)"
    equate ENT_209009 10@LosGringos
