@@ -91,9 +91,9 @@ ENT_109017,Resurgence de la Petite Chinoise,PetiteChinoise,,486340.0,4445620.0,,
 ENT_109018,Paraiso de las duchas,ParaisoDeLasDuchas,,485880.0,4445791.0,,,133,,2019
 ENT_109019,Résurgence 3,Résurgence 3,2 m3-s,485684.0,4444706.0,0,,,,2008
 ENT_201001,Résurgence 2 du Canyon,Resurgence2DuCanyon,Arrêt sur galerie exondé post S1 (-4m-30m),478266.0,4438945.0,0,40.0,-4-+2,,2008
-ENT_201002,C4T2,C4T2,,473138.0,4437000.0,325,,,Buldo,2010
+ENT_201002,La Rabasse 3,LaRabasse3,"aussi C4T2",473138.0,4437000.0,325,,,Buldo,2010
 ENT_201003,Secteur Barros Luco,Secteur Barros Luco,,473081.0,4438618.0,385,0.0,-12,José-Vanessa-Buldo-Sergio,2010
-ENT_201004,C4T1,C4T1,,473185.0,4437080.0,337,,,Buldo,2010
+ENT_201004,La Rabasse 1,LaRabasse1,"aussi C4T1",473185.0,4437080.0,337,,,Buldo,2010
 ENT_201005,Cueva 3,Cueva3,,473614.0,4437045.0,273,0.0,-35,José-Cédric,2010
 ENT_201006,Cueva 7,Cueva7,,473794.0,4437339.0,294,0.0,-35,José,2010
 ENT_201007,Cueva 1,Cueva1,,473598.0,4437045.0,290,0.0,-30,José-Cédric,2010
@@ -101,28 +101,28 @@ ENT_201008,Cueva 11,Cueva11,,473527.0,4437152.0,338,0.0,-28,Serge-Jean Phi-Cédr
 ENT_201009,Cueva du Téléphone,CuevaDuTelephone,,473512.0,4437140.0,340,0.0,-26,Vanessa-Serge,2010
 ENT_201010,Cueva 8,Cueva8,,473749.0,4437328.0,309,0.0,-26,Cédric,2010
 ENT_201011,cueva,cueva101,,473423.0,4437558.0,492,0.0,-25,"Buldo, José, Jean Phi",2010
-ENT_201012,C4 Cueva 9,C4Cueva 9,,473607.0,4437277.0,385,,,Cédric,2010
-ENT_201013,C4T3,C4T3,,473066.0,4437002.0,310,,,Buldo,2010
+ENT_201012,Trou du Marteau,TrouDuMarteau,,473607.0,4437277.0,385,,,Cédric,2010
+ENT_201013,La Rabasse 2,LaRabasse2,"Aussi C4T3",473066.0,4437002.0,310,,,Buldo,2010
 ENT_201014,cueva,cueva102,,473378.0,4437631.0,526,0.0,-20,"Buldo, José, Jean phi",2010
 ENT_201015,Cueva,Cueva104,,473524.0,4437766.0,469,0.0,-20,"Buldo, José, Jean Phi",2010
 ENT_201016,Cueva 10,Cueva10,,473535.0,4437264.0,347,0.0,-15,José-Cédric,2010
 ENT_201017,Secteur Barros Luco,Secteur Barros Luco,,473581.0,4437960.0,393,0.0,-15,José-Vanessa-Buldo-Sergio,2010
 ENT_201018,Cueva 2,Cueva2,,473619.0,4437025.0,268,0.0,-15,José-Cédric,2010
 ENT_201019,Cueva,Cueva105,,473196.0,4437124.0,274,0.0,-15,"José, Serge, Vanessa, Buldo, Jean Phi",2010
-ENT_201020,,,,,,,,,,
+ENT_201020,Resurgence 1,Resurgence1,481166,4440010,6,,,,,??
 ENT_201021,Secteur Barros Luco,Secteur Barros Luco,,473580.0,4437961.0,393,0.0,-10,José-Vanessa-Buldo-Sergio,2010
 ENT_201022,Cueva 12,Cueva12,,473519.0,4437155.0,335,0.0,-8,Serge-Jean Phi-Cédric (porche),2010
 ENT_201023,Cueva 5,Cueva5,,473690.0,4437099.0,272,0.0,-8,José-Cédric,2010
 ENT_201024,Cueva 13,Cueva13,,473520.0,4437115.0,8,0.0,-8,Serge-Jean Phi-Cédric,2010
 ENT_201025,Secteur Barros Luco,Secteur Barros Luco,,473276.0,4437291.0,412,0.0,-8,José-Vanessa-Buldo-Sergio,2010
 ENT_201026,Porche 2 Os de Baleine,PorcheBaleine,Découverte d'ossements de baleine et de lobos (photos disponibles),471000.0,4440731.0,9,0.0,15,Jean Phi-Cédric (os baleine+coquillages),2010
-ENT_201027,,,,,,,,,,
-ENT_201028,,,,,,,,,,
+ENT_201027,Porche 1,Porche1,"Porche situé avant la plage du Pacifique sur la rive gauche de la rivière (visible depuis la fin du lapiaz du camp 4, le porche s'ouvre 30 m au-dessus de la rivière) Pas de découverte particulière.",470851.0,4437247.0,13,0.0,30,Jean Phi-Cédric (Plage Pacifique),2010
+ENT_201028,C4 SansNom 10,C4SansNom10,473005,4437401,471,,,,,
 ENT_201029,Cueva 4,Cueva4,,473670.0,4437075.0,270,,,Cédric,2010
-ENT_201030,,,,,,,,,,
+ENT_201030,SANS NOM,SANS NOM,Zona de grandes bocas de simas muy interesantes Al menos tres bocas de grqndes dimensiones,475272.0,4442209.0,460,,?,,2017
 ENT_201031,C3,C3,,473587.0,4437133.0,303,,,Buldo,2010
 ENT_201032,C4 Cueva 6,C4Cueva6,,473735.0,4437228.0,306,,,,2010
-ENT_201033,,,,,,,,,,
+ENT_201033,SANS NOM,SANS NOM,Sima bajada por David y Anton con craneos de Coivos ,475375.0,4442069.0,430,,45,,2017
 ENT_201034,Cueva de la casquette,CuevaDeLaCasquette,Entrée étroite de la largeur du corps beau donnantsur un puit vertical style cathédrale de 30m (cavité avec plusieurs entrées),473652.0,4437656.0,397,0.0,-48,Cedric-Vanessa-Serge,2010
 ENT_201035,Trou de la Plaquette,TrouDeLaPlaquette,salle d'effondrement ouverte qui fait au gouffre de la casquette dans un alignement de gouffres qui se suivent vers le Barros Luco,473683.0,4437677.0,382,0.0,-23,Cedric-Vanessa-Serge,2010
 ENT_201036,C4 Nfissure 0,C4Nfissure0,,473577.0,4438008.0,389,,,Cédric,2010
@@ -135,11 +135,11 @@ ENT_201042,C4 SansNom 4,C4SansNom4,,473028.0,4438978.0,312,,,Cédric,2010
 ENT_201043,Gouffre du Colibri,GouffreDuColibri,Gouffre d'éffondrement ouvert avec possibilité de continuation mais éboulis instable (plus grosse entrée de la doline),473077.0,4439130.0,313,,-30,Cedric-Jose-JeanPhilippe-Serge,2010
 ENT_201044,C4 SansNom 3,C4SansNom3,,473044.0,4439162.0,307,,,Cédric,2010
 ENT_201045,C5 Cueva1,C5 Cueva1,,473343.0,4439239.0,391,,,Cédric,2010
-ENT_201046,,,,,,,,,,
+ENT_201046,SANS NOM,SANS NOM,Explorada por( Denis y Anton) Cueva de derrumbe y bloques cercq del Sumidero,475670.0,4442920.0,323,,?,,2017
 ENT_201047,Champignon,Champignon,Situé au dessus du camp 5 près du seul champignon du secteur. Gros puit vertical de plus de 40m qui suit une faille,473344.0,4439239.0,391,0.0,-45,Cedric,2010
-ENT_201048,,,,,,,,,,
-ENT_201049,,,,,,,,,,
-ENT_201050,,,,,,,,,,
+ENT_201048,Gouffre du Ziploc,GouffreDuZiploc,,476597.0,4441532.0,316,44.0,30,,2017
+ENT_201049,Cueva Harrico,CuevaHarrico,Situada en las paredes sur de Punta Indice;Escalada desde el mar a gran boca; rampa ascendente y llegamos a un tubo con aire que termina cerrandose; Explo (Anton y Angel),481244.0,4440093.0,29,254.0,+85,,2017
+ENT_201050,Sumidero del Chorizo Plastico,SumideroDelChorizoPlastico,Sumidero al otro lado del collado al norte del campamento,475551.0,4442964.0,285,,30,,2017
 ENT_201051,Perte 3,Perte3,Explo perminée. Arret à -15,477006.0,4441940.0,,,?,,2017
 ENT_201052,GB1,GB1,"23-01-2017 non descendu, à faire.",479866.0,4441309.0,356,,?,,2017
 ENT_201053,GB2,GB2,"23-01-2017 non descendu, à faire.",480018.0,4441221.0,351,,?,,2017
@@ -162,14 +162,6 @@ ENT_201069,GB 07 02-2,GB-07-02-2,Pas d'information,475787.0,4441900.0,382,,40,,2
 ENT_201070,GB 07 02-3,GB-07-02-3,Arrêt sur trou foireux délité,476036.0,4441670.0,295,,30,,2017
 ENT_201071,SANS NOM,SANS NOM,Gouffre borgne avec quelques paliers sans suite,476576.0,4441740.0,281,45.0,43,,2017
 ENT_201072,SANS NOM,SANS NOM,Petits puits colmaté,476632.0,4441445.0,378,,15,,2017
-ENT_201073,Gouffre du Ziploc,GouffreDuZiploc,,476597.0,4441532.0,316,44.0,30,,2017
-ENT_201074,Cueva Harrico,CuevaHarrico,Situada en las paredes sur de Punta Indice;Escalada desde el mar a gran boca; rampa ascendente y llegamos a un tubo con aire que termina cerrandose; Explo (Anton y Angel),481244.0,4440093.0,29,254.0,+85,,2017
-ENT_201075,Sumidero del Chorizo Plastico,SumideroDelChorizoPlastico,Sumidero al otro lado del collado al norte del campamento,475551.0,4442964.0,285,,30,,2017
-ENT_201076,SANS NOM,SANS NOM,Explorada por( Denis y Anton) Cueva de derrumbe y bloques cercq del Sumidero,475670.0,4442920.0,323,,?,,2017
-ENT_201077,SANS NOM,SANS NOM,Sima bajada por David y Anton con craneos de Coivos ,475375.0,4442069.0,430,,45,,2017
-ENT_201078,SANS NOM,SANS NOM,Zona de grandes bocas de simas muy interesantes Al menos tres bocas de grqndes dimensiones,475272.0,4442209.0,460,,?,,2017
-ENT_201079,C4 SansNom 10,C4SansNom10,,,,,,,,
-ENT_201080,Porche 1,Porche1,"Porche situé avant la plage du Pacifique sur la rive gauche de la rivière (visible depuis la fin du lapiaz du camp 4, le porche s'ouvre 30 m au-dessus de la rivière) Pas de découverte particulière.",470851.0,4437247.0,13,0.0,30,Jean Phi-Cédric (Plage Pacifique),2010
 ENT_202001,grottes des dauphins,GrotteDesDauphins,"Explo et topo Serge , José , Yannick (dessin Yannick )",481705.0,4438320.0,5,,????,,2017
 ENT_203001,Perte du Coypo,PerteDuCoypo,Perte très active présentant de beaux puits et un superbe méandre.,472905.0,4434743.0,253,283.0,-191,"Jean-Francois H, Thomas, Florian, Olivier T",2010
 ENT_203002,Gouffre Félin,GouffreFelin,beau réseau de puits,473028.0,4434786.0,258,294.0,-121,"Olivier T, Isa, Florian, Thomas",2010
@@ -310,7 +302,7 @@ ENT_209029,Grand Aven-Perte,GrandAvenPerte,Trou D,471504.0,4425157.0,359,,,,2010
 ENT_209030,TROU A,TROUA,,471073.0,4425289.0,433,,,Mulot,2010
 ENT_209031,Grande Doline-Perte,GrandeDolinePerte,impénétrable,471511.0,4425318.0,347,,,,2010
 ENT_209032,Aven,Aven,,471002.0,4425391.0,466,,,Mulot,2010
-ENT_209033,Perte Coipo,PerteCoipo,471288, 4425378 ,370,,,,,2006
+ENT_209033,Perte Coipo,PerteCoipo,471288,4425378,370,,,,2006
 ENT_209035,CHIL,CHIL,470677,4425348,0,,,,2006
 ENT_209036,Cueva Sorry Topo,CuevaSorryTopo,471001,4424711,351,,,,,2006
 ENT_209037,Cueva De La Der,CuevaDeLaDer,470986, 4424781, 393,,,,,2006
@@ -379,7 +371,7 @@ ENT_211040,Aven,Aven,bouché,469656.0,4422828.0,287,,,"Olivier T, Denis",2010
 ENT_211041,Cueva 5,Cueva5,"a explorer, dans la doline des lobos",469763.0,4422959.0,310,,,Cédric,2010
 ENT_211042,Cueva 6,Cueva6,"a explorer, loin au nord",469807.0,4423507.0,433,,,Cédric,2010
 ENT_211043,Perte 1Lobos,Perte1Lobos,,468573.0,4422358.0,332,,,,2010
-ENT_211044,Perte des Lobos,PerteDesLobos,,,,,,,,
+ENT_211044,Perte des Lobos,PerteDesLobos,467782,4422983,330.0,,,,,
 ENT_211045,El Culo de la Madre,ElCuloDeLaMadre,Grosse entrée impressionnante qui suit un plan de faille et qui se termine par deux belles salles avec arrêt sur des éboulis.,468699.0,4422722.0,355,,-78,"Sylvain, Cédric, Buldo",2010
 ENT_211046,La Grotte,LaGrotte,"""inutile d'y aller""",468496.0,4422512.0,331,0.0,-9,Florian,2010
 ENT_211047,Igue Dedob,IgueDeDob,"""buldo m'a forcé à y aller"" Flo.",468516.0,4422547.0,,0.0,-8,Florian,2010
@@ -392,7 +384,7 @@ ENT_212004,TAR03,TAR03,"cavité repérée, non explorée",470359.0,4417650.0,525
 ENT_212005,TAR04,TAR04,"cavité repérée, non explorée",470446.0,4417762.0,476,,,,2008
 ENT_212006,TAR05,TAR05,"cavité repérée, non explorée (plus d'autres cavités dans le même secteur)",470679.0,4418000.0,340,,,,2008
 ENT_213001,Perte du Masque et de la Plume,LeMasqueEtLaPlume,Instrumenté,473667.0,4416955.0,90,1156.0,-66,,2008
-ENT_213002, Grotte du Finistere,GrotteFinistere,,472739.0,4416716.0,37,,,,2006
+ENT_213002, Grotte du Finistere,GrotteFinistere,,472739.0,4416716.0,37,nan,nan,,2006
 ENT_213003, Perte Glaciaire,PerteGlaciaire,Coordonnees probablement fausses,472988.0,4417752.0,100,,,,2006
 ENT_303001,Trou 1 sur 3eme bloc calcaire,Trou 1 sur 3eme bloc calcaire,,495068.0,4309020.0,186,,,,2014
 ENT_303002,Perte des Portes d'Abraham,PerteDesPortesDAbraham,Topographie,494398.0,4309243.0,163,,-135,,2014
