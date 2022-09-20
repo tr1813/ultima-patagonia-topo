@@ -7,27 +7,27 @@ ENT_104001,Abri,Abri1,Occupation humaine,475478.0,4450597.0,5,,,,2008
 ENT_104002,Cueva Rien,CuevaRien,3 grottes,475729.0,4450525.0,,,,,2008
 ENT_105001,Cueva Rapido1,CuevaRapido1,2 entrées,482677.0,4454593.0,30,,20,,2008
 ENT_105002,Cueva Rapido2,CuevaRapido2,2 entrées,482677.0,4454593.0,30,,30,,2008
-ENT_106001,Cueva Pirates,CuevaPirates,résurgence (courant d'air arrêt sur puits),790220.0,4452363.0,10,370.0,40,,2008
+ENT_106001,Cueva Pirates,CuevaPirates,résurgence (courant d'air arrêt sur puits),490220.0,4452363.0,10,370.0,40,,2008
 ENT_106002,Porche,Porche,Porche,490289.0,4451286.0,70,,,,2008
-ENT_106003,,,,,,,,,,
+ENT_106003,Résurgence NoTime,ResurgenceNoTime,,490289,4451286,3.0,,,,2008
 ENT_106004,Cueva Nutria,CuevaNutria,Occupation humaine,490541.0,4453870.0,20,,20,,2008
-ENT_106005,,,,,,,,,,
+ENT_106005,Porche,Porche,,490289,4451286,70.0,,,,2008
 ENT_106006,Grotte,Grotte,,490604.0,4450548.0,,,,,2008
 ENT_106007,Haciendas Salinas,HaciendasSalinas,,490183.0,4452320.0,66,,,,2008ENG
-ENT_106008,,,,,,,,,,
-ENT_106009,,,,,,,,,,
-ENT_106010,,,,,,,,,,
-ENT_106011,,,,,,,,,,
-ENT_106012,,,,,,,,,,
-ENT_106013,,,,,,,,,,
-ENT_106014,,,,,,,,,,
-ENT_106015,,,,,,,,,,
-ENT_106016,,,,,,,,,,
-ENT_106017,,,,,,,,,,
-ENT_106018,,,,,,,,,,
+ENT_106008,Caracara,Caracara,,490080,4452381,96,,,,2008ENG
+ENT_106009,PE1,PE1,"Plateau Egg 1, non descendu à cause de blocs instables",488815,4453011,186,,,,2008ENG
+ENT_106010,PE2,PE2,"Plateau Egg 2, environ 40 m avec un méandre rétrécissant",488956 4452962,189,,,,2008ENG
+ENT_106011,PE3,PE3,"Plateau Egg 3, non descendu, blocs instables",488956,4452962,201,,,,2008ENG
+ENT_106012,PE4,PE4,"Plateau Egg 4, aussi PL22 bloqué après 15 m",489317,4452812,224,,,,2008ENG
+ENT_106013,PE5,PE5,"Plateau Egg 5, puits entre deux canyons de surface, fin sur 10 m",489234,4452876,213,,,,2008ENG
+ENT_106014,PE6,PE6,"Plateau Egg 6",487636,4452795,226,,,,2008ENG
+ENT_106015,PE7,PE7,"Plateau Egg 7",487474,4452740,218,,,,2008ENG
+ENT_106016,PE8,PE8,"Plateau Egg 8, trois entrées permettent accès. Bruit de rivière sous des blocs",487506,4452738,220,,,,2008ENG
+ENT_106017,PE9,PE9,"Plateau Egg 9, position hasardeuse?",487836,4452871,225,,,,2008ENG
+ENT_106018,PE10,PE10,"Deux puits fossiles",489278,4452871,216,,,,2008ENG
 ENT_106019,Los Tres Rios,LosTresRios,,488833.0,4451227.0,325,,,,2006ITA
-ENT_106020, Cueva del Dragon,CuevaDelDragon,,489409.0,4452098.0,187,,,,2006ITA
-ENT_106021, Cueva del Zorro,CuevaDelZorro,,490088.0,4452354.0,105,,,,2008ENG
+ENT_106020,Cueva del Dragon,CuevaDelDragon,,489409.0,4452098.0,187,,,,2006ITA
+ENT_106021,Cueva del Zorro,CuevaDelZorro,,490088.0,4452354.0,105,,,,2008ENG
 ENT_107001,Cueva des los Pescadores,CuevaDesLosPescadores,résurgence,482449.0,4444663.0,40,200.0,40,,2008
 ENT_107002,Résurgence XXX,ResurgenceXXX,Résurgence sous le niveau de la mer,478634.0,4447073.0,0,220.0,24,,2017
 ENT_107003,Deux grottes (double entree),DeuxGrottes,Repéré le 25-01 par Buldo,478906.0,4446437.0,?,,?,,2017
@@ -224,48 +224,48 @@ ENT_205038,PorcheBaleine,Porche de la Baleine,"a remplir",467673,4428748,6,,,,20
 ENT_206001,Cueva Ayayema,CuevaAyayema,Coordonnées 2000 fausses (repointage 2008),476883.0,4424327.0,,,,,2008
 ENT_206002,Grotte du Dyke,GrotteDuDyke,Callote hoxipitale,476461.0,4423410.0,,,,,2008
 ENT_206003,JJP0,JJP0,,475043,4425186,433,,,,
-ENT_206004,,,,,,,,,,
-ENT_206005,,,,,,,,,,
-ENT_206006,,,,,,,,,,
-ENT_206007,,,,,,,,,,
-ENT_206008,,,,,,,,,,
-ENT_206009,,,,,,,,,,
-ENT_206010,,,,,,,,,,
-ENT_206011,,,,,,,,,,
-ENT_206012,,,,,,,,,,
-ENT_206013,,,,,,,,,,
-ENT_206014,,,,,,,,,,
-ENT_206015,,,,,,,,,,
-ENT_206016,,,,,,,,,,
-ENT_206017,,,,,,,,,,
-ENT_206018,,,,,,,,,,
-ENT_206019,,,,,,,,,,
-ENT_206020,,,,,,,,,,
-ENT_206021,,,,,,,,,,
-ENT_206022,,,,,,,,,,
-ENT_206023,,,,,,,,,,
-ENT_206024,,,,,,,,,,
-ENT_206025,,,,,,,,,,
-ENT_206026,,,,,,,,,,
-ENT_206027,,,,,,,,,,
-ENT_206028,,,,,,,,,,
-ENT_206029,,,,,,,,,,
-ENT_206030,,,,,,,,,,
-ENT_206031,,,,,,,,,,
-ENT_206032,,,,,,,,,,
-ENT_206033,,,,,,,,,,
-ENT_206034,,,,,,,,,,
-ENT_206035,,,,,,,,,,
-ENT_206036,,,,,,,,,,
-ENT_206037,,,,,,,,,,
-ENT_206038,,,,,,,,,,
-ENT_206039,,,,,,,,,,
-ENT_206040,,,,,,,,,,
-ENT_206041,,,,,,,,,,
-ENT_206042,,,,,,,,,,
-ENT_206043,,,,,,,,,,
+ENT_206004,JJP1,JJP1,,475107,4425112,429,,,,
+ENT_206005,JJP2,JJP2,,475175,4425192,444,,,,
+ENT_206006,JJP3,JJP3,,475069,4425245,452,,,,
+ENT_206007,JJP8,JJP8,,475140,4424860,358,,,,
+ENT_206008,UL04,UL04,,474961,4425621,457,,,,
+ENT_206009,UL07A,UL07A,,474841,4425409,373,,,,
+ENT_206010,UL07B,UL07B,,474836,4425367,380,,,,
+ENT_206011,UL05,UL05,,474969,4425554,455,,,,
+ENT_206012,Point32,Point32,,474969,4424637,338,,,,
+ENT_206013,Point30,Point30,,474998,4424705,335,,,,
+ENT_206014,Point001,Point001,,474477,4423817,365,,,,
+ENT_206015,Point31,Point31,,474952,4424624,334,,,,
+ENT_206016,GSLS01,GSLS01,,475187,4426380,669,,,,
+ENT_206017,GSLS02,GSLS02,,475255,4426406,691,,,,
+ENT_206018,GSLS03,GSLS03,,475361,4426071,679,,,,
+ENT_206019,GSLS04,GSLS04,,475208,4426189,635,,,,
+ENT_206020,GSLS05,GSLS05,,475205,4426209,632,,,,
+ENT_206021,GSLS06,GSLS06,,475202 4426174 618,,,,
+ENT_206022,GSLS07,GSLS07,"duplicata de GSLS06?",475202 4426174 618,,,,
+ENT_206023,GSLS08,GSLS08,,,475218,4426185,628,,,
+ENT_206024,Perte du Nothofagus Baobab,PerteNothofagusBaobab,,474458,4427709,214,,,,
+ENT_206025,Glaciaire760,Glaciaire 760,,475373,4426432,759,,,,
+ENT_206026,Grotte Sous La Glaciaire,GrotteSousLaGlaciaire,,475365 4426421 745,,,,
+ENT_206027,GrotteCamp600,GrotteCamp600,, 475063,4426287,600,,,,
+ENT_206028,Pozo Del Contacto,PozoDelContacto,"mêmes coordonnées que grotte camp 600",475063,4426287,629,,,,
+ENT_206029,UL02,UL02,,475118,4426181,621,,,,
+ENT_206030,UL03,UL03,,475065,4426047,584,,,,
+ENT_206031,AJPP01AB,AJPP01AB,,474466,4425996,120,,,,
+ENT_206032,AJPP02,AJPP02,,475106,4425962,579,,,,
+ENT_206033,Perte Du Moral,Perte Du Moral,,475550,4427985,360,,,,
+ENT_206034,P85 Camp 400,P85Camp400,,474992,4427009,519,,,,
+ENT_206035,Cueva Comete,CuevaComete,,475017,4427584,380,,,,
+ENT_206036,Cueva 17,Cueva17,,474963,4427404,398,,,,
+ENT_206037,Cueva Pause Sac,CuevaPauseSac,,475017,4427584,380,,,,
+ENT_206038,Cueva Dalle,CuevaDalle,,474946,4427389,396,,,,
+ENT_206039,Big Pits,BigPits,,474982,4427513,382,,,,
+ENT_206040,Perte de la Riviere,PerteDeLaRiviere,,474462,4423274,120,,,,
+ENT_206041,Passoire,Passoire,,474946,4424727,340,,,,
+ENT_206042,Gouffre Petit Creux,GouffrePetitCreux,,474990 4425248 437,,,,
+ENT_206043,Perte Du Temps,PerteDuTemps,,473872,4428412,140,,,,
 ENT_206044,Résurgence du Champignon,ResurgenceDuChampignon,résurgences sous marine repéré (-25 mètres),477682.0,4426231.0,0,,,,2008
-ENT_207001, Gouffre du petit creux,GouffrePetitCreux,,479379.0,4428572.0,141,,,,2006
+ENT_207001, Système des Condors,SystemeCondors,,479379,4428572,141,,,,2006
 ENT_207002,Resurgence des Lobos,ResurgenceLobos,,479668.0,4427696.0,0,,,,2006
 ENT_208001,Cueva 10H10,Cueva10H10,,468779.0,4427269.0,80,341.0,-7-+23,,2008
 ENT_208002,Résurgence 9 plage de la Baleine,Résurgence 9 plage de la Baleine,Arrêt sur escalade,468617.0,4427344.0,40,,0,,2008
@@ -279,6 +279,7 @@ ENT_209004,Perte de l'Acharné,Perte de l'Acharné,,473027.0,4425450.0,334,,-43,
 ENT_209005,Perte n° 18,Perte n° 18,,473067.0,4425846.0,422,57.0,-34,,2008
 ENT_209006,Résurgence de la plage,ResurgenceDeLaPlage,Arrêt sur galerie exondé post S1 (-28m-200m),471328.0,4422992.0,3,380.0,+25--28,,2008
 ENT_209007,Grotte de l'Evier,GrotteEvier,Arrêt sur puits à finir par beau temps : entrée de la perte du temps ?,473527.0,4428264.0,195,75.0,-60,,2008
+ENT_209008,Bob l'Eponge,BobLEponge,"petite perte, arrêt sur siphon",473372.0,4427993.0,200,,-40,,2008
 ENT_209009,Cueva Gringa,CuevaGringa,petite perte,472980.0,4428693.0,154,,-30,,2008
 ENT_209010,Doline Calafate,DolineCalafate,"rebouchée par éboulis, restes archéologiques",473125.0,4428203.0,250,,,,2008
 ENT_209011,Gouffre de la Détente,GouffreDeLaDetente,dév total: 800m,473050.0,4425902.0,445,,-323,,2010
@@ -507,7 +508,6 @@ ENT_NEW_32,Grotte des trois entrées plus une,TroisEntreesPlusUne,"Cavité énor
 ENT_NEW_33,Grotte des quatre entrées plus une,QuatreEntreesPlusUne,,,,,,"-32, +40",,2019
 ENT_NEW_34,Résurgence Hongo,ResurgenceHongo,,478745.0,4446553.0,0,,29,,2019
 ENT_NEW_35, Haciendas Salinas,HaciendasSalinas,,490183.0,4452320.0,66,,,,2008ENG
-ENT_NEW_4,Bob l'Eponge,BobLEponge,"petite perte, arrêt sur siphon",473372.0,4427993.0,200,,-40,,2008
 ENT_NEW_5,Grotte du bout du monde,Grotte du bout du monde,arrêt sur rien! ,,,40,125.0,-15,,2008
 ENT_NEW_6,Résurgence 3 plage de la Baleine,Résurgence 3 plage de la Baleine,200 l-s (os de baleine),,,,,,,2008
 ENT_NEW_7,Résurgence 5 plage de la Baleine,Résurgence 5 plage de la Baleine,500 l-s (os de baleine),,,,,,,2008
