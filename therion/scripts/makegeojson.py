@@ -107,11 +107,15 @@ for sr in reader.shapeRecords():
             print(vals)
             LENGTH,DEPTH = getDepthLength(atr['_NAME'])
             if LENGTH != 'NaN':
-                atr['_LENGTH'] = "{:.0f}".format(LENGTH)
-                atr['_DEPTH'] = "{:.0f}".format(DEPTH)
+                atr['_LENGTH_TH'] = "{:.0f}".format(LENGTH)
+                atr['_DEPTH_TH'] = "{:.0f}".format(DEPTH)
+                atr['_LENGTH'] = str(vals[7])
+                atr['_DEPTH'] = str(vals[8])
             else:
                 atr['_LENGTH'] = str(vals[7])
                 atr['_DEPTH'] = str(vals[8])
+                atr['_LENGTH_TH'] = 'NaN'
+                atr['_DEPTH_TH'] = 'NaN'
 
             ROOT  = 'https://tr1813.github.io/ultima-patagonia-topo/therion/data/'
             CAVE_URL = ROOT+vals[0].strip('ENT_')[:3]+'/'+vals[2]+'/'+vals[2]+'.html'
@@ -127,6 +131,8 @@ for sr in reader.shapeRecords():
             atr['_CAVENAME'] = 'not known'
             atr['_LENGTH'] = "not known"
             atr['_DEPTH'] = "not known"
+            atr['_LENGTH_TH'] = "not known"
+            atr['_DEPTH_TH'] = "not known"
             atr['_ALTITUDE'] = "not known"
             atr['_EXPED'] = "not known"
             atr['_EXPLORATEURS'] = "not known"
