@@ -84,24 +84,24 @@ centreline
     station ENT_201025  "Cueva C4 SansNom 6"
     fix ENT_201026	471000	4440731	9.0
     station ENT_201026  "Porche 2 Os de Baleine"
-    fix ENT_201027	473138	4437000	325.0
-    station ENT_201027  "C4T2"
-    fix ENT_201028	473066	4437002	310.0
-    station ENT_201028  "C4T3"
+    fix ENT_201027 470851 4437247 13
+    station ENT_201027 "pacifique nord Porche 1"
+    fix ENT_201028 473005 4437401 471
+    station ENT_201028  "C4 SansNom 10"
     fix ENT_201029	473670	4437075	270.0
     station ENT_201029  "Cueva 4"
-    fix ENT_201030	473185	4437080	337.0
-    station ENT_201030  "C4T1"
-    fix ENT_201031	473587	4437133	303.0
-    station ENT_201031  "C3"
+    fix ENT_201030	473587 4437133 303.0
+    station ENT_201030  "C3"
+    fix ENT_201031	475272	4442209	460.0
+    station ENT_201031  "SANS NOM"
     fix ENT_201032	473735	4437228	306.0
     station ENT_201032  "C4 Cueva 6"
-    fix ENT_201033	473607	4437277	385.0
-    station ENT_201033  "C4 Cueva 9"
+    fix ENT_201033	475375	4442069	430.0
+    station ENT_201033  "SANS NOM"
     fix ENT_201034	473652	4437656	397.0
-    station ENT_201034  "C4 SansNom10"
+    station ENT_201034  "Cueva de la Casquette"
     fix ENT_201035	473683	4437677	381.0
-    station ENT_201035  "C4 SansNom 9"
+    station ENT_201035  "Trou de la Plaquette"
     fix ENT_201036	473577	4438008	389.0
     station ENT_201036  "C4 Nfissure 0"
     fix ENT_201037	473579	4438420	361.0
@@ -111,27 +111,29 @@ centreline
     fix ENT_201039	473616	4438593	342.0
     station ENT_201039  "C4 SansNom 6"
     fix ENT_201040	473599	4438718	337.0
-    station ENT_201040  "C5 Cueva2"
+    station ENT_201040  "Porche du Sonnar"
     fix ENT_201041	473407	4438857	403.0
     station ENT_201041  "C4 SansNom 1"
     fix ENT_201042	473028	4438978	312.0
     station ENT_201042  "C4 SansNom 4"
     fix ENT_201043	473077	4439130	313.0
-    station ENT_201043  "C5 Cueva3"
+    station ENT_201043  "Gouffre du Colibri"
     fix ENT_201044	473044	4439162	307.0
     station ENT_201044  "C4 SansNom 3"
     fix ENT_201045	473343	4439239	391.0
     station ENT_201045  "C5 Cueva1"
-    fix ENT_201046	473652	4437656	397.0
-    station ENT_201046  "Cueva de la Casquette"
+    fix ENT_201046	475670	4442920	323.0
+    station ENT_201046  "SANS NOM"
     fix ENT_201047	473344	4439239	391.0
     station ENT_201047  "Cueva Champignon"
-    fix ENT_201048	473077	4439130	313.0
-    station ENT_201048  "Gouffre du Colibri"
-    fix ENT_201049	473683	4437677	382.0
-    station ENT_201049  "Trou de la Plaquette"
-    fix ENT_201050	473599	4438718	338.0
-    station ENT_201050  "Porche du Sonnar"
+    fix ENT_201048	476597	4441532	316.0
+    station ENT_201048 	"Gouffre du Ziploc"
+    equate ENT_201048 0@Ziploc
+    fix ENT_201049	481244	4440093	29.0
+    station ENT_201049 "Cueva Haricot"
+    equate ENT_201049 23@Haricot
+    fix ENT_201050	475551	4442964	285.0
+    station ENT_201050  "Sumidero del Chorizo Plastico"
     fix ENT_201051	477006	4441940	0
     station ENT_201051  "Perte 3"
     fix ENT_201052	479866	4441309	356.0
@@ -179,24 +181,7 @@ centreline
     station ENT_201071  "SANS NOM"
     fix ENT_201072	476632	4441445	378.0
     station ENT_201072  "SANS NOM"
-    fix ENT_201073	476597	4441532	316.0
-    station ENT_201073 	"Gouffre du Ziploc"
-    equate ENT_201073 0@Ziploc
-    fix ENT_201074	481244	4440093	29.0
-    station ENT_201074 "Cueva Haricot"
-    equate ENT_201074 23@Haricot
-    fix ENT_201075	475551	4442964	285.0
-    station ENT_201075  "Sumidero del Chorizo Plastico"
-    fix ENT_201076	475670	4442920	323.0
-    station ENT_201076  "SANS NOM"
-    fix ENT_201077	475375	4442069	430.0
-    station ENT_201077  "SANS NOM"
-    fix ENT_201078	475272	4442209	460.0
-    station ENT_201078  "SANS NOM"
-    fix ENT_201079 473005 4437401 471
-    station ENT_201079  "C4 SansNom 10"
-    fix ENT_201080 470851 4437247 13
-    station ENT_201080 "pacifique nord Porche 1"
+
 		fix SOMMET360 472954 4437990 662
     station SOMMET360  "Sommet 360°"
 		fix BLOCSGRES 472902 4437730 603
