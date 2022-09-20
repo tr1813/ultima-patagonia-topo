@@ -14,6 +14,10 @@ survey 107 -title "107 Barros Luco"
   input CuevaDesLosPescadores/CuevaDesLosPescadores.th
 
 
+  map m-PuntaBlanca-p -projection plan
+    m-tout-p@PuntaBlanca
+    m-tout-p@ResurgenceHongo
+  endmap
 
   centreline
     cs UTM18S
@@ -133,8 +137,5 @@ survey 107 -title "107 Barros Luco"
 
   endcentreline
 
-  map m-PuntaBlanca-p -projection plan
-    m-tout-p@PuntaBlanca
-    m-tout-p@ResurgenceHongo
-  endmap
+
 endsurvey
