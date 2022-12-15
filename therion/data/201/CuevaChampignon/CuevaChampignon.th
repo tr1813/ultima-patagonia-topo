@@ -1,5 +1,11 @@
 
 survey CuevaChampignon -title " Cueva Champignon" -attr cad_num 201047  \
  -attr exped UP2010
+    
+    centreline
 
+
+        1   2   3.45 120 +10
+        2   3   
+    endcentreline
 endsurvey

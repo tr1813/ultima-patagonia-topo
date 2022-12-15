@@ -3,7 +3,7 @@ survey 201 -title "201 Grande Barrière"
     input Ayayebo/Ayayebo.th
     input GB01/GB01.th
     input Ziploc/Ziploc.th
-    input Haricot/Haricot.th
+    input CuevaHarrico/CuevaHarrico.th
     input Resurgence1/Resurgence1.th
     input LaRabasse3/LaRabasse3.th
     input LaRabasse1/LaRabasse1.th
@@ -28,7 +28,8 @@ survey 201 -title "201 Grande Barrière"
     input C4SansNom7/C4SansNom7.th
     input C4SansNom6/C4SansNom6.th
     input C5Cueva2/C5Cueva2.th
-centreline
+
+    centreline
 		cs UTM18S
 
     fix ENT_201001	478266	4438945	0.0
@@ -131,7 +132,7 @@ centreline
     equate ENT_201048 0@Ziploc
     fix ENT_201049	481244	4440093	29.0
     station ENT_201049 "Cueva Haricot"
-    equate ENT_201049 23@Haricot
+    equate ENT_201049 23@CuevaHarrico
     fix ENT_201050	475551	4442964	285.0
     station ENT_201050  "Sumidero del Chorizo Plastico"
     fix ENT_201051	477006	4441940	0
@@ -186,5 +187,6 @@ centreline
     station SOMMET360  "Sommet 360°"
 		fix BLOCSGRES 472902 4437730 603
     station BLOCSGRES  "blocks de Grès"
-endcentreline
+
+  endcentreline
 endsurvey

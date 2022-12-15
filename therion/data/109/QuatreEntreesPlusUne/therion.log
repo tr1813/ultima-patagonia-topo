@@ -1,9 +1,8 @@
-therion 5.5.0+e2caa7d (2020-05-01)
-initialization file: /usr/local/etc/therion.ini
+therion 6.1.2 (2022-07-11)
+  - using Proj 9.0.0, compiled against 9.0.0
+initialization file: C:\Users\User\AppData\Local\Therion/therion.ini
 reading ... done
-checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
-checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
-configuration file: config.thconfig
+configuration file: c:\Users\User\Documents\THERION\ultima-patagonia-topo\therion\data\109\QuatreEntreesPlusUne\config.thconfig
 reading ... done
 reading source files ... done
 preprocessing database ... done
@@ -12,9 +11,9 @@ searching for centerline loops ... done
 calculating station coordinates ... done
 processing survey data ... 
 ####################### cavern log file ########################
- 1> Survex 1.2.36
- 2> Copyright © 1990-2018 Olly Betts
- 3> Survey has no fixed points. Therefore I’ve fixed 1 at (0,0,0)
+ 1> Survex 1.2.42
+ 2> Copyright � 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
  4> 
  5> Survey contains 30 survey stations, joined by 29 legs.
  6> There are 0 loops.
@@ -49,30 +48,22 @@ average distortion: 0.00%
 
 ############### export maps & scraps selection #################
 M    -1.12 m-all-p@QuatreEntreesPlusUne ()
-S     8.43  QuatreEntreesPlusUne-1p@QuatreEntreesPlusUne ()
-S    -2.92  QuatreEntreesPlusUne-2p@QuatreEntreesPlusUne ()
-S    -8.89  QuatreEntreesPlusUne-3p@QuatreEntreesPlusUne ()
+S     8.43 QuatreEntreesPlusUne-1p@QuatreEntreesPlusUne ()
+S    -2.92 QuatreEntreesPlusUne-2p@QuatreEntreesPlusUne ()
+S    -8.89 QuatreEntreesPlusUne-3p@QuatreEntreesPlusUne ()
 ########## end of export maps & scraps selection ###############
-copying_fonts ...
-Arimo-Regular.ttf
-Arimo-Italic.ttf
-Arimo-Bold.ttf
-Arimo-Regular.ttf
-Arimo-BoldItalic.ttf
-done.
 writing outputs/QuatreEntreesPlusUne.pdf ...
-generating TeX metrics ... done
 ####################### metapost log file ########################
-This is MetaPost, version 2.00 (TeX Live 2018) (kpathsea version 6.3.0)  31 MAR 2022 19:00
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  12 DEC 2022 15:19
 **data.mp
-(/usr/local/texlive/2018/texmf-dist/metapost/base/mpost.mp
-(/usr/local/texlive/2018/texmf-dist/metapost/base/plain.mp
+(c:/Users/User/AppData/Local/Therion/texmf/mpost/mpost.mp
+(c:/Users/User/AppData/Local/Therion/texmf/mpost/plain.mp
 Preloading the plain mem file, version 1.005) ) (./data.mp
 {randomseed:=42}
- [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [
-4012] [4013] [4014]
-[4015]
-Warning: patterncolor not supported in Therion [4016]
+ [1] [2] [3] [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[15]
+Warning: patterncolor not supported in Therion [16] [17]
 [Warning: undefined symbol `l_survey_surface_MY']
 [Warning: undefined symbol `l_wall_bedrock_MY']
 [Warning: undefined symbol `l_wall_clay_MY']
@@ -84,52 +75,54 @@ Warning: patterncolor not supported in Therion [4016]
 [Warning: undefined symbol `l_wall_pit_MY']
 [Warning: undefined symbol `l_wall_overlying_MY']
 [Warning: undefined symbol `l_wall_moonmilk_MY']
+[Warning: undefined symbol `l_wall_flowstone_MY']
 [Warning: undefined symbol `p_airdraught_summer_MY']
 [Warning: undefined symbol `p_airdraught_winter_MY'] [1] [2] [3] [4] [5] [6]
 [7] [8] [9] [10] [11] [12] [13] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp)
-[14] )
+(./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) [14] )
  
 Here is how much of MetaPost's memory you used:
- 11968 strings using 275192 characters
- 4468288 bytes of node memory
- 1781 symbolic tokens
- 11i,81n,16p,413b,5f stack positions out of 16i,96n,20p,487b,6f
-30 output files written: data.1 .. data.4016
+ 12150 strings using 290460 characters
+ 3271452 bytes of node memory
+ 1810 symbolic tokens
+ 11i,82n,16p,425b,5f stack positions out of 16i,98n,20p,487b,6f
+31 output files written: data-patt.1 .. data-patt.17
 
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
-generating TeX metrics ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdfetex 2018.4.16)  31 MAR 2022 19:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdftex 2021.6.19)  12 DEC 2022 15:19
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **data.tex
-(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex (./thfonts.map{
-/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map})
-(/usr/local/texlive/2018/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
-(./th_fontdef.tex)
-(./th_formdef.tex) (./th_pagedef.tex </Volumes/Tanguy Main 1/QGIS/ultima-patago
-nia-topo/logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg>) (./th_pages.tex)
- 64 numeric registers used out of 32768
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Users/User/AppData/Local/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Users/User/AppData/Local/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex <c:/Users/User/Documents/THERION/ultima-pa
+tagonia-topo/therion/data/109/QuatreEntreesPlusUne/../../../logo/CT-LOGO-150x15
+0-BLACK-ALPHA-FR.jpg>) (./th_pages.tex)
+ 67 numeric registers used out of 32768
  [1] ) 
 Here is how much of TeX's memory you used:
- 265 strings out of 494645
- 2830 string characters out of 6148133
- 258255 words of memory out of 5000000
- 1902 multiletter control sequences out of 15000+600000
- 16885 words of font info for 57 fonts, out of 8000000 for 9000
- 1416 hyphenation exceptions out of 8191
- 8i,5n,6p,350b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
-{a_cghrlb.enc}<Arimo-BoldItalic.ttf><Arimo-Bold.ttf><Arimo-Regular.ttf>
-Output written on data.pdf (1 page, 126427 bytes).
+ 295 strings out of 94604
+ 4099 string characters out of 1142524
+ 262951 words of memory out of 5217679
+ 1948 multiletter control sequences out of 15000+50000
+ 22547 words of font info for 69 fonts, out of 1000000 for 2000
+ 1416 hyphenation exceptions out of 5000
+ 8i,5n,7p,355b,40s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Users/User/AppData/Local/Therion/texmf/fonts/type1/cmbx10.pfb><c:/Use
+rs/User/AppData/Local/Therion/texmf/fonts/type1/cmss10.pfb><c:/Users/User/AppDa
+ta/Local/Therion/texmf/fonts/type1/cmssi10.pfb><c:/Users/User/AppData/Local/The
+rion/texmf/fonts/type1/csbx10.pfb><c:/Users/User/AppData/Local/Therion/texmf/fo
+nts/type1/csss10.pfb>
+Output written on data.pdf (1 page, 146692 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 90 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 162 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 180 words of extra memory for PDF output out of 10000 (max. 10000000)
 
 
 ##################### end of pdftex log file #####################
@@ -138,23 +131,22 @@ done
 
 ############### export maps & scraps selection #################
 M    -1.12 m-all-p@QuatreEntreesPlusUne ()
-S     8.43  QuatreEntreesPlusUne-1p@QuatreEntreesPlusUne ()
-S    -2.92  QuatreEntreesPlusUne-2p@QuatreEntreesPlusUne ()
-S    -8.89  QuatreEntreesPlusUne-3p@QuatreEntreesPlusUne ()
+S     8.43 QuatreEntreesPlusUne-1p@QuatreEntreesPlusUne ()
+S    -2.92 QuatreEntreesPlusUne-2p@QuatreEntreesPlusUne ()
+S    -8.89 QuatreEntreesPlusUne-3p@QuatreEntreesPlusUne ()
 ########## end of export maps & scraps selection ###############
 writing outputs/QuatreEntreesPlusUne.svg ...
-generating TeX metrics ... done
 ####################### metapost log file ########################
-This is MetaPost, version 2.00 (TeX Live 2018) (kpathsea version 6.3.0)  31 MAR 2022 19:00
+This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  12 DEC 2022 15:19
 **data.mp
-(/usr/local/texlive/2018/texmf-dist/metapost/base/mpost.mp
-(/usr/local/texlive/2018/texmf-dist/metapost/base/plain.mp
+(c:/Users/User/AppData/Local/Therion/texmf/mpost/mpost.mp
+(c:/Users/User/AppData/Local/Therion/texmf/mpost/plain.mp
 Preloading the plain mem file, version 1.005) ) (./data.mp
 {randomseed:=42}
- [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [
-4012] [4013] [4014]
-[4015]
-Warning: patterncolor not supported in Therion [4016]
+ [1] [2] [3] [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[15]
+Warning: patterncolor not supported in Therion [16] [17]
 [Warning: undefined symbol `l_survey_surface_MY']
 [Warning: undefined symbol `l_wall_bedrock_MY']
 [Warning: undefined symbol `l_wall_clay_MY']
@@ -166,24 +158,25 @@ Warning: patterncolor not supported in Therion [4016]
 [Warning: undefined symbol `l_wall_pit_MY']
 [Warning: undefined symbol `l_wall_overlying_MY']
 [Warning: undefined symbol `l_wall_moonmilk_MY']
+[Warning: undefined symbol `l_wall_flowstone_MY']
 [Warning: undefined symbol `p_airdraught_summer_MY']
 [Warning: undefined symbol `p_airdraught_winter_MY'] [1] [2] [3] [4] [5] [6]
 [7] [8] [9] [10] [11] [12] [13] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp)
-[14] )
+(./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) [14] )
  
 Here is how much of MetaPost's memory you used:
- 11968 strings using 275192 characters
- 4468288 bytes of node memory
- 1781 symbolic tokens
- 11i,81n,16p,413b,5f stack positions out of 16i,96n,20p,487b,6f
-30 output files written: data.1 .. data.4016
+ 12150 strings using 290460 characters
+ 3271452 bytes of node memory
+ 1810 symbolic tokens
+ 11i,82n,16p,425b,5f stack positions out of 16i,98n,20p,487b,6f
+31 output files written: data-patt.1 .. data-patt.17
 
 
 #################### end of metapost log file ####################
-converting scraps* ... done
+converting scraps ... done
 making svg map ... done
 done
-compilation time: 8 sec
+compilation time: 3 sec
 
 
 ###################### scrap distortions #######################

@@ -1,0 +1,3 @@
+source CuevaNutria2.th
+
+export model -o CuevaNutria.3d

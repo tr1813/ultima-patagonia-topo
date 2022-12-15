@@ -26,20 +26,10 @@ survey UltimaPatagonia
 	input 304/304.th 	## Pelantaro
 
 	input 401/401.th 	## Glacier Tempanos
+	#input 402/402.th    ## Glacier Peel
 
 	## les grottes ci-dessous n'ont pas de zone cadastrale attribuée.
 	## the cave underneath have not been assigned to a cadastral zone yet.
-
-	centreline
-		### Connexions ###
-		cs UTM18S
-		#equate 53@ResurgenceHongo.107	21b@ChattiereQuiBuffle.107
-		#equate 4005@PuntaBlanca.107 MPH25@ChattiereQuiBuffle.107
-
-
-
-
-	endcentreline
 
 
 

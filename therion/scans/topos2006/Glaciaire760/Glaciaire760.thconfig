@@ -1,3 +1,0 @@
-source Glaciaire760_convert.th
-
-export model -o Glaciaire760.3d

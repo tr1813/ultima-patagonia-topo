@@ -1,0 +1,1 @@
+Gouffre, arrêt à -25

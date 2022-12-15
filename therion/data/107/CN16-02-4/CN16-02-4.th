@@ -1,4 +1,18 @@
+survey CN16-02-4 -title 'CN 16-02-4' -attr cadnum 107023 -attr exped UP2017
 
-survey CN16-02-4 -title "CN 16-02-4" -attr cad_num 107023 -attr exped UP2017
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 4447413.0 4447413.0 405
 
-endsurvey
+        	#explo-date UP2017
+        	#team "nan"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        
