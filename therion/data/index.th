@@ -26,7 +26,8 @@ survey UltimaPatagonia
 	input 304/304.th 	## Pelantaro
 
 	input 401/401.th 	## Glacier Tempanos
-	#input 402/402.th    ## Glacier Peel
+	#input 402/402.th    ## Glacier Peel Sud
+	#input 403/403.th    ## Glacier Peel Nord
 
 	## les grottes ci-dessous n'ont pas de zone cadastrale attribuée.
 	## the cave underneath have not been assigned to a cadastral zone yet.
