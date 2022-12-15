@@ -11,4 +11,5 @@ layout local
   map-header 0 0 nw
 endlayout
 
+export model -o 201.3d
 export atlas -o 201_plan.pdf -layout local -layout-debug station-names

@@ -1,0 +1,3 @@
+source LeMasqueEtLaPlume.th
+
+export model -o LeMasqueEtLaPlume.3d

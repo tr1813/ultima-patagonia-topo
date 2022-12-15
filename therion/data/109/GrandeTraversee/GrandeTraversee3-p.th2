@@ -1,0 +1,61 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -250 -500 250 500
+##XTHERION## xth_me_area_zoom_to 100
+
+
+scrap "GrandeTraversee3"-1p -projection plan -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
+    point -155.91 -1055.71 station -name 0
+    point -462.20 -789.57 station -name 1
+    point -329.13 -549.41 station -name 2
+    point -279.53 -343.50 station -name 3
+    point -286.61 53.35 station -name 4
+    point -87.40 554.13 station -name 6
+    point 170.87 604.13 station -name 7
+    point 200.79 945.08 station -name 8
+    point 462.20 1055.71 station -name 9
+    line survey
+        -155.91 -1055.71
+        -462.20 -789.57
+    endline
+    line survey
+        -462.20 -789.57
+        -329.13 -549.41
+    endline
+    line survey
+        -329.13 -549.41
+        -279.53 -343.50
+    endline
+    line survey
+        -279.53 -343.50
+        -286.61 53.35
+    endline
+    line survey
+        -286.61 53.35
+        -87.40 554.13
+    endline
+    line survey
+        -87.40 554.13
+        -87.40 554.13
+    endline
+    line survey
+        -87.40 554.13
+        170.87 604.13
+    endline
+    line survey
+        170.87 604.13
+        200.79 945.08
+    endline
+    line survey
+        200.79 945.08
+        462.20 1055.71
+    endline
+    point -155.91 -1055.71 station-name -align tr -scale xs -text 0
+    point -462.20 -789.57 station-name -align tr -scale xs -text 1
+    point -329.13 -549.41 station-name -align tr -scale xs -text 2
+    point -279.53 -343.50 station-name -align tr -scale xs -text 3
+    point -286.61 53.35 station-name -align tr -scale xs -text 4
+    point -87.40 554.13 station-name -align tr -scale xs -text 6
+    point 170.87 604.13 station-name -align tr -scale xs -text 7
+    point 200.79 945.08 station-name -align tr -scale xs -text 8
+    point 462.20 1055.71 station-name -align tr -scale xs -text 9
+endscrap

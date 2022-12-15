@@ -34,8 +34,7 @@ layout local-p
   \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
   \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - \yscale\relax}{N}{\northarrow}
   \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\scalebar}
-  \legendbox{\the\numexpr\xcenter-45\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{W} {\hbox{\loadpicture{"/Volumes/Tanguy Main 1/QGIS/ultima-patagonia-topo/logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
-  }
+  \legendbox{\the\numexpr\xcenter-45\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{W} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}}
   endcode
 endlayout
 

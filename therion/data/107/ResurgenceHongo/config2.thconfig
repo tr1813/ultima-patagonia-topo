@@ -1,0 +1,3 @@
+source ResurgenceHongo_convert.th
+
+export model -o ResurgenceHongo.3d

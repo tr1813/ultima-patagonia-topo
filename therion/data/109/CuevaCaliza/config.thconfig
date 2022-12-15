@@ -1,0 +1,6 @@
+source <Nom de la cavite>.th
+
+export model -o CuevaCaliza.3d
+export model -o CuevaCaliza.lox
+export map -o CuevaCaliza.kml
+
