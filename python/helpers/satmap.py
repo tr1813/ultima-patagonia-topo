@@ -49,8 +49,8 @@ class SatelliteMapPlot:
         # plot 1
         x, y = sm.grid.transform([self.new_x],[self.new_y])
         xi, yi = sm.grid.transform([p._orig_long for p in self.points],[p._orig_lat for p in self.points])
-        ax.scatter(x, y, zorder= 100, s=5,color="blue", marker = "d")
-        ax.scatter(xi, yi, zorder= 100, s=3,color="red", marker = "d")
+        ax.scatter(x, y, zorder= 100, s=5,color="blue", marker = "d") # type:ignore
+        ax.scatter(xi, yi, zorder= 100, s=3,color="red", marker = "d") # type:ignore
         for name,x,y in zip(self.point_names,xi,yi):
             ax.text(x+.0001,y+.0001,name,fontsize=5,color = "red")
 
