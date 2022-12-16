@@ -1,14 +1,13 @@
 import argparse
-from tkinter import END, Frame, Label,LabelFrame,Entry,Button,StringVar,Tk,OptionMenu, Text,Canvas, WORD
+from tkinter import END, Frame, Label,LabelFrame,Entry,Button,StringVar,Tk,OptionMenu, Text,Canvas, WORD, INSERT
 from tkinter import messagebox,filedialog,simpledialog
 
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from matplotlib.figure import Figure
-
+from PIL import ImageGrab
 # import all the local helpers
 from helpers.cadaster import *
 from helpers.satmap import *
-
+import time
 
 parser = argparse.ArgumentParser(description="Run the Ultima Patagonia interface")
 parser.add_argument(
@@ -62,7 +61,7 @@ class CaveDatabaseApp(Tk):
     def __init__(self, *args, **kwargs):
         
         Tk.__init__(self, *args, **kwargs)
-
+        global root
         root = Frame(self)
         self.grid_rowconfigure(0, weight=1)
         self.grid_columnconfigure(0, weight=1)
@@ -125,24 +124,69 @@ class StartPage(Frame):
         databaseOpenNote = Label(self, text=OpenNoteText, width=50)
         databaseOpenNote.grid(pady=10,padx=10,row=2,column=1)
 
+        chosen_path = StringVar()
+        chosen_path.set('')
+
+        def open_dialog():
+            root_filename = filedialog.asksaveasfilename(
+                initialdir="../therion/data", 
+                title="Selectionner un fichier", 
+                filetypes=(("CSV files", "*.csv"),("Tous fichiers", "*.*"))
+            )
+            chosen_path.set(root_filename)
+
+            if chosen_path.get() != "":
+                try:
+                    MyCaveCadaster.write_to_file(chosen_path.get())
+                except FileNotFoundError:
+                    messagebox.showwarning("Erreur de saisie", "Entrez un nom de fichier valide!")
+                    pass
+
+
+        filenameOpenButton = Button(self, text="Sauvegarder", command=open_dialog,width=50)
+        filenameOpenButton.grid(row=3,column=0, padx=10,pady=10)
+        SaveNoteText = """
+        Enregistrer la base de données dans un tableur au format csv"""
+        databaseSaveNote = Label(self, text=SaveNoteText, width=50)
+        databaseSaveNote.grid(pady=10,padx=10,row=3,column=1)
+
         button = Button(self, text="Ajouter une cavité",width=50,
                             command=lambda: controller.show_frame(AddFrame))
-        button.grid(pady=10,padx=10,row=3,column=0)
+        button.grid(pady=10,padx=10,row=4,column=0)
+        UpdateNoteText = """
+        Renseigner les données d'une nouvelle cavité."""
+        UpdateNote = Label(self, text=UpdateNoteText, width=50)
+        UpdateNote.grid(pady=10,padx=10,row=4,column=1)
 
         button = Button(self, text="Trouver une cavité",width=50,
                             command=lambda: controller.show_frame(FindCaveFrame))
-        button.grid(pady=10,padx=10,row=4,column=0)
-
-
+        button.grid(pady=10,padx=10,row=5,column=0)
+        FindNoteText = """
+        Trouver l'emplacement d'une cavité existante."""
+        FindNote = Label(self, text=FindNoteText, width=50)
+        FindNote.grid(pady=10,padx=10,row=5,column=1)
 
         button = Button(self, text="Convertir un fichier Visual Topo",width=50,
                             command=lambda: controller.show_frame(ConvertVisualFrame))
         
-        button.grid(pady=10,padx=10,row=5,column=0)
+        button.grid(pady=10,padx=10,row=6,column=0)
+        ConvertText = """
+        Convertir un fichier Visual Topo (.tro) au format Therion (.th) """
+        ConvertNote = Label(self, text=ConvertText, width=50)
+        ConvertNote.grid(pady=10,padx=10,row=6,column=1)
+
 
         button = Button(self, text="Creer un fichier 2D ou 3D",width=50,
                             command=lambda: controller.show_frame(Create2DFrame))
-        button.grid(pady=10,padx=10,row=6,column=0)
+        button.grid(pady=10,padx=10,row=7,column=0)
+        To2DText = """
+
+        Construire un modele .3d ainsi que les fichiers croquis 2D .th2"""
+        To2DNote = Label(self,width=50,text=To2DText)
+        To2DNote.grid(pady=10,padx=10,row=7,column=1)
+
+        QuitButton = Button(self, text= "Quitter", command= lambda : root.master.destroy(),width=50)
+        QuitButton.grid(pady=10,padx=10,row=8,column=0)
 
 class Create2DFrame(Frame):
     def __init__(self, parent,controller):
@@ -193,19 +237,44 @@ class FindCaveFrame(Frame):
         folder_path.set("")
 
         def search(search: str)-> None:
-            global cave
-            cave = MyCaveCadaster.find_cave(search)
+            try: 
+                caves = MyCaveCadaster.find_cave(search)
+            except CaveNotFoundError:
+                messagebox.showwarning("Aucune cavite a ce nom.", "Entrez un nom valide ou un numero cadastral existant")
+
             # cycle over key values.
+            if len(caves) == 1:
+                global cave
+                cave = caves[0]
+            else: 
+                names = ""
+                for cave in caves:
+                    names += f"\n {cave.cadnum} {cave.name}"
+                messagebox.showwarning("Plus d'une cavite a ce nom", names)
+
+
             cave.add_coordinates(cave.coordinates)
             folder_path.set(cave._folder_path)
-            for i, (key,value) in enumerate(cave.__dict__.items()):
-                
-                label = Label(self, text = key, font=BOLDFONT)
-                label.grid(row = 4+i,column=0)
-                valueLabel = Text(self, height=2, wrap=WORD)
-                valueLabel.insert(1.0, value)
-                valueLabel.grid(row = 4+i,column=1)
-            print(folder_path.get())
+            i=0
+        
+            for key,value in cave.__dict__.items():
+                if key[0] != "_":
+                    if key != "coordinates":
+                        label = Label(self, text = key, font=BOLDFONT)
+                        label.grid(row = 4+i,column=0)
+                        valueLabel = Text(self, height=3, wrap=WORD)
+                        valueLabel.insert(1.0, value)
+                        valueLabel.grid(row = 4+i,column=1)
+                        i+=1
+                    else:
+                        for coord,label in zip((cave.coordinates.x,cave.coordinates.y),("X UTM 18S","Y UTM 18S")):
+                            label = Label(self, text = label, font=BOLDFONT)
+                            label.grid(row = 4+i,column=0)
+                            valueLabel = Text(self, height=3, wrap=WORD)
+                            valueLabel.insert(1.0, coord)
+                            valueLabel.grid(row = 4+i,column=1)
+                            i+=1
+            # if any update needed
 
         def open_directory(dirname: str)-> None:
             actual_dirname = abspath(dirname)
@@ -231,8 +300,8 @@ class FindCaveFrame(Frame):
         # open file explorer
         openButton = Button(databaseInputFrame,text="Ouvrir le dossier",  command = lambda : open_directory(folder_path.get().strip("\n")))
         openButton.grid(row=15,column=2)
-        openFilePath = Label(databaseInputFrame,textvariable=folder_path)
-        openFilePath.grid(row=15,column=3)
+        #openFilePath = Label(databaseInputFrame,textvariable=folder_path)
+        #openFilePath.grid(row=15,column=3)
 
         databaseInputFrame.grid(row=0,column=0,sticky="nw")
 
@@ -461,29 +530,7 @@ class AddFrame(Frame):
         openButton.grid(row=0,column=2)
 
 
-        chosen_path = StringVar()
-        chosen_path.set('')
-
-        def open_dialog():
-            root_filename = filedialog.asksaveasfilename(
-                initialdir="../therion/data", 
-                title="Selectionner un fichier", 
-                filetypes=(("CSV files", "*.csv"),("Tous fichiers", "*.*"))
-            )
-            chosen_path.set(root_filename)
-
-            if chosen_path.get() != "":
-                try:
-                    MyCaveCadaster.write_to_file(chosen_path.get())
-                except FileNotFoundError:
-                    messagebox.showwarning("Erreur de saisie", "Entrez un nom de fichier valide!")
-                    pass
-
-        filenameLabel = Label(updateFrame, textvariable= chosen_path)
-        filenameLabel.grid(row=2,column=0)
-
-        filenameOpenButton = Button(updateFrame, text="Sauvegarder", command=open_dialog)
-        filenameOpenButton.grid(row=0,column=1)
+        
 
 
         updateFrame.grid(row=3,column=0,columnspan=2, padx=10,pady=10)
@@ -502,8 +549,11 @@ class PlotFrame(Frame):
         # plot the cave location. 
        
         def plot4km():
-            return plot(0.0279775)
-        
+            return plot(0.0279793174)
+
+        def plot50m():
+            return plot(0.000349718)
+
         def plot250m():
             return plot(0.00174859)
 
@@ -512,8 +562,8 @@ class PlotFrame(Frame):
 
         def plot(scale):
             cadastre = MyCaveCadaster
-
-            SatMapPlot = SatelliteMapPlot(600,400,150,scale=scale)
+            global SatMapPlot
+            SatMapPlot = SatelliteMapPlot(600,400,300,scale=scale)
             SatMapPlot.add_points(cadastre)
 
             SatMapPlot.add_point_to_plot(coords._orig_long,coords._orig_lat)
@@ -524,16 +574,25 @@ class PlotFrame(Frame):
 
             # creating the Tkinter canvas
             # containing the Matplotlib figure
+            global canvas
             canvas = FigureCanvasTkAgg(fig,
                                master = self)  
             for item in canvas.get_tk_widget().find_all():
                 canvas.get_tk_widget().delete(item)
 
             canvas.draw()
+
+            
   
             # placing the canvas on the Tkinter window
             canvas.get_tk_widget().grid(row=2, column= 0 )
         
+        plot_button00 = Button(master = plotFrame, 
+                     command = plot50m,
+                     height = 2, 
+                     width = 20,
+                     text = "Visualisation 50 m")
+
         plot_button0 = Button(master = plotFrame, 
                      command = plot250m,
                      height = 2, 
@@ -553,10 +612,25 @@ class PlotFrame(Frame):
                      text = "Visualisation 4 km")
   
                 # place the button 
+
+        def savefig(widget,fp):
+
+            timenow = time.localtime()
+            timestamp = f"{timenow.tm_year}-{timenow.tm_mon}-{timenow.tm_mday}_{timenow.tm_hour}-{timenow.tm_min}-{timenow.tm_sec}"
+            scale =  2000 * (np.cos(50*np.pi/180) * 6370*2*np.pi /360 * SatMapPlot.scale)
+            plt.savefig(abspath(fp+"/capture-"+timestamp+f"-{scale:.0f}m"+".png"),dpi=300)
+
         # in main window
-        plot_button0.grid(row=0,column=0)
-        plot_button1.grid(row=0,column=1)
-        plot_button2.grid(row=0,column=2)
+        plot_button00.grid(row=0,column=0)
+        plot_button0.grid(row=0,column=1)
+        plot_button1.grid(row=0,column=2)
+        plot_button2.grid(row=0,column=3)
+        savepath = StringVar()
+        savepath.set("../therion/outputs/")
+        saveButton = Button(padx=10,pady=10,master=plotFrame,width=20,text = "Sauvegarder",command= lambda: savefig(canvas.get_tk_widget(),savepath.get()))
+        
+        saveButton.grid(row=1,column=0)
+
         plotFrame.grid(row=0,column=0,sticky="nw")
 
 class ConvertVisualFrame(Frame):
@@ -588,4 +662,5 @@ app = CaveDatabaseApp()
 
 app.title("Base de Données Ultima Patagonia")
 app.geometry("1000x800")
+app.iconbitmap("logo-icon.ico")
 app.mainloop()

@@ -149,6 +149,9 @@ class CaveExistsError(Exception):
 class CaveNotFoundError(Exception):
     pass
 
+class MoreCavesFoundError(Exception):
+    pass
+
 @dataclass
 class CaveCadaster:
     """A class that expects a list of caves and contains methods for reporting info about these caves"""
@@ -167,18 +170,16 @@ class CaveCadaster:
                 if dist < 1:
                     raise CaveExistsError("the cave exists already")
 
-    def find_cave(self,search_string: str) -> Cave:
+    def find_cave(self,search_string: str) -> list[Cave]:
         """Return a Cave instance given a cadastral number"""
 
         targets = []
         for cave in self.caves:
-            if cave._search_string.__contains__(search_string):
+            if cave._search_string.lower().__contains__(search_string.lower()):
                 targets.append(cave)
 
-        if len(targets)==1: # only if one target found
-            return targets[0]
-        elif len(targets)>1:
-            raise CaveNotFoundError("there may be two caves with this cadastral number")
+        if len(targets)>=1:
+            return targets
         else:
             raise CaveNotFoundError("there is no cave with this cadastral number")
 
@@ -234,7 +235,7 @@ class CaveCadaster:
     def write_to_file(self, output_path: str)-> None:
         """Writing the pandas.DataFrame to a file formatted exactly as expected for rereading into cave cadaster"""
         df = self.generate_dataframe()
-        df.sort_values(by='cadnum', inplace =True)
+        #df.sort_values(by='cadnum', inplace =True)
         df.to_csv(output_path)
 
 def generate_entry_from_file(df: pd.DataFrame, row: int) -> Cave:
