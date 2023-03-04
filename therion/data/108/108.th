@@ -3,6 +3,8 @@ survey 108 -title "108 Sumidero"
   input OmbligoDeLaMadre/OmbligoDeLaMadre.th
   input LagrimasDeLaMadre/LagrimasDeLaMadre.th
 
+    #input NouvelleCavite/NouvelleCavite.th
+            
 centreline
   cs UTM18S
 
@@ -51,5 +53,10 @@ centreline
   fix ENT_108013	486742	4448369	15.0
  	station	 ENT_108013	"Gouffre de l'Arche"
 
-endcentreline
+
+    fix ENT_108014	485696.0 4450232.0	345	
+    station ENT_108014 "NouvelleCavite"
+    #equate ENT_108014 0@NouvelleCavite
+    
+  endcentreline
 endsurvey

@@ -1,0 +1,1 @@
+Petite perte siphonant rapidement avec un lac bleu. Equipement science pour mesurer retraite des parois de glace par creusement.

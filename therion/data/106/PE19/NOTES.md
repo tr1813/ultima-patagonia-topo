@@ -1,0 +1,1 @@
+gouffre p15 avec vasque au fond du puits d'entree, bel ecoulement possible, suite non exploree, pointe par Cedric et Alex Honiat le 03.02.2023. Non descendu

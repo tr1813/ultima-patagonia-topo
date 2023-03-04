@@ -1,0 +1,1 @@
+Un coup des italiens. Pointe par Joel, Christine et Alex le 29.01.2023, trou deja topographie par les Italiens, perte penetrable meandre avec jolies vasques. FIAMAT ecrit a l'entree (peinture blanche) 

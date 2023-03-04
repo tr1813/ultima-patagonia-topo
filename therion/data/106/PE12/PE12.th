@@ -1,0 +1,21 @@
+survey PE12 -title 'PE12' \
+            -attr cadnum 106030 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 489165.0 4451956.0 298
+
+        	#explo-date UP2023
+        	#team "Cedric Roques, Alexandre Honiat"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

@@ -1,0 +1,1 @@
+gouffre pres de cometes et champignons, pointe par Cedric et Alex Honiat, ouverture de la faille sur 50m, p20-30, prometteur. Pointe le 03.02.2023, a la suture foret, calcaire

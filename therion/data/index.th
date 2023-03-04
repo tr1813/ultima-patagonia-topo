@@ -1,7 +1,7 @@
 survey UltimaPatagonia
 
 	input 101/101.th	## MDD Nord-ouest
-	input 102/102.th	## Trinidad
+	# input 102/102.th	## Trinidad
 	input 104/104.th  ## Résurgence Ouest
 	input 105/105.th 	## Grand Lac
 	input 106/106.th	## Seno Egg

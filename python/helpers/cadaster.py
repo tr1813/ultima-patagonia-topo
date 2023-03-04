@@ -145,7 +145,8 @@ class Cave:
 
 class CaveExistsError(Exception):
     pass
-
+class CadasterNotLoadedError(Exception):
+    pass
 class CaveNotFoundError(Exception):
     pass
 

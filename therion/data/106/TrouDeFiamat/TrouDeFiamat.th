@@ -1,0 +1,21 @@
+survey TrouDeFiamat -title 'TrouDeFiamat' \
+            -attr cadnum 106048 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 489470.0 4451892.0 211
+
+        	#explo-date UP2023
+        	#team "Les Italiens"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

@@ -1,0 +1,1 @@
+Immense perte au contact glacier et cascade rive droite du glacier HPS35. Diametre de 30 x 10 a l'entree, enorme debit. Descendu 30 m par Arnauld Lolo et Tanguy le 28.01.2023. developement et denivellation estimee a min 50 m, 50 m de profondeur. 

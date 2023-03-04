@@ -1,0 +1,1 @@
+Perte sur grand canyon et faille, p20-30 m, prometteur. Pointe par Alex Honiat et Cedric Roques le 03.02.2023, non descendu.

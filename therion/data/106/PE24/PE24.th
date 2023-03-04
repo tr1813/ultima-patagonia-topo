@@ -1,0 +1,21 @@
+survey PE24 -title 'PE24' \
+            -attr cadnum 106045 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 486859.0 4452028.0 331
+
+        	#explo-date UP2023
+        	#team "Franck, Jessica"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

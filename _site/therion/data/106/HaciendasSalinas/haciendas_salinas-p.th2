@@ -31,7 +31,7 @@ area u:smallblocks -attr scale 0.7
   muddyhollows-p_u_smallblocks_1
 endarea
 
-point 34.1952 -209.734 label -align tl -text "<lang:en>Muddy Hollows<lang:fr>Creux Boueux"
+point 34.1952 -209.734 label -align tl -text "<lang:en>Muddy<br>Hollows<lang:fr>Creux Boueux"
 point 413.03 -397.91 station -name 2@a
 point 470.91 -432.4 station -name 1@b
 point 401.22 -311.61 station -name 3@a

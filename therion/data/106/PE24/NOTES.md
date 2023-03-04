@@ -1,0 +1,1 @@
+Gouffre explore sur -30 Perte dans les calcaires proche du contact. Plan incline apres la doline d'entree. Pointe, explore par Franck et Jessica le 02.02.2023. Continuation derriere barrage de sediments, necessite corde, peu prometteur, a verifier.
