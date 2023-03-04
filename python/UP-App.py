@@ -646,11 +646,13 @@ class ConvertVisualFrame(Frame):
                 filetypes=(("Fichiers VisualTopo", "*.tro"),("Tous fichiers", "*.*"))
             )
             input_file = abspath(chosen_file)
+            if (chosen_file != "" and chosen_file != None) and ".tro" in chosen_file:
+                answer = simpledialog.askstring("Entrée de données","Entrer le nom cadastral de la cavité", parent=self)
+                if answer is not None:
+                    check_output(f'python {abspath("visual_therion.py")} "{input_file}" {answer}', shell=True)
+                else: 
+                    messagebox.showwarning("Erreur de saisie", "Le nom choisi n'est pas valide!")
 
-            answer = simpledialog.askstring("Entrée de données","Entrer le nom cadastral de la cavité", parent=self)
-
-            check_output(f'python {abspath("visual_therion.py")} "{input_file}" {answer}', shell=True)
-            
         ConvertButton = Button(self,text="Convertir",command= convert_file)
         ConvertButton.grid(row=0,column=0)
 
