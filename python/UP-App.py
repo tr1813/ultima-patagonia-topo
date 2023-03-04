@@ -1,7 +1,7 @@
 import argparse
-from tkinter import END, Frame, Label,LabelFrame,Entry,Button,StringVar,Tk,OptionMenu, Text,Canvas, WORD, INSERT
+from tkinter import ttk, END, Frame, Label,LabelFrame,Entry,Button,StringVar,Tk,OptionMenu, Text,Canvas, WORD, INSERT
 from tkinter import messagebox,filedialog,simpledialog
-
+from ttkthemes import ThemedTk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from PIL import ImageGrab
 # import all the local helpers
@@ -56,11 +56,11 @@ VALIDATED_FONT: tuple = ("Arial",11)
 #                 .grid(row=row, column=1)
 
 
-class CaveDatabaseApp(Tk):
+class CaveDatabaseApp(ThemedTk):
 
     def __init__(self, *args, **kwargs):
         
-        Tk.__init__(self, *args, **kwargs)
+        ThemedTk.__init__(self, theme = "arc",*args, **kwargs)
         global root
         root = Frame(self)
         self.grid_rowconfigure(0, weight=1)
