@@ -1,0 +1,14 @@
+
+## a survey compiled from Visual Topo Data using the visual_therion.py script
+
+survey AvenDesArchesPerdues -entrance 0@Entree -attr cadnum 106022 -attr exped UP2023
+    input Entree/Entree.th
+    input FenetreMeteo/FenetreMeteo.th 
+
+    equate 8.0@Entree 57@FenetreMeteo
+
+    map m-all-p -projection plan 
+        Entree # le releve topo # quand l'entree est dessinee sur inkscape. 
+        m-FenetreMeteo-p@FenetreMeteo #
+    endmap
+endsurvey

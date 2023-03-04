@@ -1,0 +1,1 @@
+p10 en bordure de foret avec depart visible au fond. Pointe par Alex Honiat et Cedric Roques le 03.02.2023, non descendu.

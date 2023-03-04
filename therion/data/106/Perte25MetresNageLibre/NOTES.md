@@ -1,0 +1,1 @@
+Perte bien arrosee, petit torrent par temps de pluie, entree par une tremie, beau meandre descendant dans marbre, plaquages de galets cimentes en abondance. P12 apres 60 m, 100 m meandre non topos derriere, puis affluent remontant 30 m non topo, siphonant. Aval  termine sur etroiture arrosee. A refaire par beau temps.

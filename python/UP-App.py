@@ -1,5 +1,5 @@
 import argparse
-from tkinter import END, Frame, Label,LabelFrame,Entry,Button,StringVar,Tk,OptionMenu, Text,Canvas, WORD, INSERT
+from tkinter import END, Frame, Label,LabelFrame,Entry,Button,StringVar,Tk,OptionMenu, Text,Canvas, WORD, INSERT, Listbox
 from tkinter import messagebox,filedialog,simpledialog
 
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
@@ -7,6 +7,10 @@ from PIL import ImageGrab
 # import all the local helpers
 from helpers.cadaster import *
 from helpers.satmap import *
+from helpers.gpx import pyToGPX
+
+# from helpers.lang import *
+
 import time
 
 parser = argparse.ArgumentParser(description="Run the Ultima Patagonia interface")
@@ -25,7 +29,12 @@ CRSLIST = [
     "UTM Zone 18S"
 ]
 BOLDFONT: tuple = ("Arial",12,"bold")
+BOLDFONT: tuple = ("Arial",12,"bold")
+
 VALIDATED_FONT: tuple = ("Arial",11)
+LANGUAGES : dict = {"Español":"es","English": "en","Francais":"fr"}
+
+
 
 # testing that the database can be accessed nicely. missing an update field method for now...
 
@@ -96,17 +105,39 @@ class StartPage(Frame):
 
     def __init__(self, parent, controller):
         Frame.__init__(self,parent)
+
+        # LANGUAGE = StringVar()
+        # LANGUAGE.set("Francais")
+        # print(LANGUAGE.get())
+        # global ln
+        # ln = LANGUAGES[LANGUAGE.get()]
+
         label = Label(self, text="Menu Principal", font=BOLDFONT)
         label.grid(pady=10,padx=10,row=0,column=0,columnspan=2)
         
         input_path = StringVar()
         input_path.set('')
-  
+
+
+
+        # def set_language():
+        #     ln = ChosenLanguage.get()
+        #     print("chosen", ln)
+        #     print("chosen", LANGUAGES[ln])
+
+        # ChosenLanguage = StringVar()
+        # ChosenLanguage.set("Francais")
+
+        # LanguageChangeMenu = OptionMenu(self,ChosenLanguage,"Español","Francais","English")
+        # LanguageChangeMenu.grid(pady=10,padx=10,row=0,column=2)
+
+        # LanguageChangeButton = Button(self,textvariable=ChosenLanguage, command= set_language)
+        # LanguageChangeButton.grid(pady=10,padx=10,row=1,column=2)
 
         def open_database():
             root_filename = filedialog.askopenfilename(
                 initialdir="../therion/data", 
-                title="Select a file", 
+                title="Sélectionner un fichier", 
                 filetypes=(("CSV files", "*.csv"),("All files", "*.*"))
             )
             input_path.set(root_filename.split('/')[-1])
@@ -117,10 +148,10 @@ class StartPage(Frame):
         databasenameLabel = Label(self, textvariable= input_path,width=50)
         databasenameLabel.grid(pady=10,padx=10,row=1,column=0)
 
-        databaseOpenButton = Button(self, text="Selectionner la base de donnees", width=50,command=open_database)
+        databaseOpenButton = Button(self, text="Selectionner la base de données", width=50,command=open_database)
         databaseOpenButton.grid(pady=10,padx=10,row=2,column=0)
         OpenNoteText = """
-        Selectionner un tableur au format csv"""
+        Commencer par ouvrir une base de données"""
         databaseOpenNote = Label(self, text=OpenNoteText, width=50)
         databaseOpenNote.grid(pady=10,padx=10,row=2,column=1)
 
@@ -130,7 +161,7 @@ class StartPage(Frame):
         def open_dialog():
             root_filename = filedialog.asksaveasfilename(
                 initialdir="../therion/data", 
-                title="Selectionner un fichier", 
+                title="Sélectionner un fichier", 
                 filetypes=(("CSV files", "*.csv"),("Tous fichiers", "*.*"))
             )
             chosen_path.set(root_filename)
@@ -138,17 +169,18 @@ class StartPage(Frame):
             if chosen_path.get() != "":
                 try:
                     MyCaveCadaster.write_to_file(chosen_path.get())
+
+                    timenow = time.localtime()
+                    timestamp = f"{timenow.tm_year}-{timenow.tm_mon}-{timenow.tm_mday}_{timenow.tm_hour}-{timenow.tm_min}-{timenow.tm_sec}"
+                    MyCaveCadaster.write_to_file(f"../therion/data/backup_base_de_donnees/{timestamp}_SYNTHESE_POINTAGES.csv")
+                    pyToGPX(chosen_path.get())
+                    
                 except FileNotFoundError:
                     messagebox.showwarning("Erreur de saisie", "Entrez un nom de fichier valide!")
                     pass
 
-
-        filenameOpenButton = Button(self, text="Sauvegarder", command=open_dialog,width=50)
-        filenameOpenButton.grid(row=3,column=0, padx=10,pady=10)
-        SaveNoteText = """
-        Enregistrer la base de données dans un tableur au format csv"""
-        databaseSaveNote = Label(self, text=SaveNoteText, width=50)
-        databaseSaveNote.grid(pady=10,padx=10,row=3,column=1)
+       
+        
 
         button = Button(self, text="Ajouter une cavité",width=50,
                             command=lambda: controller.show_frame(AddFrame))
@@ -180,13 +212,24 @@ class StartPage(Frame):
                             command=lambda: controller.show_frame(Create2DFrame))
         button.grid(pady=10,padx=10,row=7,column=0)
         To2DText = """
-
-        Construire un modele .3d ainsi que les fichiers croquis 2D .th2"""
+        Construire un modèle .3d ainsi que les fichiers croquis 2D .th2"""
         To2DNote = Label(self,width=50,text=To2DText)
         To2DNote.grid(pady=10,padx=10,row=7,column=1)
+        
+        filenameOpenButton = Button(self, text="Sauvegarder", command=open_dialog,width=50)
+        filenameOpenButton.grid(row=8,column=0, padx=10,pady=10)
+
+        SaveNoteText = """
+        Enregistrer après avoir terminé une séance"""
+        databaseSaveNote = Label(self, text=SaveNoteText, width=50, font = BOLDFONT, fg = "red")
+        databaseSaveNote.grid(pady=10,padx=10,row=8,column=1)
 
         QuitButton = Button(self, text= "Quitter", command= lambda : root.master.destroy(),width=50)
-        QuitButton.grid(pady=10,padx=10,row=8,column=0)
+        QuitButton.grid(pady=10,padx=10,row=9,column=0)
+
+        QuitText = """Impérativement quitter après avoir sauvegardé!"""
+        QuitNote = Label(self,width=50,text=QuitText,font = BOLDFONT, fg="red")
+        QuitNote.grid(pady=10,padx=10,row=9,column=1)
 
 class Create2DFrame(Frame):
     def __init__(self, parent,controller):
@@ -196,7 +239,7 @@ class Create2DFrame(Frame):
             #global chosen_file
             chosen_file =  filedialog.askopenfilename(
                 initialdir="../therion/data", 
-                title="Selectionner un fichier", 
+                title="Sélectionner un fichier", 
                 filetypes=(("Fichiers Therion", "*.th"),("Tous fichiers", "*.*"))
             )
 
@@ -237,44 +280,53 @@ class FindCaveFrame(Frame):
         folder_path.set("")
 
         def search(search: str)-> None:
-            try: 
-                caves = MyCaveCadaster.find_cave(search)
-            except CaveNotFoundError:
-                messagebox.showwarning("Aucune cavite a ce nom.", "Entrez un nom valide ou un numero cadastral existant")
+            try:
+                if MyCaveCadaster:
+                    try: 
+                        caves = MyCaveCadaster.find_cave(search)
+                        # cycle over key values.
+                        if len(caves) == 1:
+                            global cave
+                            cave = caves[0]
+                            cave.add_coordinates(cave.coordinates)
+                            folder_path.set(cave._folder_path)
+                            i=0
+                        
+                            for key,value in cave.__dict__.items():
+                                if key[0] != "_":
+                                    if key != "coordinates":
+                                        label = Label(self, text = key, font=BOLDFONT)
+                                        label.grid(row = 4+i,column=0)
+                                        valueLabel = Text(self, height=3, wrap=WORD)
+                                        valueLabel.insert(1.0, value)
+                                        valueLabel.grid(row = 4+i,column=1)
+                                        i+=1
+                                    else:
+                                        for coord,label in zip((cave.coordinates.x,cave.coordinates.y),("X UTM 18S","Y UTM 18S")):
+                                            label = Label(self, text = label, font=BOLDFONT)
+                                            label.grid(row = 4+i,column=0)
+                                            valueLabel = Text(self, height=3, wrap=WORD)
+                                            valueLabel.insert(1.0, coord)
+                                            valueLabel.grid(row = 4+i,column=1)
+                                            i+=1
+                        else: 
+                            names = ""
+                            for cave in caves:
+                                names += f"\n {cave.cadnum} {cave.name}"
+                            messagebox.showwarning("Plus d'une cavité a ce nom", names)
 
-            # cycle over key values.
-            if len(caves) == 1:
-                global cave
-                cave = caves[0]
-            else: 
-                names = ""
-                for cave in caves:
-                    names += f"\n {cave.cadnum} {cave.name}"
-                messagebox.showwarning("Plus d'une cavite a ce nom", names)
 
-
-            cave.add_coordinates(cave.coordinates)
-            folder_path.set(cave._folder_path)
-            i=0
-        
-            for key,value in cave.__dict__.items():
-                if key[0] != "_":
-                    if key != "coordinates":
-                        label = Label(self, text = key, font=BOLDFONT)
-                        label.grid(row = 4+i,column=0)
-                        valueLabel = Text(self, height=3, wrap=WORD)
-                        valueLabel.insert(1.0, value)
-                        valueLabel.grid(row = 4+i,column=1)
-                        i+=1
-                    else:
-                        for coord,label in zip((cave.coordinates.x,cave.coordinates.y),("X UTM 18S","Y UTM 18S")):
-                            label = Label(self, text = label, font=BOLDFONT)
-                            label.grid(row = 4+i,column=0)
-                            valueLabel = Text(self, height=3, wrap=WORD)
-                            valueLabel.insert(1.0, coord)
-                            valueLabel.grid(row = 4+i,column=1)
-                            i+=1
+                        
             # if any update needed
+                    except CaveNotFoundError:
+                        messagebox.showwarning("Aucune cavité a ce nom.", "Entrez un nom valide ou un numéro cadastral existant")
+                else: 
+                    raise CadasterNotLoadedError
+            except NameError:
+                messagebox.showwarning("Aucune base de données selectionnée.", "Cliquer sur retour et ajouter une base de données.")
+    
+            
+            
 
         def open_directory(dirname: str)-> None:
             actual_dirname = abspath(dirname)
@@ -293,10 +345,12 @@ class FindCaveFrame(Frame):
                 raise
         
         # search
+        caveSearchLabel = Label(databaseInputFrame, text = 'Enter un nom ou numéro de cadastre')
+        caveSearchLabel.grid(row=4,column=0)
         caveNameSearch = Entry(databaseInputFrame)
         caveNameSearch.grid(row=4,column=1)
-        cavenameLabel = Button(databaseInputFrame, text = 'Rechercher une cavité', command = lambda : search(caveNameSearch.get()))
-        cavenameLabel.grid(row=4,column=0)
+        cavenameLabel = Button(databaseInputFrame, text = 'Rechercher', command = lambda : search(caveNameSearch.get()))
+        cavenameLabel.grid(row=4,column=2)
         # open file explorer
         openButton = Button(databaseInputFrame,text="Ouvrir le dossier",  command = lambda : open_directory(folder_path.get().strip("\n")))
         openButton.grid(row=15,column=2)
@@ -384,13 +438,16 @@ class AddFrame(Frame):
 
 
         inXEntry.grid(row=1,column=1)
-        inYEntry.grid(row=1,column=3)
-        outXEntry.grid(row=2,column=1)
+        inYEntry.grid(row=2,column=1)
+        outXEntry.grid(row=1,column=3)
         outYEntry.grid(row=2,column=3)
 
 
-        Label(coordInputFrame,text = 'X UTM (18S):', font = BOLDFONT).grid(row=2,column = 0)
+        Label(coordInputFrame,text = 'X UTM (18S):', font = BOLDFONT).grid(row=1,column = 2)
         Label(coordInputFrame,text = 'Y UTM (18S):', font = BOLDFONT).grid(row=2,column = 2)
+
+        Label(coordInputFrame,text = 'Longitude:', font = BOLDFONT).grid(row=1,column = 0)
+        Label(coordInputFrame,text = 'Latitude:', font = BOLDFONT).grid(row=2,column = 0)
 
 
         Label(coordInputFrame, text="Secteur", font= BOLDFONT).grid(row=3,column=0)
@@ -410,14 +467,30 @@ class AddFrame(Frame):
 
         mainFrame = LabelFrame(self, text= "Entrée des données", padx=5, pady=5)
 
-        ENTRIES_FR : list = ['nom','expedition','commentaire','altitude (m)','explorateurs','développement','profondeur']
+        #CaveNameLabel = Label(mainFrame,text = "nom", width = 20, font = BOLDFONT)
+        #CaveNameLabel.grid(row=1,column=0)
 
-        ENTRIES_HEIGHTS : list[int] = [1,1,7,1,4,1,1]
-        variables: list[StringVar] = [StringVar(value="undefined") for text in ENTRIES_FR]
+        ##CaveNameLabel = Text(mainFrame,width = 40, height = 1,wrap = WORD)
+        #CaveNameLabel.grid(row=1,column=1)
+
+        ExpedLabel = Label(mainFrame,text = "expedition", width = 20, font = BOLDFONT)
+        ExpedLabel.grid(row=2,column=0)
+
+        #ExpedList = Listbox(mainFrame,width = 40)
+        #ExpedList.grid(row=1,column=1)
+
+        ENTRIES_FR : list = ['name','commentaire','altitude (m)','explorateurs','développement','dénivellation']
+
+        ENTRIES_HEIGHTS : list[int] = [1,7,1,4,1,1]
+        ENTRIES_INDICES : list[int] = [1,3,4,5,6,7]
+
+        variables: list[StringVar] =[StringVar(value="undefined") for text in ENTRIES_FR]
 
         entriesLabels : list[Label]  = [Label(mainFrame,text=text, width = 20, font = BOLDFONT) for text in ENTRIES_FR]
         entriesList : list[Text] = [Text(mainFrame, width=40,height=height, wrap= WORD) for height in ENTRIES_HEIGHTS]
-        entriesOutput : list[Label] = [Label(mainFrame, width=40, textvariable=variable, wraplength=300,  justify='left', font=VALIDATED_FONT,padx=10) for variable in variables]
+        entriesOutput : list[Label] = [Label(mainFrame, width=40, textvariable=variable, 
+        wraplength=300,  justify='left', 
+        font=VALIDATED_FONT,padx=10) for variable in variables]
 
 
         def validate() -> None:
@@ -434,7 +507,7 @@ class AddFrame(Frame):
 
 
         # cycle over entries for the inputs.
-        for i,(label,entry,output) in enumerate(zip(entriesLabels, entriesList,entriesOutput)):
+        for (i,label,entry,output) in zip(ENTRIES_INDICES,entriesLabels, entriesList,entriesOutput):
             label.grid(row=i,column=0)
             entry.grid(row=i,column=1)
             output.grid(row=i, column=2)
@@ -471,14 +544,14 @@ class AddFrame(Frame):
                 name = ""
                 messagebox.showwarning("Nom trop court!")
             newCave = Cave(cadnum=str(suggest_cadnum(Sector)),
-            exped=assignExpedition(variables[1].get().strip("\n")),
+            exped=assignExpedition("UP2023"),
             name= name,
             complete_name= variables[0].get().strip("\n"),
-            comment=variables[2].get().strip("\n"),
-            altitude=variables[3].get().strip("\n"), 
-            explorers=variables[4].get().strip("\n"),
-            length=float(variables[5].get()),
-            depth=float(variables[6].get()),
+            comment=variables[1].get().strip("\n"),
+            altitude=variables[2].get().strip("\n"), 
+            explorers=variables[3].get().strip("\n"),
+            length=float(variables[4].get()),
+            depth=float(variables[5].get()),
             coordinates=coordinatePairUTM(float(outXEntry.get()),float(outYEntry.get())),
             _index= len(MyCaveCadaster.caves)+1,
             ) # type: ignore

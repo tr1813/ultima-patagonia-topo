@@ -1,0 +1,1 @@
+Perte oblique partant a 45 degres, sur faille en milieu de lapiaz. Proximite de champignons de roche.

@@ -1,0 +1,21 @@
+survey PE20 -title 'PE20' \
+            -attr cadnum 106040 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 487429.0 4451968.0 199
+
+        	#explo-date UP2023
+        	#team "Cedric Roques, Alex"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

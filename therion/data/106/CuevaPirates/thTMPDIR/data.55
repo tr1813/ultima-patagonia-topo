@@ -1,0 +1,15 @@
+%!PS
+%%BoundingBox: -23 -44 -6 -39 
+%%HiResBoundingBox: -22.1956 -43.69101 -6.50441 -39.63 
+%%Creator: MetaPost 2.01
+%%CreationDate: 2023.02.28:1206
+%%Pages: 1
+%*Font: cmss10 5.97765 9.96265 61:888874
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 1 setcmykcolor
+-22.1956 -43.69101 moveto
+(tremie) cmss10 5.97765 fshow
+showpage
+%%EOF

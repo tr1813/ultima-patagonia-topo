@@ -1,0 +1,9 @@
+source Perte25MetresNageLibre.th 
+
+input ../../../layouts/detailed-e.thl
+
+layout local 
+    copy detailed-e 
+    scale 1 500
+endlayout
+export atlas -o Perte25MetresNageLibre-atlas.pdf -projection extended -layout-debug station-names -layout local

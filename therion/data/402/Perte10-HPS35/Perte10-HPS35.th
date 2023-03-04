@@ -1,0 +1,21 @@
+survey Perte10-HPS35 -title 'Perte10-HPS35' \
+            -attr cadnum 402009 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 600636.0 4383424.0 461.5
+
+        	#explo-date UP2023
+        	#team "Tanguy Arnauld Lolo"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

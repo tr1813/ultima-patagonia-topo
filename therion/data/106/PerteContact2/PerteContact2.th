@@ -1,0 +1,21 @@
+survey PerteContact2 -title 'PerteContact2' \
+            -attr cadnum 106025 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 486872.0 4451692.0 343
+
+        	#explo-date UP2023
+        	#team "Franck Brehier, Cedric Roques "
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

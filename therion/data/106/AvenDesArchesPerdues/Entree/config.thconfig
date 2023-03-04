@@ -1,0 +1,3 @@
+source Entree.th
+
+export model -o Entree.3d

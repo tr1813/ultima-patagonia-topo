@@ -1,0 +1,3 @@
+source GouffreDuRhinoceros.th
+
+export model -o GouffreDuRhinoceros.3d -fmt survex

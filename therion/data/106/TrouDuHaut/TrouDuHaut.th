@@ -1,0 +1,21 @@
+survey TrouDuHaut -title 'TrouDuHaut' \
+            -attr cadnum 106047 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 489902.0 4451300.0 301
+
+        	#explo-date UP2023
+        	#team "Alexandre Andrieu, Joel Tremoulet"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

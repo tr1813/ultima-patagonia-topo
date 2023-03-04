@@ -1,0 +1,1 @@
+Gouffre en cours d'exploration, arret a moins 260, continue, fort courant d'air aspirant. Explore depuis la base du camp Egg.

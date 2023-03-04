@@ -1,0 +1,70 @@
+source PerteSousLeLac.th
+
+input ../../../layouts/detailed-p.thl
+input ../../../layouts/detailed-e.thl
+
+layout local
+  copy detailed-p
+  scale 1 500
+  legend off
+  map-header 0 0 off
+  symbol-show point label
+  symbol-hide point passage-height
+  symbol-assign line wall:blocks MYEE
+  
+  symbol-hide point station-name 
+  symbol-hide line survey
+  symbol-hide point station
+  color map-bg transparent
+
+endlayout 
+
+layout plan 
+    copy local 
+    color map-bg [85 85 85]
+      symbol-assign line wall:blocks MY
+
+  code tex-map
+  #\framethickness=0.5mm
+  \def\xcenter{-99}
+  \def\ycenter{75}
+  \def\xscale{40}
+  \def\yscale{40}
+  \def\cadnum{106028}
+  \legendwidth=5cm
+  # change this
+  \def\customheader{
+  \size[13]\bf \the\cavename{} / \cadnum \ss
+  \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
+  \par{ \quad} 
+  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 488683 \par  Y : 4451804 \par Z : 272 m}  \ss
+  \par{ \quad} 
+  \par \si Développement :\ss{ \the\cavelength}
+  \par \si Dénivellation :\ss{ \the\cavedepth}
+  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques :\ss{ }Arnauld Malard, Natalia Morata-Calvo,Laurence Boudoux d'Hautefeuille
+  \par \si Report et dessins :\ss{  Tanguy Racine}}
+  
+  \def\maplayout{
+  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter - 3*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter-\xscale\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/PerteSousLeLac-ee.pdf"}}}
+  \legendbox{\the\numexpr\xcenter+65\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+   \legendbox{\the\numexpr\xcenter+185\relax}{\the\numexpr\ycenter -10 \relax}{N}{\northarrow}
+ }
+  endcode
+endlayout
+
+
+
+
+# OUTPUTS
+
+
+
+#export model -o outputs/PerteSousLeLac.3d -fmt survex
+export model -o outputs/PerteSousLeLac.lox
+#export atlas -o outputs/PerteSousLeLac.pdf -projection plan -layout local-p
+export map -o outputs/PerteSousLeLac-ee.pdf -projection extended -layout local
+
+export map -o outputs/PerteSousLeLac.pdf -projection plan -layout plan

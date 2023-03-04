@@ -1,0 +1,21 @@
+survey PE27 -title 'PE27' \
+            -attr cadnum 106052 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 489719.0 4451403.0 330.4
+
+        	#explo-date UP2023
+        	#team "Alex, Joel, Christine"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

@@ -1,0 +1,21 @@
+survey PerteImpenetrable2-HPS35 -title 'PerteImpenetrable2-HPS35' \
+            -attr cadnum 402024 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 599780.0 4384263.0 481.2
+
+        	#explo-date UP2023
+        	#team "Arnauld, Lolo et Tanguy"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

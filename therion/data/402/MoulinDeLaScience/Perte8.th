@@ -1,0 +1,21 @@
+survey Perte8 -title 'Perte8' \
+            -attr cadnum 402007 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 599747.0 4384126.0 494.3
+
+        	#explo-date UP2023
+        	#team "Tanguy Arnauld Laurence"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

@@ -116,7 +116,7 @@ survey 107 -title "107 Barros Luco"
 
     fix ENT_107028	482804	4447950	369.0
     station ENT_107028 "Gouffre du Jackpot"
-    equate ENT_107028 0@GouffreJackpot
+    equate ENT_107028 0@Topo2019.GouffreJackpot
 
     fix ENT_107029	482664	4447782	362.0
     station ENT_107029 "Perte du Cirque 4"
