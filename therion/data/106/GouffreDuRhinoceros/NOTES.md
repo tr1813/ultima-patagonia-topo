@@ -1,0 +1,1 @@
+Gouffre circulaire, p20 ressaut p20 et deux ressauts,  arret a -35 sur tremie. Pointe et explore par Joel Tremoulet, Alex Andrieu le 31.01.2023, croquis par Joel. Topo arretee par manque de piles.

@@ -1,0 +1,18 @@
+survey GouffreDuBowling -title "Gouffre du Bowling" \
+            -attr cadnum 106033 \
+            -attr exped UP2023 \
+			-entrance 3A@Entree
+
+    input Entree/Entree.th
+
+
+    map m-all-p -projection plan -title "Gouffre du Bowling, plan"
+        m-Entree-p@Entree
+    endmap
+
+    map m-all-s -projection extended -title "Gouffre du Bowling, coupe"
+        m-Entree-s@Entree
+    endmap
+
+        endsurvey
+        

@@ -1,0 +1,1 @@
+Grotte sous glaciaire exploree par Serge le 30-01-2023, topographiee par Charlotte Honiat le 31-01-2023 et utilisee modele photogrammetrie.

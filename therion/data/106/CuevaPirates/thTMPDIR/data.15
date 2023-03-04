@@ -1,0 +1,36 @@
+%!PS
+%%BoundingBox: -166 -146 271 104 
+%%HiResBoundingBox: -165.6981 -145.84111 270.60495 103.61 
+%%Creator: MetaPost 2.01
+%%CreationDate: 2023.02.28:1206
+%%Pages: 1
+%*Font: cmbx10 9.96265 9.96265 30:c4800400800004
+%*Font: cmss10 5.97765 9.96265 27:804200000040000e4194
+%*Font: cmss10 11.95514 9.96265 43:80008803646948
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 1 setcmykcolor 0 0.24501 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
+newpath -106.9 -13.85 moveto
+-108.62817 -13.57451 lineto stroke
+-115.1891 -15.53381 moveto
+(50) cmss10 5.97765 fshow
+-130.56 -145.84111 moveto
+(W) cmss10 11.95514 fshow
+-119.6011 -145.84111 moveto
+(aterw) cmss10 11.95514 fshow
+-92.30339 -145.84111 moveto
+(o) cmss10 11.95514 fshow
+-86.6579 -145.84111 moveto
+(rld) cmss10 11.95514 fshow
+-165.6981 -50.9702 moveto
+(e15) cmbx10 9.96265 fshow
+202.09505 95.3078 moveto
+(Stal) cmss10 11.95514 fshow
+225.64015 95.3078 moveto
+(Chamb) cmss10 11.95514 fshow
+261.20685 95.3078 moveto
+(er) cmss10 11.95514 fshow
+showpage
+%%EOF

@@ -1,0 +1,1 @@
+Camp avance mis en place durant l'expedition UP2023 par l'equipe de construction de cabane Egg.

@@ -1,5 +1,9 @@
 survey 104 -title "104 Resurgence Ouest"
 
+    #input NouvelleGrotte/NouvelleGrotte.th
+
+    #input NouvelleGrotte/NouvelleGrotte.th
+                                    
   centreline
   cs UTM18S
 
@@ -8,5 +12,17 @@ survey 104 -title "104 Resurgence Ouest"
 
   fix ENT_104002 475729 4450525  0
   station ENT_104002 "Cueva rien"
-  endcentreline
+
+    
+
+    fix ENT_104003	478545.0 4450208.0	546	
+    station ENT_104003 "NouvelleGrotte"
+    #equate ENT_104003 0@NouvelleGrotte
+    
+
+    fix ENT_104004	478545.0 4450208.0	546	
+    station ENT_104004 "NouvelleGrotte"
+    #equate ENT_104004 0@NouvelleGrotte
+    
+        endcentreline
 endsurvey

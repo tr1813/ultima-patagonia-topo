@@ -1,0 +1,1 @@
+Perte sur contact potentiellement interessante, necessite travaux de stabilisation, objectif non prioritaire. Explore et pointe par Franck et Jessica le 02.02.2023, 

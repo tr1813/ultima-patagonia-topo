@@ -1,5 +1,6 @@
 
-survey ResurgenceFinDeSeno -title "Résurgence Fin De Seno" -entrance FS0 -attr cad_num 210001 -attr exped UP2006
+survey ResurgenceFinDeSeno -title "Résurgence Fin De Seno" -entrance FS0 -attr cad_num 210001 -attr exped UP2006 \
+																-attr plongee oui -attr paleo non -attr archeo oui
 
 
 centreline

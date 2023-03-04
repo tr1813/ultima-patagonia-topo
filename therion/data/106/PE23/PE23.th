@@ -1,0 +1,21 @@
+survey PE23 -title 'PE23' \
+            -attr cadnum 106043 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 487436.0 4451702.0 210
+
+        	#explo-date UP2023
+        	#team "Cedric Roques, Alex Honiat"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

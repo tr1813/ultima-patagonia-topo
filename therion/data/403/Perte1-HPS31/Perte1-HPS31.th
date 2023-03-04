@@ -1,0 +1,21 @@
+survey Perte1-HPS31 -title 'Perte1-HPS31' \
+            -attr cadnum 403001 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 602944.0 4391669.0 296.7
+
+        	#explo-date UP2023
+        	#team "???"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

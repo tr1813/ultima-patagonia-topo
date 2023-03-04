@@ -1,0 +1,21 @@
+survey ResurgenceGrandLac5 -title 'ResurgenceGrandLac5' \
+            -attr cadnum 105010 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 483696.0 4452175.0 31
+
+        	#explo-date UP2023
+        	#team "Franck, Jessica"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        
