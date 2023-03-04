@@ -1,0 +1,1 @@
+Grosse perte bouchee, sur contact gres calcaires du secteur grand lac. Explore et pointe par Franck et Jessica le 02.02.2023, 

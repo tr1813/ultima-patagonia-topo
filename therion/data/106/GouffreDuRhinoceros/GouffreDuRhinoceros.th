@@ -1,0 +1,30 @@
+survey GouffreDuRhinoceros -title 'GouffreDuRhinoceros' \
+            -attr cadnum 106046 \
+            -attr exped UP2023
+
+            
+        	centreline
+        	cs epsg:32718
+        	fix 0 489629.0 4451375.0 328
+
+        	#explo-date UP2023
+        	#team "Alexandre Andrieu, Joel Tremoulet"
+        
+        	units length meters
+        	units compass clino degrees
+        	data normal from to tape compass clino
+        	0 	1 	19.10	360	-70
+			1	2	4.89	94.5	-13.1
+			2	3	2.40	162.5	-59
+			3	4	 8.5 	- 	DOWN	
+			# panne de disto apres.
+
+			data dimensions station right left up down
+			0	0.8	35	- -
+			1	0	1.9	0.5	9.5
+			2 0.5 0  0.6 1.5
+			3 0.4 0.6 1 8.5
+        	endcentreline
+
+        endsurvey
+        

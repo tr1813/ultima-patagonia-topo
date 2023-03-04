@@ -1,0 +1,21 @@
+survey Perte17-HPS35 -title 'Perte17-HPS35' \
+            -attr cadnum 402012 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 600356.0 4384358.0 489.9
+
+        	#explo-date UP2023
+        	#team "Katia, Clement, Lionel"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

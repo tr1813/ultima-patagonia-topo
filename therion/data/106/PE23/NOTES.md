@@ -1,0 +1,1 @@
+perte au contact de la vegetation. Pointe par Alex Honiat et Cedric Roques le 03.02.2023, non descendu.

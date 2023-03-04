@@ -1,0 +1,58 @@
+source ../106.th
+
+
+input ../../../layouts/detailed-p.thl
+input ../../../layouts/detailed-e.thl
+
+layout local-p
+  copy detailed-p
+  scale 1 1000
+  legend off
+  map-header 0 0 off
+  symbol-show point label
+  symbol-hide point passage-height
+  color map-bg [85 85 85]
+  symbol-hide point station-name 
+  #symbol-hide line survey
+  #color map-bg transparent
+
+  code tex-map
+  #\framethickness=0.5mm
+  \def\xcenter{0}
+  \def\ycenter{90}
+  \def\xscale{40}
+  \def\yscale{3}
+  \legendwidth=5cm
+  # change this
+  \def\customheader{
+  \size[13]\bf \the\cavename \ss
+  \si \par \size[9]Iles Madre de Dios \ss
+  \par Dévelopement: \the\cavelength
+  \par Dénivelé: \the\cavedepth
+  \par  \the\topoteam
+  \par Topographie: Centre Terre, Oxford University Caving Club
+  \par Ultima Patagonia 2008, 2023}
+  
+  \def\maplayout{
+  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - \yscale\relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter-\xscale\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{E} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+  }
+  endcode
+endlayout
+
+
+lang fr
+select m-all-p@CuevaPirates.106
+lang en
+
+
+# OUTPUTS
+
+
+
+#export model -o outputs/CuevaPirates.3d -fmt survex
+##export model -o outputs/CuevaPirates.lox
+#export atlas -o outputs/CuevaPirates.pdf -projection plan -layout local-p
+export map -o outputs/CuevaPiratesmap.pdf -projection plan -layout local-p

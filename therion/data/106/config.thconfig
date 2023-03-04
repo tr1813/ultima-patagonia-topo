@@ -1,0 +1,54 @@
+source 106.th
+export model -o 106.3d -fmt survex
+export model -o 106.kml
+
+
+
+input ../../layouts/detailed-p.thl
+
+layout local-p
+  copy detailed-p
+  scale 1 2000
+  legend off
+  map-header 0 0 off
+  #symbol-show point label
+  #symbol-show point passage-height
+  symbol-hide point station-name
+
+  symbol-color point station-name [70 0 0]
+  symbol-assign line survey AUT
+  symbol-color line survey:cave [70 0 0]
+
+  color map-bg transparent
+  code tex-map
+  #\framethickness=0.5mm
+  \def\xcenter{5}
+  \def\ycenter{95}
+  \def\yscale{1}
+
+  # change this
+
+  \def\customheader{
+  \size[13]\bf \the\cavename \ss
+  \si \par \size[9]Iles Madre de Dios \ss
+  \par Dévelopement: \the\cavelength
+  \par Dénivelé: \the\cavedepth
+  \par Topographie: Centre Terre, OUCC 2008-2023}
+
+  \def\maplayout{
+
+  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter+8\relax}{\the\numexpr\ycenter - \yscale\relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter+8\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\scalebar}
+  #\legendbox{\the\numexpr\xcenter-45\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{W} {\hbox{\loadpicture{"/Volumes/Tanguy Main 1/QGIS/ultima-patagonia-topo/logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+  }
+  endcode
+endlayout
+
+select m-ArchesSalinas-p@106
+lang en
+
+
+# OUTPUTS
+
+export map -o ArchesSalinas.pdf -projection plan -layout local-p

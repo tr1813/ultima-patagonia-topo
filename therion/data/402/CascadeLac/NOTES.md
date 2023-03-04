@@ -1,0 +1,1 @@
+Cascade avec lac au fond au contact du glacier - pas de continuation.

@@ -1,0 +1,24 @@
+%!PS
+%%BoundingBox: -38 42 17 60 
+%%HiResBoundingBox: -37.16 42.6207 16.65489 59.41669 
+%%Creator: MetaPost 2.01
+%%CreationDate: 2023.02.28:1206
+%%Pages: 1
+%*Font: cmss10 5.97765 9.96265 27:804020000000003ea59f4
+%*Font: cmssi10 5.97765 9.96265 30:f580000084000c47bc8
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 1 setcmykcolor
+-37.16 55.2656 moveto
+(escalade) cmss10 5.97765 fshow
+-14.64441 55.2656 moveto
+(aux) cmss10 5.97765 fshow
+-3.9346 55.2656 moveto
+(grattons) cmss10 5.97765 fshow
+-22.45 42.6207 moveto
+(stn) cmssi10 5.97765 fshow
+-12.9191 42.6207 moveto
+(1) cmssi10 5.97765 fshow
+showpage
+%%EOF

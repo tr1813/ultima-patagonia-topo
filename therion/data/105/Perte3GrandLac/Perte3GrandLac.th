@@ -1,0 +1,21 @@
+survey Perte3GrandLac -title 'Perte3GrandLac' \
+            -attr cadnum 105003 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 486516.0 4451903.0 212
+
+        	#explo-date UP2023
+        	#team "Franck Brehier, Cedric Roques "
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

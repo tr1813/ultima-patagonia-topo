@@ -1,0 +1,10 @@
+survey GouffrePlusPlus -title 'GouffrePlusPlus' \
+            -attr cadnum 106023 \
+            -attr exped UP2023 \ 
+            -entrance 0@Entree
+
+            
+        	input Entree/Entree.th
+
+endsurvey
+        

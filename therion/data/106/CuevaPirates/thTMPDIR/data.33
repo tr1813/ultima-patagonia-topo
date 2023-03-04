@@ -1,0 +1,37 @@
+%!PS
+%%BoundingBox: -43 -146 35 10 
+%%HiResBoundingBox: -42.4246 -145.32669 34.7915 9.8068 
+%%Creator: MetaPost 2.01
+%%CreationDate: 2023.02.28:1206
+%%Pages: 1
+%*Font: cmss10 11.95514 9.96265 48:8400005f4f7d4
+%*Font: cmssi10 5.97765 9.96265 33:a000000000000010c
+%*Font: cmss10 5.97765 9.96265 61:bb8e708
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 1 setcmykcolor
+-42.4246 1.5046 moveto
+(Muddy) cmss10 11.95514 fshow
+-3.9355 1.5046 moveto
+(Hollo) cmss10 11.95514 fshow
+21.8678 1.5046 moveto
+(ws) cmss10 11.95514 fshow
+-40.54 -95.95 moveto
+(stn) cmssi10 5.97765 fshow
+-31.0091 -95.95 moveto
+(53) cmssi10 5.97765 fshow
+-3.05 -127.3411 moveto
+(a) cmss10 5.97765 fshow
+-0.3435 -127.3411 moveto
+(retes) cmss10 5.97765 fshow
+13.4548 -127.3411 moveto
+(de) cmss10 5.97765 fshow
+21.1924 -127.3411 moveto
+(ro) cmss10 5.97765 fshow
+26.3896 -127.3411 moveto
+(che) cmss10 5.97765 fshow
+-29.86 -144.1644 moveto
+(hydromagnesite) cmss10 5.97765 fshow
+showpage
+%%EOF

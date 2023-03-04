@@ -7,13 +7,13 @@ layout custom_areas
 		# blueish water area
 		def a_water_MY (expr p) =
 			T:=identity;
-			thfill p withcolor (66/255,135/255,245/255);
+			thfill p withcolor (26/255,26/255,225/255);
 		enddef;
 
 		# darker blue sump area
 		def a_sump_MY (expr p) =
 			T:=identity;
-			thfill p withcolor (2/255,95/255,225/255);
+			thfill p withcolor (0/255,0/255,128/255);
 		enddef;
 
 		# define an ice pattern
@@ -203,6 +203,17 @@ layout custom_areas
 			drawoptions();
 			draw tmp_pic;
 		enddef;
+
+		def a_u_iceinside (expr p) =
+			T:=identity;
+			thfill p withcolor (204/255,245/255,255/255);
+		enddef;
+
+		def a_u_iceoutside (expr p) =
+			T:=identity;
+			thfill p withcolor (102/255,224/255,245/255);
+		enddef;
+
 
 		# initialise redefined symbols
 		initsymbol("a_u_smallblocks");

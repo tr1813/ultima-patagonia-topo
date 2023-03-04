@@ -1,0 +1,33 @@
+# 2023.02.13 created by TopoDroid v 5.1.40
+
+survey Perte_... -title "Perte ..."
+    # Perte pas très grande 
+
+  centerline
+    date 2023.02.11 
+    # team Lionel, Olivier 
+    # declination 12.0700 degrees
+    units length meters
+    units compass clino degrees
+    data normal from to length compass clino
+    extend right
+    0 1 4.00 176.0 0.0
+    1 2 8.00 309.0 -81.0
+    2 3 7.00 0.0 -54.0
+    3 4 5.00 180.0 -90.0
+    4 5 4.00 240.0 0.0
+    5 6 2.00 180.0 -90.0
+    6 7 2.00 290.0 0.0
+  endcenterline
+
+  # input "Perte_...-1p.th2"
+  # input "Perte_...-1s.th2"
+
+  # map m1p -projection plan
+  #   Perte_...-1p
+  # endmap
+  # map m1s -projection extended
+  #   Perte_...-1s
+  # endmap
+
+endsurvey

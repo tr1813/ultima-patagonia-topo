@@ -1,0 +1,23 @@
+source AvenDesArchesPerdues.th
+
+
+input ../../../layouts/detailed-e.thl
+
+layout local
+    copy detailed-e
+    scale 1 1000 
+    symbol-color point station [70 0 0]
+    symbol-assign point station AUT
+    symbol-assign line survey AUT
+    symbol-color line survey [70 0 0]
+    map-header 0 100 se
+endlayout 
+
+select m-all-p@AvenDesArchesPerdues
+lang fr
+# OUTPUTS 
+export model -o outputs/AvenDesArchesPerdues.3d 
+export map -o outputs/AvenDesArchesPerdues.pdf -projection plan -layout-debug station-names -layout local
+
+export map -o outputs/AvenDesArchesPerdues-s.pdf -projection extended -layout-debug station-names -layout local
+

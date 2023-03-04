@@ -109,15 +109,15 @@
 108,201017,Grande Barrière,Secteur Barros Luco,Secteur Barros Luco,,473581.0,4437960.0,393,0.0,-15,José-Vanessa-Buldo-Sergio,UP2010,-50.2099507,-75.3702505
 109,201018,Grande Barrière,Cueva 2,Cueva2,,473619.0,4437025.0,268,0.0,-15,José-Cédric,UP2010,-50.2183614,-75.3697829
 110,201019,Grande Barrière,Cueva,Cueva105,,473196.0,4437124.0,274,0.0,-15,"José, Serge, Vanessa, Buldo, Jean Phi",UP2010,-50.2174520,-75.3757050
-111,201020,undefined,Resurgence 1,Resurgence1,481166,4440010.0,6.0,,,,,unknown,-56.7157641,15.0277232
+111,201020,Grande Barrière,Resurgence 1,Resurgence1,,481166,4440010.0,6.0,,,,unknown,-56.7157641,15.0277232
 112,201021,Grande Barrière,Secteur Barros Luco,Secteur Barros Luco,,473580.0,4437961.0,393,0.0,-10,José-Vanessa-Buldo-Sergio,UP2010,-50.2099417,-75.3702644
 113,201022,Grande Barrière,Cueva 12,Cueva12,,473519.0,4437155.0,335,0.0,-8,Serge-Jean Phi-Cédric (porche),UP2010,-50.2171877,-75.3711755
 114,201023,Grande Barrière,Cueva 5,Cueva5,,473690.0,4437099.0,272,0.0,-8,José-Cédric,UP2010,-50.2176990,-75.3687826
 115,201024,Grande Barrière,Cueva 13,Cueva13,,473520.0,4437115.0,8,0.0,-8,Serge-Jean Phi-Cédric,UP2010,-50.2175475,-75.3711643
 116,201025,Grande Barrière,Secteur Barros Luco,Secteur Barros Luco,,473276.0,4437291.0,412,0.0,-8,José-Vanessa-Buldo-Sergio,UP2010,-50.2159537,-75.3745719
 117,201026,Grande Barrière,Porche 2 Os de Baleine,PorcheBaleine,Découverte d'ossements de baleine et de lobos (photos disponibles),471000.0,4440731.0,9,0.0,15,Jean Phi-Cédric (os baleine+coquillages),UP2010,-50.1849088,-75.4062096
-118,201027,Pacifique,Porche 1,Porche1,"Porche situé avant la plage du Pacifique sur la rive gauche de la rivière (visible depuis la fin du lapiaz du camp 4, le porche s'ouvre 30 m au-dessus de la rivière) Pas de découverte particulière.",470851.0,4437247.0,13,0.0,30,Jean Phi-Cédric (Plage Pacifique),UP2010,-50.2162349,-75.4085640
-119,201028,undefined,C4 SansNom 10,C4SansNom10,473005,4437401.0,471.0,,,,,unknown,-56.7353706,15.0213858
+118,201027,Grand Barrière,Porche 1,Porche1,"Porche situé avant la plage du Pacifique sur la rive gauche de la rivière (visible depuis la fin du lapiaz du camp 4, le porche s'ouvre 30 m au-dessus de la rivière) Pas de découverte particulière.",470851.0,4437247.0,13,0.0,30,Jean Phi-Cédric (Plage Pacifique),UP2010,-50.2162349,-75.4085640
+119,201028,Grande Barrière,C4 SansNom 10,C4SansNom10,473005,4437401.0,471.0,,,,,unknown,-56.7353706,15.0213858
 120,201029,Grande Barrière,Cueva 4,Cueva4,,473670.0,4437075.0,270,,,Cédric,UP2010,-50.2179140,-75.3690646
 121,201030,Grande Barrière,SANS NOM,SANS NOM,Zona de grandes bocas de simas muy interesantes Al menos tres bocas de grqndes dimensiones,475272.0,4442209.0,460,,?,,UP2017,-50.1718101,-75.3462759
 122,201031,Grande Barrière,C3,C3,,473587.0,4437133.0,303,,,Buldo,UP2010,-50.2173886,-75.3702239
@@ -372,7 +372,7 @@
 371,211041,Quincas,Cueva 5,Cueva5,"a explorer, dans la doline des lobos",469763.0,4422959.0,310,,,Cédric,UP2010,-50.3446775,-75.4249559
 372,211042,Quincas,Cueva 6,Cueva6,"a explorer, loin au nord",469807.0,4423507.0,433,,,Cédric,UP2010,-50.3397515,-75.4242936
 373,211043,Quincas,Perte 1Lobos,Perte1Lobos,,468573.0,4422358.0,332,,,,UP2010,-50.3500201,-75.4417299
-374,211044,undefined,Perte des Lobos,PerteDesLobos,467782,4422983.0,330.0,,,,,unknown,-56.8437886,15.0234099
+374,211044,Quincas,Perte des Lobos,PerteDesLobos,,467782,4422983.0,330.0,,,,unknown,-56.8437886,15.0234099
 375,211045,Quincas,El Culo de la Madre,ElCuloDeLaMadre,Grosse entrée impressionnante qui suit un plan de faille et qui se termine par deux belles salles avec arrêt sur des éboulis.,468699.0,4422722.0,355,,-78,"Sylvain, Cédric, Buldo",UP2010,-50.3467533,-75.4399287
 376,211046,Quincas,La Grotte,LaGrotte,"""inutile d'y aller""",468496.0,4422512.0,331,0.0,-9,Florian,UP2010,-50.3486311,-75.4427993
 377,211047,Quincas,Igue Dedob,IgueDeDob,"""buldo m'a forcé à y aller"" Flo.",468516.0,4422547.0,,0.0,-8,Florian,UP2010,-50.3483174,-75.4425153

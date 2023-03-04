@@ -1,0 +1,42 @@
+%!PS
+%%BoundingBox: -134 -135 69 131 
+%%HiResBoundingBox: -133.2121 -134.91771 68.75508 130.02788 
+%%Creator: MetaPost 2.01
+%%CreationDate: 2023.02.28:1206
+%%Pages: 1
+%*Font: cmss10 5.97765 9.96265 27:82f020000000003ea79f4
+%*Font: cmss10 11.95514 9.96265 44:8008000294f044
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 1 setcmykcolor 0 0.24501 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
+newpath -70.86 66.87 moveto
+-69.42514 67.87184 lineto stroke
+-69.01682 68.28017 moveto
+(1) cmss10 5.97765 fshow
+-133.2121 -23.09882 moveto
+(Do) cmss10 11.95514 fshow
+-118.2681 -23.09882 moveto
+(dgy) cmss10 11.95514 fshow
+-96.61589 -23.09882 moveto
+(Plumbing) cmss10 11.95514 fshow
+newpath 61.93 124.7 moveto
+63.36546 125.70096 lineto stroke
+63.77379 126.10928 moveto
+(-0) cmss10 5.97765 fshow
+ 0.24501 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath 14.43 -128.68 moveto
+14.65244 -130.41579 lineto stroke
+11.66364 -134.91771 moveto
+(29) cmss10 5.97765 fshow
+4.66 -1.1758 moveto
+(contact) cmss10 5.97765 fshow
+4.66 -8.34889 moveto
+(ma) cmss10 5.97765 fshow
+12.1154 -8.34889 moveto
+(rb) cmss10 5.97765 fshow
+17.08011 -8.34889 moveto
+(re/dolomie) cmss10 5.97765 fshow
+showpage
+%%EOF

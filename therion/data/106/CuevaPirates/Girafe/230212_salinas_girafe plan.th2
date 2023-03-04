@@ -1,0 +1,8 @@
+encoding utf-8
+
+##XTHERION## xth_me_area_adjust -751,99 -1545,61 4511,92 9273,64
+##XTHERION## zoom_to 50
+##XTHERION## xth_me_image_insert {2053.2743655687373 1 1.0} {8063.135523999925 1} "230212_salinas_girafe plan.xvi" 0 {}
+
+scrap Girafe-1p
+endscrap

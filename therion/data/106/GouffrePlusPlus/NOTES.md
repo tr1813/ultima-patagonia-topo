@@ -1,0 +1,1 @@
+Gouffre en cours d'exploration, arret a moins 50, continue, puits en pleine surface plane de calcaire.

@@ -1,0 +1,1 @@
+Gouffre sur une fracture, etroit. Pointe et explore par Joel Tremoulet et Alex Andrieu le 31.01.2023, Christine aussi la. Se retrecit sur la partie basse. Pincement sur bloc au fond. Estime -30, croquis de Joel, pas de courant d'air.

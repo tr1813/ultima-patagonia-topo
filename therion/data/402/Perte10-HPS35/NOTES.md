@@ -1,0 +1,1 @@
+Petite perte sur contact glacier et roche en rive droite du HPS35. Descendu par Tanguy, Arnauld et Laurence le 28.01.2023

@@ -1,5 +1,25 @@
 survey 105 -title "105 Grand Lac"
 
+    #input Perte3GrandLac/Perte3GrandLac.th
+
+    #input PE25/PE25.th
+
+    #input PE26/PE26.th
+
+    #input ResurgenceGrandLac1/ResurgenceGrandLac1.th
+
+    #input ResurgenceGrandLac2/ResurgenceGrandLac2.th
+
+    #input ResurgenceGrandLac3/ResurgenceGrandLac3.th
+
+    #input ResurgenceGrandLac4/ResurgenceGrandLac4.th
+
+    #input ResurgenceGrandLac4/ResurgenceGrandLac4.th
+
+    #input ResurgenceGrandLac5/ResurgenceGrandLac5.th
+
+    #input PerteDuGrandLac/PerteDuGrandLac.th
+                                                                                                                        
   centreline
     cs UTM18S
     
@@ -9,6 +29,56 @@ survey 105 -title "105 Grand Lac"
     fix ENT_105002	482677	4454593	30.0	## Cueva Rapido2
     station ENT_105002 "Cueva Rapido 2"
 
-  endcentreline
+
+    fix ENT_105003	486516.0 4451903.0	212	
+    station ENT_105003 "Perte3GrandLac"
+    #equate ENT_105003 0@Perte3GrandLac
+    
+
+    fix ENT_105004	485866.0 4451776.0	171	
+    station ENT_105004 "PE25"
+    #equate ENT_105004 0@PE25
+    
+
+    fix ENT_105005	485492.0 4451765.0	173	
+    station ENT_105005 "PE26"
+    #equate ENT_105005 0@PE26
+    
+
+    fix ENT_105006	485231.0 4451318.0	17	
+    station ENT_105006 "ResurgenceGrandLac1"
+    #equate ENT_105006 0@ResurgenceGrandLac1
+    
+
+    fix ENT_105007	485115.0 4451010.0	16	
+    station ENT_105007 "ResurgenceGrandLac2"
+    #equate ENT_105007 0@ResurgenceGrandLac2
+    
+
+    fix ENT_105008	484745.0 4450974.0	12	
+    station ENT_105008 "ResurgenceGrandLac3"
+    #equate ENT_105008 0@ResurgenceGrandLac3
+    
+
+    fix ENT_105009	483857.0 4451675.0	14	
+    station ENT_105009 "ResurgenceGrandLac4"
+    #equate ENT_105009 0@ResurgenceGrandLac4
+    
+
+    fix ENT_105010	483857.0 4451675.0	14	
+    station ENT_105010 "ResurgenceGrandLac4"
+    #equate ENT_105010 0@ResurgenceGrandLac4
+    
+
+    fix ENT_105010	483696.0 4452175.0	31	
+    station ENT_105010 "ResurgenceGrandLac5"
+    #equate ENT_105010 0@ResurgenceGrandLac5
+    
+
+    fix ENT_105011	483535.0 4452769.0	24	
+    station ENT_105011 "PerteDuGrandLac"
+    #equate ENT_105011 0@PerteDuGrandLac
+    
+                      endcentreline
 
 endsurvey

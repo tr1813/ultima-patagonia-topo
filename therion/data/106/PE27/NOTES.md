@@ -1,0 +1,1 @@
+p40 non descendu, a voir. Pointe par Alex Andrieu, Joel Tremoulet et Christine Magot le 29.01.2023. 4 m de diametre a l'entree, beau potentiel, plusieurs cannelures se jettent a l'interieur.

@@ -1,0 +1,1 @@
+Perte au contact gres, non descendue, bon potentiel. Pointe par Franck Brehier, Cedric Roques 

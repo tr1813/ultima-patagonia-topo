@@ -206,7 +206,6 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_1 -visibility of
   203.9486 568.324 225.8982 562.2269 225.8982 562.2269
   242.3604 558.5686
   269.4926 556.4346
-  269.4926 556.4346
 endline
 
 area u:smallblocks -attr scale 1.2
@@ -237,8 +236,8 @@ point 392.74 639.23 station-name -align tr -scale xs -text 51
 point 472.68 595.95 station-name -align tr -scale xs -text 59
 point 542.61 492.49 station-name -align tr -scale xs -text 60
 point 416.91 545.64 station-name -align tr -scale xs -text 70
-point 136.8291 620.3102 label -align t -text P10
-point -27.0578 557.1753 label -align t -text P12
+point 136.829 620.31 label -align t -text P10
+point -27.0578 557.175 label -align t -text P12
 line ceiling-step -outline out
   386.971 688.4786
   386.971 688.4786 423.2025 690.3266 431.9001 690.3266
@@ -270,19 +269,19 @@ line contour
 endline
 
 point 363.737 670.225 gradient -orientation 93.31592955493764
-point 9.025 534.2653 gradient -orientation 261.7673479833753
+point 9.025 534.265 gradient -orientation 261.7673479833753
 point 72.488 372.509 gradient -orientation 325.8341826808994
-point 38.34 411.2841 gradient -orientation 325.8341826808994
+point 38.34 411.284 gradient -orientation 325.8341826808994
 point 34.947 544.776 gradient -orientation 247.85908030367273
-point 98.372 569.9847 gradient -orientation 73.88298672629188
-point 347.6025 579.3419 gradient -orientation 272.23826177928646
-point 334.1306 439.7401 gradient -orientation 271.26831128601515
-point 277.5961 373.285 gradient -orientation 349.91598724960227
-point 292.0911 333.41 gradient -orientation 349.9285531793002
-point 289.0338 582.4044 gradient -orientation 264.42766547498
+point 98.372 569.985 gradient -orientation 73.88298672629188
+point 347.602 579.342 gradient -orientation 272.23826177928646
+point 334.131 439.74 gradient -orientation 271.26831128601515
+point 277.596 373.285 gradient -orientation 349.91598724960227
+point 292.091 333.41 gradient -orientation 349.9285531793002
+point 289.034 582.404 gradient -orientation 264.42766547498
 point 357.763 644.237 gradient -orientation 127.76271625079731
 point 422.284 665.537 gradient -clip off -orientation 156.32832358879597
-point 527.7584 638.3085 label -align r -text P22
+point 527.758 638.308 label -align r -text P22
 line ceiling-step -outline out
   266.6766 285.9637
   266.6766 285.9637 270.8114 290.1833 275.4315 291.7284
@@ -646,6 +645,7 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_3 -visibility of
   284.077 360.674 284.6313 360.8372 285.1836 361.0098
   298.2031 365.9863
   295.543 381.9512
+  295.543 381.9512
 endline
 
 area u:smallblocks -attr scale 0.8
@@ -678,6 +678,7 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_4 -visibility of
   298.8525 349.0933 300.951 349.8493 303.0469 350.6113
   298.7363 362.791
   298.2031 365.9863
+  298.2031 365.9863
 endline
 
 area u:smallblocks -attr scale 0.8
@@ -709,8 +710,9 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_5 -visibility of
   289.1784 331.4089 291.3498 332.0561 293.5254 332.6934
   295.701 333.3306 297.8798 333.959 300.0566 334.5918
   302.6529 335.3465 305.2501 336.0975 307.8516 336.834
-  307.8775 336.8413 307.9037 336.8481 307.9297 336.8555
+  307.8775 336.841 307.9037 336.8481 307.9297 336.8555
   306.8965 339.7305
+  303.0469 350.6113
   303.0469 350.6113
 endline
 
@@ -720,7 +722,7 @@ endarea
 
 line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_6 -visibility off
   307.9297 336.8555
-  307.9037 336.8481 307.8775 336.8413 307.8516 336.834
+  307.9037 336.8485 307.8775 336.8413 307.8516 336.834
   305.2501 336.0975 302.6529 335.3465 300.0566 334.5918
   297.8798 333.959 295.701 333.3306 293.5254 332.6934
   291.3498 332.0561 289.1784 331.4089 287.0117 330.7422
@@ -732,6 +734,7 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_6 -visibility of
   272.127 314.5391
   305.832 318.7969
   312.5723 323.9414
+  307.9297 336.8555
   307.9297 336.8555
 endline
 
@@ -750,7 +753,6 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_7 -visibility of
   334.109 636.1555 335.9808 638.4653 340.9426 645.9442
   345.9045 653.4231 354.5916 679.0079 354.5916 679.0079
   350.3619 685.4684
-  350.3619 685.4684
 endline
 
 area u:smallblocks -attr scale 0.7
@@ -767,7 +769,6 @@ line border -close on -id QuatreEntreesPlusUne-1p_u_smallblocks_8 -visibility of
   275.0073 702.4602 273.4627 707.8653 271.1288 697.1041
   268.7949 686.3429 270.2053 689.1623 276.3002 682.144
   282.395 675.1256 296.8011 663.3053 296.8011 663.3053
-  299.0174 663.49
   299.0174 663.49
 endline
 
@@ -1093,9 +1094,9 @@ line wall
   419.4574 708.8529
 endline
 
-point 177.4718 257.9243 entrance -orientation 335 -scale m
-point 304.1361 277.4984 entrance -orientation 350 -scale m
-point 363.6432 418.6022 entrance -orientation 310 -scale s
+point 177.472 257.924 entrance -orientation 335.00001874831395 -scale m
+point 304.136 277.498 entrance -orientation 350.0000124822697 -scale m
+point 363.643 418.602 entrance -orientation 310.0000334509318 -scale s
 line wall 
   347.8391 439.5926
   347.8391 439.5926 340.1138 445.6464 335.468 446.3554
@@ -1212,7 +1213,7 @@ line survey
   422.91 557.64
 endline
 
-point 486.7211 516.6081 entrance -orientation 350 -scale s
+point 486.721 516.608 entrance -orientation 350.0000124822697 -scale s
 line contour 
   464.1636 551.0403
   464.1636 551.0403 480.7089 555.0648 484.0627 556.1827
@@ -1434,6 +1435,7 @@ line wall
   303.7251 715.12
 endline
 
+point 480.8 751.589 flowstone 
 line wall -subtype presumed
   520.6529 746.4816
   520.6529 746.4816 514.6013 744.7526 512.5481 744.6445
@@ -1445,7 +1447,8 @@ line wall -subtype presumed
   522.49 739.3494
 endline
 
-point 513.3685 721.9254 label -align r -text P34
+point 257.5248 739.2817 label -align r -text "nouveau texte"
+point 513.369 721.925 label -align r -text P34
 line wall 
   479.5513 638.293
   479.5513 638.293 475.8048 646.4671 475.8048 649.8731

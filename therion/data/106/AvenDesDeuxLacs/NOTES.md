@@ -1,0 +1,1 @@
+Tres belle perte, diametre de 10 m tres bon potentiel. par Cedric et Alex le 03.02.2023

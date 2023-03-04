@@ -1,0 +1,21 @@
+survey NouvelleCavite -title 'NouvelleCavite' \
+            -attr cadnum 108014 \
+            -attr exped UP2023
+
+            
+        	centreline
+        		cs epsg:32718
+        		#fix ENT 485696.0 4450232.0 345
+
+        	#explo-date UP2023
+        	#team "machin"
+        
+        	units length meters
+        	 units compass clino degrees
+        	data normal from to tape compass clino
+        	#<RENSEIGNER LES DONNEES ICI>
+
+        	endcentreline
+
+        endsurvey
+        

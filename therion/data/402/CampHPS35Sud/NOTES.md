@@ -1,0 +1,1 @@
+Camp glacier  mis en place le 27.01.2023 (equipe rive gauche)
