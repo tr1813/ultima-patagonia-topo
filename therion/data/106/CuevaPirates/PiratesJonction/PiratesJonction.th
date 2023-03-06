@@ -29,7 +29,7 @@ survey PiratesJonction -title "Pirates-1"
     0 . 3.13 240.6 16.8
     0 . 2.65 260.0 16.9
     0 . 1.96 291.5 28.4
-    extend left
+    extend right
     0 1 5.54 129.9 40.9
     # extend auto
     1 . 1.19 14.5 -23.0
@@ -53,7 +53,7 @@ survey PiratesJonction -title "Pirates-1"
     1 . 12.28 140.5 31.6
     1 . 12.87 140.9 31.6
     1 . 12.30 140.9 31.6
-    extend ignore
+    extend right
     1 2 12.26 140.8 31.5
     flags not duplicate
     # extend auto
@@ -66,7 +66,7 @@ survey PiratesJonction -title "Pirates-1"
     2 . 6.83 352.5 -25.2
     2 . 5.74 281.5 -28.1
     2 . 0.99 214.7 -19.9
-    extend left
+    extend right
     2 3 5.11 196.1 -10.5
     # extend auto
     3 . 0.54 83.2 27.8
@@ -86,7 +86,7 @@ survey PiratesJonction -title "Pirates-1"
     3 . 3.45 175.2 -18.5
     3 . 2.92 158.3 -25.4
     3 . 3.92 171.6 -20.0
-    extend left
+    extend right
     3 4 3.57 178.0 -18.1
     # extend auto
     4 . 0.28 214.5 71.2
@@ -110,7 +110,7 @@ survey PiratesJonction -title "Pirates-1"
     4 . 0.49 97.8 -23.1
     4 . 0.38 131.2 -77.4
     4 . 0.46 239.2 -57.6
-    extend left
+    extend right
     4 5 5.47 214.2 -2.4
     # extend auto
     5 . 1.44 145.9 -87.2
@@ -142,7 +142,7 @@ survey PiratesJonction -title "Pirates-1"
     5 . 1.10 221.2 -17.1
     5 . 1.35 221.8 -27.6
     5 . 2.13 206.6 -18.5
-    extend left
+    extend right
     5 6 2.53 205.1 -21.2
     # extend auto
     6 . 0.79 124.1 -0.3
@@ -173,7 +173,7 @@ survey PiratesJonction -title "Pirates-1"
     6 . 1.05 170.1 14.3
     6 . 0.75 155.8 1.9
     6 . 2.72 160.3 6.4
-    extend left
+    extend right
     6 7 5.71 207.7 -10.4
     # extend auto
     7 . 1.07 172.7 -11.1
@@ -215,7 +215,7 @@ survey PiratesJonction -title "Pirates-1"
     7 . 4.83 152.9 27.1
     7 . 3.54 138.2 27.8
     7 . 3.69 164.3 26.1
-    extend left
+    extend right
     7 8 4.85 212.8 -9.1
     # extend auto
     8 . 1.07 324.3 87.0
@@ -272,7 +272,7 @@ survey PiratesJonction -title "Pirates-1"
     9 . 5.48 85.7 23.8
     9 . 1.91 300.2 8.7
     9 . 4.12 297.8 -9.5
-    extend vertical
+    extend left
     9 10 3.14 85.7 18.1
     # extend auto
     10 . 2.35 190.1 2.8
@@ -306,7 +306,7 @@ survey PiratesJonction -title "Pirates-1"
     11 . 3.14 31.9 35.1
     11 . 1.55 100.0 21.7
     11 . 0.78 122.1 -4.6
-    extend right
+    extend left
     11 12 3.87 75.5 36.9
     # extend auto
     12 . 0.79 196.5 50.9
@@ -380,7 +380,7 @@ survey PiratesJonction -title "Pirates-1"
     14 . 3.66 91.4 58.4
     14 . 3.49 105.7 46.1
     14 . 3.05 85.3 26.5
-    extend right
+    extend left
     14 15 5.16 67.6 34.5
     # extend auto
     15 . 1.04 302.9 -87.3
@@ -397,7 +397,7 @@ survey PiratesJonction -title "Pirates-1"
     15 . 3.37 339.9 -31.6
     15 . 3.53 337.8 -41.8
     15 . 5.46 329.2 -27.8
-    extend right
+    extend left
     15 16 3.85 333.8 -36.1
     # extend auto
     16 . 3.89 333.3 -36.1
@@ -420,7 +420,7 @@ survey PiratesJonction -title "Pirates-1"
     16 . 7.12 268.1 -29.6
     16 . 8.19 267.9 -37.8
     16 . 8.56 287.5 -31.3
-    extend vertical
+    extend right
     16 17 8.64 278.8 -32.9
     # extend auto
     17 . 1.40 154.8 -84.0
@@ -460,6 +460,7 @@ survey PiratesJonction -title "Pirates-1"
     18 . 4.86 313.3 -28.2
     extend right
     18 19 8.23 310.0 -19.1
+    extend right
     19 4 1.14 358.5 -5.8
     extend left
     2 20 3.84 118.1 -0.8
@@ -489,7 +490,7 @@ survey PiratesJonction -title "Pirates-1"
     21 . 1.53 340.5 -0.5
     21 . 1.02 344.6 18.8
     21 . 3.94 152.5 -4.2
-    extend left
+    extend right
     21 22 3.82 152.7 -4.2
     # extend auto
     22 . 1.13 180.6 24.8
@@ -505,7 +506,7 @@ survey PiratesJonction -title "Pirates-1"
     22 . 4.86 65.5 41.6
     22 . 4.56 89.4 38.0
     22 . 4.76 92.5 35.2
-    extend vertical
+    extend left
     22 23 5.25 81.4 35.8
     # extend auto
     23 . 0.60 179.3 7.7
@@ -519,7 +520,7 @@ survey PiratesJonction -title "Pirates-1"
     23 . 0.81 11.6 -10.7
     23 . 1.96 205.8 -28.7
     23 . 0.86 228.5 0.6
-    extend right
+    extend left
     21 24 4.47 50.2 21.9
     # extend auto
     24 . 2.70 146.2 7.2
@@ -539,7 +540,7 @@ survey PiratesJonction -title "Pirates-1"
     24 . 1.85 236.1 5.6
     24 . 1.87 14.9 79.8
     24 . 3.84 32.9 70.2
-    extend right
+    extend left
     24 25 3.59 60.6 34.7
     # extend auto
     25 . 4.28 179.6 12.5
@@ -591,8 +592,9 @@ survey PiratesJonction -title "Pirates-1"
     27 . 4.61 88.1 49.5
     27 . 5.46 159.3 32.9
     27 . 6.09 160.8 46.9
-    extend right
+    extend left
     27 28 7.57 62.8 37.3
+    extend left
     28 29 4.81 56.7 18.1
     # extend auto
     29 . 7.18 132.2 32.8

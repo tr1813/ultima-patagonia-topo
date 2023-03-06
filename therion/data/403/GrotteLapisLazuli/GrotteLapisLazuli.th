@@ -8,7 +8,7 @@ survey GrotteLapisLazuli -title "Lapis Lazuli" \
   
   centerline
     cs long-lat
-    
+    mark C1 C2 C3 C4 C5 C6 C7 fixed
     fix GPS-fixe -73.555212 -50.625687 27
     date 2023.01.31 
     # team Tanguy-Charlotte 
@@ -258,8 +258,11 @@ survey GrotteLapisLazuli -title "Lapis Lazuli" \
     GPS-fixe 0 9.92 358.5 4.3
   endcenterline
 
-  # input "Lapis_Lazuli-1p.th2"
+   input "Lapis_Lazuli-1p.th2"
 
+  map m-all-p -projection plan 
+    Lapis_Lazuli-photogrammetry-p
+  endmap
   # map m1p -projection plan
   #   Lapis_Lazuli-1p
   # endmap

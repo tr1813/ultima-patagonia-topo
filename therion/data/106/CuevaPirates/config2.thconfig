@@ -1,4 +1,3 @@
 source CuevaPirates.th 
 
-export model -o outputs/CuevaPirates.3d  #pour que ca marche il faut au prealable creer un dossier outputs
-export model -o outputs/CuevaPirates.lox  #pour que ca marche il faut au prealable creer un dossier outputs
+export map -o CuevaPirates-ee.pdf -projection extended
