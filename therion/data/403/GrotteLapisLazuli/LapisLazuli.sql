@@ -1,4 +1,4 @@
-create table SURVEY (ID integer, PARENT_ID integer, NAME varchar(17), FULL_NAME varchar(17), TITLE varchar(14));
+create table SURVEY (ID integer, PARENT_ID integer, NAME varchar(29), FULL_NAME varchar(17), TITLE varchar(14));
 create table CENTRELINE (ID integer, SURVEY_ID integer, TITLE varchar(4), TOPO_DATE date, EXPLO_DATE date, LENGTH real, SURFACE_LENGTH real, DUPLICATE_LENGTH real);
 create table PERSON (ID integer, NAME varchar(1), SURNAME varchar(1));
 create table EXPLO (PERSON_ID integer, CENTRELINE_ID integer);
@@ -7,8 +7,8 @@ create table STATION (ID integer, NAME varchar(10), SURVEY_ID integer, X real, Y
 create table STATION_FLAG (STATION_ID integer, FLAG char(3));
 create table SHOT (ID integer, FROM_ID integer, TO_ID integer, CENTRELINE_ID integer, LENGTH real, BEARING real, GRADIENT real, ADJ_LENGTH real, ADJ_BEARING real, ADJ_GRADIENT real, ERR_LENGTH real, ERR_BEARING real, ERR_GRADIENT real);
 create table SHOT_FLAG (SHOT_ID integer, FLAG char(3));
-create table MAPS (ID integer, SURVEY_ID integer, NAME varchar(17), TITLE varchar(14), PROJID integer, LENGTH real, DEPTH real);
-create table SCRAPS (ID integer, SURVEY_ID integer, NAME varchar(17), PROJID integer, MAX_DISTORTION real, AVG_DISTORTION real);
+create table MAPS (ID integer, SURVEY_ID integer, NAME varchar(29), TITLE varchar(14), PROJID integer, LENGTH real, DEPTH real);
+create table SCRAPS (ID integer, SURVEY_ID integer, NAME varchar(29), PROJID integer, MAX_DISTORTION real, AVG_DISTORTION real);
 create table MAPITEMS (ID integer, TYPE integer, ITEMID integer);
 insert into SURVEY values (1, 0, '', '', NULL);
  insert into CENTRELINE values (2, 1, NULL, NULL, NULL, 0.00, 0.00, 0.00);
@@ -205,12 +205,13 @@ insert into SHOT values (165, 28, 165, 31, 7.120, 202.33, -6.80, 7.118, 202.28, 
 insert into SHOT_FLAG values(165, 'dpl');
 insert into SHOT values (166, 166, 1, 31, 9.920, 13.03, 4.30, 9.922, 13.02, 4.28, 0.005, 6.58, -56.49);
 insert into SHOT_FLAG values(166, 'srf');
-insert into MAPS values (33, 0, '', NULL, 2, 80.460, -4.550);
- insert into MAPITEMS values (33, 4, 0);
+insert into SCRAPS values (32, 29, 'Lapis_Lazuli-1p', 1, 2.72454, 0.04296);
+ insert into SCRAPS values (284, 29, 'Lapis_Lazuli-photogrammetry-p', 1, 48.75914, 0.63574);
+ insert into MAPS values (503, 29, 'm-all-p', NULL, 1, 80.460, -4.550);
+ insert into MAPITEMS values (503, 4, 284);
+ insert into MAPS values (505, 0, '', NULL, 2, 80.460, -4.550);
+ insert into MAPITEMS values (505, 4, 0);
  insert into SCRAPS values (0, 0, '', 2, 0.00000, 0.00000);
- insert into MAPS values (34, 0, '', NULL, 1, 80.460, -4.550);
- insert into MAPITEMS values (34, 4, 0);
- insert into SCRAPS values (0, 0, '', 1, 0.00000, 0.00000);
  insert into STATION values (1, '0', 29, 602193.85, 4390812.34, 27.74);
 insert into STATION_FLAG values(1, 'ent');
 insert into STATION values (2, '.', 29, 602194.37, 4390813.78, 30.88);

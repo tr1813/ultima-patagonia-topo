@@ -1,298 +1,302 @@
 therion 6.1.2 (2022-07-11)
-  - using Proj 9.0.0, compiled against 9.0.0
-initialization file: C:\Users\User\AppData\Local\Therion/therion.ini
+  - using Proj 9.1.0, compiled against 9.1.0
+initialization file: /usr/local/etc/therion.ini
 reading ... done
-configuration file: .\config.thconfig
+checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
+checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
+configuration file: config.thconfig
 reading ... done
 reading source files ... done
 preprocessing database ... done
-C:\Users\User\AppData\Local\Therion\therion.exe: warning -- year 2008 magnetic declination used for undated surveys
+therion: warning -- year 2008 magnetic declination used for undated surveys
 undated surveys:
 PE29.106
-PerteSousLeLac.106
 output coordinate system: UTM18S
-meridian convergence (deg): -0.1218
+meridian convergence (deg): -0.1215
 geomag declinations (deg):
-  2008.1.1  15.5519
-  2009.1.1  15.4747
-  2010.1.1  15.3971
-  2011.1.1  15.3244
-  2012.1.1  15.2513
-  2013.1.1  15.1777
-  2014.1.1  15.1036
-  2015.1.1  15.0290
-  2016.1.1  14.9437
-  2017.1.1  14.8578
-  2018.1.1  14.7713
-  2019.1.1  14.6843
-  2020.1.1  14.5967
-  2021.1.1  14.5011
-  2022.1.1  14.4049
-  2023.1.1  14.3080
-  2024.1.1  14.2106
+  2008.1.1  15.5517
+  2009.1.1  15.4745
+  2010.1.1  15.3968
+  2011.1.1  15.3242
+  2012.1.1  15.2510
+  2013.1.1  15.1774
+  2014.1.1  15.1033
+  2015.1.1  15.0288
+  2016.1.1  14.9434
+  2017.1.1  14.8575
+  2018.1.1  14.7710
+  2019.1.1  14.6840
+  2020.1.1  14.5964
+  2021.1.1  14.5008
+  2022.1.1  14.4046
+  2023.1.1  14.3078
+  2024.1.1  14.2103
 scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
-average loop error: 3.32%
+average loop error: 3.47%
 processing survey data ... 
 ####################### cavern log file ########################
- 1> Survex 1.2.42
- 2> Copyright � 1990-2018 Olly Betts
- 3> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5779: error: Station already fixed or equated to a control point
- 4>  *fix	5028	488882.000000	4451954.000000	298.000000
- 5> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5804: error: Station already fixed or equated to a control point
- 6>  *fix	5052	489620.000000	4451272.000000	0.000000
- 7> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5751: warning: Unused control point "5001"
- 8> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5752: warning: Unused control point "5002"
- 9> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5753: warning: Unused control point "5003"
-10> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5754: warning: Unused control point "5004"
-11> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5755: warning: Unused control point "5005"
-12> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5756: warning: Unused control point "5006"
-13> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5757: warning: Unused control point "5007"
-14> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5758: warning: Unused control point "5008"
-15> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5759: warning: Unused control point "5009"
-16> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5760: warning: Unused control point "5010"
-17> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5761: warning: Unused control point "5011"
-18> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5762: warning: Unused control point "5012"
-19> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5763: warning: Unused control point "5013"
-20> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5764: warning: Unused control point "5014"
-21> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5765: warning: Unused control point "5015"
-22> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5766: warning: Unused control point "5016"
-23> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5767: warning: Unused control point "5017"
-24> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5768: warning: Unused control point "5018"
-25> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5772: warning: Unused control point "5022"
-26> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5773: warning: Unused control point "5023"
-27> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5774: warning: Unused control point "5024"
-28> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5775: warning: Unused control point "5025"
-29> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5777: warning: Unused control point "5027"
-30> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5778: warning: Unused control point "5028"
-31> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5780: warning: Unused control point "5029"
-32> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5781: warning: Unused control point "5030"
-33> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5783: warning: Unused control point "5032"
-34> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5784: warning: Unused control point "5033"
-35> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5785: warning: Unused control point "5034"
-36> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5786: warning: Unused control point "5035"
-37> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5787: warning: Unused control point "5036"
-38> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5788: warning: Unused control point "5037"
-39> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5789: warning: Unused control point "5038"
-40> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5790: warning: Unused control point "5039"
-41> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5791: warning: Unused control point "5040"
-42> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5792: warning: Unused control point "5041"
-43> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5793: warning: Unused control point "5042"
-44> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5794: warning: Unused control point "5043"
-45> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5795: warning: Unused control point "5044"
-46> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5796: warning: Unused control point "5045"
-47> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5797: warning: Unused control point "5046"
-48> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5798: warning: Unused control point "5047"
-49> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5799: warning: Unused control point "5048"
-50> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5800: warning: Unused control point "5049"
-51> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5801: warning: Unused control point "5050"
-52> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5802: warning: Unused control point "5051"
-53> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5803: warning: Unused control point "5052"
-54> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5808: warning: Unused control point "5056"
-55> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5809: warning: Unused control point "5057"
-56> C:\Users\User\AppData\Local\Temp\th12200\data.svx:5810: warning: Unused control point "5058"
-57> 
-58> Survey contains 5058 survey stations, joined by 5009 shots.
-59> There are 18 loops.
-60> Survey has 67 connected components.
-61> Total length of survey shots = 4405.17m (4407.04m adjusted)
-62> Total plan length of survey shots = 3661.78m
-63> Total vertical length of survey shots = 1812.36m
-64> Vertical range = 379.77m (from 2802 at 358.00m to 2759 at -21.77m)
-65> North-South range = 970.83m (from 2765 at 4452354.00m to 2809 at 4451383.17m)
-66> East-West range = 2824.65m (from 116 at 490213.69m to 4483 at 487389.04m)
-67>   50 0-nodes.
-68> 4296 1-nodes.
-69>  294 2-nodes.
-70>   43 3-nodes.
-71>    8 4-nodes.
-72>   19 5-nodes.
-73>   24 6-nodes.
-74>   27 7-nodes.
-75>   40 8-nodes.
-76>   20 9-nodes.
-77>   23 10-nodes.
-78>   34 11-nodes.
-79>   16 12-nodes.
-80>   16 13-nodes.
-81>   18 14-nodes.
-82>   17 15-nodes.
-83>   16 16-nodes.
-84>    9 17-nodes.
-85>    6 18-nodes.
-86>   10 19-nodes.
-87>   15 20-nodes.
-88>    5 21-nodes.
-89>    3 22-nodes.
-90>    4 23-nodes.
-91>    6 24-nodes.
-92>    8 25-nodes.
-93>    5 26-nodes.
-94>    5 27-nodes.
-95>    6 28-nodes.
-96>    3 29-nodes.
-97>    2 30-nodes.
-98>    2 31-nodes.
-99>    1 32-node.
-100>    3 33-nodes.
-101>    2 34-nodes.
-102>    1 37-node.
-103>    1 42-node.
-104> There were 50 warning(s) and 2 error(s) - no output files produced.
-105> 
+ 1> Survex 1.4.3
+ 2> Copyright © 1990-2021 Olly Betts
+ 3> /tmp/th36838/data.svx:5512: error: Station already fixed or equated to a fixed point
+ 4>  *fix	4821	488882.000000	4451954.000000	298.000000
+ 5> /tmp/th36838/data.svx:5537: error: Station already fixed or equated to a fixed point
+ 6>  *fix	4845	489620.000000	4451272.000000	0.000000
+ 7> /tmp/th36838/data.svx:5484: warning: Unused fixed point “4794”
+ 8> /tmp/th36838/data.svx:5485: warning: Unused fixed point “4795”
+ 9> /tmp/th36838/data.svx:5486: warning: Unused fixed point “4796”
+10> /tmp/th36838/data.svx:5487: warning: Unused fixed point “4797”
+11> /tmp/th36838/data.svx:5488: warning: Unused fixed point “4798”
+12> /tmp/th36838/data.svx:5489: warning: Unused fixed point “4799”
+13> /tmp/th36838/data.svx:5490: warning: Unused fixed point “4800”
+14> /tmp/th36838/data.svx:5491: warning: Unused fixed point “4801”
+15> /tmp/th36838/data.svx:5492: warning: Unused fixed point “4802”
+16> /tmp/th36838/data.svx:5493: warning: Unused fixed point “4803”
+17> /tmp/th36838/data.svx:5494: warning: Unused fixed point “4804”
+18> /tmp/th36838/data.svx:5495: warning: Unused fixed point “4805”
+19> /tmp/th36838/data.svx:5496: warning: Unused fixed point “4806”
+20> /tmp/th36838/data.svx:5497: warning: Unused fixed point “4807”
+21> /tmp/th36838/data.svx:5498: warning: Unused fixed point “4808”
+22> /tmp/th36838/data.svx:5499: warning: Unused fixed point “4809”
+23> /tmp/th36838/data.svx:5500: warning: Unused fixed point “4810”
+24> /tmp/th36838/data.svx:5501: warning: Unused fixed point “4811”
+25> /tmp/th36838/data.svx:5505: warning: Unused fixed point “4815”
+26> /tmp/th36838/data.svx:5506: warning: Unused fixed point “4816”
+27> /tmp/th36838/data.svx:5507: warning: Unused fixed point “4817”
+28> /tmp/th36838/data.svx:5508: warning: Unused fixed point “4818”
+29> /tmp/th36838/data.svx:5509: warning: Unused fixed point “4819”
+30> /tmp/th36838/data.svx:5510: warning: Unused fixed point “4820”
+31> /tmp/th36838/data.svx:5511: warning: Unused fixed point “4821”
+32> /tmp/th36838/data.svx:5513: warning: Unused fixed point “4822”
+33> /tmp/th36838/data.svx:5514: warning: Unused fixed point “4823”
+34> /tmp/th36838/data.svx:5516: warning: Unused fixed point “4825”
+35> /tmp/th36838/data.svx:5517: warning: Unused fixed point “4826”
+36> /tmp/th36838/data.svx:5518: warning: Unused fixed point “4827”
+37> /tmp/th36838/data.svx:5519: warning: Unused fixed point “4828”
+38> /tmp/th36838/data.svx:5520: warning: Unused fixed point “4829”
+39> /tmp/th36838/data.svx:5521: warning: Unused fixed point “4830”
+40> /tmp/th36838/data.svx:5522: warning: Unused fixed point “4831”
+41> /tmp/th36838/data.svx:5523: warning: Unused fixed point “4832”
+42> /tmp/th36838/data.svx:5524: warning: Unused fixed point “4833”
+43> /tmp/th36838/data.svx:5525: warning: Unused fixed point “4834”
+44> /tmp/th36838/data.svx:5526: warning: Unused fixed point “4835”
+45> /tmp/th36838/data.svx:5527: warning: Unused fixed point “4836”
+46> /tmp/th36838/data.svx:5528: warning: Unused fixed point “4837”
+47> /tmp/th36838/data.svx:5529: warning: Unused fixed point “4838”
+48> /tmp/th36838/data.svx:5530: warning: Unused fixed point “4839”
+49> /tmp/th36838/data.svx:5531: warning: Unused fixed point “4840”
+50> /tmp/th36838/data.svx:5532: warning: Unused fixed point “4841”
+51> /tmp/th36838/data.svx:5533: warning: Unused fixed point “4842”
+52> /tmp/th36838/data.svx:5534: warning: Unused fixed point “4843”
+53> /tmp/th36838/data.svx:5535: warning: Unused fixed point “4844”
+54> /tmp/th36838/data.svx:5536: warning: Unused fixed point “4845”
+55> /tmp/th36838/data.svx:5541: warning: Unused fixed point “4849”
+56> /tmp/th36838/data.svx:5542: warning: Unused fixed point “4850”
+57> /tmp/th36838/data.svx:5543: warning: Unused fixed point “4851”
+58> 
+59> Survey contains 4852 survey stations, joined by 4803 legs.
+60> There are 17 loops.
+61> Survey has 66 connected components.
+62> Total length of survey legs = 4674.20m (4675.56m adjusted)
+63> Total plan length of survey legs = 3888.04m
+64> Total vertical length of survey legs = 1940.40m
+65> Vertical range = 396.10m (from 2802 at 358.00m to 4755 at -38.10m)
+66> North-South range = 1426.98m (from 4792 at 4452810.15m to 2809 at 4451383.17m)
+67> East-West range = 2824.65m (from 116 at 490213.69m to 4483 at 487389.04m)
+68>   51 0-nodes.
+69> 4084 1-nodes.
+70>  327 2-nodes.
+71>   48 3-nodes.
+72>    7 4-nodes.
+73>   18 5-nodes.
+74>   18 6-nodes.
+75>   23 7-nodes.
+76>   31 8-nodes.
+77>   16 9-nodes.
+78>   23 10-nodes.
+79>   30 11-nodes.
+80>   15 12-nodes.
+81>   16 13-nodes.
+82>   17 14-nodes.
+83>   15 15-nodes.
+84>   16 16-nodes.
+85>    9 17-nodes.
+86>    6 18-nodes.
+87>   10 19-nodes.
+88>   15 20-nodes.
+89>    5 21-nodes.
+90>    3 22-nodes.
+91>    4 23-nodes.
+92>    6 24-nodes.
+93>    8 25-nodes.
+94>    5 26-nodes.
+95>    5 27-nodes.
+96>    6 28-nodes.
+97>    3 29-nodes.
+98>    2 30-nodes.
+99>    2 31-nodes.
+100>    1 32-node.
+101>    3 33-nodes.
+102>    2 34-nodes.
+103>    1 37-node.
+104>    1 42-node.
+105> There were 51 warning(s) and 2 error(s) - no output files produced.
+106> 
 ######################### transcription ########################
- 3> input:5779 -- 106.th [207]
- 4> 5028 : ENT_106030@106
- 5> input:5804 -- 106.th [332]
- 6> 5052 : ENT_106054@106
- 7> input:5751 -- 106.th [100]
- 7> 5001 : ENT_106002@106
- 8> input:5752 -- 106.th [103]
- 8> 5002 : ENT_106003@106
- 9> input:5753 -- 106.th [106]
- 9> 5003 : ENT_106004@106
-10> input:5754 -- 106.th [109]
-10> 5004 : ENT_106005@106
-11> input:5755 -- 106.th [112]
-11> 5005 : ENT_106006@106
-12> input:5756 -- 106.th [117]
-12> 5006 : ENT_106008@106
-13> input:5757 -- 106.th [120]
-13> 5007 : ENT_106009@106
-14> input:5758 -- 106.th [123]
-14> 5008 : ENT_106010@106
-15> input:5759 -- 106.th [126]
-15> 5009 : ENT_106011@106
-16> input:5760 -- 106.th [129]
-16> 5010 : ENT_106012@106
-17> input:5761 -- 106.th [132]
-17> 5011 : ENT_106013@106
-18> input:5762 -- 106.th [135]
-18> 5012 : ENT_106014@106
-19> input:5763 -- 106.th [138]
-19> 5013 : ENT_106015@106
-20> input:5764 -- 106.th [141]
-20> 5014 : ENT_106016@106
-21> input:5765 -- 106.th [144]
-21> 5015 : ENT_106017@106
-22> input:5766 -- 106.th [147]
-22> 5016 : ENT_106018@106
-23> input:5767 -- 106.th [150]
-23> 5017 : ENT_106019@106
-24> input:5768 -- 106.th [153]
-24> 5018 : ENT_106020@106
-25> input:5772 -- 106.th [172]
-25> 5022 : ENT_106024@106
-26> input:5773 -- 106.th [177]
-26> 5023 : ENT_106025@106
-27> input:5774 -- 106.th [182]
-27> 5024 : ENT_106026@106
-28> input:5775 -- 106.th [187]
-28> 5025 : ENT_106027@106
-29> input:5777 -- 106.th [197]
-29> 5027 : ENT_106029@106
-30> input:5778 -- 106.th [202]
-30> 5028 : ENT_106030@106
-31> input:5780 -- 106.th [212]
-31> 5029 : ENT_106031@106
-32> input:5781 -- 106.th [217]
-32> 5030 : ENT_106032@106
-33> input:5783 -- 106.th [227]
-33> 5032 : ENT_106034@106
-34> input:5784 -- 106.th [232]
-34> 5033 : ENT_106035@106
-35> input:5785 -- 106.th [237]
-35> 5034 : ENT_106036@106
-36> input:5786 -- 106.th [242]
-36> 5035 : ENT_106037@106
-37> input:5787 -- 106.th [247]
-37> 5036 : ENT_106038@106
-38> input:5788 -- 106.th [252]
-38> 5037 : ENT_106039@106
-39> input:5789 -- 106.th [257]
-39> 5038 : ENT_106040@106
-40> input:5790 -- 106.th [262]
-40> 5039 : ENT_106041@106
-41> input:5791 -- 106.th [267]
-41> 5040 : ENT_106042@106
-42> input:5792 -- 106.th [272]
-42> 5041 : ENT_106043@106
-43> input:5793 -- 106.th [277]
-43> 5042 : ENT_106044@106
-44> input:5794 -- 106.th [282]
-44> 5043 : ENT_106045@106
-45> input:5795 -- 106.th [287]
-45> 5044 : ENT_106046@106
-46> input:5796 -- 106.th [292]
-46> 5045 : ENT_106047@106
-47> input:5797 -- 106.th [297]
-47> 5046 : ENT_106048@106
-48> input:5798 -- 106.th [302]
-48> 5047 : ENT_106049@106
-49> input:5799 -- 106.th [307]
-49> 5048 : ENT_106050@106
-50> input:5800 -- 106.th [312]
-50> 5049 : ENT_106051@106
-51> input:5801 -- 106.th [317]
-51> 5050 : ENT_106052@106
-52> input:5802 -- 106.th [322]
-52> 5051 : ENT_106053@106
-53> input:5803 -- 106.th [327]
-53> 5052 : ENT_106054@106
-54> input:5808 -- 106.th [352]
-54> 5056 : ENT_106058@106
-55> input:5809 -- 106.th [357]
-55> 5057 : ENT_106059@106
-56> input:5810 -- 106.th [362]
-56> 5058 : ENT_106060@106
-58> 5058 : ENT_106060@106 -- 5009 : ENT_106011@106
-59> 18 : 18@a.Anglais2008.CuevaPirates.106
-60> 67 : 71@b.Anglais2008.CuevaPirates.106
-64> 2802 : 0@Entree.AvenDesArchesPerdues.106 -- 2759 : 4@SiphonAmont.CuevaPirates.106
-65> 2765 : 1@a.CuevaDelZorro.106 -- 2809 : 7@Entree.AvenDesArchesPerdues.106
-66> 116 : 124@c.Anglais2008.CuevaPirates.106 -- 4483 : .@PerteChampis.106
-67> 50 : 54@b.Anglais2008.CuevaPirates.106
-68> 4296 : .@Perte25MetresNageLibre.106
-69> 294 : .@PiratesJonction.CuevaPirates.106
-70> 43 : 43@a.Anglais2008.CuevaPirates.106
-71> 8 : 8@a.Anglais2008.CuevaPirates.106
-72> 19 : 19@a.Anglais2008.CuevaPirates.106
-73> 24 : 24@a.Anglais2008.CuevaPirates.106
-74> 27 : 27@a.Anglais2008.CuevaPirates.106
-75> 40 : 40@a.Anglais2008.CuevaPirates.106
-76> 20 : 20@a.Anglais2008.CuevaPirates.106
-77> 23 : 23@a.Anglais2008.CuevaPirates.106
-78> 34 : 34@a.Anglais2008.CuevaPirates.106
-79> 16 : 16@a.Anglais2008.CuevaPirates.106
-80> 16 : 16@a.Anglais2008.CuevaPirates.106
-81> 18 : 18@a.Anglais2008.CuevaPirates.106
+ 3> input:5512 -- 106.th [210]
+ 4> 4821 : ENT_106030@106
+ 5> input:5537 -- 106.th [335]
+ 6> 4845 : ENT_106054@106
+ 7> input:5484 -- 106.th [103]
+ 7> 4794 : ENT_106002@106
+ 8> input:5485 -- 106.th [106]
+ 8> 4795 : ENT_106003@106
+ 9> input:5486 -- 106.th [109]
+ 9> 4796 : ENT_106004@106
+10> input:5487 -- 106.th [112]
+10> 4797 : ENT_106005@106
+11> input:5488 -- 106.th [115]
+11> 4798 : ENT_106006@106
+12> input:5489 -- 106.th [120]
+12> 4799 : ENT_106008@106
+13> input:5490 -- 106.th [123]
+13> 4800 : ENT_106009@106
+14> input:5491 -- 106.th [126]
+14> 4801 : ENT_106010@106
+15> input:5492 -- 106.th [129]
+15> 4802 : ENT_106011@106
+16> input:5493 -- 106.th [132]
+16> 4803 : ENT_106012@106
+17> input:5494 -- 106.th [135]
+17> 4804 : ENT_106013@106
+18> input:5495 -- 106.th [138]
+18> 4805 : ENT_106014@106
+19> input:5496 -- 106.th [141]
+19> 4806 : ENT_106015@106
+20> input:5497 -- 106.th [144]
+20> 4807 : ENT_106016@106
+21> input:5498 -- 106.th [147]
+21> 4808 : ENT_106017@106
+22> input:5499 -- 106.th [150]
+22> 4809 : ENT_106018@106
+23> input:5500 -- 106.th [153]
+23> 4810 : ENT_106019@106
+24> input:5501 -- 106.th [156]
+24> 4811 : ENT_106020@106
+25> input:5505 -- 106.th [175]
+25> 4815 : ENT_106024@106
+26> input:5506 -- 106.th [180]
+26> 4816 : ENT_106025@106
+27> input:5507 -- 106.th [185]
+27> 4817 : ENT_106026@106
+28> input:5508 -- 106.th [190]
+28> 4818 : ENT_106027@106
+29> input:5509 -- 106.th [195]
+29> 4819 : ENT_106028@106
+30> input:5510 -- 106.th [200]
+30> 4820 : ENT_106029@106
+31> input:5511 -- 106.th [205]
+31> 4821 : ENT_106030@106
+32> input:5513 -- 106.th [215]
+32> 4822 : ENT_106031@106
+33> input:5514 -- 106.th [220]
+33> 4823 : ENT_106032@106
+34> input:5516 -- 106.th [230]
+34> 4825 : ENT_106034@106
+35> input:5517 -- 106.th [235]
+35> 4826 : ENT_106035@106
+36> input:5518 -- 106.th [240]
+36> 4827 : ENT_106036@106
+37> input:5519 -- 106.th [245]
+37> 4828 : ENT_106037@106
+38> input:5520 -- 106.th [250]
+38> 4829 : ENT_106038@106
+39> input:5521 -- 106.th [255]
+39> 4830 : ENT_106039@106
+40> input:5522 -- 106.th [260]
+40> 4831 : ENT_106040@106
+41> input:5523 -- 106.th [265]
+41> 4832 : ENT_106041@106
+42> input:5524 -- 106.th [270]
+42> 4833 : ENT_106042@106
+43> input:5525 -- 106.th [275]
+43> 4834 : ENT_106043@106
+44> input:5526 -- 106.th [280]
+44> 4835 : ENT_106044@106
+45> input:5527 -- 106.th [285]
+45> 4836 : ENT_106045@106
+46> input:5528 -- 106.th [290]
+46> 4837 : ENT_106046@106
+47> input:5529 -- 106.th [295]
+47> 4838 : ENT_106047@106
+48> input:5530 -- 106.th [300]
+48> 4839 : ENT_106048@106
+49> input:5531 -- 106.th [305]
+49> 4840 : ENT_106049@106
+50> input:5532 -- 106.th [310]
+50> 4841 : ENT_106050@106
+51> input:5533 -- 106.th [315]
+51> 4842 : ENT_106051@106
+52> input:5534 -- 106.th [320]
+52> 4843 : ENT_106052@106
+53> input:5535 -- 106.th [325]
+53> 4844 : ENT_106053@106
+54> input:5536 -- 106.th [330]
+54> 4845 : ENT_106054@106
+55> input:5541 -- 106.th [355]
+55> 4849 : ENT_106058@106
+56> input:5542 -- 106.th [360]
+56> 4850 : ENT_106059@106
+57> input:5543 -- 106.th [365]
+57> 4851 : ENT_106060@106
+59> 4852 : ENT_106061@106 -- 4803 : ENT_106012@106
+60> 17 : 17@a.Anglais2008.CuevaPirates.106
+61> 66 : 70@b.Anglais2008.CuevaPirates.106
+65> 2802 : 0@Entree.AvenDesArchesPerdues.106 -- 4755 : 5@ResurgenceGolondrina.106
+66> 4792 : 42@ResurgenceGolondrina.106 -- 2809 : 7@Entree.AvenDesArchesPerdues.106
+67> 116 : 124@c.Anglais2008.CuevaPirates.106 -- 4483 : .@PerteChampis.106
+68> 51 : 55@b.Anglais2008.CuevaPirates.106
+69> 4084 : .@Entree.GouffreDuBowling.106
+70> 327 : .@PiratesJonction.CuevaPirates.106
+71> 48 : 52@b.Anglais2008.CuevaPirates.106
+72> 7 : 7@a.Anglais2008.CuevaPirates.106
+73> 18 : 18@a.Anglais2008.CuevaPirates.106
+74> 18 : 18@a.Anglais2008.CuevaPirates.106
+75> 23 : 23@a.Anglais2008.CuevaPirates.106
+76> 31 : 31@a.Anglais2008.CuevaPirates.106
+77> 16 : 16@a.Anglais2008.CuevaPirates.106
+78> 23 : 23@a.Anglais2008.CuevaPirates.106
+79> 30 : 30@a.Anglais2008.CuevaPirates.106
+80> 15 : 15@a.Anglais2008.CuevaPirates.106
+81> 16 : 16@a.Anglais2008.CuevaPirates.106
 82> 17 : 17@a.Anglais2008.CuevaPirates.106
-83> 16 : 16@a.Anglais2008.CuevaPirates.106
-84> 9 : 9@a.Anglais2008.CuevaPirates.106
-85> 6 : 6@a.Anglais2008.CuevaPirates.106
-86> 10 : 10@a.Anglais2008.CuevaPirates.106
-87> 15 : 15@a.Anglais2008.CuevaPirates.106
-88> 5 : 5@a.Anglais2008.CuevaPirates.106
-89> 3 : 3@a.Anglais2008.CuevaPirates.106
-90> 4 : 4@a.Anglais2008.CuevaPirates.106
-91> 6 : 6@a.Anglais2008.CuevaPirates.106
-92> 8 : 8@a.Anglais2008.CuevaPirates.106
-93> 5 : 5@a.Anglais2008.CuevaPirates.106
+83> 15 : 15@a.Anglais2008.CuevaPirates.106
+84> 16 : 16@a.Anglais2008.CuevaPirates.106
+85> 9 : 9@a.Anglais2008.CuevaPirates.106
+86> 6 : 6@a.Anglais2008.CuevaPirates.106
+87> 10 : 10@a.Anglais2008.CuevaPirates.106
+88> 15 : 15@a.Anglais2008.CuevaPirates.106
+89> 5 : 5@a.Anglais2008.CuevaPirates.106
+90> 3 : 3@a.Anglais2008.CuevaPirates.106
+91> 4 : 4@a.Anglais2008.CuevaPirates.106
+92> 6 : 6@a.Anglais2008.CuevaPirates.106
+93> 8 : 8@a.Anglais2008.CuevaPirates.106
 94> 5 : 5@a.Anglais2008.CuevaPirates.106
-95> 6 : 6@a.Anglais2008.CuevaPirates.106
-96> 3 : 3@a.Anglais2008.CuevaPirates.106
-97> 2 : 1@a.Anglais2008.CuevaPirates.106
+95> 5 : 5@a.Anglais2008.CuevaPirates.106
+96> 6 : 6@a.Anglais2008.CuevaPirates.106
+97> 3 : 3@a.Anglais2008.CuevaPirates.106
 98> 2 : 1@a.Anglais2008.CuevaPirates.106
-99> 1 : 2@a.Anglais2008.CuevaPirates.106
-100> 3 : 3@a.Anglais2008.CuevaPirates.106
-101> 2 : 1@a.Anglais2008.CuevaPirates.106
-102> 1 : 2@a.Anglais2008.CuevaPirates.106
+99> 2 : 1@a.Anglais2008.CuevaPirates.106
+100> 1 : 2@a.Anglais2008.CuevaPirates.106
+101> 3 : 3@a.Anglais2008.CuevaPirates.106
+102> 2 : 1@a.Anglais2008.CuevaPirates.106
 103> 1 : 2@a.Anglais2008.CuevaPirates.106
-104> 50 : 54@b.Anglais2008.CuevaPirates.106 -- 2 : 1@a.Anglais2008.CuevaPirates.106
+104> 1 : 2@a.Anglais2008.CuevaPirates.106
+105> 51 : 55@b.Anglais2008.CuevaPirates.106 -- 2 : 1@a.Anglais2008.CuevaPirates.106
 #################### end of cavern log file ####################
 
-C:\Users\User\AppData\Local\Therion\therion.exe: warning -- cavern exit code -- 1
+therion: warning -- cavern exit code -- 256
 calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
@@ -300,15 +304,19 @@ selecting export objects ... done
 writing 106.3d ... done
 writing 106.kml ... done
 processing projection plan ... done
-average distortion: 1.05%
+average distortion: 1.19%
 
 
 ############### export maps & scraps selection #################
-M   213.88 m-ArchesSalinas-p@106 ()
+M   213.65 m-ArchesSalinas-p@106 ()
+M    35.20 m-all-p@Pirates2008.CuevaPirates.106 ()
+S    26.47 Pirates2008-1p@Pirates2008.CuevaPirates.106 ()
+S    54.79 Pirates2008-2p@Pirates2008.CuevaPirates.106 ()
+S    24.35 Pirates2008-3p@Pirates2008.CuevaPirates.106 ()
 M    64.69 m-old-p@CuevaPirates.106 ()
-S    40.09 entrance-p@Anglais2008.CuevaPirates.106 ()
 S    65.91 PiratesJonction-1p@PiratesJonction.CuevaPirates.106 ()
 S    57.63 PiratesJonction-2p@PiratesJonction.CuevaPirates.106 ()
+S    40.09 entrance-p@Anglais2008.CuevaPirates.106 ()
 S    39.58 sumpofdoom-p@Anglais2008.CuevaPirates.106 ()
 S    72.98 cairnchamber-2p@Anglais2008.CuevaPirates.106 ()
 S    78.82 cairnchamber-p@Anglais2008.CuevaPirates.106 ()
@@ -326,8 +334,8 @@ M    82.68 m-all-p@SalinasNew4.CuevaPirates.106 ()
 S    82.68 SalinasNew4-1p@SalinasNew4.CuevaPirates.106 ()
 M   100.69 m-all-p@SalinasNew5.CuevaPirates.106 ()
 S   100.69 Hacienda_Salinas_5new-1p@SalinasNew5.CuevaPirates.106 ()
-M     9.88 m-all-p@SumpOfDoomResurvey.CuevaPirates.106 ()
-S     9.88 SumpOfDoomResurvey-1p@SumpOfDoomResurvey.CuevaPirates.106 ()
+M     9.88 m-all-p@DodgyPlumbingResurvey.CuevaPirates.106 ()
+S     9.88 DodgyPlumbingResurvey-1p@DodgyPlumbingResurvey.CuevaPirates.106 ()
 M    38.68 m-all-p@PinceMi.CuevaPirates.106 ()
 S    38.68 PinceMi-1p@PinceMi.CuevaPirates.106 ()
 M    55.54 m-all-p@PrioriteADroite.CuevaPirates.106 ()
@@ -336,9 +344,6 @@ S    57.92 PrioriteADroite-3p@PrioriteADroite.CuevaPirates.106 ()
 S    54.83 PrioriteADroite-2p@PrioriteADroite.CuevaPirates.106 ()
 M    31.46 m-all-p@UnCaillouDansLaCulotte.CuevaPirates.106 ()
 S    31.46 UnCaillouDansLaCulotte-1p@UnCaillouDansLaCulotte.CuevaPirates.106 ()
-M    40.60 m-all-p@Pirates2008.CuevaPirates.106 ()
-S    26.41 Pirates2008-1p@Pirates2008.CuevaPirates.106 ()
-S    54.79 Pirates2008-2p@Pirates2008.CuevaPirates.106 ()
 M    96.91 m-all-p@Girafe.CuevaPirates.106 ()
 S    96.91 Girafe-1p@Girafe.CuevaPirates.106 ()
 S   283.63 @ ()
@@ -349,10 +354,10 @@ S   148.02 FenetreMeteo-2p@FenetreMeteo.AvenDesArchesPerdues.106 ()
 ########## end of export maps & scraps selection ###############
 writing ArchesSalinas.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.01 (TeX Live 2021/W32TeX) (kpathsea version 6.3.3)  27 FEB 2023 18:13
+This is MetaPost, version 2.02 (TeX Live 2022/Homebrew) (kpathsea version 6.3.4)  6 MAR 2023 07:53
 **data.mp
-(c:/Users/User/AppData/Local/Therion/texmf/mpost/mpost.mp
-(c:/Users/User/AppData/Local/Therion/texmf/mpost/plain.mp
+(/usr/local/Cellar/texlive/20220321_3/share/texmf-dist/metapost/base/mpost.mp
+(/usr/local/Cellar/texlive/20220321_3/share/texmf-dist/metapost/base/plain.mp
 Preloading the plain mem file, version 1.005) ) (./data.mp
 {randomseed:=42}
  [1] [2] [3] [4]
@@ -373,76 +378,87 @@ Warning: patterncolor not supported in Therion [16] [17]
 [Warning: undefined symbol `l_wall_flowstone_MY']
 [Warning: undefined symbol `p_airdraught_summer_MY']
 [Warning: undefined symbol `p_airdraught_winter_MY']
-[Warning: undefined symbol `l_survey_surface_AUT'] [1] [2] [3] [4] [5] [6]
-[7] [8] [9] [10] [11] [12] [13] [14]
+[Warning: undefined symbol `l_survey_surface_AUT'] [1]
+[Warning: scrap outline intersects itself in scrap Pirates2008-3p@Pirates2008.C
+uevaPirates.106] [2] [3] [4] [5] [6] [7]
+[Warning: scrap outline intersects itself in scrap Pirates2008-1p@Pirates2008.C
+uevaPirates.106] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
+[20] [21] [22] [23]
 [Warning: scrap outline intersects itself in scrap muddyhollows-2p@Anglais2008.
-CuevaPirates.106] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26]
-[27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41]
-[42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56]
-[57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71]
-[72] [73] [74] [75] [76] [77] [78] [79] [80]
+CuevaPirates.106] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35]
+[36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50]
+[51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]
+[66]
+[Warning: scrap outline intersects itself in scrap DodgyPlumbingResurvey-1p@Dod
+gyPlumbingResurvey.CuevaPirates.106] [67] [68] [69] [70] [71] [72] [73] [74]
+[75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86]
 [Warning: scrap outline intersects itself in scrap Girafe-1p@Girafe.CuevaPirate
 s.106]
 [Warning: scrap outline intersects itself in scrap Girafe-1p@Girafe.CuevaPirate
-s.106] [81] [82] [83] [84] [85] [86] [87] [88]
+s.106] [87] [88] [89] [90] [91] [92] [93] [94]
 [Warning: scrap outline intersects itself in scrap FenetreMeteo-1p@FenetreMeteo
 .AvenDesArchesPerdues.106]
 [Warning: scrap outline intersects itself in scrap FenetreMeteo-1p@FenetreMeteo
-.AvenDesArchesPerdues.106] [89] [90] [91] (./mptextmp.mp) (./mptextmp.mp)
+.AvenDesArchesPerdues.106] [95] [96] [97] (./mptextmp.mp) (./mptextmp.mp)
 (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp)
-[92] )
+[98] )
  
 Here is how much of MetaPost's memory you used:
- 82494 strings using 1979506 characters
- 4380820 bytes of node memory
- 1820 symbolic tokens
- 11i,82n,16p,396b,5f stack positions out of 16i,98n,17p,487b,6f
-109 output files written: data-patt.1 .. data.92
+ 86570 strings using 2079465 characters
+ 6514216 bytes of node memory
+ 1827 symbolic tokens
+ 11i,82n,16p,433b,5f stack positions out of 16i,98n,20p,487b,6f
+115 output files written: data-patt.1 .. data.98
 
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdftex 2021.6.19)  27 FEB 2023 18:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Homebrew) (preloaded format=pdftex 2022.9.2)  6 MAR 2023 07:53
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
-(c:/Users/User/AppData/Local/Therion/texmf/tex/glyphtounicode.tex))
-(./th_fontdef.tex{c:/Users/User/AppData/Local/Therion/texmf/fonts/pdftex.map})
+(/usr/local/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/pdftex/glyph
+tounicode.tex)) (./th_fontdef.tex{/usr/local/Cellar/texlive/20220321_3/share/te
+xmf-dist/fonts/map/pdftex/updmap/pdftex.map})
 (./th_formdef.tex
 Normal \count register pool exhausted, switching to extended pool.)
 (./th_pagedef.tex) (./th_pages.tex)
  253 numeric registers used out of 32768
  [1] ) 
 Here is how much of TeX's memory you used:
- 504 strings out of 94604
- 6717 string characters out of 1142524
- 153838 words of memory out of 5122566
- 2157 multiletter control sequences out of 15000+50000
- 22547 words of font info for 69 fonts, out of 1000000 for 2000
- 1416 hyphenation exceptions out of 5000
- 8i,5n,9p,322b,40s stack positions out of 5000i,500n,10000p,200000b,50000s
-<c:/Users/User/AppData/Local/Therion/texmf/fonts/type1/cmbx10.pfb><c:/Use
-rs/User/AppData/Local/Therion/texmf/fonts/type1/cmss10.pfb><c:/Users/User/AppDa
-ta/Local/Therion/texmf/fonts/type1/cmssi10.pfb><c:/Users/User/AppData/Local/The
-rion/texmf/fonts/type1/csss10.pfb>
-Output written on data.pdf (1 page, 727907 bytes).
+ 515 strings out of 494594
+ 6934 string characters out of 6136699
+ 209150 words of memory out of 5000000
+ 2171 multiletter control sequences out of 15000+600000
+ 22547 words of font info for 69 fonts, out of 8000000 for 9000
+ 1416 hyphenation exceptions out of 8191
+ 8i,5n,9p,311b,40s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/Cellar/texlive/20220321_3/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx10.pfb></usr/local/Cellar/texlive/20220321_3/share/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/Cellar/texlive/20220321_3
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/Cellar
+/texlive/20220321_3/share/texmf-dist/fonts/type1/public/cs/csss10.pfb>
+Output written on data.pdf (1 page, 822020 bytes).
 PDF statistics:
- 525 PDF objects out of 1000 (max. 8388607)
- 266 compressed objects within 3 object streams
+ 555 PDF objects out of 1000 (max. 8388607)
+ 281 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 1493 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1583 words of extra memory for PDF output out of 10000 (max. 10000000)
 
 
 ##################### end of pdftex log file #####################
 done
-compilation time: 28 sec
+compilation time: 7 sec
 
 
 ######################### loop errors ##########################
 REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
  10.06%   12.6m  125.7m  24   -2.9m    8.6m   -8.8m [2@PiratesJonction.CuevaPirates.106 - 20 - 21 - 24 - 25 - 26 - 27 - 28 - 29 = 12@a.Anglais2008.CuevaPirates.106 - 11 - 10 - 9 - 8 = 6@SalinasNew4.CuevaPirates.106 - 5 - 7 - 8 - 9 - 10 = 15@PiratesJonction.CuevaPirates.106 - 16 - 17 - 18 - 19 - 4 - 3 - 2]
+  9.60%    3.2m   32.9m   6    0.5m    3.1m    0.0m [22@ResurgenceGolondrina.106 - 35 - 32 - 31 - 25 - 23 - 22]
   7.82%    5.8m   74.8m  15    1.1m    5.7m   -0.2m [15@PiratesJonction.CuevaPirates.106 - 16 - 17 - 18 - 19 - 4 - 5 - 6 - 7 - 9 - 10 - 11 - 12 - 13 - 14 - 15]
   5.45%    3.6m   65.9m  13    2.8m    1.5m   -1.7m [C@Pirates2008.CuevaPirates.106 - U - T - S - R - Q - P - O - J - I - F - E - D - C]
   3.69%    4.5m  120.8m  17    2.2m   -3.8m    0.8m [100@Pirates2008.CuevaPirates.106 - 33 - 32 - 31 - 30 - A - B - C - U - 108 - 107 - 106 - 105 - 104 - 103 - 102 - 101 - 100]
@@ -459,37 +475,38 @@ REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
 ###################### scrap distortions #######################
  PROJECTION: plan
  AVERAGE  MAXIMAL  SCRAP
-   4.14%   91.52%  PiratesJonction-2p@PiratesJonction.CuevaPirates.106
+   4.13%   91.46%  PiratesJonction-2p@PiratesJonction.CuevaPirates.106
    9.83%   78.73%  cairnchamber-p@Anglais2008.CuevaPirates.106
-   1.44%   59.24%  muddyhollows-p@Anglais2008.CuevaPirates.106
-   1.76%   51.30%  SalinasNew4-1p@SalinasNew4.CuevaPirates.106
+   1.46%   59.00%  muddyhollows-p@Anglais2008.CuevaPirates.106
+   2.00%   51.46%  SalinasNew4-1p@SalinasNew4.CuevaPirates.106
    0.49%   40.05%  PrioriteADroite-3p@PrioriteADroite.CuevaPirates.106
-   0.85%   39.54%  sumpofdoom-p@Anglais2008.CuevaPirates.106
+   0.73%   39.54%  sumpofdoom-p@Anglais2008.CuevaPirates.106
    0.14%   38.68%  SalinasNew2-1p@Ascension.CuevaPirates.106
    0.33%   37.06%  Hacienda_Salinas_5new-1p@SalinasNew5.CuevaPirates.106
-  28.38%   34.13%  entrance-p@Anglais2008.CuevaPirates.106
    3.41%   33.41%  PiratesJonction-1p@PiratesJonction.CuevaPirates.106
-   2.04%   33.30%  cairnchamber-2p@Anglais2008.CuevaPirates.106
+   1.29%   33.30%  cairnchamber-2p@Anglais2008.CuevaPirates.106
+  29.31%   32.48%  entrance-p@Anglais2008.CuevaPirates.106
    0.41%   32.01%  Hacienda_Salinas_3new-1p@SalinasNew3.CuevaPirates.106
    0.46%   28.89%  stalchamber-p@Anglais2008.CuevaPirates.106
+   0.16%   24.94%  PrioriteADroite-1p@PrioriteADroite.CuevaPirates.106
    0.07%   24.72%  PinceMi-1p@PinceMi.CuevaPirates.106
    0.27%   22.45%  waterworld-p@Anglais2008.CuevaPirates.106
+   0.30%   19.37%  Pirates2008-3p@Pirates2008.CuevaPirates.106
+   0.62%   19.34%  DodgyPlumbingResurvey-1p@DodgyPlumbingResurvey.CuevaPirates.106
    0.15%   19.02%  UnCaillouDansLaCulotte-1p@UnCaillouDansLaCulotte.CuevaPirates.106
-   0.54%   15.87%  SumpOfDoomResurvey-1p@SumpOfDoomResurvey.CuevaPirates.106
+   0.78%   16.63%  Pirates2008-1p@Pirates2008.CuevaPirates.106
    0.11%   13.73%  Girafe-1p@Girafe.CuevaPirates.106
-   0.84%   12.51%  Pirates2008-1p@Pirates2008.CuevaPirates.106
-   0.13%   11.71%  PrioriteADroite-1p@PrioriteADroite.CuevaPirates.106
-   0.11%    9.21%  whiterhino-p@Anglais2008.CuevaPirates.106
-   0.51%    8.59%  Pirates2008-2p@Pirates2008.CuevaPirates.106
+   0.18%    9.21%  whiterhino-p@Anglais2008.CuevaPirates.106
+   0.65%    8.59%  Pirates2008-2p@Pirates2008.CuevaPirates.106
    0.27%    5.56%  stalchamberwest-p@Anglais2008.CuevaPirates.106
    0.05%    4.73%  Entree-1p@Entree.GouffreDuBowling.106
    0.08%    2.03%  muddyhollows-2p@Anglais2008.CuevaPirates.106
    0.02%    0.98%  FenetreMeteo-2p@FenetreMeteo.AvenDesArchesPerdues.106
    0.02%    0.25%  FenetreMeteo-1p@FenetreMeteo.AvenDesArchesPerdues.106
    0.00%    0.00%  PrioriteADroite-2p@PrioriteADroite.CuevaPirates.106
-   0.00%    0.00%  DELETE-ME-survey-legs-DUPLICATE_haciendas_salinas-p@Anglais2008.CuevaPirates.106
-   0.00%    0.00%  DUPLICATE_haciendas_salinas-1p@Anglais2008.CuevaPirates.106
    0.00%    0.00%  SalinasNew4-1p1@SalinasNew4.CuevaPirates.106
+   0.00%    0.00%  DUPLICATE_haciendas_salinas-1p@Anglais2008.CuevaPirates.106
+   0.00%    0.00%  DELETE-ME-survey-legs-DUPLICATE_haciendas_salinas-p@Anglais2008.CuevaPirates.106
 ################### end of scrap distortions ###################
 
 ############# CRS transformations chosen by PROJ ###############

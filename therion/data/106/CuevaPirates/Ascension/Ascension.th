@@ -69,7 +69,7 @@ survey Ascension -title "Ascension au dessus de Muddy Hollows"
     4 . 5.83 206.4 22.1
     4 . 4.67 143.8 31.0
     4 . 4.66 141.9 30.4
-    extend ignore
+    extend left
     4 5 4.62 141.8 30.9
     # extend auto
     5 . 0.67 194.0 -39.6
@@ -77,13 +77,13 @@ survey Ascension -title "Ascension au dessus de Muddy Hollows"
     5 . 2.03 130.9 -7.2
     5 . 2.19 110.6 -11.3
     5 . 1.51 102.2 -20.7
-    extend right
+    extend left
     0 6 2.22 335.5 -48.9
     # extend auto
     6 . 0.65 62.6 7.1
     6 . 0.35 318.6 70.3
     6 . 1.25 276.0 2.8
-    extend right
+    extend left
     6 7 4.05 325.3 -24.6
     # extend auto
     7 . 2.65 232.5 6.8
@@ -92,7 +92,7 @@ survey Ascension -title "Ascension au dessus de Muddy Hollows"
     7 . 0.55 293.2 44.1
     7 . 2.80 275.1 -13.9
     7 . 1.01 319.4 -22.7
-    extend right
+    extend left
     7 8 6.36 293.8 -24.3
   endcenterline
 

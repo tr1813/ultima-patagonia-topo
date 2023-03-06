@@ -17,6 +17,8 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 	input Girafe/Girafe.th
 	input SiphonAmont/SiphonAmont.th
 
+	input CuevaPirates-e.th2
+
 	# ON REJOUTE ICI LES BOUCLAGES
 	equate 1@a.Anglais2008 1@b.Anglais2008
 	equate 17@a.Anglais2008 17@b.Anglais2008
@@ -76,6 +78,49 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 	join stalchamber-p@Anglais2008 SalinasNew2-1p@Ascension
 	join PiratesJonction-2p@PiratesJonction SalinasNew4-1p@SalinasNew4
 
+	centreline 
+		extend start 32@Pirates2008
+		extend ignore U@Pirates2008
+		extend right 33@Pirates2008
+		extend left N1@Pirates2008 N@Pirates2008
+		extend left N@Pirates2008
+		extend left 25@a.Anglais2008
+		extend right 101@Pirates2008
+		extend left O@Pirates2008
+		extend left N@Pirates2008 M@Pirates2008
+		extend right 23@c.Anglais2008
+		extend right 22@a.Anglais2008
+		extend left 203@e.Anglais2008 204@e.Anglais2008
+		extend left 204@e.Anglais2008 205@e.Anglais2008
+		extend ignore 208@e.Anglais2008
+		extend left 14@a.Anglais2008 15@a.Anglais2008
+		extend left 15@a.Anglais2008
+		extend ignore 28@PiratesJonction
+		extend ignore 5@SalinasNew4 
+		extend left 53@b.Anglais2008 54@b.Anglais2008
+		extend left 54@b.Anglais2008
+		extend right 55@b.Anglais2008  56@b.Anglais2008
+		extend right 56@b.Anglais2008
+		extend left 161@d.Anglais2008 8@PiratesJonction
+		extend right 211@e.Anglais2008 212@e.Anglais2008
+		extend right 212@e.Anglais2008 213@e.Anglais2008
+		extend right 211@PiratesJonction 214@e.Anglais2008
+		extend right 214@e.Anglais2008 215@e.Anglais2008
+		extend right 215@e.Anglais2008 163@PrioriteADroite
+		extend right 163@d.Anglais2008 162@d.Anglais2008
+		extend right 162@d.Anglais2008
+		extend left 216@e.Anglais2008 217@e.Anglais2008
+		extend left 217@e.Anglais2008
+		extend vertical 219@e.Anglais2008 220@e.Anglais2008
+		extend right 112@c.Anglais2008 113@c.Anglais2008
+		extend right 113@c.Anglais2008
+		extend right 122@c.Anglais2008 124@c.Anglais2008
+		extend left 5@Pirates2008 4@Pirates2008
+		extend left 4@Pirates2008
+		extend right 1@Pirates2008 2@Pirates2008
+		extend right 2@Pirates2008
+
+	endcentreline
 
 map m-old-p -projection plan
 	PiratesJonction-1p@PiratesJonction
@@ -109,6 +154,19 @@ map m-all-p -projection plan
 	SiphonAmont
 endmap
 
+
+map m-all-e -projection extended
+	CuevaPirates-jonctions-2
+	break
+	CuevaPirates-jonctions
+	break
+	CuevaPirates-entree
+	CuevaPirates-cairn-chamber
+	CuevaPirates-new4
+	break
+	CuevaPirates-muddyhollows-1
+	CuevaPirates-dodgyplumbing
+endmap
 	
 endsurvey
 # *fix a.44 0490183 4452320 66

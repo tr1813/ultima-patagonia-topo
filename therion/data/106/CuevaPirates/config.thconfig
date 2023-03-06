@@ -45,7 +45,8 @@ endlayout
 
 lang fr
 select m-all-p@CuevaPirates.106
-lang en
+select m-all-e@CuevaPirates.106
+
 
 
 # OUTPUTS
@@ -55,4 +56,5 @@ lang en
 #export model -o outputs/CuevaPirates.3d -fmt survex
 ##export model -o outputs/CuevaPirates.lox
 #export atlas -o outputs/CuevaPirates.pdf -projection plan -layout local-p
-export map -o outputs/CuevaPiratesmap.pdf -projection plan -layout local-p
+#export map -o outputs/CuevaPiratesmap.pdf -projection plan -layout local-p
+export map -o outputs/CuevaPirates-coupe.pdf -projection extended -layout local-p
