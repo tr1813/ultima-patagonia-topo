@@ -90,6 +90,7 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 		extend left N@Pirates2008 M@Pirates2008
 		extend right 23@c.Anglais2008
 		extend right 22@a.Anglais2008
+		extend left 202@e.Anglais2008 203@e.Anglais2008
 		extend left 203@e.Anglais2008 204@e.Anglais2008
 		extend left 204@e.Anglais2008 205@e.Anglais2008
 		extend ignore 208@e.Anglais2008
@@ -160,12 +161,15 @@ map m-all-e -projection extended
 	break
 	CuevaPirates-jonctions
 	break
+	CuevaPirates-sumpofdoom
 	CuevaPirates-entree
 	CuevaPirates-cairn-chamber
 	CuevaPirates-new4
 	break
 	CuevaPirates-muddyhollows-1
 	CuevaPirates-dodgyplumbing
+	CuevaPirates-girafe
+	CuevaPirates-PinceMi
 endmap
 	
 endsurvey

@@ -162,7 +162,7 @@ line survey
 endline
 
 point 5206.28 1569.13 station-name -align tr -scale xs -text 25@a.Anglais2008
-point 3156.4353 1158.3865 label -align tr -text "conduite forcée"
+point 3156.44 1158.39 label -align tr -text "conduite forcée"
 line wall 
   5372.0207 1665.3158
   5372.0207 1665.3158 5357.7435 1671.0267 5349.1772 1669.1231
@@ -704,7 +704,8 @@ endscrap
 
 scrap CuevaPirates-cairn-chamber -projection extended -scale [0 0 96 0 0 0 200 0 inch]
 
-point 10101.092 3536.9873 label -align tr -text "Salle du cairn"
+point 13400.133 2928.5864 label -align tr -scale xs -text "aretes de roche"
+point 10101.1 3536.99 label -align tr -scale l -text "Salle du cairn"
 point 12025.7 3030.94 station -name 4@SalinasNew5
 line survey 
   12025.69 3030.9436
@@ -2020,12 +2021,7 @@ line survey
   7518.2898 2050.6336
 endline
 
-line survey 
-  7039.5498 1912.0436
-  6129.9598 1496.6936
-endline
-
-point 7039.55 1912.044 station-name -align tr -scale xs -text 20@a.Anglais2008
+point 7039.55 1912.04 station-name -align tr -scale xs -text 20@a.Anglais2008
 line wall 
   8977.6635 3155.462
   8974.9936 3136.8868 8973.5269 3117.875 8967.5926 3100.0719
@@ -2195,7 +2191,7 @@ line wall
   12474.827 3102.6955 12435.484 3072.0949 12435.484 3072.0949
 endline
 
-point 11994.769 2871.0513 label -align tr -text "escalade aux grattons"
+point 12214.769 2871.0513 label -align tr -scale xs -text "escalade aux grattons"
 line wall:clay 
   11387.486 2846.2441
   11387.486 2846.2441 11429.13 2830.049 11441.855 2826.5786
@@ -2238,6 +2234,7 @@ endscrap
 
 scrap CuevaPirates-jonctions -projection extended -scale [0 0 96 0 0 0 200 0 inch]
 
+point 11647.216 2313.4768 label -align tr -scale l -text "Muddy Hollows"
 line wall 
   9881.7875 2518.0283
   9881.7875 2518.0283 9913.8435 2500.2195 9927.3782 2486.6847
@@ -3149,13 +3146,13 @@ line survey
   11455.27 2011.6536
 endline
 
-point 10916.8 1921.893 station-name -align tr -scale xs -text 161@d.Anglais2008
+point 10916.8 1921.89 station-name -align tr -scale xs -text 161@d.Anglais2008
 point 10912.4 2047.48 station-name -align tr -scale xs -text 5@PiratesJonction
 point 11005.3 2015.98 station-name -align tr -scale xs -text 6@PiratesJonction
-point 10902.3 1980.153 station-name -align tr -scale xs -text 7@PiratesJonction
-point 11090.9 1951.024 station-name -align tr -scale xs -text 8@PiratesJonction
+point 10902.3 1980.15 station-name -align tr -scale xs -text 7@PiratesJonction
+point 11090.9 1951.02 station-name -align tr -scale xs -text 8@PiratesJonction
 point 10902.3 2072.67 station-name -align tr -scale xs -text 9@PiratesJonction
-point 11012.6 1793.933 station-name -align tr -scale xs -text 3@PrioriteADroite
+point 11012.6 1793.93 station-name -align tr -scale xs -text 3@PrioriteADroite
 line survey 
   10916.84 1921.8936
   10705.59 1865.5936
@@ -5275,11 +5272,11 @@ line survey
   10009.47 2640.3936
 endline
 
-point 10705.6 1865.594 station-name -align tr -scale xs -text 162@d.Anglais2008
-point 9803.01 1788.824 station-name -align tr -scale xs -text 212@e.Anglais2008
+point 10705.6 1865.59 station-name -align tr -scale xs -text 162@d.Anglais2008
+point 9803.01 1788.82 station-name -align tr -scale xs -text 212@e.Anglais2008
 point 10368.8 2102.6 station-name -align tr -scale xs -text 213@e.Anglais2008
-point 9789.42 1729.764 station-name -align tr -scale xs -text 0@PiratesJonction
-point 9954.28 1869.133 station-name -align tr -scale xs -text 1@PiratesJonction
+point 9789.42 1729.76 station-name -align tr -scale xs -text 0@PiratesJonction
+point 9954.28 1869.13 station-name -align tr -scale xs -text 1@PiratesJonction
 point 10365.8 2113.62 station-name -align tr -scale xs -text 2@PiratesJonction
 point 10563.7 2088.82 station-name -align tr -scale xs -text 3@PiratesJonction
 point 10697.2 2051.81 station-name -align tr -scale xs -text 4@PiratesJonction
@@ -5340,8 +5337,8 @@ endscrap
 
 scrap CuevaPirates-new4 -projection extended -scale [0 0 96 0 0 0 200 0 inch]
 
-point 12659.1282 3764.2846 narrow-end -scale xs
-point 12103.2042 3399.7689 breakdown-choke -scale xs
+point 12659.1 3764.28 narrow-end -scale xs
+point 12103.2 3399.77 breakdown-choke -scale xs
 line wall 
   12259.991 3559.0282
   12273.839 3562.985 12285.709 3567.9309 12304.504 3569.9093
@@ -5498,7 +5495,7 @@ line survey
   12479.821 3644.9888
 endline
 
-point 12524.704 3671.6836 station-name -align tr -scale xs -text 16@SalinasNew4
+point 12524.7 3671.68 station-name -align tr -scale xs -text 16@SalinasNew4
 point 11990.7 3490.0 station -name 13@SalinasNew4
 point 12138.7 3567.95 station -name 14@SalinasNew4
 point 12376.0 3592.36 station -name 15@SalinasNew4
@@ -5902,6 +5899,7 @@ endscrap
 
 scrap CuevaPirates-muddyhollows-1 -projection extended -scale [0 0 96 0 0 0 200 0 inch]
 
+point 14192.301 2615.9285 label -align tr -scale xs -text hydromagnesite
 point 16116.5 3519.52 station -name 155@d.Anglais2008
 line survey 
   16116.51 3519.5236
@@ -6194,6 +6192,7 @@ endscrap
 
 scrap CuevaPirates-dodgyplumbing -projection extended -scale [0 0 96 0 0 0 200 0 inch]
 
+point 4115.31 -343.563 label -align tr -scale l -text "Dodgy plumbing"
 line wall:blocks 
   3860.5815 -41.3626
   3911.9393 3.4389
@@ -6217,6 +6216,7 @@ line border -close on -id CuevaPirates-dodgyplumbing_water_1 -visibility on
   5310.5859 -248.8317
   4921.8511 -248.8317
   4921.8511 -134.1101
+  4921.8511 -134.1101
 endline
 
 area water 
@@ -6228,6 +6228,7 @@ line border -close on -id CuevaPirates-dodgyplumbing_water_2 -visibility on
   3487.7438 -173.8098
   3487.7438 -273.5707
   3302.4736 -273.5707
+  3302.4736 -173.8098
   3302.4736 -173.8098
 endline
 
@@ -6502,7 +6503,7 @@ line survey
   7105.4798 770.3136
 endline
 
-point 7612.89 907.3236 station-name -align tr -scale xs -text 1@DodgyPlumbingResurvey
+point 7612.89 907.324 station-name -align tr -scale xs -text 1@DodgyPlumbingResurvey
 line survey 
   7612.8898 907.3236
   6879.2998 634.4936
@@ -7107,6 +7108,196 @@ point 4262.12 278.973 station-name -align tr -scale xs -text 17@DodgyPlumbingRes
 endscrap
 
 
+scrap CuevaPirates-sumpofdoom -projection extended -scale [0 0 96 0 0 0 200 0 inch]
+
+line wall 
+  7158.2593 1311.8901
+  7158.2593 1311.8901 7283.7761 1247.23 7298.9902 1235.8194
+  7314.2044 1224.4088 7329.4185 1220.6052 7344.6327 1209.1946
+  7359.8468 1197.784 7394.0787 1174.9628 7394.0787 1174.9628
+  7451.1318 1159.7486
+  7481.5601 1140.7309
+  7481.5601 1140.7309 7485.3636 1117.9097 7542.4167 1114.1062
+  7599.4698 1110.3026 7675.5405 1095.0885 7675.5405 1095.0885
+  7732.5936 1079.8743
+  7797.2538 1060.8566
+  7839.0927 1057.0531
+  7823.8785 1034.2318
+  7755.4148 1019.0177
+endline
+
+line wall:blocks 
+  6161.7322 1038.0354
+  6161.7322 1038.0354 6386.141 1140.7309 6420.3729 1152.1415
+  6454.6047 1163.5521 6640.9781 1239.6229 6656.1922 1243.4265
+  6671.4064 1247.23 6853.9762 1273.8548 6853.9762 1273.8548
+  6979.493 1311.8901
+  7059.3673 1323.3008
+  7135.4381 1319.4972
+endline
+
+line wall 
+  6892.0116 1528.6918
+  7009.9213 1437.4069
+  7059.3673 1395.568
+  7059.3673 1395.568 7082.1885 1376.5503 7055.5638 1372.7468
+  7028.939 1368.9432 6998.5107 1342.3185 6945.2612 1346.122
+  6892.0116 1349.9255 6857.7798 1365.1397 6834.9585 1349.9255
+  6812.1373 1334.7114 6789.3161 1323.3008 6755.0842 1311.8901
+  6720.8524 1300.4795 6602.9427 1273.8548 6583.925 1262.4441
+  6564.9073 1251.0335 6523.0684 1232.0158 6523.0684 1232.0158
+  6382.3375 1182.5698
+  6184.5535 1110.3026
+  6123.6969 1053.2495
+  6123.6969 1030.4283
+endline
+
+line wall:blocks 
+  6256.1904 1507.2205
+  6256.1904 1507.2205 6413.019 1536.8908 6438.4507 1538.3037
+  6463.8824 1539.7165 6487.9012 1542.5423 6516.1586 1548.1937
+  6544.416 1553.8452 6599.5179 1575.0383 6620.711 1576.4512
+  6641.9041 1577.864 6709.7218 1583.5155 6728.0892 1579.2769
+  6746.4565 1575.0383 6761.998 1575.0383 6769.0624 1573.6254
+  6776.1267 1572.2125 6866.5505 1548.1937 6872.2019 1545.368
+  6877.8534 1542.5423 6890.5693 1536.8908 6890.5693 1536.8908
+endline
+
+line wall 
+  7183.0334 1614.5986
+  7183.0334 1614.5986 7188.6849 1580.6898 7139.2345 1577.864
+  7089.784 1575.0383 7041.7464 1579.2769 7041.7464 1579.2769
+  7041.7464 1579.2769 7013.489 1599.0571 7005.0118 1604.7086
+  6996.5345 1610.36 6975.3415 1635.7917 6975.3415 1635.7917
+  6940.0197 1665.462
+  6940.0197 1665.462 6908.9366 1690.8937 6899.0465 1713.4996
+  6889.1564 1736.1055 6825.5772 1717.7382 6810.0356 1717.7382
+  6794.4941 1717.7382 6774.7139 1720.5639 6769.0624 1720.5639
+  6763.4109 1720.5639 6722.4377 1723.3897 6661.6842 1717.7382
+  6600.9308 1712.0867 6543.0031 1710.6738 6543.0031 1710.6738
+  6543.0031 1710.6738 6441.2764 1734.6926 6431.3864 1740.3441
+  6421.4963 1745.9956 6308.4666 1770.0144 6308.4666 1770.0144
+endline
+
+line wall:clay 
+  7812.5732 942.0551
+  7812.5732 942.0551 7904.4859 960.038 7928.4631 964.0342
+  7952.4403 968.0304 8006.389 984.0152 8018.3776 988.0114
+  8030.3662 992.0076 8072.3263 1005.9943 8072.3263 1005.9943
+  8072.3263 1005.9943 8164.2389 1013.9867 8178.2256 1025.9753
+  8192.2123 1037.9639 8208.1972 1043.9582 8230.1763 1047.9544
+  8252.1554 1051.9506 8272.1364 1065.9373 8282.1269 1069.9335
+  8292.1174 1073.9297 8358.0547 1129.8765 8406.0091 1145.8613
+  8453.9635 1161.8462 8571.8515 1191.8176 8615.8097 1213.7968
+  8659.7679 1235.7759 8707.7223 1259.7531 8737.6938 1273.7398
+  8767.6653 1287.7265 8917.5229 1369.6486 8955.4868 1389.6296
+  8993.4507 1409.6106 9111.3386 1457.565 9127.3234 1463.5593
+  9143.3082 1469.5536 9221.2341 1501.5232 9229.2265 1505.5194
+  9237.2189 1509.5157 9381.0822 1579.4492 9381.0822 1579.4492
+endline
+
+point 8658.69 1287.24 station -name 208@e.Anglais2008
+point 8676.47 1283.7 station -name 209@e.Anglais2008
+point 8917.45 1390.78 station -name 210@e.Anglais2008
+line survey 
+  8024.7198 1002.9936
+  8677.8439 1281.2493
+endline
+
+line survey 
+  8658.6898 1287.2436
+  8676.4698 1283.7036
+endline
+
+line survey 
+  8676.4698 1283.7036
+  8917.4498 1390.7836
+endline
+
+line survey 
+  8917.4498 1390.7836
+  9452.2698 1625.4336
+endline
+
+point 8658.69 1287.24 station-name -align tr -scale xs -text 208@e.Anglais2008
+point 8676.47 1283.7 station-name -align tr -scale xs -text 209@e.Anglais2008
+point 8917.45 1390.78 station-name -align tr -scale xs -text 210@e.Anglais2008
+point 6494.8 1560.86 station -name 200@e.Anglais2008
+point 7141.6 1354.96 station -name 202@e.Anglais2008
+point 6134.15 1046.93 station -name 205@e.Anglais2008
+line survey 
+  6129.9598 1496.6936
+  6494.7998 1560.8636
+endline
+
+line survey 
+  6494.7998 1560.8636
+  6811.7698 1605.3536
+endline
+
+line survey 
+  6811.7698 1605.3536
+  7141.5998 1354.9636
+endline
+
+line survey 
+  7144.579 1353.5507
+  6648.579 1248.4307
+endline
+
+line survey 
+  6379.0748 1155.9765
+  6134.1448 1046.9265
+endline
+
+line survey 
+  7141.5998 1354.9636
+  7370.7498 1206.1436
+endline
+
+line survey 
+  7370.7498 1206.1436
+  8024.7198 1002.9936
+endline
+
+point 6494.8 1560.86 station-name -align tr -scale xs -text 200@e.Anglais2008
+point 7141.6 1354.96 station-name -align tr -scale xs -text 202@e.Anglais2008
+point 6134.15 1046.93 station-name -align tr -scale xs -text 205@e.Anglais2008
+line survey 
+  7039.5498 1912.0436
+  6129.9598 1496.6936
+endline
+
+line wall 
+  9347.1145 1619.4112
+  9347.1145 1619.4112 9227.2284 1565.4625 9211.2436 1559.4682
+  9195.2588 1553.4739 9159.293 1551.4758 9139.312 1543.4834
+  9119.331 1535.4909 8983.4602 1461.5612 8983.4602 1461.5612
+  8983.4602 1461.5612 8767.6653 1383.6353 8745.6862 1373.6448
+  8723.7071 1363.6543 8615.8097 1333.6828 8605.8192 1331.6847
+  8595.8287 1329.6866 8511.9084 1311.7037 8499.9198 1305.7094
+  8487.9312 1299.7151 8364.049 1261.7512 8346.0661 1253.7588
+  8328.0832 1245.7664 8210.1953 1209.8006 8150.2522 1189.8195
+  8090.3092 1169.8385 7980.4137 1111.8936 7972.4213 1111.8936
+  7964.4289 1111.8936 7868.5201 1125.8803 7868.5201 1125.8803
+  7868.5201 1125.8803 7740.6416 1137.8689 7714.6663 1149.8575
+  7688.691 1161.8461 7654.7233 1193.8158 7622.7537 1207.8025
+  7590.7841 1221.7892 7552.8202 1223.7873 7528.843 1231.7797
+  7504.8658 1239.7721 7396.9683 1247.7645 7386.9778 1257.755
+  7376.9873 1267.7455 7349.0139 1279.7341 7337.0253 1307.7075
+  7325.0367 1335.6809 7299.0614 1361.6562 7299.0614 1361.6562
+  7299.0614 1361.6562 7207.1488 1387.6315 7197.1583 1405.6144
+  7187.1678 1423.5973 7086.9583 1445.0542 7075.6553 1454.9443
+  7064.3523 1464.8344 7020.5533 1501.569 7041.7464 1510.0462
+  7062.9395 1518.5235 7071.4167 1525.5878 7099.6741 1528.4135
+  7127.9315 1531.2393 7140.6473 1531.2393 7163.2533 1535.4779
+  7185.8592 1539.7165 7192.9235 1553.8452 7190.0978 1562.3224
+  7187.2721 1570.7997 7212.7037 1600.4699 7212.7037 1600.4699
+endline
+
+endscrap
+
+
 scrap CuevaPirates-jonctions-2 -projection extended -scale [0 0 96 0 0 0 200 0 inch]
 
 point 10705.6 1865.59 station -name 162@d.Anglais2008
@@ -7349,18 +7540,11 @@ point 11750.5 1889.21 station -name 159@d.Anglais2008
 point 11239.5 1870.31 station -name 160@d.Anglais2008
 point 11180.4 1921.89 station -name 161@PiratesJonction
 point 10092.5 1616.38 station -name 163@PrioriteADroite
-point 6494.8 1560.86 station -name 200@e.Anglais2008
 point 6811.77 1605.35 station -name 201@e.Anglais2008
-point 7141.6 1354.96 station -name 202@e.Anglais2008
-point 7637.6 1249.84 station -name 203@e.Anglais2008
-point 7361.02 1154.56 station -name 204@e.Anglais2008
-point 7116.09 1045.51 station -name 205@e.Anglais2008
+point 6659.6 1249.84 station -name 203@e.Anglais2008
+point 6379.07 1155.98 station -name 204@e.Anglais2008
 point 7370.75 1206.14 station -name 206@e.Anglais2008
 point 8024.72 1002.99 station -name 207@DodgyPlumbingResurvey
-point 8913.62 1287.24 station -name 208@e.Anglais2008
-point 8658.69 1287.24 station -name 208@e.Anglais2008
-point 8676.47 1283.7 station -name 209@e.Anglais2008
-point 8917.45 1390.78 station -name 210@e.Anglais2008
 point 9452.27 1625.43 station -name 211@PiratesJonction
 point 9887.66 1590.78 station -name 214@e.Anglais2008
 point 10063.7 1661.65 station -name 215@e.Anglais2008
@@ -7435,26 +7619,6 @@ point 14513.1 4527.01 station -name 17@SalinasNew5
 point 14893.5 4763.62 station -name 18@SalinasNew5
 point 14735.7 4833.3 station -name 19@SalinasNew5
 point 14496.5 4762.04 station -name 20@SalinasNew5
-point 17566.2 2452.99 station -name 1@PinceMi
-point 17367.8 2353.38 station -name 2@PinceMi
-point 17135.7 2288.42 station -name 3@PinceMi
-point 17008.3 2259.68 station -name 4@PinceMi
-point 16814.2 2247.08 station -name 5@PinceMi
-point 16347.3 1926.22 station -name 6@PinceMi
-point 16146.7 1804.96 station -name 7@PinceMi
-point 15965.4 1717.95 station -name 8@PinceMi
-point 15729.3 1650.23 station -name 9@PinceMi
-point 15359.1 1447.48 station -name 10@PinceMi
-point 15177.2 1341.97 station -name 11@PinceMi
-point 14974.7 1056.93 station -name 12@PinceMi
-point 14763.5 1045.9 station -name 13@PinceMi
-point 14415.4 884.494 station -name 14@PinceMi
-point 14090.8 743.154 station -name 15@PinceMi
-point 13911.7 561.654 station -name 16@PinceMi
-point 13556.1 494.334 station -name 17@PinceMi
-point 13358.6 448.664 station -name 18@PinceMi
-point 13030.9 434.494 station -name 19@PinceMi
-point 12960.6 438.424 station -name 20@PinceMi
 point 22100.0 1595.51 station -name 1@UnCaillouDansLaCulotte
 point 22177.2 1558.11 station -name 2@UnCaillouDansLaCulotte
 point 22328.6 1550.23 station -name 3@UnCaillouDansLaCulotte
@@ -7530,44 +7694,6 @@ point 15940.1 2977.79 station -name 2@Girafe
 point 16177.0 2994.33 station -name 3@Girafe
 point 16356.2 3046.69 station -name 4@Girafe
 point 16670.7 3135.67 station -name 5@Girafe
-point 16811.6 3230.55 station -name 6@Girafe
-point 17045.5 3338.82 station -name 7@Girafe
-point 17165.2 3375.82 station -name 8@Girafe
-point 17239.0 3373.46 station -name 9@Girafe
-point 17742.7 3607.32 station -name 10@Girafe
-point 17914.3 3641.97 station -name 11@Girafe
-point 18276.9 3794.33 station -name 12@Girafe
-point 18416.3 3835.67 station -name 13@Girafe
-point 18507.7 3807.32 station -name 14@Girafe
-point 18557.9 3814.41 station -name 15@Girafe
-point 18707.6 3862.83 station -name 16@Girafe
-point 18778.8 3877.01 station -name 17@Girafe
-point 19106.6 3915.59 station -name 18@Girafe
-point 19222.0 3884.09 station -name 19@Girafe
-point 19392.2 3872.67 station -name 20@Girafe
-point 19429.8 3919.13 station -name 21@Girafe
-point 19575.3 3919.92 station -name 22@Girafe
-point 19743.0 3963.23 station -name 23@Girafe
-point 19832.6 3997.08 station -name 24@Girafe
-point 19902.1 4006.14 station -name 25@Girafe
-point 20019.8 4051.02 station -name 26@Girafe
-point 20240.8 4075.04 station -name 27@Girafe
-point 20541.3 4072.28 station -name 28@Girafe
-point 20755.5 4036.45 station -name 29@Girafe
-point 20982.2 4027.4 station -name 30@Girafe
-point 19239.5 3817.16 station -name 31@Girafe
-point 19130.0 3794.33 station -name 32@Girafe
-point 18971.8 3787.24 station -name 33@Girafe
-point 18918.1 3694.33 station -name 34@Girafe
-point 18810.1 3676.61 station -name 35@Girafe
-point 18738.2 3648.66 station -name 36@Girafe
-point 18683.4 3600.63 station -name 37@Girafe
-point 18637.7 3585.67 station -name 38@Girafe
-point 18573.7 3585.67 station -name 39@Girafe
-point 18490.5 3592.75 station -name 40@Girafe
-point 18474.5 3615.19 station -name 41@Girafe
-point 18340.5 3550.63 station -name 42@Girafe
-point 18283.9 3564.8 station -name 43@Girafe
 point 8529.13 -662.36 station -name 0@SiphonAmont
 point 8124.19 -815.91 station -name 1@SiphonAmont
 point 7979.86 -878.9 station -name 2@SiphonAmont
@@ -7993,63 +8119,8 @@ line survey
 endline
 
 line survey 
-  6129.9598 1496.6936
-  6494.7998 1560.8636
-endline
-
-line survey 
-  6494.7998 1560.8636
-  6811.7698 1605.3536
-endline
-
-line survey 
-  6811.7698 1605.3536
-  7141.5998 1354.9636
-endline
-
-line survey 
-  7141.5998 1354.9636
-  7637.5998 1249.8436
-endline
-
-line survey 
-  7637.5998 1249.8436
-  7361.0198 1154.5636
-endline
-
-line survey 
-  7361.0198 1154.5636
-  7116.0898 1045.5136
-endline
-
-line survey 
-  7141.5998 1354.9636
-  7370.7498 1206.1436
-endline
-
-line survey 
-  7370.7498 1206.1436
-  8024.7198 1002.9936
-endline
-
-line survey 
-  8024.7198 1002.9936
-  8913.6198 1287.2436
-endline
-
-line survey 
-  8658.6898 1287.2436
-  8676.4698 1283.7036
-endline
-
-line survey 
-  8676.4698 1283.7036
-  8917.4498 1390.7836
-endline
-
-line survey 
-  8917.4498 1390.7836
-  9452.2698 1625.4336
+  6655.6548 1251.2565
+  6379.0748 1155.9765
 endline
 
 line survey 
@@ -8059,12 +8130,12 @@ endline
 
 line survey 
   9887.6598 1590.7836
-  10063.7198 1661.6536
+  10063.72 1661.6536
 endline
 
 line survey 
-  10063.7198 1661.6536
-  10092.5098 1616.3836
+  10063.72 1661.6536
+  10092.51 1616.3836
 endline
 
 line survey 
@@ -8578,48 +8649,48 @@ line survey
 endline
 
 line survey 
-  10092.5098 1616.3836
+  10092.51 1616.3836
   10541.57 1604.5636
 endline
 
 line survey 
-  10092.5098 1616.3836
+  10092.51 1616.3836
   10376.32 1610.8636
 endline
 
 line survey 
-  10092.5098 1616.3836
-  10084.9698 1645.1236
+  10092.51 1616.3836
+  10084.97 1645.1236
 endline
 
 line survey 
-  10092.5098 1616.3836
+  10092.51 1616.3836
   10278.59 1686.0636
 endline
 
 line survey 
-  10092.5098 1616.3836
-  10186.9998 1638.4236
+  10092.51 1616.3836
+  10187.0 1638.4236
 endline
 
 line survey 
-  10092.5098 1616.3836
-  10179.0198 1613.6236
+  10092.51 1616.3836
+  10179.02 1613.6236
 endline
 
 line survey 
-  10092.5098 1616.3836
-  10109.3498 1618.3436
+  10092.51 1616.3836
+  10109.35 1618.3436
 endline
 
 line survey 
-  10092.5098 1616.3836
-  10009.0198 1623.4636
+  10092.51 1616.3836
+  10009.02 1623.4636
 endline
 
 line survey 
-  10092.5098 1616.3836
-  10016.0698 1628.5836
+  10092.51 1616.3836
+  10016.07 1628.5836
 endline
 
 line survey 
@@ -10992,6 +11063,3804 @@ line survey
   14496.47 4762.0436
 endline
 
+line survey 
+  21796.15 1740.3936
+  21803.55 1805.3536
+endline
+
+line survey 
+  21796.15 1740.3936
+  21559.41 1865.9836
+endline
+
+line survey 
+  21796.15 1740.3936
+  21658.76 1826.2236
+endline
+
+line survey 
+  21796.15 1740.3936
+  21808.32 1786.4536
+endline
+
+line survey 
+  21796.15 1740.3936
+  21923.39 1760.8636
+endline
+
+line survey 
+  21796.15 1740.3936
+  22026.54 1771.4936
+endline
+
+line survey 
+  21796.15 1740.3936
+  21929.46 1767.1636
+endline
+
+line survey 
+  21796.15 1740.3936
+  21981.91 1810.4736
+endline
+
+line survey 
+  21796.15 1740.3936
+  22137.41 1560.0836
+endline
+
+line survey 
+  21796.15 1740.3936
+  21988.46 1654.1736
+endline
+
+line survey 
+  21796.15 1740.3936
+  22165.75 1540.3936
+endline
+
+line survey 
+  21796.15 1740.3936
+  22099.97 1595.5136
+endline
+
+line survey 
+  22099.97 1595.5136
+  22095.87 1558.5036
+endline
+
+line survey 
+  22099.97 1595.5136
+  22091.71 1614.8036
+endline
+
+line survey 
+  22099.97 1595.5136
+  22107.59 1596.3036
+endline
+
+line survey 
+  22099.97 1595.5136
+  22111.43 1594.3336
+endline
+
+line survey 
+  22099.97 1595.5136
+  22091.75 1607.3236
+endline
+
+line survey 
+  22099.97 1595.5136
+  22100.64 1611.6536
+endline
+
+line survey 
+  22099.97 1595.5136
+  22025.85 1616.7736
+endline
+
+line survey 
+  22099.97 1595.5136
+  22010.08 1641.1836
+endline
+
+line survey 
+  22099.97 1595.5136
+  21754.44 1769.9236
+endline
+
+line survey 
+  22099.97 1595.5136
+  21839.36 1688.8236
+endline
+
+line survey 
+  22099.97 1595.5136
+  22022.97 1621.4936
+endline
+
+line survey 
+  22099.97 1595.5136
+  22305.05 1546.3036
+endline
+
+line survey 
+  22099.97 1595.5136
+  22165.31 1579.7636
+endline
+
+line survey 
+  22099.97 1595.5136
+  22193.55 1567.5636
+endline
+
+line survey 
+  22099.97 1595.5136
+  22177.18 1558.1136
+endline
+
+line survey 
+  22177.18 1558.1136
+  22182.58 1589.6036
+endline
+
+line survey 
+  22177.18 1558.1136
+  22176.19 1540.3936
+endline
+
+line survey 
+  22177.18 1558.1136
+  22150.78 1525.0436
+endline
+
+line survey 
+  22177.18 1558.1136
+  22170.94 1570.7136
+endline
+
+line survey 
+  22177.18 1558.1136
+  22195.14 1582.1236
+endline
+
+line survey 
+  22177.18 1558.1136
+  22299.91 1575.8236
+endline
+
+line survey 
+  22177.18 1558.1136
+  22342.6 1555.7536
+endline
+
+line survey 
+  22177.18 1558.1136
+  22183.87 1557.7136
+endline
+
+line survey 
+  22177.18 1558.1136
+  22328.56 1550.2336
+endline
+
+line survey 
+  22328.56 1550.2336
+  22339.81 1597.4836
+endline
+
+line survey 
+  22328.56 1550.2336
+  22271.58 1512.4436
+endline
+
+line survey 
+  22328.56 1550.2336
+  22178.41 1532.5236
+endline
+
+line survey 
+  22328.56 1550.2336
+  22304.96 1564.4136
+endline
+
+line survey 
+  22328.56 1550.2336
+  22324.07 1626.2236
+endline
+
+line survey 
+  22328.56 1550.2336
+  22321.67 1567.5636
+endline
+
+line survey 
+  22328.56 1550.2336
+  22446.37 1710.8636
+endline
+
+line survey 
+  22328.56 1550.2336
+  22412.93 1778.1936
+endline
+
+line survey 
+  22328.56 1550.2336
+  22333.51 1638.8236
+endline
+
+line survey 
+  22328.56 1550.2336
+  22274.11 1616.3836
+endline
+
+line survey 
+  22328.56 1550.2336
+  22195.67 1578.9736
+endline
+
+line survey 
+  22328.56 1550.2336
+  22064.12 1586.8536
+endline
+
+line survey 
+  22328.56 1550.2336
+  22479.24 1539.6036
+endline
+
+line survey 
+  22328.56 1550.2336
+  22720.91 1513.2336
+endline
+
+line survey 
+  22328.56 1550.2336
+  22542.6 1558.5036
+endline
+
+line survey 
+  22328.56 1550.2336
+  22642.46 1537.2436
+endline
+
+line survey 
+  22642.46 1537.2436
+  22650.18 1549.8436
+endline
+
+line survey 
+  22642.46 1537.2436
+  22645.36 1481.7336
+endline
+
+line survey 
+  22642.46 1537.2436
+  22656.15 1546.3036
+endline
+
+line survey 
+  22642.46 1537.2436
+  22660.79 1531.3436
+endline
+
+line survey 
+  22642.46 1537.2436
+  22622.95 1476.6136
+endline
+
+line survey 
+  22642.46 1537.2436
+  22676.45 1521.8936
+endline
+
+line survey 
+  22642.46 1537.2436
+  22754.1 1523.0736
+endline
+
+line survey 
+  22642.46 1537.2436
+  22958.52 1503.3836
+endline
+
+line survey 
+  22642.46 1537.2436
+  22909.63 1512.4436
+endline
+
+line survey 
+  22642.46 1537.2436
+  22502.8 1540.7836
+endline
+
+line survey 
+  22642.46 1537.2436
+  22333.67 1607.3236
+endline
+
+line survey 
+  22642.46 1537.2436
+  22236.48 1569.1336
+endline
+
+line survey 
+  22642.46 1537.2436
+  22494.58 1547.0836
+endline
+
+line survey 
+  22642.46 1537.2436
+  22568.74 1549.0536
+endline
+
+line survey 
+  22642.46 1537.2436
+  22907.44 1499.0536
+endline
+
+line survey 
+  22907.44 1499.0536
+  22886.36 1560.4736
+endline
+
+line survey 
+  22907.44 1499.0536
+  22994.69 1562.8336
+endline
+
+line survey 
+  22907.44 1499.0536
+  22976.37 1506.9336
+endline
+
+line survey 
+  22907.44 1499.0536
+  22925.18 1541.9736
+endline
+
+line survey 
+  22907.44 1499.0536
+  22915.83 1538.8236
+endline
+
+line survey 
+  22907.44 1499.0536
+  22904.78 1521.8936
+endline
+
+line survey 
+  22907.44 1499.0536
+  22931.58 1517.5636
+endline
+
+line survey 
+  22907.44 1499.0536
+  23076.56 1510.4736
+endline
+
+line survey 
+  22907.44 1499.0536
+  23092.9 1497.0836
+endline
+
+line survey 
+  22907.44 1499.0536
+  23003.39 1475.4336
+endline
+
+line survey 
+  22907.44 1499.0536
+  23075.2 1444.3336
+endline
+
+line survey 
+  22907.44 1499.0536
+  23110.42 1507.7136
+endline
+
+line survey 
+  22907.44 1499.0536
+  23075.84 1512.0436
+endline
+
+line survey 
+  22907.44 1499.0536
+  22733.32 1520.7136
+endline
+
+line survey 
+  22907.44 1499.0536
+  22681.73 1520.7136
+endline
+
+line survey 
+  22907.44 1499.0536
+  22556.27 1528.5836
+endline
+
+line survey 
+  22907.44 1499.0536
+  22780.56 1530.5536
+endline
+
+line survey 
+  22907.44 1499.0536
+  22902.16 1500.6336
+endline
+
+line survey 
+  22907.44 1499.0536
+  23072.45 1473.8636
+endline
+
+line survey 
+  23072.45 1473.8636
+  23065.03 1534.0936
+endline
+
+line survey 
+  23072.45 1473.8636
+  23091.94 1480.5536
+endline
+
+line survey 
+  23072.45 1473.8636
+  23050.48 1493.5436
+endline
+
+line survey 
+  23072.45 1473.8636
+  22983.73 1464.8036
+endline
+
+line survey 
+  23072.45 1473.8636
+  23048.6 1451.0236
+endline
+
+line survey 
+  23072.45 1473.8636
+  23107.95 1438.0336
+endline
+
+line survey 
+  23072.45 1473.8636
+  23132.5 1447.8736
+endline
+
+line survey 
+  23072.45 1473.8636
+  23183.13 1428.5836
+endline
+
+line survey 
+  23072.45 1473.8636
+  23196.98 1416.7736
+endline
+
+line survey 
+  23072.45 1473.8636
+  22894.37 1531.3436
+endline
+
+line survey 
+  23072.45 1473.8636
+  23014.35 1470.7136
+endline
+
+line survey 
+  23072.45 1473.8636
+  23036.54 1449.4536
+endline
+
+line survey 
+  23072.45 1473.8636
+  22895.8 1530.1536
+endline
+
+line survey 
+  23072.45 1473.8636
+  22797.65 1551.0236
+endline
+
+line survey 
+  23072.45 1473.8636
+  22824.56 1532.1236
+endline
+
+line survey 
+  23072.45 1473.8636
+  23181.15 1404.5636
+endline
+
+line survey 
+  23181.15 1404.5636
+  23156.87 1462.8336
+endline
+
+line survey 
+  23181.15 1404.5636
+  23130.79 1435.2736
+endline
+
+line survey 
+  23181.15 1404.5636
+  23266.6 1382.9136
+endline
+
+line survey 
+  23266.6 1382.9136
+  23273.56 1452.2036
+endline
+
+line survey 
+  23266.6 1382.9136
+  23249.22 1443.9336
+endline
+
+line survey 
+  23266.6 1382.9136
+  23247.66 1418.3436
+endline
+
+line survey 
+  23266.6 1382.9136
+  23238.41 1400.2336
+endline
+
+line survey 
+  23266.6 1382.9136
+  23278.23 1453.3836
+endline
+
+line survey 
+  23266.6 1382.9136
+  23285.17 1440.7836
+endline
+
+line survey 
+  23266.6 1382.9136
+  23293.22 1425.8236
+endline
+
+line survey 
+  23266.6 1382.9136
+  23284.13 1395.1236
+endline
+
+line survey 
+  23266.6 1382.9136
+  23314.06 1505.7536
+endline
+
+line survey 
+  23266.6 1382.9136
+  23291.96 1531.3436
+endline
+
+line survey 
+  23266.6 1382.9136
+  23261.9 1523.4636
+endline
+
+line survey 
+  23266.6 1382.9136
+  23240.65 1432.1236
+endline
+
+line survey 
+  23266.6 1382.9136
+  23781.57 1202.6036
+endline
+
+line survey 
+  23266.6 1382.9136
+  23602.14 1274.2536
+endline
+
+line survey 
+  23266.6 1382.9136
+  23855.88 1161.2636
+endline
+
+line survey 
+  23855.88 1161.2636
+  23844.63 1199.8436
+endline
+
+line survey 
+  23855.88 1161.2636
+  23826.8 1198.6636
+endline
+
+line survey 
+  23855.88 1161.2636
+  23779.59 1240.0036
+endline
+
+line survey 
+  23855.88 1161.2636
+  23810.85 1187.2436
+endline
+
+line survey 
+  23855.88 1161.2636
+  23757.6 1191.1836
+endline
+
+line survey 
+  23855.88 1161.2636
+  23610.13 1243.1536
+endline
+
+line survey 
+  23855.88 1161.2636
+  23373.48 1319.9236
+endline
+
+line survey 
+  23855.88 1161.2636
+  23446.67 1280.9436
+endline
+
+line survey 
+  23855.88 1161.2636
+  23357.24 1318.7436
+endline
+
+line survey 
+  23855.88 1161.2636
+  23844.83 1108.9036
+endline
+
+line survey 
+  23855.88 1161.2636
+  24051.49 1065.1936
+endline
+
+line survey 
+  23855.88 1161.2636
+  24081.07 1034.4936
+endline
+
+line survey 
+  23855.88 1161.2636
+  23927.29 1135.6736
+endline
+
+line survey 
+  23855.88 1161.2636
+  23998.68 1069.1336
+endline
+
+line survey 
+  23998.68 1069.1336
+  23999.14 1129.3736
+endline
+
+line survey 
+  23998.68 1069.1336
+  23993.63 1121.4936
+endline
+
+line survey 
+  23998.68 1069.1336
+  24023.96 1078.5836
+endline
+
+line survey 
+  23998.68 1069.1336
+  23997.28 1090.7836
+endline
+
+line survey 
+  23998.68 1069.1336
+  23998.06 1109.6836
+endline
+
+line survey 
+  23998.68 1069.1336
+  24001.74 1093.5436
+endline
+
+line survey 
+  23998.68 1069.1336
+  24081.18 1047.4836
+endline
+
+line survey 
+  23998.68 1069.1336
+  24060.23 1056.5336
+endline
+
+line survey 
+  23998.68 1069.1336
+  24125.26 1027.4036
+endline
+
+line survey 
+  23998.68 1069.1336
+  24375.03 922.2836
+endline
+
+line survey 
+  23998.68 1069.1336
+  24397.08 906.5336
+endline
+
+line survey 
+  23998.68 1069.1336
+  24390.05 909.6836
+endline
+
+line survey 
+  23998.68 1069.1336
+  24149.86 1006.9336
+endline
+
+line survey 
+  23998.68 1069.1336
+  24238.33 930.5536
+endline
+
+line survey 
+  23998.68 1069.1336
+  24092.19 1059.6836
+endline
+
+line survey 
+  23998.68 1069.1336
+  23624.98 1245.1236
+endline
+
+line survey 
+  23998.68 1069.1336
+  23844.96 1162.4436
+endline
+
+line survey 
+  23998.68 1069.1336
+  23892.84 1117.5636
+endline
+
+line survey 
+  23998.68 1069.1336
+  24354.82 918.7436
+endline
+
+line survey 
+  24354.82 918.7436
+  24348.57 982.1236
+endline
+
+line survey 
+  24354.82 918.7436
+  24349.14 964.4136
+endline
+
+line survey 
+  24354.82 918.7436
+  24354.39 927.4036
+endline
+
+line survey 
+  24354.82 918.7436
+  24353.68 916.3836
+endline
+
+line survey 
+  24354.82 918.7436
+  24392.3 1032.9136
+endline
+
+line survey 
+  24354.82 918.7436
+  24199.74 1006.5336
+endline
+
+line survey 
+  24354.82 918.7436
+  24134.98 1027.7936
+endline
+
+line survey 
+  24354.82 918.7436
+  24077.39 1058.9036
+endline
+
+line survey 
+  24354.82 918.7436
+  23787.89 1165.5936
+endline
+
+line survey 
+  24354.82 918.7436
+  24239.49 974.6436
+endline
+
+line survey 
+  24354.82 918.7436
+  24330.94 957.3236
+endline
+
+line survey 
+  24354.82 918.7436
+  24480.43 845.9036
+endline
+
+line survey 
+  24354.82 918.7436
+  24675.15 736.4536
+endline
+
+line survey 
+  24354.82 918.7436
+  24548.49 810.8636
+endline
+
+line survey 
+  24354.82 918.7436
+  24550.57 797.0836
+endline
+
+line survey 
+  24550.57 797.0836
+  24549.89 832.1236
+endline
+
+line survey 
+  24550.57 797.0836
+  24535.23 828.9736
+endline
+
+line survey 
+  24550.57 797.0836
+  24546.43 821.8936
+endline
+
+line survey 
+  24550.57 797.0836
+  24563.72 801.4136
+endline
+
+line survey 
+  24550.57 797.0836
+  24560.79 795.9036
+endline
+
+line survey 
+  24550.57 797.0836
+  24691.9 750.6336
+endline
+
+line survey 
+  24550.57 797.0836
+  24671.38 755.3536
+endline
+
+line survey 
+  24550.57 797.0836
+  24800.49 698.2736
+endline
+
+line survey 
+  24550.57 797.0836
+  24618.08 770.3136
+endline
+
+line survey 
+  24550.57 797.0836
+  24738.78 712.4436
+endline
+
+line survey 
+  24550.57 797.0836
+  24663.63 742.3636
+endline
+
+line survey 
+  24550.57 797.0836
+  24791.68 708.1136
+endline
+
+line survey 
+  24791.68 708.1136
+  24805.19 740.3936
+endline
+
+line survey 
+  24791.68 708.1136
+  24757.75 769.5236
+endline
+
+line survey 
+  24791.68 708.1136
+  24748.21 756.9336
+endline
+
+line survey 
+  24791.68 708.1136
+  24782.57 688.4236
+endline
+
+line survey 
+  24791.68 708.1136
+  24927.06 634.8836
+endline
+
+line survey 
+  24791.68 708.1136
+  25002.46 632.1236
+endline
+
+line survey 
+  25002.46 632.1236
+  25003.73 671.1036
+endline
+
+line survey 
+  25002.46 632.1236
+  25015.71 656.5336
+endline
+
+line survey 
+  25002.46 632.1236
+  25017.98 618.7436
+endline
+
+line survey 
+  25002.46 632.1236
+  24965.96 669.1336
+endline
+
+line survey 
+  25002.46 632.1236
+  24991.32 649.8436
+endline
+
+line survey 
+  25002.46 632.1236
+  25054.93 638.8236
+endline
+
+line survey 
+  25002.46 632.1236
+  25105.3 649.4536
+endline
+
+line survey 
+  25002.46 632.1236
+  25060.61 604.1736
+endline
+
+line survey 
+  25002.46 632.1236
+  25098.97 649.4536
+endline
+
+line survey 
+  25098.97 649.4536
+  25090.61 667.5636
+endline
+
+line survey 
+  25098.97 649.4536
+  25077.02 665.1936
+endline
+
+line survey 
+  25098.97 649.4536
+  25094.76 655.3536
+endline
+
+line survey 
+  25098.97 649.4536
+  25094.25 639.6036
+endline
+
+line survey 
+  25098.97 649.4536
+  25143.58 656.5336
+endline
+
+line survey 
+  25098.97 649.4536
+  25185.95 646.3036
+endline
+
+line survey 
+  25098.97 649.4536
+  25149.4 638.4236
+endline
+
+line survey 
+  25149.4 638.4236
+  25100.38 682.9136
+endline
+
+line survey 
+  25149.4 638.4236
+  25119.86 690.7836
+endline
+
+line survey 
+  25149.4 638.4236
+  25145.05 646.3036
+endline
+
+line survey 
+  25149.4 638.4236
+  25165.14 632.1236
+endline
+
+line survey 
+  25149.4 638.4236
+  25181.98 626.2236
+endline
+
+line survey 
+  25149.4 638.4236
+  25158.19 674.6436
+endline
+
+line survey 
+  25149.4 638.4236
+  25127.39 656.9336
+endline
+
+line survey 
+  25149.4 638.4236
+  25122.23 648.2736
+endline
+
+line survey 
+  25149.4 638.4236
+  25119.87 669.5236
+endline
+
+line survey 
+  25149.4 638.4236
+  25210.82 667.9536
+endline
+
+line survey 
+  25149.4 638.4236
+  25218.35 662.4436
+endline
+
+line survey 
+  25149.4 638.4236
+  25199.98 612.8336
+endline
+
+line survey 
+  25149.4 638.4236
+  25189.09 621.4936
+endline
+
+line survey 
+  25149.4 638.4236
+  25238.05 581.7336
+endline
+
+line survey 
+  25149.4 638.4236
+  25240.35 577.4036
+endline
+
+line survey 
+  25149.4 638.4236
+  25219.58 604.5636
+endline
+
+line survey 
+  25219.58 604.5636
+  25204.76 602.2036
+endline
+
+line survey 
+  25219.58 604.5636
+  25213.54 612.4436
+endline
+
+line survey 
+  25219.58 604.5636
+  25224.73 610.0836
+endline
+
+line survey 
+  25219.58 604.5636
+  25241.94 619.9236
+endline
+
+line survey 
+  25219.58 604.5636
+  25219.58 524.6436
+endline
+
+line survey 
+  25219.58 524.6436
+  25274.64 616.3836
+endline
+
+line survey 
+  25219.58 524.6436
+  25230.29 560.0836
+endline
+
+line survey 
+  25219.58 524.6436
+  25234.03 547.8736
+endline
+
+line survey 
+  25219.58 524.6436
+  25214.17 536.0636
+endline
+
+line survey 
+  25219.58 524.6436
+  25219.42 521.4936
+endline
+
+line survey 
+  25219.58 524.6436
+  25258.52 502.9936
+endline
+
+line survey 
+  25219.58 524.6436
+  25265.38 581.3436
+endline
+
+line survey 
+  25219.58 524.6436
+  25244.95 554.1736
+endline
+
+line survey 
+  25219.58 524.6436
+  25249.3 546.3036
+endline
+
+line survey 
+  25219.58 524.6436
+  25229.4 507.7136
+endline
+
+line survey 
+  25219.58 524.6436
+  25301.34 478.9736
+endline
+
+line survey 
+  25219.58 524.6436
+  25339.52 470.7136
+endline
+
+line survey 
+  2906.8898 1883.7036
+  3304.9998 2217.5636
+endline
+
+line survey 
+  3304.9998 2217.5636
+  3509.0998 2260.8636
+endline
+
+line survey 
+  3509.0998 2260.8636
+  3586.9598 2500.6336
+endline
+
+line survey 
+  3304.9998 2217.5636
+  3592.7498 2263.2336
+endline
+
+line survey 
+  3592.7498 2263.2336
+  3730.8798 2302.6036
+endline
+
+line survey 
+  3730.8798 2302.6036
+  3905.8098 2449.4536
+endline
+
+line survey 
+  3730.8798 2302.6036
+  3632.0098 2276.2236
+endline
+
+line survey 
+  3632.0098 2276.2236
+  3510.0698 2102.2036
+endline
+
+line survey 
+  3510.0698 2102.2036
+  3308.8998 1986.0636
+endline
+
+line survey 
+  3308.8998 1986.0636
+  3052.0398 1632.5236
+endline
+
+line survey 
+  3052.0398 1632.5236
+  2990.1798 1416.7736
+endline
+
+line survey 
+  2990.1798 1416.7736
+  2712.6398 1148.6636
+endline
+
+line survey 
+  2712.6398 1148.6636
+  2417.2298 941.9736
+endline
+
+line survey 
+  2417.2298 941.9736
+  2343.5998 870.7136
+endline
+
+line survey 
+  2343.5998 870.7136
+  2288.0598 794.3336
+endline
+
+line survey 
+  2343.5998 870.7136
+  2555.3898 852.2036
+endline
+
+line survey 
+  2555.3898 852.2036
+  3007.6298 915.5936
+endline
+
+line survey 
+  3007.6298 915.5936
+  3357.4998 1009.6836
+endline
+
+line survey 
+  1086.5798 759.6836
+  1314.9398 862.8336
+endline
+
+line survey 
+  1314.9398 862.8336
+  1511.5198 870.3136
+endline
+
+line survey 
+  1511.5198 870.3136
+  1813.3098 941.1836
+endline
+
+line survey 
+  2184.1898 827.7936
+  2376.6298 811.2636
+endline
+
+line survey 
+  2376.6298 811.2636
+  2704.8798 764.4136
+endline
+
+line survey 
+  2704.8798 764.4136
+  2905.5398 754.5636
+endline
+
+line survey 
+  1991.9698 662.0436
+  2179.4998 773.0736
+endline
+
+line survey 
+  2179.4998 773.0736
+  2288.0598 794.3336
+endline
+
+line survey 
+  2288.0598 794.3336
+  2444.4898 882.5236
+endline
+
+line survey 
+  2444.4898 882.5236
+  2622.8398 854.5636
+endline
+
+line survey 
+  2622.8398 854.5636
+  3064.8398 944.3336
+endline
+
+line survey 
+  3064.8398 944.3336
+  3131.7698 944.3336
+endline
+
+line survey 
+  3131.7698 944.3336
+  3411.0098 1254.1736
+endline
+
+line survey 
+  3064.8398 944.3336
+  3130.2998 961.6536
+endline
+
+line survey 
+  3130.2998 961.6536
+  3290.8698 1040.3936
+endline
+
+line survey 
+  3290.8698 1040.3936
+  3672.1198 1118.3436
+endline
+
+line survey 
+  3672.1198 1118.3436
+  3904.3998 1117.1636
+endline
+
+line survey 
+  3904.3998 1117.1636
+  4304.4498 1149.4536
+endline
+
+line survey 
+  4304.4498 1149.4536
+  4688.4698 1262.8336
+endline
+
+line survey 
+  1991.9698 662.0436
+  1623.2998 625.0436
+endline
+
+line survey 
+  1623.2998 625.0436
+  1548.4998 624.2536
+endline
+
+line survey 
+  1548.4998 624.2536
+  1548.4998 503.3836
+endline
+
+line survey 
+  4688.4698 1262.8336
+  5330.7398 1547.4836
+endline
+
+line survey 
+  3290.8698 1040.3936
+  3041.3498 1082.9136
+endline
+
+line survey 
+  3041.3498 1082.9136
+  2808.2798 1004.5636
+endline
+
+line survey 
+  2808.2798 1004.5636
+  2580.1098 949.8436
+endline
+
+line survey 
+  2580.1098 949.8436
+  2507.7298 890.7836
+endline
+
+line survey 
+  2507.7298 890.7836
+  2367.1398 843.9336
+endline
+
+line survey 
+  2367.1398 843.9336
+  2224.4198 782.9136
+endline
+
+line survey 
+  2224.4198 782.9136
+  2034.4298 754.5636
+endline
+
+line survey 
+  2497.4298 754.5636
+  2288.0598 794.3336
+endline
+
+line survey 
+  15738.41 2956.1436
+  15686.95 2957.7136
+endline
+
+line survey 
+  15738.41 2956.1436
+  15709.62 3019.5236
+endline
+
+line survey 
+  15738.41 2956.1436
+  15748.06 3010.8636
+endline
+
+line survey 
+  15738.41 2956.1436
+  15780.63 2957.7136
+endline
+
+line survey 
+  15738.41 2956.1436
+  15784.67 2917.1636
+endline
+
+line survey 
+  15738.41 2956.1436
+  15940.11 2977.7936
+endline
+
+line survey 
+  15940.11 2977.7936
+  15944.29 3037.6436
+endline
+
+line survey 
+  15940.11 2977.7936
+  16063.55 3012.0436
+endline
+
+line survey 
+  15940.11 2977.7936
+  15863.56 2877.0136
+endline
+
+line survey 
+  15940.11 2977.7936
+  15953.73 2982.5236
+endline
+
+line survey 
+  15940.11 2977.7936
+  15939.98 3034.4936
+endline
+
+line survey 
+  15940.11 2977.7936
+  15936.47 2927.4036
+endline
+
+line survey 
+  15940.11 2977.7936
+  16040.73 2984.4936
+endline
+
+line survey 
+  15940.11 2977.7936
+  16176.98 2994.3336
+endline
+
+line survey 
+  16176.98 2994.3336
+  16178.1 3016.3836
+endline
+
+line survey 
+  16176.98 2994.3336
+  16194.32 3021.1036
+endline
+
+line survey 
+  16176.98 2994.3336
+  16148.77 3001.4136
+endline
+
+line survey 
+  16176.98 2994.3336
+  16192.97 2955.3536
+endline
+
+line survey 
+  16176.98 2994.3336
+  16174.3 2998.6636
+endline
+
+line survey 
+  16176.98 2994.3336
+  16356.17 3046.6936
+endline
+
+line survey 
+  16356.17 3046.6936
+  16302.99 3059.6836
+endline
+
+line survey 
+  16356.17 3046.6936
+  16337.0 3086.4536
+endline
+
+line survey 
+  16356.17 3046.6936
+  16355.04 3069.1336
+endline
+
+line survey 
+  16356.17 3046.6936
+  16334.97 3010.8636
+endline
+
+line survey 
+  16356.17 3046.6936
+  16322.96 2989.2136
+endline
+
+line survey 
+  16356.17 3046.6936
+  16670.69 3135.6736
+endline
+
+line survey 
+  16670.69 3135.6736
+  16672.74 3113.6236
+endline
+
+line survey 
+  8529.1298 -662.3564
+  8124.1898 -815.9064
+endline
+
+line survey 
+  8124.1898 -815.9064
+  7979.8598 -878.8964
+endline
+
+line survey 
+  7979.8598 -878.8964
+  7705.6498 -906.4564
+endline
+
+line survey 
+  7705.6498 -906.4564
+  7324.4498 -1004.8764
+endline
+
+line survey 
+  7324.4498 -1004.8764
+  6747.4898 -878.8964
+endline
+
+line survey 
+  6747.4898 -878.8964
+  6462.3898 -745.0364
+endline
+
+line survey 
+  6462.3898 -745.0364
+  5693.1998 -441.8864
+endline
+
+line survey 
+  5693.1998 -441.8864
+  5409.9898 -304.0964
+endline
+
+line survey 
+  5409.9898 -304.0964
+  5018.4398 -119.0564
+endline
+
+point 7546.81 2161.26 station-name -align tr -scale xs -text 15@c.Anglais2008
+point 7361.52 2203.78 station-name -align tr -scale xs -text 16@c.Anglais2008
+point 7145.89 2112.44 station-name -align tr -scale xs -text 17@c.Anglais2008
+point 5033.39 2378.19 station-name -align tr -scale xs -text 18@a.Anglais2008
+point 5630.43 2112.44 station-name -align tr -scale xs -text 17@c.Anglais2008
+point 7518.29 2050.63 station-name -align tr -scale xs -text 19@a.Anglais2008
+point 6129.96 1496.69 station-name -align tr -scale xs -text 21@e.Anglais2008
+point 5532.74 1302.6 station-name -align tr -scale xs -text 22@a.Anglais2008
+point 5313.88 1306.53 station-name -align tr -scale xs -text 23@c.Anglais2008
+point 5330.74 1547.48 station-name -align tr -scale xs -text N1@Pirates2008
+point 4514.55 1288.03 station-name -align tr -scale xs -text 26@a.Anglais2008
+point 3553.46 1106.14 station-name -align tr -scale xs -text 29@a.Anglais2008
+point 13486.0 2434.88 station-name -align tr -scale xs -text 54@b.Anglais2008
+point 13236.9 2394.33 station-name -align tr -scale xs -text 55@d.Anglais2008
+point 13722.5 2686.06 station-name -align tr -scale xs -text 56@b.Anglais2008
+point 13908.2 2725.82 station-name -align tr -scale xs -text 57@b.Anglais2008
+point 14144.7 2821.1 station-name -align tr -scale xs -text 58@b.Anglais2008
+point 14413.9 2878.58 station-name -align tr -scale xs -text 59@b.Anglais2008
+point 14538.1 2968.74 station-name -align tr -scale xs -text 60@b.Anglais2008
+point 14799.7 3019.52 station-name -align tr -scale xs -text 61@b.Anglais2008
+point 14996.7 2959.29 station-name -align tr -scale xs -text 62@b.Anglais2008
+point 15120.9 2943.93 station-name -align tr -scale xs -text 63@b.Anglais2008
+point 15354.3 2968.74 station-name -align tr -scale xs -text 64@b.Anglais2008
+point 15688.5 2986.06 station-name -align tr -scale xs -text 65@b.Anglais2008
+point 15738.4 2956.14 station-name -align tr -scale xs -text 1@Girafe
+point 15940.8 2977.4 station-name -align tr -scale xs -text 67@b.Anglais2008
+point 16319.7 2944.33 station-name -align tr -scale xs -text 68@b.Anglais2008
+point 16716.2 2815.59 station-name -align tr -scale xs -text 69@b.Anglais2008
+point 16949.2 2864.8 station-name -align tr -scale xs -text 70@b.Anglais2008
+point 17318.3 2852.2 station-name -align tr -scale xs -text 71@b.Anglais2008
+point 17478.8 2823.86 station-name -align tr -scale xs -text 72@b.Anglais2008
+point 17583.1 2814.8 station-name -align tr -scale xs -text 73@b.Anglais2008
+point 17884.1 2647.87 station-name -align tr -scale xs -text 0@PinceMi
+point 18159.5 2462.04 station-name -align tr -scale xs -text 75@b.Anglais2008
+point 18477.5 2333.7 station-name -align tr -scale xs -text 76@b.Anglais2008
+point 18779.9 2386.85 station-name -align tr -scale xs -text 77@b.Anglais2008
+point 19252.9 2478.97 station-name -align tr -scale xs -text 78@b.Anglais2008
+point 19750.5 2364.01 station-name -align tr -scale xs -text 79@b.Anglais2008
+point 20232.2 2139.21 station-name -align tr -scale xs -text 80@b.Anglais2008
+point 20416.4 2136.06 station-name -align tr -scale xs -text 81@b.Anglais2008
+point 20598.6 2142.36 station-name -align tr -scale xs -text 82@b.Anglais2008
+point 21015.9 1998.66 station-name -align tr -scale xs -text 83@b.Anglais2008
+point 21269.9 1967.56 station-name -align tr -scale xs -text 84@b.Anglais2008
+point 21507.8 1880.94 station-name -align tr -scale xs -text 85@b.Anglais2008
+point 21796.2 1740.39 station-name -align tr -scale xs -text 0@UnCaillouDansLaCulotte
+point 21999.1 1822.28 station-name -align tr -scale xs -text 87@b.Anglais2008
+point 22378.9 1842.36 station-name -align tr -scale xs -text 88@b.Anglais2008
+point 22823.2 2202.2 station-name -align tr -scale xs -text 89@b.Anglais2008
+point 22823.2 3186.45 station-name -align tr -scale xs -text 93@b.Anglais2008
+point 5032.77 2391.18 station-name -align tr -scale xs -text 90@b.Anglais2008
+point 4528.05 2895.9 station-name -align tr -scale xs -text 91@b.Anglais2008
+point 4386.45 3032.52 station-name -align tr -scale xs -text 92@b.Anglais2008
+point 5186.72 1269.92 station-name -align tr -scale xs -text 101@c.Anglais2008
+point 5057.11 1260.86 station-name -align tr -scale xs -text 102@c.Anglais2008
+point 4955.93 1192.75 station-name -align tr -scale xs -text 103@c.Anglais2008
+point 4555.28 942.364 station-name -align tr -scale xs -text 104@c.Anglais2008
+point 4187.34 778.583 station-name -align tr -scale xs -text 105@c.Anglais2008
+point 4054.11 724.644 station-name -align tr -scale xs -text 106@c.Anglais2008
+point 5788.48 2175.82 station-name -align tr -scale xs -text 107@c.Anglais2008
+point 5957.13 2163.62 station-name -align tr -scale xs -text 108@c.Anglais2008
+point 6043.3 2240.78 station-name -align tr -scale xs -text 109@c.Anglais2008
+point 6181.97 2333.3 station-name -align tr -scale xs -text 110@c.Anglais2008
+point 6106.03 2284.09 station-name -align tr -scale xs -text 111@c.Anglais2008
+point 6395.66 2471.1 station-name -align tr -scale xs -text 112@c.Anglais2008
+point 6780.95 2491.57 station-name -align tr -scale xs -text 113@c.Anglais2008
+point 7114.83 2282.91 station-name -align tr -scale xs -text 114@c.Anglais2008
+point 7197.31 2288.42 station-name -align tr -scale xs -text 115@c.Anglais2008
+point 7388.08 2052.99 station-name -align tr -scale xs -text 116@c.Anglais2008
+point 6435.93 2517.16 station-name -align tr -scale xs -text 117@c.Anglais2008
+point 6118.0 2573.07 station-name -align tr -scale xs -text 118@c.Anglais2008
+point 5771.75 2560.86 station-name -align tr -scale xs -text 119@c.Anglais2008
+point 5709.16 2669.52 station-name -align tr -scale xs -text 120@c.Anglais2008
+point 5455.16 2638.42 station-name -align tr -scale xs -text 121@c.Anglais2008
+point 5171.3 2683.3 station-name -align tr -scale xs -text 122@c.Anglais2008
+point 4883.89 2683.3 station-name -align tr -scale xs -text 123@c.Anglais2008
+point 5391.46 2867.95 station-name -align tr -scale xs -text 124@c.Anglais2008
+point 4805.56 2630.55 station-name -align tr -scale xs -text 125@c.Anglais2008
+point 4483.73 2340.78 station-name -align tr -scale xs -text 126@c.Anglais2008
+point 6853.48 2325.43 station-name -align tr -scale xs -text 127@c.Anglais2008
+point 7245.11 2342.36 station-name -align tr -scale xs -text 128@c.Anglais2008
+point 7277.95 2765.19 station-name -align tr -scale xs -text 129@c.Anglais2008
+point 7306.39 2182.91 station-name -align tr -scale xs -text 130@c.Anglais2008
+point 7038.75 2363.23 station-name -align tr -scale xs -text 131@c.Anglais2008
+point 16478.0 3688.03 station-name -align tr -scale xs -text 8@Ascension
+point 12528.4 2082.52 station-name -align tr -scale xs -text 157@d.Anglais2008
+point 12140.2 1989.6 station-name -align tr -scale xs -text 158@d.Anglais2008
+point 11750.5 1889.21 station-name -align tr -scale xs -text 159@d.Anglais2008
+point 11239.5 1870.31 station-name -align tr -scale xs -text 160@d.Anglais2008
+point 11180.4 1921.89 station-name -align tr -scale xs -text 161@PiratesJonction
+point 10092.5 1616.38 station-name -align tr -scale xs -text 163@PrioriteADroite
+point 6811.77 1605.35 station-name -align tr -scale xs -text 201@e.Anglais2008
+point 6659.6 1249.84 station-name -align tr -scale xs -text 203@e.Anglais2008
+point 6379.08 1155.98 station-name -align tr -scale xs -text 204@e.Anglais2008
+point 7370.75 1206.14 station-name -align tr -scale xs -text 206@e.Anglais2008
+point 8024.72 1002.99 station-name -align tr -scale xs -text 207@DodgyPlumbingResurvey
+point 9452.27 1625.43 station-name -align tr -scale xs -text 211@PiratesJonction
+point 9887.66 1590.78 station-name -align tr -scale xs -text 214@e.Anglais2008
+point 10063.7 1661.65 station-name -align tr -scale xs -text 215@e.Anglais2008
+point 16192.7 2956.14 station-name -align tr -scale xs -text 216@e.Anglais2008
+point 16081.3 2921.89 station-name -align tr -scale xs -text 217@e.Anglais2008
+point 15948.6 2924.25 station-name -align tr -scale xs -text 218@e.Anglais2008
+point 15578.3 2796.69 station-name -align tr -scale xs -text 219@e.Anglais2008
+point 15578.3 2677.01 station-name -align tr -scale xs -text 220@e.Anglais2008
+point 15124.2 2538.42 station-name -align tr -scale xs -text 221@e.Anglais2008
+point 14866.7 2474.25 station-name -align tr -scale xs -text 222@e.Anglais2008
+point 14537.4 2284.09 station-name -align tr -scale xs -text 223@e.Anglais2008
+point 14023.2 2044.33 station-name -align tr -scale xs -text 224@e.Anglais2008
+point 13810.3 2172.28 station-name -align tr -scale xs -text 225@e.Anglais2008
+point 13207.6 2391.57 station-name -align tr -scale xs -text 226@e.Anglais2008
+point 13169.4 2376.61 station-name -align tr -scale xs -text 55@e.Anglais2008
+point 9236.82 2741.18 station-name -align tr -scale xs -text 28@PiratesJonction
+point 9198.71 2741.18 station-name -align tr -scale xs -text 28@PiratesJonction
+point 5197.84 1.4135 station-name -align tr -scale xs -text 5@DodgyPlumbingResurvey
+point 5018.44 -119.056 station-name -align tr -scale xs -text 9@SiphonAmont
+point 5292.96 246.694 station-name -align tr -scale xs -text 8@DodgyPlumbingResurvey
+point 16908.6 3923.07 station-name -align tr -scale xs -text 0@Ascension
+point 16696.2 3983.7 station-name -align tr -scale xs -text 1@Ascension
+point 17075.6 4210.08 station-name -align tr -scale xs -text 2@Ascension
+point 17511.1 4456.14 station-name -align tr -scale xs -text 3@Ascension
+point 17786.3 4541.97 station-name -align tr -scale xs -text 4@Ascension
+point 17630.2 4635.27 station-name -align tr -scale xs -text 5@Ascension
+point 16851.2 3857.32 station-name -align tr -scale xs -text 6@Ascension
+point 16706.2 3790.78 station-name -align tr -scale xs -text 7@Ascension
+point 10376.3 1610.86 station-name -align tr -scale xs -text 1@PrioriteADroite
+point 10736.2 1710.08 station-name -align tr -scale xs -text 2@PrioriteADroite
+point 11455.3 2011.65 station-name -align tr -scale xs -text 4@PrioriteADroite
+point 11769.1 2106.93 station-name -align tr -scale xs -text 5@PrioriteADroite
+point 11974.5 2145.51 station-name -align tr -scale xs -text 6@PrioriteADroite
+point 12202.3 2129.37 station-name -align tr -scale xs -text 7@PrioriteADroite
+point 12502.8 2115.98 station-name -align tr -scale xs -text 8@PrioriteADroite
+point 12657.8 2059.68 station-name -align tr -scale xs -text 9@PrioriteADroite
+point 12912.8 2015.98 station-name -align tr -scale xs -text 10@PrioriteADroite
+point 13121.9 2121.89 station-name -align tr -scale xs -text 11@PrioriteADroite
+point 13464.6 2131.73 station-name -align tr -scale xs -text 12@PrioriteADroite
+point 13616.1 2084.88 station-name -align tr -scale xs -text 13@PrioriteADroite
+point 13756.5 2025.43 station-name -align tr -scale xs -text 14@PrioriteADroite
+point 13863.1 2006.93 station-name -align tr -scale xs -text 15@PrioriteADroite
+point 13822.5 2257.32 station-name -align tr -scale xs -text 16@PrioriteADroite
+point 13985.8 2269.13 station-name -align tr -scale xs -text 17@PrioriteADroite
+point 14165.3 2187.24 station-name -align tr -scale xs -text 18@PrioriteADroite
+point 14291.3 2157.71 station-name -align tr -scale xs -text 19@PrioriteADroite
+point 14291.3 2150.23 station-name -align tr -scale xs -text 20@PrioriteADroite
+point 14291.3 2160.47 station-name -align tr -scale xs -text 21@PrioriteADroite
+point 14470.1 2160.86 station-name -align tr -scale xs -text 22@PrioriteADroite
+point 14623.2 2078.97 station-name -align tr -scale xs -text 23@PrioriteADroite
+point 14675.7 2094.72 station-name -align tr -scale xs -text 24@PrioriteADroite
+point 14829.9 2101.81 station-name -align tr -scale xs -text 25@PrioriteADroite
+point 10448.6 3208.11 station-name -align tr -scale xs -text 1@SalinasNew3
+point 10837.0 3599.05 station-name -align tr -scale xs -text 2@SalinasNew3
+point 11496.5 4094.33 station-name -align tr -scale xs -text 3@SalinasNew3
+point 11637.8 4118.74 station-name -align tr -scale xs -text 4@SalinasNew3
+point 11764.5 4153.78 station-name -align tr -scale xs -text 5@SalinasNew3
+point 11964.6 4332.12 station-name -align tr -scale xs -text 6@SalinasNew3
+point 12155.0 4425.82 station-name -align tr -scale xs -text 7@SalinasNew3
+point 12956.4 3505.75 station-name -align tr -scale xs -text 7@SalinasNew5
+point 13258.2 3694.33 station-name -align tr -scale xs -text 8@SalinasNew5
+point 13465.4 3853.78 station-name -align tr -scale xs -text 9@SalinasNew5
+point 13515.3 3864.8 station-name -align tr -scale xs -text 10@SalinasNew5
+point 13729.2 4036.85 station-name -align tr -scale xs -text 11@SalinasNew5
+point 13844.9 4139.6 station-name -align tr -scale xs -text 12@SalinasNew5
+point 13970.1 4226.22 station-name -align tr -scale xs -text 13@SalinasNew5
+point 14253.7 4397.87 station-name -align tr -scale xs -text 14@SalinasNew5
+point 14183.8 4418.74 station-name -align tr -scale xs -text 15@SalinasNew5
+point 14342.9 4450.23 station-name -align tr -scale xs -text 16@SalinasNew5
+point 14513.1 4527.01 station-name -align tr -scale xs -text 17@SalinasNew5
+point 14893.5 4763.62 station-name -align tr -scale xs -text 18@SalinasNew5
+point 14735.7 4833.3 station-name -align tr -scale xs -text 19@SalinasNew5
+point 14496.5 4762.04 station-name -align tr -scale xs -text 20@SalinasNew5
+point 22100.0 1595.51 station-name -align tr -scale xs -text 1@UnCaillouDansLaCulotte
+point 22177.2 1558.11 station-name -align tr -scale xs -text 2@UnCaillouDansLaCulotte
+point 22328.6 1550.23 station-name -align tr -scale xs -text 3@UnCaillouDansLaCulotte
+point 22642.5 1537.24 station-name -align tr -scale xs -text 4@UnCaillouDansLaCulotte
+point 22907.4 1499.05 station-name -align tr -scale xs -text 5@UnCaillouDansLaCulotte
+point 23072.4 1473.86 station-name -align tr -scale xs -text 6@UnCaillouDansLaCulotte
+point 23181.2 1404.56 station-name -align tr -scale xs -text 7@UnCaillouDansLaCulotte
+point 23266.6 1382.91 station-name -align tr -scale xs -text 8@UnCaillouDansLaCulotte
+point 23855.9 1161.26 station-name -align tr -scale xs -text 9@UnCaillouDansLaCulotte
+point 23998.7 1069.13 station-name -align tr -scale xs -text 10@UnCaillouDansLaCulotte
+point 24354.8 918.744 station-name -align tr -scale xs -text 11@UnCaillouDansLaCulotte
+point 24550.6 797.083 station-name -align tr -scale xs -text 12@UnCaillouDansLaCulotte
+point 24791.7 708.114 station-name -align tr -scale xs -text 13@UnCaillouDansLaCulotte
+point 25002.5 632.123 station-name -align tr -scale xs -text 14@UnCaillouDansLaCulotte
+point 25099.0 649.453 station-name -align tr -scale xs -text 15@UnCaillouDansLaCulotte
+point 25149.4 638.424 station-name -align tr -scale xs -text 16@UnCaillouDansLaCulotte
+point 25219.6 604.563 station-name -align tr -scale xs -text 17@UnCaillouDansLaCulotte
+point 25219.6 524.644 station-name -align tr -scale xs -text 18@UnCaillouDansLaCulotte
+point 25339.5 470.714 station-name -align tr -scale xs -text 19@UnCaillouDansLaCulotte
+point 2906.89 1883.7 station-name -align tr -scale xs -text 0@Pirates2008
+point 3305.0 2217.56 station-name -align tr -scale xs -text 1@Pirates2008
+point 3509.1 2260.86 station-name -align tr -scale xs -text 2@Pirates2008
+point 3586.96 2500.63 station-name -align tr -scale xs -text 3@Pirates2008
+point 3592.75 2263.23 station-name -align tr -scale xs -text 4@Pirates2008
+point 3730.88 2302.6 station-name -align tr -scale xs -text 5@Pirates2008
+point 3905.81 2449.45 station-name -align tr -scale xs -text 6@Pirates2008
+point 3632.01 2276.22 station-name -align tr -scale xs -text 7@Pirates2008
+point 3510.07 2102.2 station-name -align tr -scale xs -text 8@Pirates2008
+point 3308.9 1986.06 station-name -align tr -scale xs -text 9@Pirates2008
+point 3052.04 1632.52 station-name -align tr -scale xs -text 10@Pirates2008
+point 2990.18 1416.77 station-name -align tr -scale xs -text 11@Pirates2008
+point 2712.64 1148.66 station-name -align tr -scale xs -text 12@Pirates2008
+point 2417.23 941.973 station-name -align tr -scale xs -text 13@Pirates2008
+point 2343.6 870.714 station-name -align tr -scale xs -text 14@Pirates2008
+point 2288.06 794.333 station-name -align tr -scale xs -text C@Pirates2008
+point 2555.39 852.203 station-name -align tr -scale xs -text 15@Pirates2008
+point 3007.63 915.594 station-name -align tr -scale xs -text 16@Pirates2008
+point 3357.5 1009.68 station-name -align tr -scale xs -text 17@Pirates2008
+point 1086.58 759.683 station-name -align tr -scale xs -text 102@Pirates2008
+point 1314.94 862.833 station-name -align tr -scale xs -text 103@Pirates2008
+point 1511.52 870.313 station-name -align tr -scale xs -text 104@Pirates2008
+point 1813.31 941.183 station-name -align tr -scale xs -text 105@Pirates2008
+point 2184.19 827.793 station-name -align tr -scale xs -text 106@Pirates2008
+point 2376.63 811.264 station-name -align tr -scale xs -text 107@Pirates2008
+point 2704.88 764.413 station-name -align tr -scale xs -text 108@Pirates2008
+point 2905.54 754.563 station-name -align tr -scale xs -text U@Pirates2008
+point 1991.97 662.043 station-name -align tr -scale xs -text A@Pirates2008
+point 2179.5 773.074 station-name -align tr -scale xs -text B@Pirates2008
+point 2444.49 882.523 station-name -align tr -scale xs -text D@Pirates2008
+point 2622.84 854.563 station-name -align tr -scale xs -text E@Pirates2008
+point 3064.84 944.333 station-name -align tr -scale xs -text F@Pirates2008
+point 3131.77 944.333 station-name -align tr -scale xs -text G@Pirates2008
+point 3411.01 1254.17 station-name -align tr -scale xs -text H@Pirates2008
+point 3130.3 961.654 station-name -align tr -scale xs -text I@Pirates2008
+point 3290.87 1040.39 station-name -align tr -scale xs -text J@Pirates2008
+point 3672.12 1118.34 station-name -align tr -scale xs -text K@Pirates2008
+point 3904.4 1117.16 station-name -align tr -scale xs -text L@Pirates2008
+point 4304.45 1149.45 station-name -align tr -scale xs -text M@Pirates2008
+point 4688.47 1262.83 station-name -align tr -scale xs -text N@Pirates2008
+point 1623.3 625.043 station-name -align tr -scale xs -text 30@Pirates2008
+point 1548.5 624.253 station-name -align tr -scale xs -text 31@Pirates2008
+point 1548.5 503.384 station-name -align tr -scale xs -text 32@Pirates2008
+point 3041.35 1082.91 station-name -align tr -scale xs -text O@Pirates2008
+point 2808.28 1004.56 station-name -align tr -scale xs -text P@Pirates2008
+point 2580.11 949.844 station-name -align tr -scale xs -text Q@Pirates2008
+point 2507.73 890.784 station-name -align tr -scale xs -text R@Pirates2008
+point 2367.14 843.933 station-name -align tr -scale xs -text S@Pirates2008
+point 2224.42 782.913 station-name -align tr -scale xs -text T@Pirates2008
+point 2034.43 754.563 station-name -align tr -scale xs -text U@Pirates2008
+point 2497.43 754.563 station-name -align tr -scale xs -text U@Pirates2008
+point 15940.1 2977.79 station-name -align tr -scale xs -text 2@Girafe
+point 16177.0 2994.33 station-name -align tr -scale xs -text 3@Girafe
+point 16356.2 3046.69 station-name -align tr -scale xs -text 4@Girafe
+point 16670.7 3135.67 station-name -align tr -scale xs -text 5@Girafe
+point 8529.13 -662.357 station-name -align tr -scale xs -text 0@SiphonAmont
+point 8124.19 -815.906 station-name -align tr -scale xs -text 1@SiphonAmont
+point 7979.86 -878.897 station-name -align tr -scale xs -text 2@SiphonAmont
+point 7705.65 -906.457 station-name -align tr -scale xs -text 3@SiphonAmont
+point 7324.45 -1004.88 station-name -align tr -scale xs -text 4@SiphonAmont
+point 6747.49 -878.897 station-name -align tr -scale xs -text 5@SiphonAmont
+point 6462.39 -745.036 station-name -align tr -scale xs -text 6@SiphonAmont
+point 5693.2 -441.886 station-name -align tr -scale xs -text 7@SiphonAmont
+point 5409.99 -304.096 station-name -align tr -scale xs -text 8@SiphonAmont
+endscrap
+
+
+scrap CuevaPirates-girafe -projection extended -scale [0 0 96 0 0 0 200 0 inch]
+
+line wall -close on -outline in
+  18467.958 3800.3433
+  18457.056 3792.8485
+  18457.056 3792.8485 18450.924 3792.1671 18444.792 3792.1671
+  18438.66 3792.1671 18430.483 3788.079 18424.351 3788.079
+  18418.219 3788.079 18421.626 3790.8044 18420.944 3793.5298
+  18420.263 3796.2552 18421.626 3800.3433 18421.626 3800.3433
+  18431.165 3808.5195
+  18431.165 3808.5195 18442.066 3809.8822 18450.924 3811.2449
+  18459.781 3812.6076 18462.507 3810.5635 18465.913 3808.5195
+  18469.32 3806.4755 18467.958 3800.3433 18467.958 3800.3433
+endline
+
+line u:area -close on
+  18470.765 3800.6897
+endline
+
+line water-flow 
+  18949.261 3702.0167
+  18949.261 3702.0167 18847.885 3653.3561 18820.851 3643.8943
+  18793.817 3634.4325 18695.144 3607.3988 18662.704 3583.0685
+  18630.263 3558.7382 18593.768 3531.7045 18568.086 3520.8911
+  18542.404 3510.0776 18395.07 3480.3405 18376.147 3474.9338
+  18357.223 3469.5271 18311.266 3461.417 18311.266 3461.417
+endline
+
+point 18252.946 3727.0032 water-flow -orientation 171.77169112975582
+point 19015.746 3800.2332 water-flow -orientation 171.77169112975582
+point 20017.1368 4000.6591 water-flow -orientation 244.67483597979162
+point 20528.146 4272.4032 water-flow -orientation 171.77169112975582
+point 20722.546 4253.0732 water-flow -orientation 171.77169112975582
+point 20361.764 3826.0366 label -align tr -scale l -text "Passage de la Girafe"
+line wall 
+  18323.858 3437.9816
+  18323.858 3437.9816 18404.887 3463.3034 18416.029 3464.3163
+  18427.17 3465.3291 18458.569 3473.4321 18467.685 3474.445
+  18476.801 3475.4578 18496.046 3481.5351 18512.252 3487.6123
+  18528.458 3493.6895 18525.419 3495.7153 18540.612 3495.7153
+  18555.805 3495.7153 18554.792 3497.741 18566.947 3500.7796
+  18579.101 3503.8182 18603.41 3513.947 18610.5 3516.9856
+  18617.59 3520.0242 18625.693 3528.1272 18634.809 3532.1786
+  18643.925 3536.2301 18670.26 3546.3588 18674.311 3547.3717
+  18678.363 3548.3846 18682.414 3558.5133 18686.465 3558.5133
+  18690.517 3558.5133 18706.723 3562.5648 18706.723 3562.5648
+  18706.723 3562.5648 18726.98 3580.7965 18730.019 3584.848
+  18733.058 3588.8994 18740.148 3602.0668 18749.264 3605.1054
+  18758.379 3608.144 18776.611 3614.2212 18780.663 3614.2212
+  18784.714 3614.2212 18800.92 3622.3242 18800.92 3622.3242
+  18800.92 3622.3242 18828.267 3629.4143 18850.551 3630.4272
+  18872.834 3631.44 18880.937 3635.4915 18893.091 3639.543
+  18905.246 3643.5945 18915.374 3644.6074 18915.374 3644.6074
+  18930.568 3657.7747
+  18930.568 3657.7747 18936.645 3674.9935 18940.696 3678.0321
+  18944.748 3681.0707 18961.967 3691.1995 18961.967 3691.1995
+  18961.967 3691.1995 18978.172 3692.2123 18982.224 3695.2509
+  18986.275 3698.2896 18990.327 3709.4311 18996.404 3711.4569
+  19002.481 3713.4826 19011.597 3711.4569 19016.662 3715.5084
+  19021.726 3719.5599 19022.739 3724.6242 19030.842 3725.6371
+  19038.945 3726.65 19069.331 3726.65 19069.331 3726.65
+  19069.331 3726.65 19165.554 3730.7014 19178.721 3733.7401
+  19191.888 3736.7787 19206.069 3734.7529 19214.172 3738.8044
+  19222.274 3742.8559 19229.365 3747.9203 19248.609 3748.9331
+  19267.854 3749.946 19306.343 3755.0104 19306.343 3755.0104
+  19306.343 3755.0104 19317.484 3758.049 19319.51 3762.1005
+  19321.536 3766.1519 19319.51 3773.242 19326.6 3776.2807
+  19333.69 3779.3193 19367.115 3793.4995 19367.115 3793.4995
+  19367.115 3793.4995 19369.141 3803.6282 19379.27 3805.6539
+  19389.398 3807.6797 19386.36 3804.6411 19397.501 3809.7054
+  19408.643 3814.7698 19414.72 3818.8213 19419.784 3822.8727
+  19424.849 3826.9242 19410.669 3826.9242 19430.926 3830.9757
+  19451.183 3835.0272 19449.158 3833.0015 19454.222 3836.0401
+  19459.286 3839.0787 19471.441 3849.2074 19471.441 3849.2074
+  19485.621 3852.246
+  19485.621 3852.246 19487.647 3861.3619 19496.763 3865.4133
+  19505.878 3869.4648 19527.149 3869.4648 19532.213 3870.4777
+  19537.278 3871.4906 19541.329 3878.5807 19548.419 3882.6322
+  19555.509 3886.6836 19545.38 3888.7094 19572.728 3891.748
+  19600.076 3894.7866 19631.475 3900.8638 19644.642 3900.8638
+  19657.809 3900.8638 19680.092 3899.851 19695.285 3901.8767
+  19710.479 3903.9025 19722.633 3906.9411 19748.968 3912.0054
+  19775.302 3917.0698 19791.508 3919.0955 19800.624 3919.0955
+  19809.74 3919.0955 19822.907 3919.0955 19829.997 3919.0955
+  19837.087 3919.0955 19904.95 3916.0569 19910.014 3918.0827
+  19915.079 3920.1084 19917.104 3918.0827 19927.233 3921.1213
+  19937.362 3924.1599 19945.465 3928.2114 19949.516 3934.2886
+  19953.568 3940.3658 19955.593 3944.4173 19960.658 3946.4431
+  19965.722 3948.4688 19984.967 3950.4946 19984.967 3950.4946
+  19984.967 3950.4946 19996.108 3954.546 20005.224 3959.6104
+  20014.34 3964.6748 20045.739 3967.7134 20051.816 3970.752
+  20057.893 3973.7906 20067.009 3987.9708 20073.087 3991.0094
+  20079.164 3994.048 20085.241 3998.0995 20096.383 3998.0995
+  20107.524 3998.0995 20191.592 3996.0738 20191.592 3996.0738
+  20191.592 3996.0738 20247.3 3996.0738 20258.442 3997.0866
+  20269.584 3998.0995 20284.777 3999.1124 20300.983 4001.1381
+  20317.189 4003.1639 20328.33 4002.151 20350.613 4005.1896
+  20372.896 4008.2282 20369.858 4006.2025 20382.012 4010.254
+  20394.167 4014.3055 20408.347 4017.3441 20408.347 4017.3441
+  20408.347 4017.3441 20478.235 4009.2411 20485.325 4010.254
+  20492.415 4011.2668 20553.188 4011.2668 20563.316 4013.2926
+  20573.445 4015.3183 20584.587 4017.3441 20596.741 4017.3441
+  20608.896 4017.3441 20638.269 4018.3569 20638.269 4018.3569
+  20638.269 4018.3569 20755.762 4011.2668 20767.916 4013.2926
+  20780.071 4015.3183 20799.315 4014.3055 20821.599 4014.3055
+  20843.882 4014.3055 20840.843 4013.2926 20861.101 4015.3183
+  20881.358 4017.3441 20908.705 4018.3569 20912.757 4018.3569
+  20916.808 4018.3569 20950.233 4019.3698 20954.285 4018.3569
+  20958.336 4017.3441 20972.516 4016.3312 20972.516 4016.3312
+  21001.89 4017.3441
+endline
+
+line wall 
+  18918.105 3839.162
+  18916.039 3835.03 18906.226 3811.7878 18905.193 3809.7219
+  18904.16 3807.6559 18905.193 3808.6889 18897.445 3804.0404
+  18889.698 3799.392 18880.401 3796.293 18874.72 3794.2271
+  18869.038 3792.1611 18865.423 3786.4797 18863.873 3783.3807
+  18862.324 3780.2818 18849.412 3766.3365 18847.346 3763.2375
+  18845.28 3760.1385 18837.532 3755.4901 18833.4 3753.9406
+  18829.268 3752.3911 18810.675 3752.3911 18807.576 3749.2922
+  18804.477 3746.1932 18798.279 3737.4128 18796.213 3736.3799
+  18794.147 3735.3469 18792.597 3734.3139 18784.85 3733.2809
+  18777.103 3732.2479 18760.575 3729.6654 18758.509 3728.116
+  18756.443 3726.5665 18742.498 3711.5882 18739.399 3710.5552
+  18736.3 3709.5222 18704.277 3702.2913 18700.662 3701.2583
+  18697.046 3700.2253 18678.452 3700.7418 18672.771 3700.7418
+  18667.09 3700.7418 18661.925 3700.2253 18654.694 3698.6759
+  18647.463 3697.1264 18628.353 3694.5439 18628.353 3694.5439
+  18628.353 3694.5439 18620.605 3690.9285 18618.539 3690.412
+  18616.473 3689.8955 18597.88 3689.379 18594.264 3688.346
+  18590.649 3687.313 18578.769 3685.2471 18578.769 3685.2471
+  18565.934 3684.1094
+  18565.934 3684.1094 18556.818 3670.942 18549.728 3665.8777
+  18542.638 3660.8133 18534.535 3652.7103 18515.29 3644.6074
+  18496.046 3636.5044 18489.968 3635.4915 18485.917 3632.4529
+  18481.865 3629.4143 18479.84 3629.4143 18475.788 3623.3371
+  18471.737 3617.2598 18471.737 3616.247 18463.634 3612.1955
+  18455.531 3608.144 18411.977 3601.0539 18406.913 3598.0153
+  18401.849 3594.9767 18390.707 3583.8351 18383.617 3578.7707
+  18376.527 3573.7064 18372.475 3571.6806 18367.411 3569.6549
+  18362.347 3567.6291 18341.076 3565.6034 18341.076 3565.6034
+  18339.051 3564.5905
+endline
+
+line wall -close on
+  18984.216 3833.997
+  18984.216 3833.997 18969.755 3840.7114 18967.689 3837.6125
+  18965.623 3834.5135 18958.908 3826.7661 18956.842 3822.6342
+  18954.776 3818.5022 18944.963 3795.7766 18947.545 3795.7766
+  18950.128 3795.7766 18965.623 3798.359 18966.656 3800.425
+  18967.689 3802.491 18980.601 3810.7548 18980.601 3810.7548
+  18980.601 3810.7548 18988.348 3820.5682 18989.381 3823.1507
+  18990.414 3825.7331 18984.216 3833.997 18984.216 3833.997
+endline
+
+line wall 
+  18209.655 3631.0139
+  18209.655 3631.0139 18224.263 3641.9703 18229.376 3648.5442
+  18234.489 3655.1181 18249.828 3670.4572 18254.211 3676.3006
+  18258.593 3682.1441 18261.515 3686.5267 18264.437 3690.1788
+  18267.359 3693.831 18275.393 3707.7092 18275.393 3707.7092
+  18276.854 3720.1265
+  18315.567 3744.9612
+  18370.349 3768.335
+  18370.349 3768.335 18376.923 3771.2567 18386.419 3771.2567
+  18395.915 3771.2567 18417.828 3768.335 18425.132 3768.335
+  18432.436 3768.335 18456.54 3769.7958 18462.384 3771.9871
+  18468.227 3774.1784 18482.836 3780.7523 18488.679 3782.9436
+  18494.523 3785.1349 18501.827 3788.787 18508.401 3788.0566
+  18514.975 3787.3262 18525.931 3786.5958 18528.853 3786.5958
+  18531.775 3786.5958 18549.305 3788.787 18549.305 3788.787
+  18549.305 3788.787 18580.835 3792.6776 18583.934 3797.326
+  18587.033 3801.9745 18600.462 3806.1064 18605.627 3806.6229
+  18610.792 3807.1394 18673.288 3823.1507 18677.936 3824.7002
+  18682.584 3826.2496 18695.497 3830.8981 18703.244 3832.964
+  18710.992 3835.03 18739.399 3838.129 18741.981 3838.6455
+  18744.564 3839.162 18756.443 3841.7444 18756.443 3841.7444
+  18756.443 3841.7444 18801.894 3847.4259 18809.125 3848.4588
+  18816.356 3849.4918 18858.192 3856.7227 18866.456 3856.7227
+  18874.72 3856.7227 18886.599 3860.3382 18905.709 3860.8547
+  18924.82 3861.3712 18942.897 3864.4701 18947.029 3864.4701
+  18951.161 3864.4701 18959.941 3866.5361 18967.172 3868.6021
+  18974.403 3870.668 18995.579 3880.4814 18998.162 3881.5144
+  19000.744 3882.5474 19003.327 3885.6463 19014.689 3885.6463
+  19026.052 3885.6463 19024.503 3884.6133 19037.415 3884.0969
+  19050.327 3883.5804 19076.152 3883.5804 19081.833 3884.0969
+  19087.515 3884.6133 19107.142 3883.5804 19107.142 3883.5804
+  19151.044 3879.9649
+  19151.044 3879.9649 19175.319 3880.9979 19181.0 3880.4814
+  19186.682 3879.9649 19185.649 3884.0969 19187.198 3878.4154
+  19188.748 3872.734 19188.231 3839.6785 19185.649 3837.096
+  19183.066 3834.5135 19178.418 3830.8981 19175.319 3828.8321
+  19172.22 3826.7661 19169.637 3823.1507 19155.176 3820.0517
+  19140.714 3816.9528 19137.098 3816.9528 19130.9 3815.9198
+  19124.702 3814.8868 19112.823 3817.4693 19107.142 3814.8868
+  19101.46 3812.3043 19099.394 3809.2054 19090.097 3808.1724
+  19080.801 3807.1394 19094.229 3807.1394 19076.152 3808.1724
+  19058.075 3809.2054 19064.789 3802.491 19050.844 3809.2054
+  19036.899 3815.9198 19028.635 3824.7002 19027.602 3826.7661
+  19026.569 3828.8321 19020.887 3846.3929 19020.887 3846.3929
+endline
+
+line wall 
+  17952.543 3571.8489
+  17951.812 3574.7707 17945.238 3597.414 17945.238 3597.414
+  17945.238 3597.414 17948.891 3607.6401 17954.734 3612.7531
+  17960.577 3617.8661 18027.777 3650.7355 18032.89 3653.6572
+  18038.003 3656.579 18062.107 3669.7267 18073.794 3675.5702
+  18085.481 3681.4136 18079.638 3682.1441 18093.516 3685.7962
+  18107.394 3689.4484 18093.516 3687.2571 18108.125 3690.1788
+  18122.733 3693.1005 18135.881 3697.4831 18139.533 3698.944
+  18143.185 3700.4049 18162.907 3707.7092 18162.907 3707.7092
+  18188.472 3716.4743
+  18211.846 3720.1265
+  18219.881 3715.0135
+  18219.881 3715.0135 18224.263 3707.7092 18224.263 3704.057
+  18224.263 3700.4049 18227.185 3685.7962 18224.994 3679.9528
+  18222.802 3674.1093 18216.228 3664.6137 18216.228 3664.6137
+  18202.35 3647.8138
+endline
+
+line wall -close on -outline in
+  17891.917 3547.0143
+  17887.534 3554.3186 17859.778 3576.2315 17854.665 3579.8837
+  17849.552 3583.5358 17826.178 3592.301 17826.909 3595.2227
+  17827.639 3598.1445 17853.204 3601.7966 17856.856 3601.7966
+  17860.508 3601.7966 17890.456 3601.7966 17890.456 3601.7966
+  17890.456 3601.7966 17901.413 3603.9879 17902.873 3594.4923
+  17904.334 3584.9967 17903.604 3577.6924 17903.604 3573.3098
+  17903.604 3568.9272 17905.065 3564.5446 17906.526 3560.8925
+  17907.986 3557.2403 17907.986 3552.1273 17907.986 3552.1273
+  17906.526 3545.5534
+  17891.917 3547.0143
+endline
+
+line wall 
+  17640.649 3514.1448
+  17640.649 3514.1448 17669.866 3531.6752 17680.092 3536.7882
+  17690.318 3541.9012 17712.231 3555.049 17722.457 3561.6229
+  17732.683 3568.1968 17737.065 3570.3881 17745.1 3571.8489
+  17753.135 3573.3098 17750.213 3576.2315 17759.709 3572.5794
+  17769.204 3568.9272 17773.587 3563.8142 17777.239 3563.0837
+  17780.891 3562.3533 17787.465 3566.7359 17796.961 3562.3533
+  17806.456 3557.9707 17818.874 3552.1273 17821.795 3549.936
+  17824.717 3547.7447 17835.674 3525.1013 17835.674 3525.1013
+endline
+
+line wall 
+  17418.881 3392.2487
+  17479.843 3417.2749
+  17507.436 3430.1088
+endline
+
+line wall:invisible 
+  17511.928 3432.6756
+  17511.928 3432.6756 17595.99 3483.3697 17601.765 3486.5782
+  17607.541 3489.7867 17636.417 3511.6044 17636.417 3511.6044
+endline
+
+line rock-border -clip off -close on
+  17620.374 3496.2037
+  17620.374 3496.2037 17633.208 3502.6207 17634.492 3505.1874
+  17635.775 3507.7542 17638.342 3515.4546 17638.342 3515.4546
+  17638.342 3515.4546 17642.834 3520.5882 17637.7 3521.2299
+  17632.567 3521.8716 17617.808 3519.3048 17617.808 3519.3048
+  17617.808 3519.3048 17610.107 3511.6044 17609.466 3507.1125
+  17608.824 3502.6207 17606.899 3502.6207 17608.182 3499.4122
+  17609.466 3496.2037 17608.824 3494.9203 17611.391 3494.2786
+  17613.958 3493.6369 17620.374 3496.2037 17620.374 3496.2037
+endline
+
+line rock-border -clip off -close on
+  17611.391 3489.7867
+  17611.391 3489.7867 17606.257 3494.9203 17601.765 3493.6369
+  17597.273 3492.3535 17587.006 3491.0701 17584.439 3488.5033
+  17581.873 3485.9365 17576.097 3481.4446 17576.097 3481.4446
+  17577.381 3476.3111
+  17577.381 3476.3111 17579.306 3474.386 17583.798 3475.6694
+  17588.29 3476.9527 17601.124 3481.4446 17601.124 3481.4446
+  17605.615 3484.0114
+  17611.391 3489.7867
+endline
+
+line rock-border -clip off -close on
+  17570.964 3473.7443
+  17570.964 3473.7443 17558.772 3476.9527 17556.205 3475.6694
+  17553.638 3474.386 17547.863 3474.386 17546.579 3470.5358
+  17545.296 3466.6856 17542.087 3462.1937 17542.087 3459.6269
+  17542.087 3457.0601 17538.879 3455.135 17542.087 3453.2099
+  17545.296 3451.2848 17547.863 3447.4347 17552.996 3451.9265
+  17558.13 3456.4184 17567.114 3464.1188 17567.114 3464.1188
+  17570.322 3468.6107
+  17570.964 3473.7443
+endline
+
+line rock-border -clip off -close on
+  17536.312 3456.4184
+  17536.312 3456.4184 17511.928 3450.0014 17510.644 3444.8679
+  17509.361 3439.7343 17508.077 3441.0177 17508.719 3436.5258
+  17509.361 3432.0339 17511.286 3428.8254 17511.286 3428.8254
+  17542.087 3442.9428
+  17536.312 3456.4184
+endline
+
+line rock-border -clip off -close on
+  17416.956 3394.1738
+  17404.122 3394.8155
+  17404.122 3394.8155 17391.288 3392.8904 17389.363 3390.3236
+  17387.438 3387.7568 17388.08 3384.5483 17389.363 3381.9815
+  17390.647 3379.4147 17388.722 3376.8479 17399.631 3380.0564
+  17410.539 3383.2649 17412.464 3385.19 17412.464 3385.19
+  17416.956 3389.0402
+  17416.956 3394.1738
+endline
+
+line wall 
+  17208.405 3337.7044
+  17208.405 3337.7044 17210.971 3340.2712 17213.538 3345.4047
+  17216.105 3350.5383 17218.03 3354.3885 17221.88 3355.6719
+  17225.73 3356.9553 17257.815 3358.2387 17261.666 3359.5221
+  17265.516 3360.8055 17278.35 3362.7306 17292.467 3365.9391
+  17306.584 3369.1476 17303.376 3370.4309 17319.418 3373.6394
+  17335.461 3376.8479 17343.161 3378.773 17346.37 3378.773
+  17349.578 3378.773 17365.621 3379.4147 17369.471 3379.4147
+  17373.321 3379.4147 17390.005 3383.2649 17390.005 3383.2649
+endline
+
+line wall 
+  16700.822 3127.2276
+  16703.389 3127.8693 16719.431 3137.4947 16723.281 3139.4198
+  16727.131 3141.3449 16730.34 3143.9117 16734.19 3146.4785
+  16738.04 3149.0453 16749.591 3156.7456 16749.591 3156.7456
+  16755.366 3161.8792
+  16763.708 3167.6545
+  16771.409 3172.1464
+  16789.376 3175.9966
+  16799.643 3181.1302
+  16814.402 3188.8305
+  16820.178 3191.3973
+  16820.178 3191.3973 16840.712 3202.3062 16845.845 3204.873
+  16850.979 3207.4398 16859.321 3211.9316 16876.647 3215.7818
+  16893.973 3219.632 16905.523 3213.8567 16919.641 3223.4822
+  16933.758 3233.1077 16966.485 3258.1339 16970.977 3261.9841
+  16975.468 3265.8342 17007.553 3278.0265 17013.329 3281.235
+  17019.104 3284.4435 17022.954 3285.7269 17035.146 3290.8604
+  17047.339 3295.994 17056.964 3301.1276 17064.023 3306.2612
+  17071.081 3311.3948 17070.44 3314.6033 17080.707 3317.17
+  17090.974 3319.7368 17108.941 3326.1538 17108.941 3326.1538
+  17108.941 3326.1538 17138.46 3337.0627 17141.026 3338.9878
+  17143.593 3340.9129 17158.352 3346.6881 17162.844 3347.9715
+  17167.336 3349.2549 17166.053 3358.2387 17171.186 3360.1638
+  17176.32 3362.0889 17184.02 3364.014 17185.304 3358.8804
+  17186.587 3353.7468 17169.903 3342.8379 17169.903 3342.8379
+  17162.202 3338.9878
+endline
+
+line rock-border -clip off -close on
+  16684.138 3119.5272
+  16684.138 3119.5272 16700.822 3122.094 16701.464 3124.6608
+  16702.105 3127.2276 16698.255 3134.2862 16698.255 3134.2862
+  16668.737 3127.2276
+  16668.737 3127.2276 16666.17 3125.3025 16666.812 3122.7357
+  16667.454 3120.1689 16675.154 3115.0353 16675.154 3115.0353
+  16684.138 3119.5272
+endline
+
+line wall 
+  16152.812 2939.8519
+  16157.946 2942.4186 16170.78 2952.6858 16190.031 2955.2526
+  16209.281 2957.8194 16224.041 2959.1028 16232.383 2961.0279
+  16240.725 2962.953 16252.917 2968.0865 16265.751 2971.9367
+  16278.585 2975.7869 16301.686 2987.3375 16306.178 2987.9792
+  16310.67 2988.6209 16347.888 2990.546 16347.888 2990.546
+  16347.888 2990.546 16381.898 3012.3637 16388.957 3014.9305
+  16396.015 3017.4973 16415.266 3020.7058 16421.683 3020.0641
+  16428.1 3019.4224 16427.459 3016.8556 16442.218 3020.7058
+  16456.977 3024.5559 16460.185 3030.9729 16467.244 3037.3899
+  16474.303 3043.8069 16480.078 3047.6571 16490.345 3050.8655
+  16500.612 3054.074 16533.98 3066.908 16540.397 3067.5497
+  16546.814 3068.1914 16555.156 3068.8331 16569.916 3072.0416
+  16584.675 3075.25 16594.942 3081.0253 16609.059 3088.084
+  16623.176 3095.1427 16625.102 3097.7095 16634.727 3100.918
+  16644.352 3104.1264 16652.053 3106.0515 16656.545 3108.6183
+  16661.037 3111.1851 16669.379 3116.9604 16669.379 3116.9604
+endline
+
+line wall 
+  16430.667 3160.5958
+  16430.667 3160.5958 16387.673 3108.6183 16380.615 3102.843
+  16373.556 3097.0678 16348.53 3086.1589 16341.471 3082.3087
+  16334.412 3078.4585 16315.803 3068.1914 16312.595 3063.6995
+  16309.386 3059.2076 16282.435 3050.2238 16279.868 3048.9404
+  16277.301 3047.6571 16250.992 3037.3899 16236.874 3034.1814
+  16222.757 3030.9729 16191.956 3032.2563 16191.956 3032.2563
+  16191.956 3032.2563 16176.555 3028.4061 16169.496 3026.481
+  16162.438 3024.5559 16155.379 3023.9142 16149.604 3023.9142
+  16143.828 3023.9142 16118.802 3027.1227 16118.802 3027.1227
+endline
+
+line wall 
+  16788.734 3284.4435
+  16805.419 3284.4435 16820.819 3283.8018 16823.386 3282.5184
+  16825.953 3281.235 16830.445 3285.7269 16828.52 3279.3099
+  16826.595 3272.8929 16825.311 3269.6844 16813.119 3264.5508
+  16800.927 3259.4173 16748.307 3229.8992 16738.04 3223.4822
+  16727.773 3217.0652 16691.196 3204.873 16679.004 3192.039
+  16666.812 3179.2051 16667.454 3172.7881 16656.545 3165.7294
+  16645.636 3158.6707 16609.701 3152.8955 16596.867 3145.8368
+  16584.033 3138.7781 16543.606 3115.0353 16540.397 3115.0353
+  16537.189 3115.0353 16501.896 3111.1851 16497.404 3110.5434
+  16492.912 3109.9017 16470.452 3105.4098 16464.035 3104.1264
+  16457.618 3102.843 16440.293 3095.1427 16443.501 3101.5597
+  16446.71 3107.9766 16459.544 3122.094 16462.752 3126.5859
+  16465.961 3131.0777 16473.661 3144.5534 16473.661 3144.5534
+endline
+
+line wall 
+  16942.742 3350.5383
+  16958.143 3346.0464 16983.81 3344.1213 16985.094 3340.2712
+  16986.377 3336.421 16990.227 3335.1376 16983.169 3331.2874
+  16976.11 3327.4372 16964.56 3324.2287 16958.784 3322.3036
+  16953.009 3320.3785 16947.234 3320.3785 16934.4 3313.9616
+  16921.566 3307.5446 16897.823 3299.2025 16892.689 3297.2774
+  16887.556 3295.3523 16881.781 3297.9191 16872.797 3298.5608
+  16863.813 3299.2025 16853.546 3298.5608 16849.054 3298.5608
+  16844.562 3298.5608 16820.178 3306.2612 16816.969 3306.2612
+  16813.761 3306.2612 16800.927 3309.4697 16800.927 3309.4697
+endline
+
+line wall 
+  19199.592 3978.1186
+  19199.592 3978.1186 19199.592 3948.6005 19193.175 3942.8252
+  19186.758 3937.0499 19162.374 3934.4831 19154.032 3933.8414
+  19145.69 3933.1997 19123.872 3931.9163 19120.663 3932.558
+  19117.455 3933.1997 19070.611 3935.7665 19064.194 3934.4831
+  19057.777 3933.1997 19032.109 3931.9163 19022.484 3928.7079
+  19012.858 3925.4994 18987.19 3919.0824 18978.848 3916.5156
+  18970.506 3913.9488 18943.555 3909.4569 18921.096 3908.8152
+  18898.636 3908.1735 18883.877 3909.4569 18867.193 3907.5318
+  18850.509 3905.6067 18839.6 3903.04 18832.541 3901.7566
+  18825.483 3900.4732 18807.515 3901.7566 18801.74 3901.7566
+  18795.964 3901.7566 18792.756 3902.3983 18778.639 3897.2647
+  18764.521 3892.1311 18742.704 3885.0724 18726.019 3880.5805
+  18709.335 3876.0887 18699.068 3872.2385 18688.801 3869.6717
+  18678.534 3867.1049 18668.908 3863.8964 18660.566 3862.613
+  18652.224 3861.3296 18638.107 3856.8377 18635.54 3856.196
+  18632.973 3855.5543 18609.872 3853.6292 18605.38 3851.7041
+  18600.888 3849.7791 18594.471 3845.2872 18584.204 3840.7953
+  18573.937 3836.3034 18550.836 3833.0949 18550.836 3833.0949
+  18550.836 3833.0949 18548.911 3842.7204 18542.494 3843.3621
+  18536.077 3844.0038 18532.227 3847.2123 18527.093 3845.9289
+  18521.96 3844.6455 18507.842 3844.0038 18507.842 3844.0038
+  18507.842 3844.0038 18500.142 3853.6292 18498.859 3856.196
+  18497.575 3858.7628 18491.8 3862.613 18487.308 3862.613
+  18482.816 3862.613 18462.923 3860.6879 18459.715 3861.3296
+  18456.506 3861.9713 18443.673 3865.1798 18443.673 3865.1798
+  18443.673 3865.1798 18435.33 3870.3134 18431.48 3869.6717
+  18427.63 3869.03 18415.438 3865.1798 18412.871 3863.2547
+  18410.304 3861.3296 18374.369 3852.9875 18366.027 3849.7791
+  18357.685 3846.5706 18342.284 3844.6455 18333.301 3842.0787
+  18324.317 3839.5119 18292.874 3836.3034 18282.606 3829.2447
+  18272.339 3822.1861 18255.013 3813.2023 18255.013 3813.2023
+  18255.013 3813.2023 18218.437 3804.8602 18212.02 3801.01
+  18205.603 3797.1599 18187.635 3792.0263 18181.86 3790.1012
+  18176.085 3788.1761 18163.892 3784.9676 18156.834 3783.0425
+  18149.775 3781.1174 18133.733 3777.9089 18131.166 3775.9838
+  18128.599 3774.0587 18075.98 3751.5993 18072.13 3749.0325
+  18068.279 3746.4657 18026.569 3729.7816 18012.452 3721.4395
+  17998.334 3713.0975 17987.426 3706.0388 17981.65 3703.472
+  17975.875 3700.9052 17954.057 3693.2048 17954.057 3693.2048
+  17915.555 3682.9377
+  17915.555 3682.9377 17904.005 3680.3709 17881.545 3681.0126
+  17859.086 3681.6543 17833.418 3681.6543 17830.21 3681.0126
+  17827.001 3680.3709 17803.258 3679.0875 17803.258 3679.0875
+  17758.981 3681.0126
+  17758.981 3681.0126 17756.414 3682.9377 17751.922 3675.879
+  17747.431 3668.8203 17732.03 3657.9115 17726.255 3654.0613
+  17720.479 3650.2111 17708.929 3647.0026 17698.662 3643.1524
+  17688.394 3639.3022 17665.935 3632.2436 17665.935 3632.2436
+  17665.935 3632.2436 17615.241 3611.7092 17610.107 3609.1425
+  17604.974 3606.5757 17584.439 3594.3834 17576.097 3590.5332
+  17567.755 3586.683 17558.772 3582.1912 17548.504 3576.4159
+  17538.237 3570.6406 17527.97 3566.7904 17522.195 3564.8653
+  17516.419 3562.9402 17485.618 3548.1812 17485.618 3548.1812
+  17485.618 3548.1812 17450.325 3544.9727 17438.132 3537.2723
+  17425.94 3529.572 17404.122 3518.0214 17392.572 3510.9627
+  17381.021 3503.904 17357.92 3491.0701 17354.07 3489.145
+  17350.22 3487.2199 17307.226 3473.1026 17301.451 3471.8192
+  17295.676 3470.5358 17263.591 3468.6107 17259.74 3466.0439
+  17255.89 3463.4771 17251.398 3460.9103 17245.623 3458.3435
+  17239.848 3455.7767 17227.014 3455.135 17221.88 3451.9265
+  17216.747 3448.7181 17203.913 3442.3011 17200.704 3440.376
+  17197.496 3438.4509 17187.229 3436.5258 17184.662 3435.2424
+  17182.095 3433.959 17137.818 3402.5158 17133.968 3399.949
+  17130.118 3397.3822 17112.792 3383.9066 17110.867 3380.6981
+  17108.941 3377.4896 17108.941 3371.7143 17102.525 3369.1476
+  17096.108 3366.5808 17087.765 3363.3723 17083.274 3362.7306
+  17078.782 3362.0889 17065.948 3363.3723 17065.948 3363.3723
+  17065.948 3363.3723 17042.847 3366.5808 17039.638 3367.8642
+  17036.43 3369.1476 17024.237 3371.7143 17021.029 3373.6394
+  17017.82 3375.5645 17003.061 3380.0564 16999.853 3380.6981
+  16996.644 3381.3398 16983.81 3383.2649 16983.81 3383.2649
+  16961.351 3380.6981
+endline
+
+line wall 
+  20237.859 4193.729
+  20237.859 4193.729 20232.084 4163.5692 20232.725 4155.2271
+  20233.367 4146.885 20232.084 4143.6766 20230.159 4136.6179
+  20228.234 4129.5592 20216.683 4115.4419 20214.116 4112.2334
+  20211.549 4109.0249 20199.999 4100.6828 20199.999 4100.6828
+  20199.999 4100.6828 20187.807 4099.3994 20182.031 4096.1909
+  20176.256 4092.9824 20150.588 4082.7153 20142.246 4082.0736
+  20133.904 4081.4319 20096.686 4084.6404 20089.627 4082.7153
+  20082.568 4080.7902 20058.184 4073.0898 20054.975 4073.0898
+  20051.767 4073.0898 20017.115 4075.6566 20017.115 4075.6566
+  20017.115 4075.6566 20008.131 4076.94 19999.148 4069.2396
+  19990.164 4061.5393 19959.362 4049.347 19951.662 4045.4968
+  19943.962 4041.6466 19917.01 4038.4382 19917.01 4038.4382
+  19917.01 4038.4382 19902.893 4035.8714 19899.043 4035.2297
+  19895.192 4034.588 19847.707 4036.5131 19837.44 4037.1548
+  19827.173 4037.7965 19816.264 4036.5131 19808.563 4032.0212
+  19800.863 4027.5293 19764.928 4010.8452 19758.511 4006.3533
+  19752.094 4001.8614 19741.827 3998.0112 19736.051 3994.161
+  19730.276 3990.3108 19720.009 3984.5356 19716.801 3982.6105
+  19713.592 3980.6854 19675.09 3973.6267 19671.24 3971.7016
+  19667.39 3969.7765 19622.471 3955.0175 19619.263 3952.4507
+  19616.054 3949.8839 19620.546 3949.2422 19609.637 3946.0337
+  19598.728 3942.8252 19586.536 3938.975 19583.327 3938.975
+  19580.119 3938.975 19589.744 3927.4245 19569.21 3938.975
+  19548.676 3950.5256 19542.259 3958.8676 19542.259 3958.8676
+  19531.35 3972.985
+  19480.014 3972.3433
+  19462.688 3981.9688
+  19462.688 3981.9688 19438.945 3978.1186 19435.737 3975.5518
+  19432.529 3972.985 19425.47 3965.9263 19419.695 3961.4344
+  19413.919 3956.9426 19404.294 3951.809 19404.294 3951.809
+  19404.294 3951.809 19379.909 3946.6754 19376.701 3945.392
+  19373.492 3944.1086 19358.733 3943.4669 19353.6 3939.6167
+  19348.466 3935.7665 19322.798 3928.7079 19317.665 3928.0662
+  19312.531 3927.4245 19270.179 3930.633 19262.479 3929.3496
+  19254.778 3928.0662 19243.869 3921.6492 19239.378 3924.216
+  19234.886 3926.7828 19229.11 3926.1411 19228.469 3931.9163
+  19227.827 3937.6916 19225.26 3967.2097 19225.902 3969.7765
+  19226.544 3972.3433 19227.185 3975.5518 19227.185 3975.5518
+endline
+
+line wall 
+  20491.971 4220.0386
+  20491.971 4212.3382 20489.404 4173.1946 20490.046 4164.8526
+  20490.688 4156.5105 20487.479 4146.885 20484.913 4143.6766
+  20482.346 4140.4681 20446.411 4129.5592 20439.352 4125.709
+  20432.293 4121.8588 20418.818 4114.8002 20413.684 4112.8751
+  20408.551 4110.95 20375.182 4109.6666 20368.124 4109.0249
+  20361.065 4108.3832 20346.306 4109.0249 20339.889 4109.6666
+  20333.472 4110.3083 20293.687 4114.8002 20289.195 4113.5168
+  20284.703 4112.2334 20269.944 4108.3832 20265.452 4110.95
+  20260.96 4113.5168 20248.126 4120.5754 20250.051 4127.6341
+  20251.976 4134.6928 20259.677 4189.2371 20259.677 4189.2371
+endline
+
+line wall 
+  20705.657 4201.4293
+  20705.657 4198.2209 20706.94 4172.553 20704.373 4167.4194
+  20701.806 4162.2858 20697.956 4161.6441 20695.389 4155.2271
+  20692.823 4148.8101 20692.181 4141.1098 20691.539 4135.3345
+  20690.898 4129.5592 20688.972 4115.4419 20683.839 4113.5168
+  20678.705 4111.5917 20651.112 4101.3245 20629.295 4114.1585
+  20607.477 4126.9924 20565.766 4150.7352 20565.766 4150.7352
+  20565.766 4150.7352 20549.082 4202.7127 20549.724 4205.2795
+  20550.366 4207.8463 20542.024 4234.7976 20542.024 4234.7976
+endline
+
+line wall 
+  20988.004 4041.6466
+  20984.795 4041.6466 20974.528 4042.93 20967.469 4043.5717
+  20960.411 4044.2134 20884.049 4061.5393 20873.14 4063.4644
+  20862.231 4065.3895 20808.328 4072.4481 20803.836 4071.8064
+  20799.344 4071.1647 20767.26 4070.523 20761.484 4072.4481
+  20755.709 4074.3732 20731.966 4091.6991 20733.25 4095.5492
+  20734.533 4099.3994 20742.875 4098.116 20733.25 4127.6341
+  20723.624 4157.1522 20727.474 4175.1197 20727.474 4175.1197
+  20734.533 4195.6541
+endline
+
+line wall -subtype presumed
+  20996.987 4014.0536
+  20996.987 4014.0536 21014.313 4015.337 21025.222 4015.337
+  21036.131 4015.337 21038.698 4015.9787 21046.398 4015.9787
+  21054.098 4015.9787 21068.857 4022.3957 21068.857 4022.3957
+endline
+
+line wall -subtype presumed
+  21070.783 4047.4219
+  21070.783 4047.4219 21040.623 4043.5717 21035.489 4044.8551
+  21030.356 4046.1385 21034.206 4048.0636 21025.222 4046.7802
+  21016.238 4045.4968 20990.57 4041.0049 20990.57 4041.0049
+endline
+
+point 16811.6 3230.55 station -name 6@Girafe
+point 17045.5 3338.82 station -name 7@Girafe
+point 17165.2 3375.82 station -name 8@Girafe
+point 17239.0 3373.46 station -name 9@Girafe
+point 17742.7 3607.32 station -name 10@Girafe
+point 17914.3 3641.97 station -name 11@Girafe
+point 18276.9 3794.33 station -name 12@Girafe
+point 18416.3 3835.67 station -name 13@Girafe
+point 18507.7 3807.32 station -name 14@Girafe
+point 18557.9 3814.41 station -name 15@Girafe
+point 18707.6 3862.83 station -name 16@Girafe
+point 18778.8 3877.01 station -name 17@Girafe
+point 19106.6 3915.59 station -name 18@Girafe
+point 19222.0 3884.09 station -name 19@Girafe
+point 19392.2 3872.67 station -name 20@Girafe
+point 19429.8 3919.13 station -name 21@Girafe
+point 19575.3 3919.92 station -name 22@Girafe
+point 19743.0 3963.23 station -name 23@Girafe
+point 19832.6 3997.08 station -name 24@Girafe
+point 19902.1 4006.14 station -name 25@Girafe
+point 20019.8 4051.02 station -name 26@Girafe
+point 20240.8 4075.04 station -name 27@Girafe
+point 20541.3 4072.28 station -name 28@Girafe
+point 20755.5 4036.45 station -name 29@Girafe
+point 20982.2 4027.4 station -name 30@Girafe
+point 19239.5 3817.16 station -name 31@Girafe
+point 19130.0 3794.33 station -name 32@Girafe
+point 18971.8 3787.24 station -name 33@Girafe
+point 18918.1 3694.33 station -name 34@Girafe
+point 18810.1 3676.61 station -name 35@Girafe
+point 18738.2 3648.66 station -name 36@Girafe
+point 18683.4 3600.63 station -name 37@Girafe
+point 18637.7 3585.67 station -name 38@Girafe
+point 18573.7 3585.67 station -name 39@Girafe
+point 18490.5 3592.75 station -name 40@Girafe
+point 18474.5 3615.19 station -name 41@Girafe
+point 18340.5 3550.63 station -name 42@Girafe
+point 18283.9 3564.8 station -name 43@Girafe
+line survey 
+  16356.17 3046.6936
+  16487.3 3162.4436
+endline
+
+line survey 
+  16670.69 3135.6736
+  16670.82 3151.0236
+endline
+
+line survey 
+  16670.69 3135.6736
+  16670.35 3173.0736
+endline
+
+line survey 
+  16670.69 3135.6736
+  16661.34 3148.2736
+endline
+
+line survey 
+  16670.69 3135.6736
+  16810.88 3231.3436
+endline
+
+line survey 
+  16670.69 3135.6736
+  16812.67 3231.3436
+endline
+
+line survey 
+  16670.69 3135.6736
+  16811.63 3230.5536
+endline
+
+line survey 
+  16811.63 3230.5536
+  16825.64 3255.7536
+endline
+
+line survey 
+  16811.63 3230.5536
+  16832.87 3243.5436
+endline
+
+line survey 
+  16811.63 3230.5536
+  16841.8 3197.4836
+endline
+
+line survey 
+  16811.63 3230.5536
+  16842.16 3201.4136
+endline
+
+line survey 
+  16811.63 3230.5536
+  17045.52 3338.8236
+endline
+
+line survey 
+  17045.52 3338.8236
+  17049.35 3343.9336
+endline
+
+line survey 
+  17045.52 3338.8236
+  17057.96 3335.2736
+endline
+
+line survey 
+  17045.52 3338.8236
+  17065.41 3315.1936
+endline
+
+line survey 
+  17045.52 3338.8236
+  17043.47 3332.9136
+endline
+
+line survey 
+  17045.52 3338.8236
+  17165.19 3375.8236
+endline
+
+line survey 
+  17165.19 3375.8236
+  17153.16 3412.8336
+endline
+
+line survey 
+  17165.19 3375.8236
+  17166.57 3419.9236
+endline
+
+line survey 
+  17165.19 3375.8236
+  17160.18 3389.6036
+endline
+
+line survey 
+  17165.19 3375.8236
+  17166.54 3365.5936
+endline
+
+line survey 
+  17165.19 3375.8236
+  17295.73 3499.8436
+endline
+
+line survey 
+  17165.19 3375.8236
+  17239.05 3373.4636
+endline
+
+line survey 
+  17239.05 3373.4636
+  17242.3 3461.6536
+endline
+
+line survey 
+  17239.05 3373.4636
+  17232.42 3416.7736
+endline
+
+line survey 
+  17239.05 3373.4636
+  17235.86 3377.4036
+endline
+
+line survey 
+  17239.05 3373.4636
+  17246.07 3357.7136
+endline
+
+line survey 
+  17239.05 3373.4636
+  17230.24 3386.0636
+endline
+
+line survey 
+  17239.05 3373.4636
+  17123.66 3338.8236
+endline
+
+line survey 
+  17239.05 3373.4636
+  17741.45 3606.9336
+endline
+
+line survey 
+  17239.05 3373.4636
+  17743.6 3607.7136
+endline
+
+line survey 
+  17239.05 3373.4636
+  17742.7 3607.3236
+endline
+
+line survey 
+  17742.7 3607.3236
+  17761.54 3609.6836
+endline
+
+line survey 
+  17742.7 3607.3236
+  17756.27 3582.1236
+endline
+
+line survey 
+  17742.7 3607.3236
+  17736.51 3577.4036
+endline
+
+line survey 
+  17742.7 3607.3236
+  17742.72 3617.5636
+endline
+
+line survey 
+  17742.7 3607.3236
+  17739.85 3657.3236
+endline
+
+line survey 
+  17742.7 3607.3236
+  17834.95 3524.2536
+endline
+
+line survey 
+  17742.7 3607.3236
+  17914.28 3641.9736
+endline
+
+line survey 
+  17914.28 3641.9736
+  17916.57 3682.5236
+endline
+
+line survey 
+  17914.28 3641.9736
+  17915.1 3652.2036
+endline
+
+line survey 
+  17914.28 3641.9736
+  17912.7 3619.1336
+endline
+
+line survey 
+  17914.28 3641.9736
+  17917.12 3529.3736
+endline
+
+line survey 
+  17914.28 3641.9736
+  17912.43 3645.5136
+endline
+
+line survey 
+  17914.28 3641.9736
+  18276.94 3794.3336
+endline
+
+line survey 
+  18276.94 3794.3336
+  18278.17 3810.0836
+endline
+
+line survey 
+  18276.94 3794.3336
+  18280.01 3795.5136
+endline
+
+line survey 
+  18276.94 3794.3336
+  18279.32 3736.4536
+endline
+
+line survey 
+  18276.94 3794.3336
+  18242.09 3694.3336
+endline
+
+line survey 
+  18276.94 3794.3336
+  18235.7 3694.3336
+endline
+
+line survey 
+  18276.94 3794.3336
+  18269.31 3818.7436
+endline
+
+line survey 
+  18276.94 3794.3336
+  18416.3 3835.6736
+endline
+
+line survey 
+  18416.3 3835.6736
+  18438.4 3862.8336
+endline
+
+line survey 
+  18416.3 3835.6736
+  18390.74 3824.2536
+endline
+
+line survey 
+  18416.3 3835.6736
+  18479.42 3783.7036
+endline
+
+line survey 
+  18416.3 3835.6736
+  18441.02 3825.0436
+endline
+
+line survey 
+  18416.3 3835.6736
+  18389.67 3770.7136
+endline
+
+line survey 
+  18416.3 3835.6736
+  18417.48 3797.4836
+endline
+
+line survey 
+  18416.3 3835.6736
+  18507.65 3807.3236
+endline
+
+line survey 
+  18507.65 3807.3236
+  18494.72 3814.8036
+endline
+
+line survey 
+  18507.65 3807.3236
+  18466.39 3822.2836
+endline
+
+line survey 
+  18507.65 3807.3236
+  18512.27 3828.1936
+endline
+
+line survey 
+  18507.65 3807.3236
+  18555.03 3795.5136
+endline
+
+line survey 
+  18507.65 3807.3236
+  18505.28 3794.3336
+endline
+
+line survey 
+  18507.65 3807.3236
+  18501.75 3841.1836
+endline
+
+line survey 
+  18507.65 3807.3236
+  18557.88 3814.4136
+endline
+
+line survey 
+  18557.88 3814.4136
+  18529.0 3820.3136
+endline
+
+line survey 
+  18557.88 3814.4136
+  18569.0 3830.5536
+endline
+
+line survey 
+  18557.88 3814.4136
+  18570.05 3794.7236
+endline
+
+line survey 
+  18557.88 3814.4136
+  18707.56 3862.8336
+endline
+
+line survey 
+  18707.56 3862.8336
+  18697.1 3869.9236
+endline
+
+line survey 
+  18707.56 3862.8336
+  18680.8 3856.5336
+endline
+
+line survey 
+  18707.56 3862.8336
+  18689.69 3829.3736
+endline
+
+line survey 
+  18707.56 3862.8336
+  18704.5 3871.1036
+endline
+
+line survey 
+  18707.56 3862.8336
+  18778.81 3877.0136
+endline
+
+line survey 
+  18778.81 3877.0136
+  18759.99 3893.1536
+endline
+
+line survey 
+  18778.81 3877.0136
+  18739.49 3877.0136
+endline
+
+line survey 
+  18778.81 3877.0136
+  18803.76 3843.9336
+endline
+
+line survey 
+  18778.81 3877.0136
+  19106.56 3915.5936
+endline
+
+line survey 
+  19106.56 3915.5936
+  19110.55 3928.5836
+endline
+
+line survey 
+  19106.56 3915.5936
+  19113.66 3915.9836
+endline
+
+line survey 
+  19106.56 3915.5936
+  19106.69 3884.8836
+endline
+
+line survey 
+  19106.56 3915.5936
+  19222.03 3884.0936
+endline
+
+line survey 
+  19222.03 3884.0936
+  19232.36 3902.9936
+endline
+
+line survey 
+  19222.03 3884.0936
+  19227.26 3888.0336
+endline
+
+line survey 
+  19222.03 3884.0936
+  19227.67 3863.2336
+endline
+
+line survey 
+  19222.03 3884.0936
+  19231.35 3749.0536
+endline
+
+line survey 
+  19222.03 3884.0936
+  19392.24 3872.6736
+endline
+
+line survey 
+  19392.24 3872.6736
+  19386.28 3932.1236
+endline
+
+line survey 
+  19392.24 3872.6736
+  19379.8 3939.2136
+endline
+
+line survey 
+  19392.24 3872.6736
+  19381.27 3875.8236
+endline
+
+line survey 
+  19392.24 3872.6736
+  19398.99 3813.2336
+endline
+
+line survey 
+  19392.24 3872.6736
+  19429.83 3919.1336
+endline
+
+line survey 
+  19429.83 3919.1336
+  19432.99 3968.7436
+endline
+
+line survey 
+  19429.83 3919.1336
+  19425.27 3954.1736
+endline
+
+line survey 
+  19429.83 3919.1336
+  19429.27 3919.5236
+endline
+
+line survey 
+  19429.83 3919.1336
+  19419.97 3823.8636
+endline
+
+line survey 
+  19429.83 3919.1336
+  19575.3 3919.9236
+endline
+
+line survey 
+  19575.3 3919.9236
+  19575.5 3915.9836
+endline
+
+line survey 
+  19575.3 3919.9236
+  19577.18 3898.2736
+endline
+
+line survey 
+  19575.3 3919.9236
+  19562.82 3918.7436
+endline
+
+line survey 
+  19575.3 3919.9236
+  19591.54 3908.5036
+endline
+
+line survey 
+  19575.3 3919.9236
+  19743.01 3963.2336
+endline
+
+line survey 
+  19743.01 3963.2336
+  19744.93 3990.7836
+endline
+
+line survey 
+  19743.01 3963.2336
+  19742.66 3977.7936
+endline
+
+line survey 
+  19743.01 3963.2336
+  19749.39 3973.8636
+endline
+
+line survey 
+  19743.01 3963.2336
+  19735.93 3907.7136
+endline
+
+line survey 
+  19743.01 3963.2336
+  19832.59 3997.0836
+endline
+
+line survey 
+  19832.59 3997.0836
+  19828.21 4033.7036
+endline
+
+line survey 
+  19832.59 3997.0836
+  19840.75 3994.7236
+endline
+
+line survey 
+  19832.59 3997.0836
+  19844.25 3920.7136
+endline
+
+line survey 
+  19832.59 3997.0836
+  19902.07 4006.1436
+endline
+
+line survey 
+  19902.07 4006.1436
+  19898.2 4032.1236
+endline
+
+line survey 
+  19902.07 4006.1436
+  19922.37 4022.6736
+endline
+
+line survey 
+  19902.07 4006.1436
+  19910.33 4006.9336
+endline
+
+line survey 
+  19902.07 4006.1436
+  19882.87 3998.2736
+endline
+
+line survey 
+  19902.07 4006.1436
+  19906.67 3922.6736
+endline
+
+line survey 
+  19902.07 4006.1436
+  20019.79 4051.0236
+endline
+
+line survey 
+  20019.79 4051.0236
+  20026.0 4037.6436
+endline
+
+line survey 
+  20019.79 4051.0236
+  20027.1 4036.0636
+endline
+
+line survey 
+  20019.79 4051.0236
+  20034.15 3975.0436
+endline
+
+line survey 
+  20019.79 4051.0236
+  20240.82 4075.0436
+endline
+
+line survey 
+  20240.82 4075.0436
+  20254.68 4193.9336
+endline
+
+line survey 
+  20240.82 4075.0436
+  20227.05 4103.7836
+endline
+
+line survey 
+  20240.82 4075.0436
+  20221.61 4094.7236
+endline
+
+line survey 
+  20240.82 4075.0436
+  20246.94 4059.6836
+endline
+
+line survey 
+  20240.82 4075.0436
+  20242.81 3997.8736
+endline
+
+line survey 
+  20240.82 4075.0436
+  20541.32 4072.2836
+endline
+
+line survey 
+  20541.32 4072.2836
+  20527.74 4237.2436
+endline
+
+line survey 
+  20541.32 4072.2836
+  20549.01 4083.7036
+endline
+
+line survey 
+  20541.32 4072.2836
+  20535.75 4065.5936
+endline
+
+line survey 
+  20541.32 4072.2836
+  20551.23 4038.4236
+endline
+
+line survey 
+  20541.32 4072.2836
+  20562.94 4011.6536
+endline
+
+line survey 
+  20541.32 4072.2836
+  20755.52 4036.4536
+endline
+
+line survey 
+  20755.52 4036.4536
+  20758.2 4061.2636
+endline
+
+line survey 
+  20755.52 4036.4536
+  20761.49 4041.1836
+endline
+
+line survey 
+  20755.52 4036.4536
+  20730.18 4041.5736
+endline
+
+line survey 
+  20755.52 4036.4536
+  20748.23 4023.4636
+endline
+
+line survey 
+  20755.52 4036.4536
+  20986.06 4027.0136
+endline
+
+line survey 
+  20755.52 4036.4536
+  20981.32 4026.6136
+endline
+
+line survey 
+  20755.52 4036.4536
+  20982.19 4027.4036
+endline
+
+line survey 
+  19222.03 3884.0936
+  19239.55 3817.1636
+endline
+
+line survey 
+  19239.55 3817.1636
+  19232.09 3820.7136
+endline
+
+line survey 
+  19239.55 3817.1636
+  19249.13 3817.9536
+endline
+
+line survey 
+  19239.55 3817.1636
+  19224.67 3816.3836
+endline
+
+line survey 
+  19239.55 3817.1636
+  19236.29 3903.3836
+endline
+
+line survey 
+  19239.55 3817.1636
+  19236.73 3749.8436
+endline
+
+line survey 
+  19239.55 3817.1636
+  19129.98 3794.3336
+endline
+
+line survey 
+  19129.98 3794.3336
+  19122.08 3810.8636
+endline
+
+line survey 
+  19129.98 3794.3336
+  19101.94 3815.5936
+endline
+
+line survey 
+  19129.98 3794.3336
+  19117.05 3784.0936
+endline
+
+line survey 
+  19129.98 3794.3336
+  19119.34 3732.1236
+endline
+
+line survey 
+  19129.98 3794.3336
+  18971.78 3787.2436
+endline
+
+line survey 
+  18971.78 3787.2436
+  18968.88 3804.5636
+endline
+
+line survey 
+  18971.78 3787.2436
+  18983.93 3823.0736
+endline
+
+line survey 
+  18971.78 3787.2436
+  18966.79 3810.8636
+endline
+
+line survey 
+  18971.78 3787.2436
+  18973.54 3794.3336
+endline
+
+line survey 
+  18971.78 3787.2436
+  18959.82 3689.6036
+endline
+
+line survey 
+  18971.78 3787.2436
+  18918.08 3694.3336
+endline
+
+line survey 
+  18918.08 3694.3336
+  18909.88 3692.3636
+endline
+
+line survey 
+  18918.08 3694.3336
+  18909.58 3645.5136
+endline
+
+line survey 
+  18918.08 3694.3336
+  18916.48 3698.2736
+endline
+
+line survey 
+  18918.08 3694.3336
+  18908.76 3819.9236
+endline
+
+line survey 
+  18918.08 3694.3336
+  18810.08 3676.6136
+endline
+
+line survey 
+  18810.08 3676.6136
+  18797.81 3754.1736
+endline
+
+line survey 
+  18810.08 3676.6136
+  18798.04 3676.6136
+endline
+
+line survey 
+  18810.08 3676.6136
+  18802.38 3616.7736
+endline
+
+line survey 
+  18810.08 3676.6136
+  18738.18 3648.6636
+endline
+
+line survey 
+  18738.18 3648.6636
+  18722.12 3734.0936
+endline
+
+line survey 
+  18738.18 3648.6636
+  18726.33 3647.0836
+endline
+
+line survey 
+  18738.18 3648.6636
+  18723.46 3602.2036
+endline
+
+line survey 
+  18738.18 3648.6636
+  18683.41 3600.6336
+endline
+
+line survey 
+  18683.41 3600.6336
+  18678.7 3704.1736
+endline
+
+line survey 
+  18683.41 3600.6336
+  18663.27 3599.4536
+endline
+
+line survey 
+  18683.41 3600.6336
+  18672.16 3551.4136
+endline
+
+line survey 
+  18683.41 3600.6336
+  18637.73 3585.6736
+endline
+
+line survey 
+  18637.73 3585.6736
+  18610.49 3696.3036
+endline
+
+line survey 
+  18637.73 3585.6736
+  18611.43 3528.9736
+endline
+
+line survey 
+  18637.73 3585.6736
+  18614.7 3589.6036
+endline
+
+line survey 
+  18637.73 3585.6736
+  18573.71 3585.6736
+endline
+
+line survey 
+  18573.71 3585.6736
+  18583.94 3685.6736
+endline
+
+line survey 
+  18573.71 3585.6736
+  18578.07 3586.4536
+endline
+
+line survey 
+  18573.71 3585.6736
+  18556.16 3490.7836
+endline
+
+line survey 
+  18573.71 3585.6736
+  18490.48 3592.7536
+endline
+
+line survey 
+  18490.48 3592.7536
+  18479.88 3621.4936
+endline
+
+line survey 
+  18490.48 3592.7536
+  18462.53 3595.5136
+endline
+
+line survey 
+  18490.48 3592.7536
+  18485.9 3484.8836
+endline
+
+line survey 
+  18490.48 3592.7536
+  18474.52 3615.1936
+endline
+
+line survey 
+  18474.52 3615.1936
+  18462.24 3477.0136
+endline
+
+line survey 
+  18474.52 3615.1936
+  18464.97 3589.2136
+endline
+
+line survey 
+  18474.52 3615.1936
+  18475.37 3595.1236
+endline
+
+line survey 
+  18474.52 3615.1936
+  18340.45 3550.6336
+endline
+
+line survey 
+  18340.45 3550.6336
+  18345.84 3573.4636
+endline
+
+line survey 
+  18340.45 3550.6336
+  18350.72 3546.6936
+endline
+
+line survey 
+  18340.45 3550.6336
+  18341.34 3444.3336
+endline
+
+line survey 
+  18340.45 3550.6336
+  18283.92 3564.8036
+endline
+
+point 16811.6 3230.55 station-name -align tr -scale xs -text 6@Girafe
+point 17045.5 3338.82 station-name -align tr -scale xs -text 7@Girafe
+point 17165.2 3375.82 station-name -align tr -scale xs -text 8@Girafe
+point 17239.0 3373.46 station-name -align tr -scale xs -text 9@Girafe
+point 17742.7 3607.32 station-name -align tr -scale xs -text 10@Girafe
+point 17914.3 3641.97 station-name -align tr -scale xs -text 11@Girafe
+point 18276.9 3794.33 station-name -align tr -scale xs -text 12@Girafe
+point 18416.3 3835.67 station-name -align tr -scale xs -text 13@Girafe
+point 18507.7 3807.32 station-name -align tr -scale xs -text 14@Girafe
+point 18557.9 3814.41 station-name -align tr -scale xs -text 15@Girafe
+point 18707.6 3862.83 station-name -align tr -scale xs -text 16@Girafe
+point 18778.8 3877.01 station-name -align tr -scale xs -text 17@Girafe
+point 19106.6 3915.59 station-name -align tr -scale xs -text 18@Girafe
+point 19222.0 3884.09 station-name -align tr -scale xs -text 19@Girafe
+point 19392.2 3872.67 station-name -align tr -scale xs -text 20@Girafe
+point 19429.8 3919.13 station-name -align tr -scale xs -text 21@Girafe
+point 19575.3 3919.92 station-name -align tr -scale xs -text 22@Girafe
+point 19743.0 3963.23 station-name -align tr -scale xs -text 23@Girafe
+point 19832.6 3997.08 station-name -align tr -scale xs -text 24@Girafe
+point 19902.1 4006.14 station-name -align tr -scale xs -text 25@Girafe
+point 20019.8 4051.02 station-name -align tr -scale xs -text 26@Girafe
+point 20240.8 4075.04 station-name -align tr -scale xs -text 27@Girafe
+point 20541.3 4072.28 station-name -align tr -scale xs -text 28@Girafe
+point 20755.5 4036.45 station-name -align tr -scale xs -text 29@Girafe
+point 20982.2 4027.4 station-name -align tr -scale xs -text 30@Girafe
+point 19239.5 3817.16 station-name -align tr -scale xs -text 31@Girafe
+point 19130.0 3794.33 station-name -align tr -scale xs -text 32@Girafe
+point 18971.8 3787.24 station-name -align tr -scale xs -text 33@Girafe
+point 18918.1 3694.33 station-name -align tr -scale xs -text 34@Girafe
+point 18810.1 3676.61 station-name -align tr -scale xs -text 35@Girafe
+point 18738.2 3648.66 station-name -align tr -scale xs -text 36@Girafe
+point 18683.4 3600.63 station-name -align tr -scale xs -text 37@Girafe
+point 18637.7 3585.67 station-name -align tr -scale xs -text 38@Girafe
+point 18573.7 3585.67 station-name -align tr -scale xs -text 39@Girafe
+point 18490.5 3592.75 station-name -align tr -scale xs -text 40@Girafe
+point 18474.5 3615.19 station-name -align tr -scale xs -text 41@Girafe
+point 18340.4 3550.63 station-name -align tr -scale xs -text 42@Girafe
+point 18283.9 3564.8 station-name -align tr -scale xs -text 43@Girafe
+endscrap
+
+
+scrap CuevaPirates-PinceMi -projection extended -scale [0 0 96 0 0 0 200 0 inch]
+
+point 12958.256 1100.598 label -align tr -scale l -text "Galerie Pince-Mi"
+line wall 
+  13826.087 471.421
+  13826.087 471.421 13852.414 481.5471 13860.515 483.5723
+  13868.616 485.5975 13917.221 487.6227 13917.221 487.6227
+  13917.221 487.6227 13943.549 495.7235 13951.649 487.6227
+  13959.75 479.5219 14000.254 459.2698 14000.254 459.2698
+  14034.683 434.9673
+endline
+
+line water-flow 
+  14561.819 887.8835
+  14561.819 887.8835 14364.228 812.3992 14355.347 809.069
+  14346.467 805.7388 14155.536 732.4746 14124.454 719.1538
+  14093.372 705.833 13991.246 604.8172 13985.696 591.4965
+  13980.146 578.1757 13991.246 526.0027 14009.007 509.3517
+  14026.768 492.7008 14085.602 456.0687 14085.602 456.0687
+endline
+
+line wall 
+  14066.731 496.031
+  14060.07 502.6913 13999.017 548.204 13999.017 552.6442
+  13999.017 557.0845 14009.007 572.6254 14018.998 582.6159
+  14028.989 592.6065 14028.989 607.0374 14028.989 607.0374
+  14028.989 607.0374 14028.989 617.0279 14035.649 624.7984
+  14042.309 632.5688 14051.19 656.9902 14051.19 656.9902
+  14064.511 670.311
+endline
+
+line wall:clay 
+  14067.583 673.4676
+  14080.142 681.3169 14254.397 753.5308 14271.666 764.5199
+  14288.934 775.5089 14488.307 836.7338 14500.866 843.0132
+  14513.425 849.2927 14639.015 893.249 14650.004 908.9477
+  14660.993 924.6464 14684.541 948.1944 14690.82 952.904
+  14697.1 957.6136 14728.497 982.7315 14728.497 982.7315
+endline
+
+line wall 
+  14819.549 1117.7401
+  14725.357 1106.751
+  14670.412 1100.4715
+  14670.412 1100.4715 14607.617 1054.9454 14601.338 1051.8056
+  14595.058 1048.6659 14514.995 992.1507 14505.576 985.8712
+  14496.157 979.5917 14417.663 930.9258 14403.535 924.6464
+  14389.406 918.3669 14283.109 854.3724 14276.777 849.0961
+  14270.445 843.8197 14234.566 842.7645 14234.566 842.7645
+  14234.566 842.7645 14186.024 819.5485 14177.581 818.4932
+  14169.139 817.4379 14132.205 796.3325 14126.928 793.1667
+  14121.652 790.0008 14111.099 781.5587 14094.215 772.0612
+  14077.331 762.5638 13964.416 724.574 13954.919 719.2976
+  13945.422 714.0213 13892.658 604.2729 13886.326 601.1071
+  13879.995 597.9413 13831.452 590.5544 13818.789 589.4991
+  13806.126 588.4439 13710.096 593.7202 13700.598 594.7755
+  13691.101 595.8308 13671.051 597.9413 13663.664 597.9413
+  13656.277 597.9413 13639.393 591.6097 13632.006 586.3333
+  13624.619 581.0569 13563.413 538.8461 13558.137 535.6803
+  13552.86 532.5144 13538.087 519.8512 13508.539 505.0774
+  13478.991 490.3035 13464.217 502.9668 13464.217 502.9668
+  13464.217 502.9668 13418.841 505.0774 13409.343 504.0221
+  13399.846 502.9668 13363.967 506.1326 13357.635 502.9668
+  13351.303 499.801 13346.027 488.193 13341.806 479.7508
+  13337.585 471.3087 13306.982 468.1428 13284.821 464.977
+  13262.66 461.8112 13197.234 466.0323 13179.294 463.9217
+  13161.354 461.8112 13084.319 462.8665 13074.822 460.7559
+  13065.325 458.6454 13038.943 448.0927 13019.948 445.9821
+  13000.953 443.8716 12999.898 450.2032 12999.898 450.2032
+  12999.898 450.2032 12953.466 459.7007 12947.134 463.9217
+  12940.802 468.1428 12922.863 458.6454 12922.863 458.6454
+  12892.26 464.977
+  12827.888 473.4192
+endline
+
+line wall:sand 
+  12853.607 423.8939
+  12853.607 423.8939 13167.652 419.6728 13249.068 421.5662
+  13330.485 423.4596 13463.023 431.0332 13481.01 431.9799
+  13498.997 432.9266 13570.946 441.4469 13570.946 441.4469
+  13812.018 462.9093
+endline
+
+line wall:clay 
+  16084.06 1742.0104
+  16084.06 1742.0104 16274.043 1824.456 16283.005 1838.7943
+  16291.966 1853.1327 16424.596 1951.7089 16433.558 1957.0858
+  16442.519 1962.4627 16467.611 1975.0088 16467.611 1975.0088
+  16467.611 1975.0088 16578.734 2070.0004 16585.903 2075.3773
+  16593.072 2080.7542 16731.079 2175.7459 16731.079 2175.7459
+  16731.079 2175.7459 16818.901 2229.5147 16826.071 2233.0993
+  16833.24 2236.6839 16956.908 2231.307 17005.3 2240.2685
+  17053.692 2249.23 17132.553 2268.9452 17145.099 2274.3221
+  17157.645 2279.699 17261.598 2311.9603 17261.598 2311.9603
+  17261.598 2311.9603 17342.252 2326.2987 17378.098 2337.0525
+  17413.943 2347.8062 17464.128 2378.2753 17485.635 2389.029
+  17507.143 2399.7828 17553.742 2430.2518 17553.742 2430.2518
+endline
+
+line wall:blocks 
+  15797.293 1634.4726
+  15797.293 1634.4726 15820.593 1664.9416 15833.139 1668.5262
+  15845.685 1672.1108 15877.946 1677.4877 15894.077 1679.28
+  15910.207 1681.0723 15919.169 1682.8646 15929.923 1686.4492
+  15940.677 1690.0338 15931.715 1686.4492 15949.638 1693.6184
+  15967.561 1700.7876 16010.576 1718.7105 16010.576 1718.7105
+  16064.345 1740.2181
+endline
+
+line wall 
+  15616.405 1463.8131
+  15611.297 1462.7915 15514.243 1462.7915 15510.157 1467.8996
+  15506.071 1473.0077 15491.768 1476.0725 15486.66 1476.0725
+  15481.552 1476.0725 15466.228 1480.159 15484.617 1490.3751
+  15503.006 1500.5913 15533.654 1518.9804 15537.741 1524.0884
+  15541.827 1529.1965 15679.745 1586.4069 15689.961 1590.4934
+  15700.177 1594.5799 15722.653 1600.7096 15722.653 1600.7096
+  15722.653 1600.7096 15724.696 1606.8392 15728.783 1611.9473
+  15732.869 1617.0554 15759.431 1626.2499 15759.431 1626.2499
+  15791.101 1630.3364
+endline
+
+line wall 
+  14994.241 1044.9511
+  15015.695 1055.1672
+  15040.214 1099.0966
+  15048.387 1104.2047
+  15048.387 1104.2047 15056.56 1107.2696 15058.603 1112.3776
+  15060.646 1117.4857 15078.014 1154.2639 15082.1 1157.3287
+  15086.187 1160.3935 15096.403 1162.4368 15096.403 1162.4368
+  15096.403 1162.4368 15136.246 1233.9498 15140.332 1235.993
+  15144.419 1238.0363 15148.505 1235.993 15153.613 1240.0795
+  15158.721 1244.166 15168.938 1267.6631 15168.938 1267.6631
+  15184.262 1300.3548
+  15195.5 1306.4845
+  15195.5 1306.4845 15287.445 1358.5868 15293.575 1363.6949
+  15299.704 1368.803 15305.834 1374.9327 15315.029 1380.0407
+  15324.223 1385.1488 15355.893 1412.7324 15359.98 1416.8189
+  15364.066 1420.9053 15364.066 1422.9486 15374.282 1423.9702
+  15384.498 1424.9918 15421.277 1435.2079 15434.558 1436.2296
+  15447.838 1437.2512 15480.53 1435.2079 15484.617 1434.1863
+  15488.703 1433.1647 15516.287 1440.316 15523.438 1439.2944
+  15530.589 1438.2728 15550.0 1433.1647 15550.0 1433.1647
+  15609.254 1431.1215
+endline
+
+line wall:clay 
+  14731.686 987.7406
+  14737.816 989.7839 14731.686 987.7406 14753.14 994.8919
+  14774.594 1002.0432 14781.746 1007.1513 14796.048 1010.2161
+  14810.351 1013.281 14858.367 1018.3891 14865.518 1020.4323
+  14872.669 1022.4755 14877.777 1024.5188 14883.907 1026.562
+  14890.037 1028.6052 14899.231 1031.6701 14899.231 1031.6701
+  14948.269 1031.6701
+  14960.528 1034.7349
+  14986.069 1041.8862
+endline
+
+line wall -close on -outline in
+  14895.145 1118.5073
+  14900.253 1111.356 14910.469 1107.2696 14915.577 1110.3344
+  14920.685 1113.3992 14963.593 1140.9828 14968.701 1147.1125
+  14973.809 1153.2422 14975.852 1165.5016 14978.917 1170.6097
+  14981.982 1175.7178 14990.155 1179.8042 14998.328 1185.9339
+  15006.501 1192.0636 15026.933 1210.4527 15026.933 1210.4527
+  15026.933 1210.4527 15052.474 1225.7769 15058.603 1229.8634
+  15064.733 1233.9498 15068.819 1246.2092 15078.014 1252.3389
+  15087.208 1258.4686 15100.489 1272.7712 15100.489 1272.7712
+  15120.922 1299.3332
+  15125.008 1313.6358
+  15125.008 1313.6358 15098.446 1317.7222 15093.338 1314.6574
+  15088.23 1311.5925 15069.841 1295.2467 15069.841 1295.2467
+  15069.841 1295.2467 15052.474 1280.9441 15048.387 1274.8144
+  15044.301 1268.6847 15031.02 1257.447 15024.89 1249.274
+  15018.76 1241.1011 14991.177 1213.5175 14977.896 1198.1933
+  14964.615 1182.8691 14944.182 1168.5665 14937.031 1162.4368
+  14929.88 1156.3071 14901.275 1137.918 14901.275 1137.918
+  14890.037 1129.7451
+  14895.145 1118.5073
+endline
+
+line wall 
+  16017.9 1842.8323
+  16017.9 1842.8323 15988.273 1799.9244 15982.143 1789.7083
+  15976.013 1779.4922 15955.581 1770.2976 15951.495 1768.2544
+  15947.408 1766.2112 15945.365 1768.2544 15941.278 1761.1031
+  15937.192 1753.9518 15924.933 1740.6708 15918.803 1736.5843
+  15912.673 1732.4979 15907.565 1723.3033 15899.392 1719.2169
+  15891.219 1715.1304 15856.484 1701.8494 15856.484 1701.8494
+  15856.484 1701.8494 15843.203 1702.871 15830.944 1698.7846
+  15818.685 1694.6981 15805.404 1692.6549 15782.928 1685.5036
+  15760.453 1678.3523 15752.28 1675.2874 15748.193 1675.2874
+  15744.107 1675.2874 15712.437 1669.1577 15712.437 1669.1577
+  15712.437 1669.1577 15689.961 1660.9848 15685.875 1657.92
+  15681.788 1654.8551 15583.713 1605.8176 15572.476 1597.6447
+  15561.238 1589.4718 15567.367 1596.6231 15545.914 1582.3205
+  15524.46 1568.0179 15510.157 1557.8017 15503.006 1552.6937
+  15495.854 1547.5856 15485.638 1543.4991 15475.422 1538.391
+  15465.206 1533.283 15402.887 1506.721 15398.801 1504.6778
+  15394.715 1502.6345 15386.542 1501.6129 15382.455 1496.5048
+  15378.369 1491.3968 15366.109 1476.0725 15363.044 1470.9645
+  15359.98 1465.8564 15357.936 1463.8132 15352.828 1461.7699
+  15347.72 1459.7267 15331.374 1459.7267 15331.374 1459.7267
+  15319.115 1448.4889
+  15305.834 1436.2296
+  15305.834 1436.2296 15279.272 1435.2079 15267.013 1428.0566
+  15254.753 1420.9053 15239.429 1414.7756 15230.235 1411.7108
+  15221.04 1408.646 15210.824 1403.5379 15206.737 1403.5379
+  15202.651 1403.5379 15182.219 1396.3866 15179.154 1391.2785
+  15176.089 1386.1704 15166.894 1382.084 15162.808 1379.0191
+  15158.721 1375.9543 15136.246 1362.6733 15127.051 1357.5652
+  15117.857 1352.4571 15080.057 1335.0897 15075.971 1333.0465
+  15071.884 1331.0032 15066.776 1334.0681 15065.755 1329.9816
+  15064.733 1325.8951 15056.56 1317.7222 15053.495 1313.6358
+  15050.43 1309.5493 15036.128 1302.398 15036.128 1302.398
+  15011.609 1289.117
+  15011.609 1289.117 14980.96 1233.9498 14969.723 1224.7553
+  14958.485 1215.5607 14914.556 1187.9771 14909.447 1178.7826
+  14904.339 1169.5881 14901.275 1163.4584 14896.166 1156.3071
+  14891.058 1149.1558 14880.842 1137.918 14873.691 1133.8316
+  14866.54 1129.7451 14826.697 1118.5073 14826.697 1118.5073
+endline
+
+line wall 
+  17596.233 2508.8711
+  17596.233 2508.8711 17570.813 2497.9767 17561.735 2490.7138
+  17552.656 2483.4509 17512.71 2461.6621 17512.71 2461.6621
+  17512.71 2461.6621 17476.395 2438.0577 17467.317 2432.6105
+  17458.238 2427.1633 17443.712 2412.6375 17436.449 2409.006
+  17429.186 2405.3745 17409.213 2387.2172 17400.135 2385.4015
+  17391.056 2383.5858 17371.083 2376.3229 17371.083 2376.3229
+  17371.083 2376.3229 17331.137 2359.9813 17316.611 2358.1656
+  17302.085 2356.3498 17247.613 2343.6397 17240.35 2338.1925
+  17233.087 2332.7454 17216.746 2325.4824 17198.589 2321.851
+  17180.431 2318.2195 17155.011 2323.6667 17147.748 2318.2195
+  17140.485 2312.7723 17071.488 2292.7993 17062.409 2290.9836
+  17053.33 2289.1679 16995.227 2276.4578 16978.885 2276.4578
+  16962.544 2276.4578 16955.281 2276.4578 16942.571 2281.9049
+  16929.861 2287.3521 16898.993 2298.2465 16898.993 2298.2465
+  16898.993 2298.2465 16877.205 2305.5094 16868.126 2303.6937
+  16859.047 2301.878 16804.575 2276.4578 16804.575 2276.4578
+  16804.575 2276.4578 16793.681 2274.642 16784.602 2267.3791
+  16775.524 2260.1162 16779.155 2258.3005 16771.892 2251.0375
+  16764.629 2243.7746 16731.946 2231.0645 16724.683 2227.4331
+  16717.42 2223.8016 16697.447 2220.1701 16677.474 2209.2758
+  16657.501 2198.3814 16639.344 2189.3027 16621.187 2176.5926
+  16603.029 2163.8825 16583.056 2149.3567 16583.056 2149.3567
+  16583.056 2149.3567 16544.926 2122.1208 16543.11 2114.8578
+  16541.295 2107.5949 16554.005 2109.4106 16530.4 2096.7005
+  16506.796 2083.9904 16468.665 2065.8331 16468.665 2058.5702
+  16468.665 2051.3073 16463.218 2044.0444 16455.955 2038.5972
+  16448.692 2033.15 16419.641 2016.8085 16412.378 2013.177
+  16405.115 2009.5455 16392.405 1998.6512 16392.405 1998.6512
+  16365.169 1980.4939
+  16365.169 1980.4939 16328.854 1936.9164 16314.328 1933.2849
+  16299.803 1929.6534 16252.594 1909.6804 16239.884 1900.6018
+  16227.173 1891.5231 16199.937 1878.813 16199.937 1878.813
+  16199.937 1878.813 16179.964 1880.6288 16172.702 1876.9973
+  16165.439 1873.3658 16159.991 1866.1029 16150.913 1862.4715
+  16141.834 1858.84 16110.967 1846.1299 16101.888 1838.867
+  16092.809 1831.6041 16063.872 1812.1838 16059.786 1809.119
+  16055.699 1806.0541 16040.375 1787.6651 16037.31 1794.8164
+  16034.245 1801.9677 16061.829 1837.7242 16061.829 1837.7242
+endline
+
+point 17566.2 2452.99 station -name 1@PinceMi
+point 17367.8 2353.38 station -name 2@PinceMi
+point 17135.7 2288.42 station -name 3@PinceMi
+point 17008.3 2259.68 station -name 4@PinceMi
+point 16814.2 2247.08 station -name 5@PinceMi
+point 16347.3 1926.22 station -name 6@PinceMi
+point 16146.7 1804.96 station -name 7@PinceMi
+point 15965.4 1717.95 station -name 8@PinceMi
+point 15729.3 1650.23 station -name 9@PinceMi
+point 15359.1 1447.48 station -name 10@PinceMi
+point 15177.2 1341.97 station -name 11@PinceMi
+point 14974.7 1056.93 station -name 12@PinceMi
+point 14763.5 1045.9 station -name 13@PinceMi
+point 14415.4 884.494 station -name 14@PinceMi
+point 14090.8 743.154 station -name 15@PinceMi
+point 13911.7 561.654 station -name 16@PinceMi
+point 13556.1 494.334 station -name 17@PinceMi
+point 13358.6 448.664 station -name 18@PinceMi
+point 13030.9 434.494 station -name 19@PinceMi
+point 12960.6 438.424 station -name 20@PinceMi
 line survey 
   17884.07 2647.8736
   17566.18 2452.9936
@@ -13402,2761 +17271,6 @@ line survey
   12960.59 438.4236
 endline
 
-line survey 
-  21796.15 1740.3936
-  21803.55 1805.3536
-endline
-
-line survey 
-  21796.15 1740.3936
-  21559.41 1865.9836
-endline
-
-line survey 
-  21796.15 1740.3936
-  21658.76 1826.2236
-endline
-
-line survey 
-  21796.15 1740.3936
-  21808.32 1786.4536
-endline
-
-line survey 
-  21796.15 1740.3936
-  21923.39 1760.8636
-endline
-
-line survey 
-  21796.15 1740.3936
-  22026.54 1771.4936
-endline
-
-line survey 
-  21796.15 1740.3936
-  21929.46 1767.1636
-endline
-
-line survey 
-  21796.15 1740.3936
-  21981.91 1810.4736
-endline
-
-line survey 
-  21796.15 1740.3936
-  22137.41 1560.0836
-endline
-
-line survey 
-  21796.15 1740.3936
-  21988.46 1654.1736
-endline
-
-line survey 
-  21796.15 1740.3936
-  22165.75 1540.3936
-endline
-
-line survey 
-  21796.15 1740.3936
-  22099.97 1595.5136
-endline
-
-line survey 
-  22099.97 1595.5136
-  22095.87 1558.5036
-endline
-
-line survey 
-  22099.97 1595.5136
-  22091.71 1614.8036
-endline
-
-line survey 
-  22099.97 1595.5136
-  22107.59 1596.3036
-endline
-
-line survey 
-  22099.97 1595.5136
-  22111.43 1594.3336
-endline
-
-line survey 
-  22099.97 1595.5136
-  22091.75 1607.3236
-endline
-
-line survey 
-  22099.97 1595.5136
-  22100.64 1611.6536
-endline
-
-line survey 
-  22099.97 1595.5136
-  22025.85 1616.7736
-endline
-
-line survey 
-  22099.97 1595.5136
-  22010.08 1641.1836
-endline
-
-line survey 
-  22099.97 1595.5136
-  21754.44 1769.9236
-endline
-
-line survey 
-  22099.97 1595.5136
-  21839.36 1688.8236
-endline
-
-line survey 
-  22099.97 1595.5136
-  22022.97 1621.4936
-endline
-
-line survey 
-  22099.97 1595.5136
-  22305.05 1546.3036
-endline
-
-line survey 
-  22099.97 1595.5136
-  22165.31 1579.7636
-endline
-
-line survey 
-  22099.97 1595.5136
-  22193.55 1567.5636
-endline
-
-line survey 
-  22099.97 1595.5136
-  22177.18 1558.1136
-endline
-
-line survey 
-  22177.18 1558.1136
-  22182.58 1589.6036
-endline
-
-line survey 
-  22177.18 1558.1136
-  22176.19 1540.3936
-endline
-
-line survey 
-  22177.18 1558.1136
-  22150.78 1525.0436
-endline
-
-line survey 
-  22177.18 1558.1136
-  22170.94 1570.7136
-endline
-
-line survey 
-  22177.18 1558.1136
-  22195.14 1582.1236
-endline
-
-line survey 
-  22177.18 1558.1136
-  22299.91 1575.8236
-endline
-
-line survey 
-  22177.18 1558.1136
-  22342.6 1555.7536
-endline
-
-line survey 
-  22177.18 1558.1136
-  22183.87 1557.7136
-endline
-
-line survey 
-  22177.18 1558.1136
-  22328.56 1550.2336
-endline
-
-line survey 
-  22328.56 1550.2336
-  22339.81 1597.4836
-endline
-
-line survey 
-  22328.56 1550.2336
-  22271.58 1512.4436
-endline
-
-line survey 
-  22328.56 1550.2336
-  22178.41 1532.5236
-endline
-
-line survey 
-  22328.56 1550.2336
-  22304.96 1564.4136
-endline
-
-line survey 
-  22328.56 1550.2336
-  22324.07 1626.2236
-endline
-
-line survey 
-  22328.56 1550.2336
-  22321.67 1567.5636
-endline
-
-line survey 
-  22328.56 1550.2336
-  22446.37 1710.8636
-endline
-
-line survey 
-  22328.56 1550.2336
-  22412.93 1778.1936
-endline
-
-line survey 
-  22328.56 1550.2336
-  22333.51 1638.8236
-endline
-
-line survey 
-  22328.56 1550.2336
-  22274.11 1616.3836
-endline
-
-line survey 
-  22328.56 1550.2336
-  22195.67 1578.9736
-endline
-
-line survey 
-  22328.56 1550.2336
-  22064.12 1586.8536
-endline
-
-line survey 
-  22328.56 1550.2336
-  22479.24 1539.6036
-endline
-
-line survey 
-  22328.56 1550.2336
-  22720.91 1513.2336
-endline
-
-line survey 
-  22328.56 1550.2336
-  22542.6 1558.5036
-endline
-
-line survey 
-  22328.56 1550.2336
-  22642.46 1537.2436
-endline
-
-line survey 
-  22642.46 1537.2436
-  22650.18 1549.8436
-endline
-
-line survey 
-  22642.46 1537.2436
-  22645.36 1481.7336
-endline
-
-line survey 
-  22642.46 1537.2436
-  22656.15 1546.3036
-endline
-
-line survey 
-  22642.46 1537.2436
-  22660.79 1531.3436
-endline
-
-line survey 
-  22642.46 1537.2436
-  22622.95 1476.6136
-endline
-
-line survey 
-  22642.46 1537.2436
-  22676.45 1521.8936
-endline
-
-line survey 
-  22642.46 1537.2436
-  22754.1 1523.0736
-endline
-
-line survey 
-  22642.46 1537.2436
-  22958.52 1503.3836
-endline
-
-line survey 
-  22642.46 1537.2436
-  22909.63 1512.4436
-endline
-
-line survey 
-  22642.46 1537.2436
-  22502.8 1540.7836
-endline
-
-line survey 
-  22642.46 1537.2436
-  22333.67 1607.3236
-endline
-
-line survey 
-  22642.46 1537.2436
-  22236.48 1569.1336
-endline
-
-line survey 
-  22642.46 1537.2436
-  22494.58 1547.0836
-endline
-
-line survey 
-  22642.46 1537.2436
-  22568.74 1549.0536
-endline
-
-line survey 
-  22642.46 1537.2436
-  22907.44 1499.0536
-endline
-
-line survey 
-  22907.44 1499.0536
-  22886.36 1560.4736
-endline
-
-line survey 
-  22907.44 1499.0536
-  22994.69 1562.8336
-endline
-
-line survey 
-  22907.44 1499.0536
-  22976.37 1506.9336
-endline
-
-line survey 
-  22907.44 1499.0536
-  22925.18 1541.9736
-endline
-
-line survey 
-  22907.44 1499.0536
-  22915.83 1538.8236
-endline
-
-line survey 
-  22907.44 1499.0536
-  22904.78 1521.8936
-endline
-
-line survey 
-  22907.44 1499.0536
-  22931.58 1517.5636
-endline
-
-line survey 
-  22907.44 1499.0536
-  23076.56 1510.4736
-endline
-
-line survey 
-  22907.44 1499.0536
-  23092.9 1497.0836
-endline
-
-line survey 
-  22907.44 1499.0536
-  23003.39 1475.4336
-endline
-
-line survey 
-  22907.44 1499.0536
-  23075.2 1444.3336
-endline
-
-line survey 
-  22907.44 1499.0536
-  23110.42 1507.7136
-endline
-
-line survey 
-  22907.44 1499.0536
-  23075.84 1512.0436
-endline
-
-line survey 
-  22907.44 1499.0536
-  22733.32 1520.7136
-endline
-
-line survey 
-  22907.44 1499.0536
-  22681.73 1520.7136
-endline
-
-line survey 
-  22907.44 1499.0536
-  22556.27 1528.5836
-endline
-
-line survey 
-  22907.44 1499.0536
-  22780.56 1530.5536
-endline
-
-line survey 
-  22907.44 1499.0536
-  22902.16 1500.6336
-endline
-
-line survey 
-  22907.44 1499.0536
-  23072.45 1473.8636
-endline
-
-line survey 
-  23072.45 1473.8636
-  23065.03 1534.0936
-endline
-
-line survey 
-  23072.45 1473.8636
-  23091.94 1480.5536
-endline
-
-line survey 
-  23072.45 1473.8636
-  23050.48 1493.5436
-endline
-
-line survey 
-  23072.45 1473.8636
-  22983.73 1464.8036
-endline
-
-line survey 
-  23072.45 1473.8636
-  23048.6 1451.0236
-endline
-
-line survey 
-  23072.45 1473.8636
-  23107.95 1438.0336
-endline
-
-line survey 
-  23072.45 1473.8636
-  23132.5 1447.8736
-endline
-
-line survey 
-  23072.45 1473.8636
-  23183.13 1428.5836
-endline
-
-line survey 
-  23072.45 1473.8636
-  23196.98 1416.7736
-endline
-
-line survey 
-  23072.45 1473.8636
-  22894.37 1531.3436
-endline
-
-line survey 
-  23072.45 1473.8636
-  23014.35 1470.7136
-endline
-
-line survey 
-  23072.45 1473.8636
-  23036.54 1449.4536
-endline
-
-line survey 
-  23072.45 1473.8636
-  22895.8 1530.1536
-endline
-
-line survey 
-  23072.45 1473.8636
-  22797.65 1551.0236
-endline
-
-line survey 
-  23072.45 1473.8636
-  22824.56 1532.1236
-endline
-
-line survey 
-  23072.45 1473.8636
-  23181.15 1404.5636
-endline
-
-line survey 
-  23181.15 1404.5636
-  23156.87 1462.8336
-endline
-
-line survey 
-  23181.15 1404.5636
-  23130.79 1435.2736
-endline
-
-line survey 
-  23181.15 1404.5636
-  23266.6 1382.9136
-endline
-
-line survey 
-  23266.6 1382.9136
-  23273.56 1452.2036
-endline
-
-line survey 
-  23266.6 1382.9136
-  23249.22 1443.9336
-endline
-
-line survey 
-  23266.6 1382.9136
-  23247.66 1418.3436
-endline
-
-line survey 
-  23266.6 1382.9136
-  23238.41 1400.2336
-endline
-
-line survey 
-  23266.6 1382.9136
-  23278.23 1453.3836
-endline
-
-line survey 
-  23266.6 1382.9136
-  23285.17 1440.7836
-endline
-
-line survey 
-  23266.6 1382.9136
-  23293.22 1425.8236
-endline
-
-line survey 
-  23266.6 1382.9136
-  23284.13 1395.1236
-endline
-
-line survey 
-  23266.6 1382.9136
-  23314.06 1505.7536
-endline
-
-line survey 
-  23266.6 1382.9136
-  23291.96 1531.3436
-endline
-
-line survey 
-  23266.6 1382.9136
-  23261.9 1523.4636
-endline
-
-line survey 
-  23266.6 1382.9136
-  23240.65 1432.1236
-endline
-
-line survey 
-  23266.6 1382.9136
-  23781.57 1202.6036
-endline
-
-line survey 
-  23266.6 1382.9136
-  23602.14 1274.2536
-endline
-
-line survey 
-  23266.6 1382.9136
-  23855.88 1161.2636
-endline
-
-line survey 
-  23855.88 1161.2636
-  23844.63 1199.8436
-endline
-
-line survey 
-  23855.88 1161.2636
-  23826.8 1198.6636
-endline
-
-line survey 
-  23855.88 1161.2636
-  23779.59 1240.0036
-endline
-
-line survey 
-  23855.88 1161.2636
-  23810.85 1187.2436
-endline
-
-line survey 
-  23855.88 1161.2636
-  23757.6 1191.1836
-endline
-
-line survey 
-  23855.88 1161.2636
-  23610.13 1243.1536
-endline
-
-line survey 
-  23855.88 1161.2636
-  23373.48 1319.9236
-endline
-
-line survey 
-  23855.88 1161.2636
-  23446.67 1280.9436
-endline
-
-line survey 
-  23855.88 1161.2636
-  23357.24 1318.7436
-endline
-
-line survey 
-  23855.88 1161.2636
-  23844.83 1108.9036
-endline
-
-line survey 
-  23855.88 1161.2636
-  24051.49 1065.1936
-endline
-
-line survey 
-  23855.88 1161.2636
-  24081.07 1034.4936
-endline
-
-line survey 
-  23855.88 1161.2636
-  23927.29 1135.6736
-endline
-
-line survey 
-  23855.88 1161.2636
-  23998.68 1069.1336
-endline
-
-line survey 
-  23998.68 1069.1336
-  23999.14 1129.3736
-endline
-
-line survey 
-  23998.68 1069.1336
-  23993.63 1121.4936
-endline
-
-line survey 
-  23998.68 1069.1336
-  24023.96 1078.5836
-endline
-
-line survey 
-  23998.68 1069.1336
-  23997.28 1090.7836
-endline
-
-line survey 
-  23998.68 1069.1336
-  23998.06 1109.6836
-endline
-
-line survey 
-  23998.68 1069.1336
-  24001.74 1093.5436
-endline
-
-line survey 
-  23998.68 1069.1336
-  24081.18 1047.4836
-endline
-
-line survey 
-  23998.68 1069.1336
-  24060.23 1056.5336
-endline
-
-line survey 
-  23998.68 1069.1336
-  24125.26 1027.4036
-endline
-
-line survey 
-  23998.68 1069.1336
-  24375.03 922.2836
-endline
-
-line survey 
-  23998.68 1069.1336
-  24397.08 906.5336
-endline
-
-line survey 
-  23998.68 1069.1336
-  24390.05 909.6836
-endline
-
-line survey 
-  23998.68 1069.1336
-  24149.86 1006.9336
-endline
-
-line survey 
-  23998.68 1069.1336
-  24238.33 930.5536
-endline
-
-line survey 
-  23998.68 1069.1336
-  24092.19 1059.6836
-endline
-
-line survey 
-  23998.68 1069.1336
-  23624.98 1245.1236
-endline
-
-line survey 
-  23998.68 1069.1336
-  23844.96 1162.4436
-endline
-
-line survey 
-  23998.68 1069.1336
-  23892.84 1117.5636
-endline
-
-line survey 
-  23998.68 1069.1336
-  24354.82 918.7436
-endline
-
-line survey 
-  24354.82 918.7436
-  24348.57 982.1236
-endline
-
-line survey 
-  24354.82 918.7436
-  24349.14 964.4136
-endline
-
-line survey 
-  24354.82 918.7436
-  24354.39 927.4036
-endline
-
-line survey 
-  24354.82 918.7436
-  24353.68 916.3836
-endline
-
-line survey 
-  24354.82 918.7436
-  24392.3 1032.9136
-endline
-
-line survey 
-  24354.82 918.7436
-  24199.74 1006.5336
-endline
-
-line survey 
-  24354.82 918.7436
-  24134.98 1027.7936
-endline
-
-line survey 
-  24354.82 918.7436
-  24077.39 1058.9036
-endline
-
-line survey 
-  24354.82 918.7436
-  23787.89 1165.5936
-endline
-
-line survey 
-  24354.82 918.7436
-  24239.49 974.6436
-endline
-
-line survey 
-  24354.82 918.7436
-  24330.94 957.3236
-endline
-
-line survey 
-  24354.82 918.7436
-  24480.43 845.9036
-endline
-
-line survey 
-  24354.82 918.7436
-  24675.15 736.4536
-endline
-
-line survey 
-  24354.82 918.7436
-  24548.49 810.8636
-endline
-
-line survey 
-  24354.82 918.7436
-  24550.57 797.0836
-endline
-
-line survey 
-  24550.57 797.0836
-  24549.89 832.1236
-endline
-
-line survey 
-  24550.57 797.0836
-  24535.23 828.9736
-endline
-
-line survey 
-  24550.57 797.0836
-  24546.43 821.8936
-endline
-
-line survey 
-  24550.57 797.0836
-  24563.72 801.4136
-endline
-
-line survey 
-  24550.57 797.0836
-  24560.79 795.9036
-endline
-
-line survey 
-  24550.57 797.0836
-  24691.9 750.6336
-endline
-
-line survey 
-  24550.57 797.0836
-  24671.38 755.3536
-endline
-
-line survey 
-  24550.57 797.0836
-  24800.49 698.2736
-endline
-
-line survey 
-  24550.57 797.0836
-  24618.08 770.3136
-endline
-
-line survey 
-  24550.57 797.0836
-  24738.78 712.4436
-endline
-
-line survey 
-  24550.57 797.0836
-  24663.63 742.3636
-endline
-
-line survey 
-  24550.57 797.0836
-  24791.68 708.1136
-endline
-
-line survey 
-  24791.68 708.1136
-  24805.19 740.3936
-endline
-
-line survey 
-  24791.68 708.1136
-  24757.75 769.5236
-endline
-
-line survey 
-  24791.68 708.1136
-  24748.21 756.9336
-endline
-
-line survey 
-  24791.68 708.1136
-  24782.57 688.4236
-endline
-
-line survey 
-  24791.68 708.1136
-  24927.06 634.8836
-endline
-
-line survey 
-  24791.68 708.1136
-  25002.46 632.1236
-endline
-
-line survey 
-  25002.46 632.1236
-  25003.73 671.1036
-endline
-
-line survey 
-  25002.46 632.1236
-  25015.71 656.5336
-endline
-
-line survey 
-  25002.46 632.1236
-  25017.98 618.7436
-endline
-
-line survey 
-  25002.46 632.1236
-  24965.96 669.1336
-endline
-
-line survey 
-  25002.46 632.1236
-  24991.32 649.8436
-endline
-
-line survey 
-  25002.46 632.1236
-  25054.93 638.8236
-endline
-
-line survey 
-  25002.46 632.1236
-  25105.3 649.4536
-endline
-
-line survey 
-  25002.46 632.1236
-  25060.61 604.1736
-endline
-
-line survey 
-  25002.46 632.1236
-  25098.97 649.4536
-endline
-
-line survey 
-  25098.97 649.4536
-  25090.61 667.5636
-endline
-
-line survey 
-  25098.97 649.4536
-  25077.02 665.1936
-endline
-
-line survey 
-  25098.97 649.4536
-  25094.76 655.3536
-endline
-
-line survey 
-  25098.97 649.4536
-  25094.25 639.6036
-endline
-
-line survey 
-  25098.97 649.4536
-  25143.58 656.5336
-endline
-
-line survey 
-  25098.97 649.4536
-  25185.95 646.3036
-endline
-
-line survey 
-  25098.97 649.4536
-  25149.4 638.4236
-endline
-
-line survey 
-  25149.4 638.4236
-  25100.38 682.9136
-endline
-
-line survey 
-  25149.4 638.4236
-  25119.86 690.7836
-endline
-
-line survey 
-  25149.4 638.4236
-  25145.05 646.3036
-endline
-
-line survey 
-  25149.4 638.4236
-  25165.14 632.1236
-endline
-
-line survey 
-  25149.4 638.4236
-  25181.98 626.2236
-endline
-
-line survey 
-  25149.4 638.4236
-  25158.19 674.6436
-endline
-
-line survey 
-  25149.4 638.4236
-  25127.39 656.9336
-endline
-
-line survey 
-  25149.4 638.4236
-  25122.23 648.2736
-endline
-
-line survey 
-  25149.4 638.4236
-  25119.87 669.5236
-endline
-
-line survey 
-  25149.4 638.4236
-  25210.82 667.9536
-endline
-
-line survey 
-  25149.4 638.4236
-  25218.35 662.4436
-endline
-
-line survey 
-  25149.4 638.4236
-  25199.98 612.8336
-endline
-
-line survey 
-  25149.4 638.4236
-  25189.09 621.4936
-endline
-
-line survey 
-  25149.4 638.4236
-  25238.05 581.7336
-endline
-
-line survey 
-  25149.4 638.4236
-  25240.35 577.4036
-endline
-
-line survey 
-  25149.4 638.4236
-  25219.58 604.5636
-endline
-
-line survey 
-  25219.58 604.5636
-  25204.76 602.2036
-endline
-
-line survey 
-  25219.58 604.5636
-  25213.54 612.4436
-endline
-
-line survey 
-  25219.58 604.5636
-  25224.73 610.0836
-endline
-
-line survey 
-  25219.58 604.5636
-  25241.94 619.9236
-endline
-
-line survey 
-  25219.58 604.5636
-  25219.58 524.6436
-endline
-
-line survey 
-  25219.58 524.6436
-  25274.64 616.3836
-endline
-
-line survey 
-  25219.58 524.6436
-  25230.29 560.0836
-endline
-
-line survey 
-  25219.58 524.6436
-  25234.03 547.8736
-endline
-
-line survey 
-  25219.58 524.6436
-  25214.17 536.0636
-endline
-
-line survey 
-  25219.58 524.6436
-  25219.42 521.4936
-endline
-
-line survey 
-  25219.58 524.6436
-  25258.52 502.9936
-endline
-
-line survey 
-  25219.58 524.6436
-  25265.38 581.3436
-endline
-
-line survey 
-  25219.58 524.6436
-  25244.95 554.1736
-endline
-
-line survey 
-  25219.58 524.6436
-  25249.3 546.3036
-endline
-
-line survey 
-  25219.58 524.6436
-  25229.4 507.7136
-endline
-
-line survey 
-  25219.58 524.6436
-  25301.34 478.9736
-endline
-
-line survey 
-  25219.58 524.6436
-  25339.52 470.7136
-endline
-
-line survey 
-  2906.8898 1883.7036
-  3304.9998 2217.5636
-endline
-
-line survey 
-  3304.9998 2217.5636
-  3509.0998 2260.8636
-endline
-
-line survey 
-  3509.0998 2260.8636
-  3586.9598 2500.6336
-endline
-
-line survey 
-  3304.9998 2217.5636
-  3592.7498 2263.2336
-endline
-
-line survey 
-  3592.7498 2263.2336
-  3730.8798 2302.6036
-endline
-
-line survey 
-  3730.8798 2302.6036
-  3905.8098 2449.4536
-endline
-
-line survey 
-  3730.8798 2302.6036
-  3632.0098 2276.2236
-endline
-
-line survey 
-  3632.0098 2276.2236
-  3510.0698 2102.2036
-endline
-
-line survey 
-  3510.0698 2102.2036
-  3308.8998 1986.0636
-endline
-
-line survey 
-  3308.8998 1986.0636
-  3052.0398 1632.5236
-endline
-
-line survey 
-  3052.0398 1632.5236
-  2990.1798 1416.7736
-endline
-
-line survey 
-  2990.1798 1416.7736
-  2712.6398 1148.6636
-endline
-
-line survey 
-  2712.6398 1148.6636
-  2417.2298 941.9736
-endline
-
-line survey 
-  2417.2298 941.9736
-  2343.5998 870.7136
-endline
-
-line survey 
-  2343.5998 870.7136
-  2288.0598 794.3336
-endline
-
-line survey 
-  2343.5998 870.7136
-  2555.3898 852.2036
-endline
-
-line survey 
-  2555.3898 852.2036
-  3007.6298 915.5936
-endline
-
-line survey 
-  3007.6298 915.5936
-  3357.4998 1009.6836
-endline
-
-line survey 
-  1086.5798 759.6836
-  1314.9398 862.8336
-endline
-
-line survey 
-  1314.9398 862.8336
-  1511.5198 870.3136
-endline
-
-line survey 
-  1511.5198 870.3136
-  1813.3098 941.1836
-endline
-
-line survey 
-  2184.1898 827.7936
-  2376.6298 811.2636
-endline
-
-line survey 
-  2376.6298 811.2636
-  2704.8798 764.4136
-endline
-
-line survey 
-  2704.8798 764.4136
-  2905.5398 754.5636
-endline
-
-line survey 
-  1991.9698 662.0436
-  2179.4998 773.0736
-endline
-
-line survey 
-  2179.4998 773.0736
-  2288.0598 794.3336
-endline
-
-line survey 
-  2288.0598 794.3336
-  2444.4898 882.5236
-endline
-
-line survey 
-  2444.4898 882.5236
-  2622.8398 854.5636
-endline
-
-line survey 
-  2622.8398 854.5636
-  3064.8398 944.3336
-endline
-
-line survey 
-  3064.8398 944.3336
-  3131.7698 944.3336
-endline
-
-line survey 
-  3131.7698 944.3336
-  3411.0098 1254.1736
-endline
-
-line survey 
-  3064.8398 944.3336
-  3130.2998 961.6536
-endline
-
-line survey 
-  3130.2998 961.6536
-  3290.8698 1040.3936
-endline
-
-line survey 
-  3290.8698 1040.3936
-  3672.1198 1118.3436
-endline
-
-line survey 
-  3672.1198 1118.3436
-  3904.3998 1117.1636
-endline
-
-line survey 
-  3904.3998 1117.1636
-  4304.4498 1149.4536
-endline
-
-line survey 
-  4304.4498 1149.4536
-  4688.4698 1262.8336
-endline
-
-line survey 
-  1991.9698 662.0436
-  1623.2998 625.0436
-endline
-
-line survey 
-  1623.2998 625.0436
-  1548.4998 624.2536
-endline
-
-line survey 
-  1548.4998 624.2536
-  1548.4998 503.3836
-endline
-
-line survey 
-  4688.4698 1262.8336
-  5330.7398 1547.4836
-endline
-
-line survey 
-  3290.8698 1040.3936
-  3041.3498 1082.9136
-endline
-
-line survey 
-  3041.3498 1082.9136
-  2808.2798 1004.5636
-endline
-
-line survey 
-  2808.2798 1004.5636
-  2580.1098 949.8436
-endline
-
-line survey 
-  2580.1098 949.8436
-  2507.7298 890.7836
-endline
-
-line survey 
-  2507.7298 890.7836
-  2367.1398 843.9336
-endline
-
-line survey 
-  2367.1398 843.9336
-  2224.4198 782.9136
-endline
-
-line survey 
-  2224.4198 782.9136
-  2034.4298 754.5636
-endline
-
-line survey 
-  2497.4298 754.5636
-  2288.0598 794.3336
-endline
-
-line survey 
-  15738.41 2956.1436
-  15686.95 2957.7136
-endline
-
-line survey 
-  15738.41 2956.1436
-  15709.62 3019.5236
-endline
-
-line survey 
-  15738.41 2956.1436
-  15748.06 3010.8636
-endline
-
-line survey 
-  15738.41 2956.1436
-  15780.63 2957.7136
-endline
-
-line survey 
-  15738.41 2956.1436
-  15784.67 2917.1636
-endline
-
-line survey 
-  15738.41 2956.1436
-  15940.11 2977.7936
-endline
-
-line survey 
-  15940.11 2977.7936
-  15944.29 3037.6436
-endline
-
-line survey 
-  15940.11 2977.7936
-  16063.55 3012.0436
-endline
-
-line survey 
-  15940.11 2977.7936
-  15863.56 2877.0136
-endline
-
-line survey 
-  15940.11 2977.7936
-  15953.73 2982.5236
-endline
-
-line survey 
-  15940.11 2977.7936
-  15939.98 3034.4936
-endline
-
-line survey 
-  15940.11 2977.7936
-  15936.47 2927.4036
-endline
-
-line survey 
-  15940.11 2977.7936
-  16040.73 2984.4936
-endline
-
-line survey 
-  15940.11 2977.7936
-  16176.98 2994.3336
-endline
-
-line survey 
-  16176.98 2994.3336
-  16178.1 3016.3836
-endline
-
-line survey 
-  16176.98 2994.3336
-  16194.32 3021.1036
-endline
-
-line survey 
-  16176.98 2994.3336
-  16148.77 3001.4136
-endline
-
-line survey 
-  16176.98 2994.3336
-  16192.97 2955.3536
-endline
-
-line survey 
-  16176.98 2994.3336
-  16174.3 2998.6636
-endline
-
-line survey 
-  16176.98 2994.3336
-  16356.17 3046.6936
-endline
-
-line survey 
-  16356.17 3046.6936
-  16302.99 3059.6836
-endline
-
-line survey 
-  16356.17 3046.6936
-  16337.0 3086.4536
-endline
-
-line survey 
-  16356.17 3046.6936
-  16355.04 3069.1336
-endline
-
-line survey 
-  16356.17 3046.6936
-  16334.97 3010.8636
-endline
-
-line survey 
-  16356.17 3046.6936
-  16322.96 2989.2136
-endline
-
-line survey 
-  16356.17 3046.6936
-  16487.3 3162.4436
-endline
-
-line survey 
-  16356.17 3046.6936
-  16670.69 3135.6736
-endline
-
-line survey 
-  16670.69 3135.6736
-  16670.82 3151.0236
-endline
-
-line survey 
-  16670.69 3135.6736
-  16670.35 3173.0736
-endline
-
-line survey 
-  16670.69 3135.6736
-  16661.34 3148.2736
-endline
-
-line survey 
-  16670.69 3135.6736
-  16672.74 3113.6236
-endline
-
-line survey 
-  16670.69 3135.6736
-  16810.88 3231.3436
-endline
-
-line survey 
-  16670.69 3135.6736
-  16812.67 3231.3436
-endline
-
-line survey 
-  16670.69 3135.6736
-  16811.63 3230.5536
-endline
-
-line survey 
-  16811.63 3230.5536
-  16825.64 3255.7536
-endline
-
-line survey 
-  16811.63 3230.5536
-  16832.87 3243.5436
-endline
-
-line survey 
-  16811.63 3230.5536
-  16841.8 3197.4836
-endline
-
-line survey 
-  16811.63 3230.5536
-  16842.16 3201.4136
-endline
-
-line survey 
-  16811.63 3230.5536
-  17045.52 3338.8236
-endline
-
-line survey 
-  17045.52 3338.8236
-  17049.35 3343.9336
-endline
-
-line survey 
-  17045.52 3338.8236
-  17057.96 3335.2736
-endline
-
-line survey 
-  17045.52 3338.8236
-  17065.41 3315.1936
-endline
-
-line survey 
-  17045.52 3338.8236
-  17043.47 3332.9136
-endline
-
-line survey 
-  17045.52 3338.8236
-  17165.19 3375.8236
-endline
-
-line survey 
-  17165.19 3375.8236
-  17153.16 3412.8336
-endline
-
-line survey 
-  17165.19 3375.8236
-  17166.57 3419.9236
-endline
-
-line survey 
-  17165.19 3375.8236
-  17160.18 3389.6036
-endline
-
-line survey 
-  17165.19 3375.8236
-  17166.54 3365.5936
-endline
-
-line survey 
-  17165.19 3375.8236
-  17295.73 3499.8436
-endline
-
-line survey 
-  17165.19 3375.8236
-  17239.05 3373.4636
-endline
-
-line survey 
-  17239.05 3373.4636
-  17242.3 3461.6536
-endline
-
-line survey 
-  17239.05 3373.4636
-  17232.42 3416.7736
-endline
-
-line survey 
-  17239.05 3373.4636
-  17235.86 3377.4036
-endline
-
-line survey 
-  17239.05 3373.4636
-  17246.07 3357.7136
-endline
-
-line survey 
-  17239.05 3373.4636
-  17230.24 3386.0636
-endline
-
-line survey 
-  17239.05 3373.4636
-  17123.66 3338.8236
-endline
-
-line survey 
-  17239.05 3373.4636
-  17741.45 3606.9336
-endline
-
-line survey 
-  17239.05 3373.4636
-  17743.6 3607.7136
-endline
-
-line survey 
-  17239.05 3373.4636
-  17742.7 3607.3236
-endline
-
-line survey 
-  17742.7 3607.3236
-  17761.54 3609.6836
-endline
-
-line survey 
-  17742.7 3607.3236
-  17756.27 3582.1236
-endline
-
-line survey 
-  17742.7 3607.3236
-  17736.51 3577.4036
-endline
-
-line survey 
-  17742.7 3607.3236
-  17742.72 3617.5636
-endline
-
-line survey 
-  17742.7 3607.3236
-  17739.85 3657.3236
-endline
-
-line survey 
-  17742.7 3607.3236
-  17834.95 3524.2536
-endline
-
-line survey 
-  17742.7 3607.3236
-  17914.28 3641.9736
-endline
-
-line survey 
-  17914.28 3641.9736
-  17916.57 3682.5236
-endline
-
-line survey 
-  17914.28 3641.9736
-  17915.1 3652.2036
-endline
-
-line survey 
-  17914.28 3641.9736
-  17912.7 3619.1336
-endline
-
-line survey 
-  17914.28 3641.9736
-  17917.12 3529.3736
-endline
-
-line survey 
-  17914.28 3641.9736
-  17912.43 3645.5136
-endline
-
-line survey 
-  17914.28 3641.9736
-  18276.94 3794.3336
-endline
-
-line survey 
-  18276.94 3794.3336
-  18278.17 3810.0836
-endline
-
-line survey 
-  18276.94 3794.3336
-  18280.01 3795.5136
-endline
-
-line survey 
-  18276.94 3794.3336
-  18279.32 3736.4536
-endline
-
-line survey 
-  18276.94 3794.3336
-  18242.09 3694.3336
-endline
-
-line survey 
-  18276.94 3794.3336
-  18235.7 3694.3336
-endline
-
-line survey 
-  18276.94 3794.3336
-  18269.31 3818.7436
-endline
-
-line survey 
-  18276.94 3794.3336
-  18416.3 3835.6736
-endline
-
-line survey 
-  18416.3 3835.6736
-  18438.4 3862.8336
-endline
-
-line survey 
-  18416.3 3835.6736
-  18390.74 3824.2536
-endline
-
-line survey 
-  18416.3 3835.6736
-  18479.42 3783.7036
-endline
-
-line survey 
-  18416.3 3835.6736
-  18441.02 3825.0436
-endline
-
-line survey 
-  18416.3 3835.6736
-  18389.67 3770.7136
-endline
-
-line survey 
-  18416.3 3835.6736
-  18417.48 3797.4836
-endline
-
-line survey 
-  18416.3 3835.6736
-  18507.65 3807.3236
-endline
-
-line survey 
-  18507.65 3807.3236
-  18494.72 3814.8036
-endline
-
-line survey 
-  18507.65 3807.3236
-  18466.39 3822.2836
-endline
-
-line survey 
-  18507.65 3807.3236
-  18512.27 3828.1936
-endline
-
-line survey 
-  18507.65 3807.3236
-  18555.03 3795.5136
-endline
-
-line survey 
-  18507.65 3807.3236
-  18505.28 3794.3336
-endline
-
-line survey 
-  18507.65 3807.3236
-  18501.75 3841.1836
-endline
-
-line survey 
-  18507.65 3807.3236
-  18557.88 3814.4136
-endline
-
-line survey 
-  18557.88 3814.4136
-  18529.0 3820.3136
-endline
-
-line survey 
-  18557.88 3814.4136
-  18569.0 3830.5536
-endline
-
-line survey 
-  18557.88 3814.4136
-  18570.05 3794.7236
-endline
-
-line survey 
-  18557.88 3814.4136
-  18707.56 3862.8336
-endline
-
-line survey 
-  18707.56 3862.8336
-  18697.1 3869.9236
-endline
-
-line survey 
-  18707.56 3862.8336
-  18680.8 3856.5336
-endline
-
-line survey 
-  18707.56 3862.8336
-  18689.69 3829.3736
-endline
-
-line survey 
-  18707.56 3862.8336
-  18704.5 3871.1036
-endline
-
-line survey 
-  18707.56 3862.8336
-  18778.81 3877.0136
-endline
-
-line survey 
-  18778.81 3877.0136
-  18759.99 3893.1536
-endline
-
-line survey 
-  18778.81 3877.0136
-  18739.49 3877.0136
-endline
-
-line survey 
-  18778.81 3877.0136
-  18803.76 3843.9336
-endline
-
-line survey 
-  18778.81 3877.0136
-  19106.56 3915.5936
-endline
-
-line survey 
-  19106.56 3915.5936
-  19110.55 3928.5836
-endline
-
-line survey 
-  19106.56 3915.5936
-  19113.66 3915.9836
-endline
-
-line survey 
-  19106.56 3915.5936
-  19106.69 3884.8836
-endline
-
-line survey 
-  19106.56 3915.5936
-  19222.03 3884.0936
-endline
-
-line survey 
-  19222.03 3884.0936
-  19232.36 3902.9936
-endline
-
-line survey 
-  19222.03 3884.0936
-  19227.26 3888.0336
-endline
-
-line survey 
-  19222.03 3884.0936
-  19227.67 3863.2336
-endline
-
-line survey 
-  19222.03 3884.0936
-  19231.35 3749.0536
-endline
-
-line survey 
-  19222.03 3884.0936
-  19392.24 3872.6736
-endline
-
-line survey 
-  19392.24 3872.6736
-  19386.28 3932.1236
-endline
-
-line survey 
-  19392.24 3872.6736
-  19379.8 3939.2136
-endline
-
-line survey 
-  19392.24 3872.6736
-  19381.27 3875.8236
-endline
-
-line survey 
-  19392.24 3872.6736
-  19398.99 3813.2336
-endline
-
-line survey 
-  19392.24 3872.6736
-  19429.83 3919.1336
-endline
-
-line survey 
-  19429.83 3919.1336
-  19432.99 3968.7436
-endline
-
-line survey 
-  19429.83 3919.1336
-  19425.27 3954.1736
-endline
-
-line survey 
-  19429.83 3919.1336
-  19429.27 3919.5236
-endline
-
-line survey 
-  19429.83 3919.1336
-  19419.97 3823.8636
-endline
-
-line survey 
-  19429.83 3919.1336
-  19575.3 3919.9236
-endline
-
-line survey 
-  19575.3 3919.9236
-  19575.5 3915.9836
-endline
-
-line survey 
-  19575.3 3919.9236
-  19577.18 3898.2736
-endline
-
-line survey 
-  19575.3 3919.9236
-  19562.82 3918.7436
-endline
-
-line survey 
-  19575.3 3919.9236
-  19591.54 3908.5036
-endline
-
-line survey 
-  19575.3 3919.9236
-  19743.01 3963.2336
-endline
-
-line survey 
-  19743.01 3963.2336
-  19744.93 3990.7836
-endline
-
-line survey 
-  19743.01 3963.2336
-  19742.66 3977.7936
-endline
-
-line survey 
-  19743.01 3963.2336
-  19749.39 3973.8636
-endline
-
-line survey 
-  19743.01 3963.2336
-  19735.93 3907.7136
-endline
-
-line survey 
-  19743.01 3963.2336
-  19832.59 3997.0836
-endline
-
-line survey 
-  19832.59 3997.0836
-  19828.21 4033.7036
-endline
-
-line survey 
-  19832.59 3997.0836
-  19840.75 3994.7236
-endline
-
-line survey 
-  19832.59 3997.0836
-  19844.25 3920.7136
-endline
-
-line survey 
-  19832.59 3997.0836
-  19902.07 4006.1436
-endline
-
-line survey 
-  19902.07 4006.1436
-  19898.2 4032.1236
-endline
-
-line survey 
-  19902.07 4006.1436
-  19922.37 4022.6736
-endline
-
-line survey 
-  19902.07 4006.1436
-  19910.33 4006.9336
-endline
-
-line survey 
-  19902.07 4006.1436
-  19882.87 3998.2736
-endline
-
-line survey 
-  19902.07 4006.1436
-  19906.67 3922.6736
-endline
-
-line survey 
-  19902.07 4006.1436
-  20019.79 4051.0236
-endline
-
-line survey 
-  20019.79 4051.0236
-  20026.0 4037.6436
-endline
-
-line survey 
-  20019.79 4051.0236
-  20027.1 4036.0636
-endline
-
-line survey 
-  20019.79 4051.0236
-  20034.15 3975.0436
-endline
-
-line survey 
-  20019.79 4051.0236
-  20240.82 4075.0436
-endline
-
-line survey 
-  20240.82 4075.0436
-  20254.68 4193.9336
-endline
-
-line survey 
-  20240.82 4075.0436
-  20227.05 4103.7836
-endline
-
-line survey 
-  20240.82 4075.0436
-  20221.61 4094.7236
-endline
-
-line survey 
-  20240.82 4075.0436
-  20246.94 4059.6836
-endline
-
-line survey 
-  20240.82 4075.0436
-  20242.81 3997.8736
-endline
-
-line survey 
-  20240.82 4075.0436
-  20541.32 4072.2836
-endline
-
-line survey 
-  20541.32 4072.2836
-  20527.74 4237.2436
-endline
-
-line survey 
-  20541.32 4072.2836
-  20549.01 4083.7036
-endline
-
-line survey 
-  20541.32 4072.2836
-  20535.75 4065.5936
-endline
-
-line survey 
-  20541.32 4072.2836
-  20551.23 4038.4236
-endline
-
-line survey 
-  20541.32 4072.2836
-  20562.94 4011.6536
-endline
-
-line survey 
-  20541.32 4072.2836
-  20755.52 4036.4536
-endline
-
-line survey 
-  20755.52 4036.4536
-  20758.2 4061.2636
-endline
-
-line survey 
-  20755.52 4036.4536
-  20761.49 4041.1836
-endline
-
-line survey 
-  20755.52 4036.4536
-  20730.18 4041.5736
-endline
-
-line survey 
-  20755.52 4036.4536
-  20748.23 4023.4636
-endline
-
-line survey 
-  20755.52 4036.4536
-  20986.06 4027.0136
-endline
-
-line survey 
-  20755.52 4036.4536
-  20981.32 4026.6136
-endline
-
-line survey 
-  20755.52 4036.4536
-  20982.19 4027.4036
-endline
-
-line survey 
-  19222.03 3884.0936
-  19239.55 3817.1636
-endline
-
-line survey 
-  19239.55 3817.1636
-  19232.09 3820.7136
-endline
-
-line survey 
-  19239.55 3817.1636
-  19249.13 3817.9536
-endline
-
-line survey 
-  19239.55 3817.1636
-  19224.67 3816.3836
-endline
-
-line survey 
-  19239.55 3817.1636
-  19236.29 3903.3836
-endline
-
-line survey 
-  19239.55 3817.1636
-  19236.73 3749.8436
-endline
-
-line survey 
-  19239.55 3817.1636
-  19129.98 3794.3336
-endline
-
-line survey 
-  19129.98 3794.3336
-  19122.08 3810.8636
-endline
-
-line survey 
-  19129.98 3794.3336
-  19101.94 3815.5936
-endline
-
-line survey 
-  19129.98 3794.3336
-  19117.05 3784.0936
-endline
-
-line survey 
-  19129.98 3794.3336
-  19119.34 3732.1236
-endline
-
-line survey 
-  19129.98 3794.3336
-  18971.78 3787.2436
-endline
-
-line survey 
-  18971.78 3787.2436
-  18968.88 3804.5636
-endline
-
-line survey 
-  18971.78 3787.2436
-  18983.93 3823.0736
-endline
-
-line survey 
-  18971.78 3787.2436
-  18966.79 3810.8636
-endline
-
-line survey 
-  18971.78 3787.2436
-  18973.54 3794.3336
-endline
-
-line survey 
-  18971.78 3787.2436
-  18959.82 3689.6036
-endline
-
-line survey 
-  18971.78 3787.2436
-  18918.08 3694.3336
-endline
-
-line survey 
-  18918.08 3694.3336
-  18909.88 3692.3636
-endline
-
-line survey 
-  18918.08 3694.3336
-  18909.58 3645.5136
-endline
-
-line survey 
-  18918.08 3694.3336
-  18916.48 3698.2736
-endline
-
-line survey 
-  18918.08 3694.3336
-  18908.76 3819.9236
-endline
-
-line survey 
-  18918.08 3694.3336
-  18810.08 3676.6136
-endline
-
-line survey 
-  18810.08 3676.6136
-  18797.81 3754.1736
-endline
-
-line survey 
-  18810.08 3676.6136
-  18798.04 3676.6136
-endline
-
-line survey 
-  18810.08 3676.6136
-  18802.38 3616.7736
-endline
-
-line survey 
-  18810.08 3676.6136
-  18738.18 3648.6636
-endline
-
-line survey 
-  18738.18 3648.6636
-  18722.12 3734.0936
-endline
-
-line survey 
-  18738.18 3648.6636
-  18726.33 3647.0836
-endline
-
-line survey 
-  18738.18 3648.6636
-  18723.46 3602.2036
-endline
-
-line survey 
-  18738.18 3648.6636
-  18683.41 3600.6336
-endline
-
-line survey 
-  18683.41 3600.6336
-  18678.7 3704.1736
-endline
-
-line survey 
-  18683.41 3600.6336
-  18663.27 3599.4536
-endline
-
-line survey 
-  18683.41 3600.6336
-  18672.16 3551.4136
-endline
-
-line survey 
-  18683.41 3600.6336
-  18637.73 3585.6736
-endline
-
-line survey 
-  18637.73 3585.6736
-  18610.49 3696.3036
-endline
-
-line survey 
-  18637.73 3585.6736
-  18611.43 3528.9736
-endline
-
-line survey 
-  18637.73 3585.6736
-  18614.7 3589.6036
-endline
-
-line survey 
-  18637.73 3585.6736
-  18573.71 3585.6736
-endline
-
-line survey 
-  18573.71 3585.6736
-  18583.94 3685.6736
-endline
-
-line survey 
-  18573.71 3585.6736
-  18578.07 3586.4536
-endline
-
-line survey 
-  18573.71 3585.6736
-  18556.16 3490.7836
-endline
-
-line survey 
-  18573.71 3585.6736
-  18490.48 3592.7536
-endline
-
-line survey 
-  18490.48 3592.7536
-  18479.88 3621.4936
-endline
-
-line survey 
-  18490.48 3592.7536
-  18462.53 3595.5136
-endline
-
-line survey 
-  18490.48 3592.7536
-  18485.9 3484.8836
-endline
-
-line survey 
-  18490.48 3592.7536
-  18474.52 3615.1936
-endline
-
-line survey 
-  18474.52 3615.1936
-  18462.24 3477.0136
-endline
-
-line survey 
-  18474.52 3615.1936
-  18464.97 3589.2136
-endline
-
-line survey 
-  18474.52 3615.1936
-  18475.37 3595.1236
-endline
-
-line survey 
-  18474.52 3615.1936
-  18340.45 3550.6336
-endline
-
-line survey 
-  18340.45 3550.6336
-  18345.84 3573.4636
-endline
-
-line survey 
-  18340.45 3550.6336
-  18350.72 3546.6936
-endline
-
-line survey 
-  18340.45 3550.6336
-  18341.34 3444.3336
-endline
-
-line survey 
-  18340.45 3550.6336
-  18283.92 3564.8036
-endline
-
-line survey 
-  8529.1298 -662.3564
-  8124.1898 -815.9064
-endline
-
-line survey 
-  8124.1898 -815.9064
-  7979.8598 -878.8964
-endline
-
-line survey 
-  7979.8598 -878.8964
-  7705.6498 -906.4564
-endline
-
-line survey 
-  7705.6498 -906.4564
-  7324.4498 -1004.8764
-endline
-
-line survey 
-  7324.4498 -1004.8764
-  6747.4898 -878.8964
-endline
-
-line survey 
-  6747.4898 -878.8964
-  6462.3898 -745.0364
-endline
-
-line survey 
-  6462.3898 -745.0364
-  5693.1998 -441.8864
-endline
-
-line survey 
-  5693.1998 -441.8864
-  5409.9898 -304.0964
-endline
-
-line survey 
-  5409.9898 -304.0964
-  5018.4398 -119.0564
-endline
-
-point 7546.81 2161.26 station-name -align tr -scale xs -text 15@c.Anglais2008
-point 7361.52 2203.78 station-name -align tr -scale xs -text 16@c.Anglais2008
-point 7145.89 2112.44 station-name -align tr -scale xs -text 17@c.Anglais2008
-point 5033.39 2378.19 station-name -align tr -scale xs -text 18@a.Anglais2008
-point 5630.43 2112.44 station-name -align tr -scale xs -text 17@c.Anglais2008
-point 7518.29 2050.63 station-name -align tr -scale xs -text 19@a.Anglais2008
-point 6129.96 1496.69 station-name -align tr -scale xs -text 21@e.Anglais2008
-point 5532.74 1302.6 station-name -align tr -scale xs -text 22@a.Anglais2008
-point 5313.88 1306.53 station-name -align tr -scale xs -text 23@c.Anglais2008
-point 5330.74 1547.48 station-name -align tr -scale xs -text N1@Pirates2008
-point 4514.55 1288.03 station-name -align tr -scale xs -text 26@a.Anglais2008
-point 3553.46 1106.14 station-name -align tr -scale xs -text 29@a.Anglais2008
-point 13486.0 2434.88 station-name -align tr -scale xs -text 54@b.Anglais2008
-point 13236.9 2394.33 station-name -align tr -scale xs -text 55@d.Anglais2008
-point 13722.5 2686.06 station-name -align tr -scale xs -text 56@b.Anglais2008
-point 13908.2 2725.82 station-name -align tr -scale xs -text 57@b.Anglais2008
-point 14144.7 2821.1 station-name -align tr -scale xs -text 58@b.Anglais2008
-point 14413.9 2878.58 station-name -align tr -scale xs -text 59@b.Anglais2008
-point 14538.1 2968.74 station-name -align tr -scale xs -text 60@b.Anglais2008
-point 14799.7 3019.52 station-name -align tr -scale xs -text 61@b.Anglais2008
-point 14996.7 2959.29 station-name -align tr -scale xs -text 62@b.Anglais2008
-point 15120.9 2943.93 station-name -align tr -scale xs -text 63@b.Anglais2008
-point 15354.3 2968.74 station-name -align tr -scale xs -text 64@b.Anglais2008
-point 15688.5 2986.06 station-name -align tr -scale xs -text 65@b.Anglais2008
-point 15738.4 2956.14 station-name -align tr -scale xs -text 1@Girafe
-point 15940.8 2977.4 station-name -align tr -scale xs -text 67@b.Anglais2008
-point 16319.7 2944.33 station-name -align tr -scale xs -text 68@b.Anglais2008
-point 16716.2 2815.59 station-name -align tr -scale xs -text 69@b.Anglais2008
-point 16949.2 2864.8 station-name -align tr -scale xs -text 70@b.Anglais2008
-point 17318.3 2852.2 station-name -align tr -scale xs -text 71@b.Anglais2008
-point 17478.8 2823.86 station-name -align tr -scale xs -text 72@b.Anglais2008
-point 17583.1 2814.8 station-name -align tr -scale xs -text 73@b.Anglais2008
-point 17884.1 2647.87 station-name -align tr -scale xs -text 0@PinceMi
-point 18159.5 2462.04 station-name -align tr -scale xs -text 75@b.Anglais2008
-point 18477.5 2333.7 station-name -align tr -scale xs -text 76@b.Anglais2008
-point 18779.9 2386.85 station-name -align tr -scale xs -text 77@b.Anglais2008
-point 19252.9 2478.97 station-name -align tr -scale xs -text 78@b.Anglais2008
-point 19750.5 2364.01 station-name -align tr -scale xs -text 79@b.Anglais2008
-point 20232.2 2139.21 station-name -align tr -scale xs -text 80@b.Anglais2008
-point 20416.4 2136.06 station-name -align tr -scale xs -text 81@b.Anglais2008
-point 20598.6 2142.36 station-name -align tr -scale xs -text 82@b.Anglais2008
-point 21015.9 1998.66 station-name -align tr -scale xs -text 83@b.Anglais2008
-point 21269.9 1967.56 station-name -align tr -scale xs -text 84@b.Anglais2008
-point 21507.8 1880.94 station-name -align tr -scale xs -text 85@b.Anglais2008
-point 21796.2 1740.39 station-name -align tr -scale xs -text 0@UnCaillouDansLaCulotte
-point 21999.1 1822.28 station-name -align tr -scale xs -text 87@b.Anglais2008
-point 22378.9 1842.36 station-name -align tr -scale xs -text 88@b.Anglais2008
-point 22823.2 2202.2 station-name -align tr -scale xs -text 89@b.Anglais2008
-point 22823.2 3186.45 station-name -align tr -scale xs -text 93@b.Anglais2008
-point 5032.77 2391.18 station-name -align tr -scale xs -text 90@b.Anglais2008
-point 4528.05 2895.9 station-name -align tr -scale xs -text 91@b.Anglais2008
-point 4386.45 3032.52 station-name -align tr -scale xs -text 92@b.Anglais2008
-point 5186.72 1269.92 station-name -align tr -scale xs -text 101@c.Anglais2008
-point 5057.11 1260.86 station-name -align tr -scale xs -text 102@c.Anglais2008
-point 4955.93 1192.75 station-name -align tr -scale xs -text 103@c.Anglais2008
-point 4555.28 942.364 station-name -align tr -scale xs -text 104@c.Anglais2008
-point 4187.34 778.583 station-name -align tr -scale xs -text 105@c.Anglais2008
-point 4054.11 724.644 station-name -align tr -scale xs -text 106@c.Anglais2008
-point 5788.48 2175.82 station-name -align tr -scale xs -text 107@c.Anglais2008
-point 5957.13 2163.62 station-name -align tr -scale xs -text 108@c.Anglais2008
-point 6043.3 2240.78 station-name -align tr -scale xs -text 109@c.Anglais2008
-point 6181.97 2333.3 station-name -align tr -scale xs -text 110@c.Anglais2008
-point 6106.03 2284.09 station-name -align tr -scale xs -text 111@c.Anglais2008
-point 6395.66 2471.1 station-name -align tr -scale xs -text 112@c.Anglais2008
-point 6780.95 2491.57 station-name -align tr -scale xs -text 113@c.Anglais2008
-point 7114.83 2282.91 station-name -align tr -scale xs -text 114@c.Anglais2008
-point 7197.31 2288.42 station-name -align tr -scale xs -text 115@c.Anglais2008
-point 7388.08 2052.99 station-name -align tr -scale xs -text 116@c.Anglais2008
-point 6435.93 2517.16 station-name -align tr -scale xs -text 117@c.Anglais2008
-point 6118.0 2573.07 station-name -align tr -scale xs -text 118@c.Anglais2008
-point 5771.75 2560.86 station-name -align tr -scale xs -text 119@c.Anglais2008
-point 5709.16 2669.52 station-name -align tr -scale xs -text 120@c.Anglais2008
-point 5455.16 2638.42 station-name -align tr -scale xs -text 121@c.Anglais2008
-point 5171.3 2683.3 station-name -align tr -scale xs -text 122@c.Anglais2008
-point 4883.89 2683.3 station-name -align tr -scale xs -text 123@c.Anglais2008
-point 5391.46 2867.95 station-name -align tr -scale xs -text 124@c.Anglais2008
-point 4805.56 2630.55 station-name -align tr -scale xs -text 125@c.Anglais2008
-point 4483.73 2340.78 station-name -align tr -scale xs -text 126@c.Anglais2008
-point 6853.48 2325.43 station-name -align tr -scale xs -text 127@c.Anglais2008
-point 7245.11 2342.36 station-name -align tr -scale xs -text 128@c.Anglais2008
-point 7277.95 2765.19 station-name -align tr -scale xs -text 129@c.Anglais2008
-point 7306.39 2182.91 station-name -align tr -scale xs -text 130@c.Anglais2008
-point 7038.75 2363.23 station-name -align tr -scale xs -text 131@c.Anglais2008
-point 16478.0 3688.03 station-name -align tr -scale xs -text 8@Ascension
-point 12528.4 2082.52 station-name -align tr -scale xs -text 157@d.Anglais2008
-point 12140.2 1989.6 station-name -align tr -scale xs -text 158@d.Anglais2008
-point 11750.5 1889.21 station-name -align tr -scale xs -text 159@d.Anglais2008
-point 11239.5 1870.31 station-name -align tr -scale xs -text 160@d.Anglais2008
-point 11180.4 1921.89 station-name -align tr -scale xs -text 161@PiratesJonction
-point 10092.5 1616.38 station-name -align tr -scale xs -text 163@PrioriteADroite
-point 6494.8 1560.86 station-name -align tr -scale xs -text 200@e.Anglais2008
-point 6811.77 1605.35 station-name -align tr -scale xs -text 201@e.Anglais2008
-point 7141.6 1354.96 station-name -align tr -scale xs -text 202@e.Anglais2008
-point 7637.6 1249.84 station-name -align tr -scale xs -text 203@e.Anglais2008
-point 7361.02 1154.56 station-name -align tr -scale xs -text 204@e.Anglais2008
-point 7116.09 1045.51 station-name -align tr -scale xs -text 205@e.Anglais2008
-point 7370.75 1206.14 station-name -align tr -scale xs -text 206@e.Anglais2008
-point 8024.72 1002.99 station-name -align tr -scale xs -text 207@DodgyPlumbingResurvey
-point 8913.62 1287.24 station-name -align tr -scale xs -text 208@e.Anglais2008
-point 8658.69 1287.24 station-name -align tr -scale xs -text 208@e.Anglais2008
-point 8676.47 1283.7 station-name -align tr -scale xs -text 209@e.Anglais2008
-point 8917.45 1390.78 station-name -align tr -scale xs -text 210@e.Anglais2008
-point 9452.27 1625.43 station-name -align tr -scale xs -text 211@PiratesJonction
-point 9887.66 1590.78 station-name -align tr -scale xs -text 214@e.Anglais2008
-point 10063.7 1661.65 station-name -align tr -scale xs -text 215@e.Anglais2008
-point 16192.7 2956.14 station-name -align tr -scale xs -text 216@e.Anglais2008
-point 16081.3 2921.89 station-name -align tr -scale xs -text 217@e.Anglais2008
-point 15948.6 2924.25 station-name -align tr -scale xs -text 218@e.Anglais2008
-point 15578.3 2796.69 station-name -align tr -scale xs -text 219@e.Anglais2008
-point 15578.3 2677.01 station-name -align tr -scale xs -text 220@e.Anglais2008
-point 15124.2 2538.42 station-name -align tr -scale xs -text 221@e.Anglais2008
-point 14866.7 2474.25 station-name -align tr -scale xs -text 222@e.Anglais2008
-point 14537.4 2284.09 station-name -align tr -scale xs -text 223@e.Anglais2008
-point 14023.2 2044.33 station-name -align tr -scale xs -text 224@e.Anglais2008
-point 13810.3 2172.28 station-name -align tr -scale xs -text 225@e.Anglais2008
-point 13207.6 2391.57 station-name -align tr -scale xs -text 226@e.Anglais2008
-point 13169.4 2376.61 station-name -align tr -scale xs -text 55@e.Anglais2008
-point 9236.82 2741.18 station-name -align tr -scale xs -text 28@PiratesJonction
-point 9198.71 2741.18 station-name -align tr -scale xs -text 28@PiratesJonction
-point 5197.84 1.4135 station-name -align tr -scale xs -text 5@DodgyPlumbingResurvey
-point 5018.44 -119.056 station-name -align tr -scale xs -text 9@SiphonAmont
-point 5292.96 246.694 station-name -align tr -scale xs -text 8@DodgyPlumbingResurvey
-point 16908.6 3923.07 station-name -align tr -scale xs -text 0@Ascension
-point 16696.2 3983.7 station-name -align tr -scale xs -text 1@Ascension
-point 17075.6 4210.08 station-name -align tr -scale xs -text 2@Ascension
-point 17511.1 4456.14 station-name -align tr -scale xs -text 3@Ascension
-point 17786.3 4541.97 station-name -align tr -scale xs -text 4@Ascension
-point 17630.2 4635.27 station-name -align tr -scale xs -text 5@Ascension
-point 16851.2 3857.32 station-name -align tr -scale xs -text 6@Ascension
-point 16706.2 3790.78 station-name -align tr -scale xs -text 7@Ascension
-point 10376.3 1610.86 station-name -align tr -scale xs -text 1@PrioriteADroite
-point 10736.2 1710.08 station-name -align tr -scale xs -text 2@PrioriteADroite
-point 11455.3 2011.65 station-name -align tr -scale xs -text 4@PrioriteADroite
-point 11769.1 2106.93 station-name -align tr -scale xs -text 5@PrioriteADroite
-point 11974.5 2145.51 station-name -align tr -scale xs -text 6@PrioriteADroite
-point 12202.3 2129.37 station-name -align tr -scale xs -text 7@PrioriteADroite
-point 12502.8 2115.98 station-name -align tr -scale xs -text 8@PrioriteADroite
-point 12657.8 2059.68 station-name -align tr -scale xs -text 9@PrioriteADroite
-point 12912.8 2015.98 station-name -align tr -scale xs -text 10@PrioriteADroite
-point 13121.9 2121.89 station-name -align tr -scale xs -text 11@PrioriteADroite
-point 13464.6 2131.73 station-name -align tr -scale xs -text 12@PrioriteADroite
-point 13616.1 2084.88 station-name -align tr -scale xs -text 13@PrioriteADroite
-point 13756.5 2025.43 station-name -align tr -scale xs -text 14@PrioriteADroite
-point 13863.1 2006.93 station-name -align tr -scale xs -text 15@PrioriteADroite
-point 13822.5 2257.32 station-name -align tr -scale xs -text 16@PrioriteADroite
-point 13985.8 2269.13 station-name -align tr -scale xs -text 17@PrioriteADroite
-point 14165.3 2187.24 station-name -align tr -scale xs -text 18@PrioriteADroite
-point 14291.3 2157.71 station-name -align tr -scale xs -text 19@PrioriteADroite
-point 14291.3 2150.23 station-name -align tr -scale xs -text 20@PrioriteADroite
-point 14291.3 2160.47 station-name -align tr -scale xs -text 21@PrioriteADroite
-point 14470.1 2160.86 station-name -align tr -scale xs -text 22@PrioriteADroite
-point 14623.2 2078.97 station-name -align tr -scale xs -text 23@PrioriteADroite
-point 14675.7 2094.72 station-name -align tr -scale xs -text 24@PrioriteADroite
-point 14829.9 2101.81 station-name -align tr -scale xs -text 25@PrioriteADroite
-point 10448.6 3208.11 station-name -align tr -scale xs -text 1@SalinasNew3
-point 10837.0 3599.05 station-name -align tr -scale xs -text 2@SalinasNew3
-point 11496.5 4094.33 station-name -align tr -scale xs -text 3@SalinasNew3
-point 11637.8 4118.74 station-name -align tr -scale xs -text 4@SalinasNew3
-point 11764.5 4153.78 station-name -align tr -scale xs -text 5@SalinasNew3
-point 11964.6 4332.12 station-name -align tr -scale xs -text 6@SalinasNew3
-point 12155.0 4425.82 station-name -align tr -scale xs -text 7@SalinasNew3
-point 12956.4 3505.75 station-name -align tr -scale xs -text 7@SalinasNew5
-point 13258.2 3694.33 station-name -align tr -scale xs -text 8@SalinasNew5
-point 13465.4 3853.78 station-name -align tr -scale xs -text 9@SalinasNew5
-point 13515.3 3864.8 station-name -align tr -scale xs -text 10@SalinasNew5
-point 13729.2 4036.85 station-name -align tr -scale xs -text 11@SalinasNew5
-point 13844.9 4139.6 station-name -align tr -scale xs -text 12@SalinasNew5
-point 13970.1 4226.22 station-name -align tr -scale xs -text 13@SalinasNew5
-point 14253.7 4397.87 station-name -align tr -scale xs -text 14@SalinasNew5
-point 14183.8 4418.74 station-name -align tr -scale xs -text 15@SalinasNew5
-point 14342.9 4450.23 station-name -align tr -scale xs -text 16@SalinasNew5
-point 14513.1 4527.01 station-name -align tr -scale xs -text 17@SalinasNew5
-point 14893.5 4763.62 station-name -align tr -scale xs -text 18@SalinasNew5
-point 14735.7 4833.3 station-name -align tr -scale xs -text 19@SalinasNew5
-point 14496.5 4762.04 station-name -align tr -scale xs -text 20@SalinasNew5
 point 17566.2 2452.99 station-name -align tr -scale xs -text 1@PinceMi
 point 17367.8 2353.38 station-name -align tr -scale xs -text 2@PinceMi
 point 17135.7 2288.42 station-name -align tr -scale xs -text 3@PinceMi
@@ -16177,126 +17291,5 @@ point 13556.1 494.333 station-name -align tr -scale xs -text 17@PinceMi
 point 13358.6 448.663 station-name -align tr -scale xs -text 18@PinceMi
 point 13030.9 434.494 station-name -align tr -scale xs -text 19@PinceMi
 point 12960.6 438.424 station-name -align tr -scale xs -text 20@PinceMi
-point 22100.0 1595.51 station-name -align tr -scale xs -text 1@UnCaillouDansLaCulotte
-point 22177.2 1558.11 station-name -align tr -scale xs -text 2@UnCaillouDansLaCulotte
-point 22328.6 1550.23 station-name -align tr -scale xs -text 3@UnCaillouDansLaCulotte
-point 22642.5 1537.24 station-name -align tr -scale xs -text 4@UnCaillouDansLaCulotte
-point 22907.4 1499.05 station-name -align tr -scale xs -text 5@UnCaillouDansLaCulotte
-point 23072.4 1473.86 station-name -align tr -scale xs -text 6@UnCaillouDansLaCulotte
-point 23181.2 1404.56 station-name -align tr -scale xs -text 7@UnCaillouDansLaCulotte
-point 23266.6 1382.91 station-name -align tr -scale xs -text 8@UnCaillouDansLaCulotte
-point 23855.9 1161.26 station-name -align tr -scale xs -text 9@UnCaillouDansLaCulotte
-point 23998.7 1069.13 station-name -align tr -scale xs -text 10@UnCaillouDansLaCulotte
-point 24354.8 918.744 station-name -align tr -scale xs -text 11@UnCaillouDansLaCulotte
-point 24550.6 797.083 station-name -align tr -scale xs -text 12@UnCaillouDansLaCulotte
-point 24791.7 708.114 station-name -align tr -scale xs -text 13@UnCaillouDansLaCulotte
-point 25002.5 632.123 station-name -align tr -scale xs -text 14@UnCaillouDansLaCulotte
-point 25099.0 649.453 station-name -align tr -scale xs -text 15@UnCaillouDansLaCulotte
-point 25149.4 638.424 station-name -align tr -scale xs -text 16@UnCaillouDansLaCulotte
-point 25219.6 604.563 station-name -align tr -scale xs -text 17@UnCaillouDansLaCulotte
-point 25219.6 524.644 station-name -align tr -scale xs -text 18@UnCaillouDansLaCulotte
-point 25339.5 470.714 station-name -align tr -scale xs -text 19@UnCaillouDansLaCulotte
-point 2906.89 1883.7 station-name -align tr -scale xs -text 0@Pirates2008
-point 3305.0 2217.56 station-name -align tr -scale xs -text 1@Pirates2008
-point 3509.1 2260.86 station-name -align tr -scale xs -text 2@Pirates2008
-point 3586.96 2500.63 station-name -align tr -scale xs -text 3@Pirates2008
-point 3592.75 2263.23 station-name -align tr -scale xs -text 4@Pirates2008
-point 3730.88 2302.6 station-name -align tr -scale xs -text 5@Pirates2008
-point 3905.81 2449.45 station-name -align tr -scale xs -text 6@Pirates2008
-point 3632.01 2276.22 station-name -align tr -scale xs -text 7@Pirates2008
-point 3510.07 2102.2 station-name -align tr -scale xs -text 8@Pirates2008
-point 3308.9 1986.06 station-name -align tr -scale xs -text 9@Pirates2008
-point 3052.04 1632.52 station-name -align tr -scale xs -text 10@Pirates2008
-point 2990.18 1416.77 station-name -align tr -scale xs -text 11@Pirates2008
-point 2712.64 1148.66 station-name -align tr -scale xs -text 12@Pirates2008
-point 2417.23 941.973 station-name -align tr -scale xs -text 13@Pirates2008
-point 2343.6 870.714 station-name -align tr -scale xs -text 14@Pirates2008
-point 2288.06 794.333 station-name -align tr -scale xs -text C@Pirates2008
-point 2555.39 852.203 station-name -align tr -scale xs -text 15@Pirates2008
-point 3007.63 915.594 station-name -align tr -scale xs -text 16@Pirates2008
-point 3357.5 1009.68 station-name -align tr -scale xs -text 17@Pirates2008
-point 1086.58 759.683 station-name -align tr -scale xs -text 102@Pirates2008
-point 1314.94 862.833 station-name -align tr -scale xs -text 103@Pirates2008
-point 1511.52 870.313 station-name -align tr -scale xs -text 104@Pirates2008
-point 1813.31 941.183 station-name -align tr -scale xs -text 105@Pirates2008
-point 2184.19 827.793 station-name -align tr -scale xs -text 106@Pirates2008
-point 2376.63 811.264 station-name -align tr -scale xs -text 107@Pirates2008
-point 2704.88 764.413 station-name -align tr -scale xs -text 108@Pirates2008
-point 2905.54 754.563 station-name -align tr -scale xs -text U@Pirates2008
-point 1991.97 662.043 station-name -align tr -scale xs -text A@Pirates2008
-point 2179.5 773.074 station-name -align tr -scale xs -text B@Pirates2008
-point 2444.49 882.523 station-name -align tr -scale xs -text D@Pirates2008
-point 2622.84 854.563 station-name -align tr -scale xs -text E@Pirates2008
-point 3064.84 944.333 station-name -align tr -scale xs -text F@Pirates2008
-point 3131.77 944.333 station-name -align tr -scale xs -text G@Pirates2008
-point 3411.01 1254.17 station-name -align tr -scale xs -text H@Pirates2008
-point 3130.3 961.654 station-name -align tr -scale xs -text I@Pirates2008
-point 3290.87 1040.39 station-name -align tr -scale xs -text J@Pirates2008
-point 3672.12 1118.34 station-name -align tr -scale xs -text K@Pirates2008
-point 3904.4 1117.16 station-name -align tr -scale xs -text L@Pirates2008
-point 4304.45 1149.45 station-name -align tr -scale xs -text M@Pirates2008
-point 4688.47 1262.83 station-name -align tr -scale xs -text N@Pirates2008
-point 1623.3 625.043 station-name -align tr -scale xs -text 30@Pirates2008
-point 1548.5 624.253 station-name -align tr -scale xs -text 31@Pirates2008
-point 1548.5 503.384 station-name -align tr -scale xs -text 32@Pirates2008
-point 3041.35 1082.91 station-name -align tr -scale xs -text O@Pirates2008
-point 2808.28 1004.56 station-name -align tr -scale xs -text P@Pirates2008
-point 2580.11 949.844 station-name -align tr -scale xs -text Q@Pirates2008
-point 2507.73 890.784 station-name -align tr -scale xs -text R@Pirates2008
-point 2367.14 843.933 station-name -align tr -scale xs -text S@Pirates2008
-point 2224.42 782.913 station-name -align tr -scale xs -text T@Pirates2008
-point 2034.43 754.563 station-name -align tr -scale xs -text U@Pirates2008
-point 2497.43 754.563 station-name -align tr -scale xs -text U@Pirates2008
-point 15940.1 2977.79 station-name -align tr -scale xs -text 2@Girafe
-point 16177.0 2994.33 station-name -align tr -scale xs -text 3@Girafe
-point 16356.2 3046.69 station-name -align tr -scale xs -text 4@Girafe
-point 16670.7 3135.67 station-name -align tr -scale xs -text 5@Girafe
-point 16811.6 3230.55 station-name -align tr -scale xs -text 6@Girafe
-point 17045.5 3338.82 station-name -align tr -scale xs -text 7@Girafe
-point 17165.2 3375.82 station-name -align tr -scale xs -text 8@Girafe
-point 17239.0 3373.46 station-name -align tr -scale xs -text 9@Girafe
-point 17742.7 3607.32 station-name -align tr -scale xs -text 10@Girafe
-point 17914.3 3641.97 station-name -align tr -scale xs -text 11@Girafe
-point 18276.9 3794.33 station-name -align tr -scale xs -text 12@Girafe
-point 18416.3 3835.67 station-name -align tr -scale xs -text 13@Girafe
-point 18507.7 3807.32 station-name -align tr -scale xs -text 14@Girafe
-point 18557.9 3814.41 station-name -align tr -scale xs -text 15@Girafe
-point 18707.6 3862.83 station-name -align tr -scale xs -text 16@Girafe
-point 18778.8 3877.01 station-name -align tr -scale xs -text 17@Girafe
-point 19106.6 3915.59 station-name -align tr -scale xs -text 18@Girafe
-point 19222.0 3884.09 station-name -align tr -scale xs -text 19@Girafe
-point 19392.2 3872.67 station-name -align tr -scale xs -text 20@Girafe
-point 19429.8 3919.13 station-name -align tr -scale xs -text 21@Girafe
-point 19575.3 3919.92 station-name -align tr -scale xs -text 22@Girafe
-point 19743.0 3963.23 station-name -align tr -scale xs -text 23@Girafe
-point 19832.6 3997.08 station-name -align tr -scale xs -text 24@Girafe
-point 19902.1 4006.14 station-name -align tr -scale xs -text 25@Girafe
-point 20019.8 4051.02 station-name -align tr -scale xs -text 26@Girafe
-point 20240.8 4075.04 station-name -align tr -scale xs -text 27@Girafe
-point 20541.3 4072.28 station-name -align tr -scale xs -text 28@Girafe
-point 20755.5 4036.45 station-name -align tr -scale xs -text 29@Girafe
-point 20982.2 4027.4 station-name -align tr -scale xs -text 30@Girafe
-point 19239.5 3817.16 station-name -align tr -scale xs -text 31@Girafe
-point 19130.0 3794.33 station-name -align tr -scale xs -text 32@Girafe
-point 18971.8 3787.24 station-name -align tr -scale xs -text 33@Girafe
-point 18918.1 3694.33 station-name -align tr -scale xs -text 34@Girafe
-point 18810.1 3676.61 station-name -align tr -scale xs -text 35@Girafe
-point 18738.2 3648.66 station-name -align tr -scale xs -text 36@Girafe
-point 18683.4 3600.63 station-name -align tr -scale xs -text 37@Girafe
-point 18637.7 3585.67 station-name -align tr -scale xs -text 38@Girafe
-point 18573.7 3585.67 station-name -align tr -scale xs -text 39@Girafe
-point 18490.5 3592.75 station-name -align tr -scale xs -text 40@Girafe
-point 18474.5 3615.19 station-name -align tr -scale xs -text 41@Girafe
-point 18340.4 3550.63 station-name -align tr -scale xs -text 42@Girafe
-point 18283.9 3564.8 station-name -align tr -scale xs -text 43@Girafe
-point 8529.13 -662.357 station-name -align tr -scale xs -text 0@SiphonAmont
-point 8124.19 -815.906 station-name -align tr -scale xs -text 1@SiphonAmont
-point 7979.86 -878.897 station-name -align tr -scale xs -text 2@SiphonAmont
-point 7705.65 -906.457 station-name -align tr -scale xs -text 3@SiphonAmont
-point 7324.45 -1004.88 station-name -align tr -scale xs -text 4@SiphonAmont
-point 6747.49 -878.897 station-name -align tr -scale xs -text 5@SiphonAmont
-point 6462.39 -745.036 station-name -align tr -scale xs -text 6@SiphonAmont
-point 5693.2 -441.886 station-name -align tr -scale xs -text 7@SiphonAmont
-point 5409.99 -304.096 station-name -align tr -scale xs -text 8@SiphonAmont
 endscrap
 
