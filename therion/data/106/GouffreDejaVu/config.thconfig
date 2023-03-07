@@ -1,4 +1,4 @@
-source PerteSousLeLac.th
+source GouffreDejaVu.th
 
 input ../../../layouts/detailed-p.thl
 input ../../../layouts/detailed-e.thl
@@ -30,25 +30,25 @@ layout plan
   \def\ycenter{75}
   \def\xscale{40}
   \def\yscale{40}
-  \def\cadnum{106028}
+  \def\cadnum{106057}
   \legendwidth=5cm
   # change this
   \def\customheader{
   \size[13]\bf \the\cavename{} / \cadnum \ss
   \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
   \par{ \quad} 
-  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 488683 \par  Y : 4451804 \par Z : 272 m}  \ss
+  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 488596 \par  Y : 4451785 \par Z : 280 m}  \ss
   \par{ \quad} 
   \par \si Développement :\ss{ \the\cavelength}
   \par \si Dénivellation :\ss{ \the\cavedepth}
   \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
-  \par \si Relevés topographiques :\ss{ }Arnauld Malard, Natalia Morata-Calvo,Laurence Boudoux d'Hautefeuille
+  \par \si Relevés topographiques :\ss{ }Arnauld Malard, Natalia Morata-Calvo,Laurence Boudoux d'Hautefeuille, Michel Philipps
   \par \si Report et dessins :\ss{  Tanguy Racine}}
   
   \def\maplayout{
   \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
   \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter - 3*\yscale\relax}{N}{\scalebar}
-  \legendbox{\the\numexpr\xcenter-\xscale\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/PerteSousLeLac-ee.pdf"}}}
+  \legendbox{\the\numexpr\xcenter-\xscale\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/GouffreDejaVu-ee.pdf"}}}
   \legendbox{\the\numexpr\xcenter+65\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
    \legendbox{\the\numexpr\xcenter+185\relax}{\the\numexpr\ycenter -10 \relax}{N}{\northarrow}
  }
@@ -62,9 +62,9 @@ endlayout
 
 
 
-#export model -o outputs/PerteSousLeLac.3d -fmt survex
-export model -o outputs/PerteSousLeLac.lox
-#export atlas -o outputs/PerteSousLeLac.pdf -projection plan -layout local-p
-export map -o outputs/PerteSousLeLac-ee.pdf -projection extended -layout local
+#export model -o outputs/GouffreDejaVu.3d -fmt survex
+export model -o outputs/GouffreDejaVu.lox
+#export atlas -o outputs/GouffreDejaVu.pdf -projection plan -layout local-p
+export map -o outputs/GouffreDejaVu-ee.pdf -projection extended -layout local
 
-export map -o outputs/PerteSousLeLac.pdf -projection plan -layout plan
+export map -o outputs/GouffreDejaVu.pdf -projection plan -layout plan

@@ -39,81 +39,81 @@ processing survey data ...
 ####################### cavern log file ########################
  1> Survex 1.4.3
  2> Copyright © 1990-2021 Olly Betts
- 3> /tmp/th36838/data.svx:5512: error: Station already fixed or equated to a fixed point
- 4>  *fix	4821	488882.000000	4451954.000000	298.000000
- 5> /tmp/th36838/data.svx:5537: error: Station already fixed or equated to a fixed point
- 6>  *fix	4845	489620.000000	4451272.000000	0.000000
- 7> /tmp/th36838/data.svx:5484: warning: Unused fixed point “4794”
- 8> /tmp/th36838/data.svx:5485: warning: Unused fixed point “4795”
- 9> /tmp/th36838/data.svx:5486: warning: Unused fixed point “4796”
-10> /tmp/th36838/data.svx:5487: warning: Unused fixed point “4797”
-11> /tmp/th36838/data.svx:5488: warning: Unused fixed point “4798”
-12> /tmp/th36838/data.svx:5489: warning: Unused fixed point “4799”
-13> /tmp/th36838/data.svx:5490: warning: Unused fixed point “4800”
-14> /tmp/th36838/data.svx:5491: warning: Unused fixed point “4801”
-15> /tmp/th36838/data.svx:5492: warning: Unused fixed point “4802”
-16> /tmp/th36838/data.svx:5493: warning: Unused fixed point “4803”
-17> /tmp/th36838/data.svx:5494: warning: Unused fixed point “4804”
-18> /tmp/th36838/data.svx:5495: warning: Unused fixed point “4805”
-19> /tmp/th36838/data.svx:5496: warning: Unused fixed point “4806”
-20> /tmp/th36838/data.svx:5497: warning: Unused fixed point “4807”
-21> /tmp/th36838/data.svx:5498: warning: Unused fixed point “4808”
-22> /tmp/th36838/data.svx:5499: warning: Unused fixed point “4809”
-23> /tmp/th36838/data.svx:5500: warning: Unused fixed point “4810”
-24> /tmp/th36838/data.svx:5501: warning: Unused fixed point “4811”
-25> /tmp/th36838/data.svx:5505: warning: Unused fixed point “4815”
-26> /tmp/th36838/data.svx:5506: warning: Unused fixed point “4816”
-27> /tmp/th36838/data.svx:5507: warning: Unused fixed point “4817”
-28> /tmp/th36838/data.svx:5508: warning: Unused fixed point “4818”
-29> /tmp/th36838/data.svx:5509: warning: Unused fixed point “4819”
-30> /tmp/th36838/data.svx:5510: warning: Unused fixed point “4820”
-31> /tmp/th36838/data.svx:5511: warning: Unused fixed point “4821”
-32> /tmp/th36838/data.svx:5513: warning: Unused fixed point “4822”
-33> /tmp/th36838/data.svx:5514: warning: Unused fixed point “4823”
-34> /tmp/th36838/data.svx:5516: warning: Unused fixed point “4825”
-35> /tmp/th36838/data.svx:5517: warning: Unused fixed point “4826”
-36> /tmp/th36838/data.svx:5518: warning: Unused fixed point “4827”
-37> /tmp/th36838/data.svx:5519: warning: Unused fixed point “4828”
-38> /tmp/th36838/data.svx:5520: warning: Unused fixed point “4829”
-39> /tmp/th36838/data.svx:5521: warning: Unused fixed point “4830”
-40> /tmp/th36838/data.svx:5522: warning: Unused fixed point “4831”
-41> /tmp/th36838/data.svx:5523: warning: Unused fixed point “4832”
-42> /tmp/th36838/data.svx:5524: warning: Unused fixed point “4833”
-43> /tmp/th36838/data.svx:5525: warning: Unused fixed point “4834”
-44> /tmp/th36838/data.svx:5526: warning: Unused fixed point “4835”
-45> /tmp/th36838/data.svx:5527: warning: Unused fixed point “4836”
-46> /tmp/th36838/data.svx:5528: warning: Unused fixed point “4837”
-47> /tmp/th36838/data.svx:5529: warning: Unused fixed point “4838”
-48> /tmp/th36838/data.svx:5530: warning: Unused fixed point “4839”
-49> /tmp/th36838/data.svx:5531: warning: Unused fixed point “4840”
-50> /tmp/th36838/data.svx:5532: warning: Unused fixed point “4841”
-51> /tmp/th36838/data.svx:5533: warning: Unused fixed point “4842”
-52> /tmp/th36838/data.svx:5534: warning: Unused fixed point “4843”
-53> /tmp/th36838/data.svx:5535: warning: Unused fixed point “4844”
-54> /tmp/th36838/data.svx:5536: warning: Unused fixed point “4845”
-55> /tmp/th36838/data.svx:5541: warning: Unused fixed point “4849”
-56> /tmp/th36838/data.svx:5542: warning: Unused fixed point “4850”
-57> /tmp/th36838/data.svx:5543: warning: Unused fixed point “4851”
+ 3> /tmp/th50533/data.svx:5671: error: Station already fixed or equated to a fixed point
+ 4>  *fix	4937	488882.000000	4451954.000000	298.000000
+ 5> /tmp/th50533/data.svx:5696: error: Station already fixed or equated to a fixed point
+ 6>  *fix	4961	489620.000000	4451272.000000	0.000000
+ 7> /tmp/th50533/data.svx:5643: warning: Unused fixed point “4910”
+ 8> /tmp/th50533/data.svx:5644: warning: Unused fixed point “4911”
+ 9> /tmp/th50533/data.svx:5645: warning: Unused fixed point “4912”
+10> /tmp/th50533/data.svx:5646: warning: Unused fixed point “4913”
+11> /tmp/th50533/data.svx:5647: warning: Unused fixed point “4914”
+12> /tmp/th50533/data.svx:5648: warning: Unused fixed point “4915”
+13> /tmp/th50533/data.svx:5649: warning: Unused fixed point “4916”
+14> /tmp/th50533/data.svx:5650: warning: Unused fixed point “4917”
+15> /tmp/th50533/data.svx:5651: warning: Unused fixed point “4918”
+16> /tmp/th50533/data.svx:5652: warning: Unused fixed point “4919”
+17> /tmp/th50533/data.svx:5653: warning: Unused fixed point “4920”
+18> /tmp/th50533/data.svx:5654: warning: Unused fixed point “4921”
+19> /tmp/th50533/data.svx:5655: warning: Unused fixed point “4922”
+20> /tmp/th50533/data.svx:5656: warning: Unused fixed point “4923”
+21> /tmp/th50533/data.svx:5657: warning: Unused fixed point “4924”
+22> /tmp/th50533/data.svx:5658: warning: Unused fixed point “4925”
+23> /tmp/th50533/data.svx:5659: warning: Unused fixed point “4926”
+24> /tmp/th50533/data.svx:5660: warning: Unused fixed point “4927”
+25> /tmp/th50533/data.svx:5664: warning: Unused fixed point “4931”
+26> /tmp/th50533/data.svx:5665: warning: Unused fixed point “4932”
+27> /tmp/th50533/data.svx:5666: warning: Unused fixed point “4933”
+28> /tmp/th50533/data.svx:5667: warning: Unused fixed point “4934”
+29> /tmp/th50533/data.svx:5668: warning: Unused fixed point “4935”
+30> /tmp/th50533/data.svx:5669: warning: Unused fixed point “4936”
+31> /tmp/th50533/data.svx:5670: warning: Unused fixed point “4937”
+32> /tmp/th50533/data.svx:5672: warning: Unused fixed point “4938”
+33> /tmp/th50533/data.svx:5673: warning: Unused fixed point “4939”
+34> /tmp/th50533/data.svx:5675: warning: Unused fixed point “4941”
+35> /tmp/th50533/data.svx:5676: warning: Unused fixed point “4942”
+36> /tmp/th50533/data.svx:5677: warning: Unused fixed point “4943”
+37> /tmp/th50533/data.svx:5678: warning: Unused fixed point “4944”
+38> /tmp/th50533/data.svx:5679: warning: Unused fixed point “4945”
+39> /tmp/th50533/data.svx:5680: warning: Unused fixed point “4946”
+40> /tmp/th50533/data.svx:5681: warning: Unused fixed point “4947”
+41> /tmp/th50533/data.svx:5682: warning: Unused fixed point “4948”
+42> /tmp/th50533/data.svx:5683: warning: Unused fixed point “4949”
+43> /tmp/th50533/data.svx:5684: warning: Unused fixed point “4950”
+44> /tmp/th50533/data.svx:5685: warning: Unused fixed point “4951”
+45> /tmp/th50533/data.svx:5686: warning: Unused fixed point “4952”
+46> /tmp/th50533/data.svx:5687: warning: Unused fixed point “4953”
+47> /tmp/th50533/data.svx:5688: warning: Unused fixed point “4954”
+48> /tmp/th50533/data.svx:5689: warning: Unused fixed point “4955”
+49> /tmp/th50533/data.svx:5690: warning: Unused fixed point “4956”
+50> /tmp/th50533/data.svx:5691: warning: Unused fixed point “4957”
+51> /tmp/th50533/data.svx:5692: warning: Unused fixed point “4958”
+52> /tmp/th50533/data.svx:5693: warning: Unused fixed point “4959”
+53> /tmp/th50533/data.svx:5694: warning: Unused fixed point “4960”
+54> /tmp/th50533/data.svx:5695: warning: Unused fixed point “4961”
+55> /tmp/th50533/data.svx:5700: warning: Unused fixed point “4965”
+56> /tmp/th50533/data.svx:5701: warning: Unused fixed point “4966”
+57> /tmp/th50533/data.svx:5702: warning: Unused fixed point “4967”
 58> 
-59> Survey contains 4852 survey stations, joined by 4803 legs.
-60> There are 17 loops.
-61> Survey has 66 connected components.
-62> Total length of survey legs = 4674.20m (4675.56m adjusted)
-63> Total plan length of survey legs = 3888.04m
-64> Total vertical length of survey legs = 1940.40m
-65> Vertical range = 396.10m (from 2802 at 358.00m to 4755 at -38.10m)
-66> North-South range = 1426.98m (from 4792 at 4452810.15m to 2809 at 4451383.17m)
-67> East-West range = 2824.65m (from 116 at 490213.69m to 4483 at 487389.04m)
+59> Survey contains 4968 survey stations, joined by 4919 legs.
+60> There are 18 loops.
+61> Survey has 67 connected components.
+62> Total length of survey legs = 4716.81m (4718.18m adjusted)
+63> Total plan length of survey legs = 3929.46m
+64> Total vertical length of survey legs = 1948.53m
+65> Vertical range = 396.10m (from 2802 at 358.00m to 4871 at -38.10m)
+66> North-South range = 1426.98m (from 4908 at 4452810.15m to 2809 at 4451383.17m)
+67> East-West range = 2824.65m (from 116 at 490213.69m to 4599 at 487389.04m)
 68>   51 0-nodes.
-69> 4084 1-nodes.
+69> 4178 1-nodes.
 70>  327 2-nodes.
 71>   48 3-nodes.
 72>    7 4-nodes.
-73>   18 5-nodes.
-74>   18 6-nodes.
-75>   23 7-nodes.
+73>   24 5-nodes.
+74>   25 6-nodes.
+75>   31 7-nodes.
 76>   31 8-nodes.
-77>   16 9-nodes.
+77>   17 9-nodes.
 78>   23 10-nodes.
 79>   30 11-nodes.
 80>   15 12-nodes.
@@ -130,8 +130,8 @@ processing survey data ...
 91>    4 23-nodes.
 92>    6 24-nodes.
 93>    8 25-nodes.
-94>    5 26-nodes.
-95>    5 27-nodes.
+94>    4 26-nodes.
+95>    6 27-nodes.
 96>    6 28-nodes.
 97>    3 29-nodes.
 98>    2 30-nodes.
@@ -144,128 +144,128 @@ processing survey data ...
 105> There were 51 warning(s) and 2 error(s) - no output files produced.
 106> 
 ######################### transcription ########################
- 3> input:5512 -- 106.th [210]
- 4> 4821 : ENT_106030@106
- 5> input:5537 -- 106.th [335]
- 6> 4845 : ENT_106054@106
- 7> input:5484 -- 106.th [103]
- 7> 4794 : ENT_106002@106
- 8> input:5485 -- 106.th [106]
- 8> 4795 : ENT_106003@106
- 9> input:5486 -- 106.th [109]
- 9> 4796 : ENT_106004@106
-10> input:5487 -- 106.th [112]
-10> 4797 : ENT_106005@106
-11> input:5488 -- 106.th [115]
-11> 4798 : ENT_106006@106
-12> input:5489 -- 106.th [120]
-12> 4799 : ENT_106008@106
-13> input:5490 -- 106.th [123]
-13> 4800 : ENT_106009@106
-14> input:5491 -- 106.th [126]
-14> 4801 : ENT_106010@106
-15> input:5492 -- 106.th [129]
-15> 4802 : ENT_106011@106
-16> input:5493 -- 106.th [132]
-16> 4803 : ENT_106012@106
-17> input:5494 -- 106.th [135]
-17> 4804 : ENT_106013@106
-18> input:5495 -- 106.th [138]
-18> 4805 : ENT_106014@106
-19> input:5496 -- 106.th [141]
-19> 4806 : ENT_106015@106
-20> input:5497 -- 106.th [144]
-20> 4807 : ENT_106016@106
-21> input:5498 -- 106.th [147]
-21> 4808 : ENT_106017@106
-22> input:5499 -- 106.th [150]
-22> 4809 : ENT_106018@106
-23> input:5500 -- 106.th [153]
-23> 4810 : ENT_106019@106
-24> input:5501 -- 106.th [156]
-24> 4811 : ENT_106020@106
-25> input:5505 -- 106.th [175]
-25> 4815 : ENT_106024@106
-26> input:5506 -- 106.th [180]
-26> 4816 : ENT_106025@106
-27> input:5507 -- 106.th [185]
-27> 4817 : ENT_106026@106
-28> input:5508 -- 106.th [190]
-28> 4818 : ENT_106027@106
-29> input:5509 -- 106.th [195]
-29> 4819 : ENT_106028@106
-30> input:5510 -- 106.th [200]
-30> 4820 : ENT_106029@106
-31> input:5511 -- 106.th [205]
-31> 4821 : ENT_106030@106
-32> input:5513 -- 106.th [215]
-32> 4822 : ENT_106031@106
-33> input:5514 -- 106.th [220]
-33> 4823 : ENT_106032@106
-34> input:5516 -- 106.th [230]
-34> 4825 : ENT_106034@106
-35> input:5517 -- 106.th [235]
-35> 4826 : ENT_106035@106
-36> input:5518 -- 106.th [240]
-36> 4827 : ENT_106036@106
-37> input:5519 -- 106.th [245]
-37> 4828 : ENT_106037@106
-38> input:5520 -- 106.th [250]
-38> 4829 : ENT_106038@106
-39> input:5521 -- 106.th [255]
-39> 4830 : ENT_106039@106
-40> input:5522 -- 106.th [260]
-40> 4831 : ENT_106040@106
-41> input:5523 -- 106.th [265]
-41> 4832 : ENT_106041@106
-42> input:5524 -- 106.th [270]
-42> 4833 : ENT_106042@106
-43> input:5525 -- 106.th [275]
-43> 4834 : ENT_106043@106
-44> input:5526 -- 106.th [280]
-44> 4835 : ENT_106044@106
-45> input:5527 -- 106.th [285]
-45> 4836 : ENT_106045@106
-46> input:5528 -- 106.th [290]
-46> 4837 : ENT_106046@106
-47> input:5529 -- 106.th [295]
-47> 4838 : ENT_106047@106
-48> input:5530 -- 106.th [300]
-48> 4839 : ENT_106048@106
-49> input:5531 -- 106.th [305]
-49> 4840 : ENT_106049@106
-50> input:5532 -- 106.th [310]
-50> 4841 : ENT_106050@106
-51> input:5533 -- 106.th [315]
-51> 4842 : ENT_106051@106
-52> input:5534 -- 106.th [320]
-52> 4843 : ENT_106052@106
-53> input:5535 -- 106.th [325]
-53> 4844 : ENT_106053@106
-54> input:5536 -- 106.th [330]
-54> 4845 : ENT_106054@106
-55> input:5541 -- 106.th [355]
-55> 4849 : ENT_106058@106
-56> input:5542 -- 106.th [360]
-56> 4850 : ENT_106059@106
-57> input:5543 -- 106.th [365]
-57> 4851 : ENT_106060@106
-59> 4852 : ENT_106061@106 -- 4803 : ENT_106012@106
-60> 17 : 17@a.Anglais2008.CuevaPirates.106
-61> 66 : 70@b.Anglais2008.CuevaPirates.106
-65> 2802 : 0@Entree.AvenDesArchesPerdues.106 -- 4755 : 5@ResurgenceGolondrina.106
-66> 4792 : 42@ResurgenceGolondrina.106 -- 2809 : 7@Entree.AvenDesArchesPerdues.106
-67> 116 : 124@c.Anglais2008.CuevaPirates.106 -- 4483 : .@PerteChampis.106
+ 3> input:5671 -- 106.th [210]
+ 4> 4937 : ENT_106030@106
+ 5> input:5696 -- 106.th [335]
+ 6> 4961 : ENT_106054@106
+ 7> input:5643 -- 106.th [103]
+ 7> 4910 : ENT_106002@106
+ 8> input:5644 -- 106.th [106]
+ 8> 4911 : ENT_106003@106
+ 9> input:5645 -- 106.th [109]
+ 9> 4912 : ENT_106004@106
+10> input:5646 -- 106.th [112]
+10> 4913 : ENT_106005@106
+11> input:5647 -- 106.th [115]
+11> 4914 : ENT_106006@106
+12> input:5648 -- 106.th [120]
+12> 4915 : ENT_106008@106
+13> input:5649 -- 106.th [123]
+13> 4916 : ENT_106009@106
+14> input:5650 -- 106.th [126]
+14> 4917 : ENT_106010@106
+15> input:5651 -- 106.th [129]
+15> 4918 : ENT_106011@106
+16> input:5652 -- 106.th [132]
+16> 4919 : ENT_106012@106
+17> input:5653 -- 106.th [135]
+17> 4920 : ENT_106013@106
+18> input:5654 -- 106.th [138]
+18> 4921 : ENT_106014@106
+19> input:5655 -- 106.th [141]
+19> 4922 : ENT_106015@106
+20> input:5656 -- 106.th [144]
+20> 4923 : ENT_106016@106
+21> input:5657 -- 106.th [147]
+21> 4924 : ENT_106017@106
+22> input:5658 -- 106.th [150]
+22> 4925 : ENT_106018@106
+23> input:5659 -- 106.th [153]
+23> 4926 : ENT_106019@106
+24> input:5660 -- 106.th [156]
+24> 4927 : ENT_106020@106
+25> input:5664 -- 106.th [175]
+25> 4931 : ENT_106024@106
+26> input:5665 -- 106.th [180]
+26> 4932 : ENT_106025@106
+27> input:5666 -- 106.th [185]
+27> 4933 : ENT_106026@106
+28> input:5667 -- 106.th [190]
+28> 4934 : ENT_106027@106
+29> input:5668 -- 106.th [195]
+29> 4935 : ENT_106028@106
+30> input:5669 -- 106.th [200]
+30> 4936 : ENT_106029@106
+31> input:5670 -- 106.th [205]
+31> 4937 : ENT_106030@106
+32> input:5672 -- 106.th [215]
+32> 4938 : ENT_106031@106
+33> input:5673 -- 106.th [220]
+33> 4939 : ENT_106032@106
+34> input:5675 -- 106.th [230]
+34> 4941 : ENT_106034@106
+35> input:5676 -- 106.th [235]
+35> 4942 : ENT_106035@106
+36> input:5677 -- 106.th [240]
+36> 4943 : ENT_106036@106
+37> input:5678 -- 106.th [245]
+37> 4944 : ENT_106037@106
+38> input:5679 -- 106.th [250]
+38> 4945 : ENT_106038@106
+39> input:5680 -- 106.th [255]
+39> 4946 : ENT_106039@106
+40> input:5681 -- 106.th [260]
+40> 4947 : ENT_106040@106
+41> input:5682 -- 106.th [265]
+41> 4948 : ENT_106041@106
+42> input:5683 -- 106.th [270]
+42> 4949 : ENT_106042@106
+43> input:5684 -- 106.th [275]
+43> 4950 : ENT_106043@106
+44> input:5685 -- 106.th [280]
+44> 4951 : ENT_106044@106
+45> input:5686 -- 106.th [285]
+45> 4952 : ENT_106045@106
+46> input:5687 -- 106.th [290]
+46> 4953 : ENT_106046@106
+47> input:5688 -- 106.th [295]
+47> 4954 : ENT_106047@106
+48> input:5689 -- 106.th [300]
+48> 4955 : ENT_106048@106
+49> input:5690 -- 106.th [305]
+49> 4956 : ENT_106049@106
+50> input:5691 -- 106.th [310]
+50> 4957 : ENT_106050@106
+51> input:5692 -- 106.th [315]
+51> 4958 : ENT_106051@106
+52> input:5693 -- 106.th [320]
+52> 4959 : ENT_106052@106
+53> input:5694 -- 106.th [325]
+53> 4960 : ENT_106053@106
+54> input:5695 -- 106.th [330]
+54> 4961 : ENT_106054@106
+55> input:5700 -- 106.th [355]
+55> 4965 : ENT_106058@106
+56> input:5701 -- 106.th [360]
+56> 4966 : ENT_106059@106
+57> input:5702 -- 106.th [365]
+57> 4967 : ENT_106060@106
+59> 4968 : ENT_106061@106 -- 4919 : ENT_106012@106
+60> 18 : 18@a.Anglais2008.CuevaPirates.106
+61> 67 : 71@b.Anglais2008.CuevaPirates.106
+65> 2802 : 0@Entree.AvenDesArchesPerdues.106 -- 4871 : 5@ResurgenceGolondrina.106
+66> 4908 : 42@ResurgenceGolondrina.106 -- 2809 : 7@Entree.AvenDesArchesPerdues.106
+67> 116 : 124@c.Anglais2008.CuevaPirates.106 -- 4599 : .@PerteChampis.106
 68> 51 : 55@b.Anglais2008.CuevaPirates.106
-69> 4084 : .@Entree.GouffreDuBowling.106
+69> 4178 : .@Entree.GouffreDuBowling.106
 70> 327 : .@PiratesJonction.CuevaPirates.106
 71> 48 : 52@b.Anglais2008.CuevaPirates.106
 72> 7 : 7@a.Anglais2008.CuevaPirates.106
-73> 18 : 18@a.Anglais2008.CuevaPirates.106
-74> 18 : 18@a.Anglais2008.CuevaPirates.106
-75> 23 : 23@a.Anglais2008.CuevaPirates.106
+73> 24 : 24@a.Anglais2008.CuevaPirates.106
+74> 25 : 25@a.Anglais2008.CuevaPirates.106
+75> 31 : 31@a.Anglais2008.CuevaPirates.106
 76> 31 : 31@a.Anglais2008.CuevaPirates.106
-77> 16 : 16@a.Anglais2008.CuevaPirates.106
+77> 17 : 17@a.Anglais2008.CuevaPirates.106
 78> 23 : 23@a.Anglais2008.CuevaPirates.106
 79> 30 : 30@a.Anglais2008.CuevaPirates.106
 80> 15 : 15@a.Anglais2008.CuevaPirates.106
@@ -282,8 +282,8 @@ processing survey data ...
 91> 4 : 4@a.Anglais2008.CuevaPirates.106
 92> 6 : 6@a.Anglais2008.CuevaPirates.106
 93> 8 : 8@a.Anglais2008.CuevaPirates.106
-94> 5 : 5@a.Anglais2008.CuevaPirates.106
-95> 5 : 5@a.Anglais2008.CuevaPirates.106
+94> 4 : 4@a.Anglais2008.CuevaPirates.106
+95> 6 : 6@a.Anglais2008.CuevaPirates.106
 96> 6 : 6@a.Anglais2008.CuevaPirates.106
 97> 3 : 3@a.Anglais2008.CuevaPirates.106
 98> 2 : 1@a.Anglais2008.CuevaPirates.106
@@ -354,7 +354,7 @@ S   148.02 FenetreMeteo-2p@FenetreMeteo.AvenDesArchesPerdues.106 ()
 ########## end of export maps & scraps selection ###############
 writing ArchesSalinas.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022/Homebrew) (kpathsea version 6.3.4)  6 MAR 2023 07:53
+This is MetaPost, version 2.02 (TeX Live 2022/Homebrew) (kpathsea version 6.3.4)  7 MAR 2023 14:02
 **data.mp
 (/usr/local/Cellar/texlive/20220321_3/share/texmf-dist/metapost/base/mpost.mp
 (/usr/local/Cellar/texlive/20220321_3/share/texmf-dist/metapost/base/plain.mp
@@ -405,8 +405,8 @@ s.106] [87] [88] [89] [90] [91] [92] [93] [94]
  
 Here is how much of MetaPost's memory you used:
  86570 strings using 2079465 characters
- 6514216 bytes of node memory
- 1827 symbolic tokens
+ 6516776 bytes of node memory
+ 1829 symbolic tokens
  11i,82n,16p,433b,5f stack positions out of 16i,98n,20p,487b,6f
 115 output files written: data-patt.1 .. data.98
 
@@ -415,7 +415,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Homebrew) (preloaded format=pdftex 2022.9.2)  6 MAR 2023 07:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Homebrew) (preloaded format=pdftex 2022.9.2)  7 MAR 2023 14:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -452,7 +452,7 @@ PDF statistics:
 
 ##################### end of pdftex log file #####################
 done
-compilation time: 7 sec
+compilation time: 8 sec
 
 
 ######################### loop errors ##########################

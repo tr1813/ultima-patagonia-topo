@@ -1,16 +1,21 @@
 encoding utf-8
 # created with SexyTopo 1.6.1
 
-survey 230210_gouffre++
+survey Suite -title "suite du gouffre ++"
 
 input "230210_gouffre++ plan.th2"
 input "230210_gouffre++ ee.th2"
 
-	
 	centreline
-	
+		date 2023.02.10 
+		explo-date 2023.02.10
+		team "Arnauld Malard" notes
+		team "Laurence [Boudoux d'Hautefeuille]"
+		team "Michel Philips"
+		team "Natalia [Morata-Calvo]"
+
 		data normal from to length compass clino
-		
+		flags duplicate
 		1	-	3.851	211.31	0.12	
 		1	-	2.705	178.09	3.17	
 		1	-	3.001	243.65	2.58	
@@ -79,6 +84,7 @@ input "230210_gouffre++ ee.th2"
 		13	-	3.628	60.97	-0.91	
 		13	-	7.445	8.06	-9.89	
 		13	-	0.650	66.43	-74.79	
+		flags not duplicate
 		13	14	4.857	347.18	6.82		#  {from: 4.877 347.25 6.75, 4.852 347.05 6.93, 4.841 347.23 6.80}
 		14	-	2.386	236.82	2.06	
 		14	-	1.258	52.84	-10.33	
