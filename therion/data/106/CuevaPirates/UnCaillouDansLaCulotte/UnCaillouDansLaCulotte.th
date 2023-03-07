@@ -40,7 +40,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     1 . 5.82 26.6 -12.4
     1 . 1.96 33.1 -11.6
     1 . 2.61 344.1 -15.8
-    extend right
+    extend left
     1 2 2.18 3.1 -25.9
     # extend auto
     2 . 0.82 0.8 78.1
@@ -51,7 +51,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     2 . 4.24 81.4 6.2
     2 . 4.21 42.6 -0.8
     2 . 0.17 38.9 -2.6
-    extend right
+    extend left
     2 3 3.85 39.1 -2.9
     # extend auto
     3 . 1.23 324.1 76.5
@@ -69,7 +69,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     3 . 3.90 307.8 -4.0
     3 . 10.01 317.9 -5.4
     3 . 5.78 337.8 2.1
-    extend right
+    extend left
     3 4 7.98 318.1 -2.4
     # extend auto
     4 . 0.63 249.5 30.4
@@ -86,7 +86,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     4 . 10.35 136.1 4.5
     4 . 3.77 141.1 3.9
     4 . 2.09 163.2 8.4
-    extend right
+    extend left
     4 5 6.80 7.7 -8.2
     # extend auto
     5 . 1.65 182.7 71.0
@@ -107,7 +107,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     5 . 8.97 184.0 4.8
     5 . 3.32 188.4 13.9
     5 . 0.15 208.2 17.3
-    extend right
+    extend left
     5 6 4.24 304.6 -8.7
     # extend auto
     6 . 1.57 71.0 78.0
@@ -125,12 +125,12 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     6 . 5.51 157.0 15.1
     6 . 7.67 144.3 14.8
     6 . 6.47 124.2 13.3
-    extend right
+    extend left
     6 7 3.27 291.0 -32.4
     # extend auto
     7 . 1.60 104.7 67.2
     7 . 1.56 91.9 29.7
-    extend right
+    extend left
     7 8 2.24 16.2 -14.3
     # extend auto
     8 . 1.78 279.5 80.3
@@ -147,7 +147,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     8 . 1.97 132.1 39.5
     8 . 13.86 333.0 -19.3
     8 . 8.98 337.8 -17.9
-    extend right
+    extend left
     8 9 15.99 333.7 -20.6
     # extend auto
     9 . 1.02 135.8 72.8
@@ -163,7 +163,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     9 . 5.78 24.9 -25.0
     9 . 6.57 8.6 -29.4
     9 . 1.93 8.0 -19.9
-    extend right
+    extend left
     9 10 4.32 6.5 -32.9
     # extend auto
     10 . 1.57 49.1 77.4
@@ -184,7 +184,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     10 . 10.66 175.3 24.8
     10 . 4.79 166.3 29.7
     10 . 2.96 190.1 24.5
-    extend right
+    extend left
     10 11 9.82 321.7 -22.9
     # extend auto
     11 . 1.85 61.4 60.4
@@ -201,7 +201,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     11 . 3.77 319.4 -29.4
     11 . 9.36 331.8 -29.6
     11 . 5.63 333.8 -29.1
-    extend right
+    extend left
     11 12 5.85 333.2 -31.8
     # extend auto
     12 . 0.92 239.0 74.7
@@ -215,7 +215,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     12 . 1.86 334.6 -21.7
     12 . 5.45 344.6 -23.3
     12 . 3.91 5.6 -20.9
-    extend right
+    extend left
     12 13 6.53 327.4 -20.3
     # extend auto
     13 . 0.91 30.3 64.5
@@ -223,7 +223,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     13 . 2.68 85.2 27.5
     13 . 0.55 141.1 -65.0
     13 . 3.92 355.4 -28.3
-    extend right
+    extend left
     13 14 5.69 0.4 -19.8
     # extend auto
     14 . 0.99 39.3 83.7
@@ -234,7 +234,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     14 . 1.39 343.5 6.9
     14 . 2.65 329.9 9.6
     14 . 2.14 285.6 -19.4
-    extend right
+    extend left
     14 15 2.49 328.5 10.1
     # extend auto
     15 . 0.51 165.0 64.3
@@ -243,7 +243,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     15 . 0.36 84.6 -43.0
     15 . 1.19 24.1 8.7
     15 . 2.22 3.3 -2.1
-    extend right
+    extend left
     15 16 1.31 8.3 -12.1
     # extend auto
     16 . 2.89 67.4 22.9
@@ -261,7 +261,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     16 . 1.16 289.0 -22.0
     16 . 2.68 305.1 -32.6
     16 . 2.79 313.3 -33.9
-    extend right
+    extend left
     16 17 1.98 309.2 -25.8
     # extend auto
     17 . 0.58 214.6 -6.4
@@ -282,7 +282,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     18 . 1.48 10.9 21.7
     18 . 0.50 304.4 -59.5
     18 . 2.42 326.2 -28.7
-    extend right
+    extend left
     18 19 3.34 314.1 -24.2
   endcenterline
 

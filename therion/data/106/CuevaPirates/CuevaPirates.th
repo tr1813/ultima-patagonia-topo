@@ -155,21 +155,33 @@ map m-all-p -projection plan
 	SiphonAmont
 endmap
 
-
 map m-all-e -projection extended
 	CuevaPirates-jonctions-2
 	break
 	CuevaPirates-jonctions
 	break
 	CuevaPirates-sumpofdoom
+	break
 	CuevaPirates-entree
+	break
 	CuevaPirates-cairn-chamber
+	CuevaPirates-new5
+	CuevaPirates-new3
 	CuevaPirates-new4
+	CuevaPirates-Ascension
+	break
+	CuevaPirates-muddyhollows-3
 	break
 	CuevaPirates-muddyhollows-1
+	break
+	CuevaPirates-muddyhollows-2
 	CuevaPirates-dodgyplumbing
 	CuevaPirates-girafe
 	CuevaPirates-PinceMi
+	CuevaPirates-stalchamber
+	CuevaPirates-CaillouDansLaCulotte
+	break
+	CuevaPirates-Waterworld 
 endmap
 	
 endsurvey

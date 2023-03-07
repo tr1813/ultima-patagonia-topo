@@ -13,7 +13,7 @@ layout local
   symbol-hide point passage-height
   color map-bg [85 85 85]
   symbol-hide point station-name 
-  #symbol-hide line survey
+  symbol-hide line survey
   #color map-bg transparent
 
   endlayout

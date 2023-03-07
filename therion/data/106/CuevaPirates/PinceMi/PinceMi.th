@@ -11,7 +11,7 @@ survey PinceMi -title "Pince Mi"
     units length meters
     units compass clino degrees
     data normal from to length compass clino
-    extend left
+    extend right
    flags duplicate
     0 1 9.47 262.4 -31.5
    flags not duplicate
