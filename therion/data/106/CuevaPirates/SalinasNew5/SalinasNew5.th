@@ -261,7 +261,7 @@ survey SalinasNew5 -title "Hacienda Salinas 5new"
     14 . 3.16 154.9 9.4
     14 . 3.29 147.6 18.9
     14 . 3.26 149.2 17.8
-    extend left
+    extend right
     14 15 1.85 176.4 16.4
     # extend auto
     15 . 4.25 128.8 17.8
@@ -329,7 +329,7 @@ survey SalinasNew5 -title "Hacienda Salinas 5new"
     18 . 3.16 186.5 18.1
     18 . 2.88 185.9 10.5
     18 . 2.21 172.6 5.6
-    extend left
+    extend right
     18 19 4.38 171.5 23.8
     19 20 6.34 211.1 -16.6
   endcenterline
