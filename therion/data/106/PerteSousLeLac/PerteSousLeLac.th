@@ -16,9 +16,10 @@ survey PerteSousLeLac -title "Perte sous le Lac" \
 	centreline
 		date 2023.02.11
 		explo-date 2023.02.11
-		team "Natalia [Morata Calvo]"
+		team "Natalia [Morata-Calvo]"
 		team "Arnauld Malard"
 		team "Laurence [Boudoux d'Hautefeuille]"
+		team "Michel Philips"
 		data normal from to length compass clino
 		
 		1	-	1.331	12.66	20.01	

@@ -2,7 +2,7 @@ encoding  utf-8
 ##XTHERION## xth_me_area_adjust 0 0 500.000000 1000.000000
 ##XTHERION## xth_me_area_zoom_to 100
 
-scrap PerteSousLeLac-1e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
+scrap GouffreDejaVu-1e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 
 line wall -clip off -outline none
   -52.4338 880.1514
@@ -31,7 +31,7 @@ line wall -clip off -outline none
   749.0538 940.0757 764.0349 929.5889 764.0349 929.5889
 endline
 
-line border -close on -id PerteSousLeLac-1e_water_1 -visibility off
+line border -close on -id GouffreDejaVu-1e_water_1 -visibility off
   4668.1032 -352.7912
   4668.1032 -352.7912 4499.5661 -352.7912 4498.8171 -355.7874
   4498.068 -358.7836 4498.8171 -361.0307 4496.5699 -367.7722
@@ -44,7 +44,7 @@ line border -close on -id PerteSousLeLac-1e_water_1 -visibility off
 endline
 
 area water 
-  PerteSousLeLac-1e_water_1
+  GouffreDejaVu-1e_water_1
 endarea
 
 point 988.3474 401.483 label -align r -text "<bf>P27"

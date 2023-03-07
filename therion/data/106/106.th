@@ -348,8 +348,8 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106057	488596.0 4451785.0	280 # selon ASTER S50 W76	
-    station ENT_106057 "PE29"
-    equate ENT_106057 1@PE29
+    station ENT_106057 "Gouffre Déjà Vu"
+    equate ENT_106057 1@GouffreDejaVu
     
 
     fix ENT_106058	487919.0 4451318.0	240	

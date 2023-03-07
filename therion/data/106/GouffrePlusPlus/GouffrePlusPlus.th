@@ -5,6 +5,9 @@ survey GouffrePlusPlus -title 'GouffrePlusPlus' \
 
             
         	input Entree/Entree.th
+            input Suite/Suite.th
+
+            equate 0@Entree 1@Suite
 
 endsurvey
         
