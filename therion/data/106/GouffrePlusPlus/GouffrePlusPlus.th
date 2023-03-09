@@ -1,4 +1,4 @@
-survey GouffrePlusPlus -title 'GouffrePlusPlus' \
+survey GouffrePlusPlus -title "GouffrePlusPlus" \
             -attr cadnum 106023 \
             -attr exped UP2023 \ 
             -entrance 0@Entree
@@ -9,5 +9,21 @@ survey GouffrePlusPlus -title 'GouffrePlusPlus' \
 
             equate 0@Entree 1@Suite
 
+    map m-all-p -projection plan -title "Gouffre ++"
+        m-suite-p 
+        Entree
+    endmap
+
+    map m-suite-p -projection plan
+        Suite-1p@Suite
+        break
+        Suite-2p@Suite
+        break
+        Suite-3p@Suite
+    endmap
+
+    map m-all-e -projection extended -title "Coupe"
+        Suite-1e@Suite
+    endmap
 endsurvey
         

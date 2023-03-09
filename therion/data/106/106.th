@@ -1,4 +1,6 @@
 survey 106  -title "106 Seno Egg"
+  input ../gis/images/106-dem-1m.th
+
 
   input CuevaPirates/CuevaPirates.th
   input CuevaDelZorro/CuevaDelZorro.th
@@ -75,8 +77,8 @@ survey 106  -title "106 Seno Egg"
 
     input PerteChampis/PerteChampis.th
 
-    input PE29/PE29.th
-
+    input GouffreDejaVu/GouffreDejaVu.th
+     
     #input PerteSousLeLac/PerteSousLeLac.th
 
     #input PerteDuDisto/PerteDuDisto.th
@@ -101,60 +103,58 @@ survey 106  -title "106 Seno Egg"
     equate ENT_106001 44@a.Anglais2008.CuevaPirates
 
     fix ENT_106002	490289	4451286	35.0
-    station	 ENT_106002	"Cueva No Time"
+    station	 ENT_106002	"Cueva No Time" entrance continuation explored "640 m"
 
     fix ENT_106003	490289	4451286	3.0
-    station	 ENT_106003	"Résurgence NoTime"
+    station	 ENT_106003	"Résurgence NoTime" entrance
 
     fix ENT_106004	490541	4453870	20.0
-    station	 ENT_106004	"Cueva Nutria"
+    station	 ENT_106004	"Cueva Nutria" entrance
 
     fix ENT_106005	490289	4451286	70.0
-    station	 ENT_106005	"Porche"
+    station	 ENT_106005	"Porche" entrance
 
     fix ENT_106006	490604	4450548	0
-    station	 ENT_106006	"Grotte"
-
-    
+    station	 ENT_106006	"Grotte" entrance
 
     fix ENT_106008 	490080	4452381	96
-    station	 ENT_106008 	"Caracara"
+    station	 ENT_106008 	"Caracara" entrance
 
     fix ENT_106009  488815 4453011 186
-    station	 ENT_106009 "Plateau Egg 1, non descendu à cause de blocs instables"
+    station	 ENT_106009 "Plateau Egg 1, non descendu à cause de blocs instables" entrance
 
     fix ENT_106010 488956 4452962 189
-    station	 ENT_106010  "Plateau Egg 2, environ 40 m avec un méandre rétrécissant"
+    station	 ENT_106010  "Plateau Egg 2, environ 40 m avec un méandre rétrécissant" entrance continuation explored "40 m"
 
     fix ENT_106011 488956 4452962 201
-    station	 ENT_106011 "Plateau Egg 3, non descendu, blocs instables"
+    station	 ENT_106011 "Plateau Egg 3, non descendu, blocs instables" entrance
 
     fix ENT_106012 489317 4452812 224
-    station	 ENT_106012 "Plateau Egg 4, aussi PL22 bloqué après 15 m"
+    station	 ENT_106012 "Plateau Egg 4, aussi PL22 bloqué après 15 m" entrance
 
     fix ENT_106013 489234 4452876 213
-    station	 ENT_106013 "Plateau Egg 5, puits entre deux canyons de surface, fin sur 10 m"
+    station	 ENT_106013 "Plateau Egg 5, puits entre deux canyons de surface, fin sur 10 m" entrance
 
     fix ENT_106014 487636 4452795 226
-    station	 ENT_106014 "Plateau Egg 6,"
+    station	 ENT_106014 "Plateau Egg 6" entrance
 
     fix ENT_106015 487474 4452740 218
-    station	 ENT_106015 "Plateau Egg 7,"
+    station	 ENT_106015 "Plateau Egg 7" entrance
 
     fix ENT_106016 487506 4452738 220
-    station	 ENT_106016 "Plateau Egg 8, trois entrées permettent accès. Bruit de rivière sous des blocs"
+    station	 ENT_106016 "Plateau Egg 8, trois entrées permettent accès. Bruit de rivière sous des blocs" entrance
 
     fix ENT_106017 487836 4452871 225
-    station	 ENT_106017 "Plateau Egg 9, position hasardeuse?"
+    station	 ENT_106017 "Plateau Egg 9, position hasardeuse?" entrance
 
     fix ENT_106018 489278 4452871 216
-    station	 ENT_106018 "Deux puits fossiles"
+    station	 ENT_106018 "Deux puits fossiles" entrance
 
     fix ENT_106019 	488833 	4451227	325
-    station	 ENT_106019 "Los tres Rios"
+    station	 ENT_106019 "Los tres Rios" entrance
 
     fix ENT_106020 	489409 	4452098	187
-    station	 ENT_106020 	"Cueva del Dragon"
+    station	 ENT_106020 	"Cueva del Dragon" entrance
 
     fix ENT_106021 	490088 	4452354	105	## Zorro
     station ENT_106021 "Cueva del Zorro"
@@ -173,17 +173,17 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106024	486787.0 4451599.0	344	
-    station ENT_106024 "PerteContact1"
+    station ENT_106024 "PerteContact1" entrance
     #equate ENT_106024 0@PerteContact1
     
 
     fix ENT_106025	486872.0 4451692.0	343	
-    station ENT_106025 "PerteContact2"
+    station ENT_106025 "PerteContact2" entrance
     #equate ENT_106025 0@PerteContact2
     
 
     fix ENT_106026	487356.0 4451592.0	240	
-    station ENT_106026 "GouffreAuxCometes"
+    station ENT_106026 "GouffreAuxCometes" entrance
     #equate ENT_106026 0@GouffreAuxCometes
     
 
@@ -193,87 +193,82 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106028	488683.0 4451804.0	272	
-    station ENT_106028 "Perte sous le Lac"
+    station ENT_106028 "Perte sous le Lac" entrance continuation explored "50 m"
     #equate ENT_106028 1@PerteSousLeLac
     
 
     fix ENT_106029	489165.0 4451956.0	247	
-    station ENT_106029 "PE11"
+    station ENT_106029 "PE11" entrance 
     #equate ENT_106029 0@PE11
-    
-
-    fix ENT_106030	489165.0 4451956.0	298	
-    station ENT_106030 "PE12"
-    #equate ENT_106030 0@PE12
-    
+        
 
     fix ENT_106030	488882.0 4451954.0	298	
-    station ENT_106030 "PE12"
+    station ENT_106030 "PE12" entrance
     #equate ENT_106030 0@PE12
     
 
     fix ENT_106031	488836.0 4452012.0	301	
-    station ENT_106031 "PE13"
+    station ENT_106031 "PE13" entrance
     #equate ENT_106031 0@PE13
     
 
     fix ENT_106032	488805.0 4452001.0	292	
-    station ENT_106032 "PE14"
+    station ENT_106032 "PE14" entrance
     #equate ENT_106032 0@PE14
     
 
     fix ENT_106033	488207.0 4452069.0	294	
-    station ENT_106033 "GouffreDuBowling"
+    station ENT_106033 "GouffreDuBowling" entrance
     equate ENT_106033 3A@Entree.GouffreDuBowling
     
 
     fix ENT_106034	488180.0 4451981.0	269	
-    station ENT_106034 "PE16"
+    station ENT_106034 "PE16" entrance
     #equate ENT_106034 0@PE16
     
 
     fix ENT_106035	487896.0 4452464.0	195	
-    station ENT_106035 "AvenDesDeuxLacs"
+    station ENT_106035 "AvenDesDeuxLacs" entrance
     #equate ENT_106035 0@AvenDesDeuxLacs
     
 
     fix ENT_106036	488021.0 4452421.0	225	
-    station ENT_106036 "CreuxDuRavin"
+    station ENT_106036 "CreuxDuRavin" entrance
     #equate ENT_106036 0@CreuxDuRavin
     
 
     fix ENT_106037	487820.0 4452246.0	217	
-    station ENT_106037 "PE17"
+    station ENT_106037 "PE17" entrance
     #equate ENT_106037 0@PE17
     
 
     fix ENT_106038	487614.0 4452043.0	195	
-    station ENT_106038 "PE18"
+    station ENT_106038 "PE18" entrance
     #equate ENT_106038 0@PE18
     
 
     fix ENT_106039	487509.0 4451996.0	186	
-    station ENT_106039 "PE19"
+    station ENT_106039 "PE19" entrance
     #equate ENT_106039 0@PE19
     
 
     fix ENT_106040	487429.0 4451968.0	199	
-    station ENT_106040 "PE20"
+    station ENT_106040 "PE20" entrance
     #equate ENT_106040 0@PE20
     
 
     fix ENT_106041	487515.0 4451922.0	198	
-    station ENT_106041 "PE21"
+    station ENT_106041 "PE21" entrance
     #equate ENT_106041 0@PE21
     
 
     fix ENT_106042	487431.0 4451884.0	189	
-    station ENT_106042 "PE22"
+    station ENT_106042 "PE22" entrance
     #equate ENT_106042 0@PE22
     
 
     fix ENT_106043	487436.0 4451702.0	210	
-    station ENT_106043 "PE23"
+    station ENT_106043 "PE23" entrance
     #equate ENT_106043 0@PE23
     
 
@@ -283,59 +278,49 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106045	486859.0 4452028.0	331	
-    station ENT_106045 "PE24"
+    station ENT_106045 "PE24" entrance
     #equate ENT_106045 0@PE24
     
 
     fix ENT_106046	489629.0 4451375.0	328	
-    station ENT_106046 "GouffreDuRhinoceros"
+    station ENT_106046 "GouffreDuRhinoceros" entrance
     #equate ENT_106046 0@GouffreDuRhinoceros
     
 
     fix ENT_106047	489902.0 4451300.0	301	
-    station ENT_106047 "TrouDuHaut"
+    station ENT_106047 "TrouDuHaut" entrance
     #equate ENT_106047 0@TrouDuHaut
     
 
     fix ENT_106048	489470.0 4451892.0	211	
-    station ENT_106048 "TrouDeFiamat"
+    station ENT_106048 "TrouDeFiamat" entrance
     #equate ENT_106048 0@TrouDeFiamat
     
 
     fix ENT_106049	489354.0 4451880.0	206	
-    station ENT_106049 "Bramabio"
+    station ENT_106049 "Bramabio" entrance
     #equate ENT_106049 0@Bramabio
     
 
     fix ENT_106050	489645.0 4451788.0	271	
-    station ENT_106050 "PE25"
+    station ENT_106050 "PE25" entrance
     #equate ENT_106050 0@PE25
     
 
     fix ENT_106051	489585.0 4451271.0	325	
-    station ENT_106051 "PE26"
+    station ENT_106051 "PE26" entrance
     #equate ENT_106051 0@PE26
     
 
     fix ENT_106052	489719.0 4451403.0	330.4	
-    station ENT_106052 "PE27"
+    station ENT_106052 "PE27" entrance
     #equate ENT_106052 0@PE27
     
 
     fix ENT_106053	487664.0 4451452.0	243.1	
-    station ENT_106053 "PE28"
+    station ENT_106053 "PE28" entrance
     #equate ENT_106053 0@PE28
-    
-
-    fix ENT_106054	487664.0 4451452.0	243.1	
-    station ENT_106054 "PE28"
-    #equate ENT_106054 0@PE28
-    
-
-    fix ENT_106054	489620.0 4451272.0	0	
-    station ENT_106054 "PE28"
-    #equate ENT_106054 0@PE28
-    
+        
 
     fix ENT_106055	488575.0 4451682.0	295 # 295 selon ASTER # 262 gps	
     station ENT_106055 "Perte25MetresNageLibre"
@@ -348,22 +333,22 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106057	488596.0 4451785.0	280 # selon ASTER S50 W76	
-    station ENT_106057 "Gouffre Déjà Vu"
+    station ENT_106057 "Gouffre Déjà Vu" 
     equate ENT_106057 1@GouffreDejaVu
     
 
     fix ENT_106058	487919.0 4451318.0	240	
-    station ENT_106058 "Perte du Disto"
+    station ENT_106058 "Perte du Disto" entrance continuation explored "80 m"
     #equate ENT_106058 0@PerteDuDisto
     
 
     fix ENT_106059	487642.0 4450792.0	281	
-    station ENT_106059 "El Pozo Granizo"
+    station ENT_106059 "El Pozo Granizo" entrance continuation explored "80 m"
     #equate ENT_106059 0@ElPozoGranizo
     
-
+    
     fix ENT_106060	489099.0 4452897.0	201	
-    station ENT_106060 "PuitsdelArche"
+    station ENT_106060 "PuitsdelArche" entrance 
     #equate ENT_106060 0@PuitsdelArche
 
     fix ENT_106061	490025.9 4452629.9	0	

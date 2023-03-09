@@ -3,8 +3,8 @@ encoding utf-8
 
 survey Suite -title "suite du gouffre ++"
 
-input "230210_gouffre++ plan.th2"
-input "230210_gouffre++ ee.th2"
+ input "Suite-p.th2"
+ input "Suite-e.th2"
 
 	centreline
 		date 2023.02.10 

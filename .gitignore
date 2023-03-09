@@ -20,3 +20,9 @@ bin-release/
 *.pdf
 *.log
 *.svg
+
+*-dem-1m.tif
+*-dem-1m.txt
+*-dem-1m.txt.aux.xml
+*-satellite-1m.tif
+*-satellite.tif

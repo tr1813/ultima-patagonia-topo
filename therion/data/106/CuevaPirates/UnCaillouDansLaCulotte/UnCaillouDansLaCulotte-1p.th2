@@ -4,6 +4,7 @@ encoding  utf-8
 
 scrap UnCaillouDansLaCulotte-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
+point 417.0658 2197.781 u:terminus -attr text UP2023 -attr side 11 -orientation 330
 point 846.338 1901.6 gradient -orientation 340.43440086537305
 point 1010.56 1591.97 gradient -orientation 340.43440086537305
 line contour 
@@ -149,7 +150,7 @@ line wall:presumed -outline in
   1110.0312 1061.1339 1072.1547 1097.3072 1087.8437 1134.2224
 endline
 
-point 503.788 2286.67 label -align l -scale l -text "Un caillou dans la culotte"
+point 143.788 2846.6699 label -align l -scale l -text "Un caillou dans la culotte"
 line wall 
   596.4542 3352.9797
   534.4595 3319.6984

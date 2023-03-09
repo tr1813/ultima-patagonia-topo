@@ -15,18 +15,19 @@ layout local
   symbol-hide point station-name 
   symbol-hide line survey
   #color map-bg transparent
-
+  symbol-colour point u:terminus [70 10 0]
   endlayout
 
   layout plan
   copy local
+  legend on
   code tex-map
   #\framethickness=0.5mm
   \def\xcenter{0}
   \def\ycenter{90}
   \def\xscale{40}
   \def\yscale{3}
-  \legendwidth=5cm
+  \legendwidth=20cm
   # change this
   \def\customheader{
   \size[13]\bf \the\cavename \ss
@@ -36,9 +37,10 @@ layout local
   \par  \the\topoteam
   \par Topographie: Centre Terre, Oxford University Caving Club
   \par Ultima Patagonia 2008, 2023}
-  
+  \formattedlegend 
   \def\maplayout{
   \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter -3*\yscale\relax}{N}{\iflegend\insertlegend\fi}
   \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - \yscale\relax}{N}{\northarrow}
   \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\scalebar}
   \legendbox{\the\numexpr\xcenter-\xscale\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{E} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
@@ -68,6 +70,7 @@ endlayout
   
   \def\maplayout{
   \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
+
   \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - \yscale\relax}{N}{\northarrow}
   \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\scalebar}
   \legendbox{\the\numexpr\xcenter+2*\xscale\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{E} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
@@ -89,7 +92,7 @@ select m-all-e@CuevaPirates.106
 #export model -o outputs/CuevaPirates.3d -fmt survex
 ##export model -o outputs/CuevaPirates.lox
 #export atlas -o outputs/CuevaPirates.pdf -projection plan -layout local-p
-#export map -o outputs/CuevaPiratesmap.pdf -projection plan -layout plan 
+export map -o outputs/CuevaPiratesmap.pdf -projection plan -layout plan 
 
 
 export map -o outputs/CuevaPirates-coupe.pdf -projection extended -layout extended

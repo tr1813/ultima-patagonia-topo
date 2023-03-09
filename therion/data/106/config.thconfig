@@ -1,8 +1,7 @@
 source 106.th
 export model -o 106.3d -fmt survex
 export model -o 106.kml
-
-
+export cave-list -o 106.html
 
 input ../../layouts/detailed-p.thl
 
@@ -50,5 +49,4 @@ lang en
 
 
 # OUTPUTS
-
-export map -o ArchesSalinas.pdf -projection plan -layout local-p
+export model -o 106.lox

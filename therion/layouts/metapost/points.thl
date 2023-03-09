@@ -177,6 +177,81 @@ layout custom_points
 	      thdraw (0.13u,-0.2u)--(0,-0.2u)--(-0.17u,0.18u) withcolor (0.3,0.7,0.25);
 	    enddef;
 
+		def p_u_terminus (expr P,R,S,A) =
+			U:=(.2u,.2u);
+	      T:=identity aligned A rotated R scaled S shifted P;
+		
+	      pickup PenB;
+		  	p := (1u,-0.67u)--(1.15u,-0.58u)--(1.u,-1u)--(0.85u,-0.58u)--(1u,-0.67u)--cycle;
+			path arrowone;
+			path arrowtwo;
+			path arrowthree;
+			pair horizflip;
+			pair vertiflip;
+			arrowone:= (0,0) -- (2u,0);
+			arrowthree:= (0,0.15u) -- (2u,0.15u);
+
+			arrowtwo:= (1u,0) -- (1u,-0.67u);
+			
+		begingroup
+		picture thetext; % make label either right, left, top or bottom aligned. 
+		thetext := thTEX("\thframed{ \thtinysize\si " & ATTR_text & "}");
+		if known ATTR_text:
+			if known ATTR_side: 
+				side := scantokens(ATTR_side);
+				if side = 0:
+					horizflip := (-2u,0);
+					vertiflip := (0,0);
+					thfill (p shifted horizflip) shifted vertiflip;
+			thdraw (arrowone shifted horizflip) shifted vertiflip;
+			thdraw (arrowthree shifted horizflip) shifted vertiflip ;
+			thdraw (arrowtwo shifted horizflip) shifted vertiflip;
+					p_label.lrt(thetext, P, R,0);
+
+				elseif side = 1:
+					horizflip := (0.1u,0);
+					vertiflip := (0,0);
+					thfill (p shifted horizflip) shifted vertiflip;
+			thdraw (arrowone shifted horizflip) shifted vertiflip;
+			thdraw (arrowthree shifted horizflip) shifted vertiflip ;
+			thdraw (arrowtwo shifted horizflip) shifted vertiflip;
+					p_label.llft(thetext, P,R,0);
+				
+				elseif side = 10:
+					horizflip := (-1.9u,0);
+					vertiflip := (0,0);
+
+				thfill (p rotated 180 shifted (0.1u,0)) shifted (0,0.33u) ;
+				thdraw (arrowone shifted horizflip);
+				thdraw (arrowthree shifted horizflip);
+				thdraw (arrowtwo shifted horizflip)  shifted (0,0.85u) ;
+				p_label.urt(thetext, P,R,0);
+				
+				elseif side = 11:
+					horizflip := (0.1u,0);
+					vertiflip := (u,0);
+					thfill (p rotated 180 shifted (2.1u,0)) shifted (0,0.33u);
+				thdraw (arrowone shifted horizflip);
+				thdraw (arrowthree shifted horizflip);
+				thdraw (arrowtwo shifted horizflip)  shifted (0,0.85u);
+					p_label.ulft(thetext, P,R,0);
+
+				else: 
+					horizflip := (-2u,0);
+					vertiflip := (0,0);
+					thfill (p shifted horizflip) shifted vertiflip;
+			thdraw (arrowone shifted horizflip) shifted vertiflip;
+			thdraw (arrowthree shifted horizflip) shifted vertiflip ;
+			thdraw (arrowtwo shifted horizflip) shifted vertiflip;
+					p_label.lrt(thetext, P, R,0);
+				fi;
+			fi;
+		fi;
+
+		  	
+		endgroup 
+		enddef;
+
 	    # initialise the symbols here
 
 	    initsymbol("p_u_gradice_MY");
@@ -184,6 +259,7 @@ layout custom_points
 	    initsymbol("p_u_logger_MY");
 	    initsymbol("p_u_waterdrip_MY");
 	    initsymbol("p_u_grass_MY");
+		initsymbol("p_u_terminus");
 
 	endcode
 
