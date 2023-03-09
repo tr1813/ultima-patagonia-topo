@@ -16,7 +16,8 @@ layout local
   symbol-hide line survey
   symbol-hide point station
   color map-bg transparent
-
+  cs UTM18S
+  grid-origin 488596 4451785 0 m 
 endlayout 
 
 layout plan 
@@ -42,7 +43,8 @@ layout plan
   \par \si Développement :\ss{ \the\cavelength}
   \par \si Dénivellation :\ss{ \the\cavedepth}
   \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
-  \par \si Relevés topographiques :\ss{ }Arnauld Malard, Natalia Morata-Calvo,Laurence Boudoux d'Hautefeuille, Michel Philipps
+  \par \si Relevés topographiques :\ss{ }Arnauld Malard, Natalia Morata-Calvo,
+  \par Laurence Boudoux d'Hautefeuille, Michel Philips
   \par \si Report et dessins :\ss{  Tanguy Racine}}
   
   \def\maplayout{

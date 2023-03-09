@@ -1061,7 +1061,7 @@ area u:smallblocks
   PrioriteADroite-1p_u_smallblocks_3
 endarea
 
-line u:user 
+line u:texture 
   487.89 998.6
   506.43 1011.3
   525.24 1024.44
@@ -1069,13 +1069,13 @@ line u:user
   535.0 1059.22
 endline
 
-line u:user 
+line u:texture 
   549.43 1145.81
   551.35 1172.35
   548.46 1198.78
 endline
 
-line u:user 
+line u:texture 
   491.73 1160.24
   493.66 1136.78
   493.42 1109.26
@@ -1084,13 +1084,13 @@ line u:user
   472.26 1037.56
 endline
 
-line u:user 
+line u:texture 
   516.73 1102.51
   485.33 1117.9
   471.54 1127.53
 endline
 
-line u:user 
+line u:texture 
   543.66 1017.85
   509.04 1025.54
   489.28 1049.17
@@ -1098,7 +1098,7 @@ line u:user
   447.5 1075.57
 endline
 
-line u:user 
+line u:texture 
   576.35 1165.05
   547.5 1165.05
   517.72 1177.41

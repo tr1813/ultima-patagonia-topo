@@ -4,6 +4,7 @@ encoding  utf-8
 
 scrap Hacienda_Salinas_5new-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
+point 773.7635 1636.7413 u:terminus -attr text UP2023 -attr side 1 -orientation 310
 line border -close on -id Hacienda_Salinas_5new-1p_clay_1 -visibility off
   939.9028 1805.0354
   940.8202 1809.1638 978.4347 1905.4935 978.4347 1905.4935
@@ -422,7 +423,7 @@ line contour
   437.4424 2200.0781 427.8064 2195.2374 418.2518 2190.241
 endline
 
-line border 
+line contour 
   787.9 2074.17
   778.04 2069.73
   769.54 2062.58
@@ -438,7 +439,7 @@ line border
   715.24 1966.76
 endline
 
-line border 
+line contour 
   824.46 2046.19
   814.2 2040.84
   806.12 2032.37
@@ -451,7 +452,7 @@ line border
   764.43 1951.47
 endline
 
-line border 
+line contour 
   875.9 1992.94
   866.1 1989.84
   855.78 1984.49
@@ -464,7 +465,7 @@ line border
   807.31 1904.03
 endline
 
-line border 
+line contour 
   916.52 1957.73
   905.36 1952.44
   895.96 1943.94
@@ -478,7 +479,7 @@ line border
   858.3 1849.42
 endline
 
-line border 
+line contour 
   983.28 1892.93
   973.21 1882.26
   965.85 1870.84
@@ -523,7 +524,7 @@ line rock-border -close on
   747.65 2000.03
 endline
 
-line border 
+line contour 
   986.08 1776.97
   990.39 1788.34
   996.97 1800.96
@@ -531,7 +532,7 @@ line border
   1013.21 1820.03
 endline
 
-line border 
+line contour 
   1037.7 1752.26
   1042.55 1765.25
   1050.23 1775.22
@@ -539,7 +540,7 @@ line border
   1066.81 1787.96
 endline
 
-line border 
+line contour 
   1073.4 1695.69
   1081.0 1708.15
   1089.15 1716.39
@@ -548,7 +549,7 @@ line border
   1121.73 1736.79
 endline
 
-line border 
+line contour 
   1124.12 1644.83
   1126.43 1657.18
   1131.26 1670.46
@@ -558,7 +559,7 @@ line border
   1173.49 1721.29
 endline
 
-line border 
+line contour 
   1148.8 1602.08
   1158.28 1612.76
   1169.63 1621.79
@@ -570,7 +571,7 @@ endline
 point 1219.92 1677.52 air-draught -orientation 325.83999897700886
 point 1390.45 1549.72 continuation -scale s
 point 1371.94 1555.21 narrow-end -scale s
-line border 
+line contour 
   1167.4 1557.93
   1176.43 1570.65
   1186.88 1581.72
@@ -579,18 +580,18 @@ line border
   1220.89 1591.75
 endline
 
-line border 
+line contour 
   1217.25 1426.93
   1225.46 1435.18
   1234.12 1437.64
 endline
 
-line border 
+line contour 
   1233.05 1399.35
   1242.33 1409.48
 endline
 
-line border 
+line contour 
   1255.53 1374.72
   1268.92 1388.65
 endline
@@ -613,45 +614,45 @@ point 1313.6 1316.9 water-flow -orientation 318.07001675129334 -scale s
 point 1267.27 1377.71 water-flow -orientation 328.3899640926944 -scale s
 point 1397.04 1262.53 water-flow -orientation 309.56000598735716 -scale s
 point 1399.39 1152.72 air-draught -align l -scale s
-line border 
+line contour 
   1648.24 1074.24
   1638.84 1066.63
   1632.83 1055.79
   1631.29 1045.47
 endline
 
-line border 
+line contour 
   1614.88 1074.08
   1606.67 1063.02
   1602.81 1052.8
 endline
 
-line border 
+line contour 
   1581.22 1083.29
   1572.33 1072.54
 endline
 
-line border 
+line contour 
   1544.39 1102.34
   1539.36 1095.82
   1534.86 1082.09
   1535.18 1073.13
 endline
 
-line border 
+line contour 
   1511.05 1109.0
   1505.1 1103.33
   1501.26 1095.19
   1501.21 1078.84
 endline
 
-line border 
+line contour 
   1441.56 1128.24
   1448.43 1135.65
   1460.76 1141.35
 endline
 
-line border 
+line contour 
   1427.98 1177.89
   1433.97 1188.01
   1442.81 1197.01
@@ -660,13 +661,13 @@ line border
   1467.32 1216.77
 endline
 
-line border 
+line contour 
   1409.24 1235.97
   1412.91 1245.66
   1421.42 1255.17
 endline
 
-line border 
+line contour 
   1356.86 1262.62
   1363.64 1275.05
   1375.02 1284.54
@@ -747,7 +748,7 @@ line rock-border -close on
   1693.26 1066.33
 endline
 
-line border 
+line contour 
   1676.91 1068.22
   1671.57 1055.76
   1672.83 1041.85
