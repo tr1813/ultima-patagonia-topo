@@ -93,8 +93,7 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 		extend left 202@e.Anglais2008 203@e.Anglais2008
 		extend left 203@e.Anglais2008 204@e.Anglais2008
 		extend left 204@e.Anglais2008 205@e.Anglais2008
-		extend ignore 208@e.Anglais2008
-		extend left 14@a.Anglais2008 15@a.Anglais2008
+#		extend left 14@a.Anglais2008 15@a.Anglais2008
 		extend left 15@a.Anglais2008
 		extend ignore 28@PiratesJonction
 		extend ignore 5@SalinasNew4 
@@ -103,6 +102,8 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 		extend right 55@b.Anglais2008  56@b.Anglais2008
 		extend right 56@b.Anglais2008
 		extend left 161@d.Anglais2008 8@PiratesJonction
+		extend ignore 211@e.Anglais2008
+		extend right 162@d.Anglais2008 163@d.Anglais2008
 		extend right 211@e.Anglais2008 212@e.Anglais2008
 		extend right 212@e.Anglais2008 213@e.Anglais2008
 		extend right 211@PiratesJonction 214@e.Anglais2008
@@ -120,6 +121,15 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 		extend left 4@Pirates2008
 		extend right 1@Pirates2008 2@Pirates2008
 		extend right 2@Pirates2008
+		extend right 15@a.Anglais2008 129@c.Anglais2008
+		extend right 112@c.Anglais2008 110@c.Anglais2008
+		extend right 110@c.Anglais2008
+		extend left 107@c.Anglais2008 17@c.Anglais2008
+		extend left 17@c.Anglais2008 90@b.Anglais2008
+		extend left 17@c.Anglais2008 90@b.Anglais2008
+		extend left 17@a.Anglais2008 18@a.Anglais2008
+		extend left 90@b.Anglais2008
+
 
 	endcentreline
 
@@ -161,6 +171,8 @@ map m-all-p -projection plan
 endmap
 
 map m-all-e -projection extended
+	PrioriteADroite-1e@PrioriteADroite
+	CuevaPirates-jonctions-3
 	CuevaPirates-jonctions-2
 	break
 	CuevaPirates-jonctions
@@ -180,6 +192,9 @@ map m-all-e -projection extended
 	CuevaPirates-muddyhollows-1
 	break
 	CuevaPirates-muddyhollows-2
+	CuevaPirates-whiterhino-2
+	break
+	CuevaPirates-whiterhino-1
 	CuevaPirates-dodgyplumbing
 	CuevaPirates-girafe
 	CuevaPirates-PinceMi

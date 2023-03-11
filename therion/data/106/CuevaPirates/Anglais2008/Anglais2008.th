@@ -9,7 +9,7 @@ input Anglais2008-p.th2
 		team "Simon Headford" dog
 		date 2008.4.6
 		explo-date 2008.4.6
-		explo-team "OUCC"
+		explo-team "[Oxford University Caving Club]"
 
         # marquer les stations fixees.
 		mark 17 15 16 23 fixed
@@ -105,13 +105,13 @@ input Anglais2008-p.th2
 	survey b
 		centreline
 		team "Lou Maurice" notes
-		team "Tim Guildford" notes
+		team "Tim Guilford" notes
 		team "Rick Padfield" insts
 		team "Simon Headford" dog
  		mark 17 53 55 fixed
 		date 2008.4.7
 		explo-date 2008.4.7
-		explo-team "OUCC"
+		explo-team "[Oxford University Caving Club]"
 		units length meters
     	units compass clino degrees
 		data normal from to  tape  compass  clino
@@ -212,11 +212,11 @@ input Anglais2008-p.th2
 	survey c
 		centreline
 		team "Ben Lovett" notes
-		team "Tim Guildford" notes
+		team "Tim Guilford" notes
 		team "Simon Headford" insts
 		date 2008.4.8
 		explo-date 2008.4.8
-		explo-team "OUCC"
+		explo-team "[Oxford University Caving Club]"
 		 mark 16 15 17 fixed
 		units length meters
     	units compass clino degrees
@@ -294,7 +294,7 @@ input Anglais2008-p.th2
 
 		date 2008.4.9
 		explo-date 2008.4.9
-		explo-team "OUCC"
+		explo-team "[Oxford University Caving Club]"
 		units length meters
     	units compass clino degrees
 		data normal from to  tape  compass  clino
@@ -337,7 +337,7 @@ input Anglais2008-p.th2
 		team "Rick Padfield" insts
 		date 2008.4.10
 		explo-date 2008.4.10
-		explo-team "OUCC"
+		explo-team "[Oxford University Caving Club]"
 		mark 163 fixed
 		units length meters
     	units compass clino degrees

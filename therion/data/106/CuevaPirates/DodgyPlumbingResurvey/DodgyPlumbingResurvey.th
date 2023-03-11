@@ -4,7 +4,13 @@ survey DodgyPlumbingResurvey -title "DodgyPlumbingResurvey"
 
   centerline
     date 2023.02.08 
-    # team tanguy Joel Alexandre Christine 
+    team "Tanguy Racine"
+    team "Joël Trémoulet" 
+    team "Alexandre Andrieu" 
+    team "Christine Magot" 
+
+    explo-date "2008.04.08"
+    explo-team "[Oxford University Caving Club]"
     units length meters
     units compass clino degrees
     data normal from to length compass clino
