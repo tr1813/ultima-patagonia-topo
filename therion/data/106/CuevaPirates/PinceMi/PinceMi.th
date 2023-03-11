@@ -7,7 +7,8 @@ survey PinceMi -title "Pince Mi"
     date 2023.02.10
     explo-date 2023.02.10 
     team "Tanguy Racine" 
-    team "Alexande Honiat" 
+    team "Alexandre Honiat" 
+    explo-team "[Centre Terre]"
     units length meters
     units compass clino degrees
     data normal from to length compass clino

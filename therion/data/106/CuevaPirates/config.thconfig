@@ -11,10 +11,12 @@ layout local
   map-header 0 0 off
   symbol-show point label
   symbol-hide point passage-height
+  statistics topo-length on
   color map-bg [85 85 85]
   symbol-hide point station-name 
   symbol-hide line survey
   #color map-bg transparent
+  symbol-assign line wall:clay MYEE
   symbol-colour point u:terminus [70 10 0]
   endlayout
 
@@ -92,7 +94,7 @@ select m-all-e@CuevaPirates.106
 #export model -o outputs/CuevaPirates.3d -fmt survex
 ##export model -o outputs/CuevaPirates.lox
 #export atlas -o outputs/CuevaPirates.pdf -projection plan -layout local-p
-export map -o outputs/CuevaPiratesmap.pdf -projection plan -layout plan 
+#export map -o outputs/CuevaPiratesmap.pdf -projection plan -layout plan 
 
 
 export map -o outputs/CuevaPirates-coupe.pdf -projection extended -layout extended

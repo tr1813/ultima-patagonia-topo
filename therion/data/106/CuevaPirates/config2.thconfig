@@ -1,3 +1,5 @@
 source CuevaPirates.th 
 
-export map -o CuevaPirates-ee.pdf -projection extended
+
+export database -o outputs/CuevaPirates.sql
+
