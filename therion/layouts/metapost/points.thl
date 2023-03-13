@@ -247,10 +247,57 @@ layout custom_points
 				fi;
 			fi;
 		fi;
+	endgroup
+	enddef;
 
-		  	
-		endgroup 
-		enddef;
+	def p_altitude(expr pos)=
+    T:=identity shifted pos;
+    pickup PenD;
+    p:=fullcircle scaled .2u;
+    thclean p;
+  	enddef;
+
+	vardef p_label@#(expr txt,pos,rot,mode) =
+    if mode=1:
+      thdrawoptions(withcolor .8red + .1blue);
+      p_altitude(pos);
+      % append "m" to label
+      picture txtm;
+      txtm:=image(
+        draw txt;
+        interim labeloffset:=0;
+        label.urt(btex \thtinysize \bf \thaltitude m etex, lrcorner txt);
+      );
+      % give extra offset in case of l/r/t/b alignment
+      pair ctmp;
+      ctmp:=center thelabel@#("x", (0,0));
+      if (xpart ctmp * ypart ctmp)=0:
+        interim labeloffset:=(.4u);
+      else: % diagonal alignment
+        interim labeloffset:=(.2u);
+      fi;
+      % draw label
+      lab:=thelabel@#(txtm, pos);
+      draw lab _thop_; % use color
+      thdrawoptions();
+      bboxmargin:=0.8bp;
+      write_circ_bbox((bbox lab) smoothed 2);
+    else:
+      if mode=7: interim labeloffset:=(u/8) fi;
+      lab:=thelabel@#(txt, pos);
+      if mode>1: pickup PenD fi;
+      if mode=2: process_uplabel;
+      elseif mode=3: process_downlabel;
+      elseif mode=4: process_updownlabel;
+      elseif mode=5:thdrawoptions(withcolor .8red + .1blue);
+					process_circledlabel;
+      elseif mode=6: process_boxedlabel;
+      elseif mode=7: process_label(pos,rot);  % station name
+      elseif mode=8: process_filledlabel(pos, rot);
+      else: process_label(pos,rot); fi;
+    fi;
+  enddef;
+  
 
 	    # initialise the symbols here
 
@@ -260,6 +307,7 @@ layout custom_points
 	    initsymbol("p_u_waterdrip_MY");
 	    initsymbol("p_u_grass_MY");
 		initsymbol("p_u_terminus");
+		initsymbol("p_u_altitude_MY");
 
 	endcode
 

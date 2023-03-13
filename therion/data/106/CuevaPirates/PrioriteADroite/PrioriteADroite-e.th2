@@ -4,6 +4,7 @@ encoding  utf-8
 
 scrap PrioriteADroite-1e -projection extended -scale [0 0 39.3701 0 0 0 1 0 m]
 
+point 450.5178 297.5609 altitude -align tr
 point 343.3435 -113.9362 u:terminus -attr text UP2023 -attr side 10 -orientation 88
 point 4174.5185 794.7379 stalactite -align b -clip on -scale xs
 point 4800.3937 718.6178 soda-straw -align b -clip on -scale xs
