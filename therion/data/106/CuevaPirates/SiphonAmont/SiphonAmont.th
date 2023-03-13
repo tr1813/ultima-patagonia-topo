@@ -4,11 +4,12 @@
 survey SiphonAmont
 
     centreline
-    
+
+    explo-team "[Centre Terre]"
         explo-date 2023.02.18
         date 2023.02.18
-        team "Franck Brehier"
-        explo-team "Centre Terre"
+        team "Franck Bréhier"
+        explo-team "[Centre Terre]"
         
         data diving from to tape compass fromdepth todepth 
         

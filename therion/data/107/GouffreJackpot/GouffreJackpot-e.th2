@@ -1,0 +1,983 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust 0 0 500.000000 1000.000000
+##XTHERION## xth_me_area_zoom_to 100
+
+scrap GouffreJackpot-1e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
+
+point -1811.59 1150.658 station -name 0
+point -1791.36 1150.658 station -name 1
+point -1752.08 1143.75 station -name 2
+point -1708.54 1124.348 station -name 3
+point -1681.84 1118.665 station -name 4
+point -1661.96 1100.783 station -name 5
+point -1645.26 1077.807 station -name 6
+point -1627.35 1031.117 station -name A
+point -1592.89 1071.339 station -name 7
+point -1571.17 1059.287 station -name 8
+point -1562.68 1053.163 station -name 9
+point -1545.87 1054.338 station -name B1
+point -1521.66 1063.158 station -name B2
+point -1551.04 1051.498 station -name 10
+point -1534.41 1039.005 station -name 11
+point -1517.48 1038.073 station -name 12
+point -1497.42 1037.045 station -name 13
+point -1488.9 1027.589 station -name 14
+point -1477.07 1019.897 station -name 15
+point -1467.27 1009.757 station -name 16
+point -1458.0 994.911 station -name 17
+point -1447.03 980.361 station -name 18
+point -1420.54 961.793 station -name C1
+point -1428.16 982.664 station -name 19
+point -1418.61 996.332 station -name 20
+point -1405.89 986.73 station -name 21
+point -1392.06 966.203 station -name 22
+point -1381.41 949.202 station -name 23
+point -1337.04 920.345 station -name 24
+point -1241.52 853.471 station -name 25
+point -1232.44 849.797 station -name 26
+point -1204.07 788.998 station -name 27
+point -1178.63 787.675 station -name D1
+point -1177.34 784.294 station -name 28
+point -1152.98 781.698 station -name 29
+point -1124.43 763.179 station -name 30
+point -1087.65 732.314 station -name 31
+point -1064.25 724.23 station -name 32
+point -1017.82 694.1 station -name 33
+point -954.82 650.007 station -name 34
+point -943.72 641.923 station -name 35
+point -919.26 643.198 station -name 36
+point -888.51 623.993 station -name 37
+point -856.77 616.643 station -name 38
+point -827.57 608.266 station -name 46A
+point 685.056 386.038 station -name 16B
+point 644.466 387.459 station -name 2A
+point 620.801 408.7702 station -name 3A
+point 608.942 428.5139 station -name 4A
+point 574.194 430.9143 station -name 5A
+point 538.778 422.0953 station -name 6A
+point 518.28 423.9083 station -name 7A
+point 499.316 426.2117 station -name 8A
+point 467.011 429.6401 station -name 9A
+point 425.277 436.9895 station -name 10A
+point 374.715 441.3984 station -name 11A
+point 339.6056 445.7102 station -name 12A
+point 316.9849 446.4942 station -name 13A
+point 214.6654 457.2719 station -name 14A
+point 157.4803 464.2779 station -name 15A
+point 131.955 466.5315 station -name 16A
+point 98.33 468.8834 station -name 17A
+point 68.766 472.5084 station -name 18A
+point 30.392 478.5835 station -name 19A
+point -4.878 483.5325 station -name 20A
+point -33.429 486.03 station -name 21A
+point -66.866 491.3212 station -name 22A
+point -101.975 495.633 station -name 23A
+point -139.32 500.2386 station -name 24A
+point -196.229 508.2239 station -name 25A
+point -261.388 516.2092 station -name 26A
+point -324.41 523.9506 station -name 27A
+point -359.452 527.0367 station -name 28A
+point -387.261 528.9481 station -name 29A
+point -417.178 531.5937 station -name 30A
+point -437.231 537.7174 station -name 31A
+point -452.374 534.4832 station -name 32A
+point -484.442 538.9904 station -name 33A
+point -503.232 540.6567 station -name 34A
+point -555.75 547.0753 station -name 35A
+point -610.028 556.6771 station -name 36A
+point -650.557 566.0349 station -name 37A
+point -676.86 572.1101 station -name 38A
+point -687.427 572.6489 station -name 39A
+point -701.047 580.4874 station -name 40A
+point -720.452 583.2313 station -name 41A
+point -733.499 575.0979 station -name 42A
+point -755.61 578.5772 station -name 43A
+point -783.12 583.917 station -name 44A
+point -802.07 604.248 station -name 45A
+point 1054.874 272.964 station -name JP
+point 987.97 293.443 station -name 1B
+point 935.266 264.243 station -name 2B
+point 924.208 249.007 station -name 3B
+point 908.015 246.998 station -name 4B
+point 870.781 246.998 station -name 5B
+point 863.098 243.078 station -name 6B
+point 859.919 252.877 station -name 7B
+point 844.488 252.632 station -name 8B
+point 836.227 264.39 station -name 9B
+point 814.007 267.526 station -name 10B
+point 801.262 264.587 station -name 11B
+point 769.145 269.094 station -name 12B
+point 740.546 245.087 station -name 13B
+point 719.363 365.265 station -name 14B
+point 714.29 389.124 station -name 15B
+point 1060.965 274.826 station -name 1C
+point 1092.104 213.733 station -name 2C
+point 1132.253 212.312 station -name 3C
+point 1163.675 203.885 station -name 4C
+point 1185.996 202.954 station -name 5C
+point 1206.271 202.464 station -name 6C
+point 1277.04 184.533 station -name 7C
+point 1320.39 174.147 station -name 8C
+point 1343.15 163.809 station -name 9C
+point 1398.31 163.809 station -name 10C
+point 1411.35 158.96 station -name 11C
+point 1422.01 151.61 station -name 12C
+point 1424.35 139.608 station -name 13C
+point 1439.48 138.285 station -name 14C
+point 1452.71 128.682 station -name 15C
+point 1468.38 129.368 station -name 16C
+point 1519.4 122.804 station -name 17C
+point 1544.98 120.108 station -name 18C
+point 1555.98 112.417 station -name 19C
+point 1555.98 98.7 station -name 20C
+point 1592.13 97.964 station -name 21C
+point 1608.97 86.99 station -name 22C
+point 1677.5 72.439 station -name 23C
+point 1750.9 68.863 station -name 24C
+point 1779.46 63.229 station -name 25C
+point 1816.65 59.016 station -name 26C
+point 1876.88 31.677 station -name 27C
+point 1960.45 6.789 station -name 28C
+point 2025.66 -17.461 station -name 29C
+point 2087.15 -57.733 station -name 30C
+point 2150.98 -96.044 station -name 31C
+point 2193.68 -113.339 station -name 32C
+point 2229.65 -115.837 station -name 33C
+point 2322.3 -147.731 station -name 34C
+line survey 
+  -1811.5914 1150.6575
+  -1791.3575 1150.6575
+endline
+
+line survey 
+  -1791.3575 1150.6575
+  -1752.0842 1143.7498
+endline
+
+line survey 
+  -1752.0842 1143.7498
+  -1708.5352 1124.3484
+endline
+
+line survey 
+  -1708.5352 1124.3484
+  -1681.8428 1118.6652
+endline
+
+line survey 
+  -1681.8428 1118.6652
+  -1661.9648 1100.7832
+endline
+
+line survey 
+  -1661.9648 1100.7832
+  -1645.2625 1077.8066
+endline
+
+line survey 
+  -1645.2625 1077.8066
+  -1627.3543 1031.1168
+endline
+
+line survey 
+  -1645.2625 1077.8066
+  -1592.8907 1071.3395
+endline
+
+line survey 
+  -1592.8907 1071.3395
+  -1571.166 1059.2875
+endline
+
+line survey 
+  -1571.166 1059.2875
+  -1562.6841 1053.1625
+endline
+
+line survey 
+  -1562.6841 1053.1625
+  -1545.8723 1054.3385
+endline
+
+line survey 
+  -1545.8723 1054.3385
+  -1521.6563 1063.1576
+endline
+
+line survey 
+  -1562.6841 1053.1625
+  -1551.0403 1051.4975
+endline
+
+line survey 
+  -1551.0403 1051.4975
+  -1534.4114 1039.005
+endline
+
+line survey 
+  -1534.4114 1039.005
+  -1517.4838 1038.073
+endline
+
+line survey 
+  -1517.4838 1038.073
+  -1497.4241 1037.0451
+endline
+
+line survey 
+  -1497.4241 1037.0451
+  -1488.9012 1027.5889
+endline
+
+line survey 
+  -1488.9012 1027.5889
+  -1477.0682 1019.8973
+endline
+
+line survey 
+  -1477.0682 1019.8973
+  -1467.2661 1009.7567
+endline
+
+line survey 
+  -1467.2661 1009.7567
+  -1457.9978 994.911
+endline
+
+line survey 
+  -1457.9978 994.911
+  -1447.0297 980.3614
+endline
+
+line survey 
+  -1447.0297 980.3614
+  -1420.5426 961.7925
+endline
+
+line survey 
+  -1447.0297 980.3614
+  -1428.1621 982.6636
+endline
+
+line survey 
+  -1428.1621 982.6636
+  -1418.6088 996.3321
+endline
+
+line survey 
+  -1418.6088 996.3321
+  -1405.8923 986.7303
+endline
+
+line survey 
+  -1405.8923 986.7303
+  -1392.0571 966.2027
+endline
+
+line survey 
+  -1392.0571 966.2027
+  -1381.4125 949.2017
+endline
+
+line survey 
+  -1381.4125 949.2017
+  -1337.0372 920.3453
+endline
+
+line survey 
+  -1337.0372 920.3453
+  -1241.5233 853.4713
+endline
+
+line survey 
+  -1241.5233 853.4713
+  -1232.438 849.7966
+endline
+
+line survey 
+  -1232.438 849.7966
+  -1204.0731 788.9977
+endline
+
+line survey 
+  -1204.0731 788.9977
+  -1178.6314 787.6749
+endline
+
+line survey 
+  -1204.0731 788.9977
+  -1177.3434 784.2939
+endline
+
+line survey 
+  -1177.3434 784.2939
+  -1152.9818 781.6981
+endline
+
+line survey 
+  -1152.9818 781.6981
+  -1124.4253 763.1789
+endline
+
+line survey 
+  -1124.4253 763.1789
+  -1087.6459 732.3141
+endline
+
+line survey 
+  -1087.6459 732.3141
+  -1064.2524 724.2305
+endline
+
+line survey 
+  -1064.2524 724.2305
+  -1017.8226 694.0998
+endline
+
+line survey 
+  -1017.8226 694.0998
+  -954.8162 650.007
+endline
+
+line survey 
+  -954.8162 650.007
+  -943.7174 641.9234
+endline
+
+line survey 
+  -943.7174 641.9234
+  -919.255 643.1977
+endline
+
+line survey 
+  -919.255 643.1977
+  -888.5096 623.9928
+endline
+
+line survey 
+  -888.5096 623.9928
+  -856.765 616.6434
+endline
+
+line survey 
+  -856.765 616.6434
+  -827.5664 608.2661
+endline
+
+line survey 
+  685.0558 386.0375
+  644.466 387.4586
+endline
+
+line survey 
+  644.466 387.4586
+  620.8013 408.7702
+endline
+
+line survey 
+  620.8013 408.7702
+  608.9421 428.5139
+endline
+
+line survey 
+  608.9421 428.5139
+  574.1935 430.9143
+endline
+
+line survey 
+  574.1935 430.9143
+  538.7779 422.0953
+endline
+
+line survey 
+  538.7779 422.0953
+  518.2802 423.9083
+endline
+
+line survey 
+  518.2802 423.9083
+  499.3155 426.2117
+endline
+
+line survey 
+  499.3155 426.2117
+  467.0109 429.6401
+endline
+
+line survey 
+  467.0109 429.6401
+  425.2775 436.9895
+endline
+
+line survey 
+  425.2775 436.9895
+  374.7151 441.3984
+endline
+
+line survey 
+  374.7151 441.3984
+  339.6056 445.7102
+endline
+
+line survey 
+  339.6056 445.7102
+  316.9849 446.4942
+endline
+
+line survey 
+  316.9849 446.4942
+  214.6654 457.2719
+endline
+
+line survey 
+  214.6654 457.2719
+  157.4803 464.2779
+endline
+
+line survey 
+  157.4803 464.2779
+  131.9551 466.5315
+endline
+
+line survey 
+  131.9551 466.5315
+  98.3302 468.8834
+endline
+
+line survey 
+  98.3302 468.8834
+  68.7658 472.5084
+endline
+
+line survey 
+  68.7658 472.5084
+  30.3922 478.5835
+endline
+
+line survey 
+  30.3922 478.5835
+  -4.8778 483.5325
+endline
+
+line survey 
+  -4.8778 483.5325
+  -33.4293 486.03
+endline
+
+line survey 
+  -33.4293 486.03
+  -66.8663 491.3212
+endline
+
+line survey 
+  -66.8663 491.3212
+  -101.9745 495.633
+endline
+
+line survey 
+  -101.9745 495.633
+  -139.3202 500.2386
+endline
+
+line survey 
+  -139.3202 500.2386
+  -196.2291 508.2239
+endline
+
+line survey 
+  -196.2291 508.2239
+  -261.3883 516.2092
+endline
+
+line survey 
+  -261.3883 516.2092
+  -324.4097 523.9506
+endline
+
+line survey 
+  -324.4097 523.9506
+  -359.452 527.0367
+endline
+
+line survey 
+  -359.452 527.0367
+  -387.2606 528.9481
+endline
+
+line survey 
+  -387.2606 528.9481
+  -417.1784 531.5937
+endline
+
+line survey 
+  -417.1784 531.5937
+  -437.2307 537.7174
+endline
+
+line survey 
+  -437.2307 537.7174
+  -452.3738 534.4832
+endline
+
+line survey 
+  -452.3738 534.4832
+  -484.4419 538.9904
+endline
+
+line survey 
+  -484.4419 538.9904
+  -503.2324 540.6567
+endline
+
+line survey 
+  -503.2324 540.6567
+  -555.7497 547.0753
+endline
+
+line survey 
+  -555.7497 547.0753
+  -610.028 556.6771
+endline
+
+line survey 
+  -610.028 556.6771
+  -650.5568 566.0349
+endline
+
+line survey 
+  -650.5568 566.0349
+  -676.8597 572.1101
+endline
+
+line survey 
+  -676.8597 572.1101
+  -687.4271 572.6489
+endline
+
+line survey 
+  -687.4271 572.6489
+  -701.0471 580.4874
+endline
+
+line survey 
+  -701.0471 580.4874
+  -720.4522 583.2313
+endline
+
+line survey 
+  -720.4522 583.2313
+  -733.4985 575.0979
+endline
+
+line survey 
+  -733.4985 575.0979
+  -755.6127 578.5772
+endline
+
+line survey 
+  -755.6127 578.5772
+  -783.1214 583.917
+endline
+
+line survey 
+  -783.1214 583.917
+  -802.0662 604.2479
+endline
+
+line survey 
+  -802.0662 604.2479
+  -827.5664 608.2661
+endline
+
+line survey 
+  1054.8739 272.964
+  987.97 293.443
+endline
+
+line survey 
+  987.97 293.443
+  935.266 264.2432
+endline
+
+line survey 
+  935.266 264.2432
+  924.2082 249.0068
+endline
+
+line survey 
+  924.2082 249.0068
+  908.0149 246.9983
+endline
+
+line survey 
+  908.0149 246.9983
+  870.7812 246.9983
+endline
+
+line survey 
+  870.7812 246.9983
+  863.0983 243.0784
+endline
+
+line survey 
+  863.0983 243.0784
+  859.9188 252.8768
+endline
+
+line survey 
+  859.9188 252.8768
+  844.4883 252.6317
+endline
+
+line survey 
+  844.4883 252.6317
+  836.2267 264.39
+endline
+
+line survey 
+  836.2267 264.39
+  814.0067 267.5259
+endline
+
+line survey 
+  814.0067 267.5259
+  801.2616 264.5867
+endline
+
+line survey 
+  801.2616 264.5866
+  769.1449 269.0939
+endline
+
+line survey 
+  769.1449 269.0939
+  740.5461 245.0869
+endline
+
+line survey 
+  740.5461 245.0869
+  719.3627 365.2648
+endline
+
+line survey 
+  719.3627 365.2648
+  714.2905 389.1236
+endline
+
+line survey 
+  714.2905 389.1236
+  685.0558 386.0375
+endline
+
+line survey 
+  1054.8739 272.964
+  1060.9652 274.8256
+endline
+
+line survey 
+  1060.9652 274.8256
+  1092.1038 213.733
+endline
+
+line survey 
+  1092.1038 213.733
+  1132.2531 212.3119
+endline
+
+line survey 
+  1132.2531 212.3119
+  1163.6755 203.8848
+endline
+
+line survey 
+  1163.6755 203.8848
+  1185.9963 202.954
+endline
+
+line survey 
+  1185.9963 202.954
+  1206.2713 202.4637
+endline
+
+line survey 
+  1206.2713 202.4637
+  1277.039 184.5332
+endline
+
+line survey 
+  1277.039 184.5332
+  1320.3902 174.1474
+endline
+
+line survey 
+  1320.3902 174.1474
+  1343.1452 163.809
+endline
+
+line survey 
+  1343.1452 163.809
+  1398.3095 163.809
+endline
+
+line survey 
+  1398.3095 163.809
+  1411.3508 158.9595
+endline
+
+line survey 
+  1411.3508 158.9595
+  1422.0103 151.6101
+endline
+
+line survey 
+  1422.0103 151.6101
+  1424.3473 139.6079
+endline
+
+line survey 
+  1424.3473 139.6079
+  1439.4767 138.2851
+endline
+
+line survey 
+  1439.4767 138.2851
+  1452.7146 128.6821
+endline
+
+line survey 
+  1452.7146 128.6821
+  1468.3779 129.3677
+endline
+
+line survey 
+  1468.3779 129.3677
+  1519.402 122.8035
+endline
+
+line survey 
+  1519.402 122.8035
+  1544.9831 120.1082
+endline
+
+line survey 
+  1544.9831 120.1082
+  1555.9786 112.4165
+endline
+
+line survey 
+  1555.9786 112.4165
+  1555.9786 98.6995
+endline
+
+line survey 
+  1555.9786 98.6995
+  1592.1272 97.9641
+endline
+
+line survey 
+  1592.1272 97.9641
+  1608.9726 86.9897
+endline
+
+line survey 
+  1608.9726 86.9897
+  1677.5004 72.4389
+endline
+
+line survey 
+  1677.5004 72.4389
+  1750.9013 68.8625
+endline
+
+line survey 
+  1750.9013 68.8625
+  1779.4578 63.2291
+endline
+
+line survey 
+  1779.4578 63.2291
+  1816.6479 59.0156
+endline
+
+line survey 
+  1816.6479 59.0156
+  1876.8793 31.6774
+endline
+
+line survey 
+  1876.8793 31.6774
+  1960.4507 6.7894
+endline
+
+line survey 
+  1960.4507 6.7894
+  2025.656 -17.4615
+endline
+
+line survey 
+  2025.656 -17.4615
+  2087.1492 -57.7327
+endline
+
+line survey 
+  2087.1492 -57.7327
+  2150.9807 -96.044
+endline
+
+line survey 
+  2150.9807 -96.044
+  2193.6798 -113.3387
+endline
+
+line survey 
+  2193.6798 -113.3387
+  2229.6504 -115.8374
+endline
+
+line survey 
+  2229.6504 -115.8374
+  2322.2959 -147.7314
+endline
+
+point -1811.5913 1150.6575 station-name -align tr -scale xs -text 0
+point -1791.3574 1150.6575 station-name -align tr -scale xs -text 1
+point -1752.0842 1143.7498 station-name -align tr -scale xs -text 2
+point -1708.5352 1124.3484 station-name -align tr -scale xs -text 3
+point -1681.8429 1118.6652 station-name -align tr -scale xs -text 4
+point -1661.9648 1100.7832 station-name -align tr -scale xs -text 5
+point -1645.2625 1077.8066 station-name -align tr -scale xs -text 6
+point -1627.3544 1031.1168 station-name -align tr -scale xs -text A
+point -1592.8907 1071.3395 station-name -align tr -scale xs -text 7
+point -1571.166 1059.2875 station-name -align tr -scale xs -text 8
+point -1562.6841 1053.1625 station-name -align tr -scale xs -text 9
+point -1545.8723 1054.3385 station-name -align tr -scale xs -text B1
+point -1521.6562 1063.1575 station-name -align tr -scale xs -text B2
+point -1551.0403 1051.4976 station-name -align tr -scale xs -text 10
+point -1534.4114 1039.005 station-name -align tr -scale xs -text 11
+point -1517.4838 1038.0729 station-name -align tr -scale xs -text 12
+point -1497.4241 1037.0451 station-name -align tr -scale xs -text 13
+point -1488.9012 1027.5889 station-name -align tr -scale xs -text 14
+point -1477.0682 1019.8973 station-name -align tr -scale xs -text 15
+point -1467.2661 1009.7567 station-name -align tr -scale xs -text 16
+point -1457.9978 994.9109 station-name -align tr -scale xs -text 17
+point -1447.0297 980.3614 station-name -align tr -scale xs -text 18
+point -1420.5426 961.7925 station-name -align tr -scale xs -text C1
+point -1428.1621 982.6636 station-name -align tr -scale xs -text 19
+point -1418.6088 996.3321 station-name -align tr -scale xs -text 20
+point -1405.8923 986.7303 station-name -align tr -scale xs -text 21
+point -1392.0571 966.2027 station-name -align tr -scale xs -text 22
+point -1381.4125 949.2017 station-name -align tr -scale xs -text 23
+point -1337.0372 920.3453 station-name -align tr -scale xs -text 24
+point -1241.5233 853.4713 station-name -align tr -scale xs -text 25
+point -1232.438 849.7966 station-name -align tr -scale xs -text 26
+point -1204.0731 788.9977 station-name -align tr -scale xs -text 27
+point -1178.6313 787.6749 station-name -align tr -scale xs -text D1
+point -1177.3434 784.2939 station-name -align tr -scale xs -text 28
+point -1152.9818 781.6981 station-name -align tr -scale xs -text 29
+point -1124.4253 763.1789 station-name -align tr -scale xs -text 30
+point -1087.6459 732.3141 station-name -align tr -scale xs -text 31
+point -1064.2524 724.2305 station-name -align tr -scale xs -text 32
+point -1017.8226 694.0998 station-name -align tr -scale xs -text 33
+point -954.8162 650.007 station-name -align tr -scale xs -text 34
+point -943.7174 641.9234 station-name -align tr -scale xs -text 35
+point -919.255 643.1977 station-name -align tr -scale xs -text 36
+point -888.5096 623.9928 station-name -align tr -scale xs -text 37
+point -856.765 616.6434 station-name -align tr -scale xs -text 38
+point -827.5664 608.2661 station-name -align tr -scale xs -text 46A
+point 685.0558 386.0375 station-name -align tr -scale xs -text 16B
+point 644.466 387.4586 station-name -align tr -scale xs -text 2A
+point 620.8013 408.7702 station-name -align tr -scale xs -text 3A
+point 608.9421 428.5139 station-name -align tr -scale xs -text 4A
+point 574.1935 430.9143 station-name -align tr -scale xs -text 5A
+point 538.7779 422.0953 station-name -align tr -scale xs -text 6A
+point 518.2802 423.9083 station-name -align tr -scale xs -text 7A
+point 499.3155 426.2117 station-name -align tr -scale xs -text 8A
+point 467.0109 429.6401 station-name -align tr -scale xs -text 9A
+point 425.2775 436.9895 station-name -align tr -scale xs -text 10A
+point 374.7151 441.3984 station-name -align tr -scale xs -text 11A
+point 339.6056 445.7102 station-name -align tr -scale xs -text 12A
+point 316.9849 446.4942 station-name -align tr -scale xs -text 13A
+point 214.6654 457.2719 station-name -align tr -scale xs -text 14A
+point 157.4803 464.2779 station-name -align tr -scale xs -text 15A
+point 131.9551 466.5315 station-name -align tr -scale xs -text 16A
+point 98.3302 468.8834 station-name -align tr -scale xs -text 17A
+point 68.7658 472.5084 station-name -align tr -scale xs -text 18A
+point 30.3922 478.5835 station-name -align tr -scale xs -text 19A
+point -4.8778 483.5325 station-name -align tr -scale xs -text 20A
+point -33.4293 486.03 station-name -align tr -scale xs -text 21A
+point -66.8663 491.3212 station-name -align tr -scale xs -text 22A
+point -101.9745 495.633 station-name -align tr -scale xs -text 23A
+point -139.3202 500.2386 station-name -align tr -scale xs -text 24A
+point -196.2291 508.2239 station-name -align tr -scale xs -text 25A
+point -261.3883 516.2092 station-name -align tr -scale xs -text 26A
+point -324.4097 523.9506 station-name -align tr -scale xs -text 27A
+point -359.452 527.0367 station-name -align tr -scale xs -text 28A
+point -387.2606 528.9481 station-name -align tr -scale xs -text 29A
+point -417.1784 531.5937 station-name -align tr -scale xs -text 30A
+point -437.2306 537.7174 station-name -align tr -scale xs -text 31A
+point -452.3738 534.4832 station-name -align tr -scale xs -text 32A
+point -484.442 538.9904 station-name -align tr -scale xs -text 33A
+point -503.2324 540.6567 station-name -align tr -scale xs -text 34A
+point -555.7498 547.0753 station-name -align tr -scale xs -text 35A
+point -610.028 556.6771 station-name -align tr -scale xs -text 36A
+point -650.5568 566.0349 station-name -align tr -scale xs -text 37A
+point -676.8597 572.1101 station-name -align tr -scale xs -text 38A
+point -687.4271 572.6489 station-name -align tr -scale xs -text 39A
+point -701.0471 580.4874 station-name -align tr -scale xs -text 40A
+point -720.4522 583.2313 station-name -align tr -scale xs -text 41A
+point -733.4985 575.0979 station-name -align tr -scale xs -text 42A
+point -755.6127 578.5772 station-name -align tr -scale xs -text 43A
+point -783.1215 583.917 station-name -align tr -scale xs -text 44A
+point -802.0662 604.248 station-name -align tr -scale xs -text 45A
+point 1054.8739 272.9639 station-name -align tr -scale xs -text JP
+point 987.97 293.443 station-name -align tr -scale xs -text 1B
+point 935.266 264.2432 station-name -align tr -scale xs -text 2B
+point 924.2083 249.0068 station-name -align tr -scale xs -text 3B
+point 908.0148 246.9983 station-name -align tr -scale xs -text 4B
+point 870.7812 246.9983 station-name -align tr -scale xs -text 5B
+point 863.0983 243.0785 station-name -align tr -scale xs -text 6B
+point 859.9188 252.8768 station-name -align tr -scale xs -text 7B
+point 844.4883 252.6317 station-name -align tr -scale xs -text 8B
+point 836.2267 264.39 station-name -align tr -scale xs -text 9B
+point 814.0067 267.5259 station-name -align tr -scale xs -text 10B
+point 801.2616 264.5866 station-name -align tr -scale xs -text 11B
+point 769.1448 269.0939 station-name -align tr -scale xs -text 12B
+point 740.5461 245.0869 station-name -align tr -scale xs -text 13B
+point 719.3627 365.2648 station-name -align tr -scale xs -text 14B
+point 714.2905 389.1236 station-name -align tr -scale xs -text 15B
+point 1060.9652 274.8256 station-name -align tr -scale xs -text 1C
+point 1092.1038 213.733 station-name -align tr -scale xs -text 2C
+point 1132.2531 212.3119 station-name -align tr -scale xs -text 3C
+point 1163.6755 203.8849 station-name -align tr -scale xs -text 4C
+point 1185.9963 202.954 station-name -align tr -scale xs -text 5C
+point 1206.2712 202.4638 station-name -align tr -scale xs -text 6C
+point 1277.0391 184.5332 station-name -align tr -scale xs -text 7C
+point 1320.3901 174.1474 station-name -align tr -scale xs -text 8C
+point 1343.1453 163.809 station-name -align tr -scale xs -text 9C
+point 1398.3094 163.809 station-name -align tr -scale xs -text 10C
+point 1411.3508 158.9595 station-name -align tr -scale xs -text 11C
+point 1422.0103 151.6101 station-name -align tr -scale xs -text 12C
+point 1424.3473 139.6079 station-name -align tr -scale xs -text 13C
+point 1439.4767 138.2851 station-name -align tr -scale xs -text 14C
+point 1452.7146 128.6821 station-name -align tr -scale xs -text 15C
+point 1468.3778 129.3677 station-name -align tr -scale xs -text 16C
+point 1519.402 122.8035 station-name -align tr -scale xs -text 17C
+point 1544.983 120.1082 station-name -align tr -scale xs -text 18C
+point 1555.9786 112.4165 station-name -align tr -scale xs -text 19C
+point 1555.9786 98.6995 station-name -align tr -scale xs -text 20C
+point 1592.1272 97.964 station-name -align tr -scale xs -text 21C
+point 1608.9725 86.9897 station-name -align tr -scale xs -text 22C
+point 1677.5004 72.4389 station-name -align tr -scale xs -text 23C
+point 1750.9014 68.8625 station-name -align tr -scale xs -text 24C
+point 1779.4578 63.2291 station-name -align tr -scale xs -text 25C
+point 1816.6479 59.0156 station-name -align tr -scale xs -text 26C
+point 1876.8794 31.6774 station-name -align tr -scale xs -text 27C
+point 1960.4507 6.7894 station-name -align tr -scale xs -text 28C
+point 2025.656 -17.4614 station-name -align tr -scale xs -text 29C
+point 2087.1493 -57.7327 station-name -align tr -scale xs -text 30C
+point 2150.9807 -96.044 station-name -align tr -scale xs -text 31C
+point 2193.6798 -113.3387 station-name -align tr -scale xs -text 32C
+point 2229.6504 -115.8375 station-name -align tr -scale xs -text 33C
+point 2322.2959 -147.7314 station-name -align tr -scale xs -text 34C
+endscrap
+

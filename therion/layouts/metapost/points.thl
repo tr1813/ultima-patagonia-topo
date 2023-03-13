@@ -206,7 +206,7 @@ layout custom_points
 			thdraw (arrowone shifted horizflip) shifted vertiflip;
 			thdraw (arrowthree shifted horizflip) shifted vertiflip ;
 			thdraw (arrowtwo shifted horizflip) shifted vertiflip;
-					p_label.lrt(thetext, P, R,0);
+					p_label.lrt(thetext, P,0,0);
 
 				elseif side = 1:
 					horizflip := (0.1u,0);
@@ -215,7 +215,7 @@ layout custom_points
 			thdraw (arrowone shifted horizflip) shifted vertiflip;
 			thdraw (arrowthree shifted horizflip) shifted vertiflip ;
 			thdraw (arrowtwo shifted horizflip) shifted vertiflip;
-					p_label.llft(thetext, P,R,0);
+					p_label.llft(thetext, P,0,0);
 				
 				elseif side = 10:
 					horizflip := (-1.9u,0);
@@ -225,7 +225,7 @@ layout custom_points
 				thdraw (arrowone shifted horizflip);
 				thdraw (arrowthree shifted horizflip);
 				thdraw (arrowtwo shifted horizflip)  shifted (0,0.85u) ;
-				p_label.urt(thetext, P,R,0);
+				p_label.urt(thetext, P,0,0);
 				
 				elseif side = 11:
 					horizflip := (0.1u,0);
@@ -234,7 +234,7 @@ layout custom_points
 				thdraw (arrowone shifted horizflip);
 				thdraw (arrowthree shifted horizflip);
 				thdraw (arrowtwo shifted horizflip)  shifted (0,0.85u);
-					p_label.ulft(thetext, P,R,0);
+					p_label.ulft(thetext, P,0,0);
 
 				else: 
 					horizflip := (-2u,0);
@@ -243,7 +243,7 @@ layout custom_points
 			thdraw (arrowone shifted horizflip) shifted vertiflip;
 			thdraw (arrowthree shifted horizflip) shifted vertiflip ;
 			thdraw (arrowtwo shifted horizflip) shifted vertiflip;
-					p_label.lrt(thetext, P, R,0);
+					p_label.lrt(thetext, P, 0,0);
 				fi;
 			fi;
 		fi;

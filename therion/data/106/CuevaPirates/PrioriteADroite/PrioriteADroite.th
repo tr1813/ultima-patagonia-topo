@@ -1,15 +1,15 @@
 # 2023.02.08 created by TopoDroid v 6.1.78
 
-survey PrioriteADroite -title "Passage de la priorite a droite"
+survey PrioriteADroite -title "Passage de la priorité à droite"
 
   centerline
     date 2023.02.08 
     explo-date 2023.02.08
-    team "Joel Tremoulet" 
+    team "Joël Trémoulet" 
     team "Christine Magot" 
     team "Alexandre Andrieu" 
     team "Tanguy Racine"
-    explo-team "Centre Terre"
+    explo-team "[Centre Terre]"
     units length meters
     units compass clino degrees
     data normal from to length compass clino
@@ -255,7 +255,7 @@ survey PrioriteADroite -title "Passage de la priorite a droite"
     19 . 0.61 247.4 -5.5
     19 . 2.34 307.8 -4.2
     19 . 1.53 293.7 0.9
-    extend vertical
+    extend right
     19 20 6.48 274.5 -1.7
     # extend auto
     20 . 2.73 139.8 2.3
@@ -315,6 +315,7 @@ survey PrioriteADroite -title "Passage de la priorite a droite"
   endcenterline
 
    input "PrioriteADroite-p.th2"
+   input "PrioriteADroite-e.th2"
 
   join PrioriteADroite-3p PrioriteADroite-1p
 
@@ -324,6 +325,8 @@ survey PrioriteADroite -title "Passage de la priorite a droite"
      break
      PrioriteADroite-2p
    endmap
+
+
   # map m1s -projection extended
   #   SalinasNew-1s
   # endmap
