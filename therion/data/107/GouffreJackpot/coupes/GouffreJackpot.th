@@ -1,14 +1,16 @@
 
-survey Topo2019
+## a survey compiled from Visual Topo Data using the visual_therion.py script
 
-  centreline
-    
-        explo-date 2019.02.24
-        date 2019.02.24
+survey "GouffreJackpot" -entrance 0
 
+    centreline
     
+        explo-date 2000.01.01
+        date 2000.01.01
+
+        
         data normal from to tape compass clino 
-        extend left
+        
         0	1	4.13	310.0	0.0	
         1	2	8.14	327.0	-10.0	
         2	3	9.73	312.0	-24.0	
@@ -44,7 +46,6 @@ survey Topo2019
         27	28	5.54	238.0	-10.0	
         28	29	5.0	276.0	-6.0	
         29	30	6.95	272.0	-33.0	
-		extend right
         30	31	9.8	229.0	-40.0	
         31	32	5.05	170.0	-19.0	
         32	33	11.3	316.0	-33.0	
@@ -123,8 +124,8 @@ survey Topo2019
 
     centreline
     
-        explo-date 2019.02
-        date 2019.02
+        explo-date 2000.01.01
+        date 2000.01.01
 
         
         data normal from to tape compass clino 
@@ -272,8 +273,8 @@ survey Topo2019
 
     centreline
     
-        explo-date 2019.02
-        date 2019.02
+        explo-date 2000.01.01
+        date 2000.01.01
 
         
         data normal from to tape compass clino 
@@ -321,8 +322,8 @@ survey Topo2019
 
     centreline
     
-        explo-date 2019.02.24
-        date 2019.02.24
+        explo-date 2000.01.01
+        date 2000.01.01
 
         
         data normal from to tape compass clino 
@@ -346,7 +347,7 @@ survey Topo2019
         16C	17C	10.5	288.0	-7.3	
         17C	18C	5.25	335.0	-6.0	
         18C	19C	2.74	292.0	-35.0	
-        19C	20C	2.8	317.0	-90	
+        19C	20C	2.8	317.0	-90.3	
         20C	21C	7.38	302.7	-1.2	
         21C	22C	4.1	244.0	-33.0	
         22C	23C	14.3	316.0	-12.0	

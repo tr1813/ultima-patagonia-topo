@@ -15,7 +15,11 @@ survey Pirates2008 -title "Cueva Pirates, Hacienda Salinas" -entrance 32 -attr c
 centreline
 
 	date 2008.02
-	team "Centre Terre"
+	explo-date 2008.02.01
+	team "Bernard Tourte"
+	team "Marta [Candel Urena]"
+	team "Zappé"
+	explo-team "[Centre Terre]"
 	units length meters
 	units compass clino degrees
 	data normal from to tape compass clino
@@ -50,7 +54,12 @@ endcentreline
 centreline
 
 	date 2008.02
-		team "Centre Terre"
+	explo-date 2008.02.01
+
+	team "Bernard Tourte"
+	team "Martha"
+	team "Zappé"
+	explo-team "[Centre Terre]"
 
 	units length meters
 	units compass clino degrees

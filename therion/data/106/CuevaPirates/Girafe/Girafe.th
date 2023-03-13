@@ -14,14 +14,12 @@ endmap
 	
 	centreline
 		date 2023.02.13
-		explo-date 2023.02.13
-
-		team "Joel Tremoulet"
+		explo-date 2008.04.10
+		team "Joël Trémoulet"
 		team "Arnauld Malard"
 		team "Laurence [Boudoux d'Hautefeuille]"
-		explo-team "Joel Tremoulet"
-		explo-team "Arnauld Malard"
-		explo-team "Laurence [Boudoux d'Hautefeuille]"
+		explo-team "[Oxford University Caving Club]"
+
 		data normal from to length compass clino
 		
 		1	-	1.694	168.51	1.36	
@@ -89,6 +87,19 @@ endmap
 		10	-	0.614	277.38	24.43	
 		10	-	1.265	13.31	86.72	
 		10	-	4.959	194.04	-25.24	
+	endcentreline
+	centreline
+
+		date 2023.02.13
+		explo-date 2023.02.13
+
+		team "Joël Trémoulet"
+		team "Arnauld Malard"
+		team "Laurence [Boudoux d'Hautefeuille]"
+		explo-team "[Centre Terre]"
+
+		data normal from to length compass clino
+		
 		10	11	4.445	135.60	11.34		#  {from: 4.445 135.58 11.33, 4.443 135.58 11.41, 4.446 135.64 11.29}
 		11	-	1.080	59.06	73.53	
 		11	-	0.841	47.06	18.05	
