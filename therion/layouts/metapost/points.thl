@@ -323,7 +323,7 @@ layout custom_points
 		if known ATTR_text:
 		picture thetext; % make label either right, left, top or bottom aligned. 
 		thetext := thTEX("\thframed{ \thsmallsize\si " & ATTR_text & "}");
-		p_label.lrt(thetext,P shifted  (0.1u,-0.1u),0,0);
+		p_label.c(thetext,P shifted  (0.1u,-0.1u),0,0);
 
 		process_label(P,R);
 		fi;
