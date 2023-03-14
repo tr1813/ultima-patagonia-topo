@@ -4,24 +4,24 @@ input ../../../layouts/detailed-p.thl
 
 layout local
   copy detailed-p
-  scale 1 100
+  scale 1 200
   legend off
   map-header 0 0 off
   symbol-show point label
-  #symbol-show point passage-height
+  symbol-show point passage-height
   symbol-hide point station-name
   symbol-assign area water AUT
-  ##symbol-hide line survey 
-  #symbol-hide point station:temporary
-  symbol-assign line survey AUT
+  symbol-hide line survey 
+  symbol-hide point station:temporary
+  symbol-assign line survey UIS
   symbol-assign point station MY
-  symbol-assign line floor-step UIS
   symbol-color point station [70 0 0]
+  symbol-color point u:target [70 0 70]
 
   symbol-color line survey:cave [70 0 0]
+  symbol-color point passage-height [70 0 70]
 
-
-  color map-bg transparent
+  color map-bg transparent 
  
 endlayout
 
@@ -29,10 +29,10 @@ layout plan
     copy local
      code tex-map
   #\framethickness=0.5mm
-  \def\xcenter{-50}
-  \def\ycenter{75}
-  \def\yscale{7}
-  \def\numcad{402007}
+  \def\xcenter{20}
+  \def\ycenter{95}
+  \def\yscale{1}
+  \def\numcad{403008}
 
   # change this
 
@@ -40,18 +40,19 @@ layout plan
   \size[13]\bf \the\cavename{} / \numcad \ss
   \si \par \size[12]Estero Calvo, Glacier HPS-35 \ss
      \par{ \quad}  
-  \size[9]\par \si Coordoonées (UTM 18S, WGS 84) :\ss{ X : 599747 / Y : 4384126 / Z : 494 m} 
-  \par \si Dévelopement:\ss{ \the\cavelength}
+  \size[9]\par \si Coordonnées (UTM 18S, WGS 84) :\ss{  \bf \par X : 602192  \par Y : 4390803  \par Z : 27 m} 
+    \par{ \quad}  
+  \par \si Développement:\ss{ \the\cavelength}
   \par \si Dénivelé:\ss{ \the\cavedepth}
   \par \si{ Exploration et topographie:}\ss{ Centre Terre -  Ultima Patagonia 2023} 
-  \par \si Relevés topographiques:\ss{  Tanguy Racine}
-  \par \si Report et dessins:\ss{  Tanguy Racine}}
+  \par \si Relevés topographiques:\ss{  Charlotte Honiat, Raphaël Seguin, Serge Caillault, Tanguy Racine}
+  \par \si Report et dessins:\ss{ Tanguy Racine}}
 
   \def\maplayout{
 
-  \legendbox{\the\numexpr\xcenter+5\relax}{\the\numexpr\ycenter +3*\yscale\relax}{N}{\customheader}
-  \legendbox{\the\numexpr\xcenter+8\relax}{\the\numexpr\ycenter - 6*\yscale\relax}{N}{\northarrow}
-  \legendbox{\the\numexpr\xcenter+8\relax}{\the\numexpr\ycenter - 10*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter+5\relax}{\the\numexpr\ycenter +5*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter-5\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter-5\relax}{\the\numexpr\ycenter - 12*\yscale\relax}{N}{\scalebar}
   %\legendbox{\the\numexpr\xcenter-5 \relax}{\the\numexpr\ycenter - 10*\yscale\relax}{NW} {\hbox{\loadpicture{GrotteLapisLazuli-ee.pdf}}}
   \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter + 3*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
   }

@@ -261,7 +261,9 @@ survey GrotteLapisLazuli -title "Lapis Lazuli" \
    input "Lapis_Lazuli-1p.th2"
 
   map m-all-p -projection plan 
+    Lapis_Lazuli-photogrammetry-2p
     Lapis_Lazuli-photogrammetry-p
+    
   endmap
   # map m1p -projection plan
   #   Lapis_Lazuli-1p
