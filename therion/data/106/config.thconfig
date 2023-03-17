@@ -46,7 +46,7 @@ endlayout
 
 select m-ArchesSalinas-p@106
 lang en
-
+export map -o ArchesSalinas.pdf -projection plan -layout local-p
 
 # OUTPUTS
-export model -o 106.lox
+#export model -o 106.lox

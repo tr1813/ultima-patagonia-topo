@@ -1,8 +1,10 @@
 survey 403 -title "403 Glaciar Peel Nord"
 
-
-
-
+    input GrotteLapisLazuli/GrotteLapisLazuli.th 
     centreline
+    cs UTM18S
+    fix ENT_403008 602192.0 4390803.0 27
+    station ENT_403008 "Grotte Lapis Lazuli"
+    equate ENT_403008 GPS-fixe@GrotteLapisLazuli
     endcentreline
 endsurvey

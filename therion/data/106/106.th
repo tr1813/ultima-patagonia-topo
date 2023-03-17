@@ -329,7 +329,7 @@ survey 106  -title "106 Seno Egg"
 
     fix ENT_106056	487409.0 4451595.0	210	
     station ENT_106056 "PerteChampis"
-    equate ENT_106056 0@PerteChampis
+    equate ENT_106056 1@PerteChampis
     
 
     fix ENT_106057	488596.0 4451785.0	280 # selon ASTER S50 W76	
@@ -355,12 +355,15 @@ survey 106  -title "106 Seno Egg"
     station ENT_106061 "ResurgenceGolondrina"
     equate ENT_106061 0@ResurgenceGolondrina
     
-          endcentreline
-
+    endcentreline
 
   map m-ArchesSalinas-p -projection plan 
     m-all-p@CuevaPirates
     m-all-p@AvenDesArchesPerdues
+    m-all-p@GouffreDejaVu
+    m-all-p@GouffrePlusPlus
+    m-all-p@PerteChampis
   endmap
+
 endsurvey
 

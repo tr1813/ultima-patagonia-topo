@@ -7,11 +7,19 @@ survey GrotteLapisLazuli -title "Lapis Lazuli" \
     # Grotte sous glaciaire HP31, front du glacier 
   
   centerline
-    cs long-lat
     mark C1 C2 C3 C4 C5 C6 C7 fixed
-    fix GPS-fixe -73.555212 -50.625687 27
+    #fix GPS-fixe -73.555212 -50.625687 27
     date 2023.01.31 
-    # team Tanguy-Charlotte 
+    explo-date 2023.01.30
+    team "Tanguy Racine"
+    team "Charlotte Honiat" 
+    team "Raphaël Seguin"
+    team "Serge Caillault"
+
+    explo-team "Serge Caillault"
+    explo-team "Marie Eveillard-Buchoux"
+    explo-team "Richard Maire"
+
     units length meters
     units compass clino degrees
     data normal from to length compass clino
