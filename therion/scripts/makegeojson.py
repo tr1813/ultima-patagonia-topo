@@ -103,7 +103,7 @@ for sr in reader.shapeRecords():
     if 'ENT' in atr['_NAME']:
 
         try:
-            vals = (SYNTHESE[SYNTHESE['CadNum'] == atr['_NAME']].values[0])
+            vals = (SYNTHESE[SYNTHESE['cadnum'] == atr['_NAME']].values[0])
             print(vals)
             LENGTH,DEPTH = getDepthLength(atr['_NAME'])
             if LENGTH != 'NaN':
