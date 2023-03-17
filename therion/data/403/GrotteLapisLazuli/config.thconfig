@@ -1,4 +1,4 @@
-source GrotteLapisLazuli.th
+source ../403.th
 
 input ../../../layouts/detailed-p.thl
 
@@ -17,6 +17,7 @@ layout local
   symbol-assign point station MY
   symbol-color point station [70 0 0]
   symbol-color point u:target [70 0 70]
+  symbol-hide point u:target
 
   symbol-color line survey:cave [70 0 0]
   symbol-color point passage-height [70 0 70]
@@ -38,7 +39,7 @@ layout plan
 
   \def\customheader{
   \size[13]\bf \the\cavename{} / \numcad \ss
-  \si \par \size[12]Estero Calvo, Glacier HPS-35 \ss
+  \si \par \size[12]Estero Calvo, Glacier HPS-31 \ss
      \par{ \quad}  
   \size[9]\par \si Coordonnées (UTM 18S, WGS 84) :\ss{  \bf \par X : 602192  \par Y : 4390803  \par Z : 27 m} 
     \par{ \quad}  
@@ -51,8 +52,8 @@ layout plan
   \def\maplayout{
 
   \legendbox{\the\numexpr\xcenter+5\relax}{\the\numexpr\ycenter +5*\yscale\relax}{N}{\customheader}
-  \legendbox{\the\numexpr\xcenter-5\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\northarrow}
-  \legendbox{\the\numexpr\xcenter-5\relax}{\the\numexpr\ycenter - 12*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter-20\relax}{\the\numexpr\ycenter - 10*\yscale\relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter-5\relax}{\the\numexpr\ycenter - 20*\yscale\relax}{N}{\scalebar}
   %\legendbox{\the\numexpr\xcenter-5 \relax}{\the\numexpr\ycenter - 10*\yscale\relax}{NW} {\hbox{\loadpicture{GrotteLapisLazuli-ee.pdf}}}
   \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter + 3*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
   }
@@ -60,7 +61,7 @@ layout plan
 endlayout
 
 # OUTPUTS
-select m-all-p@GrotteLapisLazuli
+select m-all-p@GrotteLapisLazuli.403
 export map -o GrotteLapisLazuli-ee.pdf -projection extended -layout local
 export map -o GrotteLapisLazuli.pdf -projection plan -layout plan
 
