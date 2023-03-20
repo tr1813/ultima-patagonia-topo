@@ -1,0 +1,4 @@
+source HaciendasSalinas.th 
+
+export model -o outputs/HaciendasSalinas.3d  #pour que ca marche il faut au prealable creer un dossier outputs
+export model -o outputs/HaciendasSalinas.lox  #pour que ca marche il faut au prealable creer un dossier outputs
