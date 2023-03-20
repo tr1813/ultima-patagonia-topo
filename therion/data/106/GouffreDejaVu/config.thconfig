@@ -52,7 +52,7 @@ layout plan
   \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter - 3*\yscale\relax}{N}{\scalebar}
   \legendbox{\the\numexpr\xcenter-\xscale\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/GouffreDejaVu-ee.pdf"}}}
   \legendbox{\the\numexpr\xcenter+65\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
-   \legendbox{\the\numexpr\xcenter+185\relax}{\the\numexpr\ycenter -10 \relax}{N}{\northarrow}
+   \legendbox{\the\numexpr\xcenter+205\relax}{\the\numexpr\ycenter -10 \relax}{N}{\northarrow}
  }
   endcode
 endlayout
