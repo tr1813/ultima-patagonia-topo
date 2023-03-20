@@ -1,0 +1,17 @@
+survey GouffrePlusPlus -title 'GouffrePlusPlus' \
+            -attr cadnum 106023 \
+            -attr exped UP2023 \ 
+            -entrance 0@Entree
+  
+ input Entree/Entree.th
+
+ 
+    map m-all-p -projection plan 
+       Entree-1p
+    endmap
+   map m-all-s -projection extended
+       Entree-1s
+    endmap
+
+endsurvey
+        

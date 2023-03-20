@@ -1,0 +1,22 @@
+encoding  utf-8
+
+source GrandeFailleDuBoutDuMonde.th
+
+layout local
+    scale 1 500 
+    symbol-color point station [70 0 0]
+    symbol-assign point station AUT
+    symbol-assign line survey AUT
+    symbol-color line survey [70 0 0]
+    map-header 0 100 se
+endlayout 
+
+lang fr
+
+select m-all-p@GrandeFailleDuBoutDuMonde
+select m-all-s@GrandeFailleDuBoutDuMonde
+
+# OUTPUTS 
+export model -o outputs/CPF.3d 
+export map -o outputs/GrandeFailleDuBoutDuMonde-p.pdf -projection plan -layout-debug station-names -layout local
+export map -o outputs/GrandeFailleDuBoutDuMonde-s.pdf -projection extended -layout-debug station-names -layout local

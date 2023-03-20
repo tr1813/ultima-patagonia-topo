@@ -1,0 +1,22 @@
+encoding  utf-8
+
+source Traverse_de_lindecision.th
+
+layout local
+    scale 1 500 
+    symbol-color point station [70 0 0]
+    symbol-assign point station AUT
+    symbol-assign line survey AUT
+    symbol-color line survey [70 0 0]
+    map-header 0 100 se
+endlayout 
+
+lang fr
+
+select m-all-p@Traverse_de_lindecision
+select m-all-s@Traverse_de_lindecision
+
+# OUTPUTS 
+export model -o outputs/Traverse_de_lindecision.3d 
+export map -o outputs/Traverse_de_lindecision-p.pdf -projection plan -layout-debug station-names -layout local
+export map -o outputs/Traverse_de_lindecision-s.pdf -projection extended -layout-debug station-names -layout local
