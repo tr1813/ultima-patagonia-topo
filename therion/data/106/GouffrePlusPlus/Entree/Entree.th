@@ -230,7 +230,8 @@ survey Entree -title "Entree du GouffrePlusPlus"
     # extend auto
     7 . 3.42 158.0 -36.9
   endcenterline
-
-
+  
+  input "Entree-1p.th2"
+  input "Entree-1s.th2"
 
 endsurvey

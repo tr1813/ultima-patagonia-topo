@@ -26,3 +26,5 @@ bin-release/
 *-dem-1m.txt.aux.xml
 *-satellite-1m.tif
 *-satellite.tif
+
+therion/data/gis/DEM/*
