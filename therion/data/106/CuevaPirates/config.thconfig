@@ -92,7 +92,10 @@ select m-all-e@CuevaPirates.106
 
 
 export model -o outputs/CuevaPirates.3d -fmt survex
+export model -o outputs/CuevaPirates.kml
+
 ##export model -o outputs/CuevaPirates.lox
+
 #export atlas -o outputs/CuevaPirates.pdf -projection plan -layout local-p
 export map -o outputs/CuevaPiratesmap.pdf -projection plan -layout plan 
 
