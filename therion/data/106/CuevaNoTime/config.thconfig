@@ -1,0 +1,23 @@
+encoding  utf-8
+
+source CuevaNoTime.th
+
+
+layout local
+    scale 1 500 
+    symbol-color point station [70 0 0]
+    symbol-assign point station AUT
+    symbol-assign line survey AUT
+    symbol-color line survey [70 0 0]
+    map-header 0 100 se
+endlayout 
+
+lang fr
+
+select m-all-p@CuevaNoTime
+#select m-all-s@AvenDesDeuxLacs
+
+# OUTPUTS 
+export model -o outputs/CuevaNoTime.3d 
+export map -o outputs/CuevaNoTime-1p.pdf -projection plan -layout-debug station-names -layout local
+#export map -o outputs/AvenDesDeuxLacs-s.pdf -projection extended -layout-debug station-names -layout local

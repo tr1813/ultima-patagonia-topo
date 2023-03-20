@@ -1,0 +1,27 @@
+encoding  utf-8
+
+source casablanca.th
+
+
+input ../../../layouts/detailed-e.thl
+
+layout local
+    copy detailed-e
+    scale 1 1000 
+    symbol-color point station [70 0 0]
+    symbol-assign point station AUT
+    symbol-assign line survey AUT
+    symbol-color line survey [70 0 0]
+    map-header 0 100 se
+endlayout 
+
+select m-casablanca-2p@casablanca
+select m-casablanca-1p@casablanca
+select m-casablanca-2s@casablanca
+
+lang fr
+
+# OUTPUTS 
+export model -o outputs/casablanca.3d 
+export map -o outputs/casablanca-p.pdf -projection plan -layout-debug station-names -layout local
+export map -o outputs/casblanca-s.pdf -projection extended -layout-debug station-names -layout local
