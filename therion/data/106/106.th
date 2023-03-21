@@ -93,9 +93,9 @@ survey 106  -title "106 Seno Egg"
 
      input GrandeFailleDuBoutDuMonde/GrandeFailleDuBoutDuMonde.th
 
-    input Traverse_de_lindecision/Traverse_de_lindecision.th
+    input TraverseDeLIndecision/TraverseDeLIndecision.th
     
-    input Reveeveille/Reveeveille.th
+    input ReveEveille/ReveEveille.th
 
     input PorcheEden/PorcheEden.th
 
@@ -394,7 +394,7 @@ survey 106  -title "106 Seno Egg"
     equate ENT_106066 0@Casablanca
 
     fix ENT_106067	490177.0 4452360.0	0	
-    station ENT_106067 "resurgencePirate"
+    station ENT_106067 "Resurgence des Pirates"
     equate ENT_106067 0@ResurgencePirate
 
 
