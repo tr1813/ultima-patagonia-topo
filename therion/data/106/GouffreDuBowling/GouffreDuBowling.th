@@ -1,5 +1,5 @@
 survey GouffreDuBowling -title "Gouffre du Bowling" \
-            -attr cadnum 106033 \
+            -attr cad_num 106033 \
             -attr exped UP2023 \
 			-entrance 3A@Entree
 

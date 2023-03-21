@@ -1,7 +1,7 @@
 # 2023.03.08 created by TopoDroid v 5.1.40
 
 survey CuevaNoTime -title "Cueva No Time" \
-                   -attr cadnum 106002 \
+                   -attr cad_num 106002 \
                    -attr exped UP2023 \ 
                    -entrance 0
 
@@ -11,8 +11,9 @@ survey CuevaNoTime -title "Cueva No Time" \
   #   no_time-1p
   #   no_time-1p1
   # endmap
-
   centerline
+    station 0 "" continuation explored "640 m"
+
     date 2023.03.07 
     team "buldo"
     team "Alex"

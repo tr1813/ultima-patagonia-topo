@@ -1,7 +1,7 @@
 # 2023.03.02 created by TopoDroid v 5.1.40
 
 survey PorcheEden -title "Porche Eden" \
-            -attr cadnum 106065 \
+            -attr cad_num 106065 \
             -attr exped UP2023 \ 
             -entrance 0
 

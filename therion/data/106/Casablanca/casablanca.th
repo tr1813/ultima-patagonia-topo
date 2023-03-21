@@ -1,6 +1,6 @@
 # 2023.03.15 created by TopoDroid v 6.1.89
 
-survey Casablanca -title "Casablanca"
+survey Casablanca -title "Casablanca" -entrance 0 -attr cad_num 106066 -attr exped UP2023
 
   centerline
     date 2023.03.03 

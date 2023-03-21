@@ -1,5 +1,5 @@
 survey AvenDesDeuxLacs -title 'AvenDesDeuxLacs' \
-            -attr cadnum 106035 \
+            -attr cad_num 106035 \
             -attr exped UP2023
 
             

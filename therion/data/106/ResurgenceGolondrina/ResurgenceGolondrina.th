@@ -2,7 +2,7 @@ encoding  utf-8
 
 ## a survey compiled from Visual Topo Data using the visual_therion.py script
 
-survey "ResurgenceGolondrina" -entrance 0 -title "Résurgence Golondrinas"
+survey "ResurgenceGolondrina" -entrance 0 -title "Résurgence Golondrinas" -attr cad_num 106061 -attr exped UP2023
 
     centreline
     

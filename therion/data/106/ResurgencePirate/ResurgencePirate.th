@@ -3,7 +3,7 @@ encoding  utf-8
 ## a survey compiled from Visual Topo Data using the visual_therion.py script
 
 survey ResurgencePirate -title "Resurgence des Pirates" \
-            -attr cadnum 106067 \
+            -attr cad_num 106067 \
             -attr exped UP2023 \ 
             -entrance 0
 

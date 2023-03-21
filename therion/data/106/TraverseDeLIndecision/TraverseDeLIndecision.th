@@ -1,7 +1,7 @@
 # 2023.03.01 created by TopoDroid v 5.1.40
 
 survey Traverse_de_lindecision -title "Traversée de l'Indécision" \
-           -attr cadnum 106063 \
+           -attr cad_num 106063 \
            -attr exped UP2023 \
 			  -entrance 0
 
@@ -421,8 +421,8 @@ survey Traverse_de_lindecision -title "Traversée de l'Indécision" \
     22 23 4.13 256.6 -13.7
   endcenterline
 
- input "Traverse_de_lindecision-1p.th2"
- input "Traverse_de_lindecision-1s.th2"
+ input "TraverseDeLIndecision-1p.th2"
+ input "TraverseDeLIndecision-1s.th2"
  
     map m-all-p -projection plan 
        Traverse_de_lindecision-1p

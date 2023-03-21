@@ -1,10 +1,6 @@
-survey PerteSousLeLac -title "Perte sous le Lac" \
-            -attr cadnum 106028 \
-            -attr exped UP2023  \
-            -entrance 1
-
-	input PerteSousLeLac-p.th2
-	input PerteSousLeLac-e.th2
-
-	#join PerteSousLeLac-1p PerteSousLeLac-2p
+    survey PerteSousLeLac -title "Perte Sous Le Lac" -entrance 0 -attr exped UP2023 -attr cad_num 106028
+    centreline 
+    station 0 entrance
+    endcentreline 
+    endsurvey
     
