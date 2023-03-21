@@ -402,12 +402,20 @@ survey 106  -title "106 Seno Egg"
     
     endcentreline
 
-  map m-ArchesSalinas-p -projection plan 
+  map m-106-p -projection plan 
     m-all-p@CuevaPirates
     m-all-p@AvenDesArchesPerdues
     m-all-p@GouffreDejaVu
     m-all-p@GouffrePlusPlus
     m-all-p@PerteChampis
+    CuevaNoTime
+    ResurgencePirate
+    Reveeveille
+    GrandeFailleDuBoutDuMonde
+    Traverse_de_lindecision
+    PorcheEden
+    ResurgenceGolondrina
+    Casablanca
   endmap
 
 endsurvey

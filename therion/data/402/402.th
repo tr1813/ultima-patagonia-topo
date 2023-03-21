@@ -1,8 +1,24 @@
-survey 402 -title "402 Glaciar Peel Sud"
+survey 402 -title "402 HPS-35"
 
+  input MoulinDeLaScience/MoulinDeLaScience.th
+  
+  input PerteDeRascarcapac/PerteDeRascarcapac.th
 
   centreline
 
+
+   # moulin de la Science 
+
+  fix ENT_402007 599747 4384126 494 
+  station ENT_402007 "Moulin de la Science"
+  equate ENT_402007 0@MoulinDeLaScience
+
+
+     # perte de rascarcapak 
+
+  fix ENT_402010 600721.0 4383564.0 491.8
+  station ENT_402010 "Perte de Rascarcapak"
+  equate ENT_402007 0@PerteDeRascarcapac
 
   endcentreline
 endsurvey

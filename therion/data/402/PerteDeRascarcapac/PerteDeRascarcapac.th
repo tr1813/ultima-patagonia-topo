@@ -1,6 +1,7 @@
-survey PerteDeRascarcapac -title 'Perte de Rascarcapac' \
-            -attr cadnum 402010 \
-            -attr exped UP2023
+survey PerteDeRascarcapac -title "Perte de Rascarcapac" \
+            -attr cad_num 402010 \
+            -attr exped UP2023 \ 
+			-entrance 0
 
             
         	centreline
@@ -9,7 +10,7 @@ survey PerteDeRascarcapac -title 'Perte de Rascarcapac' \
 
         	#explo-date UP2023
         	#team "Tanguy Arnauld Lolo"
-        
+			station 0 "" continuation explored "65 m"
         	units length meters
         	 units compass clino degrees
         	data normal from to tape compass clino
