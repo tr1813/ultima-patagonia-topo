@@ -19,6 +19,9 @@ survey 106  -title "106 Seno Egg"
 
     #input CampAvance1Egg/CampAvance1Egg.th
 
+    input PerteSousLeLac/PerteSousLeLac.th
+
+
     #input PuitsLacTurquoise/PuitsLacTurquoise.th
 
     #input PE11/PE11.th
@@ -81,7 +84,6 @@ survey 106  -title "106 Seno Egg"
 
     input GouffreDejaVu/GouffreDejaVu.th
      
-    #input PerteSousLeLac/PerteSousLeLac.th
 
     #input PerteDuDisto/PerteDuDisto.th
 
@@ -117,7 +119,7 @@ survey 106  -title "106 Seno Egg"
     equate ENT_106001 44@a.Anglais2008.CuevaPirates
 
     fix ENT_106002	490289	4451286	35.0
-    station	 ENT_106002	"Cueva No Time" entrance continuation explored "640 m"
+    station	 ENT_106002	"Cueva No Time" continuation explored "640 m"
     equate ENT_106002 0@CuevaNoTime 
 
     fix ENT_106003	490289	4451286	3.0
@@ -175,7 +177,6 @@ survey 106  -title "106 Seno Egg"
     station ENT_106021 "Cueva del Zorro"
     equate ENT_106021 1@a.CuevaDelZorro
 
-    
 
     fix ENT_106022	489704.0 4451405.0	358	
     station ENT_106022 "AvenDesArchesPerdues"
@@ -208,9 +209,8 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106028	488683.0 4451804.0	272	
-    station ENT_106028 "Perte sous le Lac" entrance continuation explored "50 m"
-    #equate ENT_106028 1@PerteSousLeLac
-    
+    station ENT_106028 "Perte sous le Lac" continuation explored "50 m"
+    equate ENT_106028 0@PerteSousLeLac    
 
     fix ENT_106029	489165.0 4451956.0	247	
     station ENT_106029 "PE11" entrance 
@@ -233,7 +233,7 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106033	488207.0 4452069.0	294	
-    station ENT_106033 "GouffreDuBowling" entrance
+    station ENT_106033 "GouffreDuBowling"
     equate ENT_106033 3A@Entree.GouffreDuBowling
     
 

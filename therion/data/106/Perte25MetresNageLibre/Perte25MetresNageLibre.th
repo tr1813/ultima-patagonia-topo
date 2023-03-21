@@ -1,7 +1,7 @@
 # 2023.02.10 created by TopoDroid v 5.1.40
 
 survey Perte25MetresNageLibre -title "Perte 25 Metres Nage Libre" \
-            -attr cadnum 106055 \
+            -attr cad_num 106055 \
             -attr exped UP2023 \ 
             -entrance 0
 

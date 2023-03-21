@@ -1,8 +1,7 @@
 encoding utf-8
 # created with SexyTopo 1.6.1
 
-survey GouffrePlusPlus
-
+survey GouffrePlusPlus -entrance 0@Entree -attr cad_num 106023 -attr exped UP2023
 
     input Entree/Entree.th
     input Suite/Suite.th
