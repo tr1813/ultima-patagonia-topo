@@ -1,12 +1,14 @@
 # 2023.02.27 created by TopoDroid v 6.1.78
 
-survey MoulinDeLaScience -title "Moulin de la Science"
+survey MoulinDeLaScience -title "Moulin de la Science" -entrance 0 -attr cad_num 402007 -attr exped UP2023
     # perte equipee avec broches pour monitoring Le 28 janvier 
 
   centerline
     date 2023.01.28 
     team "Tanguy Racine"
-    # Arnauld Laurence 
+    team "Arnauld Malard" 
+    team "Laurence [Boudoux d'Hautefeuille]" 
+    
     units length meters
     units compass clino degrees
     data normal from to length compass clino
