@@ -30,9 +30,9 @@ export database -o ../data/gis/database.csv
 with open("temp.thconfig", 'w') as f:
     f.write(CONFIG_FILE)
     f.close()
-subprocess.check_output("therion temp.thconfig", shell = True)
-subprocess.check_output("rm temp.thconfig", shell = True)
-subprocess.check_output("rm therion.log", shell = True)
+#subprocess.check_output("therion temp.thconfig", shell = True)
+#subprocess.check_output("rm temp.thconfig", shell = True)
+#subprocess.check_output("rm therion.log", shell = True)
 
 CONFIG_FILE = """
 source ../data/{sector}/{survey}/{survey}.th
@@ -55,27 +55,29 @@ def getDepthLength(CAD_NUM):
             FORMATTED = CONFIG_FILE.format(sector = CAD_NUM.split('ENT_')[1][:3], survey =SURVEY)
             f.write(FORMATTED)
             f.close()
-
-        subprocess.check_output("therion temp.thconfig", shell = True)
-        subprocess.check_output("rm temp.thconfig", shell = True)
-        subprocess.check_output("rm temp.3d", shell = True)
-
+        try : 
+            subprocess.check_output("therion temp.thconfig", shell = True)
+            subprocess.check_output("rm temp.thconfig", shell = True)
+            subprocess.check_output("rm temp.3d", shell = True)
+        
         # open the log and get the depth.
+            with open("therion.log", 'r') as f:
+                LOG = f.readlines()
 
-        with open("therion.log", 'r') as f:
-            LOG = f.readlines()
+                for LINE in LOG:
+                    if "Total length of survey legs" in LINE:
+                        NUMS = LINE.split("Total length of survey legs =")[1].strip(" ")
+                        print(NUMS.split('(')[0].strip(" ").strip("m"))
+                        LENGTH = float(NUMS.split('(')[0].strip(" ").strip("m"))
+                    elif "Vertical range" in LINE:
+                        DEPTH = float(LINE.split(" ")[4].strip('m'))
 
-            for LINE in LOG:
-                if "Total length of survey legs" in LINE:
-                    NUMS = LINE.split("Total length of survey legs =")[1].strip(" ")
-                    print(NUMS.split('(')[0].strip(" ").strip("m"))
-                    LENGTH = float(NUMS.split('(')[0].strip(" ").strip("m"))
-                elif "Vertical range" in LINE:
-                    DEPTH = float(LINE.split(" ")[4].strip('m'))
+                f.close()
+            subprocess.check_output("rm therion.log", shell = True)
 
-            f.close()
-        subprocess.check_output("rm therion.log", shell = True)
-
+        except subprocess.CalledProcessError: 
+            DEPTH = "NaN"
+            LENGTH = "NaN"
 
     else:
         DEPTH = "NaN"
@@ -101,32 +103,37 @@ for sr in reader.shapeRecords():
     # filter by centerline
 
     if 'ENT' in atr['_NAME']:
-
+        print(atr)
         try:
-            vals = (SYNTHESE[SYNTHESE['cadnum'] == atr['_NAME']].values[0])
-            print(vals)
+            vals = (SYNTHESE[SYNTHESE['cadnum'] == atr['_NAME'][4:]].values[0])
             LENGTH,DEPTH = getDepthLength(atr['_NAME'])
             if LENGTH != 'NaN':
                 atr['_LENGTH_TH'] = "{:.0f}".format(LENGTH)
                 atr['_DEPTH_TH'] = "{:.0f}".format(DEPTH)
-                atr['_LENGTH'] = str(vals[7])
-                atr['_DEPTH'] = str(vals[8])
+                atr['_LENGTH'] = str(vals[9])
+                atr['_DEPTH'] = str(vals[10])
             else:
-                atr['_LENGTH'] = str(vals[7])
-                atr['_DEPTH'] = str(vals[8])
+                atr['_LENGTH'] = str(vals[9])
+                atr['_DEPTH'] = str(vals[10])
                 atr['_LENGTH_TH'] = 'NaN'
                 atr['_DEPTH_TH'] = 'NaN'
 
             ROOT  = 'https://tr1813.github.io/ultima-patagonia-topo/therion/data/'
-            CAVE_URL = ROOT+vals[0].strip('ENT_')[:3]+'/'+vals[2]+'/'+vals[2]+'.html'
+            try: 
+                CAVE_URL = ROOT+vals[0].strip('ENT_')[:3]+'/'+vals[2]+'/'+vals[2]+'.html'
+
+            except AttributeError:
+                CAVE_URL = "https://tr1813.github.io/"
+            
+            atr['_CAD_NUM'] = vals[1]
             print(CAVE_URL)
-            atr['_CAD_NUM'] = vals[0].strip('ENT_')
-            atr['_CAVENAME'] = vals[1]
-            atr['_ALTITUDE'] = str(vals[6])
-            atr['_EXPED'] = vals[10]
-            atr['_EXPLORATEURS'] = str(vals[9])
+            atr['_CAVENAME'] = vals[3]
+            atr['_ALTITUDE'] = str(vals[8])
+            atr['_EXPED'] = vals[12]
+            atr['_EXPLORATEURS'] = str(vals[11])
             atr['_URL'] = "{}".format(CAVE_URL)
         except (IndexError,TypeError):
+            print("no cadastre")
             atr['_CAD_NUM'] = atr['_NAME'].strip('ENT_')
             atr['_CAVENAME'] = 'not known'
             atr['_LENGTH'] = "not known"
@@ -139,7 +146,6 @@ for sr in reader.shapeRecords():
             atr['_URL'] = "not known"
             pass
 
-        #print(atr)
         geom = sr.shape.__geo_interface__
         X,Y = geom['coordinates']
 
@@ -176,7 +182,6 @@ for sr in reader.shapeRecords():
 
         SURVEY_LINES.append(dict(type="Feature", geometry=geom, properties=atr))
 
-print(SURVEY_LINES)
 
 geojson = open("../data/gis/lines2D.js", "w")
 geojson.write("var lines2D = \n")
@@ -201,7 +206,6 @@ for sr in reader.shapeRecords():
             newnodes = []
 
             for node in polygon:
-                print(len(node))
                 if len(node) > 2:
                     newsubnodes = []
                     for subnode in node:
@@ -222,7 +226,6 @@ for sr in reader.shapeRecords():
         print("possibly an empty polygon")
 
 
-print(OUTLINES)
 
 geojson = open("../data/gis/outlines2D.js", "w")
 geojson.write("var outlines2D = \n")
