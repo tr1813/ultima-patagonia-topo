@@ -1,11 +1,11 @@
 survey 402 -title "402 HPS-35"
 
   input MoulinDeLaScience/MoulinDeLaScience.th
-  
+
   input PerteDeRascarcapac/PerteDeRascarcapac.th
 
   centreline
-
+  cs UTM18S
 
    # moulin de la Science 
 

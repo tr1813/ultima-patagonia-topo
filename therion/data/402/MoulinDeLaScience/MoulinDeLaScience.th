@@ -8,7 +8,7 @@ survey MoulinDeLaScience -title "Moulin de la Science" -entrance 0 -attr cad_num
     team "Tanguy Racine"
     team "Arnauld Malard" 
     team "Laurence [Boudoux d'Hautefeuille]" 
-    
+
     units length meters
     units compass clino degrees
     data normal from to length compass clino
@@ -65,11 +65,11 @@ survey MoulinDeLaScience -title "Moulin de la Science" -entrance 0 -attr cad_num
    input "MoulinDeLaScience-1p.th2"
    input "MoulinDeLaScience-1s.th2"
 
-  # map m1p -projection plan
-  #   perte_8_HPS_35-1p
-  # endmap
-  # map m1s -projection extended
-  #   perte_8_HPS_35-1s
-  # endmap
+   map m-all-p -projection plan
+     perte_8_HPS_35-1p
+   endmap
+   map m-all-e -projection extended
+     perte_8_HPS_35-1s
+   endmap
 
 endsurvey
