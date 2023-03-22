@@ -21,16 +21,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Abri 2, occupation humaine",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "101001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Abri",
+        "_ALTITUDE": "2",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -52,16 +52,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Abri 1, occupation humaine",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "104001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Abri",
+        "_ALTITUDE": "5",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -83,16 +83,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva rien",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "104002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Rien",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -176,16 +176,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Rapido1",
+        "_LENGTH": "nan",
+        "_DEPTH": "20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "105001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Rapido1",
+        "_ALTITUDE": "30",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -207,16 +207,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Rapido 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "105002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Rapido2",
+        "_ALTITUDE": "30",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -238,16 +238,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte3GrandLac",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "105003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte3GrandLac",
+        "_ALTITUDE": "212",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck Brehier, Cedric Roques ",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -269,16 +269,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PE25",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "105004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE25",
+        "_ALTITUDE": "171",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -300,16 +300,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PE26",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "105005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE26",
+        "_ALTITUDE": "173",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -331,16 +331,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "ResurgenceGrandLac1",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "105006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "ResurgenceGrandLac1",
+        "_ALTITUDE": "17",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -362,16 +362,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "ResurgenceGrandLac2",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "105007",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "ResurgenceGrandLac2",
+        "_ALTITUDE": "16",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -393,16 +393,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "ResurgenceGrandLac3",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "105008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "ResurgenceGrandLac3",
+        "_ALTITUDE": "12",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -424,16 +424,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "ResurgenceGrandLac4",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "105009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "ResurgenceGrandLac4",
+        "_ALTITUDE": "14",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -455,16 +455,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "ResurgenceGrandLac5",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "105010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "ResurgenceGrandLac5",
+        "_ALTITUDE": "31",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -486,16 +486,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteDuGrandLac",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "105011",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PerteDuGrandLac",
+        "_ALTITUDE": "24",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -503,13 +503,13 @@ var pointsFixes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.13721218715654,
-          -50.08130820465702
+          -75.13739363051862,
+          -50.081218050754366
         ]
       },
       "properties": {
-        "_ID": 4909,
-        "_UID": 4909,
+        "_ID": 10757,
+        "_UID": 10757,
         "_NAME": "ENT_106001",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -517,16 +517,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Pirates",
+        "_LENGTH_TH": "3687",
+        "_DEPTH_TH": "146",
+        "_LENGTH": "370.0",
+        "_DEPTH": "40",
         "_CAD_NUM": "106001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Pirates",
+        "_ALTITUDE": "10",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -539,25 +539,25 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4910,
-        "_UID": 4910,
+        "_ID": 10758,
+        "_UID": 10758,
         "_NAME": "ENT_106002",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 1,
+        "_ENTRANCE": 0,
         "_CONTINUA_": 1,
         "_COMMENT": "Cueva No Time",
+        "_LENGTH_TH": "437",
+        "_DEPTH_TH": "115",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "106002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Porche",
+        "_ALTITUDE": "70",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -570,8 +570,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4911,
-        "_UID": 4911,
+        "_ID": 10759,
+        "_UID": 10759,
         "_NAME": "ENT_106003",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -579,16 +579,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence NoTime",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence NoTime",
+        "_ALTITUDE": "3",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -601,8 +601,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4912,
-        "_UID": 4912,
+        "_ID": 10760,
+        "_UID": 10760,
         "_NAME": "ENT_106004",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -610,16 +610,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Nutria",
+        "_LENGTH": "nan",
+        "_DEPTH": "20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Nutria",
+        "_ALTITUDE": "20",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -632,8 +632,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4913,
-        "_UID": 4913,
+        "_ID": 10761,
+        "_UID": 10761,
         "_NAME": "ENT_106005",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -641,16 +641,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Porche",
+        "_ALTITUDE": "70",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -663,8 +663,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4914,
-        "_UID": 4914,
+        "_ID": 10762,
+        "_UID": 10762,
         "_NAME": "ENT_106006",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -672,16 +672,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -694,8 +694,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4915,
-        "_UID": 4915,
+        "_ID": 10763,
+        "_UID": 10763,
         "_NAME": "ENT_106008",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -703,16 +703,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Caracara",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Caracara",
+        "_ALTITUDE": "96",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -725,8 +725,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4916,
-        "_UID": 4916,
+        "_ID": 10764,
+        "_UID": 10764,
         "_NAME": "ENT_106009",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -734,16 +734,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Plateau Egg 1, non descendu \u00e0 cause de blocs instables",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE1",
+        "_ALTITUDE": "186",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -756,8 +756,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4917,
-        "_UID": 4917,
+        "_ID": 10765,
+        "_UID": 10765,
         "_NAME": "ENT_106010",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -765,16 +765,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 1,
         "_COMMENT": "Plateau Egg 2, environ 40 m avec un m\u00e9andre r\u00e9tr\u00e9cissant",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE2",
+        "_ALTITUDE": "189",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -787,8 +787,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4918,
-        "_UID": 4918,
+        "_ID": 10766,
+        "_UID": 10766,
         "_NAME": "ENT_106011",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -796,16 +796,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Plateau Egg 3, non descendu, blocs instables",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106011",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE3",
+        "_ALTITUDE": "201",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -818,8 +818,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4919,
-        "_UID": 4919,
+        "_ID": 10767,
+        "_UID": 10767,
         "_NAME": "ENT_106012",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -827,16 +827,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Plateau Egg 4, aussi PL22 bloqu\u00e9 apr\u00e8s 15 m",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106012",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE4",
+        "_ALTITUDE": "224",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -849,8 +849,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4920,
-        "_UID": 4920,
+        "_ID": 10768,
+        "_UID": 10768,
         "_NAME": "ENT_106013",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -858,16 +858,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Plateau Egg 5, puits entre deux canyons de surface, fin sur 10 m",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106013",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE5",
+        "_ALTITUDE": "213",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -880,8 +880,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4921,
-        "_UID": 4921,
+        "_ID": 10769,
+        "_UID": 10769,
         "_NAME": "ENT_106014",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -889,16 +889,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Plateau Egg 6",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106014",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE6",
+        "_ALTITUDE": "226",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -911,8 +911,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4922,
-        "_UID": 4922,
+        "_ID": 10770,
+        "_UID": 10770,
         "_NAME": "ENT_106015",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -920,16 +920,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Plateau Egg 7",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106015",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE7",
+        "_ALTITUDE": "218",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -942,8 +942,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4923,
-        "_UID": 4923,
+        "_ID": 10771,
+        "_UID": 10771,
         "_NAME": "ENT_106016",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -951,16 +951,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Plateau Egg 8, trois entr\u00e9es permettent acc\u00e8s. Bruit de rivi\u00e8re sous des blocs",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106016",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE8",
+        "_ALTITUDE": "220",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -973,8 +973,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4924,
-        "_UID": 4924,
+        "_ID": 10772,
+        "_UID": 10772,
         "_NAME": "ENT_106017",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -982,16 +982,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Plateau Egg 9, position hasardeuse?",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106017",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE9",
+        "_ALTITUDE": "225",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1004,8 +1004,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4925,
-        "_UID": 4925,
+        "_ID": 10773,
+        "_UID": 10773,
         "_NAME": "ENT_106018",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1013,16 +1013,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Deux puits fossiles",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106018",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE10",
+        "_ALTITUDE": "216",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1035,8 +1035,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4926,
-        "_UID": 4926,
+        "_ID": 10774,
+        "_UID": 10774,
         "_NAME": "ENT_106019",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1044,16 +1044,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Los tres Rios",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106019",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Los Tres Rios",
+        "_ALTITUDE": "325",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1066,8 +1066,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4927,
-        "_UID": 4927,
+        "_ID": 10775,
+        "_UID": 10775,
         "_NAME": "ENT_106020",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1075,16 +1075,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva del Dragon",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106020",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva del Dragon",
+        "_ALTITUDE": "187",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1097,8 +1097,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4928,
-        "_UID": 4928,
+        "_ID": 10776,
+        "_UID": 10776,
         "_NAME": "ENT_106021",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1106,16 +1106,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva del Zorro",
+        "_LENGTH_TH": "160",
+        "_DEPTH_TH": "27",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "106021",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva del Zorro",
+        "_ALTITUDE": "105",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1128,8 +1128,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4929,
-        "_UID": 4929,
+        "_ID": 10777,
+        "_UID": 10777,
         "_NAME": "ENT_106022",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1137,16 +1137,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "AvenDesArchesPerdues",
+        "_LENGTH_TH": "1431",
+        "_DEPTH_TH": "301",
+        "_LENGTH": "600.0",
+        "_DEPTH": "260",
         "_CAD_NUM": "106022",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "AvenDesArchesPerdues",
+        "_ALTITUDE": "358",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alexandre Honiat, Jessica Morin-Buote, Olivier Gerard, Joel Tremoulet. ",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1159,8 +1159,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4930,
-        "_UID": 4930,
+        "_ID": 10778,
+        "_UID": 10778,
         "_NAME": "ENT_106023",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1168,16 +1168,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GouffrePlusPlus",
+        "_LENGTH_TH": "133",
+        "_DEPTH_TH": "88",
+        "_LENGTH": "55.0",
+        "_DEPTH": "55",
         "_CAD_NUM": "106023",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GouffrePlusPlus",
+        "_ALTITUDE": "238",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck Brehier, Cedric Roques ",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1190,8 +1190,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4931,
-        "_UID": 4931,
+        "_ID": 10779,
+        "_UID": 10779,
         "_NAME": "ENT_106024",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1199,16 +1199,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteContact1",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106024",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PerteContact1",
+        "_ALTITUDE": "344",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck Brehier, Cedric Roques ",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1221,8 +1221,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4932,
-        "_UID": 4932,
+        "_ID": 10780,
+        "_UID": 10780,
         "_NAME": "ENT_106025",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1230,16 +1230,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteContact2",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106025",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PerteContact2",
+        "_ALTITUDE": "343",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck Brehier, Cedric Roques ",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1252,8 +1252,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4933,
-        "_UID": 4933,
+        "_ID": 10781,
+        "_UID": 10781,
         "_NAME": "ENT_106026",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1261,16 +1261,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "GouffreAuxCometes",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106026",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GouffreAuxCometes",
+        "_ALTITUDE": "240",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck Brehier, Cedric Roques ",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1283,8 +1283,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4934,
-        "_UID": 4934,
+        "_ID": 10782,
+        "_UID": 10782,
         "_NAME": "ENT_106027",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1292,16 +1292,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CampAvance1Egg",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106027",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "CampAvance1Egg",
+        "_ALTITUDE": "241",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Pointe par Cedric, sur VisoRando",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1314,25 +1314,25 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4935,
-        "_UID": 4935,
+        "_ID": 10783,
+        "_UID": 10783,
         "_NAME": "ENT_106028",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 1,
+        "_ENTRANCE": 0,
         "_CONTINUA_": 1,
         "_COMMENT": "Perte sous le Lac",
+        "_LENGTH": "15.0",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106028",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PerteSousLeLac",
+        "_ALTITUDE": "272",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Pointe par Cedric, sur VisoRando",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1345,8 +1345,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4936,
-        "_UID": 4936,
+        "_ID": 10784,
+        "_UID": 10784,
         "_NAME": "ENT_106029",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1354,16 +1354,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE11",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106029",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE11",
+        "_ALTITUDE": "247",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alexandre Honiat",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1376,8 +1376,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4937,
-        "_UID": 4937,
+        "_ID": 10785,
+        "_UID": 10785,
         "_NAME": "ENT_106030",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1385,16 +1385,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE12",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106030",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE12",
+        "_ALTITUDE": "298",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alexandre Honiat",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1407,8 +1407,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4938,
-        "_UID": 4938,
+        "_ID": 10786,
+        "_UID": 10786,
         "_NAME": "ENT_106031",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1416,16 +1416,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE13",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106031",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE13",
+        "_ALTITUDE": "301",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alexandre Honiat",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1438,8 +1438,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4939,
-        "_UID": 4939,
+        "_ID": 10787,
+        "_UID": 10787,
         "_NAME": "ENT_106032",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1447,16 +1447,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE14",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106032",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE14",
+        "_ALTITUDE": "292",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alexandre Honiat",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1469,25 +1469,25 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4940,
-        "_UID": 4940,
+        "_ID": 10788,
+        "_UID": 10788,
         "_NAME": "ENT_106033",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 1,
+        "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GouffreDuBowling",
+        "_LENGTH_TH": "221",
+        "_DEPTH_TH": "166",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
         "_CAD_NUM": "106033",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GouffreDuBowling",
+        "_ALTITUDE": "294",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alexandre Honiat",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1500,8 +1500,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4941,
-        "_UID": 4941,
+        "_ID": 10789,
+        "_UID": 10789,
         "_NAME": "ENT_106034",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1509,16 +1509,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE16",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106034",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE16",
+        "_ALTITUDE": "269",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1531,8 +1531,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4942,
-        "_UID": 4942,
+        "_ID": 10790,
+        "_UID": 10790,
         "_NAME": "ENT_106035",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1540,16 +1540,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "AvenDesDeuxLacs",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106035",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "AvenDesDeuxLacs",
+        "_ALTITUDE": "195",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1562,8 +1562,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4943,
-        "_UID": 4943,
+        "_ID": 10791,
+        "_UID": 10791,
         "_NAME": "ENT_106036",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1571,16 +1571,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "CreuxDuRavin",
+        "_LENGTH": "20.0",
+        "_DEPTH": "20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106036",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "CreuxDuRavin",
+        "_ALTITUDE": "225",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1593,8 +1593,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4944,
-        "_UID": 4944,
+        "_ID": 10792,
+        "_UID": 10792,
         "_NAME": "ENT_106037",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1602,16 +1602,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE17",
+        "_LENGTH": "15.0",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106037",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE17",
+        "_ALTITUDE": "217",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1624,8 +1624,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4945,
-        "_UID": 4945,
+        "_ID": 10793,
+        "_UID": 10793,
         "_NAME": "ENT_106038",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1633,16 +1633,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE18",
+        "_LENGTH": "20.0",
+        "_DEPTH": "20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106038",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE18",
+        "_ALTITUDE": "195",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1655,8 +1655,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4946,
-        "_UID": 4946,
+        "_ID": 10794,
+        "_UID": 10794,
         "_NAME": "ENT_106039",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1664,16 +1664,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE19",
+        "_LENGTH": "15.0",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106039",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE19",
+        "_ALTITUDE": "186",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1686,8 +1686,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4947,
-        "_UID": 4947,
+        "_ID": 10795,
+        "_UID": 10795,
         "_NAME": "ENT_106040",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1695,16 +1695,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE20",
+        "_LENGTH": "30.0",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106040",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE20",
+        "_ALTITUDE": "199",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1717,8 +1717,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4948,
-        "_UID": 4948,
+        "_ID": 10796,
+        "_UID": 10796,
         "_NAME": "ENT_106041",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1726,16 +1726,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE21",
+        "_LENGTH": "20.0",
+        "_DEPTH": "20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106041",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE21",
+        "_ALTITUDE": "198",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1748,8 +1748,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4949,
-        "_UID": 4949,
+        "_ID": 10797,
+        "_UID": 10797,
         "_NAME": "ENT_106042",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1757,16 +1757,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE22",
+        "_LENGTH": "10.0",
+        "_DEPTH": "10",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106042",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE22",
+        "_ALTITUDE": "189",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1779,8 +1779,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4950,
-        "_UID": 4950,
+        "_ID": 10798,
+        "_UID": 10798,
         "_NAME": "ENT_106043",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1788,16 +1788,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE23",
+        "_LENGTH": "20.0",
+        "_DEPTH": "20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106043",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE23",
+        "_ALTITUDE": "210",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex Honiat",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1810,8 +1810,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4951,
-        "_UID": 4951,
+        "_ID": 10799,
+        "_UID": 10799,
         "_NAME": "ENT_106044",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1819,16 +1819,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "DentDuPiqueNique",
+        "_LENGTH": "30.0",
+        "_DEPTH": "10",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106044",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "DentDuPiqueNique",
+        "_ALTITUDE": "247",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex Honiat",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1841,8 +1841,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4952,
-        "_UID": 4952,
+        "_ID": 10800,
+        "_UID": 10800,
         "_NAME": "ENT_106045",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1850,16 +1850,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE24",
+        "_LENGTH": "40.0",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106045",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE24",
+        "_ALTITUDE": "331",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1872,8 +1872,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4953,
-        "_UID": 4953,
+        "_ID": 10801,
+        "_UID": 10801,
         "_NAME": "ENT_106046",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1881,16 +1881,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "GouffreDuRhinoceros",
+        "_LENGTH": "42.0",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106046",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GouffreDuRhinoceros",
+        "_ALTITUDE": "328",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alexandre Andrieu, Joel Tremoulet",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1903,8 +1903,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4954,
-        "_UID": 4954,
+        "_ID": 10802,
+        "_UID": 10802,
         "_NAME": "ENT_106047",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1912,16 +1912,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "TrouDuHaut",
+        "_LENGTH": "30.0",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106047",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "TrouDuHaut",
+        "_ALTITUDE": "301",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alexandre Andrieu, Joel Tremoulet",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1934,8 +1934,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4955,
-        "_UID": 4955,
+        "_ID": 10803,
+        "_UID": 10803,
         "_NAME": "ENT_106048",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1943,16 +1943,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "TrouDeFiamat",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106048",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "TrouDeFiamat",
+        "_ALTITUDE": "211",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Les Italiens",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1965,8 +1965,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4956,
-        "_UID": 4956,
+        "_ID": 10804,
+        "_UID": 10804,
         "_NAME": "ENT_106049",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1974,16 +1974,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Bramabio",
+        "_LENGTH": "40.0",
+        "_DEPTH": "2",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106049",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Bramabio",
+        "_ALTITUDE": "206",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex, Joel, Christine",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1996,8 +1996,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4957,
-        "_UID": 4957,
+        "_ID": 10805,
+        "_UID": 10805,
         "_NAME": "ENT_106050",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2005,16 +2005,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE25",
+        "_LENGTH": "20.0",
+        "_DEPTH": "20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106050",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE25",
+        "_ALTITUDE": "271",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex, Joel, Christine",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2027,8 +2027,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4958,
-        "_UID": 4958,
+        "_ID": 10806,
+        "_UID": 10806,
         "_NAME": "ENT_106051",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2036,16 +2036,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE26",
+        "_LENGTH": "15.0",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106051",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE26",
+        "_ALTITUDE": "325",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex, Joel, Christine",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2058,8 +2058,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4959,
-        "_UID": 4959,
+        "_ID": 10807,
+        "_UID": 10807,
         "_NAME": "ENT_106052",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2067,16 +2067,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE27",
+        "_LENGTH": "40.0",
+        "_DEPTH": "40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106052",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE27",
+        "_ALTITUDE": "330.4",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex, Joel, Christine",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2089,8 +2089,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4960,
-        "_UID": 4960,
+        "_ID": 10808,
+        "_UID": 10808,
         "_NAME": "ENT_106053",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2098,16 +2098,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PE28",
+        "_LENGTH": "30.0",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106053",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PE28",
+        "_ALTITUDE": "243.1",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex, Joel, Christine",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2120,8 +2120,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4961,
-        "_UID": 4961,
+        "_ID": 10809,
+        "_UID": 10809,
         "_NAME": "ENT_106055",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2129,16 +2129,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte25MetresNageLibre",
+        "_LENGTH_TH": "77",
+        "_DEPTH_TH": "41",
+        "_LENGTH": "77.0",
+        "_DEPTH": "38",
         "_CAD_NUM": "106055",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte25MetresNageLibre",
+        "_ALTITUDE": "262",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Charlotte Honiat, Alexandre Honiat, Cedric Roques, Lionel Ruiz ",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2151,8 +2151,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4962,
-        "_UID": 4962,
+        "_ID": 10810,
+        "_UID": 10810,
         "_NAME": "ENT_106056",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2160,16 +2160,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteChampis",
+        "_LENGTH_TH": "34",
+        "_DEPTH_TH": "27",
+        "_LENGTH": "36.0",
+        "_DEPTH": "21",
         "_CAD_NUM": "106056",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PerteChampis",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Charlotte Honiat, Cedric Roques, Lionel Ruiz ",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2182,8 +2182,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4963,
-        "_UID": 4963,
+        "_ID": 10811,
+        "_UID": 10811,
         "_NAME": "ENT_106057",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2191,16 +2191,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre D\u00e9j\u00e0 Vu",
+        "_LENGTH_TH": "151",
+        "_DEPTH_TH": "34",
+        "_LENGTH": "150.0",
+        "_DEPTH": "35",
         "_CAD_NUM": "106057",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GouffreDuDejaVu",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Natalia Morata, Laurence Boudoux-Hautefeuille, Arnauld Malard",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2213,8 +2213,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4964,
-        "_UID": 4964,
+        "_ID": 10812,
+        "_UID": 10812,
         "_NAME": "ENT_106058",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2222,16 +2222,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 1,
         "_COMMENT": "Perte du Disto",
+        "_LENGTH": "200.0",
+        "_DEPTH": "40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106058",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte du Disto",
+        "_ALTITUDE": "240",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Katia, Clement, Denis",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2244,8 +2244,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4965,
-        "_UID": 4965,
+        "_ID": 10813,
+        "_UID": 10813,
         "_NAME": "ENT_106059",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2253,16 +2253,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 1,
         "_COMMENT": "El Pozo Granizo",
+        "_LENGTH": "81.0",
+        "_DEPTH": "81",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106059",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "El Pozo Granizo",
+        "_ALTITUDE": "281",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Katia, Clement, Denis",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2275,8 +2275,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4966,
-        "_UID": 4966,
+        "_ID": 10814,
+        "_UID": 10814,
         "_NAME": "ENT_106060",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2284,16 +2284,16 @@ var pointsFixes =
         "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "PuitsdelArche",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106060",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Puits de l'Arche",
+        "_ALTITUDE": "201",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Olivier Guerard, Lionel Ruiz",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2306,8 +2306,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4967,
-        "_UID": 4967,
+        "_ID": 10815,
+        "_UID": 10815,
         "_NAME": "ENT_106061",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2315,16 +2315,202 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "ResurgenceGolondrina",
+        "_LENGTH_TH": "420",
+        "_DEPTH_TH": "82",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "106061",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "ResurgenceGolondrina",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jeremie",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16126137562797,
+          -50.06724673747887
+        ]
+      },
+      "properties": {
+        "_ID": 10816,
+        "_UID": 10816,
+        "_NAME": "ENT_106062",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "GrandeFailleDuBoutDuMonde",
+        "_LENGTH_TH": "56",
+        "_DEPTH_TH": "43",
+        "_LENGTH": "56.0",
+        "_DEPTH": "43",
+        "_CAD_NUM": "106062",
+        "_CAVENAME": "GrandeFailleDuBoutDuMonde",
+        "_ALTITUDE": "244",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex H, Flo R, David Jules",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16640973319268,
+          -50.07311252131239
+        ]
+      },
+      "properties": {
+        "_ID": 10817,
+        "_UID": 10817,
+        "_NAME": "ENT_106063",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Traverse_de_lindecision",
+        "_LENGTH": "108.0",
+        "_DEPTH": "19",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106063",
+        "_CAVENAME": "Traverse_de_lindecision",
+        "_ALTITUDE": "280",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex H, Flo R, David Jules",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1592162774303,
+          -50.0657205879138
+        ]
+      },
+      "properties": {
+        "_ID": 10818,
+        "_UID": 10818,
+        "_NAME": "ENT_106064",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "R\u00eave \u00e9veill\u00e9",
+        "_LENGTH_TH": "331",
+        "_DEPTH_TH": "125",
+        "_LENGTH": "331.0",
+        "_DEPTH": "124",
+        "_CAD_NUM": "106064",
+        "_CAVENAME": "Reve Eveille",
+        "_ALTITUDE": "145",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex H, Flo R, David Jules",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13944033429868,
+          -50.07849044858794
+        ]
+      },
+      "properties": {
+        "_ID": 10819,
+        "_UID": 10819,
+        "_NAME": "ENT_106065",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Porche Eden",
+        "_LENGTH_TH": "76",
+        "_DEPTH_TH": "29",
+        "_LENGTH": "76.0",
+        "_DEPTH": "13",
+        "_CAD_NUM": "106065",
+        "_CAVENAME": "PorcheEden",
+        "_ALTITUDE": "5",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Flo R, Natalia",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13211474664514,
+          -50.09807878054761
+        ]
+      },
+      "properties": {
+        "_ID": 10820,
+        "_UID": 10820,
+        "_NAME": "ENT_106066",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Casablanca",
+        "_LENGTH_TH": "73",
+        "_DEPTH_TH": "25",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_CAD_NUM": "106066",
+        "_CAVENAME": "Casablanca",
+        "_ALTITUDE": "10",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "\"Caro, Medhi, Serge, Jeremie \"",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13729502140482,
+          -50.080948349458815
+        ]
+      },
+      "properties": {
+        "_ID": 10821,
+        "_UID": 10821,
+        "_NAME": "ENT_106067",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Resurgence des Pirates",
+        "_LENGTH_TH": "155",
+        "_DEPTH_TH": "27",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_CAD_NUM": "106067",
+        "_CAVENAME": "Resurgence des Pirates",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck Brehier, Jeremie",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2337,8 +2523,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5971,
-        "_UID": 5971,
+        "_ID": 11825,
+        "_UID": 11825,
         "_NAME": "ENT_107001",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2346,16 +2532,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva des los Pescadores",
+        "_LENGTH": "200.0",
+        "_DEPTH": "40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva des los Pescadores",
+        "_ALTITUDE": "40",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2368,8 +2554,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5972,
-        "_UID": 5972,
+        "_ID": 11826,
+        "_UID": 11826,
         "_NAME": "ENT_107002",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2377,16 +2563,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence Bahia Blanca",
+        "_LENGTH_TH": "444",
+        "_DEPTH_TH": "35",
+        "_LENGTH": "220.0",
+        "_DEPTH": "24",
         "_CAD_NUM": "107002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence XXX",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2399,8 +2585,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5973,
-        "_UID": 5973,
+        "_ID": 11827,
+        "_UID": 11827,
         "_NAME": "ENT_107003",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2408,16 +2594,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Deux grottes (double entree)",
+        "_ALTITUDE": "?",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2430,8 +2616,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5974,
-        "_UID": 5974,
+        "_ID": 11828,
+        "_UID": 11828,
         "_NAME": "ENT_107004",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2439,16 +2625,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Chattiere qui buffle",
+        "_ALTITUDE": "?",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2461,8 +2647,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5975,
-        "_UID": 5975,
+        "_ID": 11829,
+        "_UID": 11829,
         "_NAME": "ENT_107005",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2470,16 +2656,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de la grotte",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre de la grotte ",
+        "_ALTITUDE": "436",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2492,8 +2678,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5976,
-        "_UID": 5976,
+        "_ID": 11830,
+        "_UID": 11830,
         "_NAME": "ENT_107006",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2501,16 +2687,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Mille et une cascade",
+        "_LENGTH": "64.0",
+        "_DEPTH": "47",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva de los Gringos",
+        "_ALTITUDE": "??",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2523,8 +2709,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5977,
-        "_UID": 5977,
+        "_ID": 11831,
+        "_UID": 11831,
         "_NAME": "ENT_107007",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2532,16 +2718,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du camp du nid du condor",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107007",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre du camp du nid du condor",
+        "_ALTITUDE": "311",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2554,8 +2740,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5978,
-        "_UID": 5978,
+        "_ID": 11832,
+        "_UID": 11832,
         "_NAME": "ENT_107008",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2563,16 +2749,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Emergence des tuyaux ( rameur)",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Emergence des tuyaux ( rameur)",
+        "_ALTITUDE": "?",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2585,8 +2771,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5979,
-        "_UID": 5979,
+        "_ID": 11833,
+        "_UID": 11833,
         "_NAME": "ENT_107009",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2594,16 +2780,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Chameau",
+        "_LENGTH_TH": "162",
+        "_DEPTH_TH": "113",
+        "_LENGTH": "162.0",
+        "_DEPTH": "113",
         "_CAD_NUM": "107009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre du Chameau",
+        "_ALTITUDE": "380",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2616,8 +2802,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5980,
-        "_UID": 5980,
+        "_ID": 11834,
+        "_UID": 11834,
         "_NAME": "ENT_107010",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2625,16 +2811,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "perte du Point G",
+        "_LENGTH": "nan",
+        "_DEPTH": "20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "perte du Point G",
+        "_ALTITUDE": "420",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2647,8 +2833,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5981,
-        "_UID": 5981,
+        "_ID": 11835,
+        "_UID": 11835,
         "_NAME": "ENT_107011",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2656,16 +2842,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva d'el cabo vertical",
+        "_LENGTH_TH": "345",
+        "_DEPTH_TH": "31",
+        "_LENGTH": "345.0",
+        "_DEPTH": "18--14",
         "_CAD_NUM": "107011",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva d'el cabo vertical",
+        "_ALTITUDE": "39",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2678,8 +2864,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5982,
-        "_UID": 5982,
+        "_ID": 11836,
+        "_UID": 11836,
         "_NAME": "ENT_107012",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2687,16 +2873,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche de la coul\u00e9e blanche",
+        "_LENGTH_TH": "245",
+        "_DEPTH_TH": "33",
+        "_LENGTH": "84.0",
+        "_DEPTH": "26",
         "_CAD_NUM": "107012",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Porche de la coulee blanche",
+        "_ALTITUDE": "25 (estimation)",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2709,8 +2895,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5983,
-        "_UID": 5983,
+        "_ID": 11837,
+        "_UID": 11837,
         "_NAME": "ENT_107013",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2718,16 +2904,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte des Canelures",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107013",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte des Canelures",
+        "_ALTITUDE": "106, donnee GPS surestimee",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2740,8 +2926,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5984,
-        "_UID": 5984,
+        "_ID": 11838,
+        "_UID": 11838,
         "_NAME": "ENT_107014",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2749,16 +2935,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Las Duchas de San Pedro",
+        "_LENGTH_TH": "268",
+        "_DEPTH_TH": "45",
+        "_LENGTH": "268.0",
+        "_DEPTH": "45 (-41, +4)",
         "_CAD_NUM": "107014",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Las Duchas de San Pedro",
+        "_ALTITUDE": "ca 50 m",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2771,8 +2957,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5985,
-        "_UID": 5985,
+        "_ID": 11839,
+        "_UID": 11839,
         "_NAME": "ENT_107015",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2780,16 +2966,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Ete austral",
+        "_LENGTH": "105.0",
+        "_DEPTH": "83",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107015",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "\u00c9te austral ",
+        "_ALTITUDE": "411",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2802,8 +2988,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5986,
-        "_UID": 5986,
+        "_ID": 11840,
+        "_UID": 11840,
         "_NAME": "ENT_107016",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2811,16 +2997,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou du carnet",
+        "_LENGTH": "nan",
+        "_DEPTH": "10",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107016",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Trou du carnet ",
+        "_ALTITUDE": "429",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2833,8 +3019,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5987,
-        "_UID": 5987,
+        "_ID": 11841,
+        "_UID": 11841,
         "_NAME": "ENT_107017",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2842,16 +3028,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "N1",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107017",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "N1",
+        "_ALTITUDE": "?",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2864,8 +3050,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5988,
-        "_UID": 5988,
+        "_ID": 11842,
+        "_UID": 11842,
         "_NAME": "ENT_107018",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2873,16 +3059,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "N2",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107018",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "N2",
+        "_ALTITUDE": "?",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2895,8 +3081,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5989,
-        "_UID": 5989,
+        "_ID": 11843,
+        "_UID": 11843,
         "_NAME": "ENT_107019",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2904,16 +3090,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du Casque",
+        "_LENGTH_TH": "1389",
+        "_DEPTH_TH": "203",
+        "_LENGTH": "1600.0",
+        "_DEPTH": "203",
         "_CAD_NUM": "107019",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre du casque",
+        "_ALTITUDE": "347",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2926,8 +3112,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5990,
-        "_UID": 5990,
+        "_ID": 11844,
+        "_UID": 11844,
         "_NAME": "ENT_107020",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2935,16 +3121,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CN 16-02-1",
+        "_LENGTH": "nan",
+        "_DEPTH": "40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107020",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "CN 16-02-1",
+        "_ALTITUDE": "387",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2957,8 +3143,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5991,
-        "_UID": 5991,
+        "_ID": 11845,
+        "_UID": 11845,
         "_NAME": "ENT_107021",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2966,16 +3152,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CN 16-02-2",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107021",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "CN 16-02-2",
+        "_ALTITUDE": "387",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2988,8 +3174,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5992,
-        "_UID": 5992,
+        "_ID": 11846,
+        "_UID": 11846,
         "_NAME": "ENT_107022",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2997,16 +3183,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Madame Caf\u00e9",
+        "_LENGTH_TH": "66",
+        "_DEPTH_TH": "47",
+        "_LENGTH": "66.0",
+        "_DEPTH": "47",
         "_CAD_NUM": "107022",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Madame Cafe",
+        "_ALTITUDE": "384",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3019,8 +3205,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5993,
-        "_UID": 5993,
+        "_ID": 11847,
+        "_UID": 11847,
         "_NAME": "ENT_107023",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3028,16 +3214,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CN 16-02-4",
+        "_LENGTH": "nan",
+        "_DEPTH": "25",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107023",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "CN 16-02-4",
+        "_ALTITUDE": "405",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3050,8 +3236,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5994,
-        "_UID": 5994,
+        "_ID": 11848,
+        "_UID": 11848,
         "_NAME": "ENT_107024",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3059,16 +3245,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CN 16-02-5",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107024",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "CN 16-02-5",
+        "_ALTITUDE": "383",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3081,8 +3267,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5995,
-        "_UID": 5995,
+        "_ID": 11849,
+        "_UID": 11849,
         "_NAME": "ENT_107025",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3090,16 +3276,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence Hongo",
+        "_LENGTH_TH": "358",
+        "_DEPTH_TH": "28",
+        "_LENGTH": "nan",
+        "_DEPTH": "29",
         "_CAD_NUM": "107025",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence Hongo",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3112,8 +3298,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5996,
-        "_UID": 5996,
+        "_ID": 11850,
+        "_UID": 11850,
         "_NAME": "ENT_107026",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3121,16 +3307,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PN01",
+        "_LENGTH": "nan",
+        "_DEPTH": "10",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107026",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PN01",
+        "_ALTITUDE": "60",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3143,8 +3329,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5997,
-        "_UID": 5997,
+        "_ID": 11851,
+        "_UID": 11851,
         "_NAME": "ENT_107027",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3152,16 +3338,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PN02",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107027",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PN02",
+        "_ALTITUDE": "60",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3174,8 +3360,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5998,
-        "_UID": 5998,
+        "_ID": 11852,
+        "_UID": 11852,
         "_NAME": "ENT_107028",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3183,16 +3369,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du Jackpot",
+        "_LENGTH_TH": "987",
+        "_DEPTH_TH": "265",
+        "_LENGTH": "nan",
+        "_DEPTH": "265",
         "_CAD_NUM": "107028",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre Jackpot",
+        "_ALTITUDE": "369",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3205,8 +3391,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5999,
-        "_UID": 5999,
+        "_ID": 11853,
+        "_UID": 11853,
         "_NAME": "ENT_107029",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3214,16 +3400,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte du Cirque 4",
+        "_LENGTH": "nan",
+        "_DEPTH": "12",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107029",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PC4 - Perte Cirque 4",
+        "_ALTITUDE": "362",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3236,8 +3422,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6000,
-        "_UID": 6000,
+        "_ID": 11854,
+        "_UID": 11854,
         "_NAME": "ENT_107030",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3245,16 +3431,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Cascada",
+        "_LENGTH": "nan",
+        "_DEPTH": "52",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107030",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Cascada",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3267,8 +3453,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6001,
-        "_UID": 6001,
+        "_ID": 11855,
+        "_UID": 11855,
         "_NAME": "ENT_107031",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3276,16 +3462,233 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107031",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Punta Blanca",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23924952433968,
+          -50.118845244059315
+        ]
+      },
+      "properties": {
+        "_ID": 11856,
+        "_UID": 11856,
+        "_NAME": "ENT_107032",
+        "_SURVEY": "107.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 1,
+        "_COMMENT": "Les Arches Pourries",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "107032",
+        "_CAVENAME": "Les Arches Pourries",
+        "_ALTITUDE": "453",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Clement, Charlotte, Denis, Jaime",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23624090781755,
+          -50.11859957506792
+        ]
+      },
+      "properties": {
+        "_ID": 11857,
+        "_UID": 11857,
+        "_NAME": "ENT_107033",
+        "_SURVEY": "107.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 1,
+        "_COMMENT": "Chaurienne",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "107033",
+        "_CAVENAME": "Chaurienne",
+        "_ALTITUDE": "475",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Clement, Charlotte, Denis, Jaime",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23804522062784,
+          -50.11575382277428
+        ]
+      },
+      "properties": {
+        "_ID": 11858,
+        "_UID": 11858,
+        "_NAME": "ENT_107034",
+        "_SURVEY": "107.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 1,
+        "_COMMENT": "Les Trois Porches",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "107034",
+        "_CAVENAME": "Les 3 porches",
+        "_ALTITUDE": "534",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Clement, Charlotte, Denis, Jaime",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2498157817771,
+          -50.1198752778427
+        ]
+      },
+      "properties": {
+        "_ID": 11859,
+        "_UID": 11859,
+        "_NAME": "ENT_107035",
+        "_SURVEY": "107.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Puit du Kit",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "107035",
+        "_CAVENAME": "Puits du Kit",
+        "_ALTITUDE": "407",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Gwladys, Nico",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.25000524503717,
+          -50.11865170202435
+        ]
+      },
+      "properties": {
+        "_ID": 11860,
+        "_UID": 11860,
+        "_NAME": "ENT_107036",
+        "_SURVEY": "107.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Gouffre de Helm",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "107036",
+        "_CAVENAME": "Gouffre de Helm",
+        "_ALTITUDE": "424",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Gwladys, Nico",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.25296543057915,
+          -50.11765596385091
+        ]
+      },
+      "properties": {
+        "_ID": 11861,
+        "_UID": 11861,
+        "_NAME": "ENT_107037",
+        "_SURVEY": "107.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Grotte du Doute Eternel",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "107037",
+        "_CAVENAME": "Grotte du doute eternel",
+        "_ALTITUDE": "461",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Gwladys, Nico",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.31814569405546,
+          -50.12791059989092
+        ]
+      },
+      "properties": {
+        "_ID": 11862,
+        "_UID": 11862,
+        "_NAME": "ENT_107038",
+        "_SURVEY": "107.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 1,
+        "_COMMENT": "Le Gillopetre",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "107038",
+        "_CAVENAME": "Le Gillotpetre",
+        "_ALTITUDE": "389",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Clement, Gwladys, Nico, Amandine, Mowgli",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3298,8 +3701,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6103,
-        "_UID": 6103,
+        "_ID": 11964,
+        "_UID": 11964,
         "_NAME": "ENT_108001",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3307,16 +3710,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Ojo de la Madre",
+        "_LENGTH_TH": "186",
+        "_DEPTH_TH": "49",
+        "_LENGTH": "190.0",
+        "_DEPTH": "49",
         "_CAD_NUM": "108001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Ojo de la Madre",
+        "_ALTITUDE": "406",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3329,8 +3732,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6104,
-        "_UID": 6104,
+        "_ID": 11965,
+        "_UID": 11965,
         "_NAME": "ENT_108002",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3338,16 +3741,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Ombligo de la Madre",
+        "_LENGTH_TH": "283",
+        "_DEPTH_TH": "146",
+        "_LENGTH": "283.0",
+        "_DEPTH": "146",
         "_CAD_NUM": "108002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Ombligo de la Madre",
+        "_ALTITUDE": "365",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3360,8 +3763,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6105,
-        "_UID": 6105,
+        "_ID": 11966,
+        "_UID": 11966,
         "_NAME": "ENT_108003",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3369,16 +3772,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sumidero",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "108003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Sumidero ",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3391,8 +3794,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6106,
-        "_UID": 6106,
+        "_ID": 11967,
+        "_UID": 11967,
         "_NAME": "ENT_108004",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3400,16 +3803,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Lagrimas de la Madre",
+        "_LENGTH_TH": "355",
+        "_DEPTH_TH": "150",
+        "_LENGTH": "nan",
+        "_DEPTH": "150",
         "_CAD_NUM": "108004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre Lagrimas",
+        "_ALTITUDE": "350",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3422,8 +3825,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6107,
-        "_UID": 6107,
+        "_ID": 11968,
+        "_UID": 11968,
         "_NAME": "ENT_108005",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3431,16 +3834,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sumidero1",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "108005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Sumidero",
+        "_ALTITUDE": "198",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3453,8 +3856,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6108,
-        "_UID": 6108,
+        "_ID": 11969,
+        "_UID": 11969,
         "_NAME": "ENT_108006",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3462,16 +3865,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Garganta",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "108006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Garganta",
+        "_ALTITUDE": "180",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3484,8 +3887,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6109,
-        "_UID": 6109,
+        "_ID": 11970,
+        "_UID": 11970,
         "_NAME": "ENT_108007",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3493,16 +3896,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sumidero",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "108007",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Sumidero",
+        "_ALTITUDE": "191",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3515,8 +3918,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6110,
-        "_UID": 6110,
+        "_ID": 11971,
+        "_UID": 11971,
         "_NAME": "ENT_108008",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3524,16 +3927,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Utero de la Madre",
+        "_LENGTH": "770.0",
+        "_DEPTH": "xxx 182",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "108008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Utero de la Madre",
+        "_ALTITUDE": "220",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3546,8 +3949,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6111,
-        "_UID": 6111,
+        "_ID": 11972,
+        "_UID": 11972,
         "_NAME": "ENT_108009",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3555,16 +3958,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sumidero2",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "108009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Sumidero",
+        "_ALTITUDE": "225",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3577,8 +3980,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6112,
-        "_UID": 6112,
+        "_ID": 11973,
+        "_UID": 11973,
         "_NAME": "ENT_108010",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3586,16 +3989,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sumidero3",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "108010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Sumidero",
+        "_ALTITUDE": "317",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3608,8 +4011,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6113,
-        "_UID": 6113,
+        "_ID": 11974,
+        "_UID": 11974,
         "_NAME": "ENT_108011",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3617,16 +4020,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "agujero1",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "108011",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "agujero",
+        "_ALTITUDE": "290",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3639,8 +4042,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6114,
-        "_UID": 6114,
+        "_ID": 11975,
+        "_UID": 11975,
         "_NAME": "ENT_108012",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3648,16 +4051,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "agujero",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "108012",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "agujero",
+        "_ALTITUDE": "417",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3670,8 +4073,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6115,
-        "_UID": 6115,
+        "_ID": 11976,
+        "_UID": 11976,
         "_NAME": "ENT_108013",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3679,16 +4082,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de l'Arche",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "108013",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre de l'Arche",
+        "_ALTITUDE": "15",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3701,8 +4104,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6116,
-        "_UID": 6116,
+        "_ID": 11977,
+        "_UID": 11977,
         "_NAME": "ENT_108014",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3732,8 +4135,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6672,
-        "_UID": 6672,
+        "_ID": 12533,
+        "_UID": 12533,
         "_NAME": "ENT_109001",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3741,16 +4144,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte des 3 Porches",
+        "_LENGTH_TH": "279",
+        "_DEPTH_TH": "49",
+        "_LENGTH": "280.0",
+        "_DEPTH": "-49",
         "_CAD_NUM": "109001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte des 3 Porches",
+        "_ALTITUDE": "60",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3763,8 +4166,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6673,
-        "_UID": 6673,
+        "_ID": 12534,
+        "_UID": 12534,
         "_NAME": "ENT_109002",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3772,16 +4175,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte des 3 Porches",
+        "_LENGTH_TH": "341",
+        "_DEPTH_TH": "72",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "109002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte des 3 Porches",
+        "_ALTITUDE": "60",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3794,8 +4197,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6674,
-        "_UID": 6674,
+        "_ID": 12535,
+        "_UID": 12535,
         "_NAME": "ENT_109003",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3803,16 +4206,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Barachos",
+        "_LENGTH": "nan",
+        "_DEPTH": "8",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "109003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Barachos",
+        "_ALTITUDE": "375",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3825,8 +4228,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6675,
-        "_UID": 6675,
+        "_ID": 12536,
+        "_UID": 12536,
         "_NAME": "ENT_109004",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3834,16 +4237,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Caliza",
+        "_LENGTH_TH": "218",
+        "_DEPTH_TH": "133",
+        "_LENGTH": "nan",
+        "_DEPTH": "100",
         "_CAD_NUM": "109004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Caliza",
+        "_ALTITUDE": "370",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3856,8 +4259,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6676,
-        "_UID": 6676,
+        "_ID": 12537,
+        "_UID": 12537,
         "_NAME": "ENT_109005",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3865,16 +4268,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "En desespoir de Cause",
+        "_LENGTH": "nan",
+        "_DEPTH": "40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "109005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "En desespoir de Cause",
+        "_ALTITUDE": "384",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3887,8 +4290,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6677,
-        "_UID": 6677,
+        "_ID": 12538,
+        "_UID": 12538,
         "_NAME": "ENT_109006",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3896,16 +4299,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "P10",
+        "_LENGTH": "nan",
+        "_DEPTH": "10",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "109006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "P10",
+        "_ALTITUDE": "414",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3918,8 +4321,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6678,
-        "_UID": 6678,
+        "_ID": 12539,
+        "_UID": 12539,
         "_NAME": "ENT_109007",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3927,16 +4330,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "petite Grotte",
+        "_LENGTH": "nan",
+        "_DEPTH": "6",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "109007",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "petite Grotte",
+        "_ALTITUDE": "278",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3949,8 +4352,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6679,
-        "_UID": 6679,
+        "_ID": 12540,
+        "_UID": 12540,
         "_NAME": "ENT_109008",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3958,16 +4361,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Halal",
+        "_LENGTH_TH": "128",
+        "_DEPTH_TH": "107",
+        "_LENGTH": "nan",
+        "_DEPTH": "105",
         "_CAD_NUM": "109008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre Halal",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3980,8 +4383,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6680,
-        "_UID": 6680,
+        "_ID": 12541,
+        "_UID": 12541,
         "_NAME": "ENT_109009",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3989,16 +4392,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre A l'Ail",
+        "_LENGTH_TH": "71",
+        "_DEPTH_TH": "46",
+        "_LENGTH": "nan",
+        "_DEPTH": "46",
         "_CAD_NUM": "109009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre A l'A\u00efl",
+        "_ALTITUDE": "359",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4011,8 +4414,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6681,
-        "_UID": 6681,
+        "_ID": 12542,
+        "_UID": 12542,
         "_NAME": "ENT_109010",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4020,16 +4423,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Ma premiere",
+        "_LENGTH": "nan",
+        "_DEPTH": "25",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "109010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre Ma premi\u00e8re",
+        "_ALTITUDE": "319",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4042,8 +4445,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6682,
-        "_UID": 6682,
+        "_ID": 12543,
+        "_UID": 12543,
         "_NAME": "ENT_109011",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4051,16 +4454,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre La Grande Travers\u00e9e",
+        "_LENGTH_TH": "86",
+        "_DEPTH_TH": "14",
+        "_LENGTH": "nan",
+        "_DEPTH": "-4, +11",
         "_CAD_NUM": "109011",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre La Grande Traversee",
+        "_ALTITUDE": "319",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4073,8 +4476,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6683,
-        "_UID": 6683,
+        "_ID": 12544,
+        "_UID": 12544,
         "_NAME": "ENT_109012",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4082,16 +4485,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva de la Merienda",
+        "_LENGTH": "nan",
+        "_DEPTH": "2",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "109012",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva de la Merienda",
+        "_ALTITUDE": "388",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4104,8 +4507,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6684,
-        "_UID": 6684,
+        "_ID": 12545,
+        "_UID": 12545,
         "_NAME": "ENT_109013",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4113,16 +4516,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre des Gaug\u00e9s",
+        "_LENGTH_TH": "102",
+        "_DEPTH_TH": "89",
+        "_LENGTH": "nan",
+        "_DEPTH": "89",
         "_CAD_NUM": "109013",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre des Gauges",
+        "_ALTITUDE": "300",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4135,8 +4538,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6685,
-        "_UID": 6685,
+        "_ID": 12546,
+        "_UID": 12546,
         "_NAME": "ENT_109014",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4144,16 +4547,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre la Pissoti\u00e8re",
+        "_LENGTH_TH": "39",
+        "_DEPTH_TH": "24",
+        "_LENGTH": "nan",
+        "_DEPTH": "24",
         "_CAD_NUM": "109014",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre la Pissoti\u00e8re",
+        "_ALTITUDE": "360",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4166,8 +4569,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6686,
-        "_UID": 6686,
+        "_ID": 12547,
+        "_UID": 12547,
         "_NAME": "ENT_109015",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4175,16 +4578,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte des trois entrees plus une",
+        "_LENGTH_TH": "3241",
+        "_DEPTH_TH": "102",
+        "_LENGTH": "nan",
+        "_DEPTH": "-54, +78",
         "_CAD_NUM": "109015",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte des trois entrees plus une",
+        "_ALTITUDE": "53",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4197,8 +4600,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6687,
-        "_UID": 6687,
+        "_ID": 12548,
+        "_UID": 12548,
         "_NAME": "ENT_109016",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4206,16 +4609,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de la Chati\u00e8re",
+        "_LENGTH": "nan",
+        "_DEPTH": "36",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "109016",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre de la Chatiere",
+        "_ALTITUDE": "36",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4228,8 +4631,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6688,
-        "_UID": 6688,
+        "_ID": 12549,
+        "_UID": 12549,
         "_NAME": "ENT_109017",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4237,16 +4640,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Resurgence de la Petite Chinoise",
+        "_LENGTH_TH": "318",
+        "_DEPTH_TH": "64",
+        "_LENGTH": "nan",
+        "_DEPTH": "83",
         "_CAD_NUM": "109017",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence de la Petite Chinoise",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4259,8 +4662,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6689,
-        "_UID": 6689,
+        "_ID": 12550,
+        "_UID": 12550,
         "_NAME": "ENT_109018",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4268,16 +4671,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Paraiso de las Duchas",
+        "_LENGTH": "nan",
+        "_DEPTH": "133",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "109018",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Paraiso de las duchas",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4290,8 +4693,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6690,
-        "_UID": 6690,
+        "_ID": 12551,
+        "_UID": 12551,
         "_NAME": "ENT_109019",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4299,16 +4702,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "109019",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence 3",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4321,8 +4724,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6782,
-        "_UID": 6782,
+        "_ID": 12643,
+        "_UID": 12643,
         "_NAME": "ENT_201001",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4330,16 +4733,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Resurgence 2 du Canyon",
+        "_LENGTH": "40.0",
+        "_DEPTH": "-6",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence 2 du Canyon",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4352,8 +4755,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6783,
-        "_UID": 6783,
+        "_ID": 12644,
+        "_UID": 12644,
         "_NAME": "ENT_201002",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4361,16 +4764,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "La Rabasse 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "La Rabasse 3",
+        "_ALTITUDE": "325",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Buldo",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4383,8 +4786,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6784,
-        "_UID": 6784,
+        "_ID": 12645,
+        "_UID": 12645,
         "_NAME": "ENT_201003",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4392,16 +4795,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueve C4 SansNom 3 SansNom",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-12",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Secteur Barros Luco",
+        "_ALTITUDE": "385",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Vanessa-Buldo-Sergio",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4414,8 +4817,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6785,
-        "_UID": 6785,
+        "_ID": 12646,
+        "_UID": 12646,
         "_NAME": "ENT_201004",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4423,16 +4826,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "La Rabasse 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "La Rabasse 1",
+        "_ALTITUDE": "337",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Buldo",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4445,8 +4848,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6786,
-        "_UID": 6786,
+        "_ID": 12647,
+        "_UID": 12647,
         "_NAME": "ENT_201005",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4454,16 +4857,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 3",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-35",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 3",
+        "_ALTITUDE": "273",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4476,8 +4879,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6787,
-        "_UID": 6787,
+        "_ID": 12648,
+        "_UID": 12648,
         "_NAME": "ENT_201006",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4485,16 +4888,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 7",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-35",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 7",
+        "_ALTITUDE": "294",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4507,8 +4910,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6788,
-        "_UID": 6788,
+        "_ID": 12649,
+        "_UID": 12649,
         "_NAME": "ENT_201007",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4516,16 +4919,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 1",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201007",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 1",
+        "_ALTITUDE": "290",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4538,8 +4941,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6789,
-        "_UID": 6789,
+        "_ID": 12650,
+        "_UID": 12650,
         "_NAME": "ENT_201008",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4547,16 +4950,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 11",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-28",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 11",
+        "_ALTITUDE": "338",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Serge-Jean Phi-Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4569,8 +4972,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6790,
-        "_UID": 6790,
+        "_ID": 12651,
+        "_UID": 12651,
         "_NAME": "ENT_201009",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4578,16 +4981,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva du T\u00e9l\u00e9phone",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-26",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva du Telephone",
+        "_ALTITUDE": "340",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Vanessa-Serge",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4600,8 +5003,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6791,
-        "_UID": 6791,
+        "_ID": 12652,
+        "_UID": 12652,
         "_NAME": "ENT_201010",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4609,16 +5012,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 8",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-26",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 8",
+        "_ALTITUDE": "309",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4631,8 +5034,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6792,
-        "_UID": 6792,
+        "_ID": 12653,
+        "_UID": 12653,
         "_NAME": "ENT_201011",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4640,16 +5043,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "cueva C4 SansNom 8",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-25",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201011",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "cueva",
+        "_ALTITUDE": "492",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Buldo, Jose, Jean Phi",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4662,8 +5065,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6793,
-        "_UID": 6793,
+        "_ID": 12654,
+        "_UID": 12654,
         "_NAME": "ENT_201012",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4671,16 +5074,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou du Marteau",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201012",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Trou du Marteau",
+        "_ALTITUDE": "385",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4693,8 +5096,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6794,
-        "_UID": 6794,
+        "_ID": 12655,
+        "_UID": 12655,
         "_NAME": "ENT_201013",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4702,16 +5105,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "La Rabasse 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201013",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "La Rabasse 2",
+        "_ALTITUDE": "310",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Buldo",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4724,8 +5127,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6795,
-        "_UID": 6795,
+        "_ID": 12656,
+        "_UID": 12656,
         "_NAME": "ENT_201014",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4733,16 +5136,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "cueva C4 SansNom 9",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201014",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "cueva",
+        "_ALTITUDE": "526",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Buldo, Jose, Jean phi",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4755,8 +5158,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6796,
-        "_UID": 6796,
+        "_ID": 12657,
+        "_UID": 12657,
         "_NAME": "ENT_201015",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4764,16 +5167,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva C4 SansNom 7",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201015",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva",
+        "_ALTITUDE": "469",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Buldo, Jose, Jean Phi",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4786,8 +5189,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6797,
-        "_UID": 6797,
+        "_ID": 12658,
+        "_UID": 12658,
         "_NAME": "ENT_201016",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4795,16 +5198,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 10",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201016",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 10",
+        "_ALTITUDE": "347",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4817,8 +5220,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6798,
-        "_UID": 6798,
+        "_ID": 12659,
+        "_UID": 12659,
         "_NAME": "ENT_201017",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4826,16 +5229,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "??Secteur Barros Luco",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201017",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Secteur Barros Luco",
+        "_ALTITUDE": "393",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Vanessa-Buldo-Sergio",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4848,8 +5251,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6799,
-        "_UID": 6799,
+        "_ID": 12660,
+        "_UID": 12660,
         "_NAME": "ENT_201018",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4857,16 +5260,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 2",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201018",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 2",
+        "_ALTITUDE": "268",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4879,8 +5282,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6800,
-        "_UID": 6800,
+        "_ID": 12661,
+        "_UID": 12661,
         "_NAME": "ENT_201019",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4888,16 +5291,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva C4 SansNom 5",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201019",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva",
+        "_ALTITUDE": "274",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose, Serge, Vanessa, Buldo, Jean Phi",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4910,8 +5313,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6801,
-        "_UID": 6801,
+        "_ID": 12662,
+        "_UID": 12662,
         "_NAME": "ENT_201020",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4941,8 +5344,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6802,
-        "_UID": 6802,
+        "_ID": 12663,
+        "_UID": 12663,
         "_NAME": "ENT_201021",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4950,16 +5353,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva C4 SansNom 1",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-10",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201021",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Secteur Barros Luco",
+        "_ALTITUDE": "393",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Vanessa-Buldo-Sergio",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4972,8 +5375,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6803,
-        "_UID": 6803,
+        "_ID": 12664,
+        "_UID": 12664,
         "_NAME": "ENT_201022",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4981,16 +5384,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 12",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-8",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201022",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 12",
+        "_ALTITUDE": "335",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Serge-Jean Phi-Cedric (porche)",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5003,8 +5406,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6804,
-        "_UID": 6804,
+        "_ID": 12665,
+        "_UID": 12665,
         "_NAME": "ENT_201023",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5012,16 +5415,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 5",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-8",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201023",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 5",
+        "_ALTITUDE": "272",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5034,8 +5437,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6805,
-        "_UID": 6805,
+        "_ID": 12666,
+        "_UID": 12666,
         "_NAME": "ENT_201024",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5043,16 +5446,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 13",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-8",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201024",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 13",
+        "_ALTITUDE": "8",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Serge-Jean Phi-Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5065,8 +5468,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6806,
-        "_UID": 6806,
+        "_ID": 12667,
+        "_UID": 12667,
         "_NAME": "ENT_201025",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5074,16 +5477,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva C4 SansNom 6",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-8",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201025",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Secteur Barros Luco",
+        "_ALTITUDE": "412",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Vanessa-Buldo-Sergio",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5096,8 +5499,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6807,
-        "_UID": 6807,
+        "_ID": 12668,
+        "_UID": 12668,
         "_NAME": "ENT_201026",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5105,16 +5508,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche 2 Os de Baleine",
+        "_LENGTH": "0.0",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201026",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Porche 2 Os de Baleine",
+        "_ALTITUDE": "9",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jean Phi-Cedric (os baleine+coquillages)",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5127,8 +5530,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6808,
-        "_UID": 6808,
+        "_ID": 12669,
+        "_UID": 12669,
         "_NAME": "ENT_201027",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5136,16 +5539,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "pacifique nord Porche 1",
+        "_LENGTH": "0.0",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201027",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Porche 1",
+        "_ALTITUDE": "13",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jean Phi-Cedric (Plage Pacifique)",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5158,8 +5561,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6809,
-        "_UID": 6809,
+        "_ID": 12670,
+        "_UID": 12670,
         "_NAME": "ENT_201028",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5189,8 +5592,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6810,
-        "_UID": 6810,
+        "_ID": 12671,
+        "_UID": 12671,
         "_NAME": "ENT_201029",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5198,16 +5601,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 4",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201029",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 4",
+        "_ALTITUDE": "270",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5220,8 +5623,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6811,
-        "_UID": 6811,
+        "_ID": 12672,
+        "_UID": 12672,
         "_NAME": "ENT_201030",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5229,16 +5632,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C3",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201030",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "SANS NOM",
+        "_ALTITUDE": "460",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5251,8 +5654,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6812,
-        "_UID": 6812,
+        "_ID": 12673,
+        "_UID": 12673,
         "_NAME": "ENT_201031",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5260,16 +5663,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201031",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "C3",
+        "_ALTITUDE": "303",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Buldo",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5282,8 +5685,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6813,
-        "_UID": 6813,
+        "_ID": 12674,
+        "_UID": 12674,
         "_NAME": "ENT_201032",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5291,16 +5694,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 Cueva 6",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201032",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "C4 Cueva 6",
+        "_ALTITUDE": "306",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5313,8 +5716,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6814,
-        "_UID": 6814,
+        "_ID": 12675,
+        "_UID": 12675,
         "_NAME": "ENT_201033",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5322,16 +5725,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "nan",
+        "_DEPTH": "45",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201033",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "SANS NOM",
+        "_ALTITUDE": "430",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5344,8 +5747,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6815,
-        "_UID": 6815,
+        "_ID": 12676,
+        "_UID": 12676,
         "_NAME": "ENT_201034",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5353,16 +5756,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva de la Casquette",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-48",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201034",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva de la casquette",
+        "_ALTITUDE": "397",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric-Vanessa-Serge",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5375,8 +5778,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6816,
-        "_UID": 6816,
+        "_ID": 12677,
+        "_UID": 12677,
         "_NAME": "ENT_201035",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5384,16 +5787,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou de la Plaquette",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-23",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201035",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Trou de la Plaquette",
+        "_ALTITUDE": "382",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric-Vanessa-Serge",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5406,8 +5809,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6817,
-        "_UID": 6817,
+        "_ID": 12678,
+        "_UID": 12678,
         "_NAME": "ENT_201036",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5415,16 +5818,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 Nfissure 0",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201036",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "C4 Nfissure 0",
+        "_ALTITUDE": "389",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5437,8 +5840,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6818,
-        "_UID": 6818,
+        "_ID": 12679,
+        "_UID": 12679,
         "_NAME": "ENT_201037",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5446,16 +5849,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom 8",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201037",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "C4 SansNom 8",
+        "_ALTITUDE": "361",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5468,8 +5871,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6819,
-        "_UID": 6819,
+        "_ID": 12680,
+        "_UID": 12680,
         "_NAME": "ENT_201038",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5477,16 +5880,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom 7",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201038",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "C4 SansNom 7",
+        "_ALTITUDE": "347",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5499,8 +5902,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6820,
-        "_UID": 6820,
+        "_ID": 12681,
+        "_UID": 12681,
         "_NAME": "ENT_201039",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5508,16 +5911,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom 6",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201039",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "C4 SansNom 6",
+        "_ALTITUDE": "342",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5530,8 +5933,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6821,
-        "_UID": 6821,
+        "_ID": 12682,
+        "_UID": 12682,
         "_NAME": "ENT_201040",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5539,16 +5942,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche du Sonnar",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201040",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Porche du Sonnar",
+        "_ALTITUDE": "338",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric-Jose-JeanPhilippe-Serge",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5561,8 +5964,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6822,
-        "_UID": 6822,
+        "_ID": 12683,
+        "_UID": 12683,
         "_NAME": "ENT_201041",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5570,16 +5973,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201041",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "C4 SansNom 1",
+        "_ALTITUDE": "403",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5592,8 +5995,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6823,
-        "_UID": 6823,
+        "_ID": 12684,
+        "_UID": 12684,
         "_NAME": "ENT_201042",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5601,16 +6004,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom 4",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201042",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "C4 SansNom 4",
+        "_ALTITUDE": "312",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5623,8 +6026,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6824,
-        "_UID": 6824,
+        "_ID": 12685,
+        "_UID": 12685,
         "_NAME": "ENT_201043",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5632,16 +6035,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du Colibri",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201043",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre du Colibri",
+        "_ALTITUDE": "313",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric-Jose-JeanPhilippe-Serge",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5654,8 +6057,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6825,
-        "_UID": 6825,
+        "_ID": 12686,
+        "_UID": 12686,
         "_NAME": "ENT_201044",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5663,16 +6066,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201044",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "C4 SansNom 3",
+        "_ALTITUDE": "307",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5685,8 +6088,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6826,
-        "_UID": 6826,
+        "_ID": 12687,
+        "_UID": 12687,
         "_NAME": "ENT_201045",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5694,16 +6097,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C5 Cueva1",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201045",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "C5 Cueva1",
+        "_ALTITUDE": "391",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5716,8 +6119,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6827,
-        "_UID": 6827,
+        "_ID": 12688,
+        "_UID": 12688,
         "_NAME": "ENT_201046",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5725,16 +6128,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201046",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "SANS NOM",
+        "_ALTITUDE": "323",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5747,8 +6150,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6828,
-        "_UID": 6828,
+        "_ID": 12689,
+        "_UID": 12689,
         "_NAME": "ENT_201047",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5756,16 +6159,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Champignon",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-45",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201047",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Champignon",
+        "_ALTITUDE": "391",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5778,8 +6181,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6829,
-        "_UID": 6829,
+        "_ID": 12690,
+        "_UID": 12690,
         "_NAME": "ENT_201048",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5787,16 +6190,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du Ziploc",
+        "_LENGTH_TH": "44",
+        "_DEPTH_TH": "29",
+        "_LENGTH": "44.0",
+        "_DEPTH": "30",
         "_CAD_NUM": "201048",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre du Ziploc",
+        "_ALTITUDE": "316",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5809,8 +6212,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6830,
-        "_UID": 6830,
+        "_ID": 12691,
+        "_UID": 12691,
         "_NAME": "ENT_201049",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5818,16 +6221,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Haricot",
+        "_LENGTH_TH": "254",
+        "_DEPTH_TH": "85",
+        "_LENGTH": "254.0",
+        "_DEPTH": "85",
         "_CAD_NUM": "201049",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Harrico",
+        "_ALTITUDE": "29",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5840,8 +6243,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6831,
-        "_UID": 6831,
+        "_ID": 12692,
+        "_UID": 12692,
         "_NAME": "ENT_201050",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5849,16 +6252,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sumidero del Chorizo Plastico",
+        "_LENGTH": "nan",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201050",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Sumidero del Chorizo Plastico",
+        "_ALTITUDE": "285",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5871,8 +6274,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6832,
-        "_UID": 6832,
+        "_ID": 12693,
+        "_UID": 12693,
         "_NAME": "ENT_201051",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5880,16 +6283,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201051",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte 3",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5902,8 +6305,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6833,
-        "_UID": 6833,
+        "_ID": 12694,
+        "_UID": 12694,
         "_NAME": "ENT_201052",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5911,16 +6314,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou GB 01",
+        "_LENGTH_TH": "46",
+        "_DEPTH_TH": "41",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201052",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GB1",
+        "_ALTITUDE": "356",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5933,8 +6336,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6834,
-        "_UID": 6834,
+        "_ID": 12695,
+        "_UID": 12695,
         "_NAME": "ENT_201053",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5942,16 +6345,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB2",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201053",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GB2",
+        "_ALTITUDE": "351",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5964,8 +6367,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6835,
-        "_UID": 6835,
+        "_ID": 12696,
+        "_UID": 12696,
         "_NAME": "ENT_201054",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5973,16 +6376,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB3",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201054",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GB3",
+        "_ALTITUDE": "239",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5995,8 +6398,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6836,
-        "_UID": 6836,
+        "_ID": 12697,
+        "_UID": 12697,
         "_NAME": "ENT_201055",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6004,16 +6407,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201055",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte 2",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6026,8 +6429,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6837,
-        "_UID": 6837,
+        "_ID": 12698,
+        "_UID": 12698,
         "_NAME": "ENT_201056",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6035,16 +6438,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB Trou 1",
+        "_LENGTH": "46.0",
+        "_DEPTH": "41",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201056",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GB Trou 1",
+        "_ALTITUDE": "303",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6057,8 +6460,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6838,
-        "_UID": 6838,
+        "_ID": 12699,
+        "_UID": 12699,
         "_NAME": "ENT_201057",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6066,16 +6469,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB Trou 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201057",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GB Trou 2",
+        "_ALTITUDE": "306",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6088,8 +6491,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6839,
-        "_UID": 6839,
+        "_ID": 12700,
+        "_UID": 12700,
         "_NAME": "ENT_201058",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6097,16 +6500,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB Trou 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "25",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201058",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GB Trou 3",
+        "_ALTITUDE": "329",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6119,8 +6522,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6840,
-        "_UID": 6840,
+        "_ID": 12701,
+        "_UID": 12701,
         "_NAME": "ENT_201059",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6128,16 +6531,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB Trou 5",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201059",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GB Trou 5",
+        "_ALTITUDE": "298",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6150,8 +6553,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6841,
-        "_UID": 6841,
+        "_ID": 12702,
+        "_UID": 12702,
         "_NAME": "ENT_201060",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6159,16 +6562,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du Totem",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201060",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre du Totem",
+        "_ALTITUDE": "?",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6181,8 +6584,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6842,
-        "_UID": 6842,
+        "_ID": 12703,
+        "_UID": 12703,
         "_NAME": "ENT_201061",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6190,16 +6593,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Ayayemal",
+        "_LENGTH_TH": "54",
+        "_DEPTH_TH": "45",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
         "_CAD_NUM": "201061",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Ayayemal",
+        "_ALTITUDE": "292",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6212,8 +6615,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6843,
-        "_UID": 6843,
+        "_ID": 12704,
+        "_UID": 12704,
         "_NAME": "ENT_201062",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6221,16 +6624,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Ayayebo",
+        "_LENGTH_TH": "159",
+        "_DEPTH_TH": "96",
+        "_LENGTH": "160.0",
+        "_DEPTH": "96",
         "_CAD_NUM": "201062",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Ayayebo",
+        "_ALTITUDE": "314",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6243,8 +6646,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6844,
-        "_UID": 6844,
+        "_ID": 12705,
+        "_UID": 12705,
         "_NAME": "ENT_201063",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6252,16 +6655,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB1 bis",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201063",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GB1 bis",
+        "_ALTITUDE": "344",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6274,8 +6677,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6845,
-        "_UID": 6845,
+        "_ID": 12706,
+        "_UID": 12706,
         "_NAME": "ENT_201064",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6283,16 +6686,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201064",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre ",
+        "_ALTITUDE": "364",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6305,8 +6708,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6846,
-        "_UID": 6846,
+        "_ID": 12707,
+        "_UID": 12707,
         "_NAME": "ENT_201065",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6314,16 +6717,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201065",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "SANS NOM",
+        "_ALTITUDE": "596",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6336,8 +6739,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6847,
-        "_UID": 6847,
+        "_ID": 12708,
+        "_UID": 12708,
         "_NAME": "ENT_201066",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6345,16 +6748,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201066",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "SANS NOM",
+        "_ALTITUDE": "277",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6367,8 +6770,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6848,
-        "_UID": 6848,
+        "_ID": 12709,
+        "_UID": 12709,
         "_NAME": "ENT_201067",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6376,16 +6779,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201067",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "SANS NOM",
+        "_ALTITUDE": "388",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6398,8 +6801,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6849,
-        "_UID": 6849,
+        "_ID": 12710,
+        "_UID": 12710,
         "_NAME": "ENT_201068",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6407,16 +6810,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB 07 02-1",
+        "_LENGTH": "nan",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201068",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GB 07 02-1",
+        "_ALTITUDE": "380",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6429,8 +6832,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6850,
-        "_UID": 6850,
+        "_ID": 12711,
+        "_UID": 12711,
         "_NAME": "ENT_201069",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6438,16 +6841,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB 07 02-2",
+        "_LENGTH": "nan",
+        "_DEPTH": "40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201069",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GB 07 02-2",
+        "_ALTITUDE": "382",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6460,8 +6863,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6851,
-        "_UID": 6851,
+        "_ID": 12712,
+        "_UID": 12712,
         "_NAME": "ENT_201070",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6469,16 +6872,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GB 07 02-3",
+        "_LENGTH": "nan",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201070",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GB 07 02-3",
+        "_ALTITUDE": "295",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6491,8 +6894,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6852,
-        "_UID": 6852,
+        "_ID": 12713,
+        "_UID": 12713,
         "_NAME": "ENT_201071",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6500,16 +6903,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "45.0",
+        "_DEPTH": "43",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201071",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "SANS NOM",
+        "_ALTITUDE": "281",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6522,8 +6925,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6853,
-        "_UID": 6853,
+        "_ID": 12714,
+        "_UID": 12714,
         "_NAME": "ENT_201072",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6531,16 +6934,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SANS NOM",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201072",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "SANS NOM",
+        "_ALTITUDE": "378",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6553,8 +6956,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6856,
-        "_UID": 6856,
+        "_ID": 12717,
+        "_UID": 12717,
         "_NAME": "ENT_202001",
         "_SURVEY": "202.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6562,16 +6965,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte des Dauphins",
+        "_LENGTH": "nan",
+        "_DEPTH": "????",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "202001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "grottes des dauphins",
+        "_ALTITUDE": "5",
+        "_EXPED": "UP2017",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6584,8 +6987,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6857,
-        "_UID": 6857,
+        "_ID": 12718,
+        "_UID": 12718,
         "_NAME": "ENT_203001",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6593,16 +6996,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte du Coypo",
+        "_LENGTH": "283.0",
+        "_DEPTH": "-191",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte du Coypo",
+        "_ALTITUDE": "253",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jean-Francois H, Thomas, Florian, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6615,8 +7018,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6858,
-        "_UID": 6858,
+        "_ID": 12719,
+        "_UID": 12719,
         "_NAME": "ENT_203002",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6624,16 +7027,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre F\u00e9lin",
+        "_LENGTH": "294.0",
+        "_DEPTH": "-121",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre Felin",
+        "_ALTITUDE": "258",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Isa, Florian, Thomas",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6646,8 +7049,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6859,
-        "_UID": 6859,
+        "_ID": 12720,
+        "_UID": 12720,
         "_NAME": "ENT_203003",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6655,16 +7058,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Puits du Bourdon",
+        "_LENGTH": "107.0",
+        "_DEPTH": "-48",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Puits du Bourdon",
+        "_ALTITUDE": "249",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6677,8 +7080,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6860,
-        "_UID": 6860,
+        "_ID": 12721,
+        "_UID": 12721,
         "_NAME": "ENT_203004",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6686,16 +7089,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gros Trou",
+        "_LENGTH": "30.0",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gros Trou",
+        "_ALTITUDE": "252",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6708,8 +7111,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6861,
-        "_UID": 6861,
+        "_ID": 12722,
+        "_UID": 12722,
         "_NAME": "ENT_203005",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6717,16 +7120,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence",
+        "_ALTITUDE": "34",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6739,8 +7142,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6862,
-        "_UID": 6862,
+        "_ID": 12723,
+        "_UID": 12723,
         "_NAME": "ENT_203006",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6748,16 +7151,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence",
+        "_ALTITUDE": "119",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6770,8 +7173,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6863,
-        "_UID": 6863,
+        "_ID": 12724,
+        "_UID": 12724,
         "_NAME": "ENT_203007",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6779,16 +7182,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203007",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence",
+        "_ALTITUDE": "121",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6801,8 +7204,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6864,
-        "_UID": 6864,
+        "_ID": 12725,
+        "_UID": 12725,
         "_NAME": "ENT_203008",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6810,16 +7213,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven C301",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven C301",
+        "_ALTITUDE": "334",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6832,8 +7235,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6865,
-        "_UID": 6865,
+        "_ID": 12726,
+        "_UID": 12726,
         "_NAME": "ENT_203009",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6841,16 +7244,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "105",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6863,8 +7266,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6866,
-        "_UID": 6866,
+        "_ID": 12727,
+        "_UID": 12727,
         "_NAME": "ENT_203010",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6872,16 +7275,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Porche 1",
+        "_ALTITUDE": "nan",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6894,8 +7297,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6867,
-        "_UID": 6867,
+        "_ID": 12728,
+        "_UID": 12728,
         "_NAME": "ENT_203011",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6903,16 +7306,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Abri du Gazon",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203011",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Abri du Gazon",
+        "_ALTITUDE": "35",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Florian",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6925,8 +7328,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6868,
-        "_UID": 6868,
+        "_ID": 12729,
+        "_UID": 12729,
         "_NAME": "ENT_203012",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6934,16 +7337,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte du Nord",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203012",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte du Nord",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Florian",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6956,8 +7359,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6997,
-        "_UID": 6997,
+        "_ID": 12858,
+        "_UID": 12858,
         "_NAME": "ENT_204001",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6965,16 +7368,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de la Gazelle",
+        "_LENGTH_TH": "167",
+        "_DEPTH_TH": "64",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "204001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre de la Gazelle",
+        "_ALTITUDE": "nan",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6987,8 +7390,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6998,
-        "_UID": 6998,
+        "_ID": 12859,
+        "_UID": 12859,
         "_NAME": "ENT_204002",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6996,16 +7399,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Ev\u00eaque Cauchon",
+        "_LENGTH_TH": "207",
+        "_DEPTH_TH": "52",
+        "_LENGTH": "235.0",
+        "_DEPTH": "-58",
         "_CAD_NUM": "204002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Ev\u00eaque Cauchon",
+        "_ALTITUDE": "74",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric, Vanessa, Bruno, Didier, Fabien, Stephane, Denis, Arnauld",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7018,8 +7421,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 6999,
-        "_UID": 6999,
+        "_ID": 12860,
+        "_UID": 12860,
         "_NAME": "ENT_204003",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7027,16 +7430,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte de la fausse Pucelle",
+        "_LENGTH_TH": "117",
+        "_DEPTH_TH": "30",
+        "_LENGTH": "117.0",
+        "_DEPTH": "-30",
         "_CAD_NUM": "204003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte de la fausse Pucelle",
+        "_ALTITUDE": "130",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Les doigts bleus",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7049,8 +7452,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7000,
-        "_UID": 7000,
+        "_ID": 12861,
+        "_UID": 12861,
         "_NAME": "ENT_204004",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7058,16 +7461,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte de l'Alouette",
+        "_LENGTH_TH": "365",
+        "_DEPTH_TH": "61",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "204004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte de l'Alouette",
+        "_ALTITUDE": "153",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7080,8 +7483,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7001,
-        "_UID": 7001,
+        "_ID": 12862,
+        "_UID": 12862,
         "_NAME": "ENT_204005",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7089,16 +7492,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou des Canelures",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "204005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Trou des Canelures",
+        "_ALTITUDE": "316",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7111,8 +7514,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7002,
-        "_UID": 7002,
+        "_ID": 12863,
+        "_UID": 12863,
         "_NAME": "ENT_204006",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7120,16 +7523,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "204006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte",
+        "_ALTITUDE": "305",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Isa",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7142,8 +7545,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7003,
-        "_UID": 7003,
+        "_ID": 12864,
+        "_UID": 12864,
         "_NAME": "ENT_204007",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7151,16 +7554,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "204007",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte",
+        "_ALTITUDE": "157",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Isa",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7173,8 +7576,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7004,
-        "_UID": 7004,
+        "_ID": 12865,
+        "_UID": 12865,
         "_NAME": "ENT_204008",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7182,16 +7585,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte du Rapace",
+        "_LENGTH": "0.0",
+        "_DEPTH": "6",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "204008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte du Rapace",
+        "_ALTITUDE": "84",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Florian",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7204,8 +7607,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7005,
-        "_UID": 7005,
+        "_ID": 12866,
+        "_UID": 12866,
         "_NAME": "ENT_204009",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7213,16 +7616,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte de l'Oursin",
+        "_LENGTH": "175.0",
+        "_DEPTH": "25",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "204009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte de l'Oursin",
+        "_ALTITUDE": "50",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Isa, Florian, Thomas, Jean Francois H",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7235,8 +7638,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7006,
-        "_UID": 7006,
+        "_ID": 12867,
+        "_UID": 12867,
         "_NAME": "ENT_204010",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7244,16 +7647,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte de la Cacahu\u00e8te",
+        "_LENGTH_TH": "186",
+        "_DEPTH_TH": "21",
+        "_LENGTH": "186.0",
+        "_DEPTH": "-21",
         "_CAD_NUM": "204010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte de la Cacahuete",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Les doigts bleus",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7266,8 +7669,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7171,
-        "_UID": 7171,
+        "_ID": 13032,
+        "_UID": 13032,
         "_NAME": "ENT_205001",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7275,16 +7678,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "AbriCotier",
+        "_LENGTH_TH": "295",
+        "_DEPTH_TH": "7",
+        "_LENGTH": "80.0",
+        "_DEPTH": "5",
         "_CAD_NUM": "205001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Abri Cotier",
+        "_ALTITUDE": "2",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7297,8 +7700,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7172,
-        "_UID": 7172,
+        "_ID": 13033,
+        "_UID": 13033,
         "_NAME": "ENT_205002",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7306,16 +7709,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Abri du Cerfeuil",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Abri du Cerfeuil",
+        "_ALTITUDE": "183",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7328,8 +7731,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7173,
-        "_UID": 7173,
+        "_ID": 13034,
+        "_UID": 13034,
         "_NAME": "ENT_205003",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7337,16 +7740,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva La-Bas",
+        "_LENGTH": "429.0",
+        "_DEPTH": "-233",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva La-Bas",
+        "_ALTITUDE": "270",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7359,8 +7762,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7174,
-        "_UID": 7174,
+        "_ID": 13035,
+        "_UID": 13035,
         "_NAME": "ENT_205004",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7368,16 +7771,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteDesDents",
+        "_LENGTH_TH": "502",
+        "_DEPTH_TH": "157",
+        "_LENGTH": "505.0",
+        "_DEPTH": "-160",
         "_CAD_NUM": "205004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte des Dents",
+        "_ALTITUDE": "250",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7390,8 +7793,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7175,
-        "_UID": 7175,
+        "_ID": 13036,
+        "_UID": 13036,
         "_NAME": "ENT_205005",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7399,16 +7802,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SumideroJuanito",
+        "_LENGTH_TH": "205",
+        "_DEPTH_TH": "134",
+        "_LENGTH": "205.0",
+        "_DEPTH": "-134",
         "_CAD_NUM": "205005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Sima Juanito",
+        "_ALTITUDE": "233",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7421,8 +7824,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7176,
-        "_UID": 7176,
+        "_ID": 13037,
+        "_UID": 13037,
         "_NAME": "ENT_205006",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7430,16 +7833,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Ardilla",
+        "_LENGTH": "nan",
+        "_DEPTH": "-70",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Ardilla",
+        "_ALTITUDE": "245",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7452,8 +7855,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7177,
-        "_UID": 7177,
+        "_ID": 13038,
+        "_UID": 13038,
         "_NAME": "ENT_205007",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7461,16 +7864,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sou 30 / Pozo en Bosque",
+        "_LENGTH": "nan",
+        "_DEPTH": "-35",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205007",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Sou30 (pozo 1 en caliza)",
+        "_ALTITUDE": "237",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7483,8 +7886,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7178,
-        "_UID": 7178,
+        "_ID": 13039,
+        "_UID": 13039,
         "_NAME": "ENT_205008",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7492,16 +7895,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sou 33 / Pozo 2 en Caliza",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-70",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Sou33",
+        "_ALTITUDE": "301",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7514,8 +7917,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7179,
-        "_UID": 7179,
+        "_ID": 13040,
+        "_UID": 13040,
         "_NAME": "ENT_205009",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7523,16 +7926,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sou 31 / Pozo 1 en Caliza",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Sou31",
+        "_ALTITUDE": "281",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7545,8 +7948,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7180,
-        "_UID": 7180,
+        "_ID": 13041,
+        "_UID": 13041,
         "_NAME": "ENT_205010",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7554,16 +7957,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MD/SOU01",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "MD-SOU01",
+        "_ALTITUDE": "260",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7576,8 +7979,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7181,
-        "_UID": 7181,
+        "_ID": 13042,
+        "_UID": 13042,
         "_NAME": "ENT_205011",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7585,16 +7988,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MD/SOU02",
+        "_LENGTH": "nan",
+        "_DEPTH": "-35",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205011",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "MD-SOU02",
+        "_ALTITUDE": "265",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7607,8 +8010,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7182,
-        "_UID": 7182,
+        "_ID": 13043,
+        "_UID": 13043,
         "_NAME": "ENT_205012",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7616,16 +8019,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte Inattendue",
+        "_LENGTH": "1274.0",
+        "_DEPTH": "-226",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205012",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte Inattendue",
+        "_ALTITUDE": "294",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Florence, Laurent, Jo, Olivier T, Thomas, Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7638,8 +8041,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7183,
-        "_UID": 7183,
+        "_ID": 13044,
+        "_UID": 13044,
         "_NAME": "ENT_205013",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7647,16 +8050,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "La Perte Ambr\u00e9e",
+        "_LENGTH": "103.0",
+        "_DEPTH": "-81",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205013",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "La Perte Ambree",
+        "_ALTITUDE": "249",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Laurent C, Pierre",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7669,8 +8072,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7184,
-        "_UID": 7184,
+        "_ID": 13045,
+        "_UID": 13045,
         "_NAME": "ENT_205014",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7678,16 +8081,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "porche",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205014",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "porche",
+        "_ALTITUDE": "399",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Laurent M",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7700,8 +8103,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7185,
-        "_UID": 7185,
+        "_ID": 13046,
+        "_UID": 13046,
         "_NAME": "ENT_205015",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7709,16 +8112,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "perte/faille",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205015",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "perte-faille",
+        "_ALTITUDE": "309",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Laurent M",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7731,8 +8134,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7186,
-        "_UID": 7186,
+        "_ID": 13047,
+        "_UID": 13047,
         "_NAME": "ENT_205016",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7740,16 +8143,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "sortie travers\u00e9e",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205016",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "sortie traversee",
+        "_ALTITUDE": "415",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Laurent M",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7762,8 +8165,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7187,
-        "_UID": 7187,
+        "_ID": 13048,
+        "_UID": 13048,
         "_NAME": "ENT_205017",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7771,16 +8174,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou serrure entr\u00e9e",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205017",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Trou serrure entree",
+        "_ALTITUDE": "407",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Laurent M",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7793,8 +8196,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7188,
-        "_UID": 7188,
+        "_ID": 13049,
+        "_UID": 13049,
         "_NAME": "ENT_205018",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7802,16 +8205,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "grotte jef",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205018",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "grotte jef",
+        "_ALTITUDE": "413",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Laurent M",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7824,8 +8227,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7189,
-        "_UID": 7189,
+        "_ID": 13050,
+        "_UID": 13050,
         "_NAME": "ENT_205019",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7833,16 +8236,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven grd diam",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205019",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven grd diam",
+        "_ALTITUDE": "275",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Laurent M",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7855,8 +8258,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7190,
-        "_UID": 7190,
+        "_ID": 13051,
+        "_UID": 13051,
         "_NAME": "ENT_205020",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7864,16 +8267,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "perte 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205020",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "perte 2",
+        "_ALTITUDE": "249",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7886,8 +8289,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7191,
-        "_UID": 7191,
+        "_ID": 13052,
+        "_UID": 13052,
         "_NAME": "ENT_205021",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7895,16 +8298,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte des 4 champis",
+        "_LENGTH": "420.0",
+        "_DEPTH": "-165",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205021",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte des 4 champi",
+        "_ALTITUDE": "207",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Sylvain, Cedric, Jose, Olivier G, Isa, ",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7917,8 +8320,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7192,
-        "_UID": 7192,
+        "_ID": 13053,
+        "_UID": 13053,
         "_NAME": "ENT_205022",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7926,16 +8329,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "James Bonde",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-54",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205022",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "James Bonde",
+        "_ALTITUDE": "230",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Florian, Olivier G",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7948,8 +8351,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7193,
-        "_UID": 7193,
+        "_ID": 13054,
+        "_UID": 13054,
         "_NAME": "ENT_205023",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7957,16 +8360,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte du Jump",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205023",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte du Jump",
+        "_ALTITUDE": "191",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier G, Sylvain",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7979,8 +8382,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7194,
-        "_UID": 7194,
+        "_ID": 13055,
+        "_UID": 13055,
         "_NAME": "ENT_205024",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7988,16 +8391,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Faille du Coinceur",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-11",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205024",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Faille du Coinceur",
+        "_ALTITUDE": "190",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Florian",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8010,8 +8413,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7195,
-        "_UID": 7195,
+        "_ID": 13056,
+        "_UID": 13056,
         "_NAME": "ENT_205025",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8019,16 +8422,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Igue du Plouc",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-9",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205025",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Igue du Plouc",
+        "_ALTITUDE": "200",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Florian",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8041,8 +8444,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7196,
-        "_UID": 7196,
+        "_ID": 13057,
+        "_UID": 13057,
         "_NAME": "ENT_205026",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8050,16 +8453,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva de la fin de Matinas",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-6",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205026",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva de la fin de Matinas",
+        "_ALTITUDE": "170",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Florian",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8072,8 +8475,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7197,
-        "_UID": 7197,
+        "_ID": 13058,
+        "_UID": 13058,
         "_NAME": "ENT_205027",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8081,16 +8484,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "L'Abri-g\u00eete",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205027",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "L'Abri-g\u00eete",
+        "_ALTITUDE": "1",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Florian",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8103,8 +8506,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7198,
-        "_UID": 7198,
+        "_ID": 13059,
+        "_UID": 13059,
         "_NAME": "ENT_205028",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8112,16 +8515,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte du Sud",
+        "_LENGTH": "40.0",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205028",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte du Sud",
+        "_ALTITUDE": "2",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Florian, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8134,8 +8537,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7199,
-        "_UID": 7199,
+        "_ID": 13060,
+        "_UID": 13060,
         "_NAME": "ENT_205029",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8143,16 +8546,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva de la Madre",
+        "_LENGTH": "532.0",
+        "_DEPTH": "-38",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205029",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva de la Madre",
+        "_ALTITUDE": "28",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Florian, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8165,8 +8568,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7200,
-        "_UID": 7200,
+        "_ID": 13061,
+        "_UID": 13061,
         "_NAME": "ENT_205030",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8174,16 +8577,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205030",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Porche",
+        "_ALTITUDE": "20",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jean Francois H, Thomas, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8196,8 +8599,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7201,
-        "_UID": 7201,
+        "_ID": 13062,
+        "_UID": 13062,
         "_NAME": "ENT_205031",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8205,16 +8608,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte de l'Audeline",
+        "_LENGTH_TH": "143",
+        "_DEPTH_TH": "19",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "205031",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "porche jef = gr audeline",
+        "_ALTITUDE": "357",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8227,8 +8630,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7202,
-        "_UID": 7202,
+        "_ID": 13063,
+        "_UID": 13063,
         "_NAME": "ENT_205032",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8236,16 +8639,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205032",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Porche",
+        "_ALTITUDE": "388",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jean Francois H, Thomas, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8258,8 +8661,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7203,
-        "_UID": 7203,
+        "_ID": 13064,
+        "_UID": 13064,
         "_NAME": "ENT_205033",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8267,16 +8670,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205033",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "360",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jean Francois H, Thomas, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8289,8 +8692,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7204,
-        "_UID": 7204,
+        "_ID": 13065,
+        "_UID": 13065,
         "_NAME": "ENT_205034",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8298,16 +8701,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte Sueno",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205034",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte Sueno",
+        "_ALTITUDE": "423",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jean Francois H, Thomas, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8320,8 +8723,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7205,
-        "_UID": 7205,
+        "_ID": 13066,
+        "_UID": 13066,
         "_NAME": "ENT_205035",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8351,8 +8754,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7601,
-        "_UID": 7601,
+        "_ID": 13462,
+        "_UID": 13462,
         "_NAME": "ENT_206001",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8360,16 +8763,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Ayayema",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Ayayema",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8382,8 +8785,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7602,
-        "_UID": 7602,
+        "_ID": 13463,
+        "_UID": 13463,
         "_NAME": "ENT_206002",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8391,16 +8794,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte du Dyke",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte du Dyke",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8413,8 +8816,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7603,
-        "_UID": 7603,
+        "_ID": 13464,
+        "_UID": 13464,
         "_NAME": "ENT_206003",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8422,16 +8825,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "JJP0",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "JJP0",
+        "_ALTITUDE": "433",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8444,8 +8847,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7604,
-        "_UID": 7604,
+        "_ID": 13465,
+        "_UID": 13465,
         "_NAME": "ENT_206004",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8453,16 +8856,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "JJP1",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "JJP1",
+        "_ALTITUDE": "429",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8475,8 +8878,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7605,
-        "_UID": 7605,
+        "_ID": 13466,
+        "_UID": 13466,
         "_NAME": "ENT_206005",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8484,16 +8887,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "JJP2",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "JJP2",
+        "_ALTITUDE": "444",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8506,8 +8909,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7606,
-        "_UID": 7606,
+        "_ID": 13467,
+        "_UID": 13467,
         "_NAME": "ENT_206006",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8515,16 +8918,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "JJP3",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "JJP3",
+        "_ALTITUDE": "452",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8537,8 +8940,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7607,
-        "_UID": 7607,
+        "_ID": 13468,
+        "_UID": 13468,
         "_NAME": "ENT_206007",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8546,16 +8949,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "JJP8",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206007",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "JJP8",
+        "_ALTITUDE": "358",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8568,8 +8971,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7608,
-        "_UID": 7608,
+        "_ID": 13469,
+        "_UID": 13469,
         "_NAME": "ENT_206008",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8577,16 +8980,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "UL04",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "UL04",
+        "_ALTITUDE": "457",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8599,8 +9002,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7609,
-        "_UID": 7609,
+        "_ID": 13470,
+        "_UID": 13470,
         "_NAME": "ENT_206009",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8608,16 +9011,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "UL07A",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "UL07A",
+        "_ALTITUDE": "373",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8630,8 +9033,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7610,
-        "_UID": 7610,
+        "_ID": 13471,
+        "_UID": 13471,
         "_NAME": "ENT_206010",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8639,16 +9042,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "UL07B",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "UL07B",
+        "_ALTITUDE": "380",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8661,8 +9064,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7611,
-        "_UID": 7611,
+        "_ID": 13472,
+        "_UID": 13472,
         "_NAME": "ENT_206011",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8670,16 +9073,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "UL05",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206011",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "UL05",
+        "_ALTITUDE": "455",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8692,8 +9095,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7612,
-        "_UID": 7612,
+        "_ID": 13473,
+        "_UID": 13473,
         "_NAME": "ENT_206012",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8701,16 +9104,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Point32",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206012",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Point32",
+        "_ALTITUDE": "338",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8723,8 +9126,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7613,
-        "_UID": 7613,
+        "_ID": 13474,
+        "_UID": 13474,
         "_NAME": "ENT_206013",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8732,16 +9135,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Point30",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206013",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Point30",
+        "_ALTITUDE": "335",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8754,8 +9157,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7614,
-        "_UID": 7614,
+        "_ID": 13475,
+        "_UID": 13475,
         "_NAME": "ENT_206014",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8763,16 +9166,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Point001",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206014",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Point001",
+        "_ALTITUDE": "365",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8785,8 +9188,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7615,
-        "_UID": 7615,
+        "_ID": 13476,
+        "_UID": 13476,
         "_NAME": "ENT_206015",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8794,16 +9197,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Point31",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206015",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Point31",
+        "_ALTITUDE": "334",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8816,8 +9219,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7616,
-        "_UID": 7616,
+        "_ID": 13477,
+        "_UID": 13477,
         "_NAME": "ENT_206016",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8825,16 +9228,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GSLS01",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206016",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GSLS01",
+        "_ALTITUDE": "669",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8847,8 +9250,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7617,
-        "_UID": 7617,
+        "_ID": 13478,
+        "_UID": 13478,
         "_NAME": "ENT_206017",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8856,16 +9259,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GSLS02",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206017",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GSLS02",
+        "_ALTITUDE": "691",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8878,8 +9281,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7618,
-        "_UID": 7618,
+        "_ID": 13479,
+        "_UID": 13479,
         "_NAME": "ENT_206018",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8887,16 +9290,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GSLS03",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206018",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GSLS03",
+        "_ALTITUDE": "679",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8909,8 +9312,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7619,
-        "_UID": 7619,
+        "_ID": 13480,
+        "_UID": 13480,
         "_NAME": "ENT_206019",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8918,16 +9321,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GSLS04",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206019",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GSLS04",
+        "_ALTITUDE": "635",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8940,8 +9343,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7620,
-        "_UID": 7620,
+        "_ID": 13481,
+        "_UID": 13481,
         "_NAME": "ENT_206020",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8949,16 +9352,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GSLS05",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206020",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GSLS05",
+        "_ALTITUDE": "632",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8971,8 +9374,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7621,
-        "_UID": 7621,
+        "_ID": 13482,
+        "_UID": 13482,
         "_NAME": "ENT_206021",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8980,16 +9383,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GSLS06",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206021",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GSLS06",
+        "_ALTITUDE": "618",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9002,8 +9405,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7622,
-        "_UID": 7622,
+        "_ID": 13483,
+        "_UID": 13483,
         "_NAME": "ENT_206022",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9011,16 +9414,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GSLS07",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206022",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GSLS07",
+        "_ALTITUDE": "618",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9033,8 +9436,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7623,
-        "_UID": 7623,
+        "_ID": 13484,
+        "_UID": 13484,
         "_NAME": "ENT_206023",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9042,16 +9445,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GSLS08",
+        "_LENGTH": "628.0",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206023",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GSLS08",
+        "_ALTITUDE": "4426185",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9064,8 +9467,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7624,
-        "_UID": 7624,
+        "_ID": 13485,
+        "_UID": 13485,
         "_NAME": "ENT_206024",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9073,16 +9476,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteNothofagusBaobab",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206024",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte du Nothofagus Baobab",
+        "_ALTITUDE": "214",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9095,8 +9498,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7625,
-        "_UID": 7625,
+        "_ID": 13486,
+        "_UID": 13486,
         "_NAME": "ENT_206025",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9104,16 +9507,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Glaciaire760",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206025",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Glaciaire760",
+        "_ALTITUDE": "759",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9126,8 +9529,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7626,
-        "_UID": 7626,
+        "_ID": 13487,
+        "_UID": 13487,
         "_NAME": "ENT_206026",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9135,16 +9538,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GrotteSousLaGlaciaire",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206026",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte Sous La Glaciaire",
+        "_ALTITUDE": "745",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9157,8 +9560,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7627,
-        "_UID": 7627,
+        "_ID": 13488,
+        "_UID": 13488,
         "_NAME": "ENT_206027",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9166,16 +9569,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GrotteCamp600",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206027",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "GrotteCamp600",
+        "_ALTITUDE": "600",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9188,8 +9591,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7628,
-        "_UID": 7628,
+        "_ID": 13489,
+        "_UID": 13489,
         "_NAME": "ENT_206028",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9197,16 +9600,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PozoDelContacto",
+        "_LENGTH_TH": "87",
+        "_DEPTH_TH": "47",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "206028",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Pozo Del Contacto",
+        "_ALTITUDE": "629",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9219,8 +9622,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7629,
-        "_UID": 7629,
+        "_ID": 13490,
+        "_UID": 13490,
         "_NAME": "ENT_206029",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9228,16 +9631,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "UL02",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206029",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "UL02",
+        "_ALTITUDE": "621",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9250,8 +9653,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7630,
-        "_UID": 7630,
+        "_ID": 13491,
+        "_UID": 13491,
         "_NAME": "ENT_206030",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9259,16 +9662,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "UL03",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206030",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "UL03",
+        "_ALTITUDE": "584",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9281,8 +9684,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7631,
-        "_UID": 7631,
+        "_ID": 13492,
+        "_UID": 13492,
         "_NAME": "ENT_206031",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9290,16 +9693,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "AJPP01AB",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206031",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "AJPP01AB",
+        "_ALTITUDE": "120",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9312,8 +9715,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7632,
-        "_UID": 7632,
+        "_ID": 13493,
+        "_UID": 13493,
         "_NAME": "ENT_206032",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9321,16 +9724,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "AJPP02",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206032",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "AJPP02",
+        "_ALTITUDE": "579",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9343,8 +9746,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7633,
-        "_UID": 7633,
+        "_ID": 13494,
+        "_UID": 13494,
         "_NAME": "ENT_206033",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9352,16 +9755,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteDuMoral",
+        "_LENGTH_TH": "128",
+        "_DEPTH_TH": "68",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "206033",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte Du Moral",
+        "_ALTITUDE": "360",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9374,8 +9777,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7634,
-        "_UID": 7634,
+        "_ID": 13495,
+        "_UID": 13495,
         "_NAME": "ENT_206034",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9383,16 +9786,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "P85Camp400",
+        "_LENGTH_TH": "93",
+        "_DEPTH_TH": "85",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "206034",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "P85 Camp 400",
+        "_ALTITUDE": "519",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9405,8 +9808,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7635,
-        "_UID": 7635,
+        "_ID": 13496,
+        "_UID": 13496,
         "_NAME": "ENT_206035",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9414,16 +9817,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CuevaComete",
+        "_LENGTH_TH": "111",
+        "_DEPTH_TH": "86",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "206035",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Comete",
+        "_ALTITUDE": "380",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9436,8 +9839,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7636,
-        "_UID": 7636,
+        "_ID": 13497,
+        "_UID": 13497,
         "_NAME": "ENT_206036",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9445,16 +9848,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva17",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206036",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 17",
+        "_ALTITUDE": "398",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9467,8 +9870,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7637,
-        "_UID": 7637,
+        "_ID": 13498,
+        "_UID": 13498,
         "_NAME": "ENT_206037",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9476,16 +9879,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CuevaPauseSac",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206037",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Pause Sac",
+        "_ALTITUDE": "380",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9498,8 +9901,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7638,
-        "_UID": 7638,
+        "_ID": 13499,
+        "_UID": 13499,
         "_NAME": "ENT_206038",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9507,16 +9910,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CuevaDalle",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206038",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Dalle",
+        "_ALTITUDE": "396",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9529,8 +9932,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7639,
-        "_UID": 7639,
+        "_ID": 13500,
+        "_UID": 13500,
         "_NAME": "ENT_206039",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9538,16 +9941,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "BigPits",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206039",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Big Pits",
+        "_ALTITUDE": "382",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9560,8 +9963,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7640,
-        "_UID": 7640,
+        "_ID": 13501,
+        "_UID": 13501,
         "_NAME": "ENT_206040",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9569,16 +9972,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte de la Riviere",
+        "_LENGTH_TH": "351",
+        "_DEPTH_TH": "108",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "206040",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte de la Riviere",
+        "_ALTITUDE": "120",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9591,8 +9994,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7641,
-        "_UID": 7641,
+        "_ID": 13502,
+        "_UID": 13502,
         "_NAME": "ENT_206041",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9600,16 +10003,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Passoire",
+        "_LENGTH_TH": "262",
+        "_DEPTH_TH": "180",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "206041",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Passoire",
+        "_ALTITUDE": "340",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9622,8 +10025,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7642,
-        "_UID": 7642,
+        "_ID": 13503,
+        "_UID": 13503,
         "_NAME": "ENT_206042",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9631,16 +10034,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GouffrePetitCreux",
+        "_LENGTH_TH": "337",
+        "_DEPTH_TH": "40",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "206042",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre Petit Creux",
+        "_ALTITUDE": "437",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9653,8 +10056,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7643,
-        "_UID": 7643,
+        "_ID": 13504,
+        "_UID": 13504,
         "_NAME": "ENT_206043",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9662,16 +10065,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteDuTemps",
+        "_LENGTH_TH": "2150",
+        "_DEPTH_TH": "202",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "206043",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte Du Temps",
+        "_ALTITUDE": "140",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9684,8 +10087,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7644,
-        "_UID": 7644,
+        "_ID": 13505,
+        "_UID": 13505,
         "_NAME": "ENT_206044",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9693,16 +10096,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence du Champignon",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206044",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence du Champignon",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9715,8 +10118,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7700,
-        "_UID": 7700,
+        "_ID": 13561,
+        "_UID": 13561,
         "_NAME": "ENT_207001",
         "_SURVEY": "207.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9724,16 +10127,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Syst\u00e8me des Condors",
+        "_LENGTH_TH": "270",
+        "_DEPTH_TH": "14",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "207001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": " Syst\u00e8me des Condors",
+        "_ALTITUDE": "141",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9746,8 +10149,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7701,
-        "_UID": 7701,
+        "_ID": 13562,
+        "_UID": 13562,
         "_NAME": "ENT_207002",
         "_SURVEY": "207.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9755,16 +10158,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Resurgence Des Lobos",
+        "_LENGTH_TH": "291",
+        "_DEPTH_TH": "49",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "207002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence des Lobos",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9777,8 +10180,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7716,
-        "_UID": 7716,
+        "_ID": 13577,
+        "_UID": 13577,
         "_NAME": "ENT_208001",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9786,16 +10189,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva1OH1O",
+        "_LENGTH_TH": "341",
+        "_DEPTH_TH": "30",
+        "_LENGTH": "341.0",
+        "_DEPTH": "-30",
         "_CAD_NUM": "208001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 10H10",
+        "_ALTITUDE": "80",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9808,8 +10211,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7717,
-        "_UID": 7717,
+        "_ID": 13578,
+        "_UID": 13578,
         "_NAME": "ENT_208002",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9817,16 +10220,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R??surgence 9 plage de la Baleine",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "208002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence 9 plage de la Baleine",
+        "_ALTITUDE": "40",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9839,8 +10242,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7718,
-        "_UID": 7718,
+        "_ID": 13579,
+        "_UID": 13579,
         "_NAME": "ENT_208003",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9848,16 +10251,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte 20 plage de la Baleine",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "208003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte 20 plage de la Baleine",
+        "_ALTITUDE": "20",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9870,8 +10273,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7719,
-        "_UID": 7719,
+        "_ID": 13580,
+        "_UID": 13580,
         "_NAME": "ENT_208004",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9879,16 +10282,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "208004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "559",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Didier",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9901,8 +10304,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 7720,
-        "_UID": 7720,
+        "_ID": 13581,
+        "_UID": 13581,
         "_NAME": "ENT_208005",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9910,16 +10313,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "208005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "561",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Didier",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9932,8 +10335,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8289,
-        "_UID": 8289,
+        "_ID": 14150,
+        "_UID": 14150,
         "_NAME": "ENT_209001",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9941,16 +10344,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte du Plein Cintre",
+        "_LENGTH_TH": "505",
+        "_DEPTH_TH": "87",
+        "_LENGTH": "500.0",
+        "_DEPTH": "79",
         "_CAD_NUM": "209001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte du Plein Cintre",
+        "_ALTITUDE": "215",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9963,8 +10366,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8290,
-        "_UID": 8290,
+        "_ID": 14151,
+        "_UID": 14151,
         "_NAME": "ENT_209002",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9972,16 +10375,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Emergence du Barillet",
+        "_LENGTH_TH": "64",
+        "_DEPTH_TH": "21",
+        "_LENGTH": "64.0",
+        "_DEPTH": "21",
         "_CAD_NUM": "209002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Emergence du Barillet",
+        "_ALTITUDE": "436",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9994,8 +10397,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8291,
-        "_UID": 8291,
+        "_ID": 14152,
+        "_UID": 14152,
         "_NAME": "ENT_209003",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10003,16 +10406,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de la Gachette",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre de la Gachette",
+        "_ALTITUDE": "428",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10025,8 +10428,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8292,
-        "_UID": 8292,
+        "_ID": 14153,
+        "_UID": 14153,
         "_NAME": "ENT_209004",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10034,16 +10437,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte de l'Acharn\u00e9",
+        "_LENGTH": "nan",
+        "_DEPTH": "-43",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte de l'Acharne",
+        "_ALTITUDE": "334",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10056,8 +10459,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8293,
-        "_UID": 8293,
+        "_ID": 14154,
+        "_UID": 14154,
         "_NAME": "ENT_209005",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10065,16 +10468,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte n?? 18",
+        "_LENGTH": "57.0",
+        "_DEPTH": "-34",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte n\u00b0 18",
+        "_ALTITUDE": "422",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10087,8 +10490,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8294,
-        "_UID": 8294,
+        "_ID": 14155,
+        "_UID": 14155,
         "_NAME": "ENT_209006",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10096,16 +10499,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "ResurgenceDeLaPlage",
+        "_LENGTH_TH": "378",
+        "_DEPTH_TH": "52",
+        "_LENGTH": "380.0",
+        "_DEPTH": "53",
         "_CAD_NUM": "209006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence de la plage",
+        "_ALTITUDE": "3",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10118,8 +10521,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8295,
-        "_UID": 8295,
+        "_ID": 14156,
+        "_UID": 14156,
         "_NAME": "ENT_209007",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10127,16 +10530,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GrotteEvier",
+        "_LENGTH_TH": "71",
+        "_DEPTH_TH": "60",
+        "_LENGTH": "75.0",
+        "_DEPTH": "-60",
         "_CAD_NUM": "209007",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte de l'Evier",
+        "_ALTITUDE": "195",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10149,8 +10552,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8296,
-        "_UID": 8296,
+        "_ID": 14157,
+        "_UID": 14157,
         "_NAME": "ENT_209008",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10158,16 +10561,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Bob l'eponge",
+        "_LENGTH": "nan",
+        "_DEPTH": "-40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Bob l'Eponge",
+        "_ALTITUDE": "200",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10180,8 +10583,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8297,
-        "_UID": 8297,
+        "_ID": 14158,
+        "_UID": 14158,
         "_NAME": "ENT_209009",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10189,16 +10592,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Gringa (Los Gringos)",
+        "_LENGTH_TH": "64",
+        "_DEPTH_TH": "47",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
         "_CAD_NUM": "209009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Gringa",
+        "_ALTITUDE": "154",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10211,8 +10614,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8298,
-        "_UID": 8298,
+        "_ID": 14159,
+        "_UID": 14159,
         "_NAME": "ENT_209010",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10220,16 +10623,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Doline Calafate",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Doline Calafate",
+        "_ALTITUDE": "250",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10242,8 +10645,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8299,
-        "_UID": 8299,
+        "_ID": 14160,
+        "_UID": 14160,
         "_NAME": "ENT_209011",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10251,16 +10654,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "GouffreDeLaDetente",
+        "_LENGTH_TH": "863",
+        "_DEPTH_TH": "316",
+        "_LENGTH": "nan",
+        "_DEPTH": "-323",
         "_CAD_NUM": "209011",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre de la Detente",
+        "_ALTITUDE": "445",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10273,8 +10676,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8300,
-        "_UID": 8300,
+        "_ID": 14161,
+        "_UID": 14161,
         "_NAME": "ENT_209012",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10282,16 +10685,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209012",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "450",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10304,8 +10707,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8301,
-        "_UID": 8301,
+        "_ID": 14162,
+        "_UID": 14162,
         "_NAME": "ENT_209013",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10313,16 +10716,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "0.0",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209013",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "357",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10335,8 +10738,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8302,
-        "_UID": 8302,
+        "_ID": 14163,
+        "_UID": 14163,
         "_NAME": "ENT_209014",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10344,16 +10747,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du Kit",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-120",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209014",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre du Kit",
+        "_ALTITUDE": "505",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa, Jose, Serge",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10366,8 +10769,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8303,
-        "_UID": 8303,
+        "_ID": 14164,
+        "_UID": 14164,
         "_NAME": "ENT_209015",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10375,16 +10778,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Cumple Anos",
+        "_LENGTH_TH": "40",
+        "_DEPTH_TH": "24",
+        "_LENGTH": "119.0",
+        "_DEPTH": "-81",
         "_CAD_NUM": "209015",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre Cumple Anos",
+        "_ALTITUDE": "412",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jean Francois H, Didier, Laurent M, Florence, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10397,8 +10800,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8304,
-        "_UID": 8304,
+        "_ID": 14165,
+        "_UID": 14165,
         "_NAME": "ENT_209016",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10406,16 +10809,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "La Marmotte",
+        "_LENGTH": "nan",
+        "_DEPTH": "-57",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209016",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "La Marmotte",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose, Isa, Serge",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10428,8 +10831,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8305,
-        "_UID": 8305,
+        "_ID": 14166,
+        "_UID": 14166,
         "_NAME": "ENT_209017",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10437,16 +10840,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven Kinka 4",
+        "_LENGTH": "nan",
+        "_DEPTH": "-40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209017",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven Kinka 4",
+        "_ALTITUDE": "428",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10459,8 +10862,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8306,
-        "_UID": 8306,
+        "_ID": 14167,
+        "_UID": 14167,
         "_NAME": "ENT_209018",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10468,16 +10871,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte",
+        "_LENGTH": "nan",
+        "_DEPTH": "-40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209018",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa, Jose",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10490,8 +10893,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8307,
-        "_UID": 8307,
+        "_ID": 14168,
+        "_UID": 14168,
         "_NAME": "ENT_209019",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10499,16 +10902,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven Kinka 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "-28",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209019",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven Kinka 3",
+        "_ALTITUDE": "413",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose, Bruno, Fabien, Didier",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10521,8 +10924,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8308,
-        "_UID": 8308,
+        "_ID": 14169,
+        "_UID": 14169,
         "_NAME": "ENT_209020",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10530,16 +10933,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209020",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose, Isa, Serge",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10552,8 +10955,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8309,
-        "_UID": 8309,
+        "_ID": 14170,
+        "_UID": 14170,
         "_NAME": "ENT_209021",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10561,16 +10964,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209021",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose, Isa, Serge",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10583,8 +10986,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8310,
-        "_UID": 8310,
+        "_ID": 14171,
+        "_UID": 14171,
         "_NAME": "ENT_209022",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10592,16 +10995,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven -20",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209022",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven -20",
+        "_ALTITUDE": "418",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Mulot",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10614,8 +11017,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8311,
-        "_UID": 8311,
+        "_ID": 14172,
+        "_UID": 14172,
         "_NAME": "ENT_209023",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10623,16 +11026,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209023",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa, Jose",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10645,8 +11048,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8312,
-        "_UID": 8312,
+        "_ID": 14173,
+        "_UID": 14173,
         "_NAME": "ENT_209024",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10654,16 +11057,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven Kinka 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209024",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven Kinka 2",
+        "_ALTITUDE": "428",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Bruno, Didier, Jo, Fabien, Jose",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10676,8 +11079,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8313,
-        "_UID": 8313,
+        "_ID": 14174,
+        "_UID": 14174,
         "_NAME": "ENT_209025",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10685,16 +11088,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven Kinka 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209025",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven Kinka 1",
+        "_ALTITUDE": "451",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Fabien, Didier",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10707,8 +11110,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8314,
-        "_UID": 8314,
+        "_ID": 14175,
+        "_UID": 14175,
         "_NAME": "ENT_209026",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10716,16 +11119,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven non descendu",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209026",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven non descendu",
+        "_ALTITUDE": "434",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Mulot",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10738,8 +11141,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8315,
-        "_UID": 8315,
+        "_ID": 14176,
+        "_UID": 14176,
         "_NAME": "ENT_209027",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10747,16 +11150,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209027",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "433",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Laurent M",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10769,8 +11172,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8316,
-        "_UID": 8316,
+        "_ID": 14177,
+        "_UID": 14177,
         "_NAME": "ENT_209028",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10778,16 +11181,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209028",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "414",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Laurent M",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10800,8 +11203,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8317,
-        "_UID": 8317,
+        "_ID": 14178,
+        "_UID": 14178,
         "_NAME": "ENT_209029",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10809,16 +11212,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grand Aven-Perte",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209029",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grand Aven-Perte",
+        "_ALTITUDE": "359",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10831,8 +11234,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8318,
-        "_UID": 8318,
+        "_ID": 14179,
+        "_UID": 14179,
         "_NAME": "ENT_209030",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10840,16 +11243,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TROU A",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209030",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "TROU A",
+        "_ALTITUDE": "433",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Mulot",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10862,8 +11265,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8319,
-        "_UID": 8319,
+        "_ID": 14180,
+        "_UID": 14180,
         "_NAME": "ENT_209031",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10871,16 +11274,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grande Doline-Perte",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209031",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grande Doline-Perte",
+        "_ALTITUDE": "347",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10893,8 +11296,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8320,
-        "_UID": 8320,
+        "_ID": 14181,
+        "_UID": 14181,
         "_NAME": "ENT_209032",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10902,16 +11305,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209032",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "466",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Mulot",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10924,8 +11327,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8321,
-        "_UID": 8321,
+        "_ID": 14182,
+        "_UID": 14182,
         "_NAME": "ENT_209033",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10933,16 +11336,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteCoipo",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209033",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte Coipo",
+        "_ALTITUDE": "370",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10955,8 +11358,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8322,
-        "_UID": 8322,
+        "_ID": 14183,
+        "_UID": 14183,
         "_NAME": "ENT_209035",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10964,16 +11367,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CHIL",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209035",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "CHIL",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10986,8 +11389,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8323,
-        "_UID": 8323,
+        "_ID": 14184,
+        "_UID": 14184,
         "_NAME": "ENT_209036",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10995,16 +11398,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CuevaSorryTopo",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209036",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Sorry Topo",
+        "_ALTITUDE": "351",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11017,8 +11420,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8324,
-        "_UID": 8324,
+        "_ID": 14185,
+        "_UID": 14185,
         "_NAME": "ENT_209037",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11026,16 +11429,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CuevaDeLaDer",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209037",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva De La Der",
+        "_ALTITUDE": "393",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11048,8 +11451,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8325,
-        "_UID": 8325,
+        "_ID": 14186,
+        "_UID": 14186,
         "_NAME": "ENT_209038",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11057,16 +11460,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TrouPresDuCamp",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209038",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Trou Pres Du Camp",
+        "_ALTITUDE": "405",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11079,8 +11482,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8326,
-        "_UID": 8326,
+        "_ID": 14187,
+        "_UID": 14187,
         "_NAME": "ENT_209039",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11088,16 +11491,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CuevaP03",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209039",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva P03",
+        "_ALTITUDE": "368",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11110,8 +11513,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8327,
-        "_UID": 8327,
+        "_ID": 14188,
+        "_UID": 14188,
         "_NAME": "ENT_209040",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11119,16 +11522,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PozolAlRato",
+        "_LENGTH_TH": "128",
+        "_DEPTH_TH": "120",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "209040",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": " Pozo Al rato",
+        "_ALTITUDE": "380",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11141,8 +11544,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8328,
-        "_UID": 8328,
+        "_ID": 14189,
+        "_UID": 14189,
         "_NAME": "ENT_209041",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11150,16 +11553,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PozoDeLosCinquetenos",
+        "_LENGTH_TH": "113",
+        "_DEPTH_TH": "76",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "209041",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": " Pozo de los Cinquetenos",
+        "_ALTITUDE": "386",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11172,8 +11575,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8329,
-        "_UID": 8329,
+        "_ID": 14190,
+        "_UID": 14190,
         "_NAME": "ENT_209042",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11181,16 +11584,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SoloNoSpit",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209042",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "SoloNoSpit",
+        "_ALTITUDE": "388",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11203,8 +11606,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8330,
-        "_UID": 8330,
+        "_ID": 14191,
+        "_UID": 14191,
         "_NAME": "ENT_209043",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11212,16 +11615,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CuevaVersLeBoutDuMonde",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209043",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Vers Le Bout Du Monde",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11234,8 +11637,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8331,
-        "_UID": 8331,
+        "_ID": 14192,
+        "_UID": 14192,
         "_NAME": "ENT_209044",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11243,16 +11646,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CuevaSalle",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209044",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "CuevaSalle",
+        "_ALTITUDE": "392",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11265,8 +11668,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8333,
-        "_UID": 8333,
+        "_ID": 14194,
+        "_UID": 14194,
         "_NAME": "ENT_209045",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11274,16 +11677,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteLesJumeaux",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209045",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PerteLesJumeaux",
+        "_ALTITUDE": "578",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11296,8 +11699,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8334,
-        "_UID": 8334,
+        "_ID": 14195,
+        "_UID": 14195,
         "_NAME": "ENT_209046",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11305,16 +11708,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PuitsRBE01",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209046",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PuitsRBE01",
+        "_ALTITUDE": "583",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11327,8 +11730,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8335,
-        "_UID": 8335,
+        "_ID": 14196,
+        "_UID": 14196,
         "_NAME": "ENT_209047",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11336,16 +11739,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PuitsRBE02",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209047",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "PuitsRBE02",
+        "_ALTITUDE": "594",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11358,8 +11761,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8336,
-        "_UID": 8336,
+        "_ID": 14197,
+        "_UID": 14197,
         "_NAME": "ENT_209048",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11367,16 +11770,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SorryP20",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209048",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "SorryP20",
+        "_ALTITUDE": "609",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11389,8 +11792,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8337,
-        "_UID": 8337,
+        "_ID": 14198,
+        "_UID": 14198,
         "_NAME": "ENT_209049",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11398,16 +11801,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SorryP15",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209049",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "SorryP15",
+        "_ALTITUDE": "588",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11420,8 +11823,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8338,
-        "_UID": 8338,
+        "_ID": 14199,
+        "_UID": 14199,
         "_NAME": "ENT_209050",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11429,16 +11832,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PuitsRBE03",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209050",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Puits RBE03",
+        "_ALTITUDE": "592",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11451,8 +11854,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8339,
-        "_UID": 8339,
+        "_ID": 14200,
+        "_UID": 14200,
         "_NAME": "ENT_209051",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11460,16 +11863,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PuitsRBE04",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209051",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Puits RBE04",
+        "_ALTITUDE": "599",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11482,8 +11885,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8340,
-        "_UID": 8340,
+        "_ID": 14201,
+        "_UID": 14201,
         "_NAME": "ENT_209052",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11491,16 +11894,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PuitsRBE05",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209052",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Puits RBE05",
+        "_ALTITUDE": "573",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11513,8 +11916,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8341,
-        "_UID": 8341,
+        "_ID": 14202,
+        "_UID": 14202,
         "_NAME": "ENT_209053",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11522,16 +11925,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CuevaTorseOublie",
+        "_LENGTH_TH": "78",
+        "_DEPTH_TH": "67",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "209053",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": " Cueva Torse Oublie",
+        "_ALTITUDE": "444",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11544,8 +11947,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8342,
-        "_UID": 8342,
+        "_ID": 14203,
+        "_UID": 14203,
         "_NAME": "ENT_209054",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11553,16 +11956,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "CuevaDeLosTres",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209054",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva de los Tres",
+        "_ALTITUDE": "548",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11575,8 +11978,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8343,
-        "_UID": 8343,
+        "_ID": 14204,
+        "_UID": 14204,
         "_NAME": "ENT_209055",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11584,16 +11987,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PozoSinNombre",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209055",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Pozo Sin Nombre",
+        "_ALTITUDE": "463",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11606,8 +12009,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8344,
-        "_UID": 8344,
+        "_ID": 14205,
+        "_UID": 14205,
         "_NAME": "ENT_209056",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11615,16 +12018,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "LeTube",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209056",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Le Tube",
+        "_ALTITUDE": "673",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11637,8 +12040,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8345,
-        "_UID": 8345,
+        "_ID": 14206,
+        "_UID": 14206,
         "_NAME": "ENT_209057",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11646,16 +12049,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PozoDelGPSVolando",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209057",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Pozo Del GPS Volando",
+        "_ALTITUDE": "449",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11668,8 +12071,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8346,
-        "_UID": 8346,
+        "_ID": 14207,
+        "_UID": 14207,
         "_NAME": "ENT_209058",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11677,16 +12080,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteDesSabliers",
+        "_LENGTH_TH": "667",
+        "_DEPTH_TH": "275",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "209058",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": " Perte des Sabliers",
+        "_ALTITUDE": "452",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11699,8 +12102,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8356,
-        "_UID": 8356,
+        "_ID": 14217,
+        "_UID": 14217,
         "_NAME": "ENT_210001",
         "_SURVEY": "210.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11708,16 +12111,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Resurgence Fin Del Seno",
+        "_LENGTH_TH": "46",
+        "_DEPTH_TH": "2",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "210001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Surgencia fin del Seno",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11730,8 +12133,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8605,
-        "_UID": 8605,
+        "_ID": 14466,
+        "_UID": 14466,
         "_NAME": "ENT_211001",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11739,16 +12142,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "AbrigoDelViento",
+        "_LENGTH_TH": "430",
+        "_DEPTH_TH": "197",
+        "_LENGTH": "430.0",
+        "_DEPTH": "-197",
         "_CAD_NUM": "211001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "El Abrito del Viento",
+        "_ALTITUDE": "407",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11761,8 +12164,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8606,
-        "_UID": 8606,
+        "_ID": 14467,
+        "_UID": 14467,
         "_NAME": "ENT_211002",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11770,16 +12173,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "SumideroPiquante",
+        "_LENGTH_TH": "451",
+        "_DEPTH_TH": "149",
+        "_LENGTH": "450.0",
+        "_DEPTH": "-147",
         "_CAD_NUM": "211002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Sumidero Piquante",
+        "_ALTITUDE": "191",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11792,8 +12195,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8607,
-        "_UID": 8607,
+        "_ID": 14468,
+        "_UID": 14468,
         "_NAME": "ENT_211003",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11801,16 +12204,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre d'Aguilucho",
+        "_LENGTH_TH": "302",
+        "_DEPTH_TH": "97",
+        "_LENGTH": "302.0",
+        "_DEPTH": "-97",
         "_CAD_NUM": "211003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre d'Aguilucho",
+        "_ALTITUDE": "73",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11823,8 +12226,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8608,
-        "_UID": 8608,
+        "_ID": 14469,
+        "_UID": 14469,
         "_NAME": "ENT_211004",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11832,16 +12235,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Exsurgence Picaflor",
+        "_LENGTH_TH": "79",
+        "_DEPTH_TH": "5",
+        "_LENGTH": "40.0",
+        "_DEPTH": "5",
         "_CAD_NUM": "211004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Exurgence du Picaflor",
+        "_ALTITUDE": "10",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11854,8 +12257,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8609,
-        "_UID": 8609,
+        "_ID": 14470,
+        "_UID": 14470,
         "_NAME": "ENT_211005",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11863,16 +12266,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PorcheDeLImpatience",
+        "_LENGTH_TH": "56",
+        "_DEPTH_TH": "14",
+        "_LENGTH": "50.0",
+        "_DEPTH": "20",
         "_CAD_NUM": "211005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Porche de l'Impatience",
+        "_ALTITUDE": "30",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11885,8 +12288,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8610,
-        "_UID": 8610,
+        "_ID": 14471,
+        "_UID": 14471,
         "_NAME": "ENT_211006",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11894,16 +12297,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sima del Col",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Sima del Col",
+        "_ALTITUDE": "348",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11916,8 +12319,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8611,
-        "_UID": 8611,
+        "_ID": 14472,
+        "_UID": 14472,
         "_NAME": "ENT_211007",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11925,16 +12328,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MD/BDGS01",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211007",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "MD-BDGS01",
+        "_ALTITUDE": "192",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11947,8 +12350,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8612,
-        "_UID": 8612,
+        "_ID": 14473,
+        "_UID": 14473,
         "_NAME": "ENT_211008",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11956,16 +12359,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MD/BDGS02",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "MD-BDGS02",
+        "_ALTITUDE": "461",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11978,8 +12381,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8613,
-        "_UID": 8613,
+        "_ID": 14474,
+        "_UID": 14474,
         "_NAME": "ENT_211009",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11987,16 +12390,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MD/BDGS03",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "MD-BDGS03",
+        "_ALTITUDE": "71",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12009,8 +12412,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8614,
-        "_UID": 8614,
+        "_ID": 14475,
+        "_UID": 14475,
         "_NAME": "ENT_211010",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12018,16 +12421,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MD/BDGS04",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "MD-BDGS04",
+        "_ALTITUDE": "536",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12040,8 +12443,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8615,
-        "_UID": 8615,
+        "_ID": 14476,
+        "_UID": 14476,
         "_NAME": "ENT_211011",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12049,16 +12452,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MD/BDG05",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211011",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "MD-BDG05",
+        "_ALTITUDE": "310",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12071,8 +12474,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8616,
-        "_UID": 8616,
+        "_ID": 14477,
+        "_UID": 14477,
         "_NAME": "ENT_211012",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12080,16 +12483,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte Grande Soeur",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-13",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211012",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte Grande Soeur",
+        "_ALTITUDE": "360",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Florian",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12102,8 +12505,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8617,
-        "_UID": 8617,
+        "_ID": 14478,
+        "_UID": 14478,
         "_NAME": "ENT_211013",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12111,16 +12514,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre 36",
+        "_LENGTH_TH": "45",
+        "_DEPTH_TH": "45",
+        "_LENGTH": "nan",
+        "_DEPTH": "-45",
         "_CAD_NUM": "211013",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre 36",
+        "_ALTITUDE": "392",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Denis, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12133,8 +12536,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8618,
-        "_UID": 8618,
+        "_ID": 14479,
+        "_UID": 14479,
         "_NAME": "ENT_211014",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12142,16 +12545,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre des Mousquetaires",
+        "_LENGTH_TH": "56",
+        "_DEPTH_TH": "44",
+        "_LENGTH": "nan",
+        "_DEPTH": "-44",
         "_CAD_NUM": "211014",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre des Mousquetaires",
+        "_ALTITUDE": "298",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Arnauld, Laurent C, Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12164,8 +12567,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8619,
-        "_UID": 8619,
+        "_ID": 14480,
+        "_UID": 14480,
         "_NAME": "ENT_211015",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12173,16 +12576,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de l'Arche",
+        "_LENGTH_TH": "41",
+        "_DEPTH_TH": "32",
+        "_LENGTH": "nan",
+        "_DEPTH": "-32",
         "_CAD_NUM": "211015",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre de l'Arche",
+        "_ALTITUDE": "310",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric, Arnault, Laurent C",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12195,8 +12598,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8620,
-        "_UID": 8620,
+        "_ID": 14481,
+        "_UID": 14481,
         "_NAME": "ENT_211016",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12204,16 +12607,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre _ la t??te d'Ours",
+        "_LENGTH": "nan",
+        "_DEPTH": "-22",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211016",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre \u00e0 la t\u00eate d'Ours",
+        "_ALTITUDE": "332",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12226,8 +12629,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8621,
-        "_UID": 8621,
+        "_ID": 14482,
+        "_UID": 14482,
         "_NAME": "ENT_211017",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12235,16 +12638,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211017",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "322",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Denis",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12257,8 +12660,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8622,
-        "_UID": 8622,
+        "_ID": 14483,
+        "_UID": 14483,
         "_NAME": "ENT_211018",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12266,16 +12669,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte de Lobos Secos",
+        "_LENGTH": "nan",
+        "_DEPTH": "-17",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211018",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte de Lobos Secos",
+        "_ALTITUDE": "328",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Laurent C, Denis, Arnauld, Cedric, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12288,8 +12691,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8623,
-        "_UID": 8623,
+        "_ID": 14484,
+        "_UID": 14484,
         "_NAME": "ENT_211019",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12297,16 +12700,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte Marion",
+        "_LENGTH_TH": "74",
+        "_DEPTH_TH": "17",
+        "_LENGTH": "74.0",
+        "_DEPTH": "-17",
         "_CAD_NUM": "211019",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte Marion",
+        "_ALTITUDE": "339",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Fabien Thomas",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12319,8 +12722,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8624,
-        "_UID": 8624,
+        "_ID": 14485,
+        "_UID": 14485,
         "_NAME": "ENT_211020",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12328,16 +12731,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "M\u00e9andre des Sables",
+        "_LENGTH_TH": "38",
+        "_DEPTH_TH": "15",
+        "_LENGTH": "38.0",
+        "_DEPTH": "-15",
         "_CAD_NUM": "211020",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Meandre des Sables",
+        "_ALTITUDE": "384",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Fabien Thomas",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12350,8 +12753,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8625,
-        "_UID": 8625,
+        "_ID": 14486,
+        "_UID": 14486,
         "_NAME": "ENT_211021",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12359,16 +12762,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte de la Conduite",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211021",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte de la Conduite",
+        "_ALTITUDE": "364",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric, Buldo",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12381,8 +12784,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8626,
-        "_UID": 8626,
+        "_ID": 14487,
+        "_UID": 14487,
         "_NAME": "ENT_211022",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12390,16 +12793,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva del Agua",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211022",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva del Agua",
+        "_ALTITUDE": "352",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric, Arnauld",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12412,8 +12815,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8627,
-        "_UID": 8627,
+        "_ID": 14488,
+        "_UID": 14488,
         "_NAME": "ENT_211023",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12421,16 +12824,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "AvenDeLaTraverse",
+        "_LENGTH_TH": "35",
+        "_DEPTH_TH": "12",
+        "_LENGTH": "35.0",
+        "_DEPTH": "-12",
         "_CAD_NUM": "211023",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven de la Traverse",
+        "_ALTITUDE": "353",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Fabien Thomas",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12443,8 +12846,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8628,
-        "_UID": 8628,
+        "_ID": 14489,
+        "_UID": 14489,
         "_NAME": "ENT_211024",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12452,16 +12855,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte du Nomade",
+        "_LENGTH": "nan",
+        "_DEPTH": "-9",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211024",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte du Nomade",
+        "_ALTITUDE": "354",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Arnauld, Denis, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12474,8 +12877,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8629,
-        "_UID": 8629,
+        "_ID": 14490,
+        "_UID": 14490,
         "_NAME": "ENT_211025",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12483,16 +12886,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte Filostik ou Grotte au Squelette",
+        "_LENGTH": "nan",
+        "_DEPTH": "-8",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211025",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte Filostik",
+        "_ALTITUDE": "291",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa, Laurent C, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12505,8 +12908,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8630,
-        "_UID": 8630,
+        "_ID": 14491,
+        "_UID": 14491,
         "_NAME": "ENT_211026",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12514,16 +12917,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche de la Madre 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "-8",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211026",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Porche de la Madre 2",
+        "_ALTITUDE": "364",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric, Jean Phi",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12536,8 +12939,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8631,
-        "_UID": 8631,
+        "_ID": 14492,
+        "_UID": 14492,
         "_NAME": "ENT_211027",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12545,16 +12948,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-6",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211027",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "294",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Denis",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12567,8 +12970,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8632,
-        "_UID": 8632,
+        "_ID": 14493,
+        "_UID": 14493,
         "_NAME": "ENT_211028",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12576,16 +12979,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Abri",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211028",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Abri",
+        "_ALTITUDE": "403",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Denis, Arnauld",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12598,8 +13001,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8633,
-        "_UID": 8633,
+        "_ID": 14494,
+        "_UID": 14494,
         "_NAME": "ENT_211029",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12607,16 +13010,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211029",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "432",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Denis",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12629,8 +13032,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8634,
-        "_UID": 8634,
+        "_ID": 14495,
+        "_UID": 14495,
         "_NAME": "ENT_211030",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12638,16 +13041,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grand Aven Triple",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211030",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grand Aven Triple",
+        "_ALTITUDE": "365",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Fabien",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12660,8 +13063,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8635,
-        "_UID": 8635,
+        "_ID": 14496,
+        "_UID": 14496,
         "_NAME": "ENT_211031",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12669,16 +13072,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte Ensabl??e",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211031",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte Ensablee",
+        "_ALTITUDE": "374",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Fabien",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12691,8 +13094,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8636,
-        "_UID": 8636,
+        "_ID": 14497,
+        "_UID": 14497,
         "_NAME": "ENT_211032",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12700,16 +13103,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211032",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 1",
+        "_ALTITUDE": "581",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12722,8 +13125,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8637,
-        "_UID": 8637,
+        "_ID": 14498,
+        "_UID": 14498,
         "_NAME": "ENT_211033",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12731,16 +13134,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211033",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Porche",
+        "_ALTITUDE": "357",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Denis",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12753,8 +13156,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8638,
-        "_UID": 8638,
+        "_ID": 14499,
+        "_UID": 14499,
         "_NAME": "ENT_211034",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12762,16 +13165,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "AVEN ?",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211034",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "AVEN ?",
+        "_ALTITUDE": "309",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12784,8 +13187,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8639,
-        "_UID": 8639,
+        "_ID": 14500,
+        "_UID": 14500,
         "_NAME": "ENT_211035",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12793,16 +13196,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211035",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "415",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Denis",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12815,8 +13218,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8640,
-        "_UID": 8640,
+        "_ID": 14501,
+        "_UID": 14501,
         "_NAME": "ENT_211036",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12824,16 +13227,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Lobos Matos",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211036",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Lobos Matos",
+        "_ALTITUDE": "303",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12846,8 +13249,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8641,
-        "_UID": 8641,
+        "_ID": 14502,
+        "_UID": 14502,
         "_NAME": "ENT_211037",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12855,16 +13258,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211037",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "aven",
+        "_ALTITUDE": "288",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12877,8 +13280,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8642,
-        "_UID": 8642,
+        "_ID": 14503,
+        "_UID": 14503,
         "_NAME": "ENT_211038",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12886,16 +13289,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211038",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "389",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Denis",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12908,8 +13311,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8643,
-        "_UID": 8643,
+        "_ID": 14504,
+        "_UID": 14504,
         "_NAME": "ENT_211039",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12917,16 +13320,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211039",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "aven",
+        "_ALTITUDE": "298",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12939,8 +13342,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8644,
-        "_UID": 8644,
+        "_ID": 14505,
+        "_UID": 14505,
         "_NAME": "ENT_211040",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12948,16 +13351,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Aven",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211040",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Aven",
+        "_ALTITUDE": "287",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Olivier T, Denis",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12970,8 +13373,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8645,
-        "_UID": 8645,
+        "_ID": 14506,
+        "_UID": 14506,
         "_NAME": "ENT_211041",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12979,16 +13382,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 5",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211041",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 5",
+        "_ALTITUDE": "310",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13001,8 +13404,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8646,
-        "_UID": 8646,
+        "_ID": 14507,
+        "_UID": 14507,
         "_NAME": "ENT_211042",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13010,16 +13413,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva 6",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211042",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva 6",
+        "_ALTITUDE": "433",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13032,8 +13435,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8647,
-        "_UID": 8647,
+        "_ID": 14508,
+        "_UID": 14508,
         "_NAME": "ENT_211043",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13041,16 +13444,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte 1Lobos",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211043",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte 1Lobos",
+        "_ALTITUDE": "332",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13063,8 +13466,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8648,
-        "_UID": 8648,
+        "_ID": 14509,
+        "_UID": 14509,
         "_NAME": "ENT_211044",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13072,16 +13475,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte des Lobos",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211044",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte des Lobos",
+        "_ALTITUDE": "330",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13094,8 +13497,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8649,
-        "_UID": 8649,
+        "_ID": 14510,
+        "_UID": 14510,
         "_NAME": "ENT_211045",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13103,16 +13506,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "El Culo de la Madre",
+        "_LENGTH": "nan",
+        "_DEPTH": "-78",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211045",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "El Culo de la Madre",
+        "_ALTITUDE": "355",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Sylvain, Cedric, Buldo",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13125,8 +13528,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8650,
-        "_UID": 8650,
+        "_ID": 14511,
+        "_UID": 14511,
         "_NAME": "ENT_211046",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13134,16 +13537,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "La Grotte",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-9",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211046",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "La Grotte",
+        "_ALTITUDE": "331",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Florian",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13156,8 +13559,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8651,
-        "_UID": 8651,
+        "_ID": 14512,
+        "_UID": 14512,
         "_NAME": "ENT_211047",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13165,16 +13568,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Igue De Dob",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-8",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211047",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Igue Dedob",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Florian",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13187,8 +13590,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8652,
-        "_UID": 8652,
+        "_ID": 14513,
+        "_UID": 14513,
         "_NAME": "ENT_211048",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13196,16 +13599,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte Petite Soeur",
+        "_LENGTH": "0.0",
+        "_DEPTH": "-4",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211048",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte Petite Soeur",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Florian",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13218,8 +13621,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8653,
-        "_UID": 8653,
+        "_ID": 14514,
+        "_UID": 14514,
         "_NAME": "ENT_211049",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13227,16 +13630,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Puits Octopus",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211049",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Puits Octopus",
+        "_ALTITUDE": "330",
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13249,8 +13652,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8654,
-        "_UID": 8654,
+        "_ID": 14515,
+        "_UID": 14515,
         "_NAME": "ENT_212001",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13258,16 +13661,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte de Tarlton",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "212001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Grotte de Tarlton",
+        "_ALTITUDE": "30",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13280,8 +13683,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8655,
-        "_UID": 8655,
+        "_ID": 14516,
+        "_UID": 14516,
         "_NAME": "ENT_212002",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13289,16 +13692,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TAR01",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "212002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "TAR01",
+        "_ALTITUDE": "294",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13311,8 +13714,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8656,
-        "_UID": 8656,
+        "_ID": 14517,
+        "_UID": 14517,
         "_NAME": "ENT_212003",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13320,16 +13723,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TAR02",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "212003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "TAR02",
+        "_ALTITUDE": "380",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13342,8 +13745,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8657,
-        "_UID": 8657,
+        "_ID": 14518,
+        "_UID": 14518,
         "_NAME": "ENT_212004",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13351,16 +13754,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TAR03",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "212004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "TAR03",
+        "_ALTITUDE": "525",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13373,8 +13776,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8658,
-        "_UID": 8658,
+        "_ID": 14519,
+        "_UID": 14519,
         "_NAME": "ENT_212005",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13382,16 +13785,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TAR04",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "212005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "TAR04",
+        "_ALTITUDE": "476",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13404,8 +13807,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 8659,
-        "_UID": 8659,
+        "_ID": 14520,
+        "_UID": 14520,
         "_NAME": "ENT_212006",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13413,16 +13816,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TAR05",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "212006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "TAR05",
+        "_ALTITUDE": "340",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13435,8 +13838,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9013,
-        "_UID": 9013,
+        "_ID": 14874,
+        "_UID": 14874,
         "_NAME": "ENT_213001",
         "_SURVEY": "213.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13444,16 +13847,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte du Masque et de la Plume",
+        "_LENGTH": "1156.0",
+        "_DEPTH": "-66",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "213001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte du Masque et de la Plume",
+        "_ALTITUDE": "90",
+        "_EXPED": "UP2008",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13466,8 +13869,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9014,
-        "_UID": 9014,
+        "_ID": 14875,
+        "_UID": 14875,
         "_NAME": "ENT_213002",
         "_SURVEY": "213.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13475,16 +13878,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte Finistere",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "213002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": " Grotte du Finistere",
+        "_ALTITUDE": "37",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13497,8 +13900,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9015,
-        "_UID": 9015,
+        "_ID": 14876,
+        "_UID": 14876,
         "_NAME": "ENT_213003",
         "_SURVEY": "213.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13506,16 +13909,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteGlaciaire",
+        "_LENGTH_TH": "166",
+        "_DEPTH_TH": "32",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "213003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": " Perte Glaciaire",
+        "_ALTITUDE": "100",
+        "_EXPED": "UP2006",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13528,8 +13931,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9147,
-        "_UID": 9147,
+        "_ID": 15008,
+        "_UID": 15008,
         "_NAME": "ENT_303001",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13537,16 +13940,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou 1 sur 3eme bloc calcaire",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Trou 1 sur 3eme bloc calcaire",
+        "_ALTITUDE": "186",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13559,8 +13962,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9148,
-        "_UID": 9148,
+        "_ID": 15009,
+        "_UID": 15009,
         "_NAME": "ENT_303002",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13568,16 +13971,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte des Portes d'Abraham",
+        "_LENGTH_TH": "483",
+        "_DEPTH_TH": "135",
+        "_LENGTH": "nan",
+        "_DEPTH": "-135",
         "_CAD_NUM": "303002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte des Portes d'Abraham",
+        "_ALTITUDE": "163",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13590,8 +13993,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9149,
-        "_UID": 9149,
+        "_ID": 15010,
+        "_UID": 15010,
         "_NAME": "ENT_303003",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13599,16 +14002,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Nutria",
+        "_LENGTH_TH": "191",
+        "_DEPTH_TH": "31",
+        "_LENGTH": "nan",
+        "_DEPTH": "16 - -15",
         "_CAD_NUM": "303003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Nutria",
+        "_ALTITUDE": "20",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13621,8 +14024,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9150,
-        "_UID": 9150,
+        "_ID": 15011,
+        "_UID": 15011,
         "_NAME": "ENT_303004",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13630,16 +14033,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Le Raccourci",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Le Raccourci",
+        "_ALTITUDE": "274",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13652,8 +14055,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9151,
-        "_UID": 9151,
+        "_ID": 15012,
+        "_UID": 15012,
         "_NAME": "ENT_303005",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13661,16 +14064,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Le Raccourci V\u00e9g\u00e9tal",
+        "_LENGTH": "nan",
+        "_DEPTH": "-5",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Le Raccourci Vegetal",
+        "_ALTITUDE": "55",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13683,8 +14086,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9152,
-        "_UID": 9152,
+        "_ID": 15013,
+        "_UID": 15013,
         "_NAME": "ENT_303006",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13692,16 +14095,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Tortilla con Citron",
+        "_LENGTH_TH": "121",
+        "_DEPTH_TH": "33",
+        "_LENGTH": "160.0",
+        "_DEPTH": "-32",
         "_CAD_NUM": "303006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Tortilla con Lemon",
+        "_ALTITUDE": "253",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13714,8 +14117,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9153,
-        "_UID": 9153,
+        "_ID": 15014,
+        "_UID": 15014,
         "_NAME": "ENT_303007",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13723,16 +14126,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre de l'Erbra",
+        "_LENGTH": "1356.0",
+        "_DEPTH": "30 - -59",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303007",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre de l'Erbra",
+        "_ALTITUDE": "86",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13745,8 +14148,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9154,
-        "_UID": 9154,
+        "_ID": 15015,
+        "_UID": 15015,
         "_NAME": "ENT_303008",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13754,16 +14157,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Regard sur la r??surgence de l'Avenir",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Regard sur la resurgence de l'Avenir",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13776,8 +14179,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9155,
-        "_UID": 9155,
+        "_ID": 15016,
+        "_UID": 15016,
         "_NAME": "ENT_303009",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13785,16 +14188,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva du Plateau",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva du Plateau",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13807,8 +14210,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9156,
-        "_UID": 9156,
+        "_ID": 15017,
+        "_UID": 15017,
         "_NAME": "ENT_303010",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13816,16 +14219,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Igue du Dike",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Igue du Dike",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13838,8 +14241,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9157,
-        "_UID": 9157,
+        "_ID": 15018,
+        "_UID": 15018,
         "_NAME": "ENT_303011",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13847,16 +14250,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pas de nom",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303011",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Pas de nom",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13869,8 +14272,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9158,
-        "_UID": 9158,
+        "_ID": 15019,
+        "_UID": 15019,
         "_NAME": "ENT_303012",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13878,16 +14281,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "P20",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303012",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "P20",
+        "_ALTITUDE": "301",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13900,8 +14303,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9159,
-        "_UID": 9159,
+        "_ID": 15020,
+        "_UID": 15020,
         "_NAME": "ENT_303013",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13909,16 +14312,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pas de nom",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303013",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Pas de nom",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13931,8 +14334,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9160,
-        "_UID": 9160,
+        "_ID": 15021,
+        "_UID": 15021,
         "_NAME": "ENT_303014",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13940,16 +14343,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Sans D\u00e9conner",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303014",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre SansDeconner",
+        "_ALTITUDE": "21",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13962,8 +14365,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9161,
-        "_UID": 9161,
+        "_ID": 15022,
+        "_UID": 15022,
         "_NAME": "ENT_303015",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13971,16 +14374,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Resurgence Oubliee",
+        "_LENGTH": "nan",
+        "_DEPTH": "-1",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303015",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence Oubliee",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13988,13 +14391,13 @@ var pointsFixes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.07547902448324,
-          -51.364860216896105
+          -75.07547902194135,
+          -51.36486021086265
         ]
       },
       "properties": {
-        "_ID": 9248,
-        "_UID": 9248,
+        "_ID": 15109,
+        "_UID": 15109,
         "_NAME": "ENTREE",
         "_SURVEY": "ResurgenceDeLAvenir.304.UltimaPatagonia",
         "_SURFACE": 0,
@@ -14024,8 +14427,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9357,
-        "_UID": 9357,
+        "_ID": 15218,
+        "_UID": 15218,
         "_NAME": "ENT_304001",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14033,16 +14436,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte de la Sucri\u00e8re",
+        "_LENGTH": "nan",
+        "_DEPTH": "-80",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte de la Sucri\u00e8re",
+        "_ALTITUDE": "399",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14055,8 +14458,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9358,
-        "_UID": 9358,
+        "_ID": 15219,
+        "_UID": 15219,
         "_NAME": "ENT_304002",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14064,16 +14467,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "oeil du Diable (ex perte majeure)",
+        "_LENGTH": "nan",
+        "_DEPTH": "-81",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "\u0152il du Diable (ex perte majeure)",
+        "_ALTITUDE": "315",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14086,8 +14489,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9359,
-        "_UID": 9359,
+        "_ID": 15220,
+        "_UID": 15220,
         "_NAME": "ENT_304003",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14095,16 +14498,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte de la Sucri\u00e8re inf\u00e9rieure",
+        "_LENGTH_TH": "213",
+        "_DEPTH_TH": "79",
+        "_LENGTH": "nan",
+        "_DEPTH": "-84",
         "_CAD_NUM": "304003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte de la Sucri\u00e8re inferieure",
+        "_ALTITUDE": "330",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14117,8 +14520,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9360,
-        "_UID": 9360,
+        "_ID": 15221,
+        "_UID": 15221,
         "_NAME": "ENT_304004",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14126,16 +14529,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence Avenir",
+        "_LENGTH_TH": "443",
+        "_DEPTH_TH": "32",
+        "_LENGTH": "700.0",
+        "_DEPTH": "12 - -39",
         "_CAD_NUM": "304004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Resurgence de l'Avenir",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14148,8 +14551,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9361,
-        "_UID": 9361,
+        "_ID": 15222,
+        "_UID": 15222,
         "_NAME": "ENT_304005",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14157,16 +14560,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TC1",
+        "_LENGTH": "nan",
+        "_DEPTH": "-40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "TC1",
+        "_ALTITUDE": "484",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14179,8 +14582,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9362,
-        "_UID": 9362,
+        "_ID": 15223,
+        "_UID": 15223,
         "_NAME": "ENT_304006",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14188,16 +14591,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TC2",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "TC2",
+        "_ALTITUDE": "488",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14210,8 +14613,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9363,
-        "_UID": 9363,
+        "_ID": 15224,
+        "_UID": 15224,
         "_NAME": "ENT_304007",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14219,16 +14622,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TC3",
+        "_LENGTH": "nan",
+        "_DEPTH": "-65",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304007",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "TC3",
+        "_ALTITUDE": "544",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14241,8 +14644,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9364,
-        "_UID": 9364,
+        "_ID": 15225,
+        "_UID": 15225,
         "_NAME": "ENT_304008",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14250,16 +14653,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TC4",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "TC4",
+        "_ALTITUDE": "533",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14272,8 +14675,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9365,
-        "_UID": 9365,
+        "_ID": 15226,
+        "_UID": 15226,
         "_NAME": "ENT_304009",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14281,16 +14684,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TC5",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "TC5",
+        "_ALTITUDE": "533",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14303,8 +14706,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9366,
-        "_UID": 9366,
+        "_ID": 15227,
+        "_UID": 15227,
         "_NAME": "ENT_304010",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14312,16 +14715,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "TC6",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "TC6",
+        "_ALTITUDE": "522",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14334,8 +14737,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9367,
-        "_UID": 9367,
+        "_ID": 15228,
+        "_UID": 15228,
         "_NAME": "ENT_304011",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14343,16 +14746,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Pacifico",
+        "_LENGTH": "nan",
+        "_DEPTH": "-196",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304011",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre Pacifico",
+        "_ALTITUDE": "386",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14365,8 +14768,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9368,
-        "_UID": 9368,
+        "_ID": 15229,
+        "_UID": 15229,
         "_NAME": "ENT_304012",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14374,16 +14777,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pas de nom",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304012",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Pas de nom",
+        "_ALTITUDE": "372",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14396,8 +14799,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9369,
-        "_UID": 9369,
+        "_ID": 15230,
+        "_UID": 15230,
         "_NAME": "ENT_304013",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14405,16 +14808,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pas de nom",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304013",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Pas de nom",
+        "_ALTITUDE": "344",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14427,8 +14830,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9370,
-        "_UID": 9370,
+        "_ID": 15231,
+        "_UID": 15231,
         "_NAME": "ENT_304014",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14436,16 +14839,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pas de nom",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304014",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Pas de nom",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14458,8 +14861,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9371,
-        "_UID": 9371,
+        "_ID": 15232,
+        "_UID": 15232,
         "_NAME": "ENT_304015",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14467,16 +14870,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte du col 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304015",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte du col 1",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14489,8 +14892,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9372,
-        "_UID": 9372,
+        "_ID": 15233,
+        "_UID": 15233,
         "_NAME": "ENT_304016",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14498,16 +14901,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte du col 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304016",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte du col 2",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14520,8 +14923,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9373,
-        "_UID": 9373,
+        "_ID": 15234,
+        "_UID": 15234,
         "_NAME": "ENT_304017",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14529,16 +14932,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Igue du Midi",
+        "_LENGTH": "nan",
+        "_DEPTH": "-58",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304017",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Igue du Midi",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14551,8 +14954,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9374,
-        "_UID": 9374,
+        "_ID": 15235,
+        "_UID": 15235,
         "_NAME": "ENT_304018",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14560,16 +14963,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Igue Enviluc",
+        "_LENGTH": "nan",
+        "_DEPTH": "-13",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304018",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Igue Enviluc",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14582,8 +14985,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9375,
-        "_UID": 9375,
+        "_ID": 15236,
+        "_UID": 15236,
         "_NAME": "ENT_304019",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14591,16 +14994,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva de la Manana",
+        "_LENGTH": "nan",
+        "_DEPTH": "-11",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304019",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva de la Ma\u00f1ana",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14613,8 +15016,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9376,
-        "_UID": 9376,
+        "_ID": 15237,
+        "_UID": 15237,
         "_NAME": "ENT_304020",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14622,16 +15025,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Trou du Cairn",
+        "_LENGTH": "nan",
+        "_DEPTH": "-40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304020",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Trou du Cairn",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14644,8 +15047,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9377,
-        "_UID": 9377,
+        "_ID": 15238,
+        "_UID": 15238,
         "_NAME": "ENT_304021",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14653,16 +15056,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre des Trois Arches",
+        "_LENGTH": "nan",
+        "_DEPTH": "-42",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304021",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre des Trois Arches",
+        "_ALTITUDE": "483",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14675,8 +15078,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9378,
-        "_UID": 9378,
+        "_ID": 15239,
+        "_UID": 15239,
         "_NAME": "ENT_304022",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14684,16 +15087,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre 2 spits pour Rien",
+        "_LENGTH": "nan",
+        "_DEPTH": "-33",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304022",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre \"2 spits pour Rien\"",
+        "_ALTITUDE": "358",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14706,8 +15109,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9379,
-        "_UID": 9379,
+        "_ID": 15240,
+        "_UID": 15240,
         "_NAME": "ENT_304023",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14715,16 +15118,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre No Futur",
+        "_LENGTH": "nan",
+        "_DEPTH": "-40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304023",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre No Futur",
+        "_ALTITUDE": "438",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14737,8 +15140,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9380,
-        "_UID": 9380,
+        "_ID": 15241,
+        "_UID": 15241,
         "_NAME": "ENT_304024",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14746,16 +15149,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Retour vers le Futur",
+        "_LENGTH": "133.0",
+        "_DEPTH": "-61",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304024",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre Retour vers le Futur",
+        "_ALTITUDE": "412",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14768,8 +15171,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9381,
-        "_UID": 9381,
+        "_ID": 15242,
+        "_UID": 15242,
         "_NAME": "ENT_304025",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14777,16 +15180,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 13",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304025",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 13",
+        "_ALTITUDE": "325",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14799,8 +15202,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9382,
-        "_UID": 9382,
+        "_ID": 15243,
+        "_UID": 15243,
         "_NAME": "ENT_304026",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14808,16 +15211,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 12",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304026",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 12",
+        "_ALTITUDE": "387",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14830,8 +15233,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9383,
-        "_UID": 9383,
+        "_ID": 15244,
+        "_UID": 15244,
         "_NAME": "ENT_304027",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14839,16 +15242,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 12bis",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304027",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 12bis",
+        "_ALTITUDE": "387",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14861,8 +15264,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9384,
-        "_UID": 9384,
+        "_ID": 15245,
+        "_UID": 15245,
         "_NAME": "ENT_304028",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14870,16 +15273,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304028",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 3",
+        "_ALTITUDE": "368",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14892,8 +15295,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9385,
-        "_UID": 9385,
+        "_ID": 15246,
+        "_UID": 15246,
         "_NAME": "ENT_304029",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14901,16 +15304,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 4",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304029",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 4",
+        "_ALTITUDE": "380",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14923,8 +15326,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9386,
-        "_UID": 9386,
+        "_ID": 15247,
+        "_UID": 15247,
         "_NAME": "ENT_304030",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14932,16 +15335,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte du Futur",
+        "_LENGTH_TH": "701",
+        "_DEPTH_TH": "366",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
         "_CAD_NUM": "304030",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre Futur 1",
+        "_ALTITUDE": "545",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14954,8 +15357,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9387,
-        "_UID": 9387,
+        "_ID": 15248,
+        "_UID": 15248,
         "_NAME": "ENT_304031",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14963,16 +15366,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Futur 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304031",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre Futur 2",
+        "_ALTITUDE": "562",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14985,8 +15388,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9388,
-        "_UID": 9388,
+        "_ID": 15249,
+        "_UID": 15249,
         "_NAME": "ENT_304032",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14994,16 +15397,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre N1 Sommet 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "-40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304032",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre N\u00b01 Sommet 3",
+        "_ALTITUDE": "554",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15016,8 +15419,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9389,
-        "_UID": 9389,
+        "_ID": 15250,
+        "_UID": 15250,
         "_NAME": "ENT_304033",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15025,16 +15428,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pas de nom",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304033",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Pas de nom",
+        "_ALTITUDE": "557",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15047,8 +15450,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9390,
-        "_UID": 9390,
+        "_ID": 15251,
+        "_UID": 15251,
         "_NAME": "ENT_304034",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15056,16 +15459,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre n3 sommet 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "-16",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304034",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre n\u00b03 sommet 3",
+        "_ALTITUDE": "54",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15078,8 +15481,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9391,
-        "_UID": 9391,
+        "_ID": 15252,
+        "_UID": 15252,
         "_NAME": "ENT_304035",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15087,16 +15490,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Machu-Pichu",
+        "_LENGTH": "214.0",
+        "_DEPTH": "16 - -4",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304035",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Machu-Pichu",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15109,8 +15512,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9392,
-        "_UID": 9392,
+        "_ID": 15253,
+        "_UID": 15253,
         "_NAME": "ENT_304036",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15118,16 +15521,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Un cul de plus _ explorer",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304036",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre \"Un cul de plus \u00e0 explorer\"",
+        "_ALTITUDE": "399",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15140,8 +15543,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9393,
-        "_UID": 9393,
+        "_ID": 15254,
+        "_UID": 15254,
         "_NAME": "ENT_304037",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15149,16 +15552,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre pr??s du camp du Futur",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304037",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre pr\u00e8s du camp du Futur",
+        "_ALTITUDE": "407",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15171,8 +15574,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9394,
-        "_UID": 9394,
+        "_ID": 15255,
+        "_UID": 15255,
         "_NAME": "ENT_304038",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15180,16 +15583,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 14",
+        "_LENGTH": "nan",
+        "_DEPTH": "-60",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304038",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 14",
+        "_ALTITUDE": "347",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15202,8 +15605,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9395,
-        "_UID": 9395,
+        "_ID": 15256,
+        "_UID": 15256,
         "_NAME": "ENT_304039",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15211,16 +15614,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva del Condor",
+        "_LENGTH": "nan",
+        "_DEPTH": "-110",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304039",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva del Condor",
+        "_ALTITUDE": "230",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15233,8 +15636,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9396,
-        "_UID": 9396,
+        "_ID": 15257,
+        "_UID": 15257,
         "_NAME": "ENT_304040",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15242,16 +15645,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Sumidero Escondido",
+        "_LENGTH": "174.0",
+        "_DEPTH": "-55",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304040",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Sumdiero Escondido",
+        "_ALTITUDE": "106",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15264,8 +15667,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9397,
-        "_UID": 9397,
+        "_ID": 15258,
+        "_UID": 15258,
         "_NAME": "ENT_304041",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15273,16 +15676,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Surgencia Estrella",
+        "_LENGTH": "nan",
+        "_DEPTH": "20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304041",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Surgencia Estrella",
+        "_ALTITUDE": "65",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15295,8 +15698,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9398,
-        "_UID": 9398,
+        "_ID": 15259,
+        "_UID": 15259,
         "_NAME": "ENT_304042",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15304,16 +15707,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Estrella",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304042",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Estrella",
+        "_ALTITUDE": "95",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15326,8 +15729,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9399,
-        "_UID": 9399,
+        "_ID": 15260,
+        "_UID": 15260,
         "_NAME": "ENT_304043",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15335,16 +15738,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte perdue",
+        "_LENGTH": "nan",
+        "_DEPTH": "-10",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304043",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte perdue",
+        "_ALTITUDE": "106",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15357,8 +15760,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9400,
-        "_UID": 9400,
+        "_ID": 15261,
+        "_UID": 15261,
         "_NAME": "ENT_304044",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15366,16 +15769,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre Explor\u00e9vitefait",
+        "_LENGTH": "nan",
+        "_DEPTH": "-60",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304044",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre \"Explorevitefait\"",
+        "_ALTITUDE": "101",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15388,8 +15791,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9401,
-        "_UID": 9401,
+        "_ID": 15262,
+        "_UID": 15262,
         "_NAME": "ENT_304045",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15397,16 +15800,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Puits 1 Jean-Phi",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304045",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Puits 1 Jean-Phi",
+        "_ALTITUDE": "250",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15419,8 +15822,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9402,
-        "_UID": 9402,
+        "_ID": 15263,
+        "_UID": 15263,
         "_NAME": "ENT_304046",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15428,16 +15831,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Pozo Dyke (System de los Tubas)",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304046",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Pozo Dyke (System de los Tubas)",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15450,8 +15853,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9403,
-        "_UID": 9403,
+        "_ID": 15264,
+        "_UID": 15264,
         "_NAME": "ENT_304047",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15459,16 +15862,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304047",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 1",
+        "_ALTITUDE": "276",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15481,8 +15884,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9404,
-        "_UID": 9404,
+        "_ID": 15265,
+        "_UID": 15265,
         "_NAME": "ENT_304048",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15490,16 +15893,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 11",
+        "_LENGTH": "nan",
+        "_DEPTH": "-30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304048",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 11",
+        "_ALTITUDE": "260",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15512,8 +15915,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9405,
-        "_UID": 9405,
+        "_ID": 15266,
+        "_UID": 15266,
         "_NAME": "ENT_304049",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15521,16 +15924,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 111",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304049",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 111",
+        "_ALTITUDE": "258",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15543,8 +15946,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9406,
-        "_UID": 9406,
+        "_ID": 15267,
+        "_UID": 15267,
         "_NAME": "ENT_304050",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15552,16 +15955,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 113",
+        "_LENGTH": "nan",
+        "_DEPTH": "-15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304050",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 113",
+        "_ALTITUDE": "299",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15574,8 +15977,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9407,
-        "_UID": 9407,
+        "_ID": 15268,
+        "_UID": 15268,
         "_NAME": "ENT_304051",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15583,16 +15986,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 114",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304051",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 114",
+        "_ALTITUDE": "259",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15605,8 +16008,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9408,
-        "_UID": 9408,
+        "_ID": 15269,
+        "_UID": 15269,
         "_NAME": "ENT_304052",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15614,16 +16017,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 112 ; Les myst\u00e8res de l'ouest",
+        "_LENGTH": "216.0",
+        "_DEPTH": "-71",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304052",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 112 ; Les myst\u00e8res de l'ouest",
+        "_ALTITUDE": "291",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15636,8 +16039,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9409,
-        "_UID": 9409,
+        "_ID": 15270,
+        "_UID": 15270,
         "_NAME": "ENT_304053",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15645,16 +16048,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du Robinet",
+        "_LENGTH": "230.0",
+        "_DEPTH": "-91",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304053",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Gouffre du Robinet",
+        "_ALTITUDE": "456",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15667,8 +16070,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9410,
-        "_UID": 9410,
+        "_ID": 15271,
+        "_UID": 15271,
         "_NAME": "ENT_304054",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15676,16 +16079,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva del Sol (Arc20)",
+        "_LENGTH_TH": "105",
+        "_DEPTH_TH": "68",
+        "_LENGTH": "140.0",
+        "_DEPTH": "-100",
         "_CAD_NUM": "304054",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 20 ou gouffre du Soleil",
+        "_ALTITUDE": "212",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15698,8 +16101,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9411,
-        "_UID": 9411,
+        "_ID": 15272,
+        "_UID": 15272,
         "_NAME": "ENT_304055",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15707,16 +16110,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 19",
+        "_LENGTH": "nan",
+        "_DEPTH": "-50",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304055",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 19",
+        "_ALTITUDE": "229",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15729,8 +16132,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9412,
-        "_UID": 9412,
+        "_ID": 15273,
+        "_UID": 15273,
         "_NAME": "ENT_304056",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15738,16 +16141,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 18",
+        "_LENGTH": "nan",
+        "_DEPTH": "-37",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304056",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 18",
+        "_ALTITUDE": "224",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15760,8 +16163,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9413,
-        "_UID": 9413,
+        "_ID": 15274,
+        "_UID": 15274,
         "_NAME": "ENT_304057",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15769,16 +16172,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Arc 17",
+        "_LENGTH": "nan",
+        "_DEPTH": "-20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304057",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Arc 17",
+        "_ALTITUDE": "300",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15791,8 +16194,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9414,
-        "_UID": 9414,
+        "_ID": 15275,
+        "_UID": 15275,
         "_NAME": "ENT_304058",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15800,16 +16203,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Perte Col 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304058",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte Col 1",
+        "_ALTITUDE": "482",
+        "_EXPED": "UP2014",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15822,8 +16225,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9415,
-        "_UID": 9415,
+        "_ID": 15276,
+        "_UID": 15276,
         "_NAME": "ENT_401001",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15831,16 +16234,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MoulinReveBleu",
+        "_LENGTH": "nan",
+        "_DEPTH": "32",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401001",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Moulin R\u00eave Bleu",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15853,8 +16256,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9416,
-        "_UID": 9416,
+        "_ID": 15277,
+        "_UID": 15277,
         "_NAME": "ENT_401002",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15862,16 +16265,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "PerteSaloude",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401002",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Perte Saloude",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15884,8 +16287,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9417,
-        "_UID": 9417,
+        "_ID": 15278,
+        "_UID": 15278,
         "_NAME": "ENT_401003",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15893,16 +16296,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "MoulinDeGlace",
+        "_LENGTH": "nan",
+        "_DEPTH": "8",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401003",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Moulin de glace",
+        "_ALTITUDE": "122",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15915,8 +16318,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9418,
-        "_UID": 9418,
+        "_ID": 15279,
+        "_UID": 15279,
         "_NAME": "ENT_401004",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15924,16 +16327,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Lac2",
+        "_LENGTH": "nan",
+        "_DEPTH": "12",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401004",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Lac 2",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15946,8 +16349,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9419,
-        "_UID": 9419,
+        "_ID": 15280,
+        "_UID": 15280,
         "_NAME": "ENT_401005",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15955,16 +16358,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Lac Tic et Tac",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401005",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Lac Tic et Tac",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -15977,8 +16380,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9420,
-        "_UID": 9420,
+        "_ID": 15281,
+        "_UID": 15281,
         "_NAME": "ENT_401006",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -15986,16 +16389,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Esperanza",
+        "_LENGTH": "nan",
+        "_DEPTH": "25",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401006",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Esperanza",
+        "_ALTITUDE": "250",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16008,8 +16411,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9421,
-        "_UID": 9421,
+        "_ID": 15282,
+        "_UID": 15282,
         "_NAME": "ENT_401007",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16017,16 +16420,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Travers\u00e9e de la Cascade",
+        "_LENGTH": "nan",
+        "_DEPTH": "3",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401007",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Traversee de la Cascade",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16039,8 +16442,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9422,
-        "_UID": 9422,
+        "_ID": 15283,
+        "_UID": 15283,
         "_NAME": "ENT_401008",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16048,16 +16451,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "L'abri sous Glace",
+        "_LENGTH": "nan",
+        "_DEPTH": "2",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401008",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "L'abri sous glace",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16070,8 +16473,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9423,
-        "_UID": 9423,
+        "_ID": 15284,
+        "_UID": 15284,
         "_NAME": "ENT_401009",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16079,16 +16482,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Salto del Agua",
+        "_LENGTH": "nan",
+        "_DEPTH": "8",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401009",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Salto del Agua",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16101,8 +16504,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9424,
-        "_UID": 9424,
+        "_ID": 15285,
+        "_UID": 15285,
         "_NAME": "ENT_401010",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16110,16 +16513,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Moulin Abou",
+        "_LENGTH": "nan",
+        "_DEPTH": "16",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401010",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Moulin Abou",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16132,8 +16535,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9425,
-        "_UID": 9425,
+        "_ID": 15286,
+        "_UID": 15286,
         "_NAME": "ENT_401011",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16141,16 +16544,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Moulin Tapis Volant",
+        "_LENGTH": "nan",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401011",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Moulin Tapis Volant",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16163,8 +16566,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9426,
-        "_UID": 9426,
+        "_ID": 15287,
+        "_UID": 15287,
         "_NAME": "ENT_401012",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16172,16 +16575,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Travers\u00e9e",
+        "_LENGTH": "nan",
+        "_DEPTH": "10",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401012",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Traversee",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16194,8 +16597,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9427,
-        "_UID": 9427,
+        "_ID": 15288,
+        "_UID": 15288,
         "_NAME": "ENT_401013",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16203,16 +16606,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Moulin du Champignon",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401013",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Moulin du Champignon",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16225,8 +16628,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9428,
-        "_UID": 9428,
+        "_ID": 15289,
+        "_UID": 15289,
         "_NAME": "ENT_401014",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16234,16 +16637,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Traversee du meandre 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "4",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401014",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Traversee du meandre 1",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16256,8 +16659,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9429,
-        "_UID": 9429,
+        "_ID": 15290,
+        "_UID": 15290,
         "_NAME": "ENT_401015",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16265,16 +16668,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Traversee du meandre 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "2",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401015",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Traversee du meandre 2",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16287,8 +16690,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9430,
-        "_UID": 9430,
+        "_ID": 15291,
+        "_UID": 15291,
         "_NAME": "ENT_401016",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16296,16 +16699,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Moulin de glace",
+        "_LENGTH": "nan",
+        "_DEPTH": "7",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401016",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Moulin de glace",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16318,8 +16721,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9431,
-        "_UID": 9431,
+        "_ID": 15292,
+        "_UID": 15292,
         "_NAME": "ENT_401017",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16327,16 +16730,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Moulin de la Conception",
+        "_LENGTH": "nan",
+        "_DEPTH": "?",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401017",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Moulin de la Conception",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16349,8 +16752,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9432,
-        "_UID": 9432,
+        "_ID": 15293,
+        "_UID": 15293,
         "_NAME": "ENT_401018",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16358,16 +16761,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Tempanos - Entr\u00e9e 1",
+        "_LENGTH": "nan",
+        "_DEPTH": "58",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401018",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Tempanos - Entree 1",
+        "_ALTITUDE": "48",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16380,8 +16783,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9433,
-        "_UID": 9433,
+        "_ID": 15294,
+        "_UID": 15294,
         "_NAME": "ENT_401019",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16389,16 +16792,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Tempanos - Entr\u00e9e 2",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401019",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Tempanos - Entree 2",
+        "_ALTITUDE": "36",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16411,8 +16814,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9434,
-        "_UID": 9434,
+        "_ID": 15295,
+        "_UID": 15295,
         "_NAME": "ENT_401020",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16420,16 +16823,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Tempanos - Entr\u00e9e 3",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401020",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Cueva Tempanos - Entree 3",
+        "_ALTITUDE": "58",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -16442,8 +16845,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 9435,
-        "_UID": 9435,
+        "_ID": 15296,
+        "_UID": 15296,
         "_NAME": "ENT_401021",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -16451,16 +16854,109 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Fuite Prometteuse",
+        "_LENGTH": "nan",
+        "_DEPTH": "22",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401021",
-        "_CAVENAME": "not known",
-        "_LENGTH": "not known",
-        "_DEPTH": "not known",
-        "_LENGTH_TH": "not known",
-        "_DEPTH_TH": "not known",
-        "_ALTITUDE": "not known",
-        "_EXPED": "not known",
-        "_EXPLORATEURS": "not known",
-        "_URL": "not known"
+        "_CAVENAME": "Fuite Prometteuse",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2019",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58796388532772,
+          -50.686135930496036
+        ]
+      },
+      "properties": {
+        "_ID": 15334,
+        "_UID": 15334,
+        "_NAME": "ENT_402007",
+        "_SURVEY": "402.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Moulin de la Science",
+        "_LENGTH_TH": "14",
+        "_DEPTH_TH": "8",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_CAD_NUM": "402007",
+        "_CAVENAME": "CampHPS35Nord",
+        "_ALTITUDE": "468.9",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57402712264593,
+          -50.691020608955746
+        ]
+      },
+      "properties": {
+        "_ID": 15335,
+        "_UID": 15335,
+        "_NAME": "ENT_402010",
+        "_SURVEY": "402.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Perte de Rascarcapak",
+        "_LENGTH": "50.0",
+        "_DEPTH": "50",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "402010",
+        "_CAVENAME": "Perte de Rascarcapac",
+        "_ALTITUDE": "491.8",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Tanguy Arnauld Lolo",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55520667089884,
+          -50.62568423862623
+        ]
+      },
+      "properties": {
+        "_ID": 15502,
+        "_UID": 15502,
+        "_NAME": "ENT_403008",
+        "_SURVEY": "403.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Grotte Lapis Lazuli",
+        "_LENGTH_TH": "80",
+        "_DEPTH_TH": "8",
+        "_LENGTH": "80.0",
+        "_DEPTH": "5",
+        "_CAD_NUM": "403008",
+        "_CAVENAME": "GrotteLapisLazuli",
+        "_ALTITUDE": "27",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Serge Caillault",
+        "_URL": "https://tr1813.github.io/"
       }
     }
   ]
