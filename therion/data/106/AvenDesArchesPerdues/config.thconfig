@@ -1,23 +1,72 @@
-encoding  utf-8
-
 source AvenDesArchesPerdues.th
 
-
+input ../../../layouts/detailed-p.thl
 input ../../../layouts/detailed-e.thl
 
 layout local
-    copy detailed-e
-    scale 1 1000 
-    symbol-color point station [70 0 0]
-    symbol-assign point station AUT
-    symbol-assign line survey AUT
-    symbol-color line survey [70 0 0]
-    map-header 0 100 se
+  copy detailed-p
+  scale 1 500
+  legend off
+  map-header 0 0 off
+  symbol-show point label
+  symbol-hide point passage-height
+  symbol-assign line wall:blocks MYEE
+  
+  symbol-hide point station-name 
+  symbol-hide line survey
+  symbol-hide point station
+  color map-bg transparent
+  cs UTM18S
+  grid-origin 488596 4451785 0 m 
 endlayout 
 
-select m-all-p@AvenDesArchesPerdues
-lang fr
-# OUTPUTS 
-export model -o outputs/AvenDesArchesPerdues.3d 
-export map -o outputs/AvenDesArchesPerdues.pdf -projection plan -layout-debug station-names -layout local
-export map -o outputs/AvenDesArchesPerdues-s.pdf -projection extended -layout-debug station-names -layout local
+layout plan 
+    copy local 
+    color map-bg [85 85 85]
+      symbol-assign line wall:blocks MY
+
+  code tex-map
+  #\framethickness=0.5mm
+  \def\xcenter{-99}
+  \def\ycenter{75}
+  \def\xscale{40}
+  \def\yscale{40}
+  \def\cadnum{106022}
+  \legendwidth=5cm
+  # change this
+  \def\customheader{
+  \size[13]\bf \the\cavename{} / \cadnum \ss
+  \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
+  \par{ \quad} 
+  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z :  m}  \ss
+  \par{ \quad} 
+  \par \si Développement :\ss{ \the\cavelength}
+  \par \si Dénivellation :\ss{ \the\cavedepth}
+  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques :\ss{ } Jules, Charlotte, Franck
+  \par Jules, Charlotte, Franck, Alex, Jess, Olivier, Joël, Natalia, Tanguy
+  \par \si Report et dessins :\ss{  Tanguy Racine}}
+  
+  \def\maplayout{
+  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter - 3*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter-\xscale\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/AvenDesArchesPerdues-ee.pdf"}}}
+  \legendbox{\the\numexpr\xcenter+65\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+   \legendbox{\the\numexpr\xcenter+205\relax}{\the\numexpr\ycenter -10 \relax}{N}{\northarrow}
+ }
+  endcode
+endlayout
+
+
+
+
+# OUTPUTS
+
+
+
+#export model -o outputs/AvenDesArchesPerdues.3d -fmt survex
+export model -o outputs/AvenDesArchesPerdues.lox
+#export atlas -o outputs/AvenDesArchesPerdues.pdf -projection plan -layout local-p
+export map -o outputs/AvenDesArchesPerdues-ee.pdf -projection extended -layout local
+
+export map -o outputs/AvenDesArchesPerdues.pdf -projection plan -layout plan
