@@ -5,7 +5,9 @@ survey Entree -title "Entree du GouffrePlusPlus"
     cs long-lat
     # fix 0 -75.171803 -50.086514 207
     date 2023.02.07 
-    # team Jess, Cedric, Cha 
+    team "Jessica Morin-Buote"
+    team "Cédric Rocques"
+    team "Charlotte Honiat" 
     units length meters
     units compass clino degrees
     data normal from to length compass clino

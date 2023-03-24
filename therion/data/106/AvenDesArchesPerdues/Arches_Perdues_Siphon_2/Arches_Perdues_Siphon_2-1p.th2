@@ -550,7 +550,7 @@ area water
   1p-a13
 endarea
 
-line border
+line contour
   -111.74 373.65
   -99.62 368.15
   -90.09 364.24
@@ -561,7 +561,7 @@ line border
   -41.27 373.76
 endline
 
-line border
+line contour
   -75.47 175.71
   -64.28 173.14
   -51.40 172.57
@@ -573,7 +573,7 @@ line border
   13.05 205.68
 endline
 
-line border
+line contour
   -20.27 1.22
   -9.20 1.86
   4.86 4.45
@@ -584,7 +584,7 @@ line border
   48.80 30.97
 endline
 
-line border
+line contour
   153.63 -78.74
   162.16 -72.83
   170.44 -64.11
@@ -593,7 +593,7 @@ line border
   186.84 -37.64
 endline
 
-line border
+line contour
   140.09 -153.02
   149.76 -160.48
   161.48 -166.99
@@ -611,7 +611,7 @@ line border
   285.15 -163.01
 endline
 
-line border
+line contour
   88.96 -281.05
   98.31 -289.52
   106.26 -296.46

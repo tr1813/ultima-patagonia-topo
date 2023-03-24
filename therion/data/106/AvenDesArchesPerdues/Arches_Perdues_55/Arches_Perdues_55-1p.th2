@@ -338,7 +338,7 @@ line wall
   52.77 -295.67
 endline
 
-line border
+line contour
   -284.04 -614.97
   -257.87 -618.62
   -234.34 -625.71
@@ -354,7 +354,7 @@ line border
   -37.33 -745.64
 endline
 
-line border
+line contour
   -144.24 -518.11
   -120.87 -519.81
   -97.46 -526.21
@@ -369,7 +369,7 @@ line border
   70.49 -628.68
 endline
 
-line border
+line contour
   66.81 -355.93
   89.15 -358.70
   109.85 -362.69
@@ -382,7 +382,7 @@ line border
   249.67 -443.90
 endline
 
-line border
+line contour
   214.08 -128.58
   236.40 -134.31
   263.16 -141.43
@@ -394,7 +394,7 @@ line border
   383.11 -223.47
 endline
 
-line border
+line contour
   399.49 47.35
   419.83 49.01
   438.84 46.64
@@ -408,7 +408,7 @@ line border
   607.04 -17.97
 endline
 
-line border
+line contour
   558.30 198.48
   571.13 208.36
   588.01 219.06
@@ -419,7 +419,7 @@ line border
   682.84 234.64
 endline
 
-line border
+line contour
   377.47 167.70
   395.70 176.70
   414.12 185.30
@@ -429,7 +429,7 @@ line border
   482.89 202.33
 endline
 
-line border
+line contour
   335.92 324.67
   354.18 335.34
   371.79 343.04
@@ -439,7 +439,7 @@ line border
   452.11 357.76
 endline
 
-line border
+line contour
   535.98 339.29
   550.35 350.58
   568.84 359.95
@@ -511,7 +511,7 @@ line wall
   -466.24 -804.97
 endline
 
-line border
+line contour
   -330.41 -663.82
   -315.19 -666.91
   -301.74 -670.50
@@ -544,7 +544,7 @@ line rock-border -close on
   -274.27 -755.13
 endline
 
-line border
+line contour
   -356.32 -694.05
   -342.95 -700.12
   -331.25 -709.25
@@ -635,7 +635,7 @@ line wall
   -578.32 -1135.85
 endline
 
-line border
+line contour
   -492.84 -1079.88
   -477.63 -1077.95
   -461.06 -1079.77
@@ -654,7 +654,7 @@ line border
   -302.79 -1208.73
 endline
 
-line border
+line contour
   -430.35 -958.77
   -411.26 -957.48
   -390.84 -960.61
@@ -674,7 +674,7 @@ line border
   -237.08 -1106.94
 endline
 
-line border
+line contour
   -327.27 -832.50
   -313.94 -836.26
   -299.18 -842.08
@@ -1123,14 +1123,14 @@ endline
 
 point -1521.34 -2315.26 label -text "Hydro-mg"
 
-line border
+line contour
   -640.29 -1175.47
   -612.40 -1189.97
   -592.09 -1215.41
   -581.39 -1239.73
 endline
 
-line border
+line contour
   -924.10 -1352.18
   -893.74 -1350.84
   -862.94 -1361.34
@@ -1139,7 +1139,7 @@ line border
   -794.34 -1416.34
 endline
 
-line border
+line contour
   -1090.10 -1595.83
   -1054.62 -1598.29
   -1026.34 -1608.89
@@ -1147,7 +1147,7 @@ line border
   -976.40 -1642.60
 endline
 
-line border
+line contour
   -1306.36 -1871.44
   -1282.81 -1877.10
   -1262.15 -1884.62
@@ -1155,14 +1155,14 @@ line border
   -1222.45 -1908.90
 endline
 
-line border
+line contour
   -1318.11 -2061.29
   -1299.47 -2052.98
   -1278.96 -2051.90
   -1257.07 -2054.72
 endline
 
-line border
+line contour
   -1377.27 -2173.05
   -1356.90 -2164.74
   -1328.81 -2162.72
@@ -1172,7 +1172,7 @@ line border
   -1249.56 -2178.68
 endline
 
-line border
+line contour
   -1425.17 -2315.79
   -1402.17 -2321.26
   -1380.44 -2328.71
@@ -1183,7 +1183,7 @@ line border
   -1301.21 -2403.13
 endline
 
-line border
+line contour
   -1484.33 -2378.71
   -1462.24 -2384.99
   -1441.49 -2397.25
@@ -1285,7 +1285,7 @@ endline
 
 point -1989.17 -2589.22 continuation
 
-line border
+line contour
   -1490.13 -2576.48
   -1473.76 -2567.93
   -1457.22 -2564.31
@@ -1297,7 +1297,7 @@ line border
   -1358.88 -2585.80
 endline
 
-line border
+line contour
   -1452.61 -2665.22
   -1437.70 -2661.02
   -1421.10 -2660.90
@@ -1306,7 +1306,7 @@ line border
   -1381.18 -2668.83
 endline
 
-line border
+line contour
   -1469.42 -2767.06
   -1454.29 -2758.41
   -1435.53 -2755.41
@@ -1467,7 +1467,7 @@ line wall
   -1476.84 -3196.28
 endline
 
-line border
+line contour
   -1525.94 -2974.03
   -1510.39 -2965.88
   -1495.35 -2962.75
@@ -1478,7 +1478,7 @@ line border
   -1417.67 -2972.53
 endline
 
-line border
+line contour
   -1471.06 -3155.98
   -1457.04 -3149.96
   -1438.96 -3146.20
@@ -1653,7 +1653,7 @@ line wall
   -1244.63 -4022.05
 endline
 
-line border
+line contour
   -1435.29 -3273.68
   -1418.40 -3262.66
   -1399.55 -3254.96
@@ -1661,14 +1661,14 @@ line border
   -1365.78 -3254.80
 endline
 
-line border
+line contour
   -1390.67 -3461.60
   -1373.82 -3448.89
   -1354.77 -3441.87
   -1332.32 -3438.43
 endline
 
-line border
+line contour
   -1381.23 -3715.60
   -1366.91 -3700.29
   -1348.17 -3690.13
@@ -1677,7 +1677,7 @@ line border
   -1292.98 -3669.26
 endline
 
-line border
+line contour
   -1280.01 -3950.22
   -1266.98 -3933.14
   -1247.89 -3918.95
