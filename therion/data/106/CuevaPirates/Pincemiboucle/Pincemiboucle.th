@@ -1,13 +1,14 @@
 # 2023.02.26 created by TopoDroid v 5.1.40
 
-survey Pincemiboucle -title "Pincemiboucle"
+survey PincemiBoucle -title "PincemiBoucle"
     # mdds08 74 anglais 
 
   centerline
     date 2023.02.25 
-    team "Alex"
-    team "jules"
-    team "Franck"
+    explo-date 2023.02.25
+    team "Alexandre Honiat"
+    team "Jules Clouzeau"
+    team "Franck Bréhier"
     units length meters
     units compass clino degrees
     data normal from to length compass clino

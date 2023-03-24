@@ -1,0 +1,3973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="Centre Terre"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>'2023-3-23T15:7:47Z'</time>
+<bounds minlat="-52" minlon="-72" maxlat="49" maxlon="-70"/>
+
+<wpt lat="-49.9998227" lon="-75.3326205">
+  <ele>2</ele>
+  <name>Abri</name>
+  <cmt>101001</cmt>
+  <desc>Occupation humaine</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1076985" lon="-75.3319965">
+  <ele>30</ele>
+  <name>Porche</name>
+  <cmt>102001</cmt>
+  <desc>3 entrees</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0963796" lon="-75.3428517">
+  <ele>5</ele>
+  <name>Abri</name>
+  <cmt>104001</cmt>
+  <desc>Occupation humaine</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0970375" lon="-75.3393471">
+  <ele>nan</ele>
+  <name>Cueva Rien</name>
+  <cmt>104002</cmt>
+  <desc>3 grottes</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0606938" lon="-75.2420198">
+  <ele>30</ele>
+  <name>Cueva Rapido1</name>
+  <cmt>105001</cmt>
+  <desc>2 entrees</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0606938" lon="-75.2420198">
+  <ele>30</ele>
+  <name>Cueva Rapido2</name>
+  <cmt>105002</cmt>
+  <desc>2 entrees</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0849868" lon="-75.1884803">
+  <ele>212</ele>
+  <name>Perte3GrandLac</name>
+  <cmt>105003</cmt>
+  <desc>Perte pointee par Franck et Cedric</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0861139" lon="-75.1975707">
+  <ele>171</ele>
+  <name>PE25</name>
+  <cmt>105004</cmt>
+  <desc>Perte sur contact potentiellement interessante, necessite travaux de stabilisation, objectif non prioritaire. Explore et pointe par Franck et Jessica le 02.02.2023, </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0862038" lon="-75.202799">
+  <ele>173</ele>
+  <name>PE26</name>
+  <cmt>105005</cmt>
+  <desc>Grosse perte bouchee, sur contact gres calcaires du secteur grand lac. Explore et pointe par Franck et Jessica le 02.02.2023, </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0902176" lon="-75.2064646">
+  <ele>17</ele>
+  <name>ResurgenceGrandLac1</name>
+  <cmt>105006</cmt>
+  <desc>Resurgence sur le grand lac a faire en neoprene. Exploree et pointee par Franck et Jessica le 03.02.2023.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0929848" lon="-75.2080982">
+  <ele>16</ele>
+  <name>ResurgenceGrandLac2</name>
+  <cmt>105007</cmt>
+  <desc>Resurgence sur le grand lac a faire en neoprene, entre les graviers et la plage. Exploree et pointee par Franck et Jessica le 03.02.2023.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0932992" lon="-75.2132724">
+  <ele>12</ele>
+  <name>ResurgenceGrandLac3</name>
+  <cmt>105008</cmt>
+  <desc>Resurgence sur le grand lac. Exploree et pointee par Franck et Jessica le 03.02.2023.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0869711" lon="-75.2256573">
+  <ele>14</ele>
+  <name>ResurgenceGrandLac4</name>
+  <cmt>105009</cmt>
+  <desc>Resurgence impenetrable avec siphon. Exploree et pointee par Franck et Jessica le 03.02.2023.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0824697" lon="-75.2278865">
+  <ele>31</ele>
+  <name>ResurgenceGrandLac5</name>
+  <cmt>105010</cmt>
+  <desc>Grosse resurgence sous-lacustre. Exploree et pointee par Franck et Jessica le 03.02.2023.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.077123" lon="-75.2301113">
+  <ele>24</ele>
+  <name>PerteDuGrandLac</name>
+  <cmt>105011</cmt>
+  <desc>Perte principale du grand lac. Exploree et pointee par Franck et Jessica le 03.02.2023.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0809221" lon="-75.1366939">
+  <ele>10</ele>
+  <name>Cueva Pirates</name>
+  <cmt>106001</cmt>
+  <desc>resurgence (courant d'air arrêt sur puits)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0906096" lon="-75.1357569">
+  <ele>70</ele>
+  <name>Porche</name>
+  <cmt>106002</cmt>
+  <desc>Porche</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0906096" lon="-75.1357569">
+  <ele>3</ele>
+  <name>Resurgence NoTime</name>
+  <cmt>106003</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0673734" lon="-75.1321701">
+  <ele>20</ele>
+  <name>Cueva Nutria</name>
+  <cmt>106004</cmt>
+  <desc>Occupation humaine</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0906096" lon="-75.1357569">
+  <ele>70</ele>
+  <name>Porche</name>
+  <cmt>106005</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0972522" lon="-75.1313714">
+  <ele>nan</ele>
+  <name>Grotte</name>
+  <cmt>106006</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0813082" lon="-75.1372122">
+  <ele>66</ele>
+  <name>Haciendas Salinas</name>
+  <cmt>106007</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0807579" lon="-75.1386502">
+  <ele>96</ele>
+  <name>Caracara</name>
+  <cmt>106008</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0750692" lon="-75.1563124">
+  <ele>186</ele>
+  <name>PE1</name>
+  <cmt>106009</cmt>
+  <desc>Plateau Egg 1; non descendu à cause de blocs instables</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0755126" lon="-75.1543434">
+  <ele>189</ele>
+  <name>PE2</name>
+  <cmt>106010</cmt>
+  <desc>Plateau Egg 2; environ 40 m avec un meandre retrecissant</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0755126" lon="-75.1543434">
+  <ele>201</ele>
+  <name>PE3</name>
+  <cmt>106011</cmt>
+  <desc>Plateau Egg 3; non descendu; blocs instables</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0768683" lon="-75.1493025">
+  <ele>224</ele>
+  <name>PE4</name>
+  <cmt>106012</cmt>
+  <desc>Plateau Egg 4; aussi PL22 bloque après 15 m</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0762912" lon="-75.1504607">
+  <ele>213</ele>
+  <name>PE5</name>
+  <cmt>106013</cmt>
+  <desc>Plateau Egg 5; puits entre deux canyons de surface; fin sur 10 m</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0769886" lon="-75.1727961">
+  <ele>226</ele>
+  <name>PE6</name>
+  <cmt>106014</cmt>
+  <desc>Plateau Egg 6</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0774798" lon="-75.175062">
+  <ele>218</ele>
+  <name>PE7</name>
+  <cmt>106015</cmt>
+  <desc>Plateau Egg 7</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0774985" lon="-75.1746148">
+  <ele>220</ele>
+  <name>PE8</name>
+  <cmt>106016</cmt>
+  <desc>Plateau Egg 8; trois entrees permettent accès. Bruit de rivière sous des blocs</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0763092" lon="-75.1699985">
+  <ele>225</ele>
+  <name>PE9</name>
+  <cmt>106017</cmt>
+  <desc>Plateau Egg 9; position hasardeuse?</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0763369" lon="-75.1498459">
+  <ele>216</ele>
+  <name>PE10</name>
+  <cmt>106018</cmt>
+  <desc>Deux puits fossiles</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0911147" lon="-75.156113">
+  <ele>325</ele>
+  <name>Los Tres Rios</name>
+  <cmt>106019</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0832916" lon="-75.1480365">
+  <ele>187</ele>
+  <name>Cueva del Dragon</name>
+  <cmt>106020</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0810008" lon="-75.1385391">
+  <ele>105</ele>
+  <name>Cueva del Zorro</name>
+  <cmt>106021</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0895295" lon="-75.1439374">
+  <ele>358</ele>
+  <name>AvenDesArchesPerdues</name>
+  <cmt>106022</cmt>
+  <desc>Gouffre en cours d'exploration, arret a moins 260, continue, fort courant d'air aspirant. Explore depuis la base du camp Egg.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0865416" lon="-75.171824">
+  <ele>238</ele>
+  <name>GouffrePlusPlus</name>
+  <cmt>106023</cmt>
+  <desc>Gouffre en cours d'exploration, arret a moins 50, continue, puits en pleine surface plane de calcaire.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.087727" lon="-75.1847028">
+  <ele>344</ele>
+  <name>PerteContact1</name>
+  <cmt>106024</cmt>
+  <desc>Perte au contact gres, non descendue, bon potentiel. Pointe par Franck Brehier, Cedric Roques </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0868924" lon="-75.1835114">
+  <ele>343</ele>
+  <name>PerteContact2</name>
+  <cmt>106025</cmt>
+  <desc>Perte au contact gres, non descendue, bon potentiel. Pointe par Franck Brehier, Cedric Roques </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0878023" lon="-75.1767491">
+  <ele>240</ele>
+  <name>GouffreAuxCometes</name>
+  <cmt>106026</cmt>
+  <desc>Gouffre pointe par Franck et Cedric, pres d'un champ de cometes et champignons de roche</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0875271" lon="-75.1682909">
+  <ele>241</ele>
+  <name>CampAvance1Egg</name>
+  <cmt>106027</cmt>
+  <desc>Camp avance mis en place durant l'expedition UP2023 par l'equipe de construction de cabane Egg.</desc>
+  <sym>Lodging</sym>
+</wpt>
+<wpt lat="-50.0859224" lon="-75.1581929">
+  <ele>272</ele>
+  <name>PerteSousLeLac</name>
+  <cmt>106028</cmt>
+  <desc>Lac et perte sur un P15 prometteur, pointe par Cedric sur VisoRando le 02.02.2023. Fait par Natalia, Laurence, Arnauld. P10 donne sur galerie, petite salle, fin sur etroiture horizontale.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0845643" lon="-75.151451">
+  <ele>247</ele>
+  <name>PE11</name>
+  <cmt>106029</cmt>
+  <desc>Zone de Dolines, gouffre au contact a voir. Pointe par Cedric le 02.02.2023</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0845771" lon="-75.1554068">
+  <ele>298</ele>
+  <name>PE12</name>
+  <cmt>106030</cmt>
+  <desc>Grosse entree verticale de plus de 15m, et depart horizontal a voir. Pointe par Cedric le 02.02.2023</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0840545" lon="-75.1560481">
+  <ele>301</ele>
+  <name>PE13</name>
+  <cmt>106031</cmt>
+  <desc>Gros gouffre a bon potentiel, pointe par Cedric le 02.02.2023</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0841529" lon="-75.1564818">
+  <ele>292</ele>
+  <name>PE14</name>
+  <cmt>106032</cmt>
+  <desc>Miniperte avec resonnance. Pointee par Cedric et Alex le 02.02.2023</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0835297" lon="-75.1648384">
+  <ele>294</ele>
+  <name>GouffreDuBowling</name>
+  <cmt>106033</cmt>
+  <desc>Gouffre dit du Bowling, avec grande verticale, pointe par Cedric et Alex le 02.02.2023</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0843207" lon="-75.1652185">
+  <ele>269</ele>
+  <name>PE16</name>
+  <cmt>106034</cmt>
+  <desc>Gouffre p30 pointe par Cedric et Alex le 03.02.2023</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0799709" lon="-75.1691729">
+  <ele>195</ele>
+  <name>AvenDesDeuxLacs</name>
+  <cmt>106035</cmt>
+  <desc>Tres belle perte, diametre de 10 m tres bon potentiel. par Cedric et Alex le 03.02.2023</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0803602" lon="-75.1674272">
+  <ele>225</ele>
+  <name>CreuxDuRavin</name>
+  <cmt>106036</cmt>
+  <desc>grondement d'eau, pointe par Cedric et Alex Honiat, trou de la jungle. Potentiel p20 ou p30, pointe 03.02.2023, cailloux instables, belle entree, cascade qui part derriere. </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.08193" lon="-75.1702421">
+  <ele>217</ele>
+  <name>PE17</name>
+  <cmt>106037</cmt>
+  <desc>fracture avec P15, pointe par Alex Honiat et Cedric le 03.02.2023, puits sur fracture classique de lapiaz, prometteur</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0837515" lon="-75.1731279">
+  <ele>195</ele>
+  <name>PE18</name>
+  <cmt>106038</cmt>
+  <desc>gouffre pres de cometes et champignons, pointe par Cedric et Alex Honiat, ouverture de la faille sur 50m, p20-30, prometteur. Pointe le 03.02.2023, a la suture foret, calcaire</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.084172" lon="-75.1745971">
+  <ele>186</ele>
+  <name>PE19</name>
+  <cmt>106039</cmt>
+  <desc>gouffre p15 avec vasque au fond du puits d'entree, bel ecoulement possible, suite non exploree, pointe par Cedric et Alex Honiat le 03.02.2023. Non descendu</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0844222" lon="-75.1757162">
+  <ele>199</ele>
+  <name>PE20</name>
+  <cmt>106040</cmt>
+  <desc>Perte oblique partant a 45 degres, sur faille en milieu de lapiaz. Proximite de champignons de roche.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0848377" lon="-75.1745156">
+  <ele>198</ele>
+  <name>PE21</name>
+  <cmt>106041</cmt>
+  <desc>Perte sur grand canyon et faille, p20-30 m, prometteur. Pointe par Alex Honiat et Cedric Roques le 03.02.2023, non descendu.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0851777" lon="-75.175691">
+  <ele>189</ele>
+  <name>PE22</name>
+  <cmt>106042</cmt>
+  <desc>p10 en bordure de foret avec depart visible au fond. Pointe par Alex Honiat et Cedric Roques le 03.02.2023, non descendu.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0868147" lon="-75.1756271">
+  <ele>210</ele>
+  <name>PE23</name>
+  <cmt>106043</cmt>
+  <desc>perte au contact de la vegetation. Pointe par Alex Honiat et Cedric Roques le 03.02.2023, non descendu.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0840584" lon="-75.166224">
+  <ele>247</ele>
+  <name>DentDuPiqueNique</name>
+  <cmt>106044</cmt>
+  <desc>Porche 3m de haut, 2m de large, pointe par Alex Honiat et Cedric Roques, meandre descendant dans petite tremie. Non topo, non explo le 03.02.2023</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0838702" lon="-75.1836815">
+  <ele>331</ele>
+  <name>PE24</name>
+  <cmt>106045</cmt>
+  <desc>Gouffre explore sur -30 Perte dans les calcaires proche du contact. Plan incline apres la doline d'entree. Pointe, explore par Franck et Jessica le 02.02.2023. Continuation derriere barrage de sediments, necessite corde, peu prometteur, a verifier.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.089798" lon="-75.1449811">
+  <ele>328</ele>
+  <name>GouffreDuRhinoceros</name>
+  <cmt>106046</cmt>
+  <desc>Gouffre circulaire, p20 ressaut p20 et deux ressauts,  arret a -35 sur tremie. Pointe et explore par Joel Tremoulet, Alex Andrieu le 31.01.2023, croquis par Joel.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0904773" lon="-75.1411667">
+  <ele>301</ele>
+  <name>TrouDuHaut</name>
+  <cmt>106047</cmt>
+  <desc>Gouffre sur une fracture, etroit. Pointe et explore par Joel Tremoulet et Alex Andrieu le 31.01.2023, Christine aussi la. Se retrecit sur la partie basse. Pincement sur bloc au fond. Estime -30, croquis de Joel, pas de courant d'air.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0851454" lon="-75.1471895">
+  <ele>211</ele>
+  <name>TrouDeFiamat</name>
+  <cmt>106048</cmt>
+  <desc>Un coup des italiens. Pointe par Joel, Christine et Alex le 29.01.2023, trou deja topographie par les Italiens, perte penetrable meandre avec jolies vasques. FIAMAT ecrit a l'entree (peinture blanche) </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0852512" lon="-75.1488113">
+  <ele>206</ele>
+  <name>Bramabio</name>
+  <cmt>106049</cmt>
+  <desc>Petite traversee a peine penetrable qui traverse une barre rocheuse.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0860838" lon="-75.1447462">
+  <ele>271</ele>
+  <name>PE25</name>
+  <cmt>106050</cmt>
+  <desc>p20 non descendu, pointe par Alex Andrieu et Joel Tremoulet, Christine Magot le 29.01.2023. A descendre.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0907326" lon="-75.145599">
+  <ele>325</ele>
+  <name>PE26</name>
+  <cmt>106051</cmt>
+  <desc>p15 bouche avec une tremie (gros cailloux) explore par Alex Andrieu le 29.01.2023</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0895478" lon="-75.1437222">
+  <ele>330.4</ele>
+  <name>PE27</name>
+  <cmt>106052</cmt>
+  <desc>p40 non descendu, a voir. Pointe par Alex Andrieu, Joel Tremoulet et Christine Magot le 29.01.2023. 4 m de diametre a l'entree, beau potentiel, plusieurs cannelures se jettent a l'interieur.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0890679" lon="-75.1724481">
+  <ele>243.1</ele>
+  <name>PE28</name>
+  <cmt>106053</cmt>
+  <desc>p30 non descendu, a voir. Pointe par Alex Andrieu, Joel Tremoulet et Christine Magot le 02.02.2023. 6 x 10 m de diametre a l'entree, beau potentiel, plusieurs cannelures se jettent a l'interieur et fort debit de perte.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0907242" lon="-75.1451097">
+  <ele>0</ele>
+  <name>PE28</name>
+  <cmt>106054</cmt>
+  <desc>Perte au fond d'une dalle, plusieurs cannelures viennent s'y jeter, meme par beau temps, ambiance aquatique, pointee par Olivier Guerard</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0870176" lon="-75.1597062">
+  <ele>262</ele>
+  <name>Perte25MetresNageLibre</name>
+  <cmt>106055</cmt>
+  <desc>Perte bien arrosee, petit torrent par temps de pluie, entree par une tremie, beau meandre descendant dans marbre, plaquages de galets cimentes en abondance. P12 apres 60 m, 100 m meandre non topos derriere, puis affluent remontant 30 m non topo, siphonant. Aval  termine sur etroiture arrosee. A refaire par beau temps.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0877765" lon="-75.1760081">
+  <ele>210</ele>
+  <name>PerteChampis</name>
+  <cmt>106056</cmt>
+  <desc>Canyon qui se jette dans une perte. Beaucoup d'eau en periode de pluie. P20  et siphon immediat a sa base.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0860916" lon="-75.1594096">
+  <ele>280</ele>
+  <name>GouffreDuDejaVu</name>
+  <cmt>106057</cmt>
+  <desc>Gouffre double entree, p30, donne sur meandre actif et remonte en direction du 25M Nage Libre.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0902784" lon="-75.1688876">
+  <ele>240</ele>
+  <name>Perte du Disto</name>
+  <cmt>106058</cmt>
+  <desc>Puit de 8m a  l'entree, puis 3 meandre qui se rejoignent avant d'arriver sur un siphon. Cavite termine</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0950034" lon="-75.172777">
+  <ele>281</ele>
+  <name>El Pozo Granizo</name>
+  <cmt>106059</cmt>
+  <desc>Puit de 80m presque vertical, bouche au fond. Termine</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0760998" lon="-75.1523468">
+  <ele>201</ele>
+  <name>Puits de l'Arche</name>
+  <cmt>106060</cmt>
+  <desc>Puits de l'Arche explore par Lionel et Olivier</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0784904" lon="-75.1394403">
+  <ele>0</ele>
+  <name>ResurgenceGolondrina</name>
+  <cmt>106061</cmt>
+  <desc>Resurgence dans le lagon vert, sous le Porche Eden</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.067257" lon="-75.161259">
+  <ele>244</ele>
+  <name>GrandeFailleDuBoutDuMonde</name>
+  <cmt>106062</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.073127" lon="-75.166404">
+  <ele>280</ele>
+  <name>Traverse_de_lindecision</name>
+  <cmt>106063</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.065712" lon="-75.159213">
+  <ele>145</ele>
+  <name>Reve Eveille</name>
+  <cmt>106064</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.067257" lon="-75.161259">
+  <ele>5</ele>
+  <name>PorcheEden</name>
+  <cmt>106065</cmt>
+  <desc>Petite grotte pre-exploree par les italiens/anglais? - au dessus de la resurgence des Golondrinas </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0980788" lon="-75.1321147">
+  <ele>10</ele>
+  <name>Casablanca</name>
+  <cmt>106066</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1499956" lon="-75.2456616">
+  <ele>40</ele>
+  <name>Cueva des los Pescadores</name>
+  <cmt>107001</cmt>
+  <desc>resurgence</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1281955" lon="-75.2989244">
+  <ele>0</ele>
+  <name>Resurgence XXX</name>
+  <cmt>107002</cmt>
+  <desc>Resurgence sous le niveau de la mer</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1339253" lon="-75.2951542">
+  <ele>?</ele>
+  <name>Deux grottes (double entree)</name>
+  <cmt>107003</cmt>
+  <desc>Repere le 25-01 par Buldo</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1431335" lon="-75.24126">
+  <ele>?</ele>
+  <name>Chattiere qui buffle</name>
+  <cmt>107004</cmt>
+  <desc>Arrêt sur rien, à poursuivre (prendre equipement)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1207281" lon="-75.2928488">
+  <ele>436</ele>
+  <name>Gouffre de la grotte </name>
+  <cmt>107005</cmt>
+  <desc>A descendre. Repere le 25-02-2017 par Natalia, Jean Marc, Laurent, Joël (Nord camp du nid du condor)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1252633" lon="-75.2883438">
+  <ele>311</ele>
+  <name>Gouffre du camp du nid du condor</name>
+  <cmt>107007</cmt>
+  <desc>Etroit.. Mais continue!! Impenetrable</desc>
+  <sym>Lodging</sym>
+</wpt>
+<wpt lat="-50.1258604" lon="-75.2869344">
+  <ele>?</ele>
+  <name>Emergence des tuyaux ( rameur)</name>
+  <cmt>107008</cmt>
+  <desc>(pas sûr des coordonnees utm) (coordonnees : 50°077223 - 075°18.0107) Dans la baie d'accès au plateau nord, cote ouest. Au pied de falaise. Escalade possiblement à faire ( escalade faite par lionel ,denis,david)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1270498" lon="-75.2860182">
+  <ele>380</ele>
+  <name>Gouffre du Chameau</name>
+  <cmt>107009</cmt>
+  <desc>A proximite du camp du champignon, arrêt sur trop etroit à la cote -113m</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1170671" lon="-75.2965891">
+  <ele>420</ele>
+  <name>perte du Point G</name>
+  <cmt>107010</cmt>
+  <desc>Bouche, debit de perte lors de la recon environ 5 L-s</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1251682" lon="-75.333894">
+  <ele>39</ele>
+  <name>Cueva d'el cabo vertical</name>
+  <cmt>107011</cmt>
+  <desc>Exploration Anthonyet Denis lors de l'incursion sur le Pacifique du 05-02-17.Explo y topo 15-02,Natalia,Buldo,Anton,Richard y Angel. Terminado.Gran porche con tubo-fisura ascendente por el lado sur con pequeño aporte que se cierra. Al norte rampa que lleva a tubo horizontal de buen tamaño, que termina en un pozo de 8 m. que enfrente recibe aporte que abajo del pozo se sifona.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1430347" lon="-75.2412175">
+  <ele>25 (estimation)</ele>
+  <name>Porche de la coulee blanche</name>
+  <cmt>107012</cmt>
+  <desc>Le grand porche visible en entrant à droite dans la Bahia Blanca. Repere par Jean-Marc, Jo, Laurent et Franck. Escalade, topo et explo par Yann et Yannick le 13-02017. Escalade de 20 m derrière le porche d'entree permet de prendre pied dans un meandre, menant d'un côte à un autre porche en hauteur et de l'autre continue. Explo en cours.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1261716" lon="-75.2955262">
+  <ele>106, donnee GPS surestimee</ele>
+  <name>Grotte des Canelures</name>
+  <cmt>107013</cmt>
+  <desc>Reperee et exploree le 13-02-17 par  Serge, Jose, Jean-François, Natalia et Franck. Vaste porche visible de la plage, au depart de l'accès au camp Nord. Montee en 15 min par la forêt puis le long d'une canelure. Meandre parcouru par un faible filet d'eau, explore sur 50 m sur une branche et 20 sur une autre. Arrêt sur passage etroit, l'explo peut être consideree comme terminee.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1229863" lon="-75.2778942">
+  <ele>411</ele>
+  <name>Éte austral </name>
+  <cmt>107015</cmt>
+  <desc> Decouvert et descendu par Anthonie et Yannick le 7 fevrier </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1232227" lon="-75.2768324">
+  <ele>429</ele>
+  <name>Trou du carnet </name>
+  <cmt>107016</cmt>
+  <desc>descendu par Yannick pour remonte le carnet tombe par Vicente le 7 fevrier</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1430526" lon="-75.2412456">
+  <ele>?</ele>
+  <name>N1</name>
+  <cmt>107017</cmt>
+  <desc>Prospection et visite , Jose, Serge et Yannick </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1430526" lon="-75.2412456">
+  <ele>?</ele>
+  <name>N2</name>
+  <cmt>107018</cmt>
+  <desc>Prospection et visite , Jose, Serge et Yannick </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.121143" lon="-75.2814646">
+  <ele>347</ele>
+  <name>Gouffre du casque</name>
+  <cmt>107019</cmt>
+  <desc>1389m de topo</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1292829" lon="-75.2885918">
+  <ele>387</ele>
+  <name>CN 16-02-1</name>
+  <cmt>107020</cmt>
+  <desc>Gros gouffre, arrêt à -40</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.127446" lon="-75.2858386">
+  <ele>387</ele>
+  <name>CN 16-02-2</name>
+  <cmt>107021</cmt>
+  <desc>Gros porche avec arrêt sur etroit</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1269506" lon="-75.2861435">
+  <ele>384</ele>
+  <name>Madame Cafe</name>
+  <cmt>107022</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1251783" lon="-75.2826634">
+  <ele>405</ele>
+  <name>CN 16-02-4</name>
+  <cmt>107023</cmt>
+  <desc>Gouffre, arrêt à -25</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.125675" lon="-75.2855203">
+  <ele>383</ele>
+  <name>CN 16-02-5</name>
+  <cmt>107024</cmt>
+  <desc>Trou près du camp nord 3 avec du debit. Il keut à -15</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1328762" lon="-75.2974004">
+  <ele>0</ele>
+  <name>Resurgence Hongo</name>
+  <cmt>107025</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1310435" lon="-75.3103732">
+  <ele>60</ele>
+  <name>PN01</name>
+  <cmt>107026</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1316543" lon="-75.310685">
+  <ele>60</ele>
+  <name>PN02</name>
+  <cmt>107027</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1204435" lon="-75.2405444">
+  <ele>369</ele>
+  <name>Gouffre Jackpot</name>
+  <cmt>107028</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1219504" lon="-75.2425104">
+  <ele>362</ele>
+  <name>PC4 - Perte Cirque 4</name>
+  <cmt>107029</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1283294" lon="-75.299331">
+  <ele>nan</ele>
+  <name>Cueva Cascada</name>
+  <cmt>107030</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1322495" lon="-75.2997892">
+  <ele>nan</ele>
+  <name>Punta Blanca</name>
+  <cmt>107031</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.118845" lon="-75.239252">
+  <ele>453</ele>
+  <name>Les Arches Pourries</name>
+  <cmt>107032</cmt>
+  <desc>Cavite reperee par Clem, Cha, Jaime et Denis le 28.02.23, non descendu, puits d’entree estime entre 30 et 40m ; petite arche (fragile) au niveau de l’entree</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.118598" lon="-75.236238">
+  <ele>475</ele>
+  <name>Chaurienne</name>
+  <cmt>107033</cmt>
+  <desc>Cavite reperee par Clem, Cha, Jaime et Denis le 28.02.23, Large P50 non descendu</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.115758" lon="-75.238048">
+  <ele>534</ele>
+  <name>Les 3 porches</name>
+  <cmt>107034</cmt>
+  <desc>Cavite reperee par Clem, Cha, Jaime et Denis le 28.02.23, plan incline, retrecissement suivi d’un possible P40 (non descendu)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.119873" lon="-75.249821">
+  <ele>407</ele>
+  <name>Puits du Kit</name>
+  <cmt>107035</cmt>
+  <desc>Cavite reperee par Gwladys et Nico le 27.02.23, non descendu</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.118654" lon="-75.250014">
+  <ele>424</ele>
+  <name>Gouffre de Helm</name>
+  <cmt>107036</cmt>
+  <desc>Cavite reperee par Gwladys et Nico le 27.02.23, non descendu</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.118654" lon="-75.250014">
+  <ele>461</ele>
+  <name>Grotte du doute eternel</name>
+  <cmt>107037</cmt>
+  <desc>Cavite reperee par Gwladys et Nico le 27.02.23, non descendu</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.127909" lon="-75.318146">
+  <ele>389</ele>
+  <name>Le Gillotpetre</name>
+  <cmt>107038</cmt>
+  <desc>Cavite reperee par Clement, Gwladys, Nico, Amandine et Mowgli le 22.02.23 ; puits de 40-50m non descendu</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1311296" lon="-75.2217654">
+  <ele>406</ele>
+  <name>Ojo de la Madre</name>
+  <cmt>108001</cmt>
+  <desc>Perte très arrosee, fin sur siphon bas etroit ; depôts fluvio-glaciaires ; speleothèmes preleves</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1276798" lon="-75.2197208">
+  <ele>365</ele>
+  <name>Ombligo de la Madre</name>
+  <cmt>108002</cmt>
+  <desc>Belle perte ; 30m x 10m, tube incline à 45°, rivière cascadante 200L-s. Arrêt sur siphon etroit. </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1238805" lon="-75.2170315">
+  <ele>nan</ele>
+  <name>Sumidero </name>
+  <cmt>108003</cmt>
+  <desc>Perte active mais dans doline bouchee par eboulement et bois. </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1245527" lon="-75.2182936">
+  <ele>350</ele>
+  <name>Gouffre Lagrimas</name>
+  <cmt>108004</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1185125" lon="-75.2163218">
+  <ele>198</ele>
+  <name>Sumidero</name>
+  <cmt>108005</cmt>
+  <desc>Perte active mais dans doline bouchee par eboulement et bois. </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1181273" lon="-75.2154808">
+  <ele>180</ele>
+  <name>Garganta</name>
+  <cmt>108006</cmt>
+  <desc>Grand porche 20mx20m ; rivière 1m3-s ; très prometteur, à explorer</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1177236" lon="-75.2149474">
+  <ele>191</ele>
+  <name>Sumidero</name>
+  <cmt>108007</cmt>
+  <desc>Perte active mais dans doline bouchee par eboulement et bois. </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1157082" lon="-75.2104206">
+  <ele>220</ele>
+  <name>Utero de la Madre</name>
+  <cmt>108008</cmt>
+  <desc>Descendu sans corde jusqu'au siphon, beaux volumes, rivière active ; traces des inventeurs retrouvees ; shunt possible du siphon par escalade de 4m dans une galerie sup. </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1147959" lon="-75.2076053">
+  <ele>225</ele>
+  <name>Sumidero</name>
+  <cmt>108009</cmt>
+  <desc>Beau porche, bouche par effondrement plafond à quelques mètres de l'entree, aller voir derrière par le dessus des calcaires. </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1235193" lon="-75.2029146">
+  <ele>317</ele>
+  <name>Sumidero</name>
+  <cmt>108010</cmt>
+  <desc>Petite perte etroite exploree sur quelques mètres; impenetrable</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1221108" lon="-75.1956205">
+  <ele>290</ele>
+  <name>agujero</name>
+  <cmt>108011</cmt>
+  <desc>Gouffre bordure SE scandinavie, P15 d'entree, ruissellements, non descendu</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1360317" lon="-75.2261958">
+  <ele>417</ele>
+  <name>agujero</name>
+  <cmt>108012</cmt>
+  <desc>Gouffre bordure SETube à 45° de 2m de diamètre non descendu</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1167761" lon="-75.1854439">
+  <ele>15</ele>
+  <name>Gouffre de l'Arche</name>
+  <cmt>108013</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1490826" lon="-75.2013012">
+  <ele>60</ele>
+  <name>Grotte des 3 Porches</name>
+  <cmt>109001</cmt>
+  <desc>Arrêt sur puits</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1490822" lon="-75.2015251">
+  <ele>60</ele>
+  <name>Grotte des 3 Porches</name>
+  <cmt>109002</cmt>
+  <desc>Occupation humaine</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1394811" lon="-75.1990079">
+  <ele>375</ele>
+  <name>Cueva Barachos</name>
+  <cmt>109003</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1399135" lon="-75.1986038">
+  <ele>370</ele>
+  <name>Cueva Caliza</name>
+  <cmt>109004</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1408091" lon="-75.2008046">
+  <ele>384</ele>
+  <name>En desespoir de Cause</name>
+  <cmt>109005</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1386056" lon="-75.1901742">
+  <ele>414</ele>
+  <name>P10</name>
+  <cmt>109006</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1457218" lon="-75.1996216">
+  <ele>278</ele>
+  <name>petite Grotte</name>
+  <cmt>109007</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1400396" lon="-75.1985484">
+  <ele>nan</ele>
+  <name>Gouffre Halal</name>
+  <cmt>109008</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.141409" lon="-75.2024025">
+  <ele>359</ele>
+  <name>Gouffre A l'Aïl</name>
+  <cmt>109009</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1425704" lon="-75.2017077">
+  <ele>319</ele>
+  <name>Gouffre Ma première</name>
+  <cmt>109010</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1427502" lon="-75.2017504">
+  <ele>319</ele>
+  <name>Gouffre La Grande Traversee</name>
+  <cmt>109011</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.138724" lon="-75.1892231">
+  <ele>388</ele>
+  <name>Cueva de la Merienda</name>
+  <cmt>109012</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1446263" lon="-75.2038016">
+  <ele>300</ele>
+  <name>Gouffre des Gauges</name>
+  <cmt>109013</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1391583" lon="-75.1984887">
+  <ele>360</ele>
+  <name>Gouffre la Pissotière</name>
+  <cmt>109014</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1491823" lon="-75.2008677">
+  <ele>53</ele>
+  <name>Grotte des trois entrees plus une</name>
+  <cmt>109015</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1484213" lon="-75.198821">
+  <ele>36</ele>
+  <name>Gouffre de la Chatiere</name>
+  <cmt>109016</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.141491" lon="-75.1911653">
+  <ele>nan</ele>
+  <name>Resurgence de la Petite Chinoise</name>
+  <cmt>109017</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1399422" lon="-75.1975964">
+  <ele>nan</ele>
+  <name>Paraiso de las duchas</name>
+  <cmt>109018</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1496958" lon="-75.2003799">
+  <ele>0</ele>
+  <name>Resurgence 3</name>
+  <cmt>109019</cmt>
+  <desc>2 m3-s</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2012827" lon="-75.304537">
+  <ele>0</ele>
+  <name>Resurgence 2 du Canyon</name>
+  <cmt>201001</cmt>
+  <desc>Arrêt sur galerie exonde post S1 (-4m-30m)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2185646" lon="-75.3765267">
+  <ele>325</ele>
+  <name>La Rabasse 3</name>
+  <cmt>201002</cmt>
+  <desc>aussi C4T2</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2040104" lon="-75.3772109">
+  <ele>385</ele>
+  <name>Secteur Barros Luco</name>
+  <cmt>201003</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2178472" lon="-75.3758623">
+  <ele>337</ele>
+  <name>La Rabasse 1</name>
+  <cmt>201004</cmt>
+  <desc>aussi C4T1</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2181813" lon="-75.3698516">
+  <ele>273</ele>
+  <name>Cueva 3</name>
+  <cmt>201005</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2155452" lon="-75.3673083">
+  <ele>294</ele>
+  <name>Cueva 7</name>
+  <cmt>201006</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2181806" lon="-75.3700759">
+  <ele>290</ele>
+  <name>Cueva 1</name>
+  <cmt>201007</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2172151" lon="-75.3710636">
+  <ele>338</ele>
+  <name>Cueva 11</name>
+  <cmt>201008</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2173223" lon="-75.3712747">
+  <ele>340</ele>
+  <name>Cueva du Telephone</name>
+  <cmt>201009</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2156421" lon="-75.3679398">
+  <ele>309</ele>
+  <name>Cueva 8</name>
+  <cmt>201010</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.213559" lon="-75.3724929">
+  <ele>492</ele>
+  <name>cueva</name>
+  <cmt>201011</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2160945" lon="-75.3699336">
+  <ele>385</ele>
+  <name>Trou du Marteau</name>
+  <cmt>201012</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2185433" lon="-75.3775358">
+  <ele>310</ele>
+  <name>La Rabasse 2</name>
+  <cmt>201013</cmt>
+  <desc>Aussi C4T3</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2129005" lon="-75.3731184">
+  <ele>526</ele>
+  <name>cueva</name>
+  <cmt>201014</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2116929" lon="-75.3710628">
+  <ele>469</ele>
+  <name>Cueva</name>
+  <cmt>201015</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2162082" lon="-75.3709436">
+  <ele>347</ele>
+  <name>Cueva 10</name>
+  <cmt>201016</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2099507" lon="-75.3702505">
+  <ele>393</ele>
+  <name>Secteur Barros Luco</name>
+  <cmt>201017</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2183614" lon="-75.3697829">
+  <ele>268</ele>
+  <name>Cueva 2</name>
+  <cmt>201018</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.217452" lon="-75.375705">
+  <ele>274</ele>
+  <name>Cueva</name>
+  <cmt>201019</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2099417" lon="-75.3702644">
+  <ele>393</ele>
+  <name>Secteur Barros Luco</name>
+  <cmt>201021</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2171877" lon="-75.3711755">
+  <ele>335</ele>
+  <name>Cueva 12</name>
+  <cmt>201022</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.217699" lon="-75.3687826">
+  <ele>272</ele>
+  <name>Cueva 5</name>
+  <cmt>201023</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2175475" lon="-75.3711643">
+  <ele>8</ele>
+  <name>Cueva 13</name>
+  <cmt>201024</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2159537" lon="-75.3745719">
+  <ele>412</ele>
+  <name>Secteur Barros Luco</name>
+  <cmt>201025</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1849088" lon="-75.4062096">
+  <ele>9</ele>
+  <name>Porche 2 Os de Baleine</name>
+  <cmt>201026</cmt>
+  <desc>Decouverte d'ossements de baleine et de lobos (photos disponibles)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2162349" lon="-75.408564">
+  <ele>13</ele>
+  <name>Porche 1</name>
+  <cmt>201027</cmt>
+  <desc>Porche situe avant la plage du Pacifique sur la rive gauche de la rivière (visible depuis la fin du lapiaz du camp 4, le porche s'ouvre 30 m au-dessus de la rivière) Pas de decouverte particulière.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.217914" lon="-75.3690646">
+  <ele>270</ele>
+  <name>Cueva 4</name>
+  <cmt>201029</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1718101" lon="-75.3462759">
+  <ele>460</ele>
+  <name>SANS NOM</name>
+  <cmt>201030</cmt>
+  <desc>Zona de grandes bocas de simas muy interesantes Al menos tres bocas de grqndes dimensiones</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2173886" lon="-75.3702239">
+  <ele>303</ele>
+  <name>C3</name>
+  <cmt>201031</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2165408" lon="-75.3681429">
+  <ele>306</ele>
+  <name>C4 Cueva 6</name>
+  <cmt>201032</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1730734" lon="-75.3448426">
+  <ele>430</ele>
+  <name>SANS NOM</name>
+  <cmt>201033</cmt>
+  <desc>Sima bajada por David y Anton con craneos de Coivos </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2126879" lon="-75.3692765">
+  <ele>397</ele>
+  <name>Cueva de la casquette</name>
+  <cmt>201034</cmt>
+  <desc>Entree etroite de la largeur du corps beau donnantsur un puit vertical style cathedrale de 30m (cavite avec plusieurs entrees)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2125004" lon="-75.3688406">
+  <ele>382</ele>
+  <name>Trou de la Plaquette</name>
+  <cmt>201035</cmt>
+  <desc>salle d'effondrement ouverte qui fait au gouffre de la casquette dans un alignement de gouffres qui se suivent vers le Barros Luco</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2095189" lon="-75.3703032">
+  <ele>389</ele>
+  <name>C4 Nfissure 0</name>
+  <cmt>201036</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2058136" lon="-75.3702465">
+  <ele>361</ele>
+  <name>C4 SansNom 8</name>
+  <cmt>201037</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2045195" lon="-75.3699282">
+  <ele>347</ele>
+  <name>C4 SansNom 7</name>
+  <cmt>201038</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2042594" lon="-75.369716">
+  <ele>342</ele>
+  <name>C4 SansNom 6</name>
+  <cmt>201039</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2031344" lon="-75.3699455">
+  <ele>338</ele>
+  <name>Porche du Sonnar</name>
+  <cmt>201040</cmt>
+  <desc>arrêt sur eboulis</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2018757" lon="-75.3726261">
+  <ele>403</ele>
+  <name>C4 SansNom 1</name>
+  <cmt>201041</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2007703" lon="-75.377928">
+  <ele>312</ele>
+  <name>C4 SansNom 4</name>
+  <cmt>201042</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1994056" lon="-75.3772307">
+  <ele>313</ele>
+  <name>Gouffre du Colibri</name>
+  <cmt>201043</cmt>
+  <desc>Gouffre d'effondrement ouvert avec possibilite de continuation mais eboulis instable (plus grosse entree de la doline)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1991163" lon="-75.3776908">
+  <ele>307</ele>
+  <name>C4 SansNom 3</name>
+  <cmt>201044</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1984373" lon="-75.3734961">
+  <ele>391</ele>
+  <name>C5 Cueva1</name>
+  <cmt>201045</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1654321" lon="-75.3406572">
+  <ele>323</ele>
+  <name>SANS NOM</name>
+  <cmt>201046</cmt>
+  <desc>Explorada por( Denis y Anton) Cueva de derrumbe y bloques cercq del Sumidero</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1984373" lon="-75.3734821">
+  <ele>391</ele>
+  <name>Champignon</name>
+  <cmt>201047</cmt>
+  <desc>Situe au dessus du camp 5 près du seul champignon du secteur. Gros puit vertical de plus de 40m qui suit une faille</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1779526" lon="-75.3277634">
+  <ele>316</ele>
+  <name>Gouffre du Ziploc</name>
+  <cmt>201048</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1910599" lon="-75.2627531">
+  <ele>29</ele>
+  <name>Cueva Harrico</name>
+  <cmt>201049</cmt>
+  <desc>Situada en las paredes sur de Punta Indice;Escalada desde el mar a gran boca; rampa ascendente y llegamos a un tubo con aire que termina cerrandose; Explo (Anton y Angel)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1650314" lon="-75.3423205">
+  <ele>285</ele>
+  <name>Sumidero del Chorizo Plastico</name>
+  <cmt>201050</cmt>
+  <desc>Sumidero al otro lado del collado al norte del campamento</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1742992" lon="-75.3220107">
+  <ele>nan</ele>
+  <name>Perte 3</name>
+  <cmt>201051</cmt>
+  <desc>Explo perminee. Arret à -15</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1800783" lon="-75.2819928">
+  <ele>356</ele>
+  <name>GB1</name>
+  <cmt>201052</cmt>
+  <desc>23-01-2017 non descendu, à faire.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1808749" lon="-75.2798686">
+  <ele>351</ele>
+  <name>GB2</name>
+  <cmt>201053</cmt>
+  <desc>23-01-2017 non descendu, à faire.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.177084" lon="-75.2817371">
+  <ele>239</ele>
+  <name>GB3</name>
+  <cmt>201054</cmt>
+  <desc>P 50, à descendre, 23-01-17, non descendu,à faire</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1773528" lon="-75.3267649">
+  <ele>303</ele>
+  <name>GB Trou 1</name>
+  <cmt>201056</cmt>
+  <desc>Calcaire</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1773529" lon="-75.3267369">
+  <ele>306</ele>
+  <name>GB Trou 2</name>
+  <cmt>201057</cmt>
+  <desc>Calcaire</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1777896" lon="-75.3281404">
+  <ele>329</ele>
+  <name>GB Trou 3</name>
+  <cmt>201058</cmt>
+  <desc>Calcaire</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1777991" lon="-75.3247652">
+  <ele>298</ele>
+  <name>GB Trou 5</name>
+  <cmt>201059</cmt>
+  <desc>Calcaire</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1731663" lon="-75.3283188">
+  <ele>?</ele>
+  <name>Gouffre du Totem</name>
+  <cmt>201060</cmt>
+  <desc>Grosse perte à proximitedu camp GB, descendue jusque -40, arrêt sur trop peur</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1767862" lon="-75.3330772">
+  <ele>314</ele>
+  <name>Ayayebo</name>
+  <cmt>201062</cmt>
+  <desc>P28 suivi de 2 puits parallèle, 1 descendu (35m) cote "sec" le 31-01-17 et branche active descendue le 08-02-17, arrêt à -96 sur etroit plein d'eau</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1776167" lon="-75.3320186">
+  <ele>344</ele>
+  <name>GB1 bis</name>
+  <cmt>201063</cmt>
+  <desc>Au dessus du GB 30-01-2017 1. A explorer</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.176834" lon="-75.3320972">
+  <ele>364</ele>
+  <name>Gouffre </name>
+  <cmt>201064</cmt>
+  <desc>à descendre. P15 avec une fenêtre qui semble donner un accès à un puits parallèle.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1839941" lon="-75.3317407">
+  <ele>596</ele>
+  <name>SANS NOM</name>
+  <cmt>201065</cmt>
+  <desc>S'ouvre au sommet de la crête. A explorer. Dans zone assez broyee. Etre dos au sommet pour voir l'entree…</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1767247" lon="-75.3357237">
+  <ele>277</ele>
+  <name>SANS NOM</name>
+  <cmt>201066</cmt>
+  <desc>Gouffre environ 30m à explorer ? Danger, zone broyee, paroies instables…</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1745023" lon="-75.3391252">
+  <ele>388</ele>
+  <name>SANS NOM</name>
+  <cmt>201067</cmt>
+  <desc>Porche qui queute proche du contact calcaire grès</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.176689" lon="-75.3356114">
+  <ele>295</ele>
+  <name>GB 07 02-3</name>
+  <cmt>201070</cmt>
+  <desc>Arrêt sur trou foireux delite</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1760811" lon="-75.3280447">
+  <ele>281</ele>
+  <name>SANS NOM</name>
+  <cmt>201071</cmt>
+  <desc>Gouffre borgne avec quelques paliers sans suite</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1787364" lon="-75.3272785">
+  <ele>378</ele>
+  <name>SANS NOM</name>
+  <cmt>201072</cmt>
+  <desc>Petits puits colmate</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.20702" lon="-75.2563804">
+  <ele>5</ele>
+  <name>grottes des dauphins</name>
+  <cmt>202001</cmt>
+  <desc>Explo et topo Serge , Jose , Yannick (dessin Yannick )</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2388523" lon="-75.3799539">
+  <ele>253</ele>
+  <name>Perte du Coypo</name>
+  <cmt>203001</cmt>
+  <desc>Perte très active presentant de beaux puits et un superbe meandre.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2384712" lon="-75.378226">
+  <ele>258</ele>
+  <name>Gouffre Felin</name>
+  <cmt>203002</cmt>
+  <desc>beau reseau de puits</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.237766" lon="-75.3765798">
+  <ele>249</ele>
+  <name>Puits du Bourdon</name>
+  <cmt>203003</cmt>
+  <desc>puits donnant sur un superbe meandre cannele, arrêt sur etroiture</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2373198" lon="-75.378287">
+  <ele>252</ele>
+  <name>Gros Trou</name>
+  <cmt>203004</cmt>
+  <desc>aven s'ouvrant dans le grès</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2281587" lon="-75.379953">
+  <ele>34</ele>
+  <name>Resurgence</name>
+  <cmt>203005</cmt>
+  <desc>Resurgence sur faille, impenetrable</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2320747" lon="-75.3843026">
+  <ele>119</ele>
+  <name>Resurgence</name>
+  <cmt>203006</cmt>
+  <desc>Resurgence non penetrable</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2320644" lon="-75.3846951">
+  <ele>121</ele>
+  <name>Resurgence</name>
+  <cmt>203007</cmt>
+  <desc>Resurgence non penetrable</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2366216" lon="-75.3772578">
+  <ele>334</ele>
+  <name>Aven C301</name>
+  <cmt>203008</cmt>
+  <desc>P30 non descendu peu interessant</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2304486" lon="-75.3837568">
+  <ele>105</ele>
+  <name>Aven</name>
+  <cmt>203009</cmt>
+  <desc>Perte très très interessante à aller voir</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2460228" lon="-75.4083698">
+  <ele>35</ele>
+  <name>Abri du Gazon</name>
+  <cmt>203011</cmt>
+  <desc>Grand porche 20m de diamètre dans le grès en bord de plage</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2453272" lon="-75.4066808">
+  <ele>0</ele>
+  <name>Grotte du Nord</name>
+  <cmt>203012</cmt>
+  <desc>Petite cavite en bord de mer avec charbons, ossement, arêtes de poisson</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2589101" lon="-75.359561">
+  <ele>74</ele>
+  <name>Evêque Cauchon</name>
+  <cmt>204002</cmt>
+  <desc>Decouverte par equipe 1 du camp 2 le 02-02-2010. Topographie ensuite par equipe du camp 4. Acces collecteur local, debit >100 L-s</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2660665" lon="-75.3425531">
+  <ele>130</ele>
+  <name>Grotte de la fausse Pucelle</name>
+  <cmt>204003</cmt>
+  <desc>redecouverte par equipe 1 du camp 2 le 01-02-2010 (decouverte "oubliee" (non topo) par Richard et Jo en raid-eclair en 2000 depuis camp perte du Temps), env. 3 m3-s en crue. Situee une centaine de mètres en amont (vers l'est) de la Fausse Pucelle).</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2594969" lon="-75.3559178">
+  <ele>153</ele>
+  <name>Grotte de l'Alouette</name>
+  <cmt>204004</cmt>
+  <desc>explo topo equipe 1 du camp 2 ("les doigts bleus") le 31-01-2010. Gazelle et Alouette communiquent (même sans radio…)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2433351" lon="-75.3731877">
+  <ele>316</ele>
+  <name>Trou des Canelures</name>
+  <cmt>204005</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2403717" lon="-75.3745809">
+  <ele>305</ele>
+  <name>Perte</name>
+  <cmt>204006</cmt>
+  <desc>Perte à voir </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2324515" lon="-75.3621942">
+  <ele>157</ele>
+  <name>Perte</name>
+  <cmt>204007</cmt>
+  <desc>Perte à voir</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2496584" lon="-75.3920883">
+  <ele>84</ele>
+  <name>Grotte du Rapace</name>
+  <cmt>204008</cmt>
+  <desc>joli petit meandre, arrêt sur tremie, deux petits depart laisse, sans grand interêt</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2490529" lon="-75.392953">
+  <ele>50</ele>
+  <name>Grotte de l'Oursin</name>
+  <cmt>204009</cmt>
+  <desc>Resurgence fossile (?) avec gros courant d'air, au pied du lapiaz. Campement nomade probable. Patelles, os, charbons. Colobris trogloxènes morts. Jolies excentriques et concretionnement </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2937495" lon="-75.4387378">
+  <ele>2</ele>
+  <name>Abri Cotier</name>
+  <cmt>205001</cmt>
+  <desc>Occupation humaine</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2899265" lon="-75.4317257">
+  <ele>183</ele>
+  <name>Abri du Cerfeuil</name>
+  <cmt>205002</cmt>
+  <desc>Occupation humaine</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2860343" lon="-75.3850458">
+  <ele>270</ele>
+  <name>Cueva La-Bas</name>
+  <cmt>205003</cmt>
+  <desc>Arrêt sur siphon</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2887069" lon="-75.3791434">
+  <ele>250</ele>
+  <name>Perte des Dents</name>
+  <cmt>205004</cmt>
+  <desc>Arrêt sur siphon</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2874071" lon="-75.380579">
+  <ele>233</ele>
+  <name>Sima Juanito</name>
+  <cmt>205005</cmt>
+  <desc>arrêt sur rien (attention à la crue)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.286336" lon="-75.3835603">
+  <ele>245</ele>
+  <name>Cueva Ardilla</name>
+  <cmt>205006</cmt>
+  <desc>Arrêt sur ?</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2862975" lon="-75.384332">
+  <ele>237</ele>
+  <name>Sou30 (pozo 1 en caliza)</name>
+  <cmt>205007</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2818612" lon="-75.3877631">
+  <ele>301</ele>
+  <name>Sou33</name>
+  <cmt>205008</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2859911" lon="-75.3872212">
+  <ele>281</ele>
+  <name>Sou31</name>
+  <cmt>205009</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2868723" lon="-75.381838">
+  <ele>260</ele>
+  <name>MD-SOU01</name>
+  <cmt>205010</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2865832" lon="-75.3822568">
+  <ele>265</ele>
+  <name>MD-SOU02</name>
+  <cmt>205011</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2860762" lon="-75.3805403">
+  <ele>294</ele>
+  <name>Perte Inattendue</name>
+  <cmt>205012</cmt>
+  <desc>Perte sur contact grès calcaires. Un moins un aflfuent penetrable n'a pas ete topographie.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2863809" lon="-75.3836028">
+  <ele>249</ele>
+  <name>La Perte Ambree</name>
+  <cmt>205013</cmt>
+  <desc>arrêt meandre impenetrable</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2842777" lon="-75.3992365">
+  <ele>399</ele>
+  <name>porche</name>
+  <cmt>205014</cmt>
+  <desc>Porche jef (voir + bas)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2876696" lon="-75.3882314">
+  <ele>309</ele>
+  <name>perte-faille</name>
+  <cmt>205015</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2850047" lon="-75.3996636">
+  <ele>415</ele>
+  <name>sortie traversee</name>
+  <cmt>205016</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.284439" lon="-75.3993922">
+  <ele>407</ele>
+  <name>Trou serrure entree</name>
+  <cmt>205017</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2819865" lon="-75.3985997">
+  <ele>413</ele>
+  <name>grotte jef</name>
+  <cmt>205018</cmt>
+  <desc>h9.5 prof10m long20m</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2723433" lon="-75.4043709">
+  <ele>275</ele>
+  <name>Aven grd diam</name>
+  <cmt>205019</cmt>
+  <desc>axe probable sur faille</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2863245" lon="-75.3843322">
+  <ele>249</ele>
+  <name>perte 2</name>
+  <cmt>205020</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2645373" lon="-75.3605013">
+  <ele>207</ele>
+  <name>Perte des 4 champi</name>
+  <cmt>205021</cmt>
+  <desc>Explore mais non topo jusqu'à -200 env. arrêt sur rien</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2640926" lon="-75.3617747">
+  <ele>230</ele>
+  <name>James Bonde</name>
+  <cmt>205022</cmt>
+  <desc>A proximite du Golden Igue</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2645419" lon="-75.3590001">
+  <ele>191</ele>
+  <name>Perte du Jump</name>
+  <cmt>205023</cmt>
+  <desc>Perte sur faille</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2625217" lon="-75.3608228">
+  <ele>190</ele>
+  <name>Faille du Coinceur</name>
+  <cmt>205024</cmt>
+  <desc>Descente sur un coinceur et un spit: on n'a gâche qu'un seul spit</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2623702" lon="-75.3632488">
+  <ele>200</ele>
+  <name>Igue du Plouc</name>
+  <cmt>205025</cmt>
+  <desc>"enfin une igue sur MDD"</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2630343" lon="-75.3579365">
+  <ele>170</ele>
+  <name>Cueva de la fin de Matinas</name>
+  <cmt>205026</cmt>
+  <desc>plus de temps à enfiler la combi que d'explo!</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2659812" lon="-75.415598">
+  <ele>1</ele>
+  <name>L'Abri-gîte</name>
+  <cmt>205027</cmt>
+  <desc>Abri de quelques m2 avec des semblants d'occupation</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2686053" lon="-75.4186658">
+  <ele>2</ele>
+  <name>Grotte du Sud</name>
+  <cmt>205028</cmt>
+  <desc>Porche de 40m x20m</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2704013" lon="-75.4194392">
+  <ele>28</ele>
+  <name>Cueva de la Madre</name>
+  <cmt>205029</cmt>
+  <desc>Porche d'entree 60m haut par 125m de large. arrêt sur une E6 sur faille facile. </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2639584" lon="-75.3999926">
+  <ele>20</ele>
+  <name>Porche</name>
+  <cmt>205030</cmt>
+  <desc>Porche en bordure de lage non explore. Traces humaines tres certaines.Porche 10mx5m à aller voir</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2844043" lon="-75.399027">
+  <ele>357</ele>
+  <name>porche jef = gr audeline</name>
+  <cmt>205031</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2808184" lon="-75.3982812">
+  <ele>388</ele>
+  <name>Porche</name>
+  <cmt>205032</cmt>
+  <desc>Porche 20m de large, qui queute</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2809004" lon="-75.3979731">
+  <ele>360</ele>
+  <name>Aven</name>
+  <cmt>205033</cmt>
+  <desc>Puits 4m de diamètre partant en meandre, à voir</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2819964" lon="-75.3983191">
+  <ele>423</ele>
+  <name>Grotte Sueno</name>
+  <cmt>205034</cmt>
+  <desc>Abri à Jeff</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2925044" lon="-75.4538322">
+  <ele>6</ele>
+  <name>PorcheBaleine</name>
+  <cmt>205038</cmt>
+  <desc>a remplir</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3326972" lon="-75.3248082">
+  <ele>nan</ele>
+  <name>Cueva Ayayema</name>
+  <cmt>206001</cmt>
+  <desc>Coordonnees 2000 fausses (repointage 2008)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3409274" lon="-75.3307948">
+  <ele>nan</ele>
+  <name>Grotte du Dyke</name>
+  <cmt>206002</cmt>
+  <desc>Callote hoxipitale</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3248968" lon="-75.3506041">
+  <ele>433</ele>
+  <name>JJP0</name>
+  <cmt>206003</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.325565" lon="-75.3497099">
+  <ele>429</ele>
+  <name>JJP1</name>
+  <cmt>206004</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3248484" lon="-75.3487493">
+  <ele>444</ele>
+  <name>JJP2</name>
+  <cmt>206005</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3243673" lon="-75.3502349">
+  <ele>452</ele>
+  <name>JJP3</name>
+  <cmt>206006</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3278327" lon="-75.3492629">
+  <ele>358</ele>
+  <name>JJP8</name>
+  <cmt>206007</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3209812" lon="-75.3517271">
+  <ele>457</ele>
+  <name>UL04</name>
+  <cmt>206008</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3228827" lon="-75.3534269">
+  <ele>373</ele>
+  <name>UL07A</name>
+  <cmt>206009</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3232602" lon="-75.3534999">
+  <ele>380</ele>
+  <name>UL07B</name>
+  <cmt>206010</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3215841" lon="-75.3516192">
+  <ele>455</ele>
+  <name>UL05</name>
+  <cmt>206011</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.329831" lon="-75.35168">
+  <ele>338</ele>
+  <name>Point32</name>
+  <cmt>206012</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3292207" lon="-75.3512681">
+  <ele>335</ele>
+  <name>Point30</name>
+  <cmt>206013</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3371844" lon="-75.3586479">
+  <ele>365</ele>
+  <name>Point001</name>
+  <cmt>206014</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3299472" lon="-75.3519197">
+  <ele>334</ele>
+  <name>Point31</name>
+  <cmt>206015</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3141648" lon="-75.3485026">
+  <ele>669</ele>
+  <name>GSLS01</name>
+  <cmt>206016</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3139338" lon="-75.3475459">
+  <ele>691</ele>
+  <name>GSLS02</name>
+  <cmt>206017</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.316951" lon="-75.346079">
+  <ele>679</ele>
+  <name>GSLS03</name>
+  <cmt>206018</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3158834" lon="-75.3482202">
+  <ele>635</ele>
+  <name>GSLS04</name>
+  <cmt>206019</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3157034" lon="-75.348261">
+  <ele>632</ele>
+  <name>GSLS05</name>
+  <cmt>206020</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.316018" lon="-75.3483055">
+  <ele>618</ele>
+  <name>GSLS06</name>
+  <cmt>206021</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.316018" lon="-75.3483055">
+  <ele>618</ele>
+  <name>GSLS07</name>
+  <cmt>206022</cmt>
+  <desc>duplicata de GSLS06?</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3021814" lon="-75.3586514">
+  <ele>214</ele>
+  <name>Perte du Nothofagus Baobab</name>
+  <cmt>206024</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3137049" lon="-75.3458869">
+  <ele>759</ele>
+  <name>Glaciaire760</name>
+  <cmt>206025</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3138035" lon="-75.3459999">
+  <ele>745</ele>
+  <name>Grotte Sous La Glaciaire</name>
+  <cmt>206026</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3149959" lon="-75.3502503">
+  <ele>600</ele>
+  <name>GrotteCamp600</name>
+  <cmt>206027</cmt>
+  <desc>nan</desc>
+  <sym>Lodging</sym>
+</wpt>
+<wpt lat="-50.3149959" lon="-75.3502503">
+  <ele>629</ele>
+  <name>Pozo Del Contacto</name>
+  <cmt>206028</cmt>
+  <desc>mêmes coordonnees que grotte camp 600</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3159515" lon="-75.3494848">
+  <ele>621</ele>
+  <name>UL02</name>
+  <cmt>206029</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3171544" lon="-75.3502381">
+  <ele>584</ele>
+  <name>UL03</name>
+  <cmt>206030</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3175874" lon="-75.3586549">
+  <ele>120</ele>
+  <name>AJPP01AB</name>
+  <cmt>206031</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3179206" lon="-75.3496678">
+  <ele>579</ele>
+  <name>AJPP02</name>
+  <cmt>206032</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2997455" lon="-75.3433004">
+  <ele>360</ele>
+  <name>Perte Du Moral</name>
+  <cmt>206033</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3084997" lon="-75.3511997">
+  <ele>519</ele>
+  <name>P85 Camp 400</name>
+  <cmt>206034</cmt>
+  <desc>nan</desc>
+  <sym>Lodging</sym>
+</wpt>
+<wpt lat="-50.3033295" lon="-75.3508106">
+  <ele>380</ele>
+  <name>Cueva Comete</name>
+  <cmt>206035</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.304946" lon="-75.3515808">
+  <ele>398</ele>
+  <name>Cueva 17</name>
+  <cmt>206036</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3033295" lon="-75.3508106">
+  <ele>380</ele>
+  <name>Cueva Pause Sac</name>
+  <cmt>206037</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3050802" lon="-75.3518205">
+  <ele>396</ele>
+  <name>Cueva Dalle</name>
+  <cmt>206038</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3039666" lon="-75.3513067">
+  <ele>382</ele>
+  <name>Big Pits</name>
+  <cmt>206039</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3420672" lon="-75.3588955">
+  <ele>120</ele>
+  <name>Perte de la Riviere</name>
+  <cmt>206040</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3290206" lon="-75.3519972">
+  <ele>340</ele>
+  <name>Passoire</name>
+  <cmt>206041</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3243369" lon="-75.3513445">
+  <ele>437</ele>
+  <name>Gouffre Petit Creux</name>
+  <cmt>206042</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2958334" lon="-75.366831">
+  <ele>140</ele>
+  <name>Perte Du Temps</name>
+  <cmt>206043</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3156045" lon="-75.3134693">
+  <ele>0</ele>
+  <name>Resurgence du Champignon</name>
+  <cmt>206044</cmt>
+  <desc>resurgences sous marine repere (-25 mètres)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2946126" lon="-75.2895065">
+  <ele>141</ele>
+  <name> Système des Condors</name>
+  <cmt>207001</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.302501" lon="-75.2854963">
+  <ele>0</ele>
+  <name>Resurgence des Lobos</name>
+  <cmt>207002</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3058651" lon="-75.438428">
+  <ele>80</ele>
+  <name>Cueva 10H10</name>
+  <cmt>208001</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.305182" lon="-75.4406966">
+  <ele>40</ele>
+  <name>Resurgence 9 plage de la Baleine</name>
+  <cmt>208002</cmt>
+  <desc>Arrêt sur escalade</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2988504" lon="-75.4359625">
+  <ele>20</ele>
+  <name>Grotte 20 plage de la Baleine</name>
+  <cmt>208003</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3143628" lon="-75.4117077">
+  <ele>559</ele>
+  <name>Aven</name>
+  <cmt>208004</cmt>
+  <desc>Cavite à voir </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3143173" lon="-75.4118618">
+  <ele>561</ele>
+  <name>Aven</name>
+  <cmt>208005</cmt>
+  <desc>Cavite à voir </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3185572" lon="-75.3706018">
+  <ele>215</ele>
+  <name>Grotte du Plein Cintre</name>
+  <cmt>209001</cmt>
+  <desc>Resurgence (arrêt sur siphon, intstrumente)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3180941" lon="-75.3803463">
+  <ele>436</ele>
+  <name>Emergence du Barillet</name>
+  <cmt>209002</cmt>
+  <desc>Amont de la detente</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3181888" lon="-75.3788722">
+  <ele>428</ele>
+  <name>Gouffre de la Gachette</name>
+  <cmt>209003</cmt>
+  <desc>cavite exploree (jonction avec puits d'entree de la Detente)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3224337" lon="-75.378906">
+  <ele>334</ele>
+  <name>Perte de l'Acharne</name>
+  <cmt>209004</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3188742" lon="-75.3783158">
+  <ele>422</ele>
+  <name>Perte n° 18</name>
+  <cmt>209005</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.344459" lon="-75.4029592">
+  <ele>3</ele>
+  <name>Resurgence de la plage</name>
+  <cmt>209006</cmt>
+  <desc>Arrêt sur galerie exonde post S1 (-28m-200m)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.297149" lon="-75.371685">
+  <ele>195</ele>
+  <name>Grotte de l'Evier</name>
+  <cmt>209007</cmt>
+  <desc>Arrêt sur puits à finir par beau temps : entree de la perte du temps ?</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2995792" lon="-75.3738803">
+  <ele>200</ele>
+  <name>Bob l'Eponge</name>
+  <cmt>209008</cmt>
+  <desc>petite perte, arrêt sur siphon</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.293266" lon="-75.3793341">
+  <ele>154</ele>
+  <name>Cueva Gringa</name>
+  <cmt>209009</cmt>
+  <desc>petite perte</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.2976794" lon="-75.3773333">
+  <ele>250</ele>
+  <name>Doline Calafate</name>
+  <cmt>209010</cmt>
+  <desc>rebouchee par eboulis, restes archeologiques</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3183697" lon="-75.3785506">
+  <ele>445</ele>
+  <name>Gouffre de la Detente</name>
+  <cmt>209011</cmt>
+  <desc>dev total: 800m</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3187464" lon="-75.3788907">
+  <ele>450</ele>
+  <name>Aven</name>
+  <cmt>209012</cmt>
+  <desc>a explorer - photo 221</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3159458" lon="-75.3716208">
+  <ele>357</ele>
+  <name>Aven</name>
+  <cmt>209013</cmt>
+  <desc>P20? photo 200-202</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3228149" lon="-75.4122584">
+  <ele>505</ele>
+  <name>Gouffre du Kit</name>
+  <cmt>209014</cmt>
+  <desc>P100</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.323325" lon="-75.405295">
+  <ele>412</ele>
+  <name>Gouffre Cumple Anos</name>
+  <cmt>209015</cmt>
+  <desc>gouffre d'entree suivi d'un meandre au contact grès-calcaire. Arrêt sur etroiture passable.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3250978" lon="-75.4075719">
+  <ele>nan</ele>
+  <name>La Marmotte</name>
+  <cmt>209016</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3242195" lon="-75.4066793">
+  <ele>428</ele>
+  <name>Aven Kinka 4</name>
+  <cmt>209017</cmt>
+  <desc>vu et descendu par Jose le 19-01-2010</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3217952" lon="-75.4029642">
+  <ele>nan</ele>
+  <name>Perte</name>
+  <cmt>209018</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3256584" lon="-75.4067197">
+  <ele>413</ele>
+  <name>Aven Kinka 3</name>
+  <cmt>209019</cmt>
+  <desc>vu et descendu par equipe Quinqua 19-01-2010 (Bruno, Jose, Jo, Fabien et Didier)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3232388" lon="-75.4119249">
+  <ele>nan</ele>
+  <name>Aven</name>
+  <cmt>209020</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3253059" lon="-75.4072084">
+  <ele>nan</ele>
+  <name>Aven</name>
+  <cmt>209021</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3235952" lon="-75.4051849">
+  <ele>418</ele>
+  <name>Aven -20</name>
+  <cmt>209022</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3221746" lon="-75.4024757">
+  <ele>nan</ele>
+  <name>Gouffre</name>
+  <cmt>209023</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3246872" lon="-75.4066693">
+  <ele>428</ele>
+  <name>Aven Kinka 2</name>
+  <cmt>209024</cmt>
+  <desc>vu et descendu par equipe Quinqua 19-01-2010 (Bruno, Jose, Jo, Fabien et Didier)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3233215" lon="-75.4062924">
+  <ele>451</ele>
+  <name>Aven Kinka 1</name>
+  <cmt>209025</cmt>
+  <desc>vu et descendu par Fabien et Didier le 19-01-2010</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3335738" lon="-75.3959962">
+  <ele>434</ele>
+  <name>Aven non descendu</name>
+  <cmt>209026</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3329627" lon="-75.3958506">
+  <ele>433</ele>
+  <name>Aven</name>
+  <cmt>209027</cmt>
+  <desc>a explorer. P30?</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3305854" lon="-75.3993574">
+  <ele>414</ele>
+  <name>Aven</name>
+  <cmt>209028</cmt>
+  <desc>a explorer. P30?</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3249971" lon="-75.4003221">
+  <ele>359</ele>
+  <name>Grand Aven-Perte</name>
+  <cmt>209029</cmt>
+  <desc>Trou D</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3237889" lon="-75.4063666">
+  <ele>433</ele>
+  <name>TROU A</name>
+  <cmt>209030</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3235495" lon="-75.4002116">
+  <ele>347</ele>
+  <name>Grande Doline-Perte</name>
+  <cmt>209031</cmt>
+  <desc>impenetrable</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3228681" lon="-75.4073562">
+  <ele>466</ele>
+  <name>Aven</name>
+  <cmt>209032</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.322999" lon="-75.4033396">
+  <ele>370</ele>
+  <name>Perte Coipo</name>
+  <cmt>209033</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3232388" lon="-75.4119249">
+  <ele>0</ele>
+  <name>CHIL</name>
+  <cmt>209035</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3289835" lon="-75.4074225">
+  <ele>351</ele>
+  <name>Cueva Sorry Topo</name>
+  <cmt>209036</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3283533" lon="-75.4076278">
+  <ele>393</ele>
+  <name>Cueva De La Der</name>
+  <cmt>209037</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3256328" lon="-75.4037272">
+  <ele>405</ele>
+  <name>Trou Pres Du Camp</name>
+  <cmt>209038</cmt>
+  <desc>nan</desc>
+  <sym>Lodging</sym>
+</wpt>
+<wpt lat="-50.3294538" lon="-75.4040967">
+  <ele>368</ele>
+  <name>Cueva P03</name>
+  <cmt>209039</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3289833" lon="-75.4074787">
+  <ele>380</ele>
+  <name> Pozo Al rato</name>
+  <cmt>209040</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3205541" lon="-75.4029537">
+  <ele>386</ele>
+  <name> Pozo de los Cinquetenos</name>
+  <cmt>209041</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3286684" lon="-75.4075322">
+  <ele>388</ele>
+  <name>SoloNoSpit</name>
+  <cmt>209042</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3293802" lon="-75.4019886">
+  <ele>392</ele>
+  <name>CuevaSalle</name>
+  <cmt>209044</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3173354" lon="-75.3813376">
+  <ele>578</ele>
+  <name>PerteLesJumeaux</name>
+  <cmt>209045</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3176139" lon="-75.38141">
+  <ele>583</ele>
+  <name>PuitsRBE01</name>
+  <cmt>209046</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3181692" lon="-75.3821308">
+  <ele>594</ele>
+  <name>PuitsRBE02</name>
+  <cmt>209047</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3184294" lon="-75.3823015">
+  <ele>609</ele>
+  <name>SorryP20</name>
+  <cmt>209048</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3191124" lon="-75.3824615">
+  <ele>588</ele>
+  <name>SorryP15</name>
+  <cmt>209049</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.317748" lon="-75.3816639">
+  <ele>592</ele>
+  <name>Puits RBE03</name>
+  <cmt>209050</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3195153" lon="-75.3830125">
+  <ele>599</ele>
+  <name>Puits RBE04</name>
+  <cmt>209051</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3200184" lon="-75.3831851">
+  <ele>573</ele>
+  <name>Puits RBE05</name>
+  <cmt>209052</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3174195" lon="-75.377602">
+  <ele>444</ele>
+  <name> Cueva Torse Oublie</name>
+  <cmt>209053</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3164485" lon="-75.380277">
+  <ele>548</ele>
+  <name>Cueva de los Tres</name>
+  <cmt>209054</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3169516" lon="-75.3776825">
+  <ele>463</ele>
+  <name>Pozo Sin Nombre</name>
+  <cmt>209055</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3171041" lon="-75.3832881">
+  <ele>673</ele>
+  <name>Le Tube</name>
+  <cmt>209056</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3172481" lon="-75.3777551">
+  <ele>449</ele>
+  <name>Pozo Del GPS Volando</name>
+  <cmt>209057</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3146664" lon="-75.3779172">
+  <ele>452</ele>
+  <name> Perte des Sabliers</name>
+  <cmt>209058</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3062335" lon="-75.2460863">
+  <ele>0</ele>
+  <name>Surgencia fin del Seno</name>
+  <cmt>210001</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3577422" lon="-75.4306395">
+  <ele>407</ele>
+  <name>El Abrito del Viento</name>
+  <cmt>211001</cmt>
+  <desc>Arrêt sur Voute Mouillante très etroite</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3540624" lon="-75.428596">
+  <ele>191</ele>
+  <name>Sumidero Piquante</name>
+  <cmt>211002</cmt>
+  <desc>Arrêt sur meandre trop etroit</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3575923" lon="-75.4174939">
+  <ele>73</ele>
+  <name>Gouffre d'Aguilucho</name>
+  <cmt>211003</cmt>
+  <desc>Siphon amont - aval</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3593008" lon="-75.4175651">
+  <ele>10</ele>
+  <name>Exurgence du Picaflor</name>
+  <cmt>211004</cmt>
+  <desc>Resurgence</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3641562" lon="-75.4077376">
+  <ele>30</ele>
+  <name>Porche de l'Impatience</name>
+  <cmt>211005</cmt>
+  <desc>Coordonnees (pointage carte) - tectonique</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3580023" lon="-75.4259605">
+  <ele>348</ele>
+  <name>Sima del Col</name>
+  <cmt>211006</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3516553" lon="-75.4153474">
+  <ele>192</ele>
+  <name>MD-BDGS01</name>
+  <cmt>211007</cmt>
+  <desc>cavite non exploree (salle, arrêt sur P20)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3661315" lon="-75.4335275">
+  <ele>461</ele>
+  <name>MD-BDGS02</name>
+  <cmt>211008</cmt>
+  <desc>Zone de pertes colmate par les gres - fin de prospection bande de grès</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3536948" lon="-75.4133691">
+  <ele>71</ele>
+  <name>MD-BDGS03</name>
+  <cmt>211009</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.366388" lon="-75.4298319">
+  <ele>536</ele>
+  <name>MD-BDGS04</name>
+  <cmt>211010</cmt>
+  <desc>puits sur lapiaz repere (P40)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3554203" lon="-75.4334862">
+  <ele>310</ele>
+  <name>MD-BDG05</name>
+  <cmt>211011</cmt>
+  <desc>P15 repere non descendu : fin prospection bande de grès sud</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3492785" lon="-75.4451948">
+  <ele>360</ele>
+  <name>Grotte Grande Soeur</name>
+  <cmt>211012</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.34557" lon="-75.43171">
+  <ele>392</ele>
+  <name>Gouffre 36</name>
+  <cmt>211013</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3464426" lon="-75.4243251">
+  <ele>298</ele>
+  <name>Gouffre des Mousquetaires</name>
+  <cmt>211014</cmt>
+  <desc>arrêt sur tremie</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3456764" lon="-75.4223366">
+  <ele>310</ele>
+  <name>Gouffre de l'Arche</name>
+  <cmt>211015</cmt>
+  <desc> arrêt meandre impenetrable</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3450136" lon="-75.4240453">
+  <ele>332</ele>
+  <name>Gouffre à la tête d'Ours</name>
+  <cmt>211016</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3455889" lon="-75.4314712">
+  <ele>322</ele>
+  <name>Aven</name>
+  <cmt>211017</cmt>
+  <desc>Beau puits 20m, porche 8mx4m, bouche</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3453485" lon="-75.4234721">
+  <ele>328</ele>
+  <name>Grotte de Lobos Secos</name>
+  <cmt>211018</cmt>
+  <desc>Sert de camp pour la zone Lobos</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3438225" lon="-75.4467178">
+  <ele>339</ele>
+  <name>Grotte Marion</name>
+  <cmt>211019</cmt>
+  <desc>explo-topo Thomas et Fabien le 24-01-2010, arrêt sur perte active etroite verticale en crue (qq l-s), ressaut passable sans corde, à faire par temps sec</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3456801" lon="-75.4286752">
+  <ele>384</ele>
+  <name>Meandre des Sables</name>
+  <cmt>211020</cmt>
+  <desc>explo-topo Thomas et Fabien le 24-01-2010, arrêt sur etroiture ponctuelle en roche massive l35 cm à elargir de peu pour passer. Vue sur 3,5 m penetrable, très fort courant d'air sortant glacial</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3486401" lon="-75.4380346">
+  <ele>364</ele>
+  <name>Grotte de la Conduite</name>
+  <cmt>211021</cmt>
+  <desc>Une conduite forcee traverse à la perpendiculiare le gouffre forme à partir d'une fracture vers -15m (avec un remplissage temoin).</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.346433" lon="-75.4195183">
+  <ele>352</ele>
+  <name>Cueva del Agua</name>
+  <cmt>211022</cmt>
+  <desc>effondrement important termine sur eboulis. Une bache a permis de recueillir de l'eau en periode sèche au camp des Lobos (accès facile)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3449674" lon="-75.4506778">
+  <ele>353</ele>
+  <name>Aven de la Traverse</name>
+  <cmt>211023</cmt>
+  <desc>explo-topo Thomas et Fabien le 24-01-2010</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.350198" lon="-75.4375148">
+  <ele>354</ele>
+  <name>Grotte du Nomade</name>
+  <cmt>211024</cmt>
+  <desc>Situee sur la bande de grès, cette grotte est un vraisemblable abri temporaire</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3454294" lon="-75.4283778">
+  <ele>291</ele>
+  <name>Grotte Filostik</name>
+  <cmt>211025</cmt>
+  <desc>Courte perte dans laquelle ont ete trouves quelques os, moule, patelles</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3455845" lon="-75.4398336">
+  <ele>364</ele>
+  <name>Porche de la Madre 2</name>
+  <cmt>211026</cmt>
+  <desc>petit porche avec un puit de 5m donnant sur un meandre avec arrêt sur eboulis</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3461256" lon="-75.4298176">
+  <ele>294</ele>
+  <name>Aven</name>
+  <cmt>211027</cmt>
+  <desc>P6 qui queute</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3517484" lon="-75.431766">
+  <ele>403</ele>
+  <name>Abri</name>
+  <cmt>211028</cmt>
+  <desc>Abri pouvant servir de camp</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3510256" lon="-75.4253217">
+  <ele>432</ele>
+  <name>Aven</name>
+  <cmt>211029</cmt>
+  <desc>non descendu</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3499481" lon="-75.4417433">
+  <ele>365</ele>
+  <name>Grand Aven Triple</name>
+  <cmt>211030</cmt>
+  <desc>R30 au contact, bouche</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3499515" lon="-75.4384684">
+  <ele>374</ele>
+  <name>Perte Ensablee</name>
+  <cmt>211031</cmt>
+  <desc>Grotte au contact grès calcaire</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3492516" lon="-75.4134852">
+  <ele>581</ele>
+  <name>Cueva 1</name>
+  <cmt>211032</cmt>
+  <desc>a explorer, grosse entree (10-20) dans la montee qui va de l'embarcadaire a la caverne des Lobos</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3490475" lon="-75.4444477">
+  <ele>357</ele>
+  <name>Porche</name>
+  <cmt>211033</cmt>
+  <desc>porche bouche. Abri au vent</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3490544" lon="-75.4183467">
+  <ele>309</ele>
+  <name>AVEN ?</name>
+  <cmt>211034</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3483845" lon="-75.4461422">
+  <ele>415</ele>
+  <name>Aven</name>
+  <cmt>211035</cmt>
+  <desc>non descendu</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3484219" lon="-75.4191563">
+  <ele>303</ele>
+  <name>Lobos Matos</name>
+  <cmt>211036</cmt>
+  <desc>a explorer, beau gouffre d'entree (30m sonde)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3480362" lon="-75.4188859">
+  <ele>288</ele>
+  <name>aven</name>
+  <cmt>211037</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3476954" lon="-75.4452362">
+  <ele>389</ele>
+  <name>Aven</name>
+  <cmt>211038</cmt>
+  <desc>P20 interessant non descendu</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3465691" lon="-75.4241576">
+  <ele>298</ele>
+  <name>aven</name>
+  <cmt>211039</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3458501" lon="-75.4264702">
+  <ele>287</ele>
+  <name>Aven</name>
+  <cmt>211040</cmt>
+  <desc>bouche</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3446775" lon="-75.4249559">
+  <ele>310</ele>
+  <name>Cueva 5</name>
+  <cmt>211041</cmt>
+  <desc>a explorer, dans la doline des lobos</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3397515" lon="-75.4242936">
+  <ele>433</ele>
+  <name>Cueva 6</name>
+  <cmt>211042</cmt>
+  <desc>a explorer, loin au nord</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3500201" lon="-75.4417299">
+  <ele>332</ele>
+  <name>Perte 1Lobos</name>
+  <cmt>211043</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3443566" lon="-75.4527942">
+  <ele>330</ele>
+  <name>Perte des Lobos</name>
+  <cmt>211044</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3467533" lon="-75.4399287">
+  <ele>355</ele>
+  <name>El Culo de la Madre</name>
+  <cmt>211045</cmt>
+  <desc>Grosse entree impressionnante qui suit un plan de faille et qui se termine par deux belles salles avec arrêt sur des eboulis.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3486311" lon="-75.4427993">
+  <ele>331</ele>
+  <name>La Grotte</name>
+  <cmt>211046</cmt>
+  <desc>"inutile d'y aller"</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3483174" lon="-75.4425153">
+  <ele>nan</ele>
+  <name>Igue Dedob</name>
+  <cmt>211047</cmt>
+  <desc>"buldo m'a force à y aller" Flo.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3491007" lon="-75.4446309">
+  <ele>nan</ele>
+  <name>Grotte Petite Soeur</name>
+  <cmt>211048</cmt>
+  <desc>coups de gouges de 0,1x0,2m</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3443566" lon="-75.4527942">
+  <ele>330</ele>
+  <name>Puits Octopus</name>
+  <cmt>211049</cmt>
+  <desc>jonctionne avec la perte des lobos (coordonnees des lobos)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3981748" lon="-75.4502394">
+  <ele>30</ele>
+  <name>Grotte de Tarlton</name>
+  <cmt>212001</cmt>
+  <desc>Coordonnees (pointage carte) - Interêt karsto</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3888343" lon="-75.4128587">
+  <ele>294</ele>
+  <name>TAR01</name>
+  <cmt>212002</cmt>
+  <desc>cavite reperee, non exploree</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.390368" lon="-75.4140537">
+  <ele>380</ele>
+  <name>TAR02</name>
+  <cmt>212003</cmt>
+  <desc>cavite reperee, non exploree</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3924529" lon="-75.416998">
+  <ele>525</ele>
+  <name>TAR03</name>
+  <cmt>212004</cmt>
+  <desc>cavite reperee, non exploree</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3914501" lon="-75.4157653">
+  <ele>476</ele>
+  <name>TAR04</name>
+  <cmt>212005</cmt>
+  <desc>cavite reperee, non exploree</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3893214" lon="-75.412469">
+  <ele>340</ele>
+  <name>TAR05</name>
+  <cmt>212006</cmt>
+  <desc>cavite reperee, non exploree (plus d'autres cavites dans le même secteur)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3988608" lon="-75.37051">
+  <ele>90</ele>
+  <name>Perte du Masque et de la Plume</name>
+  <cmt>213001</cmt>
+  <desc>Instrumente</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.4009678" lon="-75.3835841">
+  <ele>37</ele>
+  <name> Grotte du Finistere</name>
+  <cmt>213002</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.3916623" lon="-75.3800061">
+  <ele>100</ele>
+  <name> Perte Glaciaire</name>
+  <cmt>213003</cmt>
+  <desc>Coordonnees probablement fausses</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3700542" lon="-75.0708519">
+  <ele>186</ele>
+  <name>Trou 1 sur 3eme bloc calcaire</name>
+  <cmt>303001</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3680427" lon="-75.0804735">
+  <ele>163</ele>
+  <name>Perte des Portes d'Abraham</name>
+  <cmt>303002</cmt>
+  <desc>Topographie</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3694275" lon="-75.066096">
+  <ele>20</ele>
+  <name>Cueva Nutria</name>
+  <cmt>303003</cmt>
+  <desc>Topographie</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3708345" lon="-75.0740568">
+  <ele>274</ele>
+  <name>Le Raccourci</name>
+  <cmt>303004</cmt>
+  <desc>un P30 non descendu plein lapiaz, voir GPS Buldo</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3704435" lon="-75.0663273">
+  <ele>55</ele>
+  <name>Le Raccourci Vegetal</name>
+  <cmt>303005</cmt>
+  <desc>petite traversee avec P5 non descendu GPS Buldo</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3728057" lon="-75.0707556">
+  <ele>253</ele>
+  <name>Tortilla con Lemon</name>
+  <cmt>303006</cmt>
+  <desc>Integrale</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3658576" lon="-75.0806277">
+  <ele>86</ele>
+  <name>Gouffre de l'Erbra</name>
+  <cmt>303007</cmt>
+  <desc>Topographie, plus de 400 m explores non toporgaphie</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.364016" lon="-75.0780389">
+  <ele>nan</ele>
+  <name>Regard sur la resurgence de l'Avenir</name>
+  <cmt>303008</cmt>
+  <desc>20 m en aval de la perte principale</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.372902" lon="-75.087967">
+  <ele>nan</ele>
+  <name>Cueva du Plateau</name>
+  <cmt>303009</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3730189" lon="-75.0879672">
+  <ele>nan</ele>
+  <name>Igue du Dike</name>
+  <cmt>303010</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3740255" lon="-75.0886013">
+  <ele>nan</ele>
+  <name>Pas de nom</name>
+  <cmt>303011</cmt>
+  <desc>Perte impenetrable</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3664472" lon="-75.0728574">
+  <ele>301</ele>
+  <name>P20</name>
+  <cmt>303012</cmt>
+  <desc>Non descendu, au dessus de l'emergence d'Abraham</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3636017" lon="-75.079058">
+  <ele>nan</ele>
+  <name>Pas de nom</name>
+  <cmt>303013</cmt>
+  <desc>Sur le chemin pour aller à Erbra ; Grotte Topographiee</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3703453" lon="-75.0650486">
+  <ele>21</ele>
+  <name>Gouffre SansDeconner</name>
+  <cmt>303014</cmt>
+  <desc>Schema</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3662674" lon="-75.0726704">
+  <ele>nan</ele>
+  <name>Resurgence Oubliee</name>
+  <cmt>303015</cmt>
+  <desc>Coordonnee estime sur image satellite ; Resurgence de la perte d'Abraham, prouve par coloration</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3762294" lon="-75.0987061">
+  <ele>399</ele>
+  <name>Perte de la Sucrière</name>
+  <cmt>304001</cmt>
+  <desc>termine à -80</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3684258" lon="-75.0970516">
+  <ele>315</ele>
+  <name>Œil du Diable (ex perte majeure)</name>
+  <cmt>304002</cmt>
+  <desc>Topographie</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3759982" lon="-75.0956596">
+  <ele>484</ele>
+  <name>TC1</name>
+  <cmt>304005</cmt>
+  <desc>Colmate</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3762499" lon="-75.095732">
+  <ele>488</ele>
+  <name>TC2</name>
+  <cmt>304006</cmt>
+  <desc>Colmate</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3799226" lon="-75.111531">
+  <ele>544</ele>
+  <name>TC3</name>
+  <cmt>304007</cmt>
+  <desc>Colmate</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3797095" lon="-75.0984405">
+  <ele>533</ele>
+  <name>TC4</name>
+  <cmt>304008</cmt>
+  <desc>Impenetrable, à desober</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3800691" lon="-75.098585">
+  <ele>533</ele>
+  <name>TC5</name>
+  <cmt>304009</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.380294" lon="-75.0984418">
+  <ele>522</ele>
+  <name>TC6</name>
+  <cmt>304010</cmt>
+  <desc>Colmate</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3813602" lon="-75.102956">
+  <ele>386</ele>
+  <name>Gouffre Pacifico</name>
+  <cmt>304011</cmt>
+  <desc>Explo Romain-Seba + Lionel-Natalia + Tigrou-Denis-Steph, topo realisee</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.381359" lon="-75.1043068">
+  <ele>372</ele>
+  <name>Pas de nom</name>
+  <cmt>304012</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3852948" lon="-75.1072329">
+  <ele>344</ele>
+  <name>Pas de nom</name>
+  <cmt>304013</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3854478" lon="-75.1070752">
+  <ele>nan</ele>
+  <name>Pas de nom</name>
+  <cmt>304014</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3724689" lon="-75.0899344">
+  <ele>nan</ele>
+  <name>Perte du col 1</name>
+  <cmt>304015</cmt>
+  <desc>Puits sur faille</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3740424" lon="-75.0900093">
+  <ele>nan</ele>
+  <name>Perte du col 2</name>
+  <cmt>304016</cmt>
+  <desc>Extremite Nord de la faille</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.372475" lon="-75.0935548">
+  <ele>nan</ele>
+  <name>Igue du Midi</name>
+  <cmt>304017</cmt>
+  <desc>Arrêt sur meandre etroit</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3723671" lon="-75.0935689">
+  <ele>nan</ele>
+  <name>Igue Enviluc</name>
+  <cmt>304018</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3754678" lon="-75.0954861">
+  <ele>nan</ele>
+  <name>Cueva de la Mañana</name>
+  <cmt>304019</cmt>
+  <desc>Colmatage de grès</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.373373" lon="-75.095137">
+  <ele>nan</ele>
+  <name>Trou du Cairn</name>
+  <cmt>304020</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3758723" lon="-75.0956163">
+  <ele>483</ele>
+  <name>Gouffre des Trois Arches</name>
+  <cmt>304021</cmt>
+  <desc>Arrêt sur Siphon</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3798121" lon="-75.1046337">
+  <ele>358</ele>
+  <name>Gouffre "2 spits pour Rien"</name>
+  <cmt>304022</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.4193485" lon="-75.0832816">
+  <ele>438</ele>
+  <name>Gouffre No Futur</name>
+  <cmt>304023</cmt>
+  <desc>Croquis</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.4206168" lon="-75.0827374">
+  <ele>412</ele>
+  <name>Gouffre Retour vers le Futur</name>
+  <cmt>304024</cmt>
+  <desc>Topo, Arrêt sur desob</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3846396" lon="-75.1059093">
+  <ele>325</ele>
+  <name>Arc 13</name>
+  <cmt>304025</cmt>
+  <desc>Schema</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3834909" lon="-75.1033057">
+  <ele>387</ele>
+  <name>Arc 12</name>
+  <cmt>304026</cmt>
+  <desc>Schema</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3834909" lon="-75.1033057">
+  <ele>387</ele>
+  <name>Arc 12bis</name>
+  <cmt>304027</cmt>
+  <desc>Schema</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3842544" lon="-75.1042702">
+  <ele>368</ele>
+  <name>Arc 3</name>
+  <cmt>304028</cmt>
+  <desc>Schema</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3841561" lon="-75.1035946">
+  <ele>380</ele>
+  <name>Arc 4</name>
+  <cmt>304029</cmt>
+  <desc>Schema</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.4149081" lon="-75.0931956">
+  <ele>545</ele>
+  <name>Gouffre Futur 1</name>
+  <cmt>304030</cmt>
+  <desc>Voir Schema Xav</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.4132342" lon="-75.0948746">
+  <ele>562</ele>
+  <name>Gouffre Futur 2</name>
+  <cmt>304031</cmt>
+  <desc>Voir Schema Xav</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.4147283" lon="-75.0931233">
+  <ele>554</ele>
+  <name>Gouffre N°1 Sommet 3</name>
+  <cmt>304032</cmt>
+  <desc>Jonctionne avec Gouffre Futur 1 de Tigrou ; Arrêt sur eboulis à -40 m</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.4131713" lon="-75.0948313">
+  <ele>557</ele>
+  <name>Pas de nom</name>
+  <cmt>304033</cmt>
+  <desc>Termine ; Même gouffre que le Gouffre Futur 2 de Tigrou</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.4145115" lon="-75.0944171">
+  <ele>54</ele>
+  <name>Gouffre n°3 sommet 3</name>
+  <cmt>304034</cmt>
+  <desc>Termine</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3547161" lon="-75.1137532">
+  <ele>nan</ele>
+  <name>Machu-Pichu</name>
+  <cmt>304035</cmt>
+  <desc>Topographie</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3803174" lon="-75.1025801">
+  <ele>399</ele>
+  <name>Gouffre "Un cul de plus à explorer"</name>
+  <cmt>304036</cmt>
+  <desc>A explorer</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.4211373" lon="-75.0840615">
+  <ele>407</ele>
+  <name>Gouffre près du camp du Futur</name>
+  <cmt>304037</cmt>
+  <desc>A Explorer, P20 mini</desc>
+  <sym>Lodging</sym>
+</wpt>
+<wpt lat="-51.3850524" lon="-75.1068587">
+  <ele>347</ele>
+  <name>Arc 14</name>
+  <cmt>304038</cmt>
+  <desc>P60 à explorer par temps sec, arrêt sur rien</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3828042" lon="-75.1251606">
+  <ele>230</ele>
+  <name>Cueva del Condor</name>
+  <cmt>304039</cmt>
+  <desc>Altitude estimee ; Systema de los Tubos</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3909029" lon="-75.1359619">
+  <ele>106</ele>
+  <name>Sumdiero Escondido</name>
+  <cmt>304040</cmt>
+  <desc>A remplir!</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3817121" lon="-75.1113773">
+  <ele>65</ele>
+  <name>Surgencia Estrella</name>
+  <cmt>304041</cmt>
+  <desc>Grosse resurgence, 25 m de long, gros siphon à plonger, galerie remontante sur 20 m</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3817932" lon="-75.1112051">
+  <ele>95</ele>
+  <name>Cueva Estrella</name>
+  <cmt>304042</cmt>
+  <desc>Au dessus de la resurgence Estrella, Acces au collecteur entre 2 siphons</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3909029" lon="-75.1359619">
+  <ele>106</ele>
+  <name>Perte perdue</name>
+  <cmt>304043</cmt>
+  <desc>Coordonnees levees sur carte ; Terminee</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3921876" lon="-75.1369718">
+  <ele>101</ele>
+  <name>Gouffre "Explorevitefait"</name>
+  <cmt>304044</cmt>
+  <desc>Coordonnees levees sur carte ; Terminee</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3825038" lon="-75.1286228">
+  <ele>250</ele>
+  <name>Puits 1 Jean-Phi</name>
+  <cmt>304045</cmt>
+  <desc>Altitude estimee</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3828023" lon="-75.1269568">
+  <ele>nan</ele>
+  <name>Pozo Dyke (System de los Tubas)</name>
+  <cmt>304046</cmt>
+  <desc>Altitude estimee</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3898657" lon="-75.1135673">
+  <ele>276</ele>
+  <name>Arc 1</name>
+  <cmt>304047</cmt>
+  <desc>Croquis ; Fini</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3901282" lon="-75.1117283">
+  <ele>260</ele>
+  <name>Arc 11</name>
+  <cmt>304048</cmt>
+  <desc>Croquis ; Fini</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3914668" lon="-75.1130538">
+  <ele>258</ele>
+  <name>Arc 111</name>
+  <cmt>304049</cmt>
+  <desc>Croquis ; Fini</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3953177" lon="-75.1197183">
+  <ele>299</ele>
+  <name>Arc 113</name>
+  <cmt>304050</cmt>
+  <desc>Croquis ; Fini</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3957618" lon="-75.1249516">
+  <ele>259</ele>
+  <name>Arc 114</name>
+  <cmt>304051</cmt>
+  <desc>Croquis ; Fini</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.393809" lon="-75.1177453">
+  <ele>291</ele>
+  <name>Arc 112 ; Les mystères de l'ouest</name>
+  <cmt>304052</cmt>
+  <desc>Topographie faite, arrêt sur Rien, meandre actif, 50 l-S ; A faire par temps Sec !!!</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3814547" lon="-75.0975678">
+  <ele>456</ele>
+  <name>Gouffre du Robinet</name>
+  <cmt>304053</cmt>
+  <desc>Topographie effectuee</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3827484" lon="-75.1090807">
+  <ele>212</ele>
+  <name>Arc 20 ou gouffre du Soleil</name>
+  <cmt>304054</cmt>
+  <desc>Les 30 derniers mètres sont estimes, arrêt sur Rien au sommet d'iun P30, dernier point topo sur AN de debut de MC, avec une croix au dessus, P30 difficile à equiper car rien ne tient</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.382093" lon="-75.1079583">
+  <ele>229</ele>
+  <name>Arc 19</name>
+  <cmt>304055</cmt>
+  <desc>Arrêt du etr. En sommet de P10 non descendu</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3824436" lon="-75.1080022">
+  <ele>224</ele>
+  <name>Arc 18</name>
+  <cmt>304056</cmt>
+  <desc>arrêt sur eboulis</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3813486" lon="-75.1058011">
+  <ele>300</ele>
+  <name>Arc 17</name>
+  <cmt>304057</cmt>
+  <desc>Perte de canelure, importante,P20 mini,  non exploree</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-51.3745548" lon="-75.0901971">
+  <ele>482</ele>
+  <name>Perte Col 1</name>
+  <cmt>304058</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7098808" lon="-73.9502605">
+  <ele>nan</ele>
+  <name>Moulin Rêve Bleu</name>
+  <cmt>401001</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7178064" lon="-73.9512376">
+  <ele>nan</ele>
+  <name>Perte Saloude</name>
+  <cmt>401002</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7119596" lon="-73.9493472">
+  <ele>122</ele>
+  <name>Moulin de glace</name>
+  <cmt>401003</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7126135" lon="-73.9460846">
+  <ele>nan</ele>
+  <name>Lac 2</name>
+  <cmt>401004</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7130959" lon="-73.9457075">
+  <ele>nan</ele>
+  <name>Lac Tic et Tac</name>
+  <cmt>401005</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7604545" lon="-73.9638345">
+  <ele>250</ele>
+  <name>Cueva Esperanza</name>
+  <cmt>401006</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7410762" lon="-73.9637841">
+  <ele>nan</ele>
+  <name>Traversee de la Cascade</name>
+  <cmt>401007</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7413336" lon="-73.9653974">
+  <ele>nan</ele>
+  <name>L'abri sous glace</name>
+  <cmt>401008</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7378117" lon="-73.9719438">
+  <ele>nan</ele>
+  <name>Salto del Agua</name>
+  <cmt>401009</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7369781" lon="-73.9692678">
+  <ele>nan</ele>
+  <name>Moulin Abou</name>
+  <cmt>401010</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7373416" lon="-73.9666626">
+  <ele>nan</ele>
+  <name>Moulin Tapis Volant</name>
+  <cmt>401011</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.739048" lon="-73.9673349">
+  <ele>nan</ele>
+  <name>Traversee</name>
+  <cmt>401012</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.773865" lon="-73.9655321">
+  <ele>nan</ele>
+  <name>Moulin du Champignon</name>
+  <cmt>401013</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7744519" lon="-73.9390469">
+  <ele>nan</ele>
+  <name>Traversee du meandre 1</name>
+  <cmt>401014</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7739138" lon="-73.9382552">
+  <ele>nan</ele>
+  <name>Traversee du meandre 2</name>
+  <cmt>401015</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.771807" lon="-73.9557887">
+  <ele>nan</ele>
+  <name>Moulin de glace</name>
+  <cmt>401016</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.77447" lon="-73.9657783">
+  <ele>nan</ele>
+  <name>Moulin de la Conception</name>
+  <cmt>401017</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7338968" lon="-73.974798">
+  <ele>48</ele>
+  <name>Cueva Tempanos - Entree 1</name>
+  <cmt>401018</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7330339" lon="-73.9748835">
+  <ele>36</ele>
+  <name>Cueva Tempanos - Entree 2</name>
+  <cmt>401019</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7330865" lon="-73.9737129">
+  <ele>58</ele>
+  <name>Cueva Tempanos - Entree 3</name>
+  <cmt>401020</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-48.7378172" lon="-73.9705428">
+  <ele>nan</ele>
+  <name>Fuite Prometteuse</name>
+  <cmt>401021</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6815984" lon="-73.5823813">
+  <ele>439.4</ele>
+  <name>Perte3-HPS35</name>
+  <cmt>402001</cmt>
+  <desc>Moulin avec ambiance aquatique</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6816637" lon="-73.5825775">
+  <ele>438.8</ele>
+  <name>Perte4-HPS35</name>
+  <cmt>402002</cmt>
+  <desc>Moulin avec ambiance aquatique</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6820489" lon="-73.5824527">
+  <ele>446.1</ele>
+  <name>Perte5-HPS35</name>
+  <cmt>402003</cmt>
+  <desc>Puits de 10 m arrose avec ambiance aquatique</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6826751" lon="-73.5829151">
+  <ele>451.2</ele>
+  <name>Perte6-HPS35</name>
+  <cmt>402004</cmt>
+  <desc>Puits de 10 m arrose avec ambiance aquatique</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6835774" lon="-73.5824208">
+  <ele>459.5</ele>
+  <name>Perte7-HPS35</name>
+  <cmt>402005</cmt>
+  <desc>Double perte tres aquatique</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6861359" lon="-73.5879639">
+  <ele>494.2</ele>
+  <name>Moulin de la Science</name>
+  <cmt>402006</cmt>
+  <desc>Moulin puits de 5m siphonant apres 5 m equipement scientifique</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6803304" lon="-73.5912947">
+  <ele>468.9</ele>
+  <name>CampHPS35Nord</name>
+  <cmt>402007</cmt>
+  <desc>Camp glacier de Lionel, Clement et Katia mis en place le 28.01.2023 (equipe rive droite)</desc>
+  <sym>Lodging</sym>
+</wpt>
+<wpt lat="-50.6828041" lon="-73.5913339">
+  <ele>465.4</ele>
+  <name>CampHPS35Sud</name>
+  <cmt>402008</cmt>
+  <desc>Camp glacier  mis en place le 27.01.2023 (equipe rive gauche)</desc>
+  <sym>Lodging</sym>
+</wpt>
+<wpt lat="-50.6922939" lon="-73.575192">
+  <ele>461.5</ele>
+  <name>Perte10-HPS35</name>
+  <cmt>402009</cmt>
+  <desc>Petite perte sur contact glacier et roche en rive droite du HPS35. Descendu par Tanguy, Arnauld et Laurence le 28.01.2023. Denivellation estimmee a 8 m arret sur pincement glace/roche</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6910206" lon="-73.5740271">
+  <ele>491.8</ele>
+  <name>Perte de Rascarcapac</name>
+  <cmt>402010</cmt>
+  <desc>Immense perte au contact glacier et cascade rive droite du glacier HPS35. Diametre de 30 x 10 a l'entree, enorme debit. Descendu 30 m par Arnauld Lolo et Tanguy le 28.01.2023. developement et denivellation estimee a min 50 m, 50 m de profondeur. </desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6872273" lon="-73.5786016">
+  <ele>489.9</ele>
+  <name>Perte9-HPS35</name>
+  <cmt>402011</cmt>
+  <desc>Petit moulin sur zone est du glacier HPS-35, aquatique mais penetrable.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6839455" lon="-73.5794086">
+  <ele>489.9</ele>
+  <name>Perte17-HPS35</name>
+  <cmt>402012</cmt>
+  <desc>Moulin a faire 10/10</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6815326" lon="-73.583629">
+  <ele>418.6</ele>
+  <name>Perte12-HPS35</name>
+  <cmt>402013</cmt>
+  <desc>Moulin a faire 9/10</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6814313" lon="-73.5834338">
+  <ele>416.4</ele>
+  <name>Perte13-HPS35</name>
+  <cmt>402014</cmt>
+  <desc>Moulin a faire 8/10</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6817622" lon="-73.5832823">
+  <ele>418.2</ele>
+  <name>Perte14-HPS35</name>
+  <cmt>402015</cmt>
+  <desc>Moulin a faire 8/10</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6901012" lon="-73.5819693">
+  <ele>539.4</ele>
+  <name>Perte15-HPS35</name>
+  <cmt>402016</cmt>
+  <desc>Moulin termine explore KLC le 28.02.2023. fin sur pincement</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6964071" lon="-73.5798675">
+  <ele>521.2</ele>
+  <name>Perte16-HPS35</name>
+  <cmt>402017</cmt>
+  <desc>Moulin sans trop d'eau a faire</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6998265" lon="-73.5726555">
+  <ele>689.2</ele>
+  <name>CascadeSurLac</name>
+  <cmt>402018</cmt>
+  <desc>Cascade au fond du HPS35 au contact qui mene a un lac - pas de suite</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6909145" lon="-73.5845074">
+  <ele>533.3</ele>
+  <name>Perte11-HPS35</name>
+  <cmt>402019</cmt>
+  <desc>Moulin interessant pointe par Arnauld Laurence Tanguy le 28.01.2023. Aquatique p7 puis baignoire</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6795263" lon="-73.5887568">
+  <ele>365</ele>
+  <name>Perte18-HPS35</name>
+  <cmt>402020</cmt>
+  <desc>Moulin pointe par equipe KLC sur l'approche rive droite le 27.01.2023</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6746431" lon="-73.6067222">
+  <ele>0</ele>
+  <name>Debarcadere Rive Gauche</name>
+  <cmt>402021</cmt>
+  <desc>Debarcadere du camp glacio 2023 - pour acces rive gauche du glacier HPS35. pointe le 27.01.2023</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6979773" lon="-73.5780926">
+  <ele>499.2</ele>
+  <name>CascadeLac</name>
+  <cmt>402022</cmt>
+  <desc>Cascade avec lac au fond au contact du glacier - pas de continuation.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6847919" lon="-73.5876362">
+  <ele>479.9</ele>
+  <name>PerteImpenetrable1-HPS35</name>
+  <cmt>402023</cmt>
+  <desc>Depart de moulin impenetrable, pointe par Arnauld, Lolo et Tanguy le 27.01.2023</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6848986" lon="-73.5875339">
+  <ele>481.2</ele>
+  <name>PerteImpenetrable2-HPS35</name>
+  <cmt>402024</cmt>
+  <desc>Depart de moulin impenetrable, pointe par Arnauld, Lolo et Tanguy le 27.01.2023</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6813393" lon="-73.5891978">
+  <ele>429.4</ele>
+  <name>Pert19-HPS35</name>
+  <cmt>402025</cmt>
+  <desc>Meandre etroit aqua</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6794193" lon="-73.5755253">
+  <ele>451</ele>
+  <name>Perte 51</name>
+  <cmt>402026</cmt>
+  <desc>Perte au contact roche volcanique/glacier; equipe dans la glace avec quelques AN sur Roches. Assez rectiligne, bien arrose, arret sur siphon moche a -120m.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6177664" lon="-73.5448188">
+  <ele>296.7</ele>
+  <name>Perte1-HPS31</name>
+  <cmt>403001</cmt>
+  <desc>Moulin sur glacier HPS31, riviere meandriforme dedans. Pointe par MOwgli sur reconnaissance le 30.01.2023 avec Buldo et Charlotte. Sur GPS centre-terre</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6178483" lon="-73.5470499">
+  <ele>294.2</ele>
+  <name>Perte2-HPS31</name>
+  <cmt>403002</cmt>
+  <desc>Moulin sur glacier HPS31. Pointe par Mowgli sur reconnaissance le 30.01.2023 avec Buldo et Charlotte. Sur GPS centre-terre</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6188807" lon="-73.5483469">
+  <ele>269.6</ele>
+  <name>Perte3-HPS31</name>
+  <cmt>403003</cmt>
+  <desc>Moulin sur glacier HPS31. Pointe par Mowgli sur reconnaissance le 30.01.2023 avec Buldo et Charlotte. Sur GPS centre-terre</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6202343" lon="-73.5487152">
+  <ele>229.8</ele>
+  <name>Perte4-HPS31</name>
+  <cmt>403004</cmt>
+  <desc>Moulin sur glacier HPS31. Pointe par Mowgli sur reconnaissance le 30.01.2023 avec Buldo et Charlotte. Sur GPS centre-terre</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6206394" lon="-73.5487451">
+  <ele>212.8</ele>
+  <name>Perte5-HPS31</name>
+  <cmt>403005</cmt>
+  <desc>Moulin sur glacier HPS31. Pointe par Mowgli sur reconnaissance le 30.01.2023 avec Buldo et Charlotte. Sur GPS centre-terre</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6217438" lon="-73.55004">
+  <ele>177.6</ele>
+  <name>Perte6-HPS31</name>
+  <cmt>403006</cmt>
+  <desc>Moulin sur glacier HPS31. Pointe par Mowgli sur reconnaissance le 30.01.2023 avec Buldo et Charlotte. Sur GPS centre-terre</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6218282" lon="-73.5495992">
+  <ele>178.1</ele>
+  <name>Perte7-HPS31</name>
+  <cmt>403007</cmt>
+  <desc>Moulin sur glacier HPS31. Pointe par Mowgli sur reconnaissance le 30.01.2023 avec Buldo et Charlotte. Sur GPS centre-terre</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.6256842" lon="-73.5552067">
+  <ele>27</ele>
+  <name>GrotteLapisLazuli</name>
+  <cmt>403008</cmt>
+  <desc>Grotte sous glaciaire exploree par Serge le 30.01.2023, topographiee par Charlotte Honiat le 31.01.2023 et utilisee modele photogrammetrie.</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="nan" lon="nan">
+  <ele>401</ele>
+  <name>cueva</name>
+  <cmt>NEW_15</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.1328762" lon="-75.2974004">
+  <ele>0</ele>
+  <name>Resurgence Hongo</name>
+  <cmt>NEW_34</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-56.7157641" lon="15.0277232">
+  <ele>6</ele>
+  <name>Resurgence 1</name>
+  <cmt>NEW_36</cmt>
+  <desc>nan</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.0102502" lon="-70.9489944">
+  <ele>10</ele>
+  <name>Cueva Pirates</name>
+  <cmt>NEW_8</cmt>
+  <desc>resurgence (courant d'air arrêt sur puits)</desc>
+  <sym>Waypoint</sym>
+</wpt>
+<wpt lat="-50.089485" lon="-75.1372948">
+  <ele>0</ele>
+  <name>Resurgence des Pirates</name>
+  <cmt>106067</cmt>
+  <desc>resurgence sous le porche de la grotte des Pirates, connectee a la grotte des Pirates dans la zone Dodgy Plumbing</desc>
+  <sym>Waypoint</sym>
+</wpt>
+</gpx>
