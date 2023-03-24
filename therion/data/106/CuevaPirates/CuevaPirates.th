@@ -17,8 +17,8 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 	input Girafe/Girafe.th
 	input SiphonAmont/SiphonAmont.th
 	input galerie210223/galerie210223.th
-	input Pincemiboucle/Pincemiboucle.th
-	input Pincemiactif/Pincemiactif.th
+	input PincemiBoucle/PincemiBoucle.th
+	input PincemiActif/PincemiActif.th
 	input Pincemi2/Pincemi2.th
 	input Rhinalto/Rhinalto.th
 	input Actif0303/Actif0303.th
@@ -63,15 +63,15 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 	equate a55@galerie210223 207@DodgyPlumbingResurvey
 
 	equate 9@SiphonAmont 6@DodgyPlumbingResurvey
-	equate 74@b.Anglais2008 1@Pincemiboucle
-	equate 37@Pincemiboucle 11@UnCaillouDansLaCulotte
-	equate 5@Pincemiboucle 23@PrioriteADroite
-	equate 15@UnCaillouDansLaCulotte 1@Pincemiactif 
-	equate 10@PinceMi 13@Pincemiactif
+	equate 74@b.Anglais2008 1@PincemiBoucle
+	equate 37@PincemiBoucle 11@UnCaillouDansLaCulotte
+	equate 5@PincemiBoucle 23@PrioriteADroite
+	equate 15@UnCaillouDansLaCulotte 1@PincemiActif 
+	equate 10@PinceMi 13@PincemiActif
 	equate 1@Pincemi2 20@PinceMi
 	equate 117@c.Anglais2008 31@Rhinalto
-	equate 12@Pincemiboucle 38@Actif0303
-	equate 23@Pincemiboucle 0@Actif0303
+	equate 12@PincemiBoucle 38@Actif0303
+	equate 23@PincemiBoucle 0@Actif0303
 
  	join UnCaillouDansLaCulotte-1p@UnCaillouDansLaCulotte waterworld-p@Anglais2008
 	join entrance-p@Anglais2008 sumpofdoom-p@Anglais2008
@@ -95,6 +95,8 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 	join PrioriteADroite-1p@PrioriteADroite muddyhollows-p@Anglais2008
 	join stalchamber-p@Anglais2008 SalinasNew2-1p@Ascension
 	join PiratesJonction-2p@PiratesJonction SalinasNew4-1p@SalinasNew4
+	join PincemiActif-1p@PincemiActif PinceMi-1p@PinceMi
+	join UnCaillouDansLaCulotte-1p@UnCaillouDansLaCulotte PincemiActif-1p@PincemiActif
 
 	centreline 
 		extend start 32@Pirates2008
@@ -186,8 +188,8 @@ map m-all-p -projection plan
 	m-all-p@UnCaillouDansLaCulotte
 	m-all-p@Girafe
 	m-all-p@galerie210223
-	m-all-p@Pincemiactif
-	m-all-p@Pincemiboucle
+	m-all-p@PincemiActif
+	m-all-p@PincemiBoucle
 	m-all-p@Pincemi2
 	m-all-p@Rhinalto
 	m-all-p@Actif0303

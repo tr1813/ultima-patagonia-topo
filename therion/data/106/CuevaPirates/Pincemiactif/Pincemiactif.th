@@ -1,13 +1,14 @@
 # 2023.02.26 created by TopoDroid v 5.1.40
 
-survey Pincemiactif -title "Pincemiactif"
+survey PincemiActif -title "Pincemi Actif"
     # voirr topo ucdlc 
 
   centerline
     date 2023.02.25 
-    team "Alex"
-    team "jules"
-    team "Franck"
+    explo-date 2023.02.25
+    team "Alexandre Honiat"
+    team "Jules Clouzeau"
+    team "Franck Bréhier"
     units length meters
     units compass clino degrees
     data normal from to length compass clino
@@ -160,10 +161,10 @@ survey Pincemiactif -title "Pincemiactif"
     12 13 5.47 343.0 4.9
   endcenterline
 
-input "Pincemiactif-1p.th2"
+input "PincemiActif-1p.th2"
 
   map m-all-p -projection plan
-     Pincemiactif-1p
+     PincemiActif-1p
   endmap
 
 endsurvey
