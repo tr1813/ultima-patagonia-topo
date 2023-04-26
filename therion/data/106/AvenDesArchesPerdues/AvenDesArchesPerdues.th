@@ -13,7 +13,7 @@ survey AvenDesArchesPerdues -entrance 0@Entree -attr cad_num 106022 -attr exped 
 
     equate 8.0@Entree 57@FenetreMeteo
     equate 17@FenetreMeteo 17@Panthere
-    #equate 33@Panthere 33@Collecteur
+    equate 33@Panthere 33@Collecteur
     equate 55@Collecteur 0@Arches_Perdues_55
     equate 64@Collecteur 0@Arches_Perdues_last
     equate 21@Arches_Perdues_last 25@Panthere

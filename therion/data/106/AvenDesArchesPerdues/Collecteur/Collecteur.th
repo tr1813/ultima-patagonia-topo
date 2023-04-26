@@ -3,6 +3,7 @@ survey Collecteur -title "Collecteur"
 
 input Collecteur-1p.th2
 input Collecteur-2p.th2
+input Collecteur-e.th2
 
   map m-Collecteur-p -projection plan 
     Collecteur-1p
@@ -50,7 +51,7 @@ input Collecteur-2p.th2
     extend vertical
     33 - 8.00 0.0 90.0
     33 - 0.00 0.0 -90.0
-    extend left
+    extend right
     33 34 2.37 340.0 -6.0
     # extend auto
     35 - 1.60 351.2 0.0
@@ -73,7 +74,7 @@ input Collecteur-2p.th2
     extend vertical
     37 - 8.00 0.0 90.0
     37 - 0.50 0.0 -90.0
-    extend left
+    extend right
     37 38 5.22 309.3 0.6
     # extend auto
     38 - 0.20 272.8 0.0
@@ -88,7 +89,7 @@ input Collecteur-2p.th2
     extend vertical
     39 - 2.00 0.0 90.0
     39 - 1.80 0.0 -90.0
-    extend left
+    extend right
     39 40 2.48 339.1 -14.2
     # extend auto
     40 - 1.00 175.3 0.0
@@ -96,7 +97,7 @@ input Collecteur-2p.th2
     extend vertical
     40 - 2.50 0.0 90.0
     40 - 1.40 0.0 -90.0
-    extend left
+    extend right
     40 41 6.86 265.3 -22.6
     # extend auto
     41 - 0.00 236.0 0.0
@@ -104,7 +105,7 @@ input Collecteur-2p.th2
     extend vertical
     41 - 2.50 0.0 90.0
     41 - 1.80 0.0 -90.0
-    extend left
+    extend right
     41 42 3.50 326.0 -6.3
     # extend auto
     42 - 0.50 199.0 0.0
@@ -112,7 +113,7 @@ input Collecteur-2p.th2
     extend vertical
     42 - 1.00 0.0 90.0
     42 - 2.00 0.0 -90.0
-    extend left
+    extend right
     42 43 7.99 289.0 0.5
     # extend auto
     43 - 0.80 143.7 0.0
@@ -120,7 +121,7 @@ input Collecteur-2p.th2
     extend vertical
     43 - 0.50 0.0 90.0
     43 - 1.60 0.0 -90.0
-    extend left
+    extend right
     43 44 4.00 233.7 -1.2
     # extend auto
     44 - 0.00 329.6 0.0
@@ -150,7 +151,7 @@ input Collecteur-2p.th2
     extend vertical
     46 - 1.50 0.0 90.0
     46 - 0.40 0.0 -90.0
-    extend left
+    extend right
     46 47 6.34 307.0 -31.5
     # extend auto
     47 - 0.00 276.1 0.0
@@ -165,7 +166,7 @@ input Collecteur-2p.th2
     extend vertical
     48 - 0.80 0.0 90.0
     48 - 1.20 0.0 -90.0
-    extend left
+    extend right
     48 49 5.83 344.5 -10.8
     # extend auto
     49 - 1.00 201.9 0.0
@@ -173,7 +174,7 @@ input Collecteur-2p.th2
     extend vertical
     49 - 0.00 0.0 90.0
     49 - 1.30 0.0 -90.0
-    extend left
+    extend right
     49 50 3.93 291.9 -10.8
     # extend auto
     50 - 3.20 268.3 0.0
@@ -188,7 +189,7 @@ input Collecteur-2p.th2
     extend vertical
     51 - 2.00 0.0 90.0
     51 - 1.70 0.0 -90.0
-    extend left
+    extend right
     51 52 6.96 291.4 4.8
     # extend auto
     52 - 0.00 332.5 0.0
@@ -277,7 +278,7 @@ input Collecteur-2p.th2
     extend vertical
     63 - 1.80 0.0 90.0
     63 - 1.30 0.0 -90.0
-    extend left
+    extend right
     63 64 12.22 317.5 -4.1
     # extend auto
     64 - 0.00 266.4 0.0
@@ -292,7 +293,7 @@ input Collecteur-2p.th2
     extend vertical
     65 - 1.50 0.0 90.0
     65 - 0.20 0.0 -90.0
-    extend left
+    extend right
     65 66 8.80 215.7 -1.0
     # extend auto
     66 - 1.50 53.9 0.0
