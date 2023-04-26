@@ -389,6 +389,7 @@ survey Arches_Perdues_last -title "Arches Perdues last"
   endcenterline
 
   input "Arches_Perdues_last-1p.th2"
+  input "Arches_Perdues_last-e.th2"
 
   map m-Arches_Perdues_last-p -projection plan 
     Arches_Perdues_last-1p
