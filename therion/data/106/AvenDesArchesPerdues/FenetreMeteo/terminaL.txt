@@ -1,0 +1,7 @@
+ terminaL
+ navigue dans le dossier therion
+ execute le script create_2d.py 
+ produit un squelette au format th2.
+exemple: 
+
+ python ..\python\create_2d.py .\data\106\AvenDesArchesPerdues\AvenDesArchesPerdues.th FenetreMeteo --projection extended
