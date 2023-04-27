@@ -2,6 +2,10 @@ survey 402 -title "402 HPS-35"
   
   input Perte3-HPS35/Perte3-HPS35.th 
 
+  input Perte5-HPS35/Perte5-HPS35.th 
+
+  input Perte7-HPS35/Perte7-HPS35.th 
+
   input MoulinDeLaScience/MoulinDeLaScience.th
 
   input PerteDeRascarcapac/PerteDeRascarcapac.th
@@ -10,9 +14,17 @@ survey 402 -title "402 HPS-35"
   centreline
   cs UTM18S
 
-  fix ENT_402001 600151 4384623 439 
+  fix ENT_402001 600151 4384623 439.4 
   station ENT_402001 "Perte 3 du HPS35"
   equate ENT_402001 TOP@Perte3-HPS35
+
+  fix ENT_402003 600145 4384573 446.1
+  station ENT_402003 "Perte 5 du HPS35"
+  equate ENT_402003 TOP@Perte5-HPS35
+
+  fix ENT_402005 600144 4384403 459.5
+  station ENT_402005 "Perte 7 du HPS35"
+  equate ENT_402005 TOP@Perte7-HPS35
 
    # moulin de la Science 
 

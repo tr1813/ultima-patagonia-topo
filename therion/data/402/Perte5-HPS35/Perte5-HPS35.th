@@ -1,0 +1,24 @@
+survey Perte5-HPS35 -title "Perte 5 du glacier HPS35" \
+                        -attr cad_num 402003 \
+                        -attr exped UP2023 \
+                        -entrance TOP 
+
+
+    input Perte5-HPS35-e.th2
+
+    centreline
+
+			team "Carlos Placido"
+			explo-team "Centre Terre"
+
+        	units length meters
+        	units compass clino degrees
+        	data normal from to tape compass clino
+        	TOP BOTTOM 50 0 DOWN
+            BOTTOM SUMP 15  0 0
+
+    endcentreline
+   map m-all-e -projection extended 
+		Perte5-HPS35-1e
+	endmap
+endsurvey 

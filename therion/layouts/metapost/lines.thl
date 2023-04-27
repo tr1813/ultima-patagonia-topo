@@ -236,6 +236,65 @@ layout custom_lines
     	  thdraw Path withcolor (0,0.7,0.9) dashed evenly scaled (1*optical_zoom);
     	enddef;
 
+
+		 % store the original clean_legend_box
+  boolean l_rope_MY_inlegend;
+  l_rope_MY_inlegend:=false;
+  let l_rope_MY_legend_box = clean_legend_box;
+  % redefine clean_legend_box to store the flag, then run the original
+  def clean_legend_box =
+    l_rope_MY_inlegend:=true;
+    l_rope_MY_legend_box;
+  enddef;
+
+  def l_rope(expr P, show_anchors, show_rebelays)=
+    T:=identity;
+    pickup PenB;
+    if l_rope_MY_inlegend:
+      % drawing the legend - this gets run twice, since Therion draws two ropes, one for each parameter
+      if show_rebelays:
+        thdraw ((.35,.9) -- (.4,.85) -- (.4,.5) .. controls (.4,.4) and (.45,.4) .. (.5,.5) -- (.55,.45) -- (.55,.1)) inscale;
+        thdraw ((.4,.85) -- (.45,.9)) inscale;
+        thdraw ((.55,.45) -- (.6,.5)) inscale;
+        thfill fullcircle scaled .15u shifted ((.35,.9) inscale);
+        thfill fullcircle scaled .15u shifted ((.45,.9) inscale);
+        thfill fullcircle scaled .15u shifted ((.5,.5) inscale);
+        thfill fullcircle scaled .15u shifted ((.6,.5) inscale);
+      fi;
+    else:
+      begingroup;
+        save type;
+        string type;
+        if known ATTR_type:
+          type:=ATTR_type;
+        else:
+          type:="primary";
+        fi;
+        if type = "secondary":
+          thdraw P withcolor (0.7, 0.7, 0.7);
+        else:
+          thdraw P;
+        fi;
+      endgroup;
+    fi;
+  	enddef;
+
+	def l_u_deviation (expr P) =
+    begingroup;
+      save ellipse;
+      T:=identity;
+      pickup PenC;
+      path ellipse;
+      ellipse:=fullcircle xscaled (.5u) yscaled (.25u) shifted (point (length P) of P);
+      thdraw P cutafter ellipse;
+      draw ellipse;
+    endgroup;
+  enddef;
+  initsymbol("l_u_deviation");
+  def l_u_deviation_legend =
+    l_u_deviation(((.1,.5)--(.8,.5)) inscale);
+  enddef;
+
     	# thin grey line
     	def l_u_texture (expr P)=
     	  T:=identity;
@@ -542,6 +601,7 @@ layout custom_lines
 		# initialise new line symbols
 	    initsymbol("l_u_overlay_MY");
 	    initsymbol("l_u_mine_MY");
+		initsymbol("l_u_deviation_MY");
 	    initsymbol("l_u_underlay_MY");
 	    initsymbol("l_u_fault");
 	    initsymbol("l_u_icestep_MY");
