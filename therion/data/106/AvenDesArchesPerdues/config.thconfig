@@ -25,6 +25,8 @@ layout plan
     color map-bg [85 85 85]
       symbol-assign line wall:blocks MY
 
+    rotate 135 
+
   code tex-map
   #\framethickness=0.5mm
   \def\xcenter{-99}
