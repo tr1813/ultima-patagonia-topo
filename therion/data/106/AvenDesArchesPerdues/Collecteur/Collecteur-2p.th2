@@ -4,8 +4,8 @@ encoding  utf-8
 
 scrap Collecteur-2p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
-point 49.0473 2145.5505 label -align tr -scale l -text "Vers Siphon 2"
-point 786.119 3548.2 label -align tr -scale l -text "Siphom terminal - 306 m"
+point 49.0473 2145.55 label -align tr -scale l -text "Vers Siphon 2"
+point 786.119 3548.2 label -align tr -scale l -text "Siphon terminal - 306 m"
 point 870.553 1563.69 gradient -orientation 15.322325339702354
 point 1257.15 2990.37 gradient -orientation 340.45208753036945
 point 1309.93 2803.71 gradient -orientation 340.0386571361822
