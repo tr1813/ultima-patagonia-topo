@@ -224,7 +224,7 @@ line wall
   406.3165 6861.6124 424.5962 6921.4352 424.5962 6921.4352
 endline
 
-point 2047.78 5707.07 label -align tr -scale xl -text "Galerie Fenêtre Météo"
+point 2047.78 5707.07 label -align tr -scale m -text "Galerie Fenêtre Météo"
 point 4067.04 4952.87 continuation 
 line rock-border -close on
   4143.62 5208.76
