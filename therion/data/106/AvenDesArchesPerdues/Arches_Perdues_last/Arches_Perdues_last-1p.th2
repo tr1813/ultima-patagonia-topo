@@ -4,6 +4,7 @@ encoding  utf-8
 
 scrap Arches_Perdues_last-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
+point 2393.457 1840.6586 label -align tr -scale l -text "Salle de la derniere Arche"
 point 1593.03 2035.39 gradient -orientation 304.63713439651684
 point 958.661 2153.54 gradient -orientation 284.679390119045
 point 834.386 2238.18 gradient -orientation 318.239460652016

@@ -4,7 +4,9 @@ encoding  utf-8
 
 scrap Collecteur-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
-point 223.856 1015.232 gradient -orientation 284.65055389183465
+point 1427.9117 1125.1177 label -align tr -scale l -text "<bf>P12"
+point 639.3085 247.4022 label -align tr -scale l -text "<bf>P7"
+point 223.856 1015.23 gradient -orientation 284.65055389183465
 point 256.448 797.577 gradient -orientation 65.55372172245765
 point 298.729 925.273 gradient -orientation 139.46525752136833
 point 397.184 780.453 gradient -orientation 139.93794782042676
@@ -411,8 +413,8 @@ endarea
 
 point 1099.03 177.0 water-flow -orientation 333.44998978176613
 point 1074.46 235.23 water-flow -orientation 340.3099894899792
-point 1095.123 65.878 continuation 
-point 1173.198 90.617 continuation 
+point 1095.12 65.878 continuation 
+point 1173.2 90.617 continuation 
 line wall 
   1237.84 540.1
   1247.53 548.5

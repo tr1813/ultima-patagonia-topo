@@ -4,6 +4,7 @@ encoding  utf-8
 
 scrap Panthere-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
+point 1431.4834 2362.2197 label -align tr -scale l -text "Salle du<br>metro"
 point 212.244 2652.93 gradient -orientation 79.37903541342398
 point 385.699 2562.89 gradient -orientation 238.68754096872664
 point 481.979 2715.74 gradient -orientation 78.36010215773392
@@ -233,7 +234,7 @@ area u:smallblocks -attr scale 2
   Panthere-1p_u_smallblocks_4
 endarea
 
-point 3092.35 2326.75 label -align tr -scale l -text Panthere
+point 3174.4558 2496.0933 label -align tr -scale l -text "Galerie Panthere"
 line wall 
   3335.41 1518.22
   3356.8905 1486.3917 3382.3998 1457.5559 3400.4 1423.32
