@@ -4,7 +4,7 @@ encoding  utf-8
 
 scrap Arches_Perdues_55-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
-point 1466.45 -4004.05 label -align tr -scale xl -text "<bf>Plan"
+point 1466.45 -4004.05 label -align tr -scale xl -text "<bf>PLAN"
 point 1251.2 4562.77 label -align tr -scale l -text "Salle de la rampe <br>de lancement"
 point 2583.65 4753.62 gradient -orientation 37.31185877550851
 point 2274.06 4343.08 gradient -orientation 37.31185877550851

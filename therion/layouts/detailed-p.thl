@@ -21,7 +21,7 @@ layout detailed-p
   legend on
   map-header -5 95 ne
   statistics topo-length off
-  fonts-setup 6 7 12 14 16
+  fonts-setup 6 7 12 14 72
   symbol-hide point label
 
 
