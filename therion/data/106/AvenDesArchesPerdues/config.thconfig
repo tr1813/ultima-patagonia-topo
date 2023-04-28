@@ -18,6 +18,10 @@ layout local
   color map-bg transparent
   cs UTM18S
   grid-origin 488596 4451785 0 m 
+  symbol-colour line rope [70 10 0]
+  symbol-colour line u:deviation [70 10 0]
+  symbol-colour point anchor [70 10 0]
+
 endlayout 
 
 layout plan 
@@ -29,32 +33,32 @@ layout plan
 
   code tex-map
   #\framethickness=0.5mm
-  \def\xcenter{-99}
-  \def\ycenter{75}
-  \def\xscale{40}
-  \def\yscale{40}
+  \def\xcenter{0}
+  \def\ycenter{0}
+  \def\xscale{10}
+  \def\yscale{10}
   \def\cadnum{106022}
   \legendwidth=5cm
   # change this
   \def\customheader{
-  \size[13]\bf \the\cavename{} / \cadnum \ss
-  \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
+  \size[18]\bf \the\cavename{} / \cadnum \ss
+  \si \par \size[14]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
   \par{ \quad} 
-  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z :  m}  \ss
+  \size[14]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 489704 \par  Y : 4451405 \par Z : 358 m}  \ss
   \par{ \quad} 
   \par \si Développement :\ss{ \the\cavelength}
   \par \si Dénivellation :\ss{ \the\cavedepth}
   \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
-  \par \si Relevés topographiques :\ss{ } Jules, Charlotte, Franck
-  \par Jules, Charlotte, Franck, Alex, Jess, Olivier, Joël, Natalia, Tanguy
-  \par \si Report et dessins :\ss{  Tanguy Racine}}
+  \par \si Relevés topographiques :\ss{ } Alexandre Honiat, Jules Clouzeau, Charlotte Honiat, Tanguy Racine, 
+  \par Olivier Guerard, Jessica Morin-Buote, Joël Tremoulet, Natalia Morata, Franck Brehier, Medhi Boukhal 
+  \par \si Report et dessins :\ss{Alexandre Honiat, Tanguy Racine}}
   
   \def\maplayout{
-  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
-  \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter - 3*\yscale\relax}{N}{\scalebar}
-  \legendbox{\the\numexpr\xcenter-\xscale\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/AvenDesArchesPerdues-ee.pdf"}}}
-  \legendbox{\the\numexpr\xcenter+65\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
-   \legendbox{\the\numexpr\xcenter+205\relax}{\the\numexpr\ycenter -10 \relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter +10*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter+20\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter-4*\xscale\relax}{\the\numexpr\ycenter + 5*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/AvenDesArchesPerdues-ee.pdf"}}}
+  \legendbox{\the\numexpr\xcenter-13\relax}{\the\numexpr\ycenter +10*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+   \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter +55 \relax}{N}{\northarrow}
  }
   endcode
 endlayout
@@ -68,7 +72,7 @@ endlayout
 
 #export model -o outputs/AvenDesArchesPerdues.3d -fmt survex
 export model -o outputs/AvenDesArchesPerdues.lox
-#export atlas -o outputs/AvenDesArchesPerdues.pdf -projection plan -layout local-p
+export atlas -o outputs/AvenDesArchesPerdues.pdf -projection plan -layout local-p
 export map -o outputs/AvenDesArchesPerdues-ee.pdf -projection extended -layout local
 
 export map -o outputs/AvenDesArchesPerdues.pdf -projection plan -layout plan

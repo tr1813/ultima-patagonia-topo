@@ -4,19 +4,20 @@ encoding  utf-8
 
 scrap Collecteur-2p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
+point 786.1185 3548.2046 label -align tr -scale l -text "Siphom terminal - 306 m"
 point 870.553 1563.69 gradient -orientation 15.322325339702354
-point 1257.149 2990.37 gradient -orientation 340.45208753036945
-point 1309.929 2803.71 gradient -orientation 340.0386571361822
-point 579.3616 698.326 gradient -orientation 310.29790891829805
-point 659.7539 1159.869 gradient -orientation 250.80216677956082
-point 509.137 1130.184 gradient -orientation 250.80216677956082
+point 1257.15 2990.37 gradient -orientation 340.45208753036945
+point 1309.93 2803.71 gradient -orientation 340.0386571361822
+point 579.362 698.326 gradient -orientation 310.29790891829805
+point 659.754 1159.87 gradient -orientation 250.80216677956082
+point 509.137 1130.18 gradient -orientation 250.80216677956082
 point 402.289 1050.37 gradient -orientation 60.73413476701367
 point 214.983 972.487 gradient -orientation 60.73413476701367
 point 214.34 653.874 gradient -orientation 103.74758895319734
 point 303.165 513.556 gradient -orientation 37.273996883400095
 point 376.543 636.495 gradient -orientation 60.73413476701367
 point 543.251 191.081 gradient -orientation 59.484320374813535
-point 742.7864 236.137 gradient -orientation 308.78753354897515
+point 742.786 236.137 gradient -orientation 308.78753354897515
 point 789.774 196.23 gradient -orientation 293.50836403364474
 point 839.979 171.127 gradient -orientation 289.4080144751928
 point 863.374 1619.76 gradient 

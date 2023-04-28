@@ -224,7 +224,7 @@ line wall
   406.3165 6861.6124 424.5962 6921.4352 424.5962 6921.4352
 endline
 
-point 2589.58 5334.34 label -align tr -scale xl -text "Fenêtre Météo"
+point 2047.783 5707.0654 label -align tr -scale xl -text "Galerie Fenêtre Météo"
 point 4067.04 4952.87 continuation 
 line rock-border -close on
   4143.62 5208.76
@@ -3256,6 +3256,8 @@ endscrap
 
 scrap FenetreMeteo-2p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
+point 2271.479 2177.8352 label -align tr -scale l -text "Zone des Arches <br>boueuses"
+point 1128.9469 3196.7405 label -align tr -scale l -text "Suite rivere <br>non exploree"
 line wall 
   1667.32 2722.08
   1664.88 2724.4392 1663.2209 2727.6676 1660.39 2729.54
@@ -4027,7 +4029,7 @@ line pit
   897.3907 1762.3252 908.02 1751.24 908.02 1751.24
 endline
 
-point 860.361 1871.35 label -align t -scale l -text "Jolies vasques"
+point 860.361 1963.7307 label -align t -scale l -text "Jolies vasques"
 line wall 
   688.4 1517.39
   677.92 1503.7
@@ -4167,8 +4169,8 @@ line wall
   950.3753 116.2809 965.9901 118.2201 973.6375 115.0337
 endline
 
-point 757.562 1203.52 label -align t -scale l -text Dyke
-point 672.753 1033.7 label -align t -scale l -text Galets
+point 792.884 1161.4053 label -align t -scale l -text Dyke
+point 906.4219 810.8994 label -align t -scale l -text Galets
 point 340.902 979.223 label -align t -scale l -text Varves
 point 731.23 1442.07 water-flow -orientation 329.7399994945208
 point 1415.92 2626.33 water-flow -orientation 48.60997911430593
@@ -4179,7 +4181,7 @@ point 828.149 1729.34 water-flow -orientation 48.60997911430593
 point 764.995 1633.96 water-flow -orientation 48.60997911430593
 point 721.496 1531.76 water-flow -orientation 48.60997911430593
 point 599.47 1427.27 water-flow -orientation 48.60997911430593
-point 515.682 1575.96 label -align t -scale l -text Confluence
+point 360.8084 1575.96 label -align t -scale l -text Confluence
 line wall 
   985.1903 156.3047
   969.5401 158.9131 966.8963 172.5269 963.72 185.69

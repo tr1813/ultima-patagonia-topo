@@ -7,7 +7,7 @@ scrap Entree-1p -projection plan -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 point 2383.9 -2796.46 gradient -orientation 82.18384386964078
 point 2738.85 -2876.5 gradient -orientation 48.49396504858285
 point 2455.71 -2570.14 gradient -orientation 170.65481713211966
-point 2406.51 -2708.86 gradient -orientation 167.86839518751313
+point 2406.51 -2708.86 gradient -orientation 167.8683831463482
 point 2312.52 -2823.71 gradient -orientation 211.94418822585567
 point 2187.69 -2846.64 gradient -orientation 315.92656017485245
 point 1853.54 -2635.17 gradient -orientation 278.0233715704849
@@ -40,44 +40,44 @@ area water
   Entree-1p_water_1
 endarea
 
-point 2499.6 -1954.19 entrance -orientation 192.7835535347268 -scale XL
-point 2433.95 -2384.35 water-flow -orientation 172.44958157784305
-point 2613.49 -2924.35 water-flow -orientation 80.37884827554548
-point 2538.49 -2851.35 water-flow -orientation 172.44958157784305
-point 2512.11 -2833.77 water-flow -orientation 172.44958157784305
-point 883.825 -2156.43 water-flow -orientation 72.52432069923755
-point 1010.59 -2378.24 water-flow -orientation 59.75118538095333
-point 981.996 -2475.57 water-flow -orientation 171.05135094892137
-point 945.099 -2448.42 water-flow -orientation 171.05135094892137
-point 1990.07 -2622.8 water-flow -orientation 194.2274178252188
-point 1948.52 -2615.58 water-flow -orientation 190.78984963683092
-point 2146.96 -2810.73 water-flow -orientation 211.97351290748068
-point 2536.35 -2803.4 water-flow -orientation 172.44958157784305
+point 2499.6 -1954.19 entrance -orientation 192.7835760225576 -scale XL
+point 2433.95 -2384.35 water-flow -orientation 172.44956063805
+point 2613.49 -2924.35 water-flow -orientation 80.37882930812677
+point 2538.49 -2851.35 water-flow -orientation 172.44956063805
+point 2512.11 -2833.77 water-flow -orientation 172.44956063805
+point 883.825 -2156.43 water-flow -orientation 72.5243260179638
+point 1010.59 -2378.24 water-flow -orientation 59.751192681260655
+point 981.996 -2475.57 water-flow -orientation 171.05136058522385
+point 945.099 -2448.42 water-flow -orientation 171.05136058522385
+point 1990.07 -2622.8 water-flow -orientation 194.22740086607297
+point 1948.52 -2615.58 water-flow -orientation 190.78983780955616
+point 2146.96 -2810.73 water-flow -orientation 211.97350423998
+point 2536.35 -2803.4 water-flow -orientation 172.44956063805
 point 2248.64 -2890.64 archeo-material 
-point 2706.5354 -2631.9661 label -align tr -scale l -text "<bf>P81<br><br>"
-point 1907.3405 -2493.1489 label -align tr -scale l -text "<bf>P28"
-point 1245.5464 -2364.1199 label -align tr -scale l -text "<bf>P9"
-point 1188.3159 -2139.3599 label -align tr -scale l -text "<bf>P7"
-point 1068.6519 -922.9488 label -align tr -scale l -text "<bf>R4"
-point 1012.4617 -750.2164 label -align tr -scale l -text "<bf>R3"
+point 2706.54 -2631.97 label -align tr -scale l -text "<bf>P81<br><br>"
+point 1907.34 -2493.15 label -align tr -scale l -text "<bf>P28"
+point 1245.55 -2364.12 label -align tr -scale l -text "<bf>P9"
+point 1188.32 -2139.36 label -align tr -scale l -text "<bf>P7"
+point 1068.65 -922.949 label -align tr -scale l -text "<bf>R4"
+point 1012.46 -750.216 label -align tr -scale l -text "<bf>R3"
 point 603.523 -302.777 label -align tr -scale l -text "<bf>P6"
-point 869.9054 361.0981 label -align tr -scale l -text "<bf>P7"
-point 714.8626 746.1041 label -align tr -scale l -text "<bf>P10"
-point 135.8951 574.4722 label -align tr -scale l -text "<bf>P6<br>"
-point 242.3514 -890.5778 label -align tr -scale l -text "Meandre <br>remontant"
-point 481.174 614.44 water-flow -orientation 331.7030649299556
-point 663.565 645.553 water-flow -orientation 19.068810277859253
-point 717.851 489.695 water-flow -orientation 312.69414319510196
-point 666.614 274.529 water-flow -orientation 51.26949081925022
-point 485.973 78.1787 water-flow -orientation 60.144125621233485
-point 307.711 -12.3091 water-flow -orientation 355.4260361076182
-point 484.654 -152.884 water-flow -orientation 287.0371676093582
-point 978.22 -309.225 water-flow -orientation 342.8010988545999
-point 1052.54 -562.235 water-flow -orientation 49.15421032019877
-point 692.395 -791.757 water-flow -orientation 14.06798481337772
-point 982.509 -1135.67 water-flow -orientation 27.37337594095006
-point 1034.71 -1461.35 water-flow -orientation 40.71926737976114
-point 865.19 -1725.54 water-flow -orientation 79.97448923789761
+point 869.905 361.098 label -align tr -scale l -text "<bf>P7"
+point 714.863 746.104 label -align tr -scale l -text "<bf>P10"
+point 135.895 574.472 label -align tr -scale l -text "<bf>P6<br>"
+point 242.351 -890.578 label -align tr -scale l -text "Meandre <br>remontant"
+point 481.174 614.44 water-flow -orientation 331.70307822635317
+point 663.565 645.553 water-flow -orientation 19.068783722934104
+point 717.851 489.695 water-flow -orientation 312.69415906723543
+point 666.614 274.529 water-flow -orientation 51.26948383601688
+point 485.973 78.1787 water-flow -orientation 60.14411246208554
+point 307.711 -12.3091 water-flow -orientation 355.42603304944254
+point 484.654 -152.884 water-flow -orientation 287.0371660863593
+point 978.22 -309.225 water-flow -orientation 342.80108346212535
+point 1052.54 -562.235 water-flow -orientation 49.15424091160177
+point 692.395 -791.757 water-flow -orientation 14.067982544913894
+point 982.509 -1135.67 water-flow -orientation 27.37336993535502
+point 1034.71 -1461.35 water-flow -orientation 40.71925407245091
+point 865.19 -1725.54 water-flow -orientation 79.9744657095481
 line border -close on -id Entree-1p_u_smallblocks_1 -visibility off
   938.1726 -2022.4734
   931.8469 -2043.8225
@@ -245,15 +245,15 @@ line floor-step
 endline
 
 line u:unknown -close on
-  2561.8872 -2260.8712
-  2561.8872 -2260.8712 2485.1887 -2186.1495 2514.4448 -2161.2423
-  2543.701 -2136.3351 2604.9807 -2225.6848 2604.9807 -2225.6848
-  2604.9807 -2225.6848 2665.0743 -2316.616 2561.8872 -2260.8712
+  2553.6476 -2257.875
+  2553.6476 -2257.875 2476.9491 -2183.1533 2506.2052 -2158.2461
+  2535.4614 -2133.3389 2596.7411 -2222.6886 2596.7411 -2222.6886
+  2596.7411 -2222.6886 2656.8347 -2313.6198 2553.6476 -2257.875
 endline
 
-line u:unknown 
-  2442.4906 -2095.2183
-  2442.4906 -2095.2183 2487.5608 -1988.473 2464.6304 -2129.6141
+line wall 
+  2464.6304 -2129.6141
+  2487.5608 -1988.473 2442.4906 -2095.2183 2442.4906 -2095.2183
 endline
 
 line border -close on -id Entree-1p_blocks_1 -visibility off
@@ -408,9 +408,9 @@ point 876.149 -2414.06 continuation
 point 1290.29 -2523.32 continuation 
 point 1781.43 -2954.11 continuation 
 point 1688.82 -2796.99 continuation 
-point 952.9772 -2959.1511 label -align tr -scale l -text "Meandre de <br>la Turpitude"
-point 597.6531 -2613.1646 label -align tr -scale l -text Dyke
-point 306.938 -2285.2332 label -align tr -scale l -text "Salle de la <br>perte du stop"
+point 952.977 -2959.15 label -align tr -scale l -text "Meandre de <br>la Turpitude"
+point 597.653 -2613.16 label -align tr -scale l -text Dyke
+point 306.938 -2285.23 label -align tr -scale l -text "Salle de la <br>perte du stop"
 line border -close on -id Entree-1p_u_smallblocks_6 -visibility off
   1018.8246 -2213.8242
   1018.0339 -2238.3361

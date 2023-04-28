@@ -4,6 +4,7 @@ encoding  utf-8
 
 scrap Arches_Perdues_Siphon_2-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
+point 822.9828 46.3879 label -align tr -scale l -text "Siphon 3"
 point 588.189 311.655 gradient -orientation 186.9757335855527
 point 653.123 445.306 gradient -orientation 193.67203388310804
 point 463.995 634.434 gradient -orientation 124.44292484886832
