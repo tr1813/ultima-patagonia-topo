@@ -1,0 +1,82 @@
+source ../107.th
+
+input ../../../layouts/detailed-p.thl
+
+layout local
+  copy detailed-p
+  scale 1 1000
+  legend off
+  map-header 0 0 off
+  symbol-show point label
+  symbol-show point passage-height
+  symbol-hide point station-name
+  #symbol-assign area water AUT
+  symbol-hide line survey 
+  symbol-hide point station:temporary
+  symbol-assign line survey UIS
+  symbol-assign point station MY
+  symbol-colour point station [70 0 0]
+  symbol-colour point u:target [70 0 70]
+  symbol-hide point u:target
+  symbol-assign line wall:blocks MYEE
+
+  symbol-colour line survey:cave [70 0 0]
+  symbol-colour point passage-height [70 0 70]
+
+  color map-bg transparent 
+ 
+endlayout
+
+layout plan
+    copy local
+    grid off
+    color map-bg [85 85 85]
+    symbol-assign line wall:blocks MY
+    
+    code tex-map
+
+  \def\xcenter{20}
+  \def\ycenter{135}
+  \def\yscale{1}
+  \def\cadnum{107039}
+
+  # change this
+
+  \def\customheader{
+  \size[13]\bf \the\cavename{} / \cadnum \ss
+  \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
+  \par{ \quad} 
+  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 482166   \par  Y :  4447844 \par Z : 330 m}  \ss
+  \par{ \quad} 
+  \par \si Développement :\ss{ \the\cavelength}
+  \par \si Dénivellation :\ss{ \the\cavedepth}
+  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques :\ss{ }Arnauld Malard, Natalia Morata-Calvo
+  \par Laurence Boudoux d'Hautefeuille, Michel Philips
+  \par \si Report et dessins :\ss{  Tanguy Racine}}
+
+  \def\maplayout{
+
+  \legendbox{\the\numexpr\xcenter+5\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter-20\relax}{\the\numexpr\ycenter - 20*\yscale\relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter-5\relax}{\the\numexpr\ycenter - 30*\yscale\relax}{N}{\scalebar}
+  %\legendbox{100}{\the\numexpr -1*\yscale\relax}{NE} {\hbox{\loadpicture{outputs/GrotteDeLAncien-ee.pdf}}}
+  \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
+  }
+  endcode
+endlayout
+
+
+source 
+    map localmap -projection plan 
+        m-all-p@GrotteDeLAncien.107
+        GrotteDeLAncien.107
+    endmap
+endsource
+
+# OUTPUTS
+
+export model -o 107.3d
+select localmap
+#export map -o outputs/GrotteDeLAncien-ee.pdf -projection extended -layout local
+export map -o outputs/GrotteDeLAncien.pdf -projection plan -layout plan

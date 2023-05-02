@@ -12,6 +12,7 @@ survey 107 -title "107 Barros Luco"
   input CouleeBlanche/CouleeBlanche.th
   input MadameCafe/MadameCafe.th
   input CuevaDesLosPescadores/CuevaDesLosPescadores.th
+  input GrotteDeLAncien/GrotteDeLAncien.th
 
 
   map m-PuntaBlanca-p -projection plan
@@ -154,6 +155,11 @@ survey 107 -title "107 Barros Luco"
     fix ENT_107038 	 477260	4447099	389
     station ENT_107038 "Le Gillopetre" entrance continuation explored "50 m"
     #equate ENT_107038 0@PuntaBlanca
+
+    fix ENT_107039 	 482166	4447844	330
+    station ENT_107039 "Grotte de l'Ancien " entrance 
+    equate ENT_107039 0@GrotteDeLAncien
+
 
 
     equate 1@ResurgenceHongo	21b@ChattiereQuiBuffle
