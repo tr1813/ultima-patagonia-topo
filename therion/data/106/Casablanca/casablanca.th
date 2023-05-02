@@ -133,12 +133,20 @@ survey Casablanca -title "Casablanca" -entrance 0 -attr cad_num 106066 -attr exp
    input "casablanca-2s.th2"
    input "casablanca-1p.th2"
 
+   map m-all-p -projection plan 
+   casablanca-1p
+   break
+   casablanca-2p
+   endmap
+
    map m-casablanca-2p -projection plan
       casablanca-2p
    endmap
-   map m-casablanca-2s -projection extended
+
+   map m-all-e -projection extended
       casablanca-2s
    endmap
+
    map m-casablanca-1p -projection plan
        casablanca-1p
    endmap

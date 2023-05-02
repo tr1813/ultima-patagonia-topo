@@ -1,14 +1,16 @@
 
 ## a survey compiled from Visual Topo Data using the visual_therion.py script
 
-survey "GrotteDeLAncien" -entrance 0
+survey GrotteDeLAncien -entrance 0 -title "Sytème de Grottes de l'Ancien"
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+        explo-date 2023.02.27
+        date 2023.02.27
 
-        
+        team "Kateryna Medvedeva" insts tape
+        team "Bernard Tourte" notes dog
+        team "Laurent Mestre"
         data normal from to tape compass clino 
         
         0	1	5.6	35.0	13.0	
@@ -293,5 +295,46 @@ survey "GrotteDeLAncien" -entrance 0
         station 126 "PUIT connexion"
 
     endcentreline
+
+    input GrotteDeLAncien-p.th2
+    map m-all-p -projection plan 
+        m1p
+        m7p
+        m3p
+        m4p
+        m5p
+        m6p
+        
+        m2p
+    endmap
+
+    map m1p -projection plan 
+        GrotteDeLAncien-1p
+    endmap
+    
+    map m2p -projection plan 
+        GrotteDeLAncien-2p
+    endmap
+
+    map m3p -projection plan 
+        GrotteDeLAncien-3p
+    endmap
+
+    map m4p -projection plan 
+        GrotteDeLAncien-4p
+    endmap
+
+    map m5p -projection plan 
+        GrotteDeLAncien-5p
+    endmap
+
+    map m6p -projection plan 
+        GrotteDeLAncien-6p
+    endmap
+
+    map m7p -projection plan 
+        GrotteDeLAncien-7p
+    endmap
+
 
 endsurvey
