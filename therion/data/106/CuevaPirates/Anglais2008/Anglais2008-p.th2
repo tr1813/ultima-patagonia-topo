@@ -194,7 +194,7 @@ line floor-step
   195.0945 -7.5699 182.6419 24.803 182.6419 24.803
 endline
 
-point 415.216 -145.743 label -align tl -scale l -text "Muddy Hollows"
+point 415.216 -145.743 label -align tl -text "Muddy Hollows"
 point 413.03 -397.91 station -name 2@a
 point 470.91 -432.4 station -name 1@b
 point 401.22 -311.61 station -name 3@a
@@ -751,7 +751,7 @@ endscrap
 
 scrap stalchamber-p -projection plan -scale [0 0 96 0 0 0 2000 0 inch]
 
-point 285.5513 -963.7752 u:terminus -attr text UP2023 -attr side 1 -orientation 340
+point 285.551 -963.775 u:terminus -attr text UP2023 -attr side 1 -orientation 340.0000151479069
 line u:texture 
   140.625 -752.6483
   140.625 -752.6483 141.9492 -755.5614 153.3369 -747.0869
@@ -1370,8 +1370,16 @@ endscrap
 
 scrap waterworld-p -projection plan -scale [0 0 96 0 0 0 2000 0 inch]
 
-point -548.3846 -1439.9415 label -align r -scale l -text "Sandcastle Chamber"
-point -516.2697 -788.9344 u:terminus -attr text UP2023 -attr side 11 -orientation 340
+line floor-step 
+  -392.2129 -743.3905
+  -392.2129 -743.3905 -394.7838 -752.246 -400.2114 -754.5313
+  -405.639 -756.8166 -411.6378 -758.5306 -413.6375 -759.6732
+  -415.6371 -760.8159 -421.0647 -765.3864 -421.0647 -765.3864
+  -427.6349 -770.814
+endline
+
+point -708.385 -1489.94 label -align r -text "Sandcastle<br>Chamber"
+point -516.27 -788.934 u:terminus -attr text UP2023 -attr side 11 -orientation 340.0000151479069
 point -814.723 -1733.17 gradient -orientation 21.019941858136654
 line contour 
   -827.1813 -1743.1807
@@ -1420,10 +1428,10 @@ line wall -close on -outline in
   -983.9663 -1700.1233
 endline
 
-point 93.3475 -803.418 label -align b -scale l -text "Stal Chamber"
-line contour 
+point 93.3475 -803.418 label -align b -text "Stal Chamber"
+line floor-step 
   -355.6674 -757.1504
-  -355.6674 -757.1504 -355.9322 -738.8771 -360.964 -725.3708
+  -355.6674 -757.1504 -353.0756 -734.3065 -373.2474 -729.9414
 endline
 
 line contour 
@@ -1440,13 +1448,13 @@ line floor-step
   -590.572 -1367.0551 -592.6907 -1354.3432 -592.6907 -1354.3432
 endline
 
-point -825.477 -1494.97 label -align l -text "<bf>e15"
+point -825.477 -1494.97 label -align l -scale s -text "<bf>E15"
 line pit 
   -825.2119 -1515.8898
   -825.2119 -1515.8898 -838.4534 -1543.9619 -812.5 -1547.1398
 endline
 
-point -705.955 -1732.73 label -align r -scale l -text "Waterworld<lang:fr>Waterworld"
+point -705.955 -1732.73 label -align r -text "Waterworld<lang:fr>Waterworld"
 point -843.906 -1840.48 narrow-end -scale xs
 point -767.06 -1827.63 narrow-end -scale xs
 point -732.221 -1355.55 water-flow -orientation 313.5461119361255 -scale xs
@@ -1592,6 +1600,7 @@ line border -close on -id waterworld-p_u_smallblocks_2 -visibility off
   -629.9687 -1406.5051
   -629.9687 -1406.5051 -615.2613 -1401.6026 -612.1972 -1398.5385
   -609.1332 -1395.4745 -605.6621 -1394.6414 -605.6621 -1394.6414
+  -616.8643 -1384.3935
   -616.8643 -1384.3935
 endline
 
@@ -1740,7 +1749,14 @@ endline
 
 line wall 
   -289.8054 -708.2709
-  -289.8054 -708.2709 -364.4096 -725.1112 -368.606 -727.2094
+  -289.8054 -708.2709 -314.088 -717.558 -335.4242 -722.5767
+  -337.4069 -723.0431 -340.4407 -719.9651 -340.4407 -719.9651
+endline
+
+line wall 
+  -355.3876 -723.5791
+  -355.3876 -723.5791 -356.0723 -728.5337 -357.2844 -728.8421
+  -362.3334 -730.1268 -367.7925 -726.8026 -368.606 -727.2094
   -371.2076 -728.5102 -391.8426 -744.4199 -396.4197 -745.2118
   -399.2254 -745.6972 -402.0969 -740.1695 -402.0969 -740.1695
 endline
@@ -1928,7 +1944,7 @@ endscrap
 
 scrap entrance-p -projection plan -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 
-point 183.5336 721.1894 u:terminus -attr text MDD08 -attr side 0
+point 183.534 721.189 u:terminus -attr text MDD08 -attr side 0
 line contour 
   97.0025 728.6553
   54.1191 717.2322
@@ -2758,9 +2774,7 @@ endscrap
 
 scrap whiterhino-3p -projection plan -scale [0 0 96 0 0 0 200 0 inch]
 
-point 739.1896 746.5169 u:terminus -attr text MDD08 -attr side 10 -orientation 0
-point 555.0344 742.4951 u:terminus -attr text MDD08 -attr side 11 -orientation 0
-point 764.5867 371.0384 u:terminus -attr text MDD08 -attr side 0 -orientation 350
+
 line wall 
   565.1136 445.7139
   565.1136 445.7139 584.27 440.3002 589.2673 440.3002
@@ -2872,7 +2886,7 @@ line floor-step
   695.1219 353.192 720.5898 341.5817 720.5898 358.81
 endline
 
-point 829.732 244.196 label -align br -scale l -text "White Rhino"
+point 829.732 244.196 label -align br -text "White Rhino"
 point 799.137 262.335 continuation -scale s
 point 792.638 372.089 karren -scale l
 point 849.576 297.672 continuation -scale s
@@ -3331,7 +3345,54 @@ endscrap
 
 scrap sumpofdoom-p -projection plan -scale [0 0 96 0 0 0 2000 0 inch]
 
-point -1.0275 94.5197 u:terminus -attr text UP2023 -attr side 1 -orientation 30
+line wall -id doom_l5
+  19.1052 191.6512
+  19.1052 191.6512 30.9636 211.4152 36.2341 211.4152
+  41.5045 211.4152 44.7985 211.4152 51.3865 211.4152
+  57.9745 211.4152 63.9037 213.3916 67.1977 212.074
+  70.4917 210.7564 69.8329 211.4152 76.4209 210.7564
+  83.0089 210.0976 88.2793 208.78 88.2793 208.78
+  86.9617 191.6512
+endline
+
+line wall -id doom_l4
+  -32.2812 206.1448
+  -32.2812 206.1448 -31.6224 230.5204 -21.0816 229.8616
+  -10.5408 229.2028 16.47 224.5912 17.1288 221.2972
+  17.7876 218.0032 3.294 194.9452 3.294 194.9452
+endline
+
+line wall -id doom_l3
+  -59.9509 279.2717
+  -59.9509 279.2717 -48.7513 283.8833 -48.0925 277.9541
+  -47.4337 272.0249 -45.4573 254.8961 -45.4573 254.8961
+  -43.4809 245.6729
+  -43.4809 245.6729 -53.5753 234.4024 -52.2577 231.7672
+  -50.94 229.132 -51.5989 222.544 -51.5989 222.544
+  -54.2341 212.0032
+endline
+
+line wall -id doom_l2
+  -100.7965 343.8342
+  -100.7965 343.8342 -82.3501 347.787 -77.7385 345.8106
+  -73.1269 343.8342 -71.1505 345.1518 -70.4917 339.8814
+  -69.8329 334.611 -68.5153 334.611 -67.1977 331.317
+  -65.8801 328.023 -63.2449 320.1174 -62.5861 317.4822
+  -61.9273 314.847 -57.3157 312.2118 -60.6097 309.5766
+  -63.9037 306.9413 -76.4209 298.3769 -76.4209 298.3769
+endline
+
+line wall -id doom_l1
+  -121.2194 405.7615
+  -121.2194 405.7615 -110.6786 406.4203 -107.3846 405.1027
+  -104.0906 403.7851 -101.4553 402.4675 -98.1613 399.8323
+  -94.8673 397.1971 -92.8909 399.1735 -92.8909 394.5619
+  -92.8909 389.9503 -88.2793 379.4095 -88.2793 379.4095
+  -88.2793 379.4095 -81.0325 374.1391 -86.9617 371.5038
+  -92.8909 368.8687 -100.7965 362.2806 -100.7965 362.2806
+endline
+
+point -1.0275 94.5197 u:terminus -attr text UP2023 -attr side 1 -orientation 30.00001156757613
 line u:texture 
   32.9584 473.7897
   57.3026 473.4152
@@ -3657,7 +3718,7 @@ line floor-step
   114.6716 212.6589 137.7119 210.8051 137.7119 210.8051
 endline
 
-point -131.4513 250.332 label -align tl -scale xl -text "Sump of Doom"
+point 200.9766 301.3457 label -align tl -text "Sump of Doom" 
 point 135.39 554.06 station -name 200@e
 point 133.27 490.28 station -name 201@e
 point 67.91 488.07 station -name 202@e
@@ -3788,27 +3849,6 @@ line wall
   162.1175 570.4478 153.8341 590.5646 163.3008 591.7479
   172.7675 592.9313 181.0509 588.1979 181.0509 588.1979
   205.901 559.7978
-endline
-
-line wall 
-  42.8831 189.0818
-  42.8831 189.0818 62.717 213.0793 69.817 213.0793
-  76.9171 213.0793 78.6043 215.3081 82.8338 214.2626
-  85.9714 213.4871 89.6076 212.4503 90.969 208.9869
-  92.488 205.1221 89.0768 196.3072 87.8287 193.8109
-endline
-
-line wall 
-  -122.4697 404.4496
-  -122.4697 404.4496 -102.9505 408.3303 -101.7672 397.6802
-  -100.5839 387.0302 -91.1171 325.4965 -88.7505 318.3965
-  -86.3838 311.2965 -74.5504 275.7963 -74.5504 275.7963
-  -74.5504 275.7963 -78.1004 261.5962 -73.367 259.2295
-  -68.6337 256.8629 -50.8836 241.4794 -50.8836 241.4794
-  -7.1 223.7294
-  29.5835 220.1793
-  42.6002 214.2626
-  28.5954 196.8433
 endline
 
 line border -close on -id sumpofdoom-p_clay_3 -visibility off

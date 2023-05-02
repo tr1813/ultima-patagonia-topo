@@ -65,7 +65,7 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 	equate 9@SiphonAmont 6@DodgyPlumbingResurvey
 	equate 74@b.Anglais2008 1@PincemiBoucle
 	equate 37@PincemiBoucle 11@UnCaillouDansLaCulotte
-	equate 5@PincemiBoucle 23@PrioriteADroite
+	equate 5@PincemiBoucle 25@PrioriteADroite
 	equate 15@UnCaillouDansLaCulotte 1@PincemiActif 
 	equate 10@PinceMi 13@PincemiActif
 	equate 1@Pincemi2 20@PinceMi
@@ -97,6 +97,25 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 	join PiratesJonction-2p@PiratesJonction SalinasNew4-1p@SalinasNew4
 	join PincemiActif-1p@PincemiActif PinceMi-1p@PinceMi
 	join UnCaillouDansLaCulotte-1p@UnCaillouDansLaCulotte PincemiActif-1p@PincemiActif
+	join PinceMi-1p@PinceMi Pincemi2-plan1p@Pincemi2
+	join Pincemiboucle-siphon-p@PincemiBoucle UnCaillouDansLaCulotte-1p@UnCaillouDansLaCulotte
+	join s2_l1@PincemiBoucle siphon_l1@PincemiBoucle
+	join s2_l2@PincemiBoucle siphon_l2@PincemiBoucle
+	join Actif0303-2p@Actif0303 Pincemiboucle-1p@PincemiBoucle
+	join PrioriteADroite-3p@PrioriteADroite Pincemiboucle-1p@PincemiBoucle
+	join waterworld-p@Anglais2008 Pincemiboucle-1p@PincemiBoucle
+
+
+	# sump of doom area joins
+	join doom_l1@Anglais2008 doom_l1@galerie210223
+	join doom_l2@Anglais2008:end doom_l2@galerie210223:0
+	join doom_l2@Anglais2008:0 doom_l2@galerie210223:end
+	join doom_l3@Anglais2008:end doom_l3@galerie210223:0
+	join doom_l3@Anglais2008:0 doom_l3@galerie210223:end
+	#join doom_l4@Anglais2008:end doom_l4@galerie210223:0
+	join doom_l4@Anglais2008:0 doom_l4@galerie210223:end
+	#join doom_l5@Anglais2008 doom_l5@galerie210223
+
 
 	centreline 
 		extend start 32@Pirates2008
@@ -176,6 +195,7 @@ map m-old-p -projection plan
 endmap
 
 map m-all-p -projection plan 
+	m-all-p@Rhinalto
 	m-all-p@Pirates2008
 	m-old-p
 	m-all-p@Ascension
@@ -191,9 +211,8 @@ map m-all-p -projection plan
 	m-all-p@PincemiActif
 	m-all-p@PincemiBoucle
 	m-all-p@Pincemi2
-	m-all-p@Rhinalto
 	m-all-p@Actif0303
-	SiphonAmont
+	m-all-p@SiphonAmont
 endmap
 
 map m-all-e -projection extended

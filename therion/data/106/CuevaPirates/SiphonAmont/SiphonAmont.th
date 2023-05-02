@@ -36,8 +36,12 @@ survey SiphonAmont
         7	2.0	4.0	1.0	0.0	
         8	2.5	1.5	0.0	1.0	
 
-        
 
     endcentreline
 
+    input SiphonAmont-p.th2
+
+    map m-all-p -projection plan 
+        SiphonAmont-1p
+    endmap
 endsurvey

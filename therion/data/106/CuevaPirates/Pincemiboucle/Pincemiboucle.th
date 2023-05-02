@@ -530,11 +530,14 @@ survey PincemiBoucle -title "PincemiBoucle"
   endcenterline
 
 input "Pincemiboucle-1p.th2"
-input "Pincemiboucle-2_siphonp.th2"
+input "Pincemiboucle-siphon-p.th2"
 
    map m-all-p -projection plan
      Pincemiboucle-1p
-     Pincemiboucle-2_siphonp
+     break
+     Pincemiboucle-2p
+     break
+     Pincemiboucle-siphon-p
    endmap
 
 endsurvey

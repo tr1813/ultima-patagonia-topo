@@ -1,0 +1,182 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust 0 0 500.000000 1000.000000
+##XTHERION## xth_me_area_zoom_to 100
+
+scrap SiphonAmont-1p -projection plan -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
+
+line border -close on -id SiphonAmont-1p_sump_1 -visibility off
+  -1401.3652 845.898
+  -1377.2868 744.7685
+  -1208.7377 643.6391
+  -866.8239 913.3176
+  19.2628 398.039
+  746.4317 320.988
+  1271.3417 166.886
+  1396.5496 41.6781
+  1593.9928 320.988
+  1382.1025 629.192
+  645.3022 662.9018
+  274.4942 629.192
+  -365.9923 889.2392
+  -616.4081 990.3686
+  -683.8277 1182.9961
+  -1088.3455 1105.9451
+  -1401.3652 845.898
+  -1401.3652 845.898
+endline
+
+area sump 
+  SiphonAmont-1p_sump_1
+endarea
+
+point -1442.9647 693.8047 continuation 
+point -1575.2454 416.4144 label -align tr -scale l -text "Siphon Amont"
+line wall 
+  1720.2476 141.472
+  1720.2476 141.472 1547.9037 227.6439 1535.1375 256.3679
+  1522.3713 285.0919 1404.2838 553.1824 1362.7936 546.7993
+  1321.3034 540.4162 657.4601 617.0135 555.3304 613.822
+  453.2007 610.6304 315.9638 492.5429 258.5159 518.0753
+  201.0679 543.6078 -169.1524 763.825 -223.4088 782.9743
+  -277.6652 802.1236 -558.522 853.1885 -587.2459 872.3378
+  -615.9699 891.4872 -721.2912 1102.1297 -762.7814 1111.7044
+  -804.2716 1121.2791 -998.9564 1082.9804 -998.9564 1082.9804
+  -1375.5598 834.0392
+endline
+
+line survey 
+  1528.0259 248.3618
+  1484.0424 188.2759
+endline
+
+line survey 
+  -591.7249 864.4483
+  -635.7084 804.3623
+endline
+
+line survey 
+  259.9407 517.6158
+  246.5299 410.9888
+endline
+
+line survey 
+  1487.0321 198.343
+  1403.6714 72.2671
+endline
+
+line survey 
+  1301.9921 409.4079
+  1243.5106 270.0378
+endline
+
+line survey 
+  1361.9918 546.0404
+  1303.5103 406.6703
+endline
+
+line survey 
+  556.6037 619.3882
+  535.5338 469.7213
+endline
+
+line survey 
+  -236.5457 785.0857
+  -290.1848 643.7812
+endline
+
+line survey 
+  -769.7664 1113.2306
+  -845.8382 982.6273
+endline
+
+line survey 
+  -995.9059 1085.1981
+  -975.8689 935.3894
+endline
+
+line survey 
+  -1376.8102 833.4985
+  -1271.4665 725.1158
+endline
+
+line wall 
+  -1273.2158 730.7105
+  -1273.2158 730.7105 -1217.0197 789.1372 -1157.7781 834.2867
+  -1095.0938 882.0602 -1046.1054 943.4363 -980.7438 936.4333
+  -946.5117 932.7656 -878.8264 996.4799 -844.7337 979.0753
+  -752.2105 931.8415 -704.5433 820.2671 -634.8673 800.3597
+  -585.6203 786.2891 -489.3756 725.8721 -288.8254 631.573
+  -101.0781 543.2939 191.1326 420.7145 250.408 409.7376
+  287.8283 402.8079 422.8594 483.3866 543.7446 463.4943
+  818.8922 418.2173 1176.5452 259.2202 1252.2542 259.2202
+  1361.2257 259.2202 1317.5595 119.7377 1403.8286 65.2519
+  1490.0978 10.7662 1678.761 6.3578 1678.761 6.3578
+endline
+
+point -1321.46 775.0 station -name 0
+point -989.96 1007.28 station -name 1
+point -847.83 982.09 station -name 2
+point -637.6 806.1 station -name 3
+point -292.32 645.08 station -name 4
+point 250.2 447.44 station -name 5
+point 534.06 472.24 station -name 6
+point 1300.2 405.31 station -name 7
+point 1482.48 188.39 station -name 8
+point 1821.46 -7.28 station -name 9
+line survey 
+  -1321.46 775.0
+  -989.96 1007.28
+endline
+
+line survey 
+  -989.96 1007.28
+  -847.83 982.09
+endline
+
+line survey 
+  -847.83 982.09
+  -637.6 806.1
+endline
+
+line survey 
+  -637.6 806.1
+  -292.32 645.08
+endline
+
+line survey 
+  -292.32 645.08
+  250.2 447.44
+endline
+
+line survey 
+  250.2 447.44
+  534.06 472.24
+endline
+
+line survey 
+  534.06 472.24
+  1300.2 405.31
+endline
+
+line survey 
+  1300.2 405.31
+  1482.48 188.39
+endline
+
+line survey 
+  1482.48 188.39
+  1821.46 -7.28
+endline
+
+point -1321.46 775.0 station-name -align tr -scale xs -text 0
+point -989.96 1007.28 station-name -align tr -scale xs -text 1
+point -847.83 982.09 station-name -align tr -scale xs -text 2
+point -637.6 806.1 station-name -align tr -scale xs -text 3
+point -292.32 645.08 station-name -align tr -scale xs -text 4
+point 250.2 447.44 station-name -align tr -scale xs -text 5
+point 534.06 472.24 station-name -align tr -scale xs -text 6
+point 1300.2 405.31 station-name -align tr -scale xs -text 7
+point 1482.48 188.39 station-name -align tr -scale xs -text 8
+point 1821.46 -7.28 station-name -align tr -scale xs -text 9
+endscrap
+

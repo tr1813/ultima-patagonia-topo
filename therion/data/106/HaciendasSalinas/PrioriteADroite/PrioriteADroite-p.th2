@@ -4,7 +4,7 @@ encoding  utf-8
 
 scrap PrioriteADroite-3p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
-point 806.2576 2293.2509 label -align tl -scale l -text "Passage de la<br>Priorite a Droite"
+point 806.2576 2293.2509 label -align tl -scale m -text "Passage de la<br>Priorite a Droite"
 line wall -close on -outline in
   -219.8771 151.1655
   -206.1348 166.871
