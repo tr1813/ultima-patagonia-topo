@@ -4,6 +4,11 @@ encoding  utf-8
 
 scrap GrotteDeLAncien-1p -projection plan -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 
+line wall -id s1_l2 -subtype invisible
+  1204.1721 806.3504
+  1175.8928 845.8099
+endline
+
 line border -close on -id GrotteDeLAncien-1p_u_smallblocks_1 -visibility off
   1050.7649 831.2168
   1050.7649 831.2168 1098.3746 823.8406 1102.3979 823.8406
@@ -23,14 +28,12 @@ area u:smallblocks
 endarea
 
 line water-flow 
-  604.0209 1019.5077
-  604.0209 1019.5077 561.9895 1035.0884 552.931 1038.3494
-  543.8725 1041.6105 509.4501 1053.9301 498.9423 1056.8288
-  488.4344 1059.7275 439.8809 1064.8003 433.3587 1064.0756
-  426.8366 1063.3509 424.3002 1062.9886 424.3002 1062.9886
+  600.0167 1022.8446
+  547.6774 1041.2515 537.5322 1052.0844 504.1494 1059.6547
+  476.8042 1065.8557 426.6402 1067.0338 420.296 1066.3255
 endline
 
-point 491.5157 1139.4417 water-flow -orientation 268.54478788244364
+point 491.516 1139.44 water-flow -orientation 268.54478788244364
 line border -close on -id GrotteDeLAncien-1p_water_1 -visibility on
   412.7054 1042.3352
   414.1547 1044.1469 417.0534 1055.3794 417.0534 1055.3794
@@ -194,7 +197,7 @@ line wall -clip off -outline none -subtype presumed
   921.2916 799.8335 929.4235 804.1386 929.4235 804.1386
 endline
 
-line wall 
+line wall -id s1_l1
   685.5208 987.4521
   685.5208 987.4521 700.1302 975.0903 704.6254 969.4713
   709.1207 963.8522 720.3587 946.9952 724.8539 939.1285
@@ -215,7 +218,8 @@ line wall
   1083.3476 798.653 1087.8428 803.1482 1104.6998 803.1482
   1121.5569 803.1482 1142.9092 804.272 1149.652 804.272
   1173.2519 804.272
-  1178.8709 804.272 1181.1185 803.1482 1181.1185 803.1482
+  1176.3424 804.272 1181.9943 797.3665 1186.4549 791.1519
+  1190.1043 786.0675 1192.9563 781.4455 1192.9563 781.4455
 endline
 
 line wall -subtype presumed
@@ -269,16 +273,13 @@ line wall
   578.4243 1096.2494
 endline
 
-point 1228.7725 770.4224 entrance -orientation 264.89556381834683
-point 1220.0225 818.0621 entrance -orientation 264.89556381834683
-point 871.7025 1471.9021 entrance -orientation 264.89556381834683
-point 908.8117 1468.4019 label -align tr -text "sortie puits forêt?"
-point 918.6052 740.3242 label -align tr -text "concrétions"
-point 1255.7764 822.6586 label -align tr -text "entrée forêt"
-point 1269.3878 769.1854 label -align tr -text "sortie forêt"
-point 956.3176 1325.8373 label -align tr -text "sortie forêt"
-point 286.2848 985.0202 label -align tr -text siphon
-point 176.3646 1349.8634 continuation 
+point 1228.77 770.422 entrance -orientation 264.89556381834683
+point 1220.02 818.062 entrance -orientation 264.89556381834683
+point 878.605 700.324 label -align tr -scale s -text "concrétions"
+point 1255.78 822.659 label -align tr -scale s -text "entrée forêt"
+point 1269.39 769.185 label -align tr -scale s -text "sortie forêt"
+point 274.285 945.02 label -align tr -scale s -text siphon
+point 176.365 1349.86 continuation 
 point 1165.61 815.32 station -name 28
 point 1102.12 820.93 station -name 29
 point 902.123 810.792 station -name 30
@@ -427,29 +428,35 @@ line survey
   652.8102 1076.047
 endline
 
-point 1165.6077 815.3195 station-name -align tr -scale xs -text 28
-point 1102.1226 820.9295 station-name -align tr -scale xs -text 29
-point 902.1227 810.792 station-name -align tr -scale xs -text 30
-point 829.0901 887.7595 station-name -align tr -scale xs -text 31
-point 777.0251 935.397 station-name -align tr -scale xs -text 32
-point 722.9877 1000.062 station-name -align tr -scale xs -text 33
-point 707.7327 1023.0945 station-name -align tr -scale xs -text 34
-point 627.7126 1047.9971 station-name -align tr -scale xs -text 35
-point 588.5401 1072.6021 station-name -align tr -scale xs -text 36
-point 567.2802 1116.9919 station-name -align tr -scale xs -text 37
-point 497.8901 1082.2471 station-name -align tr -scale xs -text 38
-point 452.3201 1076.637 station-name -align tr -scale xs -text 39
-point 391.2952 1071.2245 station-name -align tr -scale xs -text 40
-point 373.0876 1111.777 station-name -align tr -scale xs -text 41
-point 411.0801 1160.5945 station-name -align tr -scale xs -text 42
-point 438.5401 1160.4971 station-name -align tr -scale xs -text 43
-point 456.3551 1200.457 station-name -align tr -scale xs -text 44
-point 759.0126 1382.3469 station-name -align tr -scale xs -text 50
-point 518.8551 1061.3821 station-name -align tr -scale xs -text 127
+point 1165.61 815.319 station-name -align tr -scale xs -text 28
+point 1102.12 820.929 station-name -align tr -scale xs -text 29
+point 902.123 810.792 station-name -align tr -scale xs -text 30
+point 829.09 887.76 station-name -align tr -scale xs -text 31
+point 777.025 935.397 station-name -align tr -scale xs -text 32
+point 722.988 1000.06 station-name -align tr -scale xs -text 33
+point 707.733 1023.09 station-name -align tr -scale xs -text 34
+point 627.713 1048.0 station-name -align tr -scale xs -text 35
+point 588.54 1072.6 station-name -align tr -scale xs -text 36
+point 567.28 1116.99 station-name -align tr -scale xs -text 37
+point 497.89 1082.25 station-name -align tr -scale xs -text 38
+point 452.32 1076.64 station-name -align tr -scale xs -text 39
+point 391.295 1071.22 station-name -align tr -scale xs -text 40
+point 373.088 1111.78 station-name -align tr -scale xs -text 41
+point 411.08 1160.59 station-name -align tr -scale xs -text 42
+point 438.54 1160.5 station-name -align tr -scale xs -text 43
+point 456.355 1200.46 station-name -align tr -scale xs -text 44
+point 759.013 1382.35 station-name -align tr -scale xs -text 50
+point 518.855 1061.38 station-name -align tr -scale xs -text 127
 endscrap
 
 
 scrap GrotteDeLAncien-4p -projection plan -scale [0 0 96 0 0 0 500 0 inch]
+
+line wall -subtype invisible
+  900.7619 1332.1055
+  912.5333 1358.2071
+  905.3681 1391.9857
+endline
 
 line pit 
   581.8813 1108.4077
@@ -484,8 +491,8 @@ line pit -outline out
   545.5919 1104.6537
 endline
 
-point 788.6681 1408.4207 continuation 
-point 720.7819 1333.6521 water-flow 
+point 788.668 1408.42 continuation 
+point 720.782 1333.65 water-flow 
 line floor-meander 
   710.1454 1355.5509
   710.1454 1355.5509 701.3859 1357.4279 698.2575 1357.4279
@@ -656,7 +663,6 @@ line wall
 endline
 
 line wall 
-  806.3549 1438.5822
   813.8073 1430.1361
   813.8073 1430.1361 815.2978 1427.652 815.2978 1422.6837
   815.2978 1417.7154 813.3105 1407.7788 813.3105 1407.7788
@@ -665,8 +671,8 @@ line wall
 endline
 
 line wall 
-  898.2684 1390.8866
-  898.2684 1390.8866 902.243 1384.9246 902.7399 1381.4468
+  905.4335 1390.8866
+  905.4335 1390.8866 902.243 1384.9246 902.7399 1381.4468
   903.2367 1377.969 902.243 1373.4975 902.243 1373.4975
   902.243 1373.4975 883.8603 1375.9817 881.3762 1376.9754
   878.892 1377.969 854.5474 1382.9373 854.5474 1382.9373
@@ -678,28 +684,27 @@ line wall
   829.209 1432.1235 824.2407 1442.5569 824.2407 1442.5569
 endline
 
-point 964.6025 1355.2721 entrance -orientation 264.89556381834683
-point 1005.8076 1352.6663 label -align tr -text "sortie forêt"
-point 713.4003 1295.0566 label -align tr -text eau
-point 508.913 1213.942 station -name 45
-point 485.095 1291.305 station -name 46
+point 940.602 1355.27 entrance -orientation 264.89556381834683
+point 1005.81 1352.67 label -align tr -scale s -text "sortie forêt"
+point 508.913 1213.94 station -name 45
+point 485.095 1291.31 station -name 46
 point 504.583 1334.61 station -name 47
 point 631.945 1339.73 station -name 48
 point 708.718 1377.13 station -name 49
-point 759.013 1382.347 station -name 50
-point 811.473 1346.225 station -name 51
-point 898.283 1357.937 station -name 52
-point 823.088 1385.692 station -name 53
-point 429.978 1343.665 station -name 121
-point 274.663 1354.787 station -name 122
-point 216.59 1360.497 station -name 123
-point 541.788 1191.697 station -name 124
-point 584.898 1183.527 station -name 125
-point 578.205 1152.032 station -name 126
-point 587.358 1114.532 station -name 128
-point 614.72 1096.225 station -name 129
-point 652.81 1076.047 station -name 130
-point 712.753 1089.925 station -name 131
+point 759.013 1382.35 station -name 50
+point 811.473 1346.22 station -name 51
+point 898.283 1357.94 station -name 52
+point 823.088 1385.69 station -name 53
+point 429.978 1343.66 station -name 121
+point 274.663 1354.79 station -name 122
+point 216.59 1360.5 station -name 123
+point 541.788 1191.7 station -name 124
+point 584.898 1183.53 station -name 125
+point 578.205 1152.03 station -name 126
+point 587.358 1114.53 station -name 128
+point 614.72 1096.22 station -name 129
+point 652.81 1076.05 station -name 130
+point 712.753 1089.92 station -name 131
 line survey 
   504.5826 1334.6095
   631.9451 1339.7295
@@ -765,28 +770,38 @@ line survey
   712.7526 1089.9245
 endline
 
-point 508.9126 1213.942 station-name -align tr -scale xs -text 45
-point 485.0951 1291.3044 station-name -align tr -scale xs -text 46
-point 504.5826 1334.6095 station-name -align tr -scale xs -text 47
-point 631.9451 1339.7295 station-name -align tr -scale xs -text 48
-point 708.7176 1377.1295 station-name -align tr -scale xs -text 49
-point 811.4727 1346.2245 station-name -align tr -scale xs -text 51
-point 898.2826 1357.937 station-name -align tr -scale xs -text 52
-point 823.0876 1385.692 station-name -align tr -scale xs -text 53
-point 429.9776 1343.6646 station-name -align tr -scale xs -text 121
-point 274.6626 1354.787 station-name -align tr -scale xs -text 122
-point 216.5901 1360.4971 station-name -align tr -scale xs -text 123
-point 541.7876 1191.697 station-name -align tr -scale xs -text 124
-point 584.8977 1183.527 station-name -align tr -scale xs -text 125
-point 578.2051 1152.032 station-name -align tr -scale xs -text 126
-point 587.3577 1114.532 station-name -align tr -scale xs -text 128
-point 614.7202 1096.2245 station-name -align tr -scale xs -text 129
-point 652.8101 1076.047 station-name -align tr -scale xs -text 130
-point 712.7527 1089.9246 station-name -align tr -scale xs -text 131
+point 508.913 1213.94 station-name -align tr -scale xs -text 45
+point 485.095 1291.3 station-name -align tr -scale xs -text 46
+point 504.583 1334.61 station-name -align tr -scale xs -text 47
+point 631.945 1339.73 station-name -align tr -scale xs -text 48
+point 708.718 1377.13 station-name -align tr -scale xs -text 49
+point 811.473 1346.22 station-name -align tr -scale xs -text 51
+point 898.283 1357.94 station-name -align tr -scale xs -text 52
+point 823.088 1385.69 station-name -align tr -scale xs -text 53
+point 429.978 1343.66 station-name -align tr -scale xs -text 121
+point 274.663 1354.79 station-name -align tr -scale xs -text 122
+point 216.59 1360.5 station-name -align tr -scale xs -text 123
+point 541.788 1191.7 station-name -align tr -scale xs -text 124
+point 584.898 1183.53 station-name -align tr -scale xs -text 125
+point 578.205 1152.03 station-name -align tr -scale xs -text 126
+point 587.358 1114.53 station-name -align tr -scale xs -text 128
+point 614.72 1096.22 station-name -align tr -scale xs -text 129
+point 652.81 1076.05 station-name -align tr -scale xs -text 130
+point 712.753 1089.92 station-name -align tr -scale xs -text 131
 endscrap
 
 
 scrap GrotteDeLAncien-2p -projection plan -scale [0 0 96 0 0 0 500 0 inch]
+
+line pit -close on
+  827.4342 1478.7863
+  827.4342 1478.7863 825.3698 1480.949 823.6986 1481.8337
+  822.0274 1482.7185 821.6342 1483.5049 821.2409 1482.5219
+  820.8477 1481.5388 824.2884 1476.7219 824.2884 1476.7219
+  824.2884 1476.7219 830.3833 1470.5286 831.2681 1471.1185
+  832.1528 1471.7083 832.1528 1473.3795 831.2681 1474.4608
+  830.3833 1475.5422 827.4342 1478.7863 827.4342 1478.7863
+endline
 
 line wall 
   961.797 1791.7687
@@ -868,31 +883,31 @@ line wall
   824.6204 1441.6607 822.1886 1447.2538 820.9727 1448.9561
   819.7568 1450.6584 813.4342 1451.8742 813.191 1455.2788
   812.9478 1458.6833 813.6774 1465.2491 814.4069 1466.2218
-  815.1364 1467.1945 821.9454 1474.4899 821.9454 1474.4899
+  815.1364 1467.1945 822.9343 1475.174 822.9343 1475.174
 endline
 
-point 859.0923 1475.6948 entrance -orientation 299.5650325394926
-point 863.2686 1452.0978 label -align tr -text "sortie puits ?<br> forêt"
-point 929.3559 1599.2488 entrance -orientation 233.33945012341798
-point 968.9349 1574.8975 label -align tr -text "sortie<br>puits, forêt"
+point 850.233 1461.14 entrance -orientation 299.5650325394926
+point 889.269 1428.1 label -align tr -scale s -text "sortie puits ?<br> forêt"
+point 929.356 1599.25 entrance -orientation 233.33945012341798
+point 970.935 1602.9 label -align tr -scale s -text "sortie<br>puits, forêt"
 line pit -close on
-  887.9938 1566.5897
-  889.2314 1567.4062 890.7213 1567.7706 892.0039 1568.5146
-  893.6332 1569.4597 895.4202 1570.3009 896.6556 1571.7227
-  897.9886 1573.2569 899.0393 1575.1731 899.3824 1577.1764
-  899.6008 1578.4511 899.3804 1579.825 898.9012 1581.0261
-  898.4335 1582.1981 897.7168 1583.391 896.6556 1584.0737
-  894.9094 1585.197 892.6365 1585.3422 890.5602 1585.357
-  888.0542 1585.375 885.5797 1584.6415 883.1817 1583.9133
-  880.7968 1583.1891 878.2777 1582.5224 876.2843 1581.0261
-  874.8552 1579.9533 873.8241 1578.3946 872.9159 1576.8556
-  872.1236 1575.5131 871.6491 1574.002 871.1514 1572.5247
-  870.6918 1571.1604 869.7957 1569.7749 870.0286 1568.3542
-  870.1534 1567.5932 870.8101 1567.0149 871.3118 1566.4293
-  871.8781 1565.7683 872.4509 1565.0392 873.2367 1564.6649
-  874.5542 1564.0373 876.1082 1564.0164 877.5675 1564.0233
-  880.6529 1564.0383 883.916 1564.1591 886.7106 1565.4669
-  887.2253 1565.7078 887.5194 1566.2767 887.9938 1566.5897
+  887.6109 1567.5398
+  888.7033 1568.2605 890.0185 1568.5822 891.1506 1569.2389
+  892.5888 1570.0732 894.1662 1570.8157 895.2567 1572.0707
+  896.4334 1573.425 897.3608 1575.1164 897.6637 1576.8847
+  897.8564 1578.0099 897.6617 1579.2227 897.2389 1580.2829
+  896.8261 1581.3174 896.1934 1582.3704 895.2567 1582.973
+  893.7153 1583.9646 891.709 1584.0928 889.8763 1584.1058
+  887.6642 1584.1218 885.4799 1583.4742 883.3632 1582.8315
+  881.258 1582.1922 879.0344 1581.6037 877.2748 1580.2829
+  876.0133 1579.3359 875.1032 1577.9601 874.3015 1576.6016
+  873.6021 1575.4165 873.1833 1574.0827 872.744 1572.7787
+  872.3383 1571.5744 871.5473 1570.3514 871.7529 1569.0973
+  871.863 1568.4256 872.4427 1567.9151 872.8855 1567.3982
+  873.3854 1566.8147 873.891 1566.1712 874.5847 1565.8408
+  875.7476 1565.2868 877.1194 1565.2683 878.4075 1565.2744
+  881.131 1565.2874 884.0114 1565.3943 886.4782 1566.5487
+  886.9325 1566.7613 887.1921 1567.2635 887.6109 1567.5398
 endline
 
 line wall 
@@ -1016,8 +1031,8 @@ line wall
 endline
 
 line wall 
-  829.7291 1482.6395
-  831.0306 1482.9649 852.1806 1496.3056 853.4821 1497.2818
+  828.311 1480.252
+  829.6125 1480.5774 852.1806 1496.3056 853.4821 1497.2818
   854.7836 1498.258 867.799 1505.091 869.4259 1505.7418
   871.0528 1506.3926 886.3459 1517.4556 887.6474 1519.0825
   888.9489 1520.7094 895.1312 1536.0025 895.1312 1536.0025
@@ -1258,36 +1273,36 @@ line survey
   677.4176 1732.247
 endline
 
-point 820.7252 1438.647 station-name -align tr -scale xs -text 54
-point 793.8852 1450.457 station-name -align tr -scale xs -text 55
-point 814.8502 1487.3669 station-name -align tr -scale xs -text 56
-point 883.7477 1523.9795 station-name -align tr -scale xs -text 57
-point 886.5052 1544.452 station-name -align tr -scale xs -text 58
-point 880.0077 1591.272 station-name -align tr -scale xs -text 59
-point 896.6426 1583.4971 station-name -align tr -scale xs -text 60
-point 874.2001 1565.0895 station-name -align tr -scale xs -text 61
-point 899.5627 1653.0171 station-name -align tr -scale xs -text 62
-point 864.5717 1674.2136 station-name -align tr -scale xs -text 63
-point 901.1566 1678.7412 station-name -align tr -scale xs -text 64
-point 921.1183 1704.37 station-name -align tr -scale xs -text 65
-point 952.4832 1705.9084 station-name -align tr -scale xs -text 66
-point 982.3351 1735.2996 station-name -align tr -scale xs -text 67
-point 982.0402 1748.0945 station-name -align tr -scale xs -text 68
-point 960.3552 1786.777 station-name -align tr -scale xs -text 69
-point 937.6177 1793.6646 station-name -align tr -scale xs -text 70
-point 909.5677 1791.2046 station-name -align tr -scale xs -text 71
-point 910.6501 1803.1145 station-name -align tr -scale xs -text 72
-point 890.7001 1779.197 station-name -align tr -scale xs -text 73
-point 871.6076 1794.9446 station-name -align tr -scale xs -text 74
-point 852.5801 1768.0745 station-name -align tr -scale xs -text 75
-point 818.4251 1769.7471 station-name -align tr -scale xs -text 76
-point 803.6627 1778.7371 station-name -align tr -scale xs -text 77
-point 790.8351 1743.567 station-name -align tr -scale xs -text 78
-point 759.0427 1737.692 station-name -align tr -scale xs -text 79
-point 727.9102 1735.792 station-name -align tr -scale xs -text 80
-point 779.0901 1721.8146 station-name -align tr -scale xs -text 81
-point 970.2277 1722.7996 station-name -align tr -scale xs -text 98
-point 690.3101 1772.6345 station-name -align tr -scale xs -text 99
+point 820.725 1438.65 station-name -align tr -scale xs -text 54
+point 793.885 1450.46 station-name -align tr -scale xs -text 55
+point 814.85 1487.37 station-name -align tr -scale xs -text 56
+point 883.748 1523.98 station-name -align tr -scale xs -text 57
+point 886.505 1544.45 station-name -align tr -scale xs -text 58
+point 880.008 1591.27 station-name -align tr -scale xs -text 59
+point 896.643 1583.5 station-name -align tr -scale xs -text 60
+point 874.2 1565.09 station-name -align tr -scale xs -text 61
+point 899.563 1653.02 station-name -align tr -scale xs -text 62
+point 864.572 1674.21 station-name -align tr -scale xs -text 63
+point 901.157 1678.74 station-name -align tr -scale xs -text 64
+point 921.118 1704.37 station-name -align tr -scale xs -text 65
+point 952.483 1705.91 station-name -align tr -scale xs -text 66
+point 982.335 1735.3 station-name -align tr -scale xs -text 67
+point 982.04 1748.09 station-name -align tr -scale xs -text 68
+point 960.355 1786.78 station-name -align tr -scale xs -text 69
+point 937.618 1793.66 station-name -align tr -scale xs -text 70
+point 909.568 1791.2 station-name -align tr -scale xs -text 71
+point 910.65 1803.11 station-name -align tr -scale xs -text 72
+point 890.7 1779.2 station-name -align tr -scale xs -text 73
+point 871.608 1794.94 station-name -align tr -scale xs -text 74
+point 852.58 1768.07 station-name -align tr -scale xs -text 75
+point 818.425 1769.75 station-name -align tr -scale xs -text 76
+point 803.663 1778.74 station-name -align tr -scale xs -text 77
+point 790.835 1743.57 station-name -align tr -scale xs -text 78
+point 759.043 1737.69 station-name -align tr -scale xs -text 79
+point 727.91 1735.79 station-name -align tr -scale xs -text 80
+point 779.09 1721.81 station-name -align tr -scale xs -text 81
+point 970.228 1722.8 station-name -align tr -scale xs -text 98
+point 690.31 1772.63 station-name -align tr -scale xs -text 99
 endscrap
 
 
@@ -1324,11 +1339,11 @@ line survey
   674.1702 1836.1195
 endline
 
-point 655.6652 1820.0745 station-name -align tr -scale xs -text 100
-point 651.2377 1847.2395 station-name -align tr -scale xs -text 101
-point 593.8226 1847.5344 station-name -align tr -scale xs -text 102
-point 570.2001 1853.5396 station-name -align tr -scale xs -text 103
-point 674.1702 1836.1195 station-name -align tr -scale xs -text 104
+point 655.665 1820.07 station-name -align tr -scale xs -text 100
+point 651.238 1847.24 station-name -align tr -scale xs -text 101
+point 593.823 1847.53 station-name -align tr -scale xs -text 102
+point 570.2 1853.54 station-name -align tr -scale xs -text 103
+point 674.17 1836.12 station-name -align tr -scale xs -text 104
 line wall -subtype blocks
   573.1198 1865.5685
   573.1198 1865.5685 569.2233 1863.2955 567.9244 1861.9966
@@ -1577,30 +1592,30 @@ line survey
   932.7327 1732.8395
 endline
 
-point 737.9502 1755.3771 station-name -align tr -scale xs -text 82
-point 712.0626 1722.5045 station-name -align tr -scale xs -text 83
-point 724.8577 1754.787 station-name -align tr -scale xs -text 84
-point 762.8152 1791.0071 station-name -align tr -scale xs -text 85
-point 827.2826 1821.422 station-name -align tr -scale xs -text 86
-point 835.6501 1823.292 station-name -align tr -scale xs -text 87
-point 842.0476 1798.9795 station-name -align tr -scale xs -text 88
-point 839.0951 1738.547 station-name -align tr -scale xs -text 89
-point 845.9526 1703.902 station-name -align tr -scale xs -text 90
-point 894.1151 1704.2947 station-name -align tr -scale xs -text 92
-point 898.7401 1715.5171 station-name -align tr -scale xs -text 93
-point 880.6302 1752.5244 station-name -align tr -scale xs -text 95
-point 900.1177 1747.897 station-name -align tr -scale xs -text 96
-point 932.7326 1732.8395 station-name -align tr -scale xs -text 97
+point 737.95 1755.38 station-name -align tr -scale xs -text 82
+point 712.063 1722.5 station-name -align tr -scale xs -text 83
+point 724.858 1754.79 station-name -align tr -scale xs -text 84
+point 762.815 1791.01 station-name -align tr -scale xs -text 85
+point 827.283 1821.42 station-name -align tr -scale xs -text 86
+point 835.65 1823.29 station-name -align tr -scale xs -text 87
+point 842.048 1798.98 station-name -align tr -scale xs -text 88
+point 839.095 1738.55 station-name -align tr -scale xs -text 89
+point 845.953 1703.9 station-name -align tr -scale xs -text 90
+point 894.115 1704.29 station-name -align tr -scale xs -text 92
+point 898.74 1715.52 station-name -align tr -scale xs -text 93
+point 880.63 1752.52 station-name -align tr -scale xs -text 95
+point 900.118 1747.9 station-name -align tr -scale xs -text 96
+point 932.733 1732.84 station-name -align tr -scale xs -text 97
 endscrap
 
 
 scrap GrotteDeLAncien-7p -projection plan -scale [0 0 96 0 0 0 500 0 inch]
 
-point 354.0897 490.4595 label -align tr -scale l -text PLAN
-point 385.8153 1664.8761 entrance -orientation 178.71498348484474
-point 107.9649 1542.6127 entrance -orientation 61.97889388021474
-point 334.4779 1747.1124 label -align tr -text "puits<br>sortie"
-point 120.7286 1478.4829 label -align tr -text sortie
+point 354.09 490.459 label -align tr -scale l -text PLAN
+point 385.815 1664.88 entrance -orientation 178.71498348484474
+point 107.965 1542.61 entrance -orientation 61.97889388021474
+point 358.478 1717.11 label -align tr -scale s -text "puits<br>sortie"
+point 120.729 1478.48 label -align tr -scale s -text sortie
 line wall -subtype invisible
   136.5099 1569.4688
   135.8955 1562.7761
@@ -1638,7 +1653,7 @@ line wall -close on -outline in
 endline
 
 point 711.275 1768.17 station -name 105
-point 711.2751 1768.1746 station-name -align tr -scale xs -text 105
+point 711.275 1768.17 station-name -align tr -scale xs -text 105
 point 677.418 1732.25 station -name 106
 point 676.433 1719.06 station -name 107
 point 659.21 1701.93 station -name 108
@@ -1724,21 +1739,21 @@ line survey
   141.8851 1561.8745
 endline
 
-point 677.4177 1732.2471 station-name -align tr -scale xs -text 106
-point 676.4326 1719.0596 station-name -align tr -scale xs -text 107
-point 659.2101 1701.932 station-name -align tr -scale xs -text 108
-point 673.0876 1690.9094 station-name -align tr -scale xs -text 109
-point 647.5951 1674.3745 station-name -align tr -scale xs -text 110
-point 630.0752 1664.6295 station-name -align tr -scale xs -text 111
-point 596.4127 1643.1746 station-name -align tr -scale xs -text 112
-point 510.5876 1628.2119 station-name -align tr -scale xs -text 113
-point 467.6726 1634.9045 station-name -align tr -scale xs -text 114
-point 417.8701 1637.072 station-name -align tr -scale xs -text 115
-point 363.0477 1638.0547 station-name -align tr -scale xs -text 116
-point 404.1901 1627.8196 station-name -align tr -scale xs -text 117
-point 313.6377 1622.897 station-name -align tr -scale xs -text 118
-point 237.3576 1610.4971 station-name -align tr -scale xs -text 119
-point 141.8852 1561.8745 station-name -align tr -scale xs -text 120
+point 677.418 1732.25 station-name -align tr -scale xs -text 106
+point 676.433 1719.06 station-name -align tr -scale xs -text 107
+point 659.21 1701.93 station-name -align tr -scale xs -text 108
+point 673.088 1690.91 station-name -align tr -scale xs -text 109
+point 647.595 1674.37 station-name -align tr -scale xs -text 110
+point 630.075 1664.63 station-name -align tr -scale xs -text 111
+point 596.413 1643.17 station-name -align tr -scale xs -text 112
+point 510.588 1628.21 station-name -align tr -scale xs -text 113
+point 467.673 1634.9 station-name -align tr -scale xs -text 114
+point 417.87 1637.07 station-name -align tr -scale xs -text 115
+point 363.048 1638.05 station-name -align tr -scale xs -text 116
+point 404.19 1627.82 station-name -align tr -scale xs -text 117
+point 313.638 1622.9 station-name -align tr -scale xs -text 118
+point 237.358 1610.5 station-name -align tr -scale xs -text 119
+point 141.885 1561.87 station-name -align tr -scale xs -text 120
 line wall 
   722.1292 1764.1368
   722.1292 1764.1368 716.7442 1769.5218 716.4749 1771.1373
@@ -1876,8 +1891,19 @@ endscrap
 
 scrap GrotteDeLAncien-3p -projection plan -scale [0 0 96 0 0 0 500 0 inch]
 
-point 1055.3997 339.4282 continuation 
-point 1191.4647 429.5602 continuation 
+point 1055.16 116.41 entrance -orientation 14.187921413543092
+line wall -subtype invisible
+  1095.1223 142.9194
+  1101.292 149.0891
+endline
+
+line wall -subtype invisible
+  1031.8828 185.079
+  1024.6849 164.5133
+endline
+
+point 1055.4 339.428 continuation 
+point 1191.46 429.56 continuation 
 line wall -subtype presumed
   1174.4694 432.1059
   1174.4694 432.1059 1160.2803 437.2656 1157.7005 437.2656
@@ -1885,7 +1911,7 @@ line wall -subtype presumed
   1135.127 437.2656
 endline
 
-point 1003.7507 249.7732 continuation 
+point 1003.75 249.773 continuation 
 line wall -close on -outline in
   1091.9114 210.784
   1092.3746 221.436
@@ -1978,7 +2004,7 @@ line floor-step -outline out
   1023.5491 163.8032
 endline
 
-point 1024.1941 98.3304 label -align tr -text "entrée mer"
+point 1018.19 22.3304 label -align tr -scale s -text "entrée mer"
 point 1062.41 174.67 station -name 0
 point 1089.22 218.66 station -name 1
 point 1021.14 247.01 station -name 2
@@ -2055,21 +2081,32 @@ line survey
   1143.6177 517.582
 endline
 
-point 1062.4127 174.6694 station-name -align tr -scale xs -text 0
-point 1089.2201 218.6646 station-name -align tr -scale xs -text 1
-point 1021.1426 247.012 station-name -align tr -scale xs -text 2
-point 1104.9678 263.4495 station-name -align tr -scale xs -text 3
-point 1117.7651 328.1145 station-name -align tr -scale xs -text 4
-point 1110.2527 356.4619 station-name -align tr -scale xs -text 5
-point 1070.8826 347.4045 station-name -align tr -scale xs -text 6
-point 1100.7051 405.4771 station-name -align tr -scale xs -text 7
-point 1128.4601 428.017 station-name -align tr -scale xs -text 8
-point 1150.7051 430.6746 station-name -align tr -scale xs -text 9
-point 1111.6301 461.5795 station-name -align tr -scale xs -text 10
+point 1062.41 174.669 station-name -align tr -scale xs -text 0
+point 1089.22 218.665 station-name -align tr -scale xs -text 1
+point 1021.14 247.012 station-name -align tr -scale xs -text 2
+point 1104.97 263.45 station-name -align tr -scale xs -text 3
+point 1117.77 328.115 station-name -align tr -scale xs -text 4
+point 1110.25 356.462 station-name -align tr -scale xs -text 5
+point 1070.88 347.404 station-name -align tr -scale xs -text 6
+point 1100.71 405.477 station-name -align tr -scale xs -text 7
+point 1128.46 428.017 station-name -align tr -scale xs -text 8
+point 1150.71 430.675 station-name -align tr -scale xs -text 9
+point 1111.63 461.579 station-name -align tr -scale xs -text 10
 endscrap
 
 
 scrap GrotteDeLAncien-5p -projection plan -scale [0 0 96 0 0 0 500 0 inch]
+
+line wall -id s5_l2 -subtype invisible
+  1218.931 740.6779
+  1214.9319 751.0756
+  1204.6232 806.5143
+endline
+
+line wall -subtype invisible
+  1292.9147 661.4954
+  1290.5152 690.689
+endline
 
 line pit -close on
   1313.2277 539.0376
@@ -2097,12 +2134,12 @@ line wall
   1321.4552 547.2562 1320.0841 553.4265 1320.0841 553.4265
 endline
 
-point 1237.9643 633.6167 water-flow -orientation 273.2629012430124
-point 1331.8833 570.1829 water-flow -orientation 84.90962922910383
-point 1361.1646 566.5942 label -align tr -text "résurgence"
-point 1352.3939 515.9194 label -align tr -text "sortie<br>mer"
-point 1262.3756 632.8103 label -align tr -text eau
-point 1310.7233 678.5571 label -align tr -text "sortie mer"
+point 1237.96 633.617 water-flow -orientation 273.2629012430124
+point 1331.88 570.183 water-flow -orientation 84.90962922910383
+point 1375.16 554.594 label -align tr -scale s -text "résurgence"
+point 1336.36 458.987 entrance 
+point 1392.39 455.919 label -align tr -scale s -text "sortie<br>mer"
+point 1338.72 670.557 label -align tr -scale s -text "sortie mer"
 line wall 
   1132.9708 469.5997
   1136.2662 474.2133
@@ -2117,7 +2154,9 @@ line wall
   1138.9025 400.3956
 endline
 
-line wall 
+line wall -id s5_l1
+  1193.6496 781.3594
+  1198.9108 766.8909
   1200.5272 755.6435
   1200.5272 753.6663 1197.8908 742.7913 1197.8908 740.155
   1197.8908 737.5186 1197.2318 730.5982 1195.9136 728.9505
@@ -2225,16 +2264,16 @@ endline
 
 point 1141.85 486.09 station -name 11
 point 1149.72 451.44 station -name 12
-point 1148.4593 385.5686 continuation 
+point 1148.46 385.569 continuation 
 point 1144.21 407.74 station -name 13
 line survey 
   1141.8477 486.087
   1149.7201 451.442
 endline
 
-point 1141.8477 486.087 station-name -align tr -scale xs -text 11
-point 1149.7201 451.442 station-name -align tr -scale xs -text 12
-point 1144.2101 407.7395 station-name -align tr -scale xs -text 13
+point 1141.85 486.087 station-name -align tr -scale xs -text 11
+point 1149.72 451.442 station-name -align tr -scale xs -text 12
+point 1144.21 407.74 station-name -align tr -scale xs -text 13
 point 1215.54 649.47 station -name 23
 point 1283.06 671.62 station -name 24
 point 1172.3 684.22 station -name 25
@@ -2248,9 +2287,9 @@ line survey
   1176.2952 684.217
 endline
 
-point 1215.5352 649.4719 station-name -align tr -scale xs -text 23
-point 1283.0552 671.6195 station-name -align tr -scale xs -text 24
-point 1172.2952 684.217 station-name -align tr -scale xs -text 25
+point 1215.54 649.472 station-name -align tr -scale xs -text 23
+point 1283.06 671.62 station-name -align tr -scale xs -text 24
+point 1172.3 684.217 station-name -align tr -scale xs -text 25
 point 1199.07 723.79 station -name 26
 point 1204.28 741.8 station -name 27
 line survey 
@@ -2258,8 +2297,8 @@ line survey
   1204.2826 741.7945
 endline
 
-point 1199.0676 723.7844 station-name -align tr -scale xs -text 26
-point 1204.2826 741.7944 station-name -align tr -scale xs -text 27
+point 1199.07 723.784 station-name -align tr -scale xs -text 26
+point 1204.28 741.794 station-name -align tr -scale xs -text 27
 point 1143.62 517.58 station -name 14
 point 1172.16 539.73 station -name 15
 point 1204.12 576.96 station -name 16
@@ -2314,15 +2353,15 @@ line survey
   1217.5352 649.472
 endline
 
-point 1143.6177 517.582 station-name -align tr -scale xs -text 14
-point 1172.1627 539.7295 station-name -align tr -scale xs -text 15
-point 1204.1177 576.9645 station-name -align tr -scale xs -text 16
-point 1227.2476 551.9645 station-name -align tr -scale xs -text 17
-point 1229.3152 551.9645 station-name -align tr -scale xs -text 18
-point 1282.6627 574.5344 station-name -align tr -scale xs -text 19
-point 1316.0276 553.8669 station-name -align tr -scale xs -text 20
-point 1316.3225 522.3695 station-name -align tr -scale xs -text 21
-point 1333.4501 492.942 station-name -align tr -scale xs -text 22
+point 1143.62 517.582 station-name -align tr -scale xs -text 14
+point 1172.16 539.73 station-name -align tr -scale xs -text 15
+point 1204.12 576.965 station-name -align tr -scale xs -text 16
+point 1227.25 551.965 station-name -align tr -scale xs -text 17
+point 1229.32 551.965 station-name -align tr -scale xs -text 18
+point 1282.66 574.534 station-name -align tr -scale xs -text 19
+point 1316.03 553.867 station-name -align tr -scale xs -text 20
+point 1316.32 522.37 station-name -align tr -scale xs -text 21
+point 1333.45 492.942 station-name -align tr -scale xs -text 22
 line survey 
   1172.2952 684.217
   1199.0677 723.7845
