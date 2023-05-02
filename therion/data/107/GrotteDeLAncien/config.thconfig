@@ -51,15 +51,15 @@ layout plan
   \par \si Développement :\ss{ \the\cavelength}
   \par \si Dénivellation :\ss{ \the\cavedepth}
   \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
-  \par \si Relevés topographiques :\ss{ }Arnauld Malard, Natalia Morata-Calvo
-  \par Laurence Boudoux d'Hautefeuille, Michel Philips
-  \par \si Report et dessins :\ss{  Tanguy Racine}}
+  \par \si Relevés topographiques :\ss{ }Laurent Mestre, Kateryna Medvedeva
+  \par Bernard Tourte, Christophe Rognon
+  \par \si Report et dessins :\ss{  Kateryna Medvedeva}}
 
   \def\maplayout{
 
   \legendbox{\the\numexpr\xcenter+5\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
-  \legendbox{\the\numexpr\xcenter-20\relax}{\the\numexpr\ycenter - 20*\yscale\relax}{N}{\northarrow}
-  \legendbox{\the\numexpr\xcenter-5\relax}{\the\numexpr\ycenter - 30*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter-20\relax}{\the\numexpr\ycenter - 110*\yscale\relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter-5\relax}{\the\numexpr\ycenter - 140*\yscale\relax}{N}{\scalebar}
   %\legendbox{100}{\the\numexpr -1*\yscale\relax}{NE} {\hbox{\loadpicture{outputs/GrotteDeLAncien-ee.pdf}}}
   \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
   }

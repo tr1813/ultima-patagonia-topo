@@ -293,18 +293,17 @@ survey GrotteDeLAncien -entrance 0 -title "Sytème de Grottes de l'Ancien"
         station 116 "puit sortie"
         station 119 "Sortie"
         station 126 "PUIT connexion"
-
+        
     endcentreline
 
     input GrotteDeLAncien-p.th2
     map m-all-p -projection plan 
+        m4p
         m1p
         m7p
         m3p
-        m4p
         m5p
         m6p
-        
         m2p
     endmap
 
@@ -336,5 +335,11 @@ survey GrotteDeLAncien -entrance 0 -title "Sytème de Grottes de l'Ancien"
         GrotteDeLAncien-7p
     endmap
 
-
+    join s1_l1 s5_l1
+    join s1_l2 s5_l2
+    join GrotteDeLAncien-5p GrotteDeLAncien-3p
+    join GrotteDeLAncien-1p GrotteDeLAncien-4p
+    join GrotteDeLAncien-4p GrotteDeLAncien-2p
+    join GrotteDeLAncien-2p GrotteDeLAncien-6p
+    join GrotteDeLAncien-6p GrotteDeLAncien-7p
 endsurvey
