@@ -41,11 +41,11 @@ layout local
   \par Ultima Patagonia 2008, 2023}
   \formattedlegend 
   \def\maplayout{
-  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
-  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter -3*\yscale\relax}{N}{\iflegend\insertlegend\fi}
-  \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - \yscale\relax}{N}{\northarrow}
-  \legendbox{\the\numexpr\xcenter+12\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\scalebar}
-  \legendbox{\the\numexpr\xcenter-\xscale\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{E} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+  \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter -3*\yscale\relax}{N}{\iflegend\insertlegend\fi}
+  \legendbox{\the\numexpr\xcenter-12\relax}{\the\numexpr\ycenter - \yscale\relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter-12\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter+\xscale\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{E} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
   }
   endcode
 endlayout

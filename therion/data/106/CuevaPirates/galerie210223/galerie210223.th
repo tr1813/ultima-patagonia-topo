@@ -15,9 +15,15 @@ survey galerie210223 -title "galerie210223"
 
   centerline
     date 2023.02.21 
-    team "Jules"
-    team "Alex"
-    team "Franck"
+    team "Jules Clouzeau" insts
+    team "Alexandre Honiat" notes
+    team "Franck Bréhier" dog
+
+    explo-date 2023.02.21 
+    explo-team "Jules Clouzeau"
+    explo-team "Alexandre Honiat"
+    explo-team "Franck Bréhier"
+
     units length meters
     units compass clino degrees
     data normal from to length compass clino
@@ -487,7 +493,11 @@ input "galerie210223-1p.th2"
 
    map m-all-p -projection plan
      galerie210223-1p
+     galerie210223-2p
+     galerie210223-3p
    endmap
+
+   join galerie210223-1p galerie210223-2p
 
 endsurvey
 

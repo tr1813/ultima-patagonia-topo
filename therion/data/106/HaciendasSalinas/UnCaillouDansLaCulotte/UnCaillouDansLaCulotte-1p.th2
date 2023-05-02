@@ -148,7 +148,7 @@ line wall:presumed -outline in
   1110.2263 1059.4678 1072.8496 1096.8445 1088.5386 1133.7597
 endline
 
-point 503.788 2286.67 label -align l -scale l -text "Un caillou dans la culotte"
+point 503.788 2286.67 label -align l -scale m -text "Un caillou dans la culotte"
 line wall 
   596.4542 3352.9797
   534.4595 3319.6984
