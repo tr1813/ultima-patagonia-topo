@@ -4,8 +4,8 @@ encoding  utf-8
 
 scrap galerie210223-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
-point 549.449 4638.7106 narrow-end -align t
-point 63.753 4784.1176 narrow-end -align t
+point 549.449 4638.71 narrow-end -align t
+point 63.753 4784.12 narrow-end -align t
 line wall 
   2598.4556 1676.6289
   2570.2145 1707.33 2530.0552 1735.5733 2510.1023 1772.9098
@@ -142,7 +142,7 @@ line contour
   1842.14 2316.2
 endline
 
-point 1738.85 2331.54 water-flow -orientation 304.8800060864259
+point 1738.85 2331.54 water-flow -orientation 304.8800388515758
 line wall 
   1748.18 2367.54
   1762.15 2365.22
@@ -393,7 +393,7 @@ line contour -close on -id galerie210223-1p_clay_1 -visibility on
   440.81 4588.49
 endline
 
-area clay 
+area clay
   galerie210223-1p_clay_1
 endarea
 
@@ -680,7 +680,7 @@ endscrap
 
 scrap galerie210223-3p -projection plan -scale [0 0 96 0 0 0 500 0 inch]
 
-point 3822.6066 2348.9731 u:terminus -attr text UP2023 -attr side 20 -orientation 20
+point 3744.6061 2354.9727 u:terminus -attr text UP2023 -attr side 1 -orientation 20.0
 line wall:presumed 
   3458.8518 1535.9632
   3463.545 1533.6166 3566.7943 1435.0605 3566.7943 1435.0605

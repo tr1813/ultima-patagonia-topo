@@ -54,8 +54,8 @@ line floor-step
   185.3814 -420.8157 193.8559 -419.7564 193.8559 -419.7564
 endline
 
-point 344.28 -565.678 label -align r -scale xs -text hydromagnesite
-point 402.932 -496.108 label -align br -scale xs -text "aretes de roche"
+point 320.28 -547.678 label -align r -scale xs -text "hydromagnésie"
+point 376.932 -502.108 label -align br -scale xs -text "arêtes de roche"
 point 281.457 -447.734 remark -align tr -scale xs -text "stn 53"
 point 343.75 -474.96 gradient -orientation 325.98527786418515
 point 310.116 -470.604 gradient -orientation 322.2058010518957
@@ -517,7 +517,7 @@ line wall -id alt5
   471.0718 235.4204
 endline
 
-point 617.782 187.089 label -align t -text "<bf>e6"
+point 627.782 187.089 label -align t -scale s -text "<bf>e6"
 point 596.059 186.528 continuation -scale s
 line rock-border -close on
   485.6991 205.2436
@@ -542,11 +542,6 @@ line rock-border -close on
   498.8698 178.288
 endline
 
-point 423.464 563.692 gradient -orientation 140.18930839826146
-point 441.737 531.78 gradient -orientation 140.18930839826146
-point 406.78 597.987 gradient -orientation 162.4522234259174
-point 384.534 630.297 gradient -orientation 143.58304173746285
-point 360.699 656.25 gradient -orientation 134.47634641835666
 point 420.316 315.915 gradient -orientation 327.4666842753186
 point 440.975 286.513 gradient -orientation 328.0173857420891
 point 460.238 268.631 gradient -orientation 314.3841718370287
@@ -751,7 +746,7 @@ endscrap
 
 scrap stalchamber-p -projection plan -scale [0 0 96 0 0 0 2000 0 inch]
 
-point 285.551 -963.775 u:terminus -attr text UP2023 -attr side 1 -orientation 340.0000151479069
+point 319.5512 -963.7747 u:terminus -attr text UP2023 -attr side 1 -orientation 340.0
 line u:texture 
   140.625 -752.6483
   140.625 -752.6483 141.9492 -755.5614 153.3369 -747.0869
@@ -1428,7 +1423,7 @@ line wall -close on -outline in
   -983.9663 -1700.1233
 endline
 
-point 93.3475 -803.418 label -align b -text "Stal Chamber"
+point 93.3475 -833.418 label -align b -text "<centre>Stal<br>Chamber"
 line floor-step 
   -355.6674 -757.1504
   -355.6674 -757.1504 -353.0756 -734.3065 -373.2474 -729.9414
@@ -1944,7 +1939,7 @@ endscrap
 
 scrap entrance-p -projection plan -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 
-point 183.534 721.189 u:terminus -attr text MDD08 -attr side 0
+point 145.534 723.189 u:terminus -attr text MDD08 -attr side 0 -orientation 280
 line contour 
   97.0025 728.6553
   54.1191 717.2322
@@ -2199,6 +2194,17 @@ endscrap
 
 scrap whiterhino-p -projection plan -scale [0 0 96 0 0 0 2000 0 inch]
 
+point 360.699 656.25 gradient -orientation 134.47634641835666
+line survey 
+  416.34 568.46
+  489.8 474.37
+endline
+
+point 354.13 648.07 station-name -align tr -scale xs -text 91@b
+point 423.464 563.692 gradient -orientation 140.18930839826146
+point 441.737 531.78 gradient -orientation 140.18930839826146
+point 406.78 597.987 gradient -orientation 162.4522234259174
+point 384.534 630.297 gradient -orientation 143.58304173746285
 line wall -close on -outline in
   495.5146 445.6177
   494.1644 448.5881
@@ -2209,9 +2215,8 @@ line wall -close on -outline in
 endline
 
 line wall 
-  649.6264 400.2598
-  637.4637 401.9159 644.321 441.5517 644.321 441.5517
-  644.321 441.5517 645.5902 460.1937 649.2703 465.714
+  648.3198 446.6411
+  648.3198 446.6411 645.5902 460.1937 649.2703 465.714
   652.9505 471.2343 667.492 472.513 668.412 483.5536
   668.6713 486.6649 673.3633 511.8033 670.4522 526.8915
   668.5482 536.7593 667.5867 547.7196 668.1414 556.0641
@@ -2479,15 +2484,7 @@ line wall
   557.0696 444.5277 566.5312 445.6112 569.6132 441.9143
   573.4304 437.3356 580.5673 437.084 581.0993 436.9954
   586.6195 436.0754 589.8235 434.0597 596.2639 431.2996
-  597.4831 430.7771 592.3945 425.1751 593.6192 424.1432
-endline
-
-line wall 
-  600.7311 420.0065
-  605.403 417.9417 604.0175 427.905 604.0175 427.905
-  604.0175 427.905 610.7233 428.4222 615.2099 426.9908
-  619.86 425.5072 622.3522 421.9937 625.63 417.3112
-  632.0703 408.1107 632.6712 396.3196 636.3514 396.3196
+  597.4831 430.7771 593.6192 424.1432 593.6192 424.1432
 endline
 
 line floor-step 
@@ -2626,6 +2623,7 @@ line border -close on -id whiterhino-p_u_smallblocks_4 -visibility off
   259.3765 549.0427 260.2027 550.1046 260.9883 551.1953
   261.3176 551.6526 261.6353 552.1182 261.9492 552.5859
   235.7949 580.5684
+  235.7949 580.5684
 endline
 
 area u:smallblocks 
@@ -2662,6 +2660,7 @@ line border -close on -id whiterhino-p_u_smallblocks_5 -visibility off
   285.4648 522.3731
   262.9492 551.5156
   261.9492 552.5859
+  261.9492 552.5859
 endline
 
 area u:smallblocks 
@@ -2683,6 +2682,7 @@ line border -close on -id whiterhino-p_u_smallblocks_6 -visibility off
   307.0566 472.4004
   339.252 449.5332
   302.4629 506.5352
+  286.5742 521.3398
   286.5742 521.3398
 endline
 
@@ -2774,7 +2774,7 @@ endscrap
 
 scrap whiterhino-3p -projection plan -scale [0 0 96 0 0 0 200 0 inch]
 
-
+point 951.185 390.727 label -align r -scale xs -text "10 m non topo"
 line wall 
   565.1136 445.7139
   565.1136 445.7139 584.27 440.3002 589.2673 440.3002
@@ -2886,9 +2886,9 @@ line floor-step
   695.1219 353.192 720.5898 341.5817 720.5898 358.81
 endline
 
-point 829.732 244.196 label -align br -text "White Rhino"
+point 829.732 613.996 label -align br -text "White Rhino"
 point 799.137 262.335 continuation -scale s
-point 792.638 372.089 karren -scale l
+point 888.638 318.089 karren -scale l
 point 849.576 297.672 continuation -scale s
 point 931.556 399.771 continuation -scale s
 point 775.55 294.13 station -name 116@c
@@ -3011,11 +3011,6 @@ endline
 line survey 
   489.8 474.37
   474.37 434.06
-endline
-
-line survey 
-  416.34 568.46
-  489.8 474.37
 endline
 
 line survey 
@@ -3296,7 +3291,6 @@ point 80.35 759.49 station-name -align tr -scale xs -text 23@c
 point 79.96 756.18 station-name -align tr -scale xs -text 24@a
 point 104.61 752.72 station-name -align tr -scale xs -text 25@a
 point 416.26 568.54 station-name -align tr -scale xs -text 90@b
-point 354.13 648.07 station-name -align tr -scale xs -text 91@b
 point 328.86 660.91 station-name -align tr -scale xs -text 92@b
 point 57.28 748.78 station-name -align tr -scale xs -text 101@c
 point 67.36 772.64 station-name -align tr -scale xs -text 102@c
@@ -3392,7 +3386,6 @@ line wall -id doom_l1
   -92.8909 368.8687 -100.7965 362.2806 -100.7965 362.2806
 endline
 
-point -1.0275 94.5197 u:terminus -attr text UP2023 -attr side 1 -orientation 30.00001156757613
 line u:texture 
   32.9584 473.7897
   57.3026 473.4152
@@ -3718,7 +3711,7 @@ line floor-step
   114.6716 212.6589 137.7119 210.8051 137.7119 210.8051
 endline
 
-point 200.9766 301.3457 label -align tl -text "Sump of Doom" 
+point 220.977 301.346 label -align tl -text "Sump of Doom"
 point 135.39 554.06 station -name 200@e
 point 133.27 490.28 station -name 201@e
 point 67.91 488.07 station -name 202@e

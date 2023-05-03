@@ -11,7 +11,7 @@ layout local
   map-header 0 0 off
   symbol-show point label
   symbol-hide point passage-height
-  statistics topo-length on
+  statistics topo-length off
   color map-bg [85 85 85]
   symbol-hide point station-name 
   symbol-hide line survey
@@ -25,26 +25,43 @@ layout local
   legend on
   code tex-map
   #\framethickness=0.5mm
-  \def\xcenter{0}
-  \def\ycenter{90}
+  \def\xcenter{-20}
+  \def\ycenter{110}
   \def\xscale{40}
   \def\yscale{3}
+    \def\cadnum{106001}
+
   \legendwidth=20cm
   # change this
   \def\customheader{
-  \size[13]\bf \the\cavename \ss
-  \si \par \size[9]Iles Madre de Dios \ss
-  \par Dévelopement: \the\cavelength
-  \par Dénivelé: \the\cavedepth
-  \par  \the\topoteam
-  \par Topographie: Centre Terre, Oxford University Caving Club
-  \par Ultima Patagonia 2008, 2023}
+  \size[18]\bf \the\cavename{} / \cadnum \ss
+  \si \par \size[14]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
+  \par{ \quad} 
+  \size[12]\par \bf \si Coordonnées de l'entrée Porche (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z : 10 m}  \ss
+  \par{ \quad} 
+   \size[12]\par \bf \si Coordonnées de l'entrée Résurgence (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z : 0 m}  \ss
+  \par{ \quad} 
+  \par \si Développement :\ss{ \the\cavelength}
+  \par \si Dénivellation :\ss{ \the\cavedepth}
+  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2008  \& 2023, 
+  \par Oxford University Caving Club  - Madre de Dios 2008} 
+    \par{ \quad} 
+
+  \par \si Relevés topographiques :\ss{ } Alexandre Andrieu, Laurence Boudoux d'Hautefeuille, Franck Bréhier,
+  \par  Marta Candel Urena, Clément Chaput, Jules Clouzeau, Tim Guilford,
+  \par  Simon Headford, Alexandre Honiat, Charlotte Honiat, Ben Lovett, 
+  \par Christine Magot, Arnauld Malard, Lou Maurice, Kateryna Medvedeva, 
+  \par Natalia Morata-Calvo, Rick Padfield, Jérémie Prieur-Drévon, Tanguy Racine, 
+  \par Cédric Rocques, Raphaël Seguin, Bernard Tourte, Joël Trémoulet, Zappé. 
+  \par{ \quad} 
+
+  \par \si Report et dessins :\ss{Tanguy Racine, Alexandre Honiat}}
   \formattedlegend 
   \def\maplayout{
-  \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter +3*\yscale\relax}{N}{\customheader}
   \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter -3*\yscale\relax}{N}{\iflegend\insertlegend\fi}
-  \legendbox{\the\numexpr\xcenter-12\relax}{\the\numexpr\ycenter - \yscale\relax}{N}{\northarrow}
-  \legendbox{\the\numexpr\xcenter-12\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter-12\relax}{\the\numexpr\ycenter - 10*\yscale\relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter-12\relax}{\the\numexpr\ycenter - 15*\yscale\relax}{N}{\scalebar}
   \legendbox{\the\numexpr\xcenter+\xscale\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{E} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
   }
   endcode
@@ -57,18 +74,23 @@ endlayout
   #\framethickness=0.5mm
   \def\xcenter{35}
   \def\ycenter{120}
-  \def\xscale{0}
-  \def\yscale{15}
+  \def\xscale{1}
+  \def\yscale{1}
+  \def\cadnum{106001}
   \legendwidth=5cm
-  # change this
   \def\customheader{
-  \size[13]\bf \the\cavename \ss
-  \si \par \size[9]Iles Madre de Dios \ss
-  \par Dévelopement: \the\cavelength
-  \par Dénivelé: \the\cavedepth
-  \par  \the\topoteam
-  \par Topographie: Centre Terre, Oxford University Caving Club
-  \par Ultima Patagonia 2008, 2023}
+  \size[18]\bf \the\cavename{} / \cadnum \ss
+  \si \par \size[14]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
+  \par{ \quad} 
+  \size[14]\par \bf \si Coordonnées de l'entrée Porche (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z : 10 m}  \ss
+  \par{ \quad} 
+   \size[14]\par \bf \si Coordonnées de l'entrée Résurgence (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z : 0 m}  \ss
+  \par{ \quad} 
+  \par \si Développement :\ss{ \the\cavelength}
+  \par \si Dénivellation :\ss{ \the\cavedepth}
+  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2008  \& 2023, Oxford University Caving Club  - Madre de Dios 2008} 
+  \par \si Relevés topographiques :\ss{ } \the\topoteam
+  \par \si Report et dessins :\ss{Tanguy Racine, Alexandre Honiat}}
   
   \def\maplayout{
   \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
@@ -82,10 +104,16 @@ endlayout
 
 
 lang fr
-select m-all-p@CuevaPirates.106
+
+source 
+  map mappirates -projection plan -title "Système de la grotte des Pirates"
+    m-all-p@CuevaPirates.106
+    m-all-p@ResurgencePirate.106
+  endmap
+endsource s
+
+select mappirates
 select m-all-e@CuevaPirates.106
-
-
 
 # OUTPUTS
 

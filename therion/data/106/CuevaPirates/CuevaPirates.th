@@ -104,7 +104,8 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 	join Actif0303-2p@Actif0303 Pincemiboucle-1p@PincemiBoucle
 	join PrioriteADroite-3p@PrioriteADroite Pincemiboucle-1p@PincemiBoucle
 	join waterworld-p@Anglais2008 Pincemiboucle-1p@PincemiBoucle
-
+	join SiphonAmont-1p@SiphonAmont DodgyPlumbingResurvey-1p@DodgyPlumbingResurvey
+	join whiterhino-p@Anglais2008 Rhinalto-1p@Rhinalto
 
 	# sump of doom area joins
 	join doom_l1@Anglais2008 doom_l1@galerie210223

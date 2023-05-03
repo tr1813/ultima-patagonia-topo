@@ -2,7 +2,7 @@ encoding  utf-8
 
 ## a survey compiled from Visual Topo Data using the visual_therion.py script
 
-survey ResurgencePirate -title "Resurgence des Pirates" \
+survey ResurgencePirate -title "Résurgence des Pirates" \
             -attr cad_num 106067 \
             -attr exped UP2023 \ 
             -entrance 0
@@ -12,8 +12,8 @@ survey ResurgencePirate -title "Resurgence des Pirates" \
         explo-date 2023.02.16
         date 2023.02.16
 
-        team "Franck Brehier"
-        team "Jeremie Prieur"
+        team "Franck Bréhier"
+        team "Jérémie [Prieur-Drévon]"
         team "Clément Chaput"
         
     data diving from to tape compass fromdepth todepth 
@@ -65,6 +65,11 @@ survey ResurgencePirate -title "Resurgence des Pirates" \
 
     endcentreline
 
+    input ResurgencePirate-p.th2
+
+    map m-all-p -projection plan 
+        ResurgencePirate-1p
+    endmap
 
 endsurvey
 
