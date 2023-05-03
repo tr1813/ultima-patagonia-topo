@@ -12,7 +12,7 @@ survey PincemiActif -title "Pincemi Actif"
     units length meters
     units compass clino degrees
     data normal from to length compass clino
-    extend right
+    extend left
     1 2 2.88 12.2 -20.0
     # extend auto
     2 . 0.60 18.1 83.1
@@ -23,7 +23,7 @@ survey PincemiActif -title "Pincemi Actif"
     2 . 0.72 166.3 -14.2
     2 . 1.01 9.2 41.2
     2 . 0.43 194.1 -83.1
-    extend right
+    #extend right
     2 3 4.08 53.3 45.0
     # extend auto
     3 . 1.00 132.9 -7.6
@@ -34,7 +34,7 @@ survey PincemiActif -title "Pincemi Actif"
     3 . 0.72 321.7 -29.1
     3 . 1.45 189.4 -29.2
     3 . 1.20 261.2 -17.4
-    extend right
+    #extend right
     3 4 3.56 87.5 24.5
     # extend auto
     4 . 0.50 334.2 78.5
@@ -46,7 +46,7 @@ survey PincemiActif -title "Pincemi Actif"
     4 . 0.61 223.7 -37.7
     4 . 1.72 275.4 -15.3
     4 . 1.68 305.0 -10.6
-    extend right
+    #extend right
     4 5 5.26 22.0 15.4
     # extend auto
     5 . 2.82 157.6 5.7
@@ -59,7 +59,7 @@ survey PincemiActif -title "Pincemi Actif"
     5 . 0.86 153.1 -40.1
     5 . 0.76 146.0 -47.5
     5 . 1.01 246.5 -16.6
-    extend right
+    #extend right
     5 6 3.90 106.7 28.8
     # extend auto
     6 . 0.39 280.2 85.2
@@ -71,7 +71,7 @@ survey PincemiActif -title "Pincemi Actif"
     6 . 1.79 205.9 -20.9
     6 . 1.12 146.2 -0.2
     6 . 0.73 339.0 -6.9
-    extend right
+    #extend right
     6 7 6.10 159.3 26.9
     # extend auto
     7 . 1.74 22.2 -6.0
@@ -84,7 +84,7 @@ survey PincemiActif -title "Pincemi Actif"
     7 . 2.49 74.7 15.4
     7 . 1.63 30.2 -13.8
     7 . 1.62 25.4 -11.0
-    extend right
+    #extend right
     7 8 9.38 31.9 16.2
     # extend auto
     8 . 1.26 172.4 76.9
@@ -99,7 +99,7 @@ survey PincemiActif -title "Pincemi Actif"
     8 . 1.51 155.4 9.5
     8 . 1.98 185.2 -16.3
     8 . 1.69 193.1 17.3
-    extend right
+    #extend right
     8 9 3.76 68.9 33.9
     # extend auto
     9 . 0.83 132.1 12.6
@@ -115,7 +115,7 @@ survey PincemiActif -title "Pincemi Actif"
     9 . 2.40 262.1 -20.4
     9 . 2.07 202.1 -29.8
     9 . 2.63 212.1 -25.6
-    extend right
+    #extend right
     9 10 5.86 24.5 21.6
     # extend auto
     10 . 0.59 291.1 86.6
@@ -127,7 +127,7 @@ survey PincemiActif -title "Pincemi Actif"
     10 . 2.51 265.8 -24.2
     10 . 2.32 8.9 16.4
     10 . 3.40 8.0 36.5
-    extend right
+    #extend right
     10 11 10.36 355.8 12.2
     # extend auto
     11 . 0.93 242.8 -4.0
@@ -141,7 +141,7 @@ survey PincemiActif -title "Pincemi Actif"
     11 . 1.78 190.5 -11.3
     11 . 1.31 201.5 -14.1
     11 . 3.73 177.9 4.0
-    extend right
+    #extend right
     11 12 6.32 334.0 -15.7
     # extend auto
     12 . 0.83 331.6 78.3
@@ -157,7 +157,7 @@ survey PincemiActif -title "Pincemi Actif"
     12 . 3.81 179.7 7.1
     12 . 1.78 212.3 2.8
     12 . 1.14 231.1 6.4
-    extend right
+    #extend right
     12 13 5.47 343.0 4.9
   endcenterline
 

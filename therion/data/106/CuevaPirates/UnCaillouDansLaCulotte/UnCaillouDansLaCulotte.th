@@ -23,7 +23,7 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     0 . 9.81 329.3 -27.8
     0 . 5.48 345.6 -23.5
     0 . 11.67 358.7 -25.8
-    extend right
+    extend left
     0 1 8.55 332.0 -25.5
     # extend auto
     1 . 0.94 161.6 -83.5

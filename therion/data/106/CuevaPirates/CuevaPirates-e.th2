@@ -5462,7 +5462,7 @@ line wall
   -4698.96 466.4625 -4661.4936 414.4011 -4661.4936 414.4011
 endline
 
-point -5211.2715 1142.3535 label -align tr -scale xl -text "White Rhino"
+point -5211.2715 1142.3535 label -align tr -scale m -text "White Rhino"
 line wall -close on -outline in -reverse on
   -6334.5789 786.2237
   -6262.9861 841.9071
