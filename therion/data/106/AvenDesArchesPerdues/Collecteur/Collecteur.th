@@ -17,8 +17,8 @@ input Collecteur-e.th2
     team "Jules Clouzeau" 
     explo-team "Alexandre Honiat" 
     explo-team "Jules Clouzeau"
-    explo-team "Natalia Morata"
-    explo-team "Franck Brehier" 
+    explo-team "Natalia [Morata-Calvo]"
+    explo-team "Franck Bréhier" 
     units length meters
     units compass clino degrees
     data normal from to length compass clino

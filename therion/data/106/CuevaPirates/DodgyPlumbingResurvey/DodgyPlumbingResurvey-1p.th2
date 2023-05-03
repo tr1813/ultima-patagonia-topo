@@ -618,7 +618,8 @@ point 846.605 1544.65 gradient -orientation 333.8474132766103
 point 1220.85 1872.15 gradient -orientation 309.3599871463334
 point 1494.06 2085.58 gradient -orientation 309.3599871463334
 point 2293.94 3016.07 narrow-end -align br
-point 715.805 1398.6 label -align l -scale l -text "Dodgy Plumbing"
+
+point 715.805 1398.6 label -align l -scale m -text "Dodgy Plumbing"
 line wall -subtype presumed
   1047.342 3131.0002
   1047.342 3131.0002 1131.4275 3034.6971 1135.7396 3028.9477

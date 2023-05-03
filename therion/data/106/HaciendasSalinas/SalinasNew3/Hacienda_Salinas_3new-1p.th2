@@ -4,14 +4,14 @@ encoding  utf-8
 
 scrap Hacienda_Salinas_3new-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
-point 1488.6838 272.7461 label -align r -scale xs -text etroitures
+point 1488.6838 272.7461 label -align r -scale xs -text "étroitures"
 point 1225.14 553.3 gradient -orientation 329.7239231999695
 point 1255.47 506.62 gradient -orientation 329.7239231999695
 point 1163.5 633.99 gradient -orientation 281.54480122905863
 point 954.593 815.01 gradient -orientation 342.03981610884944
 point 848.27 1046.95 gradient -orientation 342.03981610884944
 point 510.4059 1880.6914 remark -align tr -scale xs -text "stn 8"
-point 728.0471 1814.8216 label -align tr -scale m -text "Salle du Cairn"
+point 728.0471 1814.8216 label -align tr -scale s -text "Salle du Cairn"
 line wall -subtype presumed
   1139.5846 1743.822
   1128.7428 1735.4821 1069.7907 1699.5017 1060.6167 1690.3277

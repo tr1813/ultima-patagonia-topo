@@ -4,7 +4,7 @@ encoding  utf-8
 
 scrap PrioriteADroite-3p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
-point 20.2406 959.7332 label -align tl -scale m -text "Passage de la<br>Priorite a Droite"
+point 170.241 809.733 label -align tl -text "<centre>Passage de la<br>Priorité à Droite"
 line wall -close on -outline in
   -219.8771 151.1655
   -206.1348 166.871
@@ -867,7 +867,7 @@ line pit -close on
   912.5303 1656.0917 909.2386 1645.4538 911.79 1635.68
 endline
 
-point 806.26 1687.83 label -align c -scale xs -text "margelle<br>mouillee"
+point 740.26 1717.83 label -align c -scale xs -text "margelle<br>mouillee"
 point 478.06 1401.43 continuation 
 point 790.21 1134.36 continuation 
 line rock-border -close on
