@@ -63,7 +63,7 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 	equate a55@galerie210223 207@DodgyPlumbingResurvey
 
 	equate 9@SiphonAmont 6@DodgyPlumbingResurvey
-	equate 74@b.Anglais2008 1@PincemiBoucle
+	equate 74@b.Anglais2008 74@PincemiBoucle
 	equate 37@PincemiBoucle 11@UnCaillouDansLaCulotte
 	equate 5@PincemiBoucle 25@PrioriteADroite
 	equate 15@UnCaillouDansLaCulotte 1@PincemiActif 
@@ -169,8 +169,14 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 		extend left 17@c.Anglais2008 90@b.Anglais2008
 		extend left 17@a.Anglais2008 18@a.Anglais2008
 		extend left 90@b.Anglais2008
-
-
+		#extend ignore 1@PincemiActif
+		extend ignore 1@UnCaillouDansLaCulotte
+		extend ignore 163@PrioriteADroite
+		extend ignore 38@Actif0303
+		extend ignore a49@galerie210223
+		extend right 13@PincemiActif 12@PincemiActif
+		extend right 12@PincemiActif
+		extend right 150@d.Anglais2008
 	endcentreline
 
 map m-old-p -projection plan
