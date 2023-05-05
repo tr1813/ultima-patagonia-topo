@@ -3,25 +3,26 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 
 	#
 	# ON RAJOUTE ICI LES NOUVELLES DONNEES
-	input Anglais2008/Anglais2008.th
-	input PiratesJonction/PiratesJonction.th
-	input DodgyPlumbingResurvey/DodgyPlumbingResurvey.th
-	input Ascension/Ascension.th
-	input PrioriteADroite/PrioriteADroite.th
-	input SalinasNew4/SalinasNew4.th
-	input SalinasNew3/SalinasNew3.th
-	input SalinasNew5/SalinasNew5.th
-	input PinceMi/PinceMi.th
-	input UnCaillouDansLaCulotte/UnCaillouDansLaCulotte.th
-	input Pirates2008/Pirates2008.th
-	input Girafe/Girafe.th
-	input SiphonAmont/SiphonAmont.th
-	input galerie210223/galerie210223.th
-	input PincemiBoucle/PincemiBoucle.th
-	input PincemiActif/PincemiActif.th
-	input Pincemi2/Pincemi2.th
-	input Rhinalto/Rhinalto.th
-	input Actif0303/Actif0303.th
+	input 2008/Anglais2008/Anglais2008.th
+	input 2008/Pirates2008/Pirates2008.th
+
+	input 2023/PiratesJonction/PiratesJonction.th
+	input 2023/DodgyPlumbingResurvey/DodgyPlumbingResurvey.th
+	input 2023/Ascension/Ascension.th
+	input 2023/PrioriteADroite/PrioriteADroite.th
+	input 2023/SalinasNew4/SalinasNew4.th
+	input 2023/SalinasNew3/SalinasNew3.th
+	input 2023/SalinasNew5/SalinasNew5.th
+	input 2023/PinceMi/PinceMi.th
+	input 2023/UnCaillouDansLaCulotte/UnCaillouDansLaCulotte.th
+	input 2023/Girafe/Girafe.th
+	input 2023/SiphonAmont/SiphonAmont.th
+	input 2023/galerie210223/galerie210223.th
+	input 2023/PincemiBoucle/PincemiBoucle.th
+	input 2023/PincemiActif/PincemiActif.th
+	input 2023/Pincemi2/Pincemi2.th
+	input 2023/Rhinalto/Rhinalto.th
+	input 2023/Actif0303/Actif0303.th
 
 	input CuevaPirates-e.th2
 

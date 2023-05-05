@@ -180,7 +180,7 @@ survey galerie210223 -title "galerie210223"
     #extend vertical
     a18 - 1.80 0.0 90.0
     a18 - 0.50 0.0 -90.0
-    #extend right
+    extend right
     a18 a19 3.50 330.5 -13.7
     # extend auto
     a19 - 1.00 231.6 0.0
@@ -212,7 +212,7 @@ survey galerie210223 -title "galerie210223"
     #extend vertical
     a22 - 0.80 0.0 90.0
     a22 - 0.00 0.0 -90.0
-    #extend right
+    extend left
     a22 a23 7.20 331.8 -6.0
     # extend auto
     a23 - 0.50 259.0 0.0
