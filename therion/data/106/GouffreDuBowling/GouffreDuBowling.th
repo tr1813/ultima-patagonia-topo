@@ -4,7 +4,9 @@ survey GouffreDuBowling -title "Gouffre du Bowling" \
 			-entrance 3A@Entree
 
     input Entree/Entree.th
+    input MeandreB/MeandreB.th
 
+    equate 17@Entree 5@MeandreB
 
     map m-all-p -projection plan -title "Gouffre du Bowling, plan"
         m-Entree-p@Entree

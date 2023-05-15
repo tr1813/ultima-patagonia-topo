@@ -1,0 +1,7 @@
+source GrotteDeLAncien.th
+layout local-ee
+    colour map-fg [90 95 0]
+    scale 1 1000
+endlayout
+
+export map -o outputs/GrotteDeLAncien-ee.pdf -layout-debug station-names -layout local-ee -projection extended

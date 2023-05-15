@@ -1452,10 +1452,10 @@ endline
 point -705.955 -1732.73 label -align r -text "Waterworld<lang:fr>Waterworld"
 point -843.906 -1840.48 narrow-end -scale xs
 point -767.06 -1827.63 narrow-end -scale xs
-point -732.221 -1355.55 water-flow -orientation 313.5461119361255 -scale xs
-point -866.407 -1660.28 water-flow -orientation 315.73660942289206 -scale xs
-point -858.325 -1834.79 water-flow -orientation 64.87401113043546 -scale xs
-point -751.433 -1830.02 water-flow -orientation 355.5173561309812 -scale xs
+point -732.221 -1355.55 water-flow:permanent -orientation 313.5461119361255 -scale xs
+point -866.407 -1660.28 water-flow:permanent -orientation 315.73660942289206 -scale xs
+point -858.325 -1834.79 water-flow:permanent -orientation 64.87401113043546 -scale xs
+point -751.433 -1830.02 water-flow:permanent -orientation 355.5173561309812 -scale xs
 point -407.52 -758.86 station -name 75@b
 point -444.92 -810.28 station -name 76@b
 point -455.47 -869.88 station -name 77@b

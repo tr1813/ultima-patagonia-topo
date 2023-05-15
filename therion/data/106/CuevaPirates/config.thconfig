@@ -62,7 +62,7 @@ layout local
   \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter -3*\yscale\relax}{N}{\iflegend\insertlegend\fi}
   \legendbox{\the\numexpr\xcenter-12\relax}{\the\numexpr\ycenter - 10*\yscale\relax}{N}{\northarrow}
   \legendbox{\the\numexpr\xcenter-12\relax}{\the\numexpr\ycenter - 15*\yscale\relax}{N}{\scalebar}
-  \legendbox{\the\numexpr\xcenter+\xscale\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{E} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+  %\legendbox{\the\numexpr\xcenter+\xscale\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{E} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
   }
   endcode
 endlayout
@@ -105,7 +105,7 @@ endlayout
   \def\maplayout{
   \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter +50*\yscale\relax}{N}{\customheader}
   \legendbox{\the\numexpr\xcenter-12\relax}{\the\numexpr\ycenter - 100*\yscale\relax}{N}{\scalebar}
-  \legendbox{\the\numexpr\xcenter+1*\xscale\relax}{\the\numexpr\ycenter + 50*\yscale\relax}{E} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+  %\legendbox{\the\numexpr\xcenter+1*\xscale\relax}{\the\numexpr\ycenter + 50*\yscale\relax}{E} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
   }
   endcode
 endlayout
@@ -138,7 +138,7 @@ select mappirates-e
 ##export model -o outputs/CuevaPirates.lox
 
 #export atlas -o outputs/CuevaPirates.pdf -projection plan -layout local-p
-#export map -o outputs/CuevaPiratesmap.pdf -projection plan -layout plan 
+export map -o outputs/CuevaPiratesmap.pdf -projection plan -layout plan 
 
 
 export map -o outputs/CuevaPirates-coupe.pdf -projection extended -layout extended

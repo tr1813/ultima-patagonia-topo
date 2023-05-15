@@ -59,6 +59,15 @@ layout custom_points
 	      thdraw (0,-.28u)--(0,0.15u);
 	    enddef;
 
+		def p_waterflow_MY (expr P,R,S,A)=
+	      U:=(.2u,.2u);
+	      T:=identity aligned A rotated R scaled S shifted P;
+	      pickup PenD;
+	      thfill (-.12u,.08u)--(0,.12u)--(.12u,.08u)--(0,.3u)--cycle;
+	      thfill (-.12u,.08u)--(0,.12u)--(.12u,.08u)--(.12u,-.28u)--(-.12u,-.28u)--cycle withcolor(1,1,1);
+	      thdraw (0,-.28u)--(0,0.15u);
+	    enddef;
+
 	    def p_gradient_MY (expr P,R,S,A)=
 	      U:=(.2u,.2u);
 	      T:=identity aligned A rotated R scaled S shifted P;
@@ -131,7 +140,7 @@ layout custom_points
 
 	    ## new definitions
 	    # a blue arrow for gradient on ice
-	    def p_u_gradice_MY (expr P,R,S,A)=
+	    def p_u_gradient_ice (expr P,R,S,A)=
 	       U:=(.2u,.2u);
 	       T:=identity aligned A rotated R scaled S shifted P;
 	       pickup PenD;
@@ -168,7 +177,7 @@ layout custom_points
 	    enddef;
 
 	    # green grass
-	    def p_u_grass_MY (expr P,R,S,A)=
+	    def p_u_grass (expr P,R,S,A)=
 	      U:=(.2u,.2u);
 	      T:=identity aligned A rotated R scaled S shifted P;
 	      pickup PenC;
@@ -335,7 +344,9 @@ layout custom_points
 	    initsymbol("p_u_gradient_rock");
   
 	    # initialise the symbols here
-	    initsymbol("p_u_gradice_MY");
+		initsymbol("p_water-flow_MY");
+
+	    initsymbol("p_u_gradient_ice");
 	    initsymbol("p_u_sampled_MY");
 	    initsymbol("p_u_logger_MY");
 	    initsymbol("p_u_waterdrip_MY");
@@ -349,7 +360,7 @@ endlayout
 
 ## add legend names for each new symbol definition
 
-text en "point u:gradice_MY"  "ice gradient"
+text en "point u:gradient_ice"  "ice gradient"
 text en "point u:sampled_MY"  "sampled"
 text en "point u:logger_MY"  "logger"
 text en "point u:waterdrip_MY" "water drips"
