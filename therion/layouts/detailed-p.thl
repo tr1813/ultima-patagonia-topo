@@ -39,8 +39,8 @@ layout detailed-p
 
   symbol-assign area water MY
   symbol-assign area sump MY
-  symbol-colour point water-flow [0 10 70]
-  symbol-colour line water-flow [0 10 70]
+  symbol-colour point water-flow [0 57 100]
+  symbol-colour line water-flow [0 57 100]
   symbol-assign point anchor MY
   ## formations
   symbol-assign point stalagmite MY
@@ -68,7 +68,8 @@ layout detailed-p
   symbol-colour area clay [65 55 10]
   symbol-colour line wall:clay [65 55 10]
   #symbol-colour area sand [85 75 10]
-  symbol-colour line water-flow [0 10 70]
+  symbol-assign point water-flow MY
+  symbol-assign line water-flow MY
 
   ## misc
   symbol-assign point gradient MY

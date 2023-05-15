@@ -37,7 +37,7 @@ survey 402 -title "402 HPS-35"
 
   fix ENT_402010 600721.0 4383564.0 491.8
   station ENT_402010 "Perte de Rascarcapak"
-  equate ENT_402007 0@PerteDeRascarcapac
+  equate ENT_402007 top@PerteDeRascarcapac
 
   endcentreline
 endsurvey

@@ -598,7 +598,51 @@ layout custom_lines
     	    thdraw P withcolor (0, 0.7,0.9);
     	  enddef;
 
+		  
+def l_waterflow_permanent_MY (expr Path) =
+  path ppp;
+  T:=identity;
+  cas := 0;
+  dlzka := arclength Path;
+  mojkrok:=adjust_step(dlzka, 0.5u);
+    pickup PenD;
+    vardef azim = 50 + 15*normaldeviate enddef;
+    az1 := azim;
+    sgn := 1;
+    ppp := point 0 of Path;
+    forever:
+        t1 := arctime cas of Path;
+        t2 := arctime (cas+mojkrok) of Path;
+        if cas+1.1*mojkrok > dlzka:
+            az2 := 0;
+        else:
+            az2 := azim;
+        fi;
+        d1 := angle(thdir(Path,t1)) + sgn * az1;
+        d2 := angle(thdir(Path,t2)) - sgn * az2;
+        ppp := ppp & (point t1 of Path){dir d1} .. {dir d2}(point t2 of Path);
+        az1 := az2;
+        sgn := -1 * sgn;
+        cas := cas + mojkrok;
+        exitif cas > dlzka + mojkrok/3;     % for rounding errors
+    endfor;
+%    drawarrow ppp;
+    thdraw ppp;
+    thdrawoptions();
+    oldahlength:=ahlength;
+    ahlength:=ahlength*optical_zoom;
+	laength:= arclength ppp;
+	anchr:= arctime (laength-0.1*mojkrok) of ppp;
+	
+	%thdraw (point anchr of ppp) -- (0,0);
+	%d1 := unitvector(thdir(Path,(point anchr of Path)));
+	thdraw (point anchr of ppp + (2*unitvector(thdir(ppp,anchr))) ) -- ((point anchr of ppp) + (0.66*unitvector(thdir(ppp,anchr)) rotated 90))--((point anchr of ppp) + (0.66*unitvector(thdir(ppp,anchr)) rotated -90))--cycle;
+   thfill (point anchr of ppp + (2*unitvector(thdir(ppp,anchr))) ) -- ((point anchr of ppp) + (0.66*unitvector(thdir(ppp,anchr)) rotated 90))--((point anchr of ppp) + (0.66*unitvector(thdir(ppp,anchr)) rotated -90))--cycle;
+    ahlength:=oldahlength;
+enddef;
+
 		# initialise new line symbols
+		initsymbol("l_waterflow_permanent_MY")
 	    initsymbol("l_u_overlay_MY");
 	    initsymbol("l_u_mine_MY");
 		initsymbol("l_u_deviation_MY");
