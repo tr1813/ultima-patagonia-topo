@@ -4,14 +4,15 @@ encoding  utf-8
 
 scrap Hacienda_Salinas_3new-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
-point 1488.6838 272.7461 label -align r -scale xs -text "étroitures"
+point 843.285 1875.24 u:terminus -attr side 0 -attr text UP2023 -orientation 330
+point 1528.6838 272.7461 label -align r -scale xs -text "étroitures"
 point 1225.14 553.3 gradient -orientation 329.7239231999695
 point 1255.47 506.62 gradient -orientation 329.7239231999695
-point 1163.5 633.99 gradient -orientation 281.54480122905863
+point 1163.5 633.99 gradient -orientation 281.54478976222435
 point 954.593 815.01 gradient -orientation 342.03981610884944
 point 848.27 1046.95 gradient -orientation 342.03981610884944
-point 510.4059 1880.6914 remark -align tr -scale xs -text "stn 8"
-point 728.0471 1814.8216 label -align tr -scale m -text "Cairn Chamber"
+point 510.406 1880.69 remark -align tr -scale xs -text "stn 8"
+point 608.0471 1994.8217 label -align tr -text "Cairn Chamber"
 line wall -subtype presumed
   1139.5846 1743.822
   1128.7428 1735.4821 1069.7907 1699.5017 1060.6167 1690.3277
@@ -65,32 +66,6 @@ line rock-border -close on
   344.6 1815.97
   345.47 1815.39
   344.6 1815.97
-endline
-
-line u:user 
-  351.05 1832.61
-  350.14 1827.84
-  348.86 1823.84
-  351.13 1831.87
-endline
-
-line u:user 
-  342.45 1829.37
-  339.69 1821.34
-endline
-
-line u:user 
-  344.88 1828.4
-  341.96 1820.94
-endline
-
-line u:user 
-  338.31 1827.99
-endline
-
-line u:user 
-  338.15 1825.4
-  346.67 1821.42
 endline
 
 line rock-border -close on
@@ -537,7 +512,7 @@ endline
 point 1439.5 101.93 narrow-end 
 point 1506.04 147.99 narrow-end 
 point 1397.63 435.07 continuation 
-point 1459.26 395.98 danger -align r
+point 1499.26 395.98 danger -align r
 line rock-border -close on
   1357.008 313.193
   1337.578 303.483
@@ -1109,9 +1084,9 @@ line u:splay -visibility off
   1260.98 429.79
 endline
 
-point 617.339 1660.305 gradient -orientation 301.457486910365
-point 772.086 1256.138 gradient -orientation 1.633161970483784
-point 709.976 1612.879 gradient -orientation 301.457486910365
+point 617.339 1660.31 gradient -orientation 301.457486910365
+point 772.086 1256.14 gradient -orientation 1.633161970483784
+point 709.976 1612.88 gradient -orientation 301.457486910365
 line u:splay -visibility off
   1267.03 436.23
   1320.18 480.89

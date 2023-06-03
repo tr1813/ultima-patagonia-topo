@@ -212,8 +212,11 @@ survey DodgyPlumbingResurvey -title "DodgyPlumbingResurvey"
    input "DodgyPlumbingResurvey-1p.th2"
   # input "DodgyPlumbingResurvey-1s.th2"
 
+    join DodgyPlumbingResurvey-1p DodgyPlumbingResurvey-2p
+    
    map m-all-p -projection plan
      DodgyPlumbingResurvey-1p
+     DodgyPlumbingResurvey-2p
    endmap
   # map m1s -projection extended
   #   DodgyPlumbingResurvey-1s

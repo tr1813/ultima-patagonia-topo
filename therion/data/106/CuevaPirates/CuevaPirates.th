@@ -117,6 +117,11 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 	#join doom_l4@Anglais2008:end doom_l4@galerie210223:0
 	join doom_l4@Anglais2008:0 doom_l4@galerie210223:end
 	#join doom_l5@Anglais2008 doom_l5@galerie210223
+	join s1_l1@PrioriteADroite s2_l1@galerie210223
+	join s1_l2@PrioriteADroite s2_l2@galerie210223
+
+	join muddyhollows2_l1@Anglais2008 muddyhollows1_l1@Anglais2008
+	join muddyhollows1_l2@Anglais2008 muddyhollows2_l2@Anglais2008
 
 
 	centreline 

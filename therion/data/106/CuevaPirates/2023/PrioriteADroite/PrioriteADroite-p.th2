@@ -4,6 +4,16 @@ encoding  utf-8
 
 scrap PrioriteADroite-3p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
+line wall -subtype invisible
+  -750.475 -344.7174
+  -673.045 -313.3707
+endline
+
+line wall -subtype invisible
+  273.38 568.03
+  295.4599 704.7847
+endline
+
 point 170.241 809.733 label -align tl -text "<centre>Passage de la<br>Priorité à Droite"
 line wall -close on -outline in
   -219.8771 151.1655
@@ -30,10 +40,10 @@ line wall -close on -outline in
 endline
 
 line wall 
-  -660.8968 -336.6165
-  -670.6141 -336.6165 -649.6701 -287.3052 -649.6701 -278.9761
-  -649.6701 -270.647 -656.611 -247.0479 -656.611 -247.0479
-  -656.611 -247.0479 -635.7883 -231.7779 -621.9064 -231.7779
+  -673.045 -313.3707
+  -673.045 -313.3707 -649.6701 -287.3052 -649.6701 -278.9761
+  -649.6701 -270.647 -661.5543 -256.7527 -656.611 -247.0479
+  -650.8746 -235.7862 -635.7883 -231.7779 -621.9064 -231.7779
   -608.0246 -231.7779 -596.9191 -224.8369 -592.7545 -209.5669
   -588.59 -194.2969 -548.3327 -134.605 -542.7799 -124.8877
   -537.2272 -115.1704 -508.0753 -91.5713 -501.1344 -86.0185
@@ -608,7 +618,6 @@ line border -close on -id PrioriteADroite-1p_sand_1 -visibility off
   985.5207 1831.6549 985.5207 1784.5384 985.5207 1784.5384
   1020.8581 1760.9801
   1040.4899 1768.8329
-  1040.4899 1768.8329
 endline
 
 area sand 
@@ -720,7 +729,7 @@ line wall
   306.2574 730.3061 299.3863 726.3798 295.4599 704.7847
 endline
 
-line wall 
+line wall -id s1_l2
   871.8983 2099.8773
   899.7308 2085.4793 923.4058 2071.1825 926.625 2062.3296
   934.4778 2040.7345 946.2569 2036.8081 943.3121 2015.2131
@@ -738,7 +747,7 @@ line wall
   543.8032 1418.4037
 endline
 
-line wall 
+line wall -id s1_l1
   1751.655 3413.4941
   1734.9679 3399.261 1655.4588 3366.8684 1641.7164 3351.6537
   1627.9741 3336.439 1603.4343 3285.8868 1598.5263 3259.8746
@@ -867,7 +876,7 @@ line pit -close on
   912.5303 1656.0917 909.2386 1645.4538 911.79 1635.68
 endline
 
-point 740.26 1717.83 label -align c -scale xs -text "margelle<br>mouillee"
+point 700.26 1717.83 label -align c -scale xs -text "margelle<br>mouillee"
 point 478.06 1401.43 continuation 
 point 790.21 1134.36 continuation 
 line rock-border -close on
@@ -2000,7 +2009,6 @@ line border -close on -id PrioriteADroite-2p_u_smallblocks_1 -visibility off
   226.43 382.87
   236.55 400.89
   229.37 388.82
-  229.37 388.82
 endline
 
 area u:smallblocks 
@@ -2030,7 +2038,6 @@ line border -close on -id PrioriteADroite-2p_blocks_1 -visibility on
   123.03 226.58
   114.14 213.28
   123.17 196.14
-  137.97 224.45
   137.97 224.45
 endline
 

@@ -8,7 +8,10 @@ input Girafe-p.th2
 
 map m-all-p -projection plan 
 	Girafe-1p
+	Girafe-2p
 endmap
+
+join Girafe-1p Girafe-2p
 
 # POINT 1 = POINT 66 TOPO DES ANGLAIS
 	

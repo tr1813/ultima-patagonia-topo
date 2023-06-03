@@ -4,7 +4,7 @@ encoding  utf-8
 
 scrap SiphonAmont-1p -projection plan -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 
-point 1329.0453 -27.3693 u:terminus -attr text UP2023 -attr side 11 -orientation 300
+point 1349.0454 -185.3693 u:terminus -attr text UP2023 -attr side 11 -orientation 300.0
 point -1442.96 693.805 continuation 
 point -1675.25 416.414 label -align tr -text "Siphon Amont"
 line wall 
