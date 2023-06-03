@@ -38,7 +38,7 @@ layout plan
   \size[13]\bf \the\cavename{} / \numcad \ss
   \si \par \size[12]Glacier HPS-35, Estero Calvo, \par Parque Nacional Bernardo O’Higgins  \ss
      \par{ \quad}  
-  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X :  \par  Y :   \par Z : m}  \ss
+  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 600721  \par  Y : 4383564   \par Z : 492 m}  \ss
   \par{ \quad} 
   \par \si Développement :\ss{ \the\cavelength}
   \par \si Dénivellation :\ss{ \the\cavedepth}

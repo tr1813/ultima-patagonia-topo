@@ -70,6 +70,7 @@ line u:texture
   2216.5879 1141.1919 2241.4441 1217.9537 2228.285 1259.6243
 endline
 
+point 3124.63 219.705 u:terminus -attr side 11 -attr text UP2023
 point 3079.42 503.537 continuation -align l
 line floor-step 
   3228.321 856.7371

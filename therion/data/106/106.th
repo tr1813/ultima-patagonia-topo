@@ -114,7 +114,7 @@ survey 106  -title "106 Seno Egg"
     
     ## connections
 
-    fix ENT_106001	490170	4452340	10 # bouge pour mieux s'accorder au DEM
+    fix ENT_106001	490150	4452330	10 # bouge pour mieux s'accorder au DEM
     station	 ENT_106001	"Cueva Pirates"
     equate ENT_106001 44@a.Anglais2008.CuevaPirates
 
