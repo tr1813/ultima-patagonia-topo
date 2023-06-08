@@ -19,7 +19,7 @@ survey 106  -title "106 Seno Egg"
 
     #input CampAvance1Egg/CampAvance1Egg.th
 
-    input PerteSousLeLac/PerteSousLeLac.th
+    input PerteSousLeLacTurquoise/PerteSousLeLacTurquoise.th
 
 
     #input PuitsLacTurquoise/PuitsLacTurquoise.th
@@ -209,8 +209,8 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106028	488683.0 4451804.0	272	
-    station ENT_106028 "Perte sous le Lac" continuation explored "50 m"
-    equate ENT_106028 0@PerteSousLeLac    
+    station ENT_106028 "Perte sous le Lac Turquoise" continuation explored "50 m"
+    equate ENT_106028 0@PerteSousLeLacTurquoise    
 
     fix ENT_106029	489165.0 4451956.0	247	
     station ENT_106029 "PE11" entrance 
