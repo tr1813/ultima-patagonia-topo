@@ -2,7 +2,7 @@ encoding  utf-8
 ##XTHERION## xth_me_area_adjust 0 0 4321.700000 4868.100000
 ##XTHERION## xth_me_area_zoom_to 100
 
-scrap galerie210223-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
+scrap GalerieDesLombrics-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
 line rock-border -close on
   1784.5359 2312.969
@@ -359,7 +359,7 @@ line wall
   548.2805 4584.7868 539.5887 4596.288 531.14 4607.82
 endline
 
-line contour -close on -id galerie210223-1p_clay_1 -visibility on
+line contour -close on -id GalerieDesLombrics-1p_clay_1 -visibility on
   440.81 4588.49
   450.14 4577.74
   463.29 4569.16
@@ -398,7 +398,7 @@ line contour -close on -id galerie210223-1p_clay_1 -visibility on
 endline
 
 area clay
-  galerie210223-1p_clay_1
+  GalerieDesLombrics-1p_clay_1
 endarea
 
 line chimney -outline out
@@ -437,7 +437,7 @@ point 3874.19 3307.86 station -name 207
 endscrap
 
 
-scrap galerie210223-2p -projection plan -scale [0 0 96 0 0 0 500 0 inch]
+scrap GalerieDesLombrics-2p -projection plan -scale [0 0 96 0 0 0 500 0 inch]
 
 line wall 
   2851.28 1373.81
@@ -668,8 +668,9 @@ point 3603.24 494.16 station -name a47
 endscrap
 
 
-scrap galerie210223-3p -projection plan -scale [0 0 96 0 0 0 500 0 inch]
+scrap GalerieDesLombrics-3p -projection plan -scale [0 0 96 0 0 0 500 0 inch]
 
+point 1196.7538 3153.3226 label -align l -text "<centre>Galerie des<br>Lombrics"
 point 2758.19 1473.66 gradient -orientation 312.1574098335914
 line floor-meander 
   4017.0669 1821.3022
@@ -1166,7 +1167,7 @@ point 2551.06 1671.04 station -name a19
 point 3953.0 2239.45 station -name a51
 point 3958.28 2360.37 station -name a52
 point 3914.37 2499.62 station -name a53
-line border -close on -id galerie210223-3p_u_smallblocks_1 -visibility off
+line border -close on -id GalerieDesLombrics-3p_u_smallblocks_1 -visibility off
   3292.0044 1606.9971
   3292.0044 1606.9971 3363.8326 1629.9789 3374.3599 1637.348
   3384.8871 1644.7171 3412.582 1653.1389 3424.162 1662.6134
@@ -1207,10 +1208,10 @@ line border -close on -id galerie210223-3p_u_smallblocks_1 -visibility off
 endline
 
 area u:smallblocks 
-  galerie210223-3p_u_smallblocks_1
+  GalerieDesLombrics-3p_u_smallblocks_1
 endarea
 
-line border -close on -id galerie210223-3p_u_smallblocks_2 -visibility off
+line border -close on -id GalerieDesLombrics-3p_u_smallblocks_2 -visibility off
   2849.7239 1376.5464
   2886.5593 1408.917
   2867.5835 1445.7524
@@ -1245,7 +1246,7 @@ line border -close on -id galerie210223-3p_u_smallblocks_2 -visibility off
 endline
 
 area u:smallblocks 
-  galerie210223-3p_u_smallblocks_2
+  GalerieDesLombrics-3p_u_smallblocks_2
 endarea
 
 endscrap

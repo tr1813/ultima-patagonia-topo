@@ -167,4 +167,10 @@ input "PincemiActif-1p.th2"
      PincemiActif-1p
   endmap
 
+  input "PincemiActif-e.th2"
+
+  map m-all-e -projection extended
+     PincemiActif-1e
+  endmap
+
 endsurvey

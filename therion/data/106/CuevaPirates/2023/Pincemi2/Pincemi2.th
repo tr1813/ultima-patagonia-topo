@@ -5,7 +5,13 @@ survey Pincemi2 -title "Pincemi2"
 
   centerline
     date 2023.02.25 
+    explo-date 2023.02.25 
     # team Alex jules Franck 
+
+    team "Alexandre Honiat"
+    team "Jules Clouzeau"
+    team "Franck Bréhier"
+    explo-team "[Centre Terre]"
     units length meters
     units compass clino degrees
     data normal from to length compass clino
@@ -74,14 +80,14 @@ survey Pincemi2 -title "Pincemi2"
     5 - 0.20 0.0 90.0
     5 - 0.00 0.0 -90.0
     extend left
-    5 6 10.00 346.0 -15.0
+    5 6 10.00 346.0 -8.0
     # extend auto
     6 - 1.00 260.0 0.0
     6 - 1.50 80.0 0.0
     extend vertical
     6 - 0.20 0.0 90.0
     6 - 0.00 0.0 -90.0
-    6 7 10.00 350.0 -20.0
+    6 7 10.00 350.0 -10.0
     # extend auto
     7 - 0.50 230.0 0.0
     7 - 1.00 50.0 0.0
@@ -129,13 +135,21 @@ survey Pincemi2 -title "Pincemi2"
     10 - 0.50 0.0 90.0
     10 - 0.50 0.0 -90.0
     extend right
-    10 13 15.00 40.0 -37.0
+    #    10 13 15.00 40.0 -37.0
+    10 13 15.00 40.0 -25.0
+
   endcenterline
 
 input "Pincemi2-plan1p.th2"
 
   map m-all-p -projection plan
      Pincemi2-plan1p
+  endmap
+
+input "Pincemi2-e.th2"
+
+  map m-all-e -projection extended
+     Pincemi2-1e
   endmap
 
 endsurvey

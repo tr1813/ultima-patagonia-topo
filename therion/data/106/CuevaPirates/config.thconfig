@@ -42,7 +42,7 @@ layout local
    \size[12]\par \bf \si Coordonnées de l'entrée Résurgence (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z : 0 m}  \ss
   \par{ \quad} 
   \par \si Développement :\ss{ \the\cavelength}
-  \par \si Dénivellation :\ss{ \the\cavedepth}
+  \par \si Dénivellation :\ss{+120/-33 m}
   \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2008  \& 2023, 
   \par Oxford University Caving Club  - Madre de Dios 2008} 
     \par{ \quad} 
@@ -52,7 +52,7 @@ layout local
   \par  Simon Headford, Alexandre Honiat, Charlotte Honiat, Ben Lovett, 
   \par Christine Magot, Arnauld Malard, Lou Maurice, Kateryna Medvedeva, 
   \par Natalia Morata-Calvo, Rick Padfield, Jérémie Prieur-Drévon, Tanguy Racine, 
-  \par Cédric Rocques, Raphaël Seguin, Bernard Tourte, Joël Trémoulet, Zappé. 
+  \par Cédric Roques, Raphaël Seguin, Bernard Tourte, Joël Trémoulet, Enrique Ogando Lastra. 
   \par{ \quad} 
 
   \par \si Report et dessins :\ss{Tanguy Racine, Alexandre Honiat}}
@@ -65,10 +65,23 @@ layout local
   %\legendbox{\the\numexpr\xcenter+\xscale\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{E} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
   }
   endcode
+
+
+
 endlayout
 
-  layout extended
+lookup explo-date:latest
+	2022.04.30 [100 100 100]
+	2022.05.01 [92 99 50] "after 2021.12.31"
+endlookup
+
+
+layout extended
   copy local
+
+
+  #colour map-fg explo-date:latest
+
   symbol-assign line wall:blocks MYEE
   code tex-map
   #\framethickness=0.5mm
@@ -82,12 +95,13 @@ endlayout
   \size[18]\bf \the\cavename{} / \cadnum \ss
   \si \par \size[14]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
   \par{ \quad} 
+  
   \size[12]\par \bf \si Coordonnées de l'entrée Porche (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z : 10 m}  \ss
   \par{ \quad} 
    \size[12]\par \bf \si Coordonnées de l'entrée Résurgence (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z : 0 m}  \ss
   \par{ \quad} 
   \par \si Développement :\ss{ \the\cavelength}
-  \par \si Dénivellation :\ss{ \the\cavedepth}
+  \par \si Dénivellation :\ss{ +120/-33 m}
   \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2008  \& 2023, 
   \par Oxford University Caving Club  - Madre de Dios 2008} 
     \par{ \quad} 
@@ -97,14 +111,14 @@ endlayout
   \par  Simon Headford, Alexandre Honiat, Charlotte Honiat, Ben Lovett, 
   \par Christine Magot, Arnauld Malard, Lou Maurice, Kateryna Medvedeva, 
   \par Natalia Morata-Calvo, Rick Padfield, Jérémie Prieur-Drévon, Tanguy Racine, 
-  \par Cédric Rocques, Raphaël Seguin, Bernard Tourte, Joël Trémoulet, Zappé. 
+  \par Cédric Roques, Raphaël Seguin, Bernard Tourte, Joël Trémoulet, Enrique Ogando Lastra. 
   \par{ \quad} 
 
   \par \si Report et dessins :\ss{Tanguy Racine, Alexandre Honiat}}
   \formattedlegend 
   \def\maplayout{
-  \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter +50*\yscale\relax}{N}{\customheader}
-  \legendbox{\the\numexpr\xcenter-12\relax}{\the\numexpr\ycenter - 100*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter +20*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter+50\relax}{\the\numexpr\ycenter +\yscale\relax}{N}{\scalebar}
   %\legendbox{\the\numexpr\xcenter+1*\xscale\relax}{\the\numexpr\ycenter + 50*\yscale\relax}{E} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
   }
   endcode
@@ -120,8 +134,9 @@ source
   endmap
 
   map mappirates-e -projection extended -title "Système de la grotte des Pirates"
-    m-all-e@CuevaPirates.106
-    ResurgencePirate.106
+    m-all-e@CuevaPirates.106 [100 0 m] none
+    m-all-e@ResurgencePirate.106
+    #m-all-e@AvenDesArchesPerdues.106 [1400 0 m] none
   endmap
 endsource 
 
@@ -133,10 +148,9 @@ select mappirates-e
 
 
 #export model -o outputs/CuevaPirates.3d -fmt survex
-export model -o outputs/CuevaPirates.kml
+#export model -o outputs/CuevaPirates.kml
 #export model -o outputs/CuevaPirates.lox
 #export atlas -o outputs/CuevaPirates.pdf -projection plan -layout local-p
-export map -o outputs/CuevaPiratesmap.pdf -projection plan -layout plan 
+#export map -o outputs/CuevaPiratesmap.pdf -projection plan -layout plan 
 
-
-#export map -o outputs/CuevaPirates-coupe.pdf -projection extended -layout extended
+export map -o outputs/CuevaPirates-coupe.pdf -projection extended -layout extended

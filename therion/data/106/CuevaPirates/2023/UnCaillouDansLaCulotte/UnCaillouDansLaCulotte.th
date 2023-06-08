@@ -303,4 +303,12 @@ survey UnCaillouDansLaCulotte -title "Le troisieme tome de Steph Jaillet"
     UnCaillouDansLaCulotte-1p
   endmap
 
+  input UnCaillouDansLaCulotte-1s.th2 
+  
+  join UnCaillouDansLaCulotte-1s UnCaillouDansLaCulotte-2s
+  map m-all-e -projection extended
+    UnCaillouDansLaCulotte-1s
+    UnCaillouDansLaCulotte-2s
+  endmap
+
 endsurvey

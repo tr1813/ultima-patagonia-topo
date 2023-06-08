@@ -1,6 +1,6 @@
 # 2023.02.23 created by TopoDroid v 6.1.89
 
-survey galerie210223 -title "galerie210223"
+survey GalerieDesLombrics -title "GalerieDesLombrics"
     # point des anglais 163 
 
   centerline
@@ -18,7 +18,7 @@ survey galerie210223 -title "galerie210223"
     units compass clino degrees
     data normal from to length compass clino
     #extend right
-    
+    extend right
     163 a1 4.27 348.4 -2.7
     # extend auto
     a1 . 0.97 312.3 75.0
@@ -59,7 +59,7 @@ survey galerie210223 -title "galerie210223"
     #extend vertical
     a4 - 1.60 0.0 90.0
     a4 - 0.40 0.0 -90.0
-    #extend left
+    extend right
     a4 a5 3.35 151.5 9.5
     # extend auto
     a5 - 2.00 132.6 0.0
@@ -82,7 +82,7 @@ survey galerie210223 -title "galerie210223"
     #extend vertical
     a3 - 1.00 0.0 90.0
     a3 - 0.20 0.0 -90.0
-    #extend right
+    extend right
     a3 a8 8.83 323.8 -20.9
     # extend auto
     a8 - 0.50 122.3 0.0
@@ -386,7 +386,7 @@ survey galerie210223 -title "galerie210223"
     #extend vertical
     a45 - 0.30 0.0 90.0
     a45 - 0.40 0.0 -90.0
-    #extend left
+    extend left
     a45 a46 1.96 127.2 26.3
     # extend auto
     a46 - 0.80 11.4 0.0
@@ -399,6 +399,7 @@ survey galerie210223 -title "galerie210223"
     #extend right
     a47 a48 2.71 67.1 -2.8
     #extend left
+    extend right
     a48 a49 4.38 142.8 27.5
     a49 a50 5.28 205.5 13.4
     extend left
@@ -479,17 +480,23 @@ survey galerie210223 -title "galerie210223"
     a44 0.80 0.00 0.00 0.30
   endcenterline
 
-input "galerie210223-1p.th2"
+input "GalerieDesLombrics-1p.th2"
 
    map m-all-p -projection plan
-     galerie210223-1p
-     galerie210223-2p
-     galerie210223-3p
+     GalerieDesLombrics-1p
+     GalerieDesLombrics-2p
+     GalerieDesLombrics-3p
    endmap
 
-   join galerie210223-1p galerie210223-3p
-   join galerie210223-2p galerie210223-3p
+   join GalerieDesLombrics-1p GalerieDesLombrics-3p
+   join GalerieDesLombrics-2p GalerieDesLombrics-3p
 
+input "GalerieDesLombrics-e.th2"
+
+   map m-all-e -projection extended
+     GalerieDesLombrics-1e
+     GalerieDesLombrics-2e
+   endmap
 endsurvey
 
 
