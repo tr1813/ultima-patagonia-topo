@@ -1,6 +1,0 @@
-    survey PerteSousLeLac -title "Perte Sous Le Lac" -entrance 0 -attr exped UP2023 -attr cad_num 106028
-    centreline 
-    station 0 entrance
-    endcentreline 
-    endsurvey
-    
