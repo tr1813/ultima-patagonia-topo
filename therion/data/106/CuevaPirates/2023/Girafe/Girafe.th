@@ -13,6 +13,15 @@ endmap
 
 join Girafe-1p Girafe-2p
 
+input Girafe-e.th2
+map m-all-e -projection extended
+	Girafe-1e
+	Girafe-2e
+endmap
+
+join Girafe-1e Girafe-2e
+
+
 # POINT 1 = POINT 66 TOPO DES ANGLAIS
 	
 	centreline

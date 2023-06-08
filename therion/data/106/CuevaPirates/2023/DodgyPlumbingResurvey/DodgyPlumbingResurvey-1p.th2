@@ -82,7 +82,7 @@ point 396.162 2100.29 gradient -orientation 321.96227587897766
 point 479.515 1991.92 gradient -orientation 320.85403564707275
 point 573.506 1871.49 gradient -orientation 309.3599871463334
 point 878.605 1562.65 gradient -orientation 333.8474132766103
-point 715.805 1398.6 label -align l -text "Dodgy Plumbing"
+point 735.805 1398.6 label -align l -text "<centre>Dodgy<br>Plumbing"
 line contour 
   176.8478 2256.3337
   176.8478 2256.3337 302.8772 2331.5448 327.27 2360.0031

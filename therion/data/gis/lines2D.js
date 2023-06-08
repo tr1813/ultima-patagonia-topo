@@ -11795,7 +11795,7 @@ var lines2D =
       "properties": {
         "_FROM": 2983,
         "_TO": 2988,
-        "_SURVEY": "galerie210223.CuevaPirates.106.UltimaPatagonia",
+        "_SURVEY": "GalerieDesLombricsbricsbricsbrics.CuevaPirates.106.UltimaPatagonia",
         "_SURFACE": 0,
         "_DUPLICATE": 0,
         "_APPROXIM_": 0,

@@ -30,4 +30,15 @@ survey AvenDesArchesPerdues -entrance 0@Entree -attr cad_num 106022 -attr exped 
         m-Arches_Perdues_Siphon_2-p@Arches_Perdues_Siphon_2
     endmap
 
+    map m-all-e -projection extended
+        Entree-1e@Entree
+        Entree-2e@Entree
+        FenetreMeteo-1e@FenetreMeteo
+        Panthere-1e@Panthere
+        Collecteur-1e@Collecteur
+        Arches_Perdues_55-1e@Arches_Perdues_55
+        Arches_Perdues_last-1e@Arches_Perdues_last
+        Arches_Perdues_Siphon_2-1e@Arches_Perdues_Siphon_2
+    endmap
+
 endsurvey

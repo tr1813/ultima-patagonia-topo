@@ -1,16 +1,16 @@
 # 2023.02.23 created by TopoDroid v 6.1.89
 
-survey galerie210223 -title "galerie210223"
+survey GalerieDesLombrics -title "GalerieDesLombrics"
     # point des anglais 163 
 
-  # input "galerie210223-planp.th2"
-  # input "galerie210223-plans.th2"
+  # input "GalerieDesLombrics-planp.th2"
+  # input "GalerieDesLombrics-plans.th2"
 
   # map mplanp -projection plan
-  #   galerie210223-planp
+  #   GalerieDesLombrics-planp
   # endmap
   # map mplans -projection extended
-  #   galerie210223-plans
+  #   GalerieDesLombrics-plans
   # endmap
 
   centerline
@@ -483,10 +483,10 @@ survey galerie210223 -title "galerie210223"
     a44 0.80 0.00 0.00 0.30
   endcenterline
 
-input "galerie210223-1p.th2"
+input "GalerieDesLombrics-1p.th2"
 
    map m-all-p -projection plan
-     galerie210223-1p
+     GalerieDesLombrics-1p
    endmap
 
 endsurvey

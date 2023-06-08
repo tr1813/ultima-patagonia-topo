@@ -526,9 +526,7 @@ survey Rhinalto -title "Rhinalto"
     28 . 6.16 147.5 27.7
     28 . 5.04 159.5 33.3
     28 . 3.81 33.7 -9.1
-    extend ignore
-    28 29 3.80 33.7 -8.9
-    extend left
+    extend right
     28 29 3.81 33.6 -9.0
     # extend auto
     29 . 1.73 51.6 0.2
@@ -585,13 +583,14 @@ survey Rhinalto -title "Rhinalto"
   endcenterline
 
   input "Rhinalto-1p.th2"
-  #input "../th2/Rhinalto-1s.th2"
+  input "Rhinalto-e.th2"
 
    map m-all-p -projection plan
      Rhinalto-1p
    endmap
-   # map m1s -projection extended
-     #Rhinalto-1s
-    #endmap
+
+    map m-all-e -projection extended
+     Rhinalto-1e
+    endmap
 
 endsurvey

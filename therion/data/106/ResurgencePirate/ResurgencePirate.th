@@ -60,6 +60,45 @@ survey ResurgencePirate -title "Résurgence des Pirates" \
         17   2.00	2.00	2.00	0.00
         18   2.00	2.00	2.00	0.00
 
+    data normal from to compass clino tape  
+    1   .   -   UP  0.5
+    1   .   -   DOWN    0.5
+    2   .   -   UP  1.0
+    2   .   -   DOWN    0
+    3   .   -   UP  1.0
+    3   .   -   DOWN    0
+    4   .   -   UP  1.0
+    4   .   -   DOWN    0
+    5   .   -   UP  2.0
+    5   .   -   DOWN 0
+    6   .   -   UP  1.0 
+    6   .   -   DOWN 0.0
+    7   .   -   UP 0.6
+    7   .   -   DOWN 0
+    8   .   -   UP  1.0
+    8   .   -   DOWN    0
+    9   .   -   UP  1.0
+    9   .   -   DOWN     0
+    10   .   -   UP     1.5
+    10   .   -   DOWN   0 
+    11   .   -   UP     1.5
+    11   .   -   DOWN   0
+    12   .   -   UP     1
+    12   .   -   DOWN   0
+    13   .   -   UP     2
+    13   .   -   DOWN   0
+    14   .   -   UP     2
+    14   .   -   DOWN   0
+    15   .   -   UP     2
+    15   .   -   DOWN   0
+    16   .   -   UP     2
+    16   .   -   DOWN   0
+    17   .   -   UP     2
+    17   .   -   DOWN   0
+    18   .   -   UP     2
+    18   .   -   DOWN   0
+
+
 
         
 
@@ -71,5 +110,10 @@ survey ResurgencePirate -title "Résurgence des Pirates" \
         ResurgencePirate-1p
     endmap
 
+input ResurgencePirate-e.th2
+
+    map m-all-e -projection extended
+        ResurgencePirate-1e
+    endmap
 endsurvey
 

@@ -4,7 +4,7 @@ encoding utf-8
 
 # 2023.02.23 created by TopoDroid v. 6.1.89
 
-scrap galerie210223-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
+scrap GalerieDesLombrics-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
 line border
   -329.42 -104.59

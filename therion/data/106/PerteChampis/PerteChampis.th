@@ -24,11 +24,11 @@ endmap
 		team "Arnauld Malard"
 		team "Laurence [Boudoux d'Hautefeuille]"
 		explo-team "Charlotte Honiat"
-		explo-team "Cédric Rocques"
+		explo-team "Cédric Roques"
 		explo-team "Lionel Ruiz"
 
 		team "Charlotte Honiat"
-		team "Cédric Rocques"
+		team "Cédric Roques"
 		team "Lionel Ruiz"
 		data normal from to length compass clino
 		

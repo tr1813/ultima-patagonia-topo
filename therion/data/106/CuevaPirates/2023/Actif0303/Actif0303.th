@@ -320,5 +320,13 @@ input "Actif0303-1p.th2"
      Actif0303-1p
    endmap
 
+   input "Actif0303-e.th2"
+
+   map m-all-e -projection extended
+     Actif0303-1e
+     break
+     Actif0303-2e
+   endmap
+
 
 endsurvey

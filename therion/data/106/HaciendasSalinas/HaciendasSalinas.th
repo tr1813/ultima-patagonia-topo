@@ -10,7 +10,7 @@ survey HaciendasSalinas -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -at
 	input SalinasNew4/SalinasNew4.th
 	input SalinasNew3/SalinasNew3.th
 	input SalinasNew5/SalinasNew5.th
-	input galerie210223/galerie210223.th
+	input GalerieDesLombrics/GalerieDesLombrics.th
 	input PinceMi/PinceMi.th
 	input UnCaillouDansLaCulotte/UnCaillouDansLaCulotte.th
 	input Pincemiboucle/Pincemiboucle.th
@@ -43,9 +43,9 @@ survey HaciendasSalinas -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -at
 	equate 211@e.Anglais2008 211@PiratesJonction
 	equate 161@d.Anglais2008 161@PiratesJonction
 	equate 12@a.Anglais2008 29@PiratesJonction
-	equate 163@PrioriteADroite a1@galerie210223
-	equate a50@galerie210223 6@PrioriteADroite
-	equate a55@galerie210223 207@SumpOfDoomResurvey
+	equate 163@PrioriteADroite a1@GalerieDesLombrics
+	equate a50@GalerieDesLombrics 6@PrioriteADroite
+	equate a55@GalerieDesLombrics 207@SumpOfDoomResurvey
 
 	equate 207@e.Anglais2008 207@SumpOfDoomResurvey
 	equate 163@d.Anglais2008 163@PrioriteADroite
@@ -117,7 +117,7 @@ map m-all-p -projection plan
 	m-all-p@UnCaillouDansLaCulotte
 	m-all-p@Pirates2008
 	m-all-p@Girafe
-	m-all-p@galerie210223
+	m-all-p@GalerieDesLombrics
 	m-all-p@Pincemiactif
 	m-all-p@Pincemiboucle
 	m-all-p@Pincemi2
