@@ -41,6 +41,9 @@ layout detailed-p
   symbol-assign area sump MY
   symbol-colour point water-flow [0 57 100]
   symbol-colour line water-flow [0 57 100]
+  symbol-colour point spring [0 57 100]
+  symbol-colour point sink [0 57 100]
+
   symbol-assign point anchor MY
   ## formations
   symbol-assign point stalagmite MY
