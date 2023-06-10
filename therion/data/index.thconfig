@@ -1,7 +1,7 @@
 source "index.th"
 
 lang fr
-# export model -o ../outputs/index.3d
+ export model -o ../outputs/index.3d
 #export model -o ../outputs/index.lox
  export model -o gis/pointages.kml
 #

@@ -1,23 +1,78 @@
-encoding  utf-8
-
 source CuevaNoTime.th
 
+input ../../../layouts/detailed-p.thl
 
 layout local
-    scale 1 500 
-    symbol-color point station [70 0 0]
-    symbol-assign point station AUT
-    symbol-assign line survey AUT
-    symbol-color line survey [70 0 0]
-    map-header 0 100 se
-endlayout 
+  copy detailed-p
+  scale 1 500
+  legend off
+  map-header 0 0 off
+  symbol-show point label
+  symbol-show point passage-height
+  symbol-hide point station-name
+  #symbol-assign area water AUT
+  symbol-hide line survey 
+  symbol-hide point station:temporary
+  symbol-assign line survey UIS
+  symbol-assign point station MY
+  symbol-colour point station [70 0 0]
+  symbol-colour point u:target [70 0 70]
+  symbol-hide point u:target
+  symbol-assign line wall:blocks MYEE
 
-lang fr
+  symbol-colour line survey:cave [70 0 0]
+  symbol-colour point passage-height [70 0 70]
 
+  color map-bg transparent 
+    cs UTM18S 
+    grid-origin 490289 4451286 35 m
+
+   rotate 55
+endlayout
+
+layout plan
+    copy local
+    grid off
+    color map-bg [85 85 85]
+    symbol-assign line wall:blocks MY
+    
+    code tex-map
+
+  \def\xcenter{0}
+  \def\ycenter{0}
+  \def\yscale{1}
+  \def\cadnum{106002}
+
+  # change this
+
+  \def\customheader{
+  \size[13]\bf \the\cavename{} / \cadnum \ss
+  \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
+  \par{ \quad} 
+  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 490289  \par  Y : 4451286  \par Z : 35 m}  \ss
+  \par{ \quad} 
+  \par \si Développement :\ss{ \the\cavelength}
+  \par \si Dénivellation :\ss{ \the\cavedepth}
+  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques :\ss{ }Bernard Tourte, Alexandre Honiat,
+  \par Jules Clouzeau
+  \par \si Report et dessins :\ss{  Alexandre Honiat, Tanguy Racine}}
+
+  \def\maplayout{
+
+  \legendbox{\the\numexpr\xcenter-10\relax}{\the\numexpr\ycenter +100*\yscale\relax}{SW}{\customheader}
+  \legendbox{\the\numexpr\xcenter+50\relax}{\the\numexpr\ycenter +28*\yscale\relax}{S}{\northarrow}
+  \legendbox{\the\numexpr\xcenter+50\relax}{\the\numexpr\ycenter + 25*\yscale\relax}{N}{\scalebar}
+  \legendbox{-10}{30}{NW}{\hbox{\loadpicture{"/outputs/CuevaNoTime-ee.pdf"}}}
+  %\legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter + 4*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
+  }
+  endcode
+endlayout
+
+# OUTPUTS
 select m-all-p@CuevaNoTime
-#select m-all-s@AvenDesDeuxLacs
-
-# OUTPUTS 
-export model -o outputs/CuevaNoTime.3d 
-export map -o outputs/CuevaNoTime-1p.pdf -projection plan -layout-debug station-names -layout local
-#export map -o outputs/AvenDesDeuxLacs-s.pdf -projection extended -layout-debug station-names -layout local
+select m-all-e@CuevaNoTime
+export model -o outputs/CuevaNoTime.lox
+export model -o outputs/CuevaNoTime.3d -fmt survex 
+export map -o outputs/CuevaNoTime-ee.pdf -projection extended -layout local
+export map -o outputs/CuevaNoTime.pdf -projection plan -layout plan

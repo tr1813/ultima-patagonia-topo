@@ -5,6 +5,7 @@ survey 106  -title "106 Seno Egg"
   input CuevaPirates/CuevaPirates.th
 
   input CuevaNoTime/CuevaNoTime.th
+  
   input CuevaDelZorro/CuevaDelZorro.th
 
   input AvenDesArchesPerdues/AvenDesArchesPerdues.th
@@ -87,9 +88,9 @@ survey 106  -title "106 Seno Egg"
 
     #input PerteDuDisto/PerteDuDisto.th
 
-    #input ElPozoGranizo/ElPozoGranizo.th
+    input ElPozoGranizo/ElPozoGranizo.th
 
-    #input PuitsdelArche/PuitsdelArche.th
+    input PuitsDeLArche/PuitsDeLArche.th
 
     input ResurgenceGolondrina/ResurgenceGolondrina.th
 
@@ -358,13 +359,13 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106059	487642.0 4450792.0	281	
-    station ENT_106059 "El Pozo Granizo" entrance continuation explored "80 m"
-    #equate ENT_106059 0@ElPozoGranizo
+    station ENT_106059 "El Pozo Granizo"
+    equate ENT_106059 0@ElPozoGranizo
     
     
     fix ENT_106060	489099.0 4452897.0	201	
-    station ENT_106060 "PuitsdelArche" entrance 
-    #equate ENT_106060 0@PuitsdelArche
+    station ENT_106060 "PuitsDeLArche" entrance 
+    equate ENT_106060 0@PuitsDeLArche
 
     fix ENT_106061	490025.9 4452629.9	0	
     station ENT_106061 "ResurgenceGolondrina"
