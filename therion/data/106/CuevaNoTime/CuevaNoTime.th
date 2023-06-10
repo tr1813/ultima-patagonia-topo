@@ -5,19 +5,16 @@ survey CuevaNoTime -title "Cueva No Time" \
                    -attr exped UP2023 \ 
                    -entrance 0
 
-  input "CuevaNoTime-1p.th2"
 
-  # map m1p -projection plan
-  #   no_time-1p
-  #   no_time-1p1
-  # endmap
   centerline
     station 0 "" continuation explored "640 m"
 
     date 2023.03.07 
-    team "buldo"
-    team "Alex"
-    team "Jules"
+    explo-date 2023.03.07 
+    team "Bernard Tourte"
+    team "Alexandre Honiat"
+    team "Jules Clouzeau"
+    explo-team "[Centre Terre]"
     units length meters
     units compass clino degrees
     data normal from to length compass clino
@@ -1078,4 +1075,29 @@ survey CuevaNoTime -title "Cueva No Time" \
     71 . 8.54 146.9 44.1
   endcenterline
 
+
+  input "CuevaNoTime-1p.th2"
+
+   map m-all-p -projection plan
+     CuevaNoTime-1p
+     CuevaNoTime-2p
+     CuevaNoTime-3p
+   endmap
+
+  join CuevaNoTime-1p CuevaNoTime-2p
+  join CuevaNoTime-2p CuevaNoTime-3p
+
+
+  input "CuevaNoTime-e.th2"
+
+   map m-all-e -projection extended
+     CuevaNoTime-1e
+     CuevaNoTime-2e
+     CuevaNoTime-3e
+   endmap
+
+  #join CuevaNoTime-1e CuevaNoTime-2e
+  #join CuevaNoTime-2e CuevaNoTime-3e
+
+  
 endsurvey
