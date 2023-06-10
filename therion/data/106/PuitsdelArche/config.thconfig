@@ -1,0 +1,74 @@
+source PuitsDeLArche.th
+
+input ../../../layouts/detailed-p.thl
+
+layout local
+  copy detailed-p
+  scale 1 200
+  legend off
+  map-header 0 0 off
+  symbol-show point label
+  symbol-show point passage-height
+  symbol-hide point station-name
+  #symbol-assign area water AUT
+  symbol-hide line survey 
+  symbol-hide point station:temporary
+  symbol-assign line survey UIS
+  symbol-assign point station MY
+  symbol-colour point station [70 0 0]
+  symbol-colour point u:target [70 0 70]
+  symbol-hide point u:target
+  symbol-assign line wall:blocks MYEE
+
+  symbol-colour line survey:cave [70 0 0]
+  symbol-colour point passage-height [70 0 70]
+
+  color map-bg transparent 
+  cs UTM18S
+  grid-origin 489099 4452897 201 m 
+endlayout
+
+layout plan
+    copy local
+    grid off
+    color map-bg [85 85 85]
+    symbol-assign line wall:blocks MY
+    
+    code tex-map
+
+  \def\xcenter{0}
+  \def\ycenter{100}
+  \def\yscale{1}
+  \def\cadnum{106060}
+
+  # change this
+
+  \def\customheader{
+  \size[13]\bf \the\cavename{} / \cadnum \ss
+  \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
+  \par{ \quad} 
+  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 489099 \par  Y :  4452897 \par Z : 201 m}  \ss
+  \par{ \quad} 
+  \par \si Développement :\ss{ \the\cavelength}
+  \par \si Dénivellation :\ss{ \the\cavedepth}
+  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques :\ss{ }Lionel Ruiz, Olivier Guérard
+  \par \si Report et dessins :\ss{  Lionel Ruiz, Tanguy Racine}}
+
+  \def\maplayout{
+
+  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +25*\yscale\relax}{S}{\customheader}
+  \legendbox{\the\numexpr\xcenter+25\relax}{\the\numexpr\ycenter - 47*\yscale\relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter+20\relax}{\the\numexpr\ycenter - 177*\yscale\relax}{N}{\scalebar}
+  \legendbox{100}{\the\numexpr -130*\yscale\relax}{SW} {\hbox{\loadpicture{"/outputs/PuitsDeLArche-ee.pdf"}}}
+  %\legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter + 4*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
+  }
+  endcode
+endlayout
+
+# OUTPUTS
+select m-all-p@PuitsDeLArche
+select m-all-e@PuitsDeLArche
+export model -o outputs/PuitsDeLArche.3d
+export map -o outputs/PuitsDeLArche-ee.pdf -projection extended -layout local
+export map -o outputs/PuitsDeLArche.pdf -projection plan -layout plan
