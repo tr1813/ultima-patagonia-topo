@@ -8,11 +8,11 @@ layout local
   legend off
   map-header 0 0 off
   symbol-show point label
-  symbol-show point passage-height
-  symbol-hide point station-name
+  #symbol-show point passage-height
+  #symbol-hide point station-name
   #symbol-assign area water AUT
   symbol-hide line survey 
-  symbol-hide point station:temporary
+  #symbol-hide point station:temporary
   symbol-assign line survey UIS
   symbol-assign point station MY
   symbol-colour point station [70 0 0]
@@ -75,4 +75,4 @@ select m-all-e@CuevaNoTime
 export model -o outputs/CuevaNoTime.lox
 export model -o outputs/CuevaNoTime.3d -fmt survex 
 export map -o outputs/CuevaNoTime-ee.pdf -projection extended -layout local
-export map -o outputs/CuevaNoTime.pdf -projection plan -layout plan
+export map -o outputs/CuevaNoTime.pdf -projection plan -layout plan -layout-debug station-names
