@@ -51,7 +51,7 @@ THERION_STATUS_LIST = [(feature['properties']['_NAME'],feature['properties']['_C
 synthese_therion = pd.DataFrame(THERION_STATUS_LIST,columns = ['CadNum','Commentaire','X (UTM 18 Sud)','Y (UTM 18 Sud)'])
 
 ## read the cavity synthesis
-excel_data = pd.read_csv("../data/BROUILLON_cadastre/UP_MDD_DDA_Temp_synthese_Cavites.csv")
+excel_data = pd.read_csv("../data/SYNTHESE_POINTAGES.csv")
 synthese_excel = excel_data[['Nom_complet','NomCadastre','Commentaire',
                                    'X (UTM 18 Sud)','Y (UTM 18 Sud)',
                                    'Alt.','Dev. Topo', 'Prof.','Explorateurs', 'UP']]

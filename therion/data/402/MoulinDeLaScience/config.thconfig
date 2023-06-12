@@ -1,4 +1,4 @@
-source MoulinDeLaScience.th
+source ../402.th
 
 input ../../../layouts/detailed-p.thl
 
@@ -48,7 +48,7 @@ layout plan
   \legendbox{\the\numexpr\xcenter+5\relax}{\the\numexpr\ycenter +3*\yscale\relax}{N}{\customheader}
   \legendbox{\the\numexpr\xcenter+80\relax}{\the\numexpr\ycenter - 10*\yscale\relax}{N}{\northarrow}
   \legendbox{\the\numexpr\xcenter+20\relax}{\the\numexpr\ycenter - 50*\yscale\relax}{N}{\scalebar}
-  \legendbox{-10}{\the\numexpr\ycenter - 25*\yscale\relax}{NW} {\hbox{\loadpicture{MoulinDeLaScience-ee.pdf}}}
+  \legendbox{-10}{\the\numexpr\ycenter - 25*\yscale\relax}{NW} {\hbox{\loadpicture{outputs/MoulinDeLaScience-ee.pdf}}}
   \legendbox{\the\numexpr\xcenter+25\relax}{\the\numexpr\ycenter + 3*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
   }
   endcode
@@ -56,5 +56,8 @@ endlayout
 
 # OUTPUTS
 
-export map -o MoulinDeLaScience-ee.pdf -projection extended -layout local
-export map -o MoulinDeLaScience.pdf -projection plan -layout plan
+select m-all-p@MoulinDeLaScience
+select m-all-e@MoulinDeLaScience
+
+export map -o outputs/MoulinDeLaScience-ee.pdf -projection extended -layout local
+export map -o outputs/MoulinDeLaScience.pdf -projection plan -layout plan

@@ -1,9 +1,76 @@
-source Perte25MetresNageLibre.th 
+source Perte25MetresNageLibre.th
 
-input ../../../layouts/detailed-e.thl
+input ../../../layouts/detailed-p.thl
 
-layout local 
-    copy detailed-e 
-    scale 1 500
+layout local
+  copy detailed-p
+  scale 1 400
+  legend off
+  map-header 0 0 off
+  symbol-show point label
+  symbol-show point passage-height
+  symbol-hide point station-name
+  #symbol-assign area water AUT
+  symbol-hide line survey 
+  symbol-hide point station:temporary
+  symbol-assign line survey UIS
+  symbol-assign point station MY
+  symbol-colour point station [70 0 0]
+  symbol-colour point u:target [70 0 70]
+  symbol-hide point u:target
+  symbol-assign line wall:blocks MYEE
+
+  symbol-colour line survey:cave [70 0 0]
+  symbol-colour point passage-height [70 0 70]
+
+  color map-bg transparent 
+  cs UTM18S
+  grid-origin 488575 4451682 -3 m
 endlayout
-export atlas -o Perte25MetresNageLibre-atlas.pdf -projection extended -layout-debug station-names -layout local
+
+layout plan
+    copy local
+    grid off
+    color map-bg [85 85 85]
+    symbol-assign line wall:blocks MY
+    
+    code tex-map
+
+  \def\xcenter{0}
+  \def\ycenter{0}
+  \def\yscale{1}
+  \def\cadnum{106055}
+
+  # change this
+
+  \def\customheader{
+  \size[13]\bf \the\cavename{} / \cadnum \ss
+  \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
+  \par{ \quad} 
+  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 488575  \par  Y :  4451682 \par Z : 262 m}  \ss
+  \par{ \quad} 
+  \par \si Développement :\ss{ \the\cavelength}
+  \par \si Dénivellation :\ss{ \the\cavedepth}
+  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques :\ss{ }  Charlotte Honiat, Alexandre Honiat, Cédric Roques
+  \par \si Report et dessins :\ss{  Alexandre Honiat, Tanguy Racine}}
+
+  \def\maplayout{
+
+  \legendbox{\the\numexpr\xcenter+20\relax}{\the\numexpr\ycenter +125*\yscale\relax}{SE}{\customheader}
+  \legendbox{\the\numexpr\xcenter-50\relax}{\the\numexpr\ycenter +60*\yscale\relax}{SW}{\northarrow}
+  \legendbox{\the\numexpr\xcenter-38\relax}{\the\numexpr\ycenter +53*\yscale\relax}{N}{\scalebar}
+  \legendbox{-80}{\the\numexpr +35*\yscale\relax}{NW} {\hbox{\loadpicture{"/outputs/Perte25MetresNageLibre-ee.pdf"}}}
+  %\legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter + 4*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+  }
+  endcode
+endlayout
+
+# OUTPUTS
+export model -o outputs/Perte25MetresNageLibre.3d
+export model -o outputs/Perte25MetresNageLibre.lox
+
+select m-all-p@Perte25MetresNageLibre
+select m-all-e@Perte25MetresNageLibre
+export map -o outputs/Perte25MetresNageLibre-ee.pdf -projection extended -layout local
+export map -o outputs/Perte25MetresNageLibre.pdf -projection plan -layout plan

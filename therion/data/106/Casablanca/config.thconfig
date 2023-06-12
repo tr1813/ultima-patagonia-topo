@@ -1,0 +1,78 @@
+source Casablanca.th
+
+input ../../../layouts/detailed-p.thl
+input ../../../layouts/detailed-e.thl
+
+layout local
+  copy detailed-p
+  scale 1 200
+  legend off
+  map-header 0 0 off
+  symbol-show point label
+  symbol-hide point passage-height
+  symbol-assign line wall:blocks MYEE
+  
+  symbol-hide point station-name 
+  symbol-hide line survey
+  symbol-hide point station
+  color map-bg transparent
+
+  #grid bottom
+  #grid-size 10 10 10 m 
+  cs UTM18S
+  grid-origin 490551 4450456 0 m 
+
+
+endlayout 
+
+layout plan 
+    copy local 
+      grid off
+    color map-bg [85 85 85]
+      symbol-assign line wall:blocks MY
+
+  code tex-map
+  #\framethickness=0.5mm
+  \def\xcenter{45}
+  \def\ycenter{175}
+  \def\xscale{20}
+  \def\yscale{30}
+  \def\cadnum{106023}
+  \legendwidth=5cm
+  # change this
+  \def\customheader{
+  \size[13]\bf \the\cavename{} / \cadnum \ss
+  \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
+  \par{ \quad} 
+  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 490551  \par  Y : 4450456 \par Z : 10 m}  \ss
+  \par{ \quad} 
+  \par \si Développement :\ss{ \the\cavelength}
+  \par \si Dénivellation :\ss{ \the\cavedepth}
+  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques :\ss{ } Medhi Bouktal, Jérémie Prieur-Drevon, Serge Caillault, Caroline Boghossian
+  \par \si Report et dessins :\ss{  Tanguy Racine}}
+  
+  \def\maplayout{
+  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter+3*\xscale\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/Casablanca-ee.pdf"}}}
+  \legendbox{\the\numexpr\xcenter+45\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+   \legendbox{\the\numexpr\xcenter+65\relax}{\the\numexpr\ycenter - 2*\yscale \relax}{N}{\northarrow}
+ }
+  endcode
+endlayout
+
+
+
+
+# OUTPUTS
+
+select m-all-p@Casablanca
+select m-all-e@Casablanca
+
+#export model -o outputs/Casablanca.3d -fmt survex
+#export model -o outputs/Casablanca.lox
+
+#export atlas -o outputs/Casablanca.pdf -projection plan -layout local-p
+export map -o outputs/Casablanca-ee.pdf -projection extended -layout local
+export map -o outputs/Casablanca.pdf -projection plan -layout plan

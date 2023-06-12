@@ -3,17 +3,72 @@ layout custom_arrow
 	    #(contributions of Thomas Holder)
 			def s_northarrow (expr rot) =
 		  	begingroup
-			    interim defaultscale:=0.35; % scale your north arrow here
+			    interim defaultscale:=0.25; % scale your north arrow here
 			    T:=identity scaled defaultscale rotated -rot;
 			    pickup pencircle scaled (0.08cm * defaultscale);
-			    thdraw (-.4cm,-1.4cm)--(0,2.8cm)--(.4cm,-1.4cm)--cycle;
-			    p:=fullcircle scaled 1.6cm;
-			    thfill p withcolor(1,1,1); thdraw p;
-			    p:=(0.95cm,0)--(0.65cm,0);
-			    thdraw p; thdraw p xscaled -1;
-			    pickup pencircle scaled (0.12cm * defaultscale);
+
+				# grey circle
+				p := (-5cm,0)..(0,-5cm)..(5cm,0)..(0,5cm)..cycle;
+				thfill p withcolor(0.8,0.8,0.8); thdraw p;
+				# white
+				thfill p scaled 0.95 withcolor(1,1,1); thdraw p scaled 0.95;
+				# yellow circle. 
+				thfill p scaled 0.8 withcolor(0.95,0.87,0.78); 
+				# ticks... 
+				q := p scaled 0.95;
+				start := 0;
+				len := arclength(q);
+				inc := adjust_step(len,len/4);
+				pickup pencircle scaled (0.12cm * defaultscale);
+				forever:
+					t := arctime (start + inc) of q;
+					thdraw (point t of q)-- ((point t of q) + 0.7cm * unitvector(thdir(q,t) rotated 90));
+					start := start + inc;
+					exitif start > len - (2*inc/3);
+				endfor;
+				# minor ticks
+				start :=0;
+				len := arclength(q);
+				inc := adjust_step(len,len/73);
+				pickup pencircle scaled (0.08cm * defaultscale);
+				forever:
+					t := arctime (start + inc) of q;
+					thdraw (point t of q)-- ((point t of q) + 0.5cm * unitvector(thdir(q,t) rotated 90));
+					start := start + inc;
+					exitif start > len - (2*inc/3);
+				endfor;
+
+				# blue arrow
+				p := (-1cm,-0)--(0,-3cm)--(1cm,-0)--cycle;
+				thfill p rotated -MagDecl withcolor(0.2,0.25,0.9);
+				# red arrow
+				p := (-1cm,-0)--(0,4.5cm)--(1cm,-0)--cycle;
+				thfill p rotated -MagDecl withcolor(0.7,0.25,0.2);
+				# black circle. 
+				p := (-0.25cm,0)..(0,-0.25cm)..(0.25cm,0)..(0,0.25cm)..cycle;
+				thfill p;
+				# true north 
+				p := (-.2cm,-1.4cm)--(0,1.8cm)--(0,-1.4cm)--cycle;
+				thfill p  shifted (0,8.6cm) ;
+				thdraw p  shifted (0,8.6cm) ;
+				p := (.2cm,-1.4cm)--(0,1.8cm)--(0cm,-1.4cm)--cycle;
+				thclean p  shifted (0,8.6cm) ;
+				thdraw p  shifted (0,8.6cm) ;
+				thdraw (-1,0)--(0,8cm) ;
+			    # p:=fullcircle scaled 1.6cm;
+			    # thfill p withcolor(1,1,1); thdraw p;
+			    # p:=(0.95cm,0)--(0.65cm,0);
+			    # thdraw p; thdraw p xscaled -1;
 			    p:=(0.28cm,0.42cm);
-			    thdraw p--(p yscaled -1)--(p xscaled -1)--(p scaled -1);
+				q:= p--(p yscaled -1)--(p xscaled -1)--(p scaled -1);
+				thdraw q shifted (0,11cm);
+				magdecl:=MagDecl+rot;
+				p:= (0,0)--(0,8cm);
+				thdraw p rotated -MagDecl;
+				p:= (0,6.5cm)--(0,8cm)--(0.25cm,6.2cm)--cycle;
+				thdraw p rotated -MagDecl; thfill p rotated -MagDecl;
+
+				label.lrt(thTEX("\size[6] \bf Nmag (2023) " & decimal (MagDecl) & "\thinspace"), (0,-1cm) shifted (0.35cm,6.4cm) rotated -magdecl scaled defaultscale);
 		  	endgroup;
 		enddef;
 endlayout

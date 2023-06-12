@@ -2,4 +2,5 @@ source CuevaPirates.th
 
 
 export database -o outputs/CuevaPirates.sql
+export model -o outputs/CuevaPirates.lox
 

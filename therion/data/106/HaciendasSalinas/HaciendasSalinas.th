@@ -1,0 +1,349 @@
+
+survey HaciendasSalinas -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr cad_num 106001  -attr exped ENG2008
+
+	# ON RAJOUTE ICI LES NOUVELLES DONNEES
+	input Anglais2008/Anglais2008.th
+	input PiratesJonction/PiratesJonction.th
+	input SumpOfDoomResurvey/SumpOfDoomResurvey.th
+	input Ascension/Ascension.th
+	input PrioriteADroite/PrioriteADroite.th
+	input SalinasNew4/SalinasNew4.th
+	input SalinasNew3/SalinasNew3.th
+	input SalinasNew5/SalinasNew5.th
+	input GalerieDesLombrics/GalerieDesLombrics.th
+	input PinceMi/PinceMi.th
+	input UnCaillouDansLaCulotte/UnCaillouDansLaCulotte.th
+	input Pincemiboucle/Pincemiboucle.th
+	input Pincemiactif/Pincemiactif.th
+	input Pirates2008/Pirates2008.th
+	input Girafe/Girafe.th
+	input SiphonAmont/SiphonAmont.th
+	input Pincemi2/Pincemi2.th
+	input Rhinalto/Rhinalto.th
+	input Actif0303/Actif0303.th
+	
+	
+
+	# ON REJOUTE ICI LES BOUCLAGES
+	equate 1@a.Anglais2008 1@b.Anglais2008
+	equate 17@a.Anglais2008 17@b.Anglais2008
+	equate 17@a.Anglais2008 17@c.Anglais2008
+	equate 15@a.Anglais2008 15@c.Anglais2008
+	equate 16@a.Anglais2008 16@c.Anglais2008
+	equate 23@a.Anglais2008 23@c.Anglais2008
+	equate 53@b.Anglais2008 53@d.Anglais2008
+	equate 55@b.Anglais2008 55@d.Anglais2008
+	equate 21@a.Anglais2008 21@e.Anglais2008
+	equate 163@d.Anglais2008 163@e.Anglais2008
+	equate 66@b.Anglais2008 66@e.Anglais2008
+
+	equate 100@Pirates2008 44@a.Anglais2008
+    equate N1@Pirates2008 24@a.Anglais2008
+
+	equate 211@e.Anglais2008 211@PiratesJonction
+	equate 161@d.Anglais2008 161@PiratesJonction
+	equate 12@a.Anglais2008 29@PiratesJonction
+	equate 163@PrioriteADroite a1@GalerieDesLombrics
+	equate a50@GalerieDesLombrics 6@PrioriteADroite
+	equate a55@GalerieDesLombrics 207@SumpOfDoomResurvey
+
+	equate 207@e.Anglais2008 207@SumpOfDoomResurvey
+	equate 163@d.Anglais2008 163@PrioriteADroite
+	equate 156@d.Anglais2008 8@Ascension 
+	equate 6@SalinasNew4 8@a.Anglais2008
+	equate 10@SalinasNew4 15@PiratesJonction
+	equate 1@SalinasNew4 0@SalinasNew5
+	equate 6@SalinasNew5 1@a.Anglais2008
+	equate 0@SalinasNew3 8@a.Anglais2008
+
+	equate 0@PinceMi 74@b.Anglais2008
+	equate 86@b.Anglais2008 0@UnCaillouDansLaCulotte
+	equate 66@b.Anglais2008 1@Girafe
+
+	equate 10@SiphonAmont 6@SumpOfDoomResurvey
+	equate 74@b.Anglais2008 1@Pincemiboucle
+	equate 37@Pincemiboucle 11@UnCaillouDansLaCulotte
+	equate 5@Pincemiboucle 23@PrioriteADroite
+	equate 15@UnCaillouDansLaCulotte 1@Pincemiactif 
+	equate 10@PinceMi 13@Pincemiactif
+	equate 1@Pincemi2 20@PinceMi
+	equate 117@c.Anglais2008 31@Rhinalto
+	equate 12@Pincemiboucle 38@Actif0303
+	equate 23@Pincemiboucle 0@Actif0303
+
+
+ 	join UnCaillouDansLaCulotte-1p@UnCaillouDansLaCulotte waterworld-p@Anglais2008
+	join cairnchamber-2p@Anglais2008 PiratesJonction-1p@PiratesJonction
+	join cairnchamber-p@Anglais2008 PiratesJonction-1p@PiratesJonction
+	join cairnchamber-p@Anglais2008 SalinasNew4-1p@SalinasNew4
+	join SalinasNew4-1p@SalinasNew4 PiratesJonction-1p@PiratesJonction
+	join cairnchamber-2p@Anglais2008 whiterhino-p@Anglais2008
+	join SalinasNew4-1p@SalinasNew4 Hacienda_Salinas_3new-1p@SalinasNew3
+	join SalinasNew4-1p@SalinasNew4 Hacienda_Salinas_5new-1p@SalinasNew5
+	join Hacienda_Salinas_5new-1p@SalinasNew5 muddyhollows-p@Anglais2008
+	join muddyhollows-p@Anglais2008 PiratesJonction-1p@PiratesJonction
+	join sumpofdoom-p@Anglais2008 SumpOfDoomResurvey-1p@SumpOfDoomResurvey
+	join sumpofdoom-p@Anglais2008 muddyhollows-p@Anglais2008
+	join sumpofdoom-p@Anglais2008 PiratesJonction-1p@PiratesJonction
+	join waterworld-p@Anglais2008 PinceMi-1p@PinceMi
+	join stalchamberwest-p@Anglais2008 Girafe-1p@Girafe
+	join stalchamber-p@Anglais2008 Girafe-1p@Girafe
+	join stalchamber-p@Anglais2008 SalinasNew2-1p@Ascension
+
+
+
+map m-old-p -projection plan
+	entrance-p@Anglais2008
+	PiratesJonction-1p@PiratesJonction
+	sumpofdoom-p@Anglais2008
+	cairnchamber-2p@Anglais2008
+	cairnchamber-p@Anglais2008
+	muddyhollows-p@Anglais2008
+	whiterhino-p@Anglais2008
+	stalchamberwest-p@Anglais2008
+	stalchamber-p@Anglais2008
+	waterworld-p@Anglais2008
+endmap
+
+map m-all-p -projection plan 
+	m-old-p
+	m-all-p@Ascension
+	m-all-p@SalinasNew3
+	m-all-p@SalinasNew4
+	m-all-p@SalinasNew5
+	m-all-p@SumpOfDoomResurvey
+	m-all-p@PinceMi
+	m-all-p@PrioriteADroite
+	m-all-p@UnCaillouDansLaCulotte
+	m-all-p@Pirates2008
+	m-all-p@Girafe
+	m-all-p@GalerieDesLombrics
+	m-all-p@Pincemiactif
+	m-all-p@Pincemiboucle
+	m-all-p@Pincemi2
+	m-all-p@Rhinalto
+	m-all-p@Actif0303
+	SiphonAmont
+endmap
+
+	
+endsurvey
+# *fix a.44 0490183 4452320 66
+# * equate entrance a.44
+# *begin a
+# #hacienda Salinas (French cave).
+# #Lou maurice book,tim guilford instruments (SAP and Bosch disto), Simon Headford station id
+# #06/04/08
+# *data normal from to tape compass clino#station number up down left right
+# 2 1 8.67 121 +2	#station 1 7 2 2.5 5
+# 3 2 13.91 171 +37 #station 2 0 1.2 1.4 1.1
+# 4 3 4.29 233 +40 #station 3 0.3 1.5 2
+# #station 4 1.25 0.5 1.2 1
+# 5 4 8.46 228 -21 #station 5 1 0.8 3 1
+# 5 6 12.1 021 +6 #station 6 2 0 0.5 1.2
+# 7 6 10.7 171 +8 #station 7 1.3 0.3 2.0 1.4
+# 8 7 7.57 192 -14 #station 8 8.6 0.4 6.4 3.4
+# 9 8 6.59 162 -27 #station 9 1.3 1 3.2 3.3
+# 10 9 9.59 155 +24 #station 10 1.6 0 2.9 1.3
+# 11 10 7.16 163 +14 #station 11 1.1 0.7 3 2.4
+# 12 11 9.53 20 -27 #station 12 2 0.8 7.8 3.6
+# 13 12 7.62 191 +22 #station 13 1.5 1.46 0.7 3
+# 14 13 21.78 136 +27 #station 14 1.85 1.55 4.5 0
+# 15 14 11.3 230 +15 #station 15 2.6 0.4 2 2.45
+# 16 15 4.83 227 -13 #station 16 1 1.2 2.4 1.1
+# 17 16 5.95 201 +23 #station 17 1.8 0.8 2.3 3.2
+# 18 17 16.6 142 -24 #station 18 3 1.6 2.5 1
+# #passage continues beyond 18
+# 19 14 12.95 139 +26 #station 19 2.15 0.1 3.2 1.2 junction
+# 20 19 12.65 152 +16 #station 20 1.7 1 0 3.7 junction
+# 20 21 25.29 311 -24 #station 21 8.8 2 1.4 2.9
+# 21 22 15.95 320 -18 #station 22 0.8 0.6 2.8 0
+# 23 22 5.56 201 -1 #station 23 2.8 0.5 0.7 1.9
+# 23 24 6.14 186 +86 #station 24 3.5 1.2 0 3.5
+# #25 = French survey station on rock labelled Zz or N with tilda on top and is top of bens breakthrough climb. all following data is repeat of french survey no up down left right data
+# 25 24 3.21 278 -10 #station 25 1.5 0.1 0.9 1.2
+# 26 25 18.82 179 +21
+# 26 27 5.46 019 -19
+# 28 27 8.13 196 +12
+# 28 29 11.34 33 -5
+# 30 29 10.61 245 +8
+# # station 30 is French station J
+# 30 31 5.44 307 -12
+# 32 31 8.34 229 +10
+# 32 33 7.83 011 -10
+# 34 33 5.39 234 -9
+# #34 is French station D
+# 34 35 4.46 059 -19
+# 36 35 8.4 131 +20
+# 36 37 2.14 273 -49
+# 37 38 2.59 305 -33
+# #38 is french station A at cairn
+# 39 38 7.43 208 -2
+# 39 40 2.15 48 -11
+# 40 41 2.84 355 +2
+# 41 42 3.17 138 -66
+# 43 42 3.75 229 +2
+# 43 44 16.4 320 -22
+# *end a
+
+# *equate a.1 b.1
+# *equate a.17 b.17 c.17
+# *begin b
+# # hacienda salinas (french Cave)
+# # Lou Maurice book (figures), Tim Guilford book (diagrams), Rick Padfield instruments (SAP and Bosch disto), Simon Headford id stations
+# # 07/04/08
+# *data normal from to tape compass clino#station number up down left right
+# 50 1 10.62 062 +25 #station 50 1.2 0.2 0.3 1.3
+# 50 51 13.39 263 -24 #station 51 0.6 0.7 2.9 1.4
+# 51 52 9.11 291 -23 #station 52 0 0.5 1.1 1.71
+# 52 53 3.61 137 +19 #station 53 1.9 0 3.7 2.9
+# 53 54 12.45 329 -26 #station 54 1.1 0.7 3.8 0.4
+# 54 55 6.39 240 -08 #station 55 1.3 2.0 6.9 2.3
+# 55 56 14.39 158 +31 #station 56 0.3 0.9 1.5 0.7
+# 56 57 4.82 115 +12 #station 57 1.4 2.6 0 2
+# 57 58 6.48 182 +22 #station 58 1.7 0.2 5.4 1.7
+# 58 59 6.99 209 +12 #station 59 0.8 0.6 1.2 0.7
+# 59 60 3.9 194 +36 #station 60 0.1 0.5 1.2 2
+# 60 61 6.77 236 +11 #station 61 3.4 0 2.5 1.1
+# 61 62 5.23 283 -17 #station 62 0.9 2.2 1.5 1.1
+# 62 63 3.18 201 -7 #station 63 0.8 0.5 4.8 0.8
+# 63 64 5.96 191 +6 #station 64 3.8 2 4.2 1.9
+# 64 65 8.5 229 +3 #station 65 1.2 1.3 0.8 2.5
+# 65 66 1.48 309 -31 #station 66 1.6 0.5 1.7 2.0
+# 66 67 5.17 284 +6 #station 67 2.1 1.4 3.4 1.5
+# 67 68 9.66 285 -5 #station 68 1.3 2.4 2.2 0
+# 68 69 10.59 295 -18 #station 69 0.9 1.2 2.2 0
+# 69 70 6.05 231 +12 #station 70 1.5 1.2 0.1 2.9
+# 70 71 9.38 276 -2 #station 71 1.3 1.5 0.5 2.4
+# 71 72 4.14 264 -10 #station 72 4.3 0.1 2 2.3
+# 73 72 2.66 97 +5 #station 73 4.4 1 3.5 1.1
+# 73 74 8.74 255 -29 #station 74 0.9 1.5 2 2
+# 75 74 8.44 76 +34 #station 75 2.5 0.1 4.9 3.1
+# 75 76 8.71 216 -22 #station 76 1.9 0.1 1.9 1.9
+# 76 77 7.8 190 +10 #station 77 1 0.1 1.9 2.7
+# 77 78 12.24 189 +11 #station 78 1.6 1.2 0.4 2.6
+# 78 79 12.97 195 -13 #station 79 2.3 1.7 2.5 1
+# 79 80 13.5 196 -25 #station 80 1.6 0.2 1.7 0.3
+# 80 81 4.68 186 -1 #station 81 3.2 0.1 1 2.8
+# 81 82 4.63 167 +2 #station 82 1.9 0.9 2.1 0.8
+# 82 83 11.21 195 -19 #station 83 1.4 0.7 0.8 2.5
+# 83 84 6.5 177 -7 #station 84 0.7 1.3 0 1.9
+# 84 85 6.43 254 -20 #station 85 1.8 1 1.7 2.1
+# 85 86 8.15 260 -26 #station 86 1.8 0.3 5.2 4.0
+# 86 87 5.56 277 +22 #station 87 2.7 2.6 3.3 0.5
+# 87 88 9.66 216 +3 #station 88 10 1 6.7 1.2
+# 88 89 14.52 215 +39 #station 89 3.5 2.4 1.5 1.5
+# #next is not surveyed except disto used to measure 25 m up shaft
+# #93 is not real station it is top of shaft
+# 89 93 25 0 +90
+# 17 90 16.75 322 +25 #station 90 4 0.6 3 1
+# 90 91 18.13 322 +45 #station  91 3 0 1.2 1
+# #next leg is cheat station 92 is not real
+# 91 92 5 297 +44 #station 92 1.2 1 2.5 0.1
+# *end b
+
+
+# *equate a.15 c.15
+# *equate a.16 c.16
+# *equate a.23 c.23
+# *begin c
+# #hacienda Salinas (French cave).
+# #Ben Lovett book,tim guilford book (diagrams) Simon Headford instruments (SAP and Bosch disto)
+# #08/04/08
+# *data normal from to tape compass clino#station number up down left right
+# 101 23 3.36 065 +16 #station 101 0.5 0.6 0 2.7
+# 101 102 3.3 023 -4 #station 102 2.3 0 1.4 1.2
+# 102 103 3.1 353 -34 #station 103 1.2 0.1 1.5 0.7
+# 103 104 12 335 -32 #station 104 1.5 0.1 1.3 0.7
+# 104 105 10.23 346 -24 #station 105 0.2 0.4 0.6 1.1
+# 105 106 3.65 337 -22
+# 17 107 4.3 114 +21 #station 107 0.9 0.4 2.1 2.7
+# 107 108 4.3 117 -5 #station 108 0.5 0.5 1 0.4
+# 108 109 2.9 81 +41 #station 109 0.4 1 0.1 1
+# 109 110 4.2 108 +33 #station 110 1.3 0.8 1.8 1.4
+# 110 111 2.3 123 -33
+# 110 112 6.4 100 +32 #station 112 4.1 0.3 1.1 1.7
+# 112 113 9.8 132 +3 #station 113 5.2 5.3 3.7 0.8
+# 113 114 10 137 -32 #station 114 13.1 0.5 1.3 1.4
+# 114 115 2.1 139 +4 #station 115 12.6 4.2 0 0.6
+# 115 116 7.7 132 -51 #station 116 15 0.5 4 2
+# 112 117 1.5 317 +47 #station 117 2.2 1.6 3.1 3.2
+# 117 118 8.2 33 +10 #station 118 0.3 1 1.3 1.2
+# 118 119 8.8 0 -2 #station 119 2.4 0.2 0.7 0.9
+# 119 120 3.18 2 +60 #station 120 0.1 0.9 0.6 1.6
+# 120 121 6.5 13 -7 #station 121 0.7 0.2 2.2 0.7
+# 121 122 7.3 58 +9 #station 122 1.1 0.3 4.6 0.5
+# 122 123 7.3 0 +0 #station 123 2 2 0.8 1.4
+# 122 124 7.3 137 +40 #station 124 0.6 0.5 3 1
+# #continues from station 124 smaller
+# 123 125 2.4 234 -34 #station 125 1.6 0.7 0.6 1.6
+# 125 126 11 307 -42 #station 126 1 0 2.5 1.5
+# 117 127 11.8 291 -26 #station 127 1.7 0.7 3.2 3.7
+# 127 17 9.3 276 -37
+# 15 128 8.94 121 +31 #station 128 0.3 0 1.7 1.3
+# 15 129 16.79 163 +66
+# 16 130 1.5 125 -21 #station 130 0.6 0 0.5 0.7
+# 130 131 8.2 163 +34
+# *end c
+
+# *equate b.53 d.53
+# *equate b.55 d.55 e.55
+# *begin d
+# #hacienda Salinas (French cave).
+# #Ben Lovett book (diagrams),Simon Headford book (numbers) Rick Padfield instruments (SAP and Bosch disto)
+# #09/04/08
+# *data normal from to tape compass clino#station number up down left right
+# 53 150 3.6 175 +10 #station 150 0.6 0.8 2.1 2.4
+# 150 151 15 150 +15 #station 151 1.5 0.1 2.1 2
+# 151 152 10.3 180 +20 #station 152 3.5 1 2 4
+# 152 153 11.08 187 +28 #station 153 2.9 0.4 1.1 3.6
+# 153 154 7.89 203 +32 #station 154 0.3 1 1.1 5
+# 154 155 12.25 188 +21 #station 155 0.5 0.4 3.8 1
+# 155 156 10.13 112 +25 #station 156 0 1 0.5 1.5
+# 55 157 19.41 357 -22 #station 157 1.5 1 3 2
+# 157 158 10.08 5 -12 #station 158 0.5 0.3 4.2 2
+# 158 159 10.16 323 -13 #station 159 0.7 0.2 0.1 3.2
+# 159 160 12.98 34 0 #station 160 3.6 1.5 3.8 2.9
+# 160 161 2.02 328 +42 #station 161 1.5 1.5 3.9 8.3
+# 161 162 5.53 347 -14 #station 162 0.2 2 2.5 2.5
+# 162 163 16.68 320 -21 #station 163 1.7 0.4 3 2
+# *end d
+
+# *equate a.21 e.21
+# *equate d.163 e.163
+# *equate b.66 e.66
+
+# *begin e
+# #Simon Headford book, Rick Padfield instruments (SAP and Bosch disto)
+# #10/04/08
+# *data normal from to tape compass clino#station number up down left right
+# 21 200 9.41 186 +10 #station 200 1.3 1 1.9 2.7
+# 200 201 8.13 183 +8  #station 201 0.5 1.3 0 3
+# 201 202 10.49 269 -37 #station 202 0 1 5 13.4
+# 202 203 12.88 343 -12 #station 203 0.2 1.1 3.7 1.9
+# 203 204 7.43 330 -19 #station 204 0.4 0.5 0.6 4.2
+# 204 205 6.81 325 -24  #station 205 0.1 0.6 2 2
+# 202 206 6.94 251 -33 #station 206 0 0.5 4.3 1.9
+# 206 207 17.37 248 -17 #station 207 3.3 0.3 3 4
+# 207 208 23.74 162 +18
+# 208 209 0.46 77 -11 #station 209 0.7 2 4 2.5
+# 209 210 6.7 113 +24  #station 210 2.5 0.4 2.5 2
+# 210 211 14.87 100 +24 #station 211 1.9 1 2.6 2.1
+# 211 212 9.83 97 +25  #station 212 1 1 2 3.5
+# 212 213 16.43 115 +29  #station 213 0.2 1.1 1 1.5
+# 211 214 11.12 208 -6  #station 214 2 0.1 1.4 2.7
+# 214 215 4.79 187 +21 #station 215 0 1.4 1.8 2.7
+# 215 163 1.42 210 -59
+# 66 216 11.54 49 0  #station 216 1 0 1.9 0.7
+# 216 217 2.96 317 -17 #station 217 0.4 0 1 1.9
+# 217 218 3.37 301 +1 #station 218 1.5 0 0 1.2
+# 218 219 9.95 333 -19 #station 219 0.3 0.7 1.2 2.1
+# 219 220 6.7 31 -27 #station 220 2 0 2.3 0.5
+# 220 221 12.06 331 -17 #station 221 1.1 1.1 1.6 0.1
+# 221 222 6.74 323 -14  #station 222 1 1.8 0.6 2.3
+# 222 223 9.66 27 -30 #station 223 0.3 2 2.5 1.1
+# 223 224 14.41 16 -25 #station 224 4 1 1.8 3.6
+# 224 225 6.31 116 +31  #station 225 0.7 1.3 0.4 1.3
+# 225 226 16.29 146 +20  #station 226 1 1 2.5 1.2
+# 226 55 1.04 62 -21
+# *end e

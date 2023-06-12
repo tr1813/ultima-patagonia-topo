@@ -26,6 +26,8 @@ parser.add_argument(
 parser.add_argument("--out", help="Output path")
 parser.add_argument(
     "--therion-path", help="Path to therion binary", default="therion")
+parser.add_argument(
+    "--scale", help="Scale for the export", default="500")
 args = parser.parse_args()
 
 ENTRY_FILE = abspath(args.survey_file)
@@ -33,6 +35,7 @@ PROJECTION = args.projection
 TARGET = args.survey_selector
 OUTPUT = args.out
 FORMAT = args.format
+SCALE = args.scale
 
 if FORMAT not in ["th2", "plt"]:
     print("Error please choose a supported format: th2, plt")
@@ -49,7 +52,7 @@ if not survey:
 print("Compiling 2D XVI file")
 template = """source {th_file}
 layout test
-  scale 1 100
+  scale 1 {scale}
 endlayout
 
 select {selector}
@@ -60,7 +63,8 @@ template_args = {
     "th_file": ENTRY_FILE.replace("\\", "/"),
     "projection": PROJECTION,
     "selector": survey.therion_id,
-    "th_name": ENTRY_FILE.split("/")[-1].strip(".th")
+    "th_name": ENTRY_FILE.split("/")[-1].strip(".th"),
+    "scale": SCALE
     # tmpdir provided in compile_template
 }
 log, tmpdir = compile_template(

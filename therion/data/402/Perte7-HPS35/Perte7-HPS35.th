@@ -1,0 +1,30 @@
+survey Perte7-HPS35 -title "Perte 7 du glacier HPS35" \
+                        -attr cad_num 402005 \
+                        -attr exped UP2023 \
+                        -entrance TOP 
+
+
+    input Perte7-HPS35-e.th2
+
+    centreline
+
+			team "Bernard Tourte"
+			explo-team "Centre Terre"
+
+        	units length meters
+        	units compass clino degrees
+        	data normal from to tape compass clino
+            # estimé a partir du croquis
+        	TOP 1 25 0 DOWN 
+            1 2 10 0 0
+            2 3 30 0 DOWN 
+            3 4 10 0 0 
+            4 5 20 0 DOWN
+            5 SUMP 20 0 0
+
+    endcentreline
+   
+   map m-all-e -projection extended 
+		Perte7-HPS35-1e
+	endmap
+endsurvey 

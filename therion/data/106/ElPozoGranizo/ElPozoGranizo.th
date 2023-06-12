@@ -1,20 +1,25 @@
-survey ElPozoGranizo -title 'El Pozo Granizo' \
-            -attr cadnum 106059 \
-            -attr exped UP2023
+survey ElPozoGranizo -title "El Pozo Granizo" \
+            -attr cad_num 106059 \
+            -attr exped UP2023 \
+			-attr plongee "non" \
+			-attr paleo "non" \
+			-attr archeo "non" \
+			-entrance 0
 
             
         	centreline
         		cs epsg:32718
         		#fix ENT 487642.0 4450792.0 281
 
-        	#explo-date UP2023
-        	#team "Katia, Clement, Denis"
+        	explo-date 2023.02.25
+        	team "Kateryna" 
+			team "Clément Chapus"
+			team "Denis Morales"
         
         	units length meters
         	 units compass clino degrees
         	data normal from to tape compass clino
-        	#<RENSEIGNER LES DONNEES ICI>
-
+			0 BOTTOM 80 - DOWN
         	endcentreline
 
         endsurvey

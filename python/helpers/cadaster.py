@@ -18,6 +18,8 @@ class Expedition(str, Enum):
     UP2017 = "UP2017"
     UP2019 = "UP2019"
     UP2023 = "UP2023"
+    ENG08 = "ENG08"
+    ITA08 = "ITA08"
     unknown = "unknown"
 
 def assignExpedition(name: str) -> Expedition:
@@ -37,6 +39,8 @@ class Cave:
     exped : Expedition
     comment : str
     altitude : str
+    carto : str
+    explo_status : int 
     _index : int 
     coordinates : coordinatePairUTM = coordinatePairUTM(x=-999.,y=-999.)
     name : str = "undefined"
@@ -211,7 +215,9 @@ class CaveCadaster:
             cave.explorers,
             cave.exped,
             f"{cave.coordinates._orig_lat:.7f}",
-            f"{cave.coordinates._orig_long:.7f}"
+            f"{cave.coordinates._orig_long:.7f}",
+            cave.carto,
+            cave.explo_status
             ]
 
             lines.append(line)
@@ -229,7 +235,10 @@ class CaveCadaster:
         'explorers',
         'exped',
         'latitude',
-        'longitude']
+        'longitude',
+        'carto',
+        'explo_status'
+        ]
 
         return pd.DataFrame(lines,columns=cols)
     
@@ -258,6 +267,8 @@ def generate_entry_from_file(df: pd.DataFrame, row: int) -> Cave:
         explorers= line.explorers,
         length= line.length,
         depth= line.depth,
+        carto=line.carto,
+        explo_status=line.explo_status,
         _index = row
     ) # type: ignore
     return cave

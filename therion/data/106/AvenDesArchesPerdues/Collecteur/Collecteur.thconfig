@@ -1,0 +1,15 @@
+encoding  utf-8
+# 2023.02.23 created by TopoDroid v 5.1.40
+
+source "../th/Collecteur.th"
+
+layout local
+  legend on
+  symbol-hide group centerline
+  symbol-show point station
+  debug station-names
+endlayout
+
+export map -layout local -o Collecteur-p.pdf -proj plan 
+
+export map -layout local -o Collecteur-s.pdf -proj extended

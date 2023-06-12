@@ -1,0 +1,14 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 76.09m (surface 0.00m, duplicated 0.00m)\nvertical range: 13.24m (from 13@PorcheEden at 13.08m to 20@PorcheEden at -0.16m)\nnorth-south range: 11.20m (from 6@PorcheEden at 7.60m to 15@PorcheEden at -3.60m)\neast-west range: 16.95m (from 0@PorcheEden at 0.00m to 12@PorcheEden at -16.95m)\nnumber of shots: 180\nnumber of stations: 181"
+xth_cp_data_tree_insert 20 1 1 PorcheEden PorcheEden "Porche Eden" "Porche Eden" "length: 76.09m (surface 0.00m, duplicated 0.00m)\nvertical range: 13.24m (from 13@PorcheEden at 13.08m to 20@PorcheEden at -0.16m)\nnorth-south range: 11.20m (from 6@PorcheEden at 7.60m to 15@PorcheEden at -3.60m)\neast-west range: 16.95m (from 0@PorcheEden at 0.00m to 12@PorcheEden at -16.95m)\nnumber of shots: 180\nnumber of stations: 181"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert projection 0 p2 {} 0 extended {} {} {}
+xth_cp_map_tree_insert map 1 247X1 p2 1 m-all-s m-all-s@PorcheEden "" ""
+xth_cp_map_tree_insert map 1 248X1 p1 1 m-all-p m-all-p@PorcheEden "" ""
+xth_cp_map_tree_create
+xth_cp_comp_stat 76 2
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1677772837
+

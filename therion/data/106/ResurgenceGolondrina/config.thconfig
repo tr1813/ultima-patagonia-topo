@@ -1,0 +1,8 @@
+source ResurgenceGolondrina.th
+
+
+layout local 
+    colour map-fg [90 95 0]
+endlayout
+export map -o outputs/ResurgenceGolondrina-plan.xvi -layout-debug station-names -layout local
+export map -o outputs/ResurgenceGolondrina-ee.xvi -layout-debug station-names -layout local -projection extended

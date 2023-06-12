@@ -236,6 +236,65 @@ layout custom_lines
     	  thdraw Path withcolor (0,0.7,0.9) dashed evenly scaled (1*optical_zoom);
     	enddef;
 
+
+		 % store the original clean_legend_box
+  boolean l_rope_MY_inlegend;
+  l_rope_MY_inlegend:=false;
+  let l_rope_MY_legend_box = clean_legend_box;
+  % redefine clean_legend_box to store the flag, then run the original
+  def clean_legend_box =
+    l_rope_MY_inlegend:=true;
+    l_rope_MY_legend_box;
+  enddef;
+
+  def l_rope(expr P, show_anchors, show_rebelays)=
+    T:=identity;
+    pickup PenB;
+    if l_rope_MY_inlegend:
+      % drawing the legend - this gets run twice, since Therion draws two ropes, one for each parameter
+      if show_rebelays:
+        thdraw ((.35,.9) -- (.4,.85) -- (.4,.5) .. controls (.4,.4) and (.45,.4) .. (.5,.5) -- (.55,.45) -- (.55,.1)) inscale;
+        thdraw ((.4,.85) -- (.45,.9)) inscale;
+        thdraw ((.55,.45) -- (.6,.5)) inscale;
+        thfill fullcircle scaled .15u shifted ((.35,.9) inscale);
+        thfill fullcircle scaled .15u shifted ((.45,.9) inscale);
+        thfill fullcircle scaled .15u shifted ((.5,.5) inscale);
+        thfill fullcircle scaled .15u shifted ((.6,.5) inscale);
+      fi;
+    else:
+      begingroup;
+        save type;
+        string type;
+        if known ATTR_type:
+          type:=ATTR_type;
+        else:
+          type:="primary";
+        fi;
+        if type = "secondary":
+          thdraw P withcolor (0.7, 0.7, 0.7);
+        else:
+          thdraw P;
+        fi;
+      endgroup;
+    fi;
+  	enddef;
+
+	def l_u_deviation (expr P) =
+    begingroup;
+      save ellipse;
+      T:=identity;
+      pickup PenC;
+      path ellipse;
+      ellipse:=fullcircle xscaled (.5u) yscaled (.25u) shifted (point (length P) of P);
+      thdraw P cutafter ellipse;
+      draw ellipse;
+    endgroup;
+  enddef;
+  initsymbol("l_u_deviation");
+  def l_u_deviation_legend =
+    l_u_deviation(((.1,.5)--(.8,.5)) inscale);
+  enddef;
+
     	# thin grey line
     	def l_u_texture (expr P)=
     	  T:=identity;
@@ -426,10 +485,10 @@ layout custom_lines
 				initsymbol("l_floorstep_MY");
 
 
-    	def l_u_wallbigpit (expr P) =
+		 def l_u_wallbigpit (expr P) =
     	   T:=identity;
     	   laenge:= arclength P;
-    	   symsize:=adjust_step(laenge,0.5u);
+    	   symsize:=adjust_step(laenge,0.2u);
     	   ministep:=symsize/5;
     	   cur:=0;
     	   pickup PenC;
@@ -442,27 +501,27 @@ layout custom_lines
     	     t5 := arctime (cur+5*ministep) of P;
 
     	     thclean (subpath (t5,t0) of P) -- ((point t0 of P) + symsize/2 * unitvector(thdir(P,t0) rotated 90)) ..
-    	     ((point t1 of P) + symsize/4 * unitvector(thdir(P,t1) rotated 90)) ..
-    	     ((point t2 of P) + symsize/4 * unitvector(thdir(P,t2) rotated 90)) ..
-    	     ((point t3a of P) + symsize/4 * unitvector(thdir(P,t3a) rotated 90)) ..
-    	     ((point t4 of P) + symsize/4 * unitvector(thdir(P,t4) rotated 90)) ..
-    	     ((point t5 of P) + symsize/4 * unitvector(thdir(P,t5) rotated 90))--cycle;
+    	     ((point t1 of P) + symsize/2 * unitvector(thdir(P,t1) rotated 90)) ..
+    	     ((point t2 of P) + symsize/2 * unitvector(thdir(P,t2) rotated 90)) ..
+    	     ((point t3a of P) + symsize/2 * unitvector(thdir(P,t3a) rotated 90)) ..
+    	     ((point t4 of P) + symsize/2 * unitvector(thdir(P,t4) rotated 90)) ..
+    	     ((point t5 of P) + symsize/2 * unitvector(thdir(P,t5) rotated 90))--cycle;
 
-    	     thdraw ((point t0 of P) + symsize/4 * unitvector(thdir(P,t0) rotated 90)) ..
-    	     ((point t1 of P) + symsize/4 * unitvector(thdir(P,t1) rotated 90)) ..
-    	     ((point t2 of P) + symsize/4 * unitvector(thdir(P,t2) rotated 90)) ..
-    	     ((point t3a of P) + symsize/4 * unitvector(thdir(P,t3a) rotated 90)) ..
-    	     ((point t4 of P) + symsize/4 * unitvector(thdir(P,t4) rotated 90)) ..
-    	     ((point t5 of P) + symsize/4 * unitvector(thdir(P,t5) rotated 90));
+    	     thdraw ((point t0 of P) + 3*symsize/5 * unitvector(thdir(P,t0) rotated 90)) ..
+    	     ((point t1 of P) + 3*symsize/5 * unitvector(thdir(P,t1) rotated 90)) ..
+    	     ((point t2 of P) + 3*symsize/5 * unitvector(thdir(P,t2) rotated 90)) ..
+    	     ((point t3a of P) + 3*symsize/5 * unitvector(thdir(P,t3a) rotated 90)) ..
+    	     ((point t4 of P) + 3*symsize/5 * unitvector(thdir(P,t4) rotated 90)) ..
+    	     ((point t5 of P) + 3*symsize/5 * unitvector(thdir(P,t5) rotated 90));
 
-    	     thfill ((point t2 of P) + symsize/4 * unitvector(thdir(P,t2) rotated 90)) --
-    	     ((point t3a of P) + 3/4*symsize * unitvector(thdir(P,t3a) rotated 90)) --
-    	     ((point t4 of P) + symsize/4 * unitvector(thdir(P,t4) rotated 90)) ..
-    	     ((point t3a of P) + symsize/4 * unitvector(thdir(P,t3a) rotated 90)) .. cycle withpen PenC;
+    	     thfill ((point t2 of P) + 3*symsize/5 * unitvector(thdir(P,t2) rotated 90)) --
+    	     ((point t3a of P) + symsize * unitvector(thdir(P,t3a) rotated 90)) --
+    	     ((point t4 of P) + 3*symsize/5 * unitvector(thdir(P,t4) rotated 90)) ..
+    	     ((point t3a of P) + 3*symsize/5 * unitvector(thdir(P,t3a) rotated 90)) .. cycle withpen PenD;
 
-    	     thdraw ((point t2 of P) + symsize/4 * unitvector(thdir(P,t2) rotated 90)) --
-    	     ((point t3a of P) + 3/4*symsize * unitvector(thdir(P,t3a) rotated 90)) --
-    	     ((point t4 of P) + symsize/4 * unitvector(thdir(P,t4) rotated 90)) withpen PenC;
+    	     #thdraw ((point t2 of P) + symsize/2 * unitvector(thdir(P,t2) rotated 90)) --
+    	    #((point t3a of P) + symsize * unitvector(thdir(P,t3a) rotated 90)) --
+    	     #((point t4 of P) + symsize/2 * unitvector(thdir(P,t4) rotated 90)) withpen PenD;
 
     	     cur := cur + symsize;
     	     exitif cur > laenge - (1*symsize/3); % for rounding errors
@@ -539,9 +598,54 @@ layout custom_lines
     	    thdraw P withcolor (0, 0.7,0.9);
     	  enddef;
 
+		  
+def l_waterflow_permanent_MY (expr Path) =
+  path ppp;
+  T:=identity;
+  cas := 0;
+  dlzka := arclength Path;
+  mojkrok:=adjust_step(dlzka, 0.5u);
+    pickup PenD;
+    vardef azim = 50 + 15*normaldeviate enddef;
+    az1 := azim;
+    sgn := 1;
+    ppp := point 0 of Path;
+    forever:
+        t1 := arctime cas of Path;
+        t2 := arctime (cas+mojkrok) of Path;
+        if cas+1.1*mojkrok > dlzka:
+            az2 := 0;
+        else:
+            az2 := azim;
+        fi;
+        d1 := angle(thdir(Path,t1)) + sgn * az1;
+        d2 := angle(thdir(Path,t2)) - sgn * az2;
+        ppp := ppp & (point t1 of Path){dir d1} .. {dir d2}(point t2 of Path);
+        az1 := az2;
+        sgn := -1 * sgn;
+        cas := cas + mojkrok;
+        exitif cas > dlzka + mojkrok/3;     % for rounding errors
+    endfor;
+%    drawarrow ppp;
+    thdraw ppp;
+    thdrawoptions();
+    oldahlength:=ahlength;
+    ahlength:=ahlength*optical_zoom;
+	laength:= arclength ppp;
+	anchr:= arctime (laength-0.1*mojkrok) of ppp;
+	
+	%thdraw (point anchr of ppp) -- (0,0);
+	%d1 := unitvector(thdir(Path,(point anchr of Path)));
+	thdraw (point anchr of ppp + (2*unitvector(thdir(ppp,anchr))) ) -- ((point anchr of ppp) + (0.66*unitvector(thdir(ppp,anchr)) rotated 90))--((point anchr of ppp) + (0.66*unitvector(thdir(ppp,anchr)) rotated -90))--cycle;
+   thfill (point anchr of ppp + (2*unitvector(thdir(ppp,anchr))) ) -- ((point anchr of ppp) + (0.66*unitvector(thdir(ppp,anchr)) rotated 90))--((point anchr of ppp) + (0.66*unitvector(thdir(ppp,anchr)) rotated -90))--cycle;
+    ahlength:=oldahlength;
+enddef;
+
 		# initialise new line symbols
+		initsymbol("l_waterflow_permanent_MY")
 	    initsymbol("l_u_overlay_MY");
 	    initsymbol("l_u_mine_MY");
+		initsymbol("l_u_deviation_MY");
 	    initsymbol("l_u_underlay_MY");
 	    initsymbol("l_u_fault");
 	    initsymbol("l_u_icestep_MY");

@@ -21,7 +21,7 @@ layout detailed-p
   legend on
   map-header -5 95 ne
   statistics topo-length off
-  fonts-setup 6 7 10 12 14
+  fonts-setup 6 7 12 14 72
   symbol-hide point label
 
 
@@ -39,8 +39,11 @@ layout detailed-p
 
   symbol-assign area water MY
   symbol-assign area sump MY
-  symbol-colour point water-flow [0 10 70]
-  symbol-colour line water-flow [0 10 70]
+  symbol-colour point water-flow [0 57 100]
+  symbol-colour line water-flow [0 57 100]
+  symbol-colour point spring [0 57 100]
+  symbol-colour point sink [0 57 100]
+
   symbol-assign point anchor MY
   ## formations
   symbol-assign point stalagmite MY
@@ -68,7 +71,8 @@ layout detailed-p
   symbol-colour area clay [65 55 10]
   symbol-colour line wall:clay [65 55 10]
   #symbol-colour area sand [85 75 10]
-  symbol-colour line water-flow [0 10 70]
+  symbol-assign point water-flow MY
+  symbol-assign line water-flow MY
 
   ## misc
   symbol-assign point gradient MY
@@ -76,7 +80,6 @@ layout detailed-p
   symbol-assign line pit MY
   symbol-assign line floor-step MY
   symbol-assign line wall MY
-  symbol-assign point breakdown-choke AUT
   symbol-assign point air-draught MY
   symbol-assign point station:fixed MY
   symbol-assign point station:temporary MY

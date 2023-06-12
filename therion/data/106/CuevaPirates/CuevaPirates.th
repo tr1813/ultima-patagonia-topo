@@ -3,19 +3,26 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 
 	#
 	# ON RAJOUTE ICI LES NOUVELLES DONNEES
-	input Anglais2008/Anglais2008.th
-	input PiratesJonction/PiratesJonction.th
-	input DodgyPlumbingResurvey/DodgyPlumbingResurvey.th
-	input Ascension/Ascension.th
-	input PrioriteADroite/PrioriteADroite.th
-	input SalinasNew4/SalinasNew4.th
-	input SalinasNew3/SalinasNew3.th
-	input SalinasNew5/SalinasNew5.th
-	input PinceMi/PinceMi.th
-	input UnCaillouDansLaCulotte/UnCaillouDansLaCulotte.th
-	input Pirates2008/Pirates2008.th
-	input Girafe/Girafe.th
-	input SiphonAmont/SiphonAmont.th
+	input 2008/Anglais2008/Anglais2008.th
+	input 2008/Pirates2008/Pirates2008.th
+
+	input 2023/PiratesJonction/PiratesJonction.th
+	input 2023/DodgyPlumbingResurvey/DodgyPlumbingResurvey.th
+	input 2023/Ascension/Ascension.th
+	input 2023/PrioriteADroite/PrioriteADroite.th
+	input 2023/SalinasNew4/SalinasNew4.th
+	input 2023/SalinasNew3/SalinasNew3.th
+	input 2023/SalinasNew5/SalinasNew5.th
+	input 2023/PinceMi/PinceMi.th
+	input 2023/UnCaillouDansLaCulotte/UnCaillouDansLaCulotte.th
+	input 2023/Girafe/Girafe.th
+	input 2023/SiphonAmont/SiphonAmont.th
+	input 2023/GalerieDesLombrics/GalerieDesLombrics.th
+	input 2023/PincemiBoucle/PincemiBoucle.th
+	input 2023/PincemiActif/PincemiActif.th
+	input 2023/Pincemi2/Pincemi2.th
+	input 2023/Rhinalto/Rhinalto.th
+	input 2023/Actif0303/Actif0303.th
 
 	input CuevaPirates-e.th2
 
@@ -52,8 +59,20 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 	equate 86@b.Anglais2008 0@UnCaillouDansLaCulotte
 	equate 66@b.Anglais2008 1@Girafe
 
-	equate 9@SiphonAmont 6@DodgyPlumbingResurvey
+	equate 163@PrioriteADroite a1@GalerieDesLombrics
+	equate a50@GalerieDesLombrics 6@PrioriteADroite
+	equate 207@GalerieDesLombrics 207@DodgyPlumbingResurvey
 
+	equate 9@SiphonAmont 6@DodgyPlumbingResurvey
+	equate 74@b.Anglais2008 74@PincemiBoucle
+	equate 37@PincemiBoucle 11@UnCaillouDansLaCulotte
+	equate 5@PincemiBoucle 25@PrioriteADroite
+	equate 15@UnCaillouDansLaCulotte 1@PincemiActif 
+	equate 10@PinceMi 13@PincemiActif
+	equate 1@Pincemi2 20@PinceMi
+	equate 117@c.Anglais2008 31@Rhinalto
+	equate 12@PincemiBoucle 38@Actif0303
+	equate 23@PincemiBoucle 0@Actif0303
 
  	join UnCaillouDansLaCulotte-1p@UnCaillouDansLaCulotte waterworld-p@Anglais2008
 	join entrance-p@Anglais2008 sumpofdoom-p@Anglais2008
@@ -77,6 +96,52 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 	join PrioriteADroite-1p@PrioriteADroite muddyhollows-p@Anglais2008
 	join stalchamber-p@Anglais2008 SalinasNew2-1p@Ascension
 	join PiratesJonction-2p@PiratesJonction SalinasNew4-1p@SalinasNew4
+	join PincemiActif-1p@PincemiActif PinceMi-1p@PinceMi
+	join UnCaillouDansLaCulotte-1p@UnCaillouDansLaCulotte PincemiActif-1p@PincemiActif
+	join PinceMi-1p@PinceMi Pincemi2-plan1p@Pincemi2
+	join Pincemiboucle-siphon-p@PincemiBoucle UnCaillouDansLaCulotte-1p@UnCaillouDansLaCulotte
+	join s2_l1@PincemiBoucle siphon_l1@PincemiBoucle
+	join s2_l2@PincemiBoucle siphon_l2@PincemiBoucle
+	join Actif0303-2p@Actif0303 Pincemiboucle-1p@PincemiBoucle
+	join PrioriteADroite-3p@PrioriteADroite Pincemiboucle-1p@PincemiBoucle
+	join waterworld-p@Anglais2008 Pincemiboucle-1p@PincemiBoucle
+	join SiphonAmont-1p@SiphonAmont DodgyPlumbingResurvey-1p@DodgyPlumbingResurvey
+	join whiterhino-p@Anglais2008 Rhinalto-1p@Rhinalto
+
+	# sump of doom area joins
+	join doom_l1@Anglais2008 doom_l1@GalerieDesLombrics
+	join doom_l2@Anglais2008:end doom_l2@GalerieDesLombrics:0
+	join doom_l2@Anglais2008:0 doom_l2@GalerieDesLombrics:end
+	join doom_l3@Anglais2008:end doom_l3@GalerieDesLombrics:0
+	join doom_l3@Anglais2008:0 doom_l3@GalerieDesLombrics:end
+	#join doom_l4@Anglais2008:end doom_l4@GalerieDesLombrics:0
+	join doom_l4@Anglais2008:0 doom_l4@GalerieDesLombrics:end
+	#join doom_l5@Anglais2008 doom_l5@GalerieDesLombrics
+	join s1_l1@PrioriteADroite s2_l1@GalerieDesLombrics
+	join s1_l2@PrioriteADroite s2_l2@GalerieDesLombrics
+
+	join muddyhollows2_l1@Anglais2008 muddyhollows1_l1@Anglais2008
+	join muddyhollows1_l2@Anglais2008 muddyhollows2_l2@Anglais2008
+
+
+	## Extended elevation joins 
+
+	join GalerieDesLombrics-3e@GalerieDesLombrics PrioriteADroite-1e@PrioriteADroite
+	join PrioriteADroite-1e@PrioriteADroite CuevaPirates-jonctions-3 
+	join CuevaPirates-jonctions-2 CuevaPirates-sumpofdoom
+	join UnCaillouDansLaCulotte-1s@UnCaillouDansLaCulotte CuevaPirates-Waterworld
+	join CuevaPirates-Waterworld CuevaPirates-stalchamber
+	join CuevaPirates-muddyhollows-2 CuevaPirates-muddyhollows-3
+	join CuevaPirates-new3 CuevaPirates-cairn-chamber
+	join CuevaPirates-entree CuevaPirates-cairn-chamber
+	join PincemiBoucle-1e@PincemiBoucle CuevaPirates-stalchamber
+	join PincemiActif-1e@PincemiActif CuevaPirates-PinceMi
+	join CuevaPirates-stalchamber CuevaPirates-PinceMi
+	join Actif0303-2e@Actif0303 PincemiBoucle-1e@PincemiBoucle
+	join CuevaPirates-dodgyplumbing CuevaPirates-sumpofdoom
+	join Actif0303-1e@Actif0303 PincemiBoucle-1e@PincemiBoucle
+	join UnCaillouDansLaCulotte-2s@UnCaillouDansLaCulotte PincemiActif-1e@PincemiActif
+
 
 	centreline 
 		extend start 32@Pirates2008
@@ -129,8 +194,14 @@ survey CuevaPirates -title "Cueva de Pirates" -entrance 44@a.Anglais2008 -attr c
 		extend left 17@c.Anglais2008 90@b.Anglais2008
 		extend left 17@a.Anglais2008 18@a.Anglais2008
 		extend left 90@b.Anglais2008
-
-
+		#extend ignore 1@PincemiActif
+		extend ignore 1@UnCaillouDansLaCulotte
+		extend ignore 163@PrioriteADroite
+		extend ignore 38@Actif0303
+		extend ignore a36@GalerieDesLombrics
+		extend right 13@PincemiActif 12@PincemiActif
+		extend right 12@PincemiActif
+		extend right 150@d.Anglais2008
 	endcentreline
 
 map m-old-p -projection plan
@@ -156,6 +227,7 @@ map m-old-p -projection plan
 endmap
 
 map m-all-p -projection plan 
+	m-all-p@Rhinalto
 	m-all-p@Pirates2008
 	m-old-p
 	m-all-p@Ascension
@@ -167,20 +239,36 @@ map m-all-p -projection plan
 	m-all-p@PrioriteADroite
 	m-all-p@UnCaillouDansLaCulotte
 	m-all-p@Girafe
-	SiphonAmont
+	m-all-p@GalerieDesLombrics
+	m-all-p@PincemiActif
+	m-all-p@PincemiBoucle
+	m-all-p@Pincemi2
+	m-all-p@Actif0303
+	m-all-p@SiphonAmont
 endmap
 
 map m-all-e -projection extended
+	Rhinalto-1e@Rhinalto
+	break
+	CuevaPirates-PinceMi
+	Pincemi2-1e@Pincemi2
+	break
 	PrioriteADroite-1e@PrioriteADroite
+	GalerieDesLombrics-1e@GalerieDesLombrics
+    GalerieDesLombrics-2e@GalerieDesLombrics
+	GalerieDesLombrics-3e@GalerieDesLombrics
+	break
 	CuevaPirates-jonctions-3
 	CuevaPirates-jonctions-2
 	break
 	CuevaPirates-jonctions
 	break
+
 	CuevaPirates-sumpofdoom
 	break
 	CuevaPirates-entree
 	break
+	
 	CuevaPirates-cairn-chamber
 	CuevaPirates-new5
 	CuevaPirates-new3
@@ -196,12 +284,22 @@ map m-all-e -projection extended
 	break
 	CuevaPirates-whiterhino-1
 	CuevaPirates-dodgyplumbing
-	CuevaPirates-girafe
-	CuevaPirates-PinceMi
+	Girafe-1e@Girafe
+	Girafe-2e@Girafe
 	CuevaPirates-stalchamber
-	CuevaPirates-CaillouDansLaCulotte
+	UnCaillouDansLaCulotte-1s@UnCaillouDansLaCulotte
+	UnCaillouDansLaCulotte-2s@UnCaillouDansLaCulotte
 	break
 	CuevaPirates-Waterworld 
+	PincemiBoucle-1e@PincemiBoucle
+	break
+	PincemiActif-1e@PincemiActif
+	break
+	Actif0303-1e@Actif0303
+	break
+	Actif0303-2e@Actif0303
+
+	SiphonAmont-1e@SiphonAmont
 endmap
 	
 endsurvey

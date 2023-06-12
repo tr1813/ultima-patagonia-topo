@@ -1,21 +1,44 @@
-survey PerteDeRascarcapac -title 'Perte de Rascarcapac' \
-            -attr cadnum 402010 \
-            -attr exped UP2023
+survey PerteDeRascarcapac -title "Perte de Rascar-capak" \
+            -attr cad_num 402010 \
+            -attr exped UP2023 \ 
+			-entrance top
 
-            
         	centreline
         		cs epsg:32718
         		#fix ENT 600721.0 4383564.0 491.8
-
-        	#explo-date UP2023
-        	#team "Tanguy Arnauld Lolo"
-        
+			declination 0 degrees
+        	explo-date 2023.02.03
+			date 2023.02.03
+            explo-team "Tanguy Racine"
+			explo-team "Arnauld Malard"
+			explo-team  "Laurence [Boudoux d'Hautefeuille]"
+			explo-team "Charlotte Honiat"
+			team "Tanguy Racine" insts
+			team "Charlotte Honiat" notes
+			#station top "" continuation explored "65 m"
         	units length meters
         	 units compass clino degrees
         	data normal from to tape compass clino
-        	#<RENSEIGNER LES DONNEES ICI>
-
+			extend right
+        	bottom 1 5 150 45 
+			1 2 7 160 20
+			2 3 6 150 UP
+			3 4 20 130 80
+			4 5 20 165 65
+			5 top 5 190 80 
         	endcentreline
 
+			input PerteDeRascarcapac-p.th2
+			input PerteDeRascarcapac-e.th2
+
+			map m-all-p -projection plan 
+				PerteDeRascarcapac-1p
+				break
+				PerteDeRascarcapac-2p
+			endmap 
+
+			map m-all-e -projection extended 
+				PerteDeRascarcapac-1e
+			endmap
         endsurvey
         

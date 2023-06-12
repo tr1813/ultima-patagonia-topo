@@ -1,0 +1,32 @@
+
+## a survey compiled from Visual Topo Data using the visual_therion.py script
+
+survey Reveeveille  -title "Rêve éveillé" \
+                    -attr cad_num 106064 \
+                    -attr exped UP2023 \
+			        -entrance 0@CPF
+
+    input CPF/CPF.th
+    input cpff/cpff.th
+    input Suite/Suite.th
+ 
+
+    equate 7@CPF 48@cpff
+    equate 0@cpff 0@Suite
+
+    map m-all-p -projection plan 
+    
+        m-CPF-p@CPF 
+        m-cpff-p@cpff
+        m-Suite-p@Suite
+        
+    endmap
+    map m-all-s -projection extended
+
+        m-CPF-s@CPF
+        m-cpff-s@cpff
+        m-Suite-s@Suite
+
+    endmap
+
+endsurvey

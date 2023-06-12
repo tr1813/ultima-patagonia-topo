@@ -1,0 +1,119 @@
+encoding  utf-8
+
+## a survey compiled from Visual Topo Data using the visual_therion.py script
+
+survey ResurgencePirate -title "Résurgence des Pirates" \
+            -attr cad_num 106067 \
+            -attr exped UP2023 \ 
+            -entrance 0
+
+    centreline
+    
+        explo-date 2023.02.16
+        date 2023.02.16
+
+        team "Franck Bréhier"
+        team "Jérémie [Prieur-Drévon]"
+        team "Clément Chaput"
+        
+    data diving from to tape compass fromdepth todepth 
+        
+        0	1	    5.00	250.00	0    -4.20
+        1	2	    15.00	250.00	-4.20  -12.30
+        2	3	    5.00	235.00	-12.30  -15.70
+        3	4	    9.00	310.00	-15.70  -18.40
+        4	5	    4.00	220.00	-18.40  -22.30
+        5	6	    7.00	210.00	-22.30  -25.70
+        6	7	    10.00	230.00	-25.70  -26.70
+        7	8	    10.00	230.00	-26.70  -26.60
+        8	9	    20.00	255.00	-26.60  -21.50
+        9	10	    11.00	210.00	-21.50  -17.80
+        10	11	    5.00	240.00	-17.80  -15.70
+        11	12	    12.00	220.00	-15.70  -9.90
+        12	13	    4.00	190.00	-9.90  -8.30
+        13	14	    10.00	220.00	-8.30  -7.00
+        14	15	    3.00	240.00	-7.00  -6.30
+        15	16	    5.00	210.00	-6.30  -5.10
+        16	17	    10.00	165.00	-5.10  -3.20
+        17	18	    10.00	150.00	-3.20  0.00
+
+
+    data dimensions station left right up down 
+        
+    
+        1    0.00	1.50	0.50	0.50
+        2    2.00	0.50	1.00	0.00
+        3    1.50	0.50	1.00	0.00
+        4    1.50	0.50	1.00	0.00
+        5    0.00	1.00	2.00	0.00
+        6    0.00	2.00	1.00	0.00
+        7    1.00	2.00	0.60	0.00
+        8    0.00	2.00	1.00	0.00
+        9    2.00	3.00	1.00	0.00
+        10   1.00	1.00	1.50	0.00
+        11   1.00	1.00	1.50	0.00
+        12   2.00	2.00	1.00	0.00
+        13   2.00	2.00	2.00	0.00
+        14   2.00	2.00	2.00	0.00
+        15   2.00	2.00	2.00	0.00
+        16   2.00	2.00	2.00	0.00
+        17   2.00	2.00	2.00	0.00
+        18   2.00	2.00	2.00	0.00
+
+    data normal from to compass clino tape  
+    1   .   -   UP  0.5
+    1   .   -   DOWN    0.5
+    2   .   -   UP  1.0
+    2   .   -   DOWN    0
+    3   .   -   UP  1.0
+    3   .   -   DOWN    0
+    4   .   -   UP  1.0
+    4   .   -   DOWN    0
+    5   .   -   UP  2.0
+    5   .   -   DOWN 0
+    6   .   -   UP  1.0 
+    6   .   -   DOWN 0.0
+    7   .   -   UP 0.6
+    7   .   -   DOWN 0
+    8   .   -   UP  1.0
+    8   .   -   DOWN    0
+    9   .   -   UP  1.0
+    9   .   -   DOWN     0
+    10   .   -   UP     1.5
+    10   .   -   DOWN   0 
+    11   .   -   UP     1.5
+    11   .   -   DOWN   0
+    12   .   -   UP     1
+    12   .   -   DOWN   0
+    13   .   -   UP     2
+    13   .   -   DOWN   0
+    14   .   -   UP     2
+    14   .   -   DOWN   0
+    15   .   -   UP     2
+    15   .   -   DOWN   0
+    16   .   -   UP     2
+    16   .   -   DOWN   0
+    17   .   -   UP     2
+    17   .   -   DOWN   0
+    18   .   -   UP     2
+    18   .   -   DOWN   0
+
+
+
+        
+
+    endcentreline
+
+    input ResurgencePirate-p.th2
+
+    map m-all-p -projection plan 
+        ResurgencePirate-1p
+    endmap
+
+input ResurgencePirate-e.th2
+
+    map m-all-e -projection extended
+        ResurgencePirate-1e
+    endmap
+endsurvey
+

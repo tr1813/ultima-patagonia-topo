@@ -1,0 +1,11 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 437.20m (surface 0.00m, duplicated 0.00m)\nvertical range: 104.92m (from 71@no_time at 99.84m to 6@no_time at -5.08m)\nnorth-south range: 202.62m (from 6@no_time at 10.69m to 71@no_time at -191.93m)\neast-west range: 162.12m (from 0@no_time at 0.00m to 57@no_time at -162.12m)\nnumber of shots: 912\nnumber of stations: 913"
+xth_cp_data_tree_insert 19 1 1 no_time no_time "no time" "no time" "length: 437.20m (surface 0.00m, duplicated 0.00m)\nvertical range: 104.92m (from 71@no_time at 99.84m to 6@no_time at -5.08m)\nnorth-south range: 202.62m (from 6@no_time at 10.69m to 71@no_time at -191.93m)\neast-west range: 162.12m (from 0@no_time at 0.00m to 57@no_time at -162.12m)\nnumber of shots: 912\nnumber of stations: 913"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_create
+xth_cp_comp_stat 437 1
+set xth(th_exit_state) 1
+set xth(th_exit_number) 1678240778
+

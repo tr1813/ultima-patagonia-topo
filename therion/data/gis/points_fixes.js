@@ -28,71 +28,9 @@ var pointsFixes =
         "_CAD_NUM": "101001",
         "_CAVENAME": "Abri",
         "_ALTITUDE": "2",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/101/Abri2/Abri2.html"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.33199649383285,
-          -50.10769851810448
-        ]
-      },
-      "properties": {
-        "_ID": 2,
-        "_UID": 2,
-        "_NAME": "ENT_102001",
-        "_SURVEY": "102.UltimaPatagonia",
-        "_SURFACE": 1,
-        "_FIXED": 1,
-        "_ENTRANCE": 0,
-        "_CONTINUA_": 0,
-        "_COMMENT": "Porche",
-        "_LENGTH": "nan",
-        "_DEPTH": "nan",
-        "_LENGTH_TH": "NaN",
-        "_DEPTH_TH": "NaN",
-        "_CAD_NUM": "102001",
-        "_CAVENAME": "Porche",
-        "_ALTITUDE": "30",
-        "_EXPED": "2008",
-        "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/102/Porche/Porche.html"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.3527554567977,
-          -50.08942459949925
-        ]
-      },
-      "properties": {
-        "_ID": 3,
-        "_UID": 3,
-        "_NAME": "ENT_102002",
-        "_SURVEY": "102.UltimaPatagonia",
-        "_SURFACE": 1,
-        "_FIXED": 1,
-        "_ENTRANCE": 0,
-        "_CONTINUA_": 0,
-        "_COMMENT": "Punta Espolon",
-        "_LENGTH": "nan",
-        "_DEPTH": "??",
-        "_LENGTH_TH": "NaN",
-        "_DEPTH_TH": "NaN",
-        "_CAD_NUM": "102002",
-        "_CAVENAME": "Punta espolon",
-        "_ALTITUDE": "ca 50 m",
-        "_EXPED": "2017",
-        "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/102/PuntaEspolon/PuntaEspolon.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -105,8 +43,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4,
-        "_UID": 4,
+        "_ID": 2,
+        "_UID": 2,
         "_NAME": "ENT_104001",
         "_SURVEY": "104.UltimaPatagonia",
         "_SURFACE": 1,
@@ -121,9 +59,9 @@ var pointsFixes =
         "_CAD_NUM": "104001",
         "_CAVENAME": "Abri",
         "_ALTITUDE": "5",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/104/Abri1/Abri1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -136,8 +74,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 5,
-        "_UID": 5,
+        "_ID": 3,
+        "_UID": 3,
         "_NAME": "ENT_104002",
         "_SURVEY": "104.UltimaPatagonia",
         "_SURFACE": 1,
@@ -152,9 +90,71 @@ var pointsFixes =
         "_CAD_NUM": "104002",
         "_CAVENAME": "Cueva Rien",
         "_ALTITUDE": "nan",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/104/CuevaRien/CuevaRien.html"
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.29999332206937,
+          -50.09999688292417
+        ]
+      },
+      "properties": {
+        "_ID": 4,
+        "_UID": 4,
+        "_NAME": "ENT_104003",
+        "_SURVEY": "104.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "NouvelleGrotte",
+        "_CAD_NUM": "104003",
+        "_CAVENAME": "not known",
+        "_LENGTH": "not known",
+        "_DEPTH": "not known",
+        "_LENGTH_TH": "not known",
+        "_DEPTH_TH": "not known",
+        "_ALTITUDE": "not known",
+        "_EXPED": "not known",
+        "_EXPLORATEURS": "not known",
+        "_URL": "not known"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.29999332206937,
+          -50.09999688292417
+        ]
+      },
+      "properties": {
+        "_ID": 5,
+        "_UID": 5,
+        "_NAME": "ENT_104004",
+        "_SURVEY": "104.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "NouvelleGrotte",
+        "_CAD_NUM": "104004",
+        "_CAVENAME": "not known",
+        "_LENGTH": "not known",
+        "_DEPTH": "not known",
+        "_LENGTH_TH": "not known",
+        "_DEPTH_TH": "not known",
+        "_ALTITUDE": "not known",
+        "_EXPED": "not known",
+        "_EXPLORATEURS": "not known",
+        "_URL": "not known"
       }
     },
     {
@@ -183,9 +183,9 @@ var pointsFixes =
         "_CAD_NUM": "105001",
         "_CAVENAME": "Cueva Rapido1",
         "_ALTITUDE": "30",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/105/CuevaRapido1/CuevaRapido1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -214,9 +214,9 @@ var pointsFixes =
         "_CAD_NUM": "105002",
         "_CAVENAME": "Cueva Rapido2",
         "_ALTITUDE": "30",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/105/CuevaRapido2/CuevaRapido2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -224,30 +224,309 @@ var pointsFixes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.13669394009263,
-          -50.080922076948944
+          -75.18848028943924,
+          -50.08498676120354
         ]
       },
       "properties": {
-        "_ID": 270,
-        "_UID": 270,
+        "_ID": 8,
+        "_UID": 8,
+        "_NAME": "ENT_105003",
+        "_SURVEY": "105.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Perte3GrandLac",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "105003",
+        "_CAVENAME": "Perte3GrandLac",
+        "_ALTITUDE": "212",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck Brehier, Cedric Roques ",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19757067383189,
+          -50.086113876542605
+        ]
+      },
+      "properties": {
+        "_ID": 9,
+        "_UID": 9,
+        "_NAME": "ENT_105004",
+        "_SURVEY": "105.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE25",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "105004",
+        "_CAVENAME": "PE25",
+        "_ALTITUDE": "171",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20279897777702,
+          -50.08620379480578
+        ]
+      },
+      "properties": {
+        "_ID": 10,
+        "_UID": 10,
+        "_NAME": "ENT_105005",
+        "_SURVEY": "105.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE26",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "105005",
+        "_CAVENAME": "PE26",
+        "_ALTITUDE": "173",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20646459198034,
+          -50.0902176190263
+        ]
+      },
+      "properties": {
+        "_ID": 11,
+        "_UID": 11,
+        "_NAME": "ENT_105006",
+        "_SURVEY": "105.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "ResurgenceGrandLac1",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "105006",
+        "_CAVENAME": "ResurgenceGrandLac1",
+        "_ALTITUDE": "17",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20809820904036,
+          -50.09298483021842
+        ]
+      },
+      "properties": {
+        "_ID": 12,
+        "_UID": 12,
+        "_NAME": "ENT_105007",
+        "_SURVEY": "105.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "ResurgenceGrandLac2",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "105007",
+        "_CAVENAME": "ResurgenceGrandLac2",
+        "_ALTITUDE": "16",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.21327235547894,
+          -50.093299222177514
+        ]
+      },
+      "properties": {
+        "_ID": 13,
+        "_UID": 13,
+        "_NAME": "ENT_105008",
+        "_SURVEY": "105.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "ResurgenceGrandLac3",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "105008",
+        "_CAVENAME": "ResurgenceGrandLac3",
+        "_ALTITUDE": "12",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.22565732338043,
+          -50.08697106989564
+        ]
+      },
+      "properties": {
+        "_ID": 14,
+        "_UID": 14,
+        "_NAME": "ENT_105009",
+        "_SURVEY": "105.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "ResurgenceGrandLac4",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "105009",
+        "_CAVENAME": "ResurgenceGrandLac4",
+        "_ALTITUDE": "14",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.22788654532076,
+          -50.08246974862725
+        ]
+      },
+      "properties": {
+        "_ID": 15,
+        "_UID": 15,
+        "_NAME": "ENT_105010",
+        "_SURVEY": "105.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "ResurgenceGrandLac5",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "105010",
+        "_CAVENAME": "ResurgenceGrandLac5",
+        "_ALTITUDE": "31",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23011130462712,
+          -50.07712295877904
+        ]
+      },
+      "properties": {
+        "_ID": 16,
+        "_UID": 16,
+        "_NAME": "ENT_105011",
+        "_SURVEY": "105.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PerteDuGrandLac",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "105011",
+        "_CAVENAME": "PerteDuGrandLac",
+        "_ALTITUDE": "24",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13739363051862,
+          -50.081218050754366
+        ]
+      },
+      "properties": {
+        "_ID": 10757,
+        "_UID": 10757,
         "_NAME": "ENT_106001",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
-        "_COMMENT": "Cueva Pirates/ Hacienda Salinas",
-        "_LENGTH_TH": "370",
-        "_DEPTH_TH": "57",
+        "_COMMENT": "Cueva Pirates",
+        "_LENGTH_TH": "3687",
+        "_DEPTH_TH": "146",
         "_LENGTH": "370.0",
         "_DEPTH": "40",
         "_CAD_NUM": "106001",
         "_CAVENAME": "Cueva Pirates",
         "_ALTITUDE": "10",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/CuevaPirates/CuevaPirates.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -260,25 +539,25 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 271,
-        "_UID": 271,
+        "_ID": 10758,
+        "_UID": 10758,
         "_NAME": "ENT_106002",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
         "_ENTRANCE": 0,
-        "_CONTINUA_": 0,
+        "_CONTINUA_": 1,
         "_COMMENT": "Cueva No Time",
+        "_LENGTH_TH": "437",
+        "_DEPTH_TH": "115",
         "_LENGTH": "nan",
         "_DEPTH": "nan",
-        "_LENGTH_TH": "NaN",
-        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106002",
         "_CAVENAME": "Porche",
         "_ALTITUDE": "70",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/Porche/Porche.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -291,13 +570,13 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 272,
-        "_UID": 272,
+        "_ID": 10759,
+        "_UID": 10759,
         "_NAME": "ENT_106003",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "R\u00e9surgence NoTime",
         "_LENGTH": "nan",
@@ -305,11 +584,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106003",
-        "_CAVENAME": "R\u00e9surgence NoTime",
-        "_ALTITUDE": "3.0",
-        "_EXPED": "2008",
+        "_CAVENAME": "Resurgence NoTime",
+        "_ALTITUDE": "3",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/ResurgenceNoTime/ResurgenceNoTime.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -322,13 +601,13 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 273,
-        "_UID": 273,
+        "_ID": 10760,
+        "_UID": 10760,
         "_NAME": "ENT_106004",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva Nutria",
         "_LENGTH": "nan",
@@ -338,9 +617,9 @@ var pointsFixes =
         "_CAD_NUM": "106004",
         "_CAVENAME": "Cueva Nutria",
         "_ALTITUDE": "20",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/CuevaNutria/CuevaNutria.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -353,13 +632,13 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 274,
-        "_UID": 274,
+        "_ID": 10761,
+        "_UID": 10761,
         "_NAME": "ENT_106005",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Porche",
         "_LENGTH": "nan",
@@ -368,10 +647,10 @@ var pointsFixes =
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "106005",
         "_CAVENAME": "Porche",
-        "_ALTITUDE": "70.0",
-        "_EXPED": "2008",
+        "_ALTITUDE": "70",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/Porche/Porche.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -384,13 +663,13 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 275,
-        "_UID": 275,
+        "_ID": 10762,
+        "_UID": 10762,
         "_NAME": "ENT_106006",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Grotte",
         "_LENGTH": "nan",
@@ -400,9 +679,9 @@ var pointsFixes =
         "_CAD_NUM": "106006",
         "_CAVENAME": "Grotte",
         "_ALTITUDE": "nan",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/Grotte/Grotte.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -415,13 +694,13 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 276,
-        "_UID": 276,
+        "_ID": 10763,
+        "_UID": 10763,
         "_NAME": "ENT_106008",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Caracara",
         "_LENGTH": "nan",
@@ -431,9 +710,9 @@ var pointsFixes =
         "_CAD_NUM": "106008",
         "_CAVENAME": "Caracara",
         "_ALTITUDE": "96",
-        "_EXPED": "2008ENG",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/Caracara/Caracara.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -446,13 +725,13 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 277,
-        "_UID": 277,
+        "_ID": 10764,
+        "_UID": 10764,
         "_NAME": "ENT_106009",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Plateau Egg 1, non descendu \u00e0 cause de blocs instables",
         "_LENGTH": "nan",
@@ -462,9 +741,9 @@ var pointsFixes =
         "_CAD_NUM": "106009",
         "_CAVENAME": "PE1",
         "_ALTITUDE": "186",
-        "_EXPED": "2008ENG",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/PE1/PE1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -477,14 +756,14 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 278,
-        "_UID": 278,
+        "_ID": 10765,
+        "_UID": 10765,
         "_NAME": "ENT_106010",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
-        "_CONTINUA_": 0,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 1,
         "_COMMENT": "Plateau Egg 2, environ 40 m avec un m\u00e9andre r\u00e9tr\u00e9cissant",
         "_LENGTH": "nan",
         "_DEPTH": "nan",
@@ -493,9 +772,9 @@ var pointsFixes =
         "_CAD_NUM": "106010",
         "_CAVENAME": "PE2",
         "_ALTITUDE": "189",
-        "_EXPED": "2008ENG",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/PE2/PE2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -508,13 +787,13 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 279,
-        "_UID": 279,
+        "_ID": 10766,
+        "_UID": 10766,
         "_NAME": "ENT_106011",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Plateau Egg 3, non descendu, blocs instables",
         "_LENGTH": "nan",
@@ -524,9 +803,9 @@ var pointsFixes =
         "_CAD_NUM": "106011",
         "_CAVENAME": "PE3",
         "_ALTITUDE": "201",
-        "_EXPED": "2008ENG",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/PE3/PE3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -539,13 +818,13 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 280,
-        "_UID": 280,
+        "_ID": 10767,
+        "_UID": 10767,
         "_NAME": "ENT_106012",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Plateau Egg 4, aussi PL22 bloqu\u00e9 apr\u00e8s 15 m",
         "_LENGTH": "nan",
@@ -555,9 +834,9 @@ var pointsFixes =
         "_CAD_NUM": "106012",
         "_CAVENAME": "PE4",
         "_ALTITUDE": "224",
-        "_EXPED": "2008ENG",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/PE4/PE4.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -570,13 +849,13 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 281,
-        "_UID": 281,
+        "_ID": 10768,
+        "_UID": 10768,
         "_NAME": "ENT_106013",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Plateau Egg 5, puits entre deux canyons de surface, fin sur 10 m",
         "_LENGTH": "nan",
@@ -586,9 +865,9 @@ var pointsFixes =
         "_CAD_NUM": "106013",
         "_CAVENAME": "PE5",
         "_ALTITUDE": "213",
-        "_EXPED": "2008ENG",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/PE5/PE5.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -601,15 +880,15 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 282,
-        "_UID": 282,
+        "_ID": 10769,
+        "_UID": 10769,
         "_NAME": "ENT_106014",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
-        "_COMMENT": "Plateau Egg 6,",
+        "_COMMENT": "Plateau Egg 6",
         "_LENGTH": "nan",
         "_DEPTH": "nan",
         "_LENGTH_TH": "NaN",
@@ -617,9 +896,9 @@ var pointsFixes =
         "_CAD_NUM": "106014",
         "_CAVENAME": "PE6",
         "_ALTITUDE": "226",
-        "_EXPED": "2008ENG",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/PE6/PE6.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -632,15 +911,15 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 283,
-        "_UID": 283,
+        "_ID": 10770,
+        "_UID": 10770,
         "_NAME": "ENT_106015",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
-        "_COMMENT": "Plateau Egg 7,",
+        "_COMMENT": "Plateau Egg 7",
         "_LENGTH": "nan",
         "_DEPTH": "nan",
         "_LENGTH_TH": "NaN",
@@ -648,9 +927,9 @@ var pointsFixes =
         "_CAD_NUM": "106015",
         "_CAVENAME": "PE7",
         "_ALTITUDE": "218",
-        "_EXPED": "2008ENG",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/PE7/PE7.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -663,13 +942,13 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 284,
-        "_UID": 284,
+        "_ID": 10771,
+        "_UID": 10771,
         "_NAME": "ENT_106016",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Plateau Egg 8, trois entr\u00e9es permettent acc\u00e8s. Bruit de rivi\u00e8re sous des blocs",
         "_LENGTH": "nan",
@@ -679,9 +958,9 @@ var pointsFixes =
         "_CAD_NUM": "106016",
         "_CAVENAME": "PE8",
         "_ALTITUDE": "220",
-        "_EXPED": "2008ENG",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/PE8/PE8.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -694,13 +973,13 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 285,
-        "_UID": 285,
+        "_ID": 10772,
+        "_UID": 10772,
         "_NAME": "ENT_106017",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Plateau Egg 9, position hasardeuse?",
         "_LENGTH": "nan",
@@ -710,9 +989,9 @@ var pointsFixes =
         "_CAD_NUM": "106017",
         "_CAVENAME": "PE9",
         "_ALTITUDE": "225",
-        "_EXPED": "2008ENG",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/PE9/PE9.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -725,13 +1004,13 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 286,
-        "_UID": 286,
+        "_ID": 10773,
+        "_UID": 10773,
         "_NAME": "ENT_106018",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Deux puits fossiles",
         "_LENGTH": "nan",
@@ -741,9 +1020,9 @@ var pointsFixes =
         "_CAD_NUM": "106018",
         "_CAVENAME": "PE10",
         "_ALTITUDE": "216",
-        "_EXPED": "2008ENG",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/PE10/PE10.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -756,13 +1035,13 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 287,
-        "_UID": 287,
+        "_ID": 10774,
+        "_UID": 10774,
         "_NAME": "ENT_106019",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Los tres Rios",
         "_LENGTH": "nan",
@@ -772,9 +1051,9 @@ var pointsFixes =
         "_CAD_NUM": "106019",
         "_CAVENAME": "Los Tres Rios",
         "_ALTITUDE": "325",
-        "_EXPED": "2006ITA",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/LosTresRios/LosTresRios.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -787,13 +1066,13 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 288,
-        "_UID": 288,
+        "_ID": 10775,
+        "_UID": 10775,
         "_NAME": "ENT_106020",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
         "_FIXED": 1,
-        "_ENTRANCE": 0,
+        "_ENTRANCE": 1,
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva del Dragon",
         "_LENGTH": "nan",
@@ -803,9 +1082,9 @@ var pointsFixes =
         "_CAD_NUM": "106020",
         "_CAVENAME": "Cueva del Dragon",
         "_ALTITUDE": "187",
-        "_EXPED": "2006ITA",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/CuevaDelDragon/CuevaDelDragon.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -818,8 +1097,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 289,
-        "_UID": 289,
+        "_ID": 10776,
+        "_UID": 10776,
         "_NAME": "ENT_106021",
         "_SURVEY": "106.UltimaPatagonia",
         "_SURFACE": 1,
@@ -834,9 +1113,1404 @@ var pointsFixes =
         "_CAD_NUM": "106021",
         "_CAVENAME": "Cueva del Zorro",
         "_ALTITUDE": "105",
-        "_EXPED": "2008ENG",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/106/CuevaDelZorro/CuevaDelZorro.html"
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14393178860774,
+          -50.089529510170586
+        ]
+      },
+      "properties": {
+        "_ID": 10777,
+        "_UID": 10777,
+        "_NAME": "ENT_106022",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "AvenDesArchesPerdues",
+        "_LENGTH_TH": "1431",
+        "_DEPTH_TH": "301",
+        "_LENGTH": "600.0",
+        "_DEPTH": "260",
+        "_CAD_NUM": "106022",
+        "_CAVENAME": "AvenDesArchesPerdues",
+        "_ALTITUDE": "358",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alexandre Honiat, Jessica Morin-Buote, Olivier Gerard, Joel Tremoulet. ",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17182397962353,
+          -50.086541574758094
+        ]
+      },
+      "properties": {
+        "_ID": 10778,
+        "_UID": 10778,
+        "_NAME": "ENT_106023",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "GouffrePlusPlus",
+        "_LENGTH_TH": "133",
+        "_DEPTH_TH": "88",
+        "_LENGTH": "55.0",
+        "_DEPTH": "55",
+        "_CAD_NUM": "106023",
+        "_CAVENAME": "GouffrePlusPlus",
+        "_ALTITUDE": "238",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck Brehier, Cedric Roques ",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1847027605302,
+          -50.08772698627489
+        ]
+      },
+      "properties": {
+        "_ID": 10779,
+        "_UID": 10779,
+        "_NAME": "ENT_106024",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PerteContact1",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106024",
+        "_CAVENAME": "PerteContact1",
+        "_ALTITUDE": "344",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck Brehier, Cedric Roques ",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.18351136960925,
+          -50.08689244045093
+        ]
+      },
+      "properties": {
+        "_ID": 10780,
+        "_UID": 10780,
+        "_NAME": "ENT_106025",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PerteContact2",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106025",
+        "_CAVENAME": "PerteContact2",
+        "_ALTITUDE": "343",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck Brehier, Cedric Roques ",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17674905814103,
+          -50.08780232477216
+        ]
+      },
+      "properties": {
+        "_ID": 10781,
+        "_UID": 10781,
+        "_NAME": "ENT_106026",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "GouffreAuxCometes",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106026",
+        "_CAVENAME": "GouffreAuxCometes",
+        "_ALTITUDE": "240",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck Brehier, Cedric Roques ",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1682908628221,
+          -50.08752708771643
+        ]
+      },
+      "properties": {
+        "_ID": 10782,
+        "_UID": 10782,
+        "_NAME": "ENT_106027",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "CampAvance1Egg",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106027",
+        "_CAVENAME": "CampAvance1Egg",
+        "_ALTITUDE": "241",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Pointe par Cedric, sur VisoRando",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15819287733774,
+          -50.08592237952159
+        ]
+      },
+      "properties": {
+        "_ID": 10783,
+        "_UID": 10783,
+        "_NAME": "ENT_106028",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 1,
+        "_COMMENT": "Perte sous le Lac",
+        "_LENGTH": "15.0",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106028",
+        "_CAVENAME": "PerteSousLeLac",
+        "_ALTITUDE": "272",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Pointe par Cedric, sur VisoRando",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15145103512207,
+          -50.0845642932053
+        ]
+      },
+      "properties": {
+        "_ID": 10784,
+        "_UID": 10784,
+        "_NAME": "ENT_106029",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE11",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106029",
+        "_CAVENAME": "PE11",
+        "_ALTITUDE": "247",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alexandre Honiat",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15540683652038,
+          -50.084577053283596
+        ]
+      },
+      "properties": {
+        "_ID": 10785,
+        "_UID": 10785,
+        "_NAME": "ENT_106030",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE12",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106030",
+        "_CAVENAME": "PE12",
+        "_ALTITUDE": "298",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alexandre Honiat",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15604812610795,
+          -50.0840545452658
+        ]
+      },
+      "properties": {
+        "_ID": 10786,
+        "_UID": 10786,
+        "_NAME": "ENT_106031",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE13",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106031",
+        "_CAVENAME": "PE13",
+        "_ALTITUDE": "301",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alexandre Honiat",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15648175818326,
+          -50.0841528948187
+        ]
+      },
+      "properties": {
+        "_ID": 10787,
+        "_UID": 10787,
+        "_NAME": "ENT_106032",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE14",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106032",
+        "_CAVENAME": "PE14",
+        "_ALTITUDE": "292",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alexandre Honiat",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16483836485295,
+          -50.08352974344505
+        ]
+      },
+      "properties": {
+        "_ID": 10788,
+        "_UID": 10788,
+        "_NAME": "ENT_106033",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "GouffreDuBowling",
+        "_LENGTH_TH": "221",
+        "_DEPTH_TH": "166",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_CAD_NUM": "106033",
+        "_CAVENAME": "GouffreDuBowling",
+        "_ALTITUDE": "294",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alexandre Honiat",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16521848003978,
+          -50.084320668908
+        ]
+      },
+      "properties": {
+        "_ID": 10789,
+        "_UID": 10789,
+        "_NAME": "ENT_106034",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE16",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106034",
+        "_CAVENAME": "PE16",
+        "_ALTITUDE": "269",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16917288963157,
+          -50.07997090467191
+        ]
+      },
+      "properties": {
+        "_ID": 10790,
+        "_UID": 10790,
+        "_NAME": "ENT_106035",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "AvenDesDeuxLacs",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106035",
+        "_CAVENAME": "AvenDesDeuxLacs",
+        "_ALTITUDE": "195",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16742716820553,
+          -50.0803601746328
+        ]
+      },
+      "properties": {
+        "_ID": 10791,
+        "_UID": 10791,
+        "_NAME": "ENT_106036",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "CreuxDuRavin",
+        "_LENGTH": "20.0",
+        "_DEPTH": "20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106036",
+        "_CAVENAME": "CreuxDuRavin",
+        "_ALTITUDE": "225",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17024205041623,
+          -50.081930019468395
+        ]
+      },
+      "properties": {
+        "_ID": 10792,
+        "_UID": 10792,
+        "_NAME": "ENT_106037",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE17",
+        "_LENGTH": "15.0",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106037",
+        "_CAVENAME": "PE17",
+        "_ALTITUDE": "217",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17312791131118,
+          -50.08375151993684
+        ]
+      },
+      "properties": {
+        "_ID": 10793,
+        "_UID": 10793,
+        "_NAME": "ENT_106038",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE18",
+        "_LENGTH": "20.0",
+        "_DEPTH": "20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106038",
+        "_CAVENAME": "PE18",
+        "_ALTITUDE": "195",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17459709907723,
+          -50.084172034456074
+        ]
+      },
+      "properties": {
+        "_ID": 10794,
+        "_UID": 10794,
+        "_NAME": "ENT_106039",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE19",
+        "_LENGTH": "15.0",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106039",
+        "_CAVENAME": "PE19",
+        "_ALTITUDE": "186",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17571624068992,
+          -50.08442217603549
+        ]
+      },
+      "properties": {
+        "_ID": 10795,
+        "_UID": 10795,
+        "_NAME": "ENT_106040",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE20",
+        "_LENGTH": "30.0",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106040",
+        "_CAVENAME": "PE20",
+        "_ALTITUDE": "199",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17451564892168,
+          -50.0848377076816
+        ]
+      },
+      "properties": {
+        "_ID": 10796,
+        "_UID": 10796,
+        "_NAME": "ENT_106041",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE21",
+        "_LENGTH": "20.0",
+        "_DEPTH": "20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106041",
+        "_CAVENAME": "PE21",
+        "_ALTITUDE": "198",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17569104648803,
+          -50.085177704189334
+        ]
+      },
+      "properties": {
+        "_ID": 10797,
+        "_UID": 10797,
+        "_NAME": "ENT_106042",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE22",
+        "_LENGTH": "10.0",
+        "_DEPTH": "10",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106042",
+        "_CAVENAME": "PE22",
+        "_ALTITUDE": "189",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17562713741712,
+          -50.08681469559871
+        ]
+      },
+      "properties": {
+        "_ID": 10798,
+        "_UID": 10798,
+        "_NAME": "ENT_106043",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE23",
+        "_LENGTH": "20.0",
+        "_DEPTH": "20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106043",
+        "_CAVENAME": "PE23",
+        "_ALTITUDE": "210",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex Honiat",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16622398056809,
+          -50.084058409686016
+        ]
+      },
+      "properties": {
+        "_ID": 10799,
+        "_UID": 10799,
+        "_NAME": "ENT_106044",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "DentDuPiqueNique",
+        "_LENGTH": "30.0",
+        "_DEPTH": "10",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106044",
+        "_CAVENAME": "DentDuPiqueNique",
+        "_ALTITUDE": "247",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Cedric Roques, Alex Honiat",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.18368154179221,
+          -50.08387021131896
+        ]
+      },
+      "properties": {
+        "_ID": 10800,
+        "_UID": 10800,
+        "_NAME": "ENT_106045",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE24",
+        "_LENGTH": "40.0",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106045",
+        "_CAVENAME": "PE24",
+        "_ALTITUDE": "331",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jessica",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14498105322822,
+          -50.08979802221916
+        ]
+      },
+      "properties": {
+        "_ID": 10801,
+        "_UID": 10801,
+        "_NAME": "ENT_106046",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "GouffreDuRhinoceros",
+        "_LENGTH": "42.0",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106046",
+        "_CAVENAME": "GouffreDuRhinoceros",
+        "_ALTITUDE": "328",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alexandre Andrieu, Joel Tremoulet",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14116665262088,
+          -50.09047726659769
+        ]
+      },
+      "properties": {
+        "_ID": 10802,
+        "_UID": 10802,
+        "_NAME": "ENT_106047",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "TrouDuHaut",
+        "_LENGTH": "30.0",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106047",
+        "_CAVENAME": "TrouDuHaut",
+        "_ALTITUDE": "301",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alexandre Andrieu, Joel Tremoulet",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14718953965516,
+          -50.085145385458354
+        ]
+      },
+      "properties": {
+        "_ID": 10803,
+        "_UID": 10803,
+        "_NAME": "ENT_106048",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "TrouDeFiamat",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106048",
+        "_CAVENAME": "TrouDeFiamat",
+        "_ALTITUDE": "211",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Les Italiens",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14881132925439,
+          -50.08525124514076
+        ]
+      },
+      "properties": {
+        "_ID": 10804,
+        "_UID": 10804,
+        "_NAME": "ENT_106049",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Bramabio",
+        "_LENGTH": "40.0",
+        "_DEPTH": "2",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106049",
+        "_CAVENAME": "Bramabio",
+        "_ALTITUDE": "206",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex, Joel, Christine",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14474619490801,
+          -50.086083825640614
+        ]
+      },
+      "properties": {
+        "_ID": 10805,
+        "_UID": 10805,
+        "_NAME": "ENT_106050",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE25",
+        "_LENGTH": "20.0",
+        "_DEPTH": "20",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106050",
+        "_CAVENAME": "PE25",
+        "_ALTITUDE": "271",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex, Joel, Christine",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1455989815917,
+          -50.090732616418734
+        ]
+      },
+      "properties": {
+        "_ID": 10806,
+        "_UID": 10806,
+        "_NAME": "ENT_106051",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE26",
+        "_LENGTH": "15.0",
+        "_DEPTH": "15",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106051",
+        "_CAVENAME": "PE26",
+        "_ALTITUDE": "325",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex, Joel, Christine",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14372215226803,
+          -50.08954775770647
+        ]
+      },
+      "properties": {
+        "_ID": 10807,
+        "_UID": 10807,
+        "_NAME": "ENT_106052",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE27",
+        "_LENGTH": "40.0",
+        "_DEPTH": "40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106052",
+        "_CAVENAME": "PE27",
+        "_ALTITUDE": "330.4",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex, Joel, Christine",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17244809965344,
+          -50.08906794202077
+        ]
+      },
+      "properties": {
+        "_ID": 10808,
+        "_UID": 10808,
+        "_NAME": "ENT_106053",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PE28",
+        "_LENGTH": "30.0",
+        "_DEPTH": "30",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106053",
+        "_CAVENAME": "PE28",
+        "_ALTITUDE": "243.1",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex, Joel, Christine",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1597061779092,
+          -50.08701756652988
+        ]
+      },
+      "properties": {
+        "_ID": 10809,
+        "_UID": 10809,
+        "_NAME": "ENT_106055",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Perte25MetresNageLibre",
+        "_LENGTH_TH": "77",
+        "_DEPTH_TH": "41",
+        "_LENGTH": "77.0",
+        "_DEPTH": "38",
+        "_CAD_NUM": "106055",
+        "_CAVENAME": "Perte25MetresNageLibre",
+        "_ALTITUDE": "262",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Charlotte Honiat, Alexandre Honiat, Cedric Roques, Lionel Ruiz ",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17600808198323,
+          -50.087776468683984
+        ]
+      },
+      "properties": {
+        "_ID": 10810,
+        "_UID": 10810,
+        "_NAME": "ENT_106056",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PerteChampis",
+        "_LENGTH_TH": "34",
+        "_DEPTH_TH": "27",
+        "_LENGTH": "36.0",
+        "_DEPTH": "21",
+        "_CAD_NUM": "106056",
+        "_CAVENAME": "PerteChampis",
+        "_ALTITUDE": "nan",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Charlotte Honiat, Cedric Roques, Lionel Ruiz ",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15940955473825,
+          -50.08609159992728
+        ]
+      },
+      "properties": {
+        "_ID": 10811,
+        "_UID": 10811,
+        "_NAME": "ENT_106057",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Gouffre D\u00e9j\u00e0 Vu",
+        "_LENGTH_TH": "151",
+        "_DEPTH_TH": "34",
+        "_LENGTH": "150.0",
+        "_DEPTH": "35",
+        "_CAD_NUM": "106057",
+        "_CAVENAME": "GouffreDuDejaVu",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Natalia Morata, Laurence Boudoux-Hautefeuille, Arnauld Malard",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16888764133051,
+          -50.09027836123986
+        ]
+      },
+      "properties": {
+        "_ID": 10812,
+        "_UID": 10812,
+        "_NAME": "ENT_106058",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 1,
+        "_COMMENT": "Perte du Disto",
+        "_LENGTH": "200.0",
+        "_DEPTH": "40",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106058",
+        "_CAVENAME": "Perte du Disto",
+        "_ALTITUDE": "240",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Katia, Clement, Denis",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17277698349326,
+          -50.09500343851418
+        ]
+      },
+      "properties": {
+        "_ID": 10813,
+        "_UID": 10813,
+        "_NAME": "ENT_106059",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 1,
+        "_COMMENT": "El Pozo Granizo",
+        "_LENGTH": "81.0",
+        "_DEPTH": "81",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106059",
+        "_CAVENAME": "El Pozo Granizo",
+        "_ALTITUDE": "281",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Katia, Clement, Denis",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15234675306853,
+          -50.07609982940092
+        ]
+      },
+      "properties": {
+        "_ID": 10814,
+        "_UID": 10814,
+        "_NAME": "ENT_106060",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "PuitsdelArche",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106060",
+        "_CAVENAME": "Puits de l'Arche",
+        "_ALTITUDE": "201",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Olivier Guerard, Lionel Ruiz",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13939988435067,
+          -50.07851837836681
+        ]
+      },
+      "properties": {
+        "_ID": 10815,
+        "_UID": 10815,
+        "_NAME": "ENT_106061",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "ResurgenceGolondrina",
+        "_LENGTH_TH": "420",
+        "_DEPTH_TH": "82",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_CAD_NUM": "106061",
+        "_CAVENAME": "ResurgenceGolondrina",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck, Jeremie",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16126137562797,
+          -50.06724673747887
+        ]
+      },
+      "properties": {
+        "_ID": 10816,
+        "_UID": 10816,
+        "_NAME": "ENT_106062",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "GrandeFailleDuBoutDuMonde",
+        "_LENGTH_TH": "56",
+        "_DEPTH_TH": "43",
+        "_LENGTH": "56.0",
+        "_DEPTH": "43",
+        "_CAD_NUM": "106062",
+        "_CAVENAME": "GrandeFailleDuBoutDuMonde",
+        "_ALTITUDE": "244",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex H, Flo R, David Jules",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16640973319268,
+          -50.07311252131239
+        ]
+      },
+      "properties": {
+        "_ID": 10817,
+        "_UID": 10817,
+        "_NAME": "ENT_106063",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Traverse_de_lindecision",
+        "_LENGTH": "108.0",
+        "_DEPTH": "19",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "106063",
+        "_CAVENAME": "Traverse_de_lindecision",
+        "_ALTITUDE": "280",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex H, Flo R, David Jules",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1592162774303,
+          -50.0657205879138
+        ]
+      },
+      "properties": {
+        "_ID": 10818,
+        "_UID": 10818,
+        "_NAME": "ENT_106064",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "R\u00eave \u00e9veill\u00e9",
+        "_LENGTH_TH": "331",
+        "_DEPTH_TH": "125",
+        "_LENGTH": "331.0",
+        "_DEPTH": "124",
+        "_CAD_NUM": "106064",
+        "_CAVENAME": "Reve Eveille",
+        "_ALTITUDE": "145",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Alex H, Flo R, David Jules",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13944033429868,
+          -50.07849044858794
+        ]
+      },
+      "properties": {
+        "_ID": 10819,
+        "_UID": 10819,
+        "_NAME": "ENT_106065",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Porche Eden",
+        "_LENGTH_TH": "76",
+        "_DEPTH_TH": "29",
+        "_LENGTH": "76.0",
+        "_DEPTH": "13",
+        "_CAD_NUM": "106065",
+        "_CAVENAME": "PorcheEden",
+        "_ALTITUDE": "5",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Flo R, Natalia",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13211474664514,
+          -50.09807878054761
+        ]
+      },
+      "properties": {
+        "_ID": 10820,
+        "_UID": 10820,
+        "_NAME": "ENT_106066",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Casablanca",
+        "_LENGTH_TH": "73",
+        "_DEPTH_TH": "25",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_CAD_NUM": "106066",
+        "_CAVENAME": "Casablanca",
+        "_ALTITUDE": "10",
+        "_EXPED": "unknown",
+        "_EXPLORATEURS": "\"Caro, Medhi, Serge, Jeremie \"",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13729502140482,
+          -50.080948349458815
+        ]
+      },
+      "properties": {
+        "_ID": 10821,
+        "_UID": 10821,
+        "_NAME": "ENT_106067",
+        "_SURVEY": "106.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Resurgence des Pirates",
+        "_LENGTH_TH": "155",
+        "_DEPTH_TH": "27",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_CAD_NUM": "106067",
+        "_CAVENAME": "Resurgence des Pirates",
+        "_ALTITUDE": "0",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Franck Brehier, Jeremie",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -849,8 +2523,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1259,
-        "_UID": 1259,
+        "_ID": 11825,
+        "_UID": 11825,
         "_NAME": "ENT_107001",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -865,9 +2539,9 @@ var pointsFixes =
         "_CAD_NUM": "107001",
         "_CAVENAME": "Cueva des los Pescadores",
         "_ALTITUDE": "40",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CuevaDesLosPescadores/CuevaDesLosPescadores.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -880,8 +2554,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1260,
-        "_UID": 1260,
+        "_ID": 11826,
+        "_UID": 11826,
         "_NAME": "ENT_107002",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -894,11 +2568,11 @@ var pointsFixes =
         "_LENGTH": "220.0",
         "_DEPTH": "24",
         "_CAD_NUM": "107002",
-        "_CAVENAME": "R\u00e9surgence XXX",
+        "_CAVENAME": "Resurgence XXX",
         "_ALTITUDE": "0",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/ResurgenceXXX/ResurgenceXXX.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -911,8 +2585,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1261,
-        "_UID": 1261,
+        "_ID": 11827,
+        "_UID": 11827,
         "_NAME": "ENT_107003",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -927,9 +2601,9 @@ var pointsFixes =
         "_CAD_NUM": "107003",
         "_CAVENAME": "Deux grottes (double entree)",
         "_ALTITUDE": "?",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/DeuxGrottes/DeuxGrottes.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -942,8 +2616,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1262,
-        "_UID": 1262,
+        "_ID": 11828,
+        "_UID": 11828,
         "_NAME": "ENT_107004",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -958,9 +2632,9 @@ var pointsFixes =
         "_CAD_NUM": "107004",
         "_CAVENAME": "Chattiere qui buffle",
         "_ALTITUDE": "?",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/ChattiereQuiBuffle/ChattiereQuiBuffle.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -973,8 +2647,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1263,
-        "_UID": 1263,
+        "_ID": 11829,
+        "_UID": 11829,
         "_NAME": "ENT_107005",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -989,9 +2663,9 @@ var pointsFixes =
         "_CAD_NUM": "107005",
         "_CAVENAME": "Gouffre de la grotte ",
         "_ALTITUDE": "436",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/GouffreDeLaGrotte/GouffreDeLaGrotte.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1004,8 +2678,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1264,
-        "_UID": 1264,
+        "_ID": 11830,
+        "_UID": 11830,
         "_NAME": "ENT_107006",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1020,9 +2694,9 @@ var pointsFixes =
         "_CAD_NUM": "107006",
         "_CAVENAME": "Cueva de los Gringos",
         "_ALTITUDE": "??",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/LosGringos/LosGringos.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1035,8 +2709,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1265,
-        "_UID": 1265,
+        "_ID": 11831,
+        "_UID": 11831,
         "_NAME": "ENT_107007",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1051,9 +2725,9 @@ var pointsFixes =
         "_CAD_NUM": "107007",
         "_CAVENAME": "Gouffre du camp du nid du condor",
         "_ALTITUDE": "311",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/GouffreDuCampDuNidDuCondor/GouffreDuCampDuNidDuCondor.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1066,8 +2740,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1266,
-        "_UID": 1266,
+        "_ID": 11832,
+        "_UID": 11832,
         "_NAME": "ENT_107008",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1082,9 +2756,9 @@ var pointsFixes =
         "_CAD_NUM": "107008",
         "_CAVENAME": "Emergence des tuyaux ( rameur)",
         "_ALTITUDE": "?",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/EmergenceDesTuyaux/EmergenceDesTuyaux.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1097,8 +2771,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1267,
-        "_UID": 1267,
+        "_ID": 11833,
+        "_UID": 11833,
         "_NAME": "ENT_107009",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1113,9 +2787,9 @@ var pointsFixes =
         "_CAD_NUM": "107009",
         "_CAVENAME": "Gouffre du Chameau",
         "_ALTITUDE": "380",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/GouffreChameau/GouffreChameau.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1128,8 +2802,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1268,
-        "_UID": 1268,
+        "_ID": 11834,
+        "_UID": 11834,
         "_NAME": "ENT_107010",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1144,9 +2818,9 @@ var pointsFixes =
         "_CAD_NUM": "107010",
         "_CAVENAME": "perte du Point G",
         "_ALTITUDE": "420",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/PerteDuPointG/PerteDuPointG.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1159,8 +2833,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1269,
-        "_UID": 1269,
+        "_ID": 11835,
+        "_UID": 11835,
         "_NAME": "ENT_107011",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1175,9 +2849,9 @@ var pointsFixes =
         "_CAD_NUM": "107011",
         "_CAVENAME": "Cueva d'el cabo vertical",
         "_ALTITUDE": "39",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CuevaCaboVertical/CuevaCaboVertical.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1190,8 +2864,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1270,
-        "_UID": 1270,
+        "_ID": 11836,
+        "_UID": 11836,
         "_NAME": "ENT_107012",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1204,11 +2878,11 @@ var pointsFixes =
         "_LENGTH": "84.0",
         "_DEPTH": "26",
         "_CAD_NUM": "107012",
-        "_CAVENAME": "Porche de la coul\u00e9e blanche",
+        "_CAVENAME": "Porche de la coulee blanche",
         "_ALTITUDE": "25 (estimation)",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CouleeBlanche/CouleeBlanche.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1221,8 +2895,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1271,
-        "_UID": 1271,
+        "_ID": 11837,
+        "_UID": 11837,
         "_NAME": "ENT_107013",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1236,10 +2910,10 @@ var pointsFixes =
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107013",
         "_CAVENAME": "Grotte des Canelures",
-        "_ALTITUDE": "106, donn\u00e9e GPS surestim\u00e9e",
-        "_EXPED": "2017",
+        "_ALTITUDE": "106, donnee GPS surestimee",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/GrotteDesCanelures/GrotteDesCanelures.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1252,8 +2926,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1272,
-        "_UID": 1272,
+        "_ID": 11838,
+        "_UID": 11838,
         "_NAME": "ENT_107014",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1268,9 +2942,9 @@ var pointsFixes =
         "_CAD_NUM": "107014",
         "_CAVENAME": "Las Duchas de San Pedro",
         "_ALTITUDE": "ca 50 m",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/DuchasDeSanPedro/DuchasDeSanPedro.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1283,8 +2957,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1273,
-        "_UID": 1273,
+        "_ID": 11839,
+        "_UID": 11839,
         "_NAME": "ENT_107015",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1297,11 +2971,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "107015",
-        "_CAVENAME": "\u00c9t\u00e9 austral ",
+        "_CAVENAME": "\u00c9te austral ",
         "_ALTITUDE": "411",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/EteAustral/EteAustral.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1314,8 +2988,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1274,
-        "_UID": 1274,
+        "_ID": 11840,
+        "_UID": 11840,
         "_NAME": "ENT_107016",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1330,9 +3004,9 @@ var pointsFixes =
         "_CAD_NUM": "107016",
         "_CAVENAME": "Trou du carnet ",
         "_ALTITUDE": "429",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/TrouDuCarnet/TrouDuCarnet.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1345,8 +3019,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1275,
-        "_UID": 1275,
+        "_ID": 11841,
+        "_UID": 11841,
         "_NAME": "ENT_107017",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1361,9 +3035,9 @@ var pointsFixes =
         "_CAD_NUM": "107017",
         "_CAVENAME": "N1",
         "_ALTITUDE": "?",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/N1/N1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1376,8 +3050,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1276,
-        "_UID": 1276,
+        "_ID": 11842,
+        "_UID": 11842,
         "_NAME": "ENT_107018",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1392,9 +3066,9 @@ var pointsFixes =
         "_CAD_NUM": "107018",
         "_CAVENAME": "N2",
         "_ALTITUDE": "?",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/N2/N2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1407,8 +3081,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1277,
-        "_UID": 1277,
+        "_ID": 11843,
+        "_UID": 11843,
         "_NAME": "ENT_107019",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1423,9 +3097,9 @@ var pointsFixes =
         "_CAD_NUM": "107019",
         "_CAVENAME": "Gouffre du casque",
         "_ALTITUDE": "347",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/GouffreCasque/GouffreCasque.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1438,8 +3112,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1278,
-        "_UID": 1278,
+        "_ID": 11844,
+        "_UID": 11844,
         "_NAME": "ENT_107020",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1454,9 +3128,9 @@ var pointsFixes =
         "_CAD_NUM": "107020",
         "_CAVENAME": "CN 16-02-1",
         "_ALTITUDE": "387",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CN16-02-1/CN16-02-1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1469,8 +3143,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1279,
-        "_UID": 1279,
+        "_ID": 11845,
+        "_UID": 11845,
         "_NAME": "ENT_107021",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1485,9 +3159,9 @@ var pointsFixes =
         "_CAD_NUM": "107021",
         "_CAVENAME": "CN 16-02-2",
         "_ALTITUDE": "387",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CN16-02-2/CN16-02-2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1500,8 +3174,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1280,
-        "_UID": 1280,
+        "_ID": 11846,
+        "_UID": 11846,
         "_NAME": "ENT_107022",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1514,11 +3188,11 @@ var pointsFixes =
         "_LENGTH": "66.0",
         "_DEPTH": "47",
         "_CAD_NUM": "107022",
-        "_CAVENAME": "Madame Caf\u00e9",
+        "_CAVENAME": "Madame Cafe",
         "_ALTITUDE": "384",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/MadameCafe/MadameCafe.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1531,8 +3205,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1281,
-        "_UID": 1281,
+        "_ID": 11847,
+        "_UID": 11847,
         "_NAME": "ENT_107023",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1547,9 +3221,9 @@ var pointsFixes =
         "_CAD_NUM": "107023",
         "_CAVENAME": "CN 16-02-4",
         "_ALTITUDE": "405",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CN16-02-4/CN16-02-4.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1562,8 +3236,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1282,
-        "_UID": 1282,
+        "_ID": 11848,
+        "_UID": 11848,
         "_NAME": "ENT_107024",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1578,9 +3252,9 @@ var pointsFixes =
         "_CAD_NUM": "107024",
         "_CAVENAME": "CN 16-02-5",
         "_ALTITUDE": "383",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CN16-02-5/CN16-02-5.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1593,8 +3267,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1283,
-        "_UID": 1283,
+        "_ID": 11849,
+        "_UID": 11849,
         "_NAME": "ENT_107025",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1607,11 +3281,11 @@ var pointsFixes =
         "_LENGTH": "nan",
         "_DEPTH": "29",
         "_CAD_NUM": "107025",
-        "_CAVENAME": "R\u00e9surgence Hongo",
+        "_CAVENAME": "Resurgence Hongo",
         "_ALTITUDE": "0",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/ResurgenceHongo/ResurgenceHongo.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1624,8 +3298,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1284,
-        "_UID": 1284,
+        "_ID": 11850,
+        "_UID": 11850,
         "_NAME": "ENT_107026",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1640,9 +3314,9 @@ var pointsFixes =
         "_CAD_NUM": "107026",
         "_CAVENAME": "PN01",
         "_ALTITUDE": "60",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/PN01/PN01.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1655,8 +3329,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1285,
-        "_UID": 1285,
+        "_ID": 11851,
+        "_UID": 11851,
         "_NAME": "ENT_107027",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1671,9 +3345,9 @@ var pointsFixes =
         "_CAD_NUM": "107027",
         "_CAVENAME": "PN02",
         "_ALTITUDE": "60",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/PN02/PN02.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1686,8 +3360,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1286,
-        "_UID": 1286,
+        "_ID": 11852,
+        "_UID": 11852,
         "_NAME": "ENT_107028",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1695,16 +3369,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Gouffre du Jackpot",
-        "_LENGTH_TH": "702",
-        "_DEPTH_TH": "185",
+        "_LENGTH_TH": "987",
+        "_DEPTH_TH": "265",
         "_LENGTH": "nan",
         "_DEPTH": "265",
         "_CAD_NUM": "107028",
         "_CAVENAME": "Gouffre Jackpot",
         "_ALTITUDE": "369",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/GouffreJackpot/GouffreJackpot.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1717,8 +3391,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1287,
-        "_UID": 1287,
+        "_ID": 11853,
+        "_UID": 11853,
         "_NAME": "ENT_107029",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1733,9 +3407,9 @@ var pointsFixes =
         "_CAD_NUM": "107029",
         "_CAVENAME": "PC4 - Perte Cirque 4",
         "_ALTITUDE": "362",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/PerteCirque4/PerteCirque4.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1748,8 +3422,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1288,
-        "_UID": 1288,
+        "_ID": 11854,
+        "_UID": 11854,
         "_NAME": "ENT_107030",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1764,9 +3438,9 @@ var pointsFixes =
         "_CAD_NUM": "107030",
         "_CAVENAME": "Cueva Cascada",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/CuevaCascada/CuevaCascada.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1779,8 +3453,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1289,
-        "_UID": 1289,
+        "_ID": 11855,
+        "_UID": 11855,
         "_NAME": "ENT_107031",
         "_SURVEY": "107.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1795,9 +3469,226 @@ var pointsFixes =
         "_CAD_NUM": "107031",
         "_CAVENAME": "Punta Blanca",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/107/PuntaBlanca/PuntaBlanca.html"
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23924952433968,
+          -50.118845244059315
+        ]
+      },
+      "properties": {
+        "_ID": 11856,
+        "_UID": 11856,
+        "_NAME": "ENT_107032",
+        "_SURVEY": "107.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 1,
+        "_COMMENT": "Les Arches Pourries",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "107032",
+        "_CAVENAME": "Les Arches Pourries",
+        "_ALTITUDE": "453",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Clement, Charlotte, Denis, Jaime",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23624090781755,
+          -50.11859957506792
+        ]
+      },
+      "properties": {
+        "_ID": 11857,
+        "_UID": 11857,
+        "_NAME": "ENT_107033",
+        "_SURVEY": "107.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 1,
+        "_COMMENT": "Chaurienne",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "107033",
+        "_CAVENAME": "Chaurienne",
+        "_ALTITUDE": "475",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Clement, Charlotte, Denis, Jaime",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23804522062784,
+          -50.11575382277428
+        ]
+      },
+      "properties": {
+        "_ID": 11858,
+        "_UID": 11858,
+        "_NAME": "ENT_107034",
+        "_SURVEY": "107.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 1,
+        "_COMMENT": "Les Trois Porches",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "107034",
+        "_CAVENAME": "Les 3 porches",
+        "_ALTITUDE": "534",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Clement, Charlotte, Denis, Jaime",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2498157817771,
+          -50.1198752778427
+        ]
+      },
+      "properties": {
+        "_ID": 11859,
+        "_UID": 11859,
+        "_NAME": "ENT_107035",
+        "_SURVEY": "107.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Puit du Kit",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "107035",
+        "_CAVENAME": "Puits du Kit",
+        "_ALTITUDE": "407",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Gwladys, Nico",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.25000524503717,
+          -50.11865170202435
+        ]
+      },
+      "properties": {
+        "_ID": 11860,
+        "_UID": 11860,
+        "_NAME": "ENT_107036",
+        "_SURVEY": "107.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Gouffre de Helm",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "107036",
+        "_CAVENAME": "Gouffre de Helm",
+        "_ALTITUDE": "424",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Gwladys, Nico",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.25296543057915,
+          -50.11765596385091
+        ]
+      },
+      "properties": {
+        "_ID": 11861,
+        "_UID": 11861,
+        "_NAME": "ENT_107037",
+        "_SURVEY": "107.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Grotte du Doute Eternel",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "107037",
+        "_CAVENAME": "Grotte du doute eternel",
+        "_ALTITUDE": "461",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Gwladys, Nico",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.31814569405546,
+          -50.12791059989092
+        ]
+      },
+      "properties": {
+        "_ID": 11862,
+        "_UID": 11862,
+        "_NAME": "ENT_107038",
+        "_SURVEY": "107.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 1,
+        "_CONTINUA_": 1,
+        "_COMMENT": "Le Gillopetre",
+        "_LENGTH": "nan",
+        "_DEPTH": "nan",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "107038",
+        "_CAVENAME": "Le Gillotpetre",
+        "_ALTITUDE": "389",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Clement, Gwladys, Nico, Amandine, Mowgli",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1810,8 +3701,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1391,
-        "_UID": 1391,
+        "_ID": 11964,
+        "_UID": 11964,
         "_NAME": "ENT_108001",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1826,9 +3717,9 @@ var pointsFixes =
         "_CAD_NUM": "108001",
         "_CAVENAME": "Ojo de la Madre",
         "_ALTITUDE": "406",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/OjoDeLaMadre/OjoDeLaMadre.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1841,8 +3732,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1392,
-        "_UID": 1392,
+        "_ID": 11965,
+        "_UID": 11965,
         "_NAME": "ENT_108002",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1857,9 +3748,9 @@ var pointsFixes =
         "_CAD_NUM": "108002",
         "_CAVENAME": "Ombligo de la Madre",
         "_ALTITUDE": "365",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/OmbligoDeLaMadre/OmbligoDeLaMadre.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1872,8 +3763,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1393,
-        "_UID": 1393,
+        "_ID": 11966,
+        "_UID": 11966,
         "_NAME": "ENT_108003",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1888,9 +3779,9 @@ var pointsFixes =
         "_CAD_NUM": "108003",
         "_CAVENAME": "Sumidero ",
         "_ALTITUDE": "nan",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/Sumidero/Sumidero.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1903,8 +3794,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1394,
-        "_UID": 1394,
+        "_ID": 11967,
+        "_UID": 11967,
         "_NAME": "ENT_108004",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1919,9 +3810,9 @@ var pointsFixes =
         "_CAD_NUM": "108004",
         "_CAVENAME": "Gouffre Lagrimas",
         "_ALTITUDE": "350",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/GouffreLagrimas/GouffreLagrimas.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1934,8 +3825,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1395,
-        "_UID": 1395,
+        "_ID": 11968,
+        "_UID": 11968,
         "_NAME": "ENT_108005",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1950,9 +3841,9 @@ var pointsFixes =
         "_CAD_NUM": "108005",
         "_CAVENAME": "Sumidero",
         "_ALTITUDE": "198",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/Sumidero/Sumidero.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1965,8 +3856,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1396,
-        "_UID": 1396,
+        "_ID": 11969,
+        "_UID": 11969,
         "_NAME": "ENT_108006",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -1981,9 +3872,9 @@ var pointsFixes =
         "_CAD_NUM": "108006",
         "_CAVENAME": "Garganta",
         "_ALTITUDE": "180",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/Garganta/Garganta.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -1996,8 +3887,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1397,
-        "_UID": 1397,
+        "_ID": 11970,
+        "_UID": 11970,
         "_NAME": "ENT_108007",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2012,9 +3903,9 @@ var pointsFixes =
         "_CAD_NUM": "108007",
         "_CAVENAME": "Sumidero",
         "_ALTITUDE": "191",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/Sumidero/Sumidero.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2027,8 +3918,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1398,
-        "_UID": 1398,
+        "_ID": 11971,
+        "_UID": 11971,
         "_NAME": "ENT_108008",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2043,9 +3934,9 @@ var pointsFixes =
         "_CAD_NUM": "108008",
         "_CAVENAME": "Utero de la Madre",
         "_ALTITUDE": "220",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/Utero de la Madre/Utero de la Madre.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2058,8 +3949,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1399,
-        "_UID": 1399,
+        "_ID": 11972,
+        "_UID": 11972,
         "_NAME": "ENT_108009",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2074,9 +3965,9 @@ var pointsFixes =
         "_CAD_NUM": "108009",
         "_CAVENAME": "Sumidero",
         "_ALTITUDE": "225",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/Sumidero/Sumidero.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2089,8 +3980,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1400,
-        "_UID": 1400,
+        "_ID": 11973,
+        "_UID": 11973,
         "_NAME": "ENT_108010",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2105,9 +3996,9 @@ var pointsFixes =
         "_CAD_NUM": "108010",
         "_CAVENAME": "Sumidero",
         "_ALTITUDE": "317",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/Sumidero/Sumidero.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2120,8 +4011,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1401,
-        "_UID": 1401,
+        "_ID": 11974,
+        "_UID": 11974,
         "_NAME": "ENT_108011",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2136,9 +4027,9 @@ var pointsFixes =
         "_CAD_NUM": "108011",
         "_CAVENAME": "agujero",
         "_ALTITUDE": "290",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/agujero/agujero.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2151,8 +4042,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1402,
-        "_UID": 1402,
+        "_ID": 11975,
+        "_UID": 11975,
         "_NAME": "ENT_108012",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2167,9 +4058,9 @@ var pointsFixes =
         "_CAD_NUM": "108012",
         "_CAVENAME": "agujero",
         "_ALTITUDE": "417",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/agujero/agujero.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2182,8 +4073,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1403,
-        "_UID": 1403,
+        "_ID": 11976,
+        "_UID": 11976,
         "_NAME": "ENT_108013",
         "_SURVEY": "108.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2198,9 +4089,40 @@ var pointsFixes =
         "_CAD_NUM": "108013",
         "_CAVENAME": "Gouffre de l'Arche",
         "_ALTITUDE": "15",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/108/GouffreDeLArche/GouffreDeLArche.html"
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20000477800473,
+          -50.099996318537954
+        ]
+      },
+      "properties": {
+        "_ID": 11977,
+        "_UID": 11977,
+        "_NAME": "ENT_108014",
+        "_SURVEY": "108.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "NouvelleCavite",
+        "_CAD_NUM": "108014",
+        "_CAVENAME": "not known",
+        "_LENGTH": "not known",
+        "_DEPTH": "not known",
+        "_LENGTH_TH": "not known",
+        "_DEPTH_TH": "not known",
+        "_ALTITUDE": "not known",
+        "_EXPED": "not known",
+        "_EXPLORATEURS": "not known",
+        "_URL": "not known"
       }
     },
     {
@@ -2213,8 +4135,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1959,
-        "_UID": 1959,
+        "_ID": 12533,
+        "_UID": 12533,
         "_NAME": "ENT_109001",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2225,13 +4147,13 @@ var pointsFixes =
         "_LENGTH_TH": "279",
         "_DEPTH_TH": "49",
         "_LENGTH": "280.0",
-        "_DEPTH": "-32-+17",
+        "_DEPTH": "-49",
         "_CAD_NUM": "109001",
         "_CAVENAME": "Grotte des 3 Porches",
         "_ALTITUDE": "60",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/TroisPorches/TroisPorches.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2244,8 +4166,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1960,
-        "_UID": 1960,
+        "_ID": 12534,
+        "_UID": 12534,
         "_NAME": "ENT_109002",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2260,9 +4182,9 @@ var pointsFixes =
         "_CAD_NUM": "109002",
         "_CAVENAME": "Grotte des 3 Porches",
         "_ALTITUDE": "60",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/TroisPorches/TroisPorches.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2275,8 +4197,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1961,
-        "_UID": 1961,
+        "_ID": 12535,
+        "_UID": 12535,
         "_NAME": "ENT_109003",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2291,9 +4213,9 @@ var pointsFixes =
         "_CAD_NUM": "109003",
         "_CAVENAME": "Cueva Barachos",
         "_ALTITUDE": "375",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/CuevaBarachos/CuevaBarachos.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2306,8 +4228,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1962,
-        "_UID": 1962,
+        "_ID": 12536,
+        "_UID": 12536,
         "_NAME": "ENT_109004",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2322,9 +4244,9 @@ var pointsFixes =
         "_CAD_NUM": "109004",
         "_CAVENAME": "Cueva Caliza",
         "_ALTITUDE": "370",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/CuevaCaliza/CuevaCaliza.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2337,8 +4259,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1963,
-        "_UID": 1963,
+        "_ID": 12537,
+        "_UID": 12537,
         "_NAME": "ENT_109005",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2353,9 +4275,9 @@ var pointsFixes =
         "_CAD_NUM": "109005",
         "_CAVENAME": "En desespoir de Cause",
         "_ALTITUDE": "384",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/EnDesespoirDeCause/EnDesespoirDeCause.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2368,8 +4290,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1964,
-        "_UID": 1964,
+        "_ID": 12538,
+        "_UID": 12538,
         "_NAME": "ENT_109006",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2384,9 +4306,9 @@ var pointsFixes =
         "_CAD_NUM": "109006",
         "_CAVENAME": "P10",
         "_ALTITUDE": "414",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/P10/P10.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2399,8 +4321,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1965,
-        "_UID": 1965,
+        "_ID": 12539,
+        "_UID": 12539,
         "_NAME": "ENT_109007",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2415,9 +4337,9 @@ var pointsFixes =
         "_CAD_NUM": "109007",
         "_CAVENAME": "petite Grotte",
         "_ALTITUDE": "278",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/PetiteGrotte/PetiteGrotte.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2430,8 +4352,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1966,
-        "_UID": 1966,
+        "_ID": 12540,
+        "_UID": 12540,
         "_NAME": "ENT_109008",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2446,9 +4368,9 @@ var pointsFixes =
         "_CAD_NUM": "109008",
         "_CAVENAME": "Gouffre Halal",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/GouffreHalal/GouffreHalal.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2461,8 +4383,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1967,
-        "_UID": 1967,
+        "_ID": 12541,
+        "_UID": 12541,
         "_NAME": "ENT_109009",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2477,9 +4399,9 @@ var pointsFixes =
         "_CAD_NUM": "109009",
         "_CAVENAME": "Gouffre A l'A\u00efl",
         "_ALTITUDE": "359",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Gouffralail/Gouffralail.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2492,8 +4414,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1968,
-        "_UID": 1968,
+        "_ID": 12542,
+        "_UID": 12542,
         "_NAME": "ENT_109010",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2508,9 +4430,9 @@ var pointsFixes =
         "_CAD_NUM": "109010",
         "_CAVENAME": "Gouffre Ma premi\u00e8re",
         "_ALTITUDE": "319",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/GouffreMaPremiere/GouffreMaPremiere.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2523,8 +4445,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1969,
-        "_UID": 1969,
+        "_ID": 12543,
+        "_UID": 12543,
         "_NAME": "ENT_109011",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2537,11 +4459,11 @@ var pointsFixes =
         "_LENGTH": "nan",
         "_DEPTH": "-4, +11",
         "_CAD_NUM": "109011",
-        "_CAVENAME": "Gouffre La Grande Travers\u00e9e",
+        "_CAVENAME": "Gouffre La Grande Traversee",
         "_ALTITUDE": "319",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/GrandeTraversee/GrandeTraversee.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2554,8 +4476,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1970,
-        "_UID": 1970,
+        "_ID": 12544,
+        "_UID": 12544,
         "_NAME": "ENT_109012",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2570,9 +4492,9 @@ var pointsFixes =
         "_CAD_NUM": "109012",
         "_CAVENAME": "Cueva de la Merienda",
         "_ALTITUDE": "388",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/CuevaDeLaMerienda/CuevaDeLaMerienda.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2585,8 +4507,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1971,
-        "_UID": 1971,
+        "_ID": 12545,
+        "_UID": 12545,
         "_NAME": "ENT_109013",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2599,11 +4521,11 @@ var pointsFixes =
         "_LENGTH": "nan",
         "_DEPTH": "89",
         "_CAD_NUM": "109013",
-        "_CAVENAME": "Gouffre des Gaug\u00e9s",
+        "_CAVENAME": "Gouffre des Gauges",
         "_ALTITUDE": "300",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Gauges/Gauges.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2616,8 +4538,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1972,
-        "_UID": 1972,
+        "_ID": 12546,
+        "_UID": 12546,
         "_NAME": "ENT_109014",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2632,9 +4554,9 @@ var pointsFixes =
         "_CAD_NUM": "109014",
         "_CAVENAME": "Gouffre la Pissoti\u00e8re",
         "_ALTITUDE": "360",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/Pissotiere/Pissotiere.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2647,8 +4569,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1973,
-        "_UID": 1973,
+        "_ID": 12547,
+        "_UID": 12547,
         "_NAME": "ENT_109015",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2661,11 +4583,11 @@ var pointsFixes =
         "_LENGTH": "nan",
         "_DEPTH": "-54, +78",
         "_CAD_NUM": "109015",
-        "_CAVENAME": "Grotte des trois entr\u00e9es plus une",
+        "_CAVENAME": "Grotte des trois entrees plus une",
         "_ALTITUDE": "53",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/TroisEntreesPlusUne/TroisEntreesPlusUne.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2678,8 +4600,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1974,
-        "_UID": 1974,
+        "_ID": 12548,
+        "_UID": 12548,
         "_NAME": "ENT_109016",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2694,9 +4616,9 @@ var pointsFixes =
         "_CAD_NUM": "109016",
         "_CAVENAME": "Gouffre de la Chatiere",
         "_ALTITUDE": "36",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/TrouDeLaChattiere/TrouDeLaChattiere.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2709,8 +4631,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1975,
-        "_UID": 1975,
+        "_ID": 12549,
+        "_UID": 12549,
         "_NAME": "ENT_109017",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2725,9 +4647,9 @@ var pointsFixes =
         "_CAD_NUM": "109017",
         "_CAVENAME": "Resurgence de la Petite Chinoise",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/PetiteChinoise/PetiteChinoise.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2740,8 +4662,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1976,
-        "_UID": 1976,
+        "_ID": 12550,
+        "_UID": 12550,
         "_NAME": "ENT_109018",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2756,9 +4678,9 @@ var pointsFixes =
         "_CAD_NUM": "109018",
         "_CAVENAME": "Paraiso de las duchas",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/ParaisoDeLasDuchas/ParaisoDeLasDuchas.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2771,8 +4693,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 1977,
-        "_UID": 1977,
+        "_ID": 12551,
+        "_UID": 12551,
         "_NAME": "ENT_109019",
         "_SURVEY": "109.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2785,11 +4707,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "109019",
-        "_CAVENAME": "R\u00e9surgence 3",
+        "_CAVENAME": "Resurgence 3",
         "_ALTITUDE": "0",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/109/R\u00e9surgence 3/R\u00e9surgence 3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2802,8 +4724,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2069,
-        "_UID": 2069,
+        "_ID": 12643,
+        "_UID": 12643,
         "_NAME": "ENT_201001",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2812,15 +4734,15 @@ var pointsFixes =
         "_CONTINUA_": 0,
         "_COMMENT": "Resurgence 2 du Canyon",
         "_LENGTH": "40.0",
-        "_DEPTH": "-4-+2",
+        "_DEPTH": "-6",
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201001",
-        "_CAVENAME": "R\u00e9surgence 2 du Canyon",
+        "_CAVENAME": "Resurgence 2 du Canyon",
         "_ALTITUDE": "0",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Resurgence2DuCanyon/Resurgence2DuCanyon.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2833,8 +4755,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2070,
-        "_UID": 2070,
+        "_ID": 12644,
+        "_UID": 12644,
         "_NAME": "ENT_201002",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2849,9 +4771,9 @@ var pointsFixes =
         "_CAD_NUM": "201002",
         "_CAVENAME": "La Rabasse 3",
         "_ALTITUDE": "325",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Buldo",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/LaRabasse3/LaRabasse3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2864,8 +4786,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2071,
-        "_UID": 2071,
+        "_ID": 12645,
+        "_UID": 12645,
         "_NAME": "ENT_201003",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2880,9 +4802,9 @@ var pointsFixes =
         "_CAD_NUM": "201003",
         "_CAVENAME": "Secteur Barros Luco",
         "_ALTITUDE": "385",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9-Vanessa-Buldo-Sergio",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Secteur Barros Luco/Secteur Barros Luco.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Vanessa-Buldo-Sergio",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2895,8 +4817,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2072,
-        "_UID": 2072,
+        "_ID": 12646,
+        "_UID": 12646,
         "_NAME": "ENT_201004",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2911,9 +4833,9 @@ var pointsFixes =
         "_CAD_NUM": "201004",
         "_CAVENAME": "La Rabasse 1",
         "_ALTITUDE": "337",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Buldo",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/LaRabasse1/LaRabasse1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2926,8 +4848,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2073,
-        "_UID": 2073,
+        "_ID": 12647,
+        "_UID": 12647,
         "_NAME": "ENT_201005",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2942,9 +4864,9 @@ var pointsFixes =
         "_CAD_NUM": "201005",
         "_CAVENAME": "Cueva 3",
         "_ALTITUDE": "273",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva3/Cueva3.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2957,8 +4879,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2074,
-        "_UID": 2074,
+        "_ID": 12648,
+        "_UID": 12648,
         "_NAME": "ENT_201006",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -2973,9 +4895,9 @@ var pointsFixes =
         "_CAD_NUM": "201006",
         "_CAVENAME": "Cueva 7",
         "_ALTITUDE": "294",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva7/Cueva7.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -2988,8 +4910,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2075,
-        "_UID": 2075,
+        "_ID": 12649,
+        "_UID": 12649,
         "_NAME": "ENT_201007",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3004,9 +4926,9 @@ var pointsFixes =
         "_CAD_NUM": "201007",
         "_CAVENAME": "Cueva 1",
         "_ALTITUDE": "290",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva1/Cueva1.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3019,8 +4941,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2076,
-        "_UID": 2076,
+        "_ID": 12650,
+        "_UID": 12650,
         "_NAME": "ENT_201008",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3035,9 +4957,9 @@ var pointsFixes =
         "_CAD_NUM": "201008",
         "_CAVENAME": "Cueva 11",
         "_ALTITUDE": "338",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Serge-Jean Phi-C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva11/Cueva11.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Serge-Jean Phi-Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3050,8 +4972,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2077,
-        "_UID": 2077,
+        "_ID": 12651,
+        "_UID": 12651,
         "_NAME": "ENT_201009",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3064,11 +4986,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201009",
-        "_CAVENAME": "Cueva du T\u00e9l\u00e9phone",
+        "_CAVENAME": "Cueva du Telephone",
         "_ALTITUDE": "340",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Vanessa-Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/CuevaDuTelephone/CuevaDuTelephone.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3081,8 +5003,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2078,
-        "_UID": 2078,
+        "_ID": 12652,
+        "_UID": 12652,
         "_NAME": "ENT_201010",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3097,9 +5019,9 @@ var pointsFixes =
         "_CAD_NUM": "201010",
         "_CAVENAME": "Cueva 8",
         "_ALTITUDE": "309",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva8/Cueva8.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3112,8 +5034,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2079,
-        "_UID": 2079,
+        "_ID": 12653,
+        "_UID": 12653,
         "_NAME": "ENT_201011",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3128,9 +5050,9 @@ var pointsFixes =
         "_CAD_NUM": "201011",
         "_CAVENAME": "cueva",
         "_ALTITUDE": "492",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Buldo, Jos\u00e9, Jean Phi",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/cueva101/cueva101.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Buldo, Jose, Jean Phi",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3143,8 +5065,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2080,
-        "_UID": 2080,
+        "_ID": 12654,
+        "_UID": 12654,
         "_NAME": "ENT_201012",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3159,9 +5081,9 @@ var pointsFixes =
         "_CAD_NUM": "201012",
         "_CAVENAME": "Trou du Marteau",
         "_ALTITUDE": "385",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/TrouDuMarteau/TrouDuMarteau.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3174,8 +5096,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2081,
-        "_UID": 2081,
+        "_ID": 12655,
+        "_UID": 12655,
         "_NAME": "ENT_201013",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3190,9 +5112,9 @@ var pointsFixes =
         "_CAD_NUM": "201013",
         "_CAVENAME": "La Rabasse 2",
         "_ALTITUDE": "310",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Buldo",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/LaRabasse2/LaRabasse2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3205,8 +5127,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2082,
-        "_UID": 2082,
+        "_ID": 12656,
+        "_UID": 12656,
         "_NAME": "ENT_201014",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3221,9 +5143,9 @@ var pointsFixes =
         "_CAD_NUM": "201014",
         "_CAVENAME": "cueva",
         "_ALTITUDE": "526",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Buldo, Jos\u00e9, Jean phi",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/cueva102/cueva102.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Buldo, Jose, Jean phi",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3236,8 +5158,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2083,
-        "_UID": 2083,
+        "_ID": 12657,
+        "_UID": 12657,
         "_NAME": "ENT_201015",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3252,9 +5174,9 @@ var pointsFixes =
         "_CAD_NUM": "201015",
         "_CAVENAME": "Cueva",
         "_ALTITUDE": "469",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Buldo, Jos\u00e9, Jean Phi",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva104/Cueva104.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Buldo, Jose, Jean Phi",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3267,8 +5189,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2084,
-        "_UID": 2084,
+        "_ID": 12658,
+        "_UID": 12658,
         "_NAME": "ENT_201016",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3283,9 +5205,9 @@ var pointsFixes =
         "_CAD_NUM": "201016",
         "_CAVENAME": "Cueva 10",
         "_ALTITUDE": "347",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva10/Cueva10.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3298,8 +5220,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2085,
-        "_UID": 2085,
+        "_ID": 12659,
+        "_UID": 12659,
         "_NAME": "ENT_201017",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3314,9 +5236,9 @@ var pointsFixes =
         "_CAD_NUM": "201017",
         "_CAVENAME": "Secteur Barros Luco",
         "_ALTITUDE": "393",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9-Vanessa-Buldo-Sergio",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Secteur Barros Luco/Secteur Barros Luco.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Vanessa-Buldo-Sergio",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3329,8 +5251,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2086,
-        "_UID": 2086,
+        "_ID": 12660,
+        "_UID": 12660,
         "_NAME": "ENT_201018",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3345,9 +5267,9 @@ var pointsFixes =
         "_CAD_NUM": "201018",
         "_CAVENAME": "Cueva 2",
         "_ALTITUDE": "268",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva2/Cueva2.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3360,8 +5282,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2087,
-        "_UID": 2087,
+        "_ID": 12661,
+        "_UID": 12661,
         "_NAME": "ENT_201019",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3376,9 +5298,9 @@ var pointsFixes =
         "_CAD_NUM": "201019",
         "_CAVENAME": "Cueva",
         "_ALTITUDE": "274",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9, Serge, Vanessa, Buldo, Jean Phi",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva105/Cueva105.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose, Serge, Vanessa, Buldo, Jean Phi",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3391,8 +5313,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2088,
-        "_UID": 2088,
+        "_ID": 12662,
+        "_UID": 12662,
         "_NAME": "ENT_201020",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3400,16 +5322,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "Resurgence 1",
-        "_LENGTH_TH": "198",
-        "_DEPTH_TH": "35",
-        "_LENGTH": "nan",
-        "_DEPTH": "nan",
         "_CAD_NUM": "201020",
-        "_CAVENAME": "Resurgence 1",
-        "_ALTITUDE": "nan",
-        "_EXPED": "??",
-        "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Resurgence1/Resurgence1.html"
+        "_CAVENAME": "not known",
+        "_LENGTH": "not known",
+        "_DEPTH": "not known",
+        "_LENGTH_TH": "not known",
+        "_DEPTH_TH": "not known",
+        "_ALTITUDE": "not known",
+        "_EXPED": "not known",
+        "_EXPLORATEURS": "not known",
+        "_URL": "not known"
       }
     },
     {
@@ -3422,8 +5344,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2089,
-        "_UID": 2089,
+        "_ID": 12663,
+        "_UID": 12663,
         "_NAME": "ENT_201021",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3438,9 +5360,9 @@ var pointsFixes =
         "_CAD_NUM": "201021",
         "_CAVENAME": "Secteur Barros Luco",
         "_ALTITUDE": "393",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9-Vanessa-Buldo-Sergio",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Secteur Barros Luco/Secteur Barros Luco.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Vanessa-Buldo-Sergio",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3453,8 +5375,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2090,
-        "_UID": 2090,
+        "_ID": 12664,
+        "_UID": 12664,
         "_NAME": "ENT_201022",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3469,9 +5391,9 @@ var pointsFixes =
         "_CAD_NUM": "201022",
         "_CAVENAME": "Cueva 12",
         "_ALTITUDE": "335",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Serge-Jean Phi-C\u00e9dric (porche)",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva12/Cueva12.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Serge-Jean Phi-Cedric (porche)",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3484,8 +5406,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2091,
-        "_UID": 2091,
+        "_ID": 12665,
+        "_UID": 12665,
         "_NAME": "ENT_201023",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3500,9 +5422,9 @@ var pointsFixes =
         "_CAD_NUM": "201023",
         "_CAVENAME": "Cueva 5",
         "_ALTITUDE": "272",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9-C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva5/Cueva5.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3515,8 +5437,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2092,
-        "_UID": 2092,
+        "_ID": 12666,
+        "_UID": 12666,
         "_NAME": "ENT_201024",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3531,9 +5453,9 @@ var pointsFixes =
         "_CAD_NUM": "201024",
         "_CAVENAME": "Cueva 13",
         "_ALTITUDE": "8",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Serge-Jean Phi-C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva13/Cueva13.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Serge-Jean Phi-Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3546,8 +5468,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2093,
-        "_UID": 2093,
+        "_ID": 12667,
+        "_UID": 12667,
         "_NAME": "ENT_201025",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3562,9 +5484,9 @@ var pointsFixes =
         "_CAD_NUM": "201025",
         "_CAVENAME": "Secteur Barros Luco",
         "_ALTITUDE": "412",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9-Vanessa-Buldo-Sergio",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Secteur Barros Luco/Secteur Barros Luco.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose-Vanessa-Buldo-Sergio",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3577,8 +5499,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2094,
-        "_UID": 2094,
+        "_ID": 12668,
+        "_UID": 12668,
         "_NAME": "ENT_201026",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3593,9 +5515,9 @@ var pointsFixes =
         "_CAD_NUM": "201026",
         "_CAVENAME": "Porche 2 Os de Baleine",
         "_ALTITUDE": "9",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jean Phi-C\u00e9dric (os baleine+coquillages)",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/PorcheBaleine/PorcheBaleine.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jean Phi-Cedric (os baleine+coquillages)",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3608,8 +5530,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2095,
-        "_UID": 2095,
+        "_ID": 12669,
+        "_UID": 12669,
         "_NAME": "ENT_201027",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3624,9 +5546,9 @@ var pointsFixes =
         "_CAD_NUM": "201027",
         "_CAVENAME": "Porche 1",
         "_ALTITUDE": "13",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jean Phi-C\u00e9dric (Plage Pacifique)",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Porche1/Porche1.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jean Phi-Cedric (Plage Pacifique)",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3639,8 +5561,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2096,
-        "_UID": 2096,
+        "_ID": 12670,
+        "_UID": 12670,
         "_NAME": "ENT_201028",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3648,16 +5570,16 @@ var pointsFixes =
         "_ENTRANCE": 0,
         "_CONTINUA_": 0,
         "_COMMENT": "C4 SansNom 10",
-        "_LENGTH": "nan",
-        "_DEPTH": "nan",
-        "_LENGTH_TH": "NaN",
-        "_DEPTH_TH": "NaN",
         "_CAD_NUM": "201028",
-        "_CAVENAME": "C4 SansNom 10",
-        "_ALTITUDE": "nan",
-        "_EXPED": NaN,
-        "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4SansNom10/C4SansNom10.html"
+        "_CAVENAME": "not known",
+        "_LENGTH": "not known",
+        "_DEPTH": "not known",
+        "_LENGTH_TH": "not known",
+        "_DEPTH_TH": "not known",
+        "_ALTITUDE": "not known",
+        "_EXPED": "not known",
+        "_EXPLORATEURS": "not known",
+        "_URL": "not known"
       }
     },
     {
@@ -3670,8 +5592,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2097,
-        "_UID": 2097,
+        "_ID": 12671,
+        "_UID": 12671,
         "_NAME": "ENT_201029",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3686,9 +5608,9 @@ var pointsFixes =
         "_CAD_NUM": "201029",
         "_CAVENAME": "Cueva 4",
         "_ALTITUDE": "270",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Cueva4/Cueva4.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3701,8 +5623,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2098,
-        "_UID": 2098,
+        "_ID": 12672,
+        "_UID": 12672,
         "_NAME": "ENT_201030",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3717,9 +5639,9 @@ var pointsFixes =
         "_CAD_NUM": "201030",
         "_CAVENAME": "SANS NOM",
         "_ALTITUDE": "460",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/SANS NOM/SANS NOM.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3732,8 +5654,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2099,
-        "_UID": 2099,
+        "_ID": 12673,
+        "_UID": 12673,
         "_NAME": "ENT_201031",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3748,9 +5670,9 @@ var pointsFixes =
         "_CAD_NUM": "201031",
         "_CAVENAME": "C3",
         "_ALTITUDE": "303",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Buldo",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C3/C3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3763,8 +5685,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2100,
-        "_UID": 2100,
+        "_ID": 12674,
+        "_UID": 12674,
         "_NAME": "ENT_201032",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3779,9 +5701,9 @@ var pointsFixes =
         "_CAD_NUM": "201032",
         "_CAVENAME": "C4 Cueva 6",
         "_ALTITUDE": "306",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4Cueva6/C4Cueva6.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3794,8 +5716,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2101,
-        "_UID": 2101,
+        "_ID": 12675,
+        "_UID": 12675,
         "_NAME": "ENT_201033",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3810,9 +5732,9 @@ var pointsFixes =
         "_CAD_NUM": "201033",
         "_CAVENAME": "SANS NOM",
         "_ALTITUDE": "430",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/SANS NOM/SANS NOM.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3825,8 +5747,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2102,
-        "_UID": 2102,
+        "_ID": 12676,
+        "_UID": 12676,
         "_NAME": "ENT_201034",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3841,9 +5763,9 @@ var pointsFixes =
         "_CAD_NUM": "201034",
         "_CAVENAME": "Cueva de la casquette",
         "_ALTITUDE": "397",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Cedric-Vanessa-Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/CuevaDeLaCasquette/CuevaDeLaCasquette.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3856,8 +5778,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2103,
-        "_UID": 2103,
+        "_ID": 12677,
+        "_UID": 12677,
         "_NAME": "ENT_201035",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3872,9 +5794,9 @@ var pointsFixes =
         "_CAD_NUM": "201035",
         "_CAVENAME": "Trou de la Plaquette",
         "_ALTITUDE": "382",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Cedric-Vanessa-Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/TrouDeLaPlaquette/TrouDeLaPlaquette.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3887,8 +5809,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2104,
-        "_UID": 2104,
+        "_ID": 12678,
+        "_UID": 12678,
         "_NAME": "ENT_201036",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3903,9 +5825,9 @@ var pointsFixes =
         "_CAD_NUM": "201036",
         "_CAVENAME": "C4 Nfissure 0",
         "_ALTITUDE": "389",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4Nfissure0/C4Nfissure0.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3918,8 +5840,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2105,
-        "_UID": 2105,
+        "_ID": 12679,
+        "_UID": 12679,
         "_NAME": "ENT_201037",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3934,9 +5856,9 @@ var pointsFixes =
         "_CAD_NUM": "201037",
         "_CAVENAME": "C4 SansNom 8",
         "_ALTITUDE": "361",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4SansNom8/C4SansNom8.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3949,8 +5871,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2106,
-        "_UID": 2106,
+        "_ID": 12680,
+        "_UID": 12680,
         "_NAME": "ENT_201038",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3965,9 +5887,9 @@ var pointsFixes =
         "_CAD_NUM": "201038",
         "_CAVENAME": "C4 SansNom 7",
         "_ALTITUDE": "347",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4SansNom7/C4SansNom7.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -3980,8 +5902,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2107,
-        "_UID": 2107,
+        "_ID": 12681,
+        "_UID": 12681,
         "_NAME": "ENT_201039",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -3996,9 +5918,9 @@ var pointsFixes =
         "_CAD_NUM": "201039",
         "_CAVENAME": "C4 SansNom 6",
         "_ALTITUDE": "342",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4SansNom6/C4SansNom6.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4011,8 +5933,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2108,
-        "_UID": 2108,
+        "_ID": 12682,
+        "_UID": 12682,
         "_NAME": "ENT_201040",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4027,9 +5949,9 @@ var pointsFixes =
         "_CAD_NUM": "201040",
         "_CAVENAME": "Porche du Sonnar",
         "_ALTITUDE": "338",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Cedric-Jose-JeanPhilippe-Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/PorcheDuSonnar/PorcheDuSonnar.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4042,8 +5964,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2109,
-        "_UID": 2109,
+        "_ID": 12683,
+        "_UID": 12683,
         "_NAME": "ENT_201041",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4058,9 +5980,9 @@ var pointsFixes =
         "_CAD_NUM": "201041",
         "_CAVENAME": "C4 SansNom 1",
         "_ALTITUDE": "403",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4SansNom1/C4SansNom1.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4073,8 +5995,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2110,
-        "_UID": 2110,
+        "_ID": 12684,
+        "_UID": 12684,
         "_NAME": "ENT_201042",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4089,9 +6011,9 @@ var pointsFixes =
         "_CAD_NUM": "201042",
         "_CAVENAME": "C4 SansNom 4",
         "_ALTITUDE": "312",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4SansNom4/C4SansNom4.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4104,8 +6026,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2111,
-        "_UID": 2111,
+        "_ID": 12685,
+        "_UID": 12685,
         "_NAME": "ENT_201043",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4120,9 +6042,9 @@ var pointsFixes =
         "_CAD_NUM": "201043",
         "_CAVENAME": "Gouffre du Colibri",
         "_ALTITUDE": "313",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Cedric-Jose-JeanPhilippe-Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GouffreDuColibri/GouffreDuColibri.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4135,8 +6057,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2112,
-        "_UID": 2112,
+        "_ID": 12686,
+        "_UID": 12686,
         "_NAME": "ENT_201044",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4151,9 +6073,9 @@ var pointsFixes =
         "_CAD_NUM": "201044",
         "_CAVENAME": "C4 SansNom 3",
         "_ALTITUDE": "307",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C4SansNom3/C4SansNom3.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4166,8 +6088,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2113,
-        "_UID": 2113,
+        "_ID": 12687,
+        "_UID": 12687,
         "_NAME": "ENT_201045",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4182,9 +6104,9 @@ var pointsFixes =
         "_CAD_NUM": "201045",
         "_CAVENAME": "C5 Cueva1",
         "_ALTITUDE": "391",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/C5 Cueva1/C5 Cueva1.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4197,8 +6119,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2114,
-        "_UID": 2114,
+        "_ID": 12688,
+        "_UID": 12688,
         "_NAME": "ENT_201046",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4213,9 +6135,9 @@ var pointsFixes =
         "_CAD_NUM": "201046",
         "_CAVENAME": "SANS NOM",
         "_ALTITUDE": "323",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/SANS NOM/SANS NOM.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4228,8 +6150,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2115,
-        "_UID": 2115,
+        "_ID": 12689,
+        "_UID": 12689,
         "_NAME": "ENT_201047",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4244,9 +6166,9 @@ var pointsFixes =
         "_CAD_NUM": "201047",
         "_CAVENAME": "Champignon",
         "_ALTITUDE": "391",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Cedric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Champignon/Champignon.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4259,8 +6181,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2116,
-        "_UID": 2116,
+        "_ID": 12690,
+        "_UID": 12690,
         "_NAME": "ENT_201048",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4275,9 +6197,9 @@ var pointsFixes =
         "_CAD_NUM": "201048",
         "_CAVENAME": "Gouffre du Ziploc",
         "_ALTITUDE": "316",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GouffreDuZiploc/GouffreDuZiploc.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4290,8 +6212,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2117,
-        "_UID": 2117,
+        "_ID": 12691,
+        "_UID": 12691,
         "_NAME": "ENT_201049",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4302,13 +6224,13 @@ var pointsFixes =
         "_LENGTH_TH": "254",
         "_DEPTH_TH": "85",
         "_LENGTH": "254.0",
-        "_DEPTH": "+85",
+        "_DEPTH": "85",
         "_CAD_NUM": "201049",
         "_CAVENAME": "Cueva Harrico",
         "_ALTITUDE": "29",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/CuevaHarrico/CuevaHarrico.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4321,8 +6243,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2118,
-        "_UID": 2118,
+        "_ID": 12692,
+        "_UID": 12692,
         "_NAME": "ENT_201050",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4337,9 +6259,9 @@ var pointsFixes =
         "_CAD_NUM": "201050",
         "_CAVENAME": "Sumidero del Chorizo Plastico",
         "_ALTITUDE": "285",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/SumideroDelChorizoPlastico/SumideroDelChorizoPlastico.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4352,8 +6274,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2119,
-        "_UID": 2119,
+        "_ID": 12693,
+        "_UID": 12693,
         "_NAME": "ENT_201051",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4368,9 +6290,9 @@ var pointsFixes =
         "_CAD_NUM": "201051",
         "_CAVENAME": "Perte 3",
         "_ALTITUDE": "nan",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Perte3/Perte3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4383,8 +6305,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2120,
-        "_UID": 2120,
+        "_ID": 12694,
+        "_UID": 12694,
         "_NAME": "ENT_201052",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4399,9 +6321,9 @@ var pointsFixes =
         "_CAD_NUM": "201052",
         "_CAVENAME": "GB1",
         "_ALTITUDE": "356",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB1/GB1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4414,8 +6336,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2121,
-        "_UID": 2121,
+        "_ID": 12695,
+        "_UID": 12695,
         "_NAME": "ENT_201053",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4430,9 +6352,9 @@ var pointsFixes =
         "_CAD_NUM": "201053",
         "_CAVENAME": "GB2",
         "_ALTITUDE": "351",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB2/GB2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4445,8 +6367,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2122,
-        "_UID": 2122,
+        "_ID": 12696,
+        "_UID": 12696,
         "_NAME": "ENT_201054",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4461,9 +6383,9 @@ var pointsFixes =
         "_CAD_NUM": "201054",
         "_CAVENAME": "GB3",
         "_ALTITUDE": "239",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB3/GB3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4476,8 +6398,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2123,
-        "_UID": 2123,
+        "_ID": 12697,
+        "_UID": 12697,
         "_NAME": "ENT_201055",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4492,9 +6414,9 @@ var pointsFixes =
         "_CAD_NUM": "201055",
         "_CAVENAME": "Perte 2",
         "_ALTITUDE": "nan",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Perte2/Perte2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4507,8 +6429,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2124,
-        "_UID": 2124,
+        "_ID": 12698,
+        "_UID": 12698,
         "_NAME": "ENT_201056",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4523,9 +6445,9 @@ var pointsFixes =
         "_CAD_NUM": "201056",
         "_CAVENAME": "GB Trou 1",
         "_ALTITUDE": "303",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GBTrou1/GBTrou1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4538,8 +6460,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2125,
-        "_UID": 2125,
+        "_ID": 12699,
+        "_UID": 12699,
         "_NAME": "ENT_201057",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4554,9 +6476,9 @@ var pointsFixes =
         "_CAD_NUM": "201057",
         "_CAVENAME": "GB Trou 2",
         "_ALTITUDE": "306",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GBTrou2/GBTrou2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4569,8 +6491,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2126,
-        "_UID": 2126,
+        "_ID": 12700,
+        "_UID": 12700,
         "_NAME": "ENT_201058",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4585,9 +6507,9 @@ var pointsFixes =
         "_CAD_NUM": "201058",
         "_CAVENAME": "GB Trou 3",
         "_ALTITUDE": "329",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GBTrou3/GBTrou3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4600,8 +6522,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2127,
-        "_UID": 2127,
+        "_ID": 12701,
+        "_UID": 12701,
         "_NAME": "ENT_201059",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4616,9 +6538,9 @@ var pointsFixes =
         "_CAD_NUM": "201059",
         "_CAVENAME": "GB Trou 5",
         "_ALTITUDE": "298",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB Trou 5/GB Trou 5.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4631,8 +6553,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2128,
-        "_UID": 2128,
+        "_ID": 12702,
+        "_UID": 12702,
         "_NAME": "ENT_201060",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4647,9 +6569,9 @@ var pointsFixes =
         "_CAD_NUM": "201060",
         "_CAVENAME": "Gouffre du Totem",
         "_ALTITUDE": "?",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GouffreDuTotem/GouffreDuTotem.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4662,8 +6584,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2129,
-        "_UID": 2129,
+        "_ID": 12703,
+        "_UID": 12703,
         "_NAME": "ENT_201061",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4676,11 +6598,11 @@ var pointsFixes =
         "_LENGTH": "nan",
         "_DEPTH": "?",
         "_CAD_NUM": "201061",
-        "_CAVENAME": "Ayay\u00e9mal",
+        "_CAVENAME": "Ayayemal",
         "_ALTITUDE": "292",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Ayayemal/Ayayemal.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4693,8 +6615,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2130,
-        "_UID": 2130,
+        "_ID": 12704,
+        "_UID": 12704,
         "_NAME": "ENT_201062",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4707,11 +6629,11 @@ var pointsFixes =
         "_LENGTH": "160.0",
         "_DEPTH": "96",
         "_CAD_NUM": "201062",
-        "_CAVENAME": "Ayay\u00e9bo",
+        "_CAVENAME": "Ayayebo",
         "_ALTITUDE": "314",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Ayayebo/Ayayebo.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4724,8 +6646,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2131,
-        "_UID": 2131,
+        "_ID": 12705,
+        "_UID": 12705,
         "_NAME": "ENT_201063",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4740,9 +6662,9 @@ var pointsFixes =
         "_CAD_NUM": "201063",
         "_CAVENAME": "GB1 bis",
         "_ALTITUDE": "344",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB1bis/GB1bis.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4755,8 +6677,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2132,
-        "_UID": 2132,
+        "_ID": 12706,
+        "_UID": 12706,
         "_NAME": "ENT_201064",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4771,9 +6693,9 @@ var pointsFixes =
         "_CAD_NUM": "201064",
         "_CAVENAME": "Gouffre ",
         "_ALTITUDE": "364",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/Gouffre2/Gouffre2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4786,8 +6708,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2133,
-        "_UID": 2133,
+        "_ID": 12707,
+        "_UID": 12707,
         "_NAME": "ENT_201065",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4802,9 +6724,9 @@ var pointsFixes =
         "_CAD_NUM": "201065",
         "_CAVENAME": "SANS NOM",
         "_ALTITUDE": "596",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/SANS NOM/SANS NOM.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4817,8 +6739,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2134,
-        "_UID": 2134,
+        "_ID": 12708,
+        "_UID": 12708,
         "_NAME": "ENT_201066",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4833,9 +6755,9 @@ var pointsFixes =
         "_CAD_NUM": "201066",
         "_CAVENAME": "SANS NOM",
         "_ALTITUDE": "277",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/SANS NOM/SANS NOM.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4848,8 +6770,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2135,
-        "_UID": 2135,
+        "_ID": 12709,
+        "_UID": 12709,
         "_NAME": "ENT_201067",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4864,9 +6786,9 @@ var pointsFixes =
         "_CAD_NUM": "201067",
         "_CAVENAME": "SANS NOM",
         "_ALTITUDE": "388",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/SANS NOM/SANS NOM.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4879,8 +6801,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2136,
-        "_UID": 2136,
+        "_ID": 12710,
+        "_UID": 12710,
         "_NAME": "ENT_201068",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4895,9 +6817,9 @@ var pointsFixes =
         "_CAD_NUM": "201068",
         "_CAVENAME": "GB 07 02-1",
         "_ALTITUDE": "380",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB-07-02-1/GB-07-02-1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4910,8 +6832,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2137,
-        "_UID": 2137,
+        "_ID": 12711,
+        "_UID": 12711,
         "_NAME": "ENT_201069",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4926,9 +6848,9 @@ var pointsFixes =
         "_CAD_NUM": "201069",
         "_CAVENAME": "GB 07 02-2",
         "_ALTITUDE": "382",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB-07-02-2/GB-07-02-2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4941,8 +6863,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2138,
-        "_UID": 2138,
+        "_ID": 12712,
+        "_UID": 12712,
         "_NAME": "ENT_201070",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4957,9 +6879,9 @@ var pointsFixes =
         "_CAD_NUM": "201070",
         "_CAVENAME": "GB 07 02-3",
         "_ALTITUDE": "295",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/GB-07-02-3/GB-07-02-3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -4972,8 +6894,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2139,
-        "_UID": 2139,
+        "_ID": 12713,
+        "_UID": 12713,
         "_NAME": "ENT_201071",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -4988,9 +6910,9 @@ var pointsFixes =
         "_CAD_NUM": "201071",
         "_CAVENAME": "SANS NOM",
         "_ALTITUDE": "281",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/SANS NOM/SANS NOM.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5003,8 +6925,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2140,
-        "_UID": 2140,
+        "_ID": 12714,
+        "_UID": 12714,
         "_NAME": "ENT_201072",
         "_SURVEY": "201.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5019,9 +6941,9 @@ var pointsFixes =
         "_CAD_NUM": "201072",
         "_CAVENAME": "SANS NOM",
         "_ALTITUDE": "378",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/201/SANS NOM/SANS NOM.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5034,8 +6956,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2143,
-        "_UID": 2143,
+        "_ID": 12717,
+        "_UID": 12717,
         "_NAME": "ENT_202001",
         "_SURVEY": "202.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5050,9 +6972,9 @@ var pointsFixes =
         "_CAD_NUM": "202001",
         "_CAVENAME": "grottes des dauphins",
         "_ALTITUDE": "5",
-        "_EXPED": "2017",
+        "_EXPED": "UP2017",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/202/GrotteDesDauphins/GrotteDesDauphins.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5065,8 +6987,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2144,
-        "_UID": 2144,
+        "_ID": 12718,
+        "_UID": 12718,
         "_NAME": "ENT_203001",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5081,9 +7003,9 @@ var pointsFixes =
         "_CAD_NUM": "203001",
         "_CAVENAME": "Perte du Coypo",
         "_ALTITUDE": "253",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Jean-Francois H, Thomas, Florian, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/PerteDuCoypo/PerteDuCoypo.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5096,8 +7018,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2145,
-        "_UID": 2145,
+        "_ID": 12719,
+        "_UID": 12719,
         "_NAME": "ENT_203002",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5110,11 +7032,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203002",
-        "_CAVENAME": "Gouffre F\u00e9lin",
+        "_CAVENAME": "Gouffre Felin",
         "_ALTITUDE": "258",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Isa, Florian, Thomas",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/GouffreFelin/GouffreFelin.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5127,8 +7049,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2146,
-        "_UID": 2146,
+        "_ID": 12720,
+        "_UID": 12720,
         "_NAME": "ENT_203003",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5143,9 +7065,9 @@ var pointsFixes =
         "_CAD_NUM": "203003",
         "_CAVENAME": "Puits du Bourdon",
         "_ALTITUDE": "249",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Isa, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/PuitsDuBourdon/PuitsDuBourdon.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5158,8 +7080,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2147,
-        "_UID": 2147,
+        "_ID": 12721,
+        "_UID": 12721,
         "_NAME": "ENT_203004",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5174,9 +7096,9 @@ var pointsFixes =
         "_CAD_NUM": "203004",
         "_CAVENAME": "Gros Trou",
         "_ALTITUDE": "252",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Isa, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/GrosTrou/GrosTrou.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5189,8 +7111,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2148,
-        "_UID": 2148,
+        "_ID": 12722,
+        "_UID": 12722,
         "_NAME": "ENT_203005",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5203,11 +7125,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203005",
-        "_CAVENAME": "R\u00e9surgence",
+        "_CAVENAME": "Resurgence",
         "_ALTITUDE": "34",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Isa, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/R\u00e9surgence/R\u00e9surgence.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5220,8 +7142,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2149,
-        "_UID": 2149,
+        "_ID": 12723,
+        "_UID": 12723,
         "_NAME": "ENT_203006",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5234,11 +7156,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203006",
-        "_CAVENAME": "R\u00e9surgence",
+        "_CAVENAME": "Resurgence",
         "_ALTITUDE": "119",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Isa, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/R\u00e9surgence/R\u00e9surgence.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5251,8 +7173,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2150,
-        "_UID": 2150,
+        "_ID": 12724,
+        "_UID": 12724,
         "_NAME": "ENT_203007",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5265,11 +7187,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "203007",
-        "_CAVENAME": "R\u00e9surgence",
+        "_CAVENAME": "Resurgence",
         "_ALTITUDE": "121",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Isa, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/R\u00e9surgence/R\u00e9surgence.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5282,8 +7204,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2151,
-        "_UID": 2151,
+        "_ID": 12725,
+        "_UID": 12725,
         "_NAME": "ENT_203008",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5298,9 +7220,9 @@ var pointsFixes =
         "_CAD_NUM": "203008",
         "_CAVENAME": "Aven C301",
         "_ALTITUDE": "334",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Isa, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/Aven C301/Aven C301.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5313,8 +7235,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2152,
-        "_UID": 2152,
+        "_ID": 12726,
+        "_UID": 12726,
         "_NAME": "ENT_203009",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5329,9 +7251,9 @@ var pointsFixes =
         "_CAD_NUM": "203009",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "105",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Isa, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5344,8 +7266,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2153,
-        "_UID": 2153,
+        "_ID": 12727,
+        "_UID": 12727,
         "_NAME": "ENT_203010",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5360,9 +7282,9 @@ var pointsFixes =
         "_CAD_NUM": "203010",
         "_CAVENAME": "Porche 1",
         "_ALTITUDE": "nan",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/Porche1/Porche1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5375,8 +7297,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2154,
-        "_UID": 2154,
+        "_ID": 12728,
+        "_UID": 12728,
         "_NAME": "ENT_203011",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5391,9 +7313,9 @@ var pointsFixes =
         "_CAD_NUM": "203011",
         "_CAVENAME": "Abri du Gazon",
         "_ALTITUDE": "35",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/AbriDuGazon/AbriDuGazon.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5406,8 +7328,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2155,
-        "_UID": 2155,
+        "_ID": 12729,
+        "_UID": 12729,
         "_NAME": "ENT_203012",
         "_SURVEY": "203.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5422,9 +7344,9 @@ var pointsFixes =
         "_CAD_NUM": "203012",
         "_CAVENAME": "Grotte du Nord",
         "_ALTITUDE": "0",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/203/GrotteDuNord/GrotteDuNord.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5437,8 +7359,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2284,
-        "_UID": 2284,
+        "_ID": 12858,
+        "_UID": 12858,
         "_NAME": "ENT_204001",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5453,9 +7375,9 @@ var pointsFixes =
         "_CAD_NUM": "204001",
         "_CAVENAME": "Gouffre de la Gazelle",
         "_ALTITUDE": "nan",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/GouffreGazelle/GouffreGazelle.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5468,8 +7390,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2285,
-        "_UID": 2285,
+        "_ID": 12859,
+        "_UID": 12859,
         "_NAME": "ENT_204002",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5484,9 +7406,9 @@ var pointsFixes =
         "_CAD_NUM": "204002",
         "_CAVENAME": "Ev\u00eaque Cauchon",
         "_ALTITUDE": "74",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric, Vanessa, Bruno, Didier, Fabien, St\u00e9phane, Denis, Arnauld",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/EvequeCauchon/EvequeCauchon.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric, Vanessa, Bruno, Didier, Fabien, Stephane, Denis, Arnauld",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5499,8 +7421,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2286,
-        "_UID": 2286,
+        "_ID": 12860,
+        "_UID": 12860,
         "_NAME": "ENT_204003",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5515,9 +7437,9 @@ var pointsFixes =
         "_CAD_NUM": "204003",
         "_CAVENAME": "Grotte de la fausse Pucelle",
         "_ALTITUDE": "130",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Les doigts bleus",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/GrotteFaussePucelle/GrotteFaussePucelle.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5530,8 +7452,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2287,
-        "_UID": 2287,
+        "_ID": 12861,
+        "_UID": 12861,
         "_NAME": "ENT_204004",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5546,9 +7468,9 @@ var pointsFixes =
         "_CAD_NUM": "204004",
         "_CAVENAME": "Grotte de l'Alouette",
         "_ALTITUDE": "153",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/GouffreAlouette/GouffreAlouette.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5561,8 +7483,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2288,
-        "_UID": 2288,
+        "_ID": 12862,
+        "_UID": 12862,
         "_NAME": "ENT_204005",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5577,9 +7499,9 @@ var pointsFixes =
         "_CAD_NUM": "204005",
         "_CAVENAME": "Trou des Canelures",
         "_ALTITUDE": "316",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Isa",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/TrouDesCanelures/TrouDesCanelures.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5592,8 +7514,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2289,
-        "_UID": 2289,
+        "_ID": 12863,
+        "_UID": 12863,
         "_NAME": "ENT_204006",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5608,9 +7530,9 @@ var pointsFixes =
         "_CAD_NUM": "204006",
         "_CAVENAME": "Perte",
         "_ALTITUDE": "305",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Isa",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/Perte1/Perte1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5623,8 +7545,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2290,
-        "_UID": 2290,
+        "_ID": 12864,
+        "_UID": 12864,
         "_NAME": "ENT_204007",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5639,9 +7561,9 @@ var pointsFixes =
         "_CAD_NUM": "204007",
         "_CAVENAME": "Perte",
         "_ALTITUDE": "157",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Isa",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/Perte2/Perte2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5654,8 +7576,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2291,
-        "_UID": 2291,
+        "_ID": 12865,
+        "_UID": 12865,
         "_NAME": "ENT_204008",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5670,9 +7592,9 @@ var pointsFixes =
         "_CAD_NUM": "204008",
         "_CAVENAME": "Grotte du Rapace",
         "_ALTITUDE": "84",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/GrotteDuRapace/GrotteDuRapace.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5685,8 +7607,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2292,
-        "_UID": 2292,
+        "_ID": 12866,
+        "_UID": 12866,
         "_NAME": "ENT_204009",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5701,9 +7623,9 @@ var pointsFixes =
         "_CAD_NUM": "204009",
         "_CAVENAME": "Grotte de l'Oursin",
         "_ALTITUDE": "50",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Isa, Florian, Thomas, Jean Francois H",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/GrotteDeLOursin/GrotteDeLOursin.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5716,8 +7638,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2293,
-        "_UID": 2293,
+        "_ID": 12867,
+        "_UID": 12867,
         "_NAME": "ENT_204010",
         "_SURVEY": "204.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5732,9 +7654,9 @@ var pointsFixes =
         "_CAD_NUM": "204010",
         "_CAVENAME": "Grotte de la Cacahuete",
         "_ALTITUDE": "nan",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Les doigts bleus",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/204/GrotteCacahuete/GrotteCacahuete.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5747,8 +7669,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2458,
-        "_UID": 2458,
+        "_ID": 13032,
+        "_UID": 13032,
         "_NAME": "ENT_205001",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5763,9 +7685,9 @@ var pointsFixes =
         "_CAD_NUM": "205001",
         "_CAVENAME": "Abri Cotier",
         "_ALTITUDE": "2",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/AbriCotier/AbriCotier.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5778,8 +7700,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2459,
-        "_UID": 2459,
+        "_ID": 13033,
+        "_UID": 13033,
         "_NAME": "ENT_205002",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5794,9 +7716,9 @@ var pointsFixes =
         "_CAD_NUM": "205002",
         "_CAVENAME": "Abri du Cerfeuil",
         "_ALTITUDE": "183",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/AbriDuCerfeuil/AbriDuCerfeuil.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5809,8 +7731,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2460,
-        "_UID": 2460,
+        "_ID": 13034,
+        "_UID": 13034,
         "_NAME": "ENT_205003",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5825,9 +7747,9 @@ var pointsFixes =
         "_CAD_NUM": "205003",
         "_CAVENAME": "Cueva La-Bas",
         "_ALTITUDE": "270",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/CuevaLaBas/CuevaLaBas.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5840,8 +7762,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2461,
-        "_UID": 2461,
+        "_ID": 13035,
+        "_UID": 13035,
         "_NAME": "ENT_205004",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5856,9 +7778,9 @@ var pointsFixes =
         "_CAD_NUM": "205004",
         "_CAVENAME": "Perte des Dents",
         "_ALTITUDE": "250",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/PerteDesDents/PerteDesDents.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5871,8 +7793,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2462,
-        "_UID": 2462,
+        "_ID": 13036,
+        "_UID": 13036,
         "_NAME": "ENT_205005",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5887,9 +7809,9 @@ var pointsFixes =
         "_CAD_NUM": "205005",
         "_CAVENAME": "Sima Juanito",
         "_ALTITUDE": "233",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/SumideroJuanito/SumideroJuanito.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5902,8 +7824,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2463,
-        "_UID": 2463,
+        "_ID": 13037,
+        "_UID": 13037,
         "_NAME": "ENT_205006",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5918,9 +7840,9 @@ var pointsFixes =
         "_CAD_NUM": "205006",
         "_CAVENAME": "Cueva Ardilla",
         "_ALTITUDE": "245",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/CuevaArdilla/CuevaArdilla.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5933,8 +7855,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2464,
-        "_UID": 2464,
+        "_ID": 13038,
+        "_UID": 13038,
         "_NAME": "ENT_205007",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5949,9 +7871,9 @@ var pointsFixes =
         "_CAD_NUM": "205007",
         "_CAVENAME": "Sou30 (pozo 1 en caliza)",
         "_ALTITUDE": "237",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Sou30/Sou30.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5964,8 +7886,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2465,
-        "_UID": 2465,
+        "_ID": 13039,
+        "_UID": 13039,
         "_NAME": "ENT_205008",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -5980,9 +7902,9 @@ var pointsFixes =
         "_CAD_NUM": "205008",
         "_CAVENAME": "Sou33",
         "_ALTITUDE": "301",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Sou33/Sou33.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -5995,8 +7917,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2466,
-        "_UID": 2466,
+        "_ID": 13040,
+        "_UID": 13040,
         "_NAME": "ENT_205009",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6011,9 +7933,9 @@ var pointsFixes =
         "_CAD_NUM": "205009",
         "_CAVENAME": "Sou31",
         "_ALTITUDE": "281",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Sou31/Sou31.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6026,8 +7948,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2467,
-        "_UID": 2467,
+        "_ID": 13041,
+        "_UID": 13041,
         "_NAME": "ENT_205010",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6042,9 +7964,9 @@ var pointsFixes =
         "_CAD_NUM": "205010",
         "_CAVENAME": "MD-SOU01",
         "_ALTITUDE": "260",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/MD-SOU01/MD-SOU01.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6057,8 +7979,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2468,
-        "_UID": 2468,
+        "_ID": 13042,
+        "_UID": 13042,
         "_NAME": "ENT_205011",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6073,9 +7995,9 @@ var pointsFixes =
         "_CAD_NUM": "205011",
         "_CAVENAME": "MD-SOU02",
         "_ALTITUDE": "265",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/MD-SOU02/MD-SOU02.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6088,8 +8010,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2469,
-        "_UID": 2469,
+        "_ID": 13043,
+        "_UID": 13043,
         "_NAME": "ENT_205012",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6104,9 +8026,9 @@ var pointsFixes =
         "_CAD_NUM": "205012",
         "_CAVENAME": "Perte Inattendue",
         "_ALTITUDE": "294",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Florence, Laurent, Jo, Olivier T, Thomas, C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/PerteInattendue/PerteInattendue.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Florence, Laurent, Jo, Olivier T, Thomas, Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6119,8 +8041,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2470,
-        "_UID": 2470,
+        "_ID": 13044,
+        "_UID": 13044,
         "_NAME": "ENT_205013",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6133,11 +8055,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205013",
-        "_CAVENAME": "La Perte Ambr\u00e9e",
+        "_CAVENAME": "La Perte Ambree",
         "_ALTITUDE": "249",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Laurent C, Pierre",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/PerteAmbree/PerteAmbree.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6150,8 +8072,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2471,
-        "_UID": 2471,
+        "_ID": 13045,
+        "_UID": 13045,
         "_NAME": "ENT_205014",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6166,9 +8088,9 @@ var pointsFixes =
         "_CAD_NUM": "205014",
         "_CAVENAME": "porche",
         "_ALTITUDE": "399",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Laurent M",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/porche/porche.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6181,8 +8103,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2472,
-        "_UID": 2472,
+        "_ID": 13046,
+        "_UID": 13046,
         "_NAME": "ENT_205015",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6197,9 +8119,9 @@ var pointsFixes =
         "_CAD_NUM": "205015",
         "_CAVENAME": "perte-faille",
         "_ALTITUDE": "309",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Laurent M",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/PerteFaille/PerteFaille.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6212,8 +8134,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2473,
-        "_UID": 2473,
+        "_ID": 13047,
+        "_UID": 13047,
         "_NAME": "ENT_205016",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6226,11 +8148,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205016",
-        "_CAVENAME": "sortie travers\u00e9e",
+        "_CAVENAME": "sortie traversee",
         "_ALTITUDE": "415",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Laurent M",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/sortie travers\u00e9e/sortie travers\u00e9e.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6243,8 +8165,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2474,
-        "_UID": 2474,
+        "_ID": 13048,
+        "_UID": 13048,
         "_NAME": "ENT_205017",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6257,11 +8179,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205017",
-        "_CAVENAME": "Trou serrure entr\u00e9e",
+        "_CAVENAME": "Trou serrure entree",
         "_ALTITUDE": "407",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Laurent M",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Trou serrure entr\u00e9e/Trou serrure entr\u00e9e.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6274,8 +8196,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2475,
-        "_UID": 2475,
+        "_ID": 13049,
+        "_UID": 13049,
         "_NAME": "ENT_205018",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6290,9 +8212,9 @@ var pointsFixes =
         "_CAD_NUM": "205018",
         "_CAVENAME": "grotte jef",
         "_ALTITUDE": "413",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Laurent M",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/grotte jef/grotte jef.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6305,8 +8227,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2476,
-        "_UID": 2476,
+        "_ID": 13050,
+        "_UID": 13050,
         "_NAME": "ENT_205019",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6321,9 +8243,9 @@ var pointsFixes =
         "_CAD_NUM": "205019",
         "_CAVENAME": "Aven grd diam",
         "_ALTITUDE": "275",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Laurent M",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Aven grd diam/Aven grd diam.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6336,8 +8258,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2477,
-        "_UID": 2477,
+        "_ID": 13051,
+        "_UID": 13051,
         "_NAME": "ENT_205020",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6352,9 +8274,9 @@ var pointsFixes =
         "_CAD_NUM": "205020",
         "_CAVENAME": "perte 2",
         "_ALTITUDE": "249",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/perte 2/perte 2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6367,8 +8289,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2478,
-        "_UID": 2478,
+        "_ID": 13052,
+        "_UID": 13052,
         "_NAME": "ENT_205021",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6383,9 +8305,9 @@ var pointsFixes =
         "_CAD_NUM": "205021",
         "_CAVENAME": "Perte des 4 champi",
         "_ALTITUDE": "207",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Sylvain, C\u00e9dric, Jos\u00e9, Olivier G, Isa, ",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/PerteDesQuatreChampignons/PerteDesQuatreChampignons.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Sylvain, Cedric, Jose, Olivier G, Isa, ",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6398,8 +8320,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2479,
-        "_UID": 2479,
+        "_ID": 13053,
+        "_UID": 13053,
         "_NAME": "ENT_205022",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6414,9 +8336,9 @@ var pointsFixes =
         "_CAD_NUM": "205022",
         "_CAVENAME": "James Bonde",
         "_ALTITUDE": "230",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Florian, Olivier G",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/JamesBonde/JamesBonde.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6429,8 +8351,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2480,
-        "_UID": 2480,
+        "_ID": 13054,
+        "_UID": 13054,
         "_NAME": "ENT_205023",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6445,9 +8367,9 @@ var pointsFixes =
         "_CAD_NUM": "205023",
         "_CAVENAME": "Perte du Jump",
         "_ALTITUDE": "191",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier G, Sylvain",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/PerteDuJump/PerteDuJump.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6460,8 +8382,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2481,
-        "_UID": 2481,
+        "_ID": 13055,
+        "_UID": 13055,
         "_NAME": "ENT_205024",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6476,9 +8398,9 @@ var pointsFixes =
         "_CAD_NUM": "205024",
         "_CAVENAME": "Faille du Coinceur",
         "_ALTITUDE": "190",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/FailleDuCoinceur/FailleDuCoinceur.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6491,8 +8413,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2482,
-        "_UID": 2482,
+        "_ID": 13056,
+        "_UID": 13056,
         "_NAME": "ENT_205025",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6507,9 +8429,9 @@ var pointsFixes =
         "_CAD_NUM": "205025",
         "_CAVENAME": "Igue du Plouc",
         "_ALTITUDE": "200",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/IgueDuPlouc/IgueDuPlouc.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6522,8 +8444,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2483,
-        "_UID": 2483,
+        "_ID": 13057,
+        "_UID": 13057,
         "_NAME": "ENT_205026",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6538,9 +8460,9 @@ var pointsFixes =
         "_CAD_NUM": "205026",
         "_CAVENAME": "Cueva de la fin de Matinas",
         "_ALTITUDE": "170",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/CuevaDeLaFinDeMatinas/CuevaDeLaFinDeMatinas.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6553,8 +8475,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2484,
-        "_UID": 2484,
+        "_ID": 13058,
+        "_UID": 13058,
         "_NAME": "ENT_205027",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6569,9 +8491,9 @@ var pointsFixes =
         "_CAD_NUM": "205027",
         "_CAVENAME": "L'Abri-g\u00eete",
         "_ALTITUDE": "1",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/AbriGite/AbriGite.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6584,8 +8506,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2485,
-        "_UID": 2485,
+        "_ID": 13059,
+        "_UID": 13059,
         "_NAME": "ENT_205028",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6600,9 +8522,9 @@ var pointsFixes =
         "_CAD_NUM": "205028",
         "_CAVENAME": "Grotte du Sud",
         "_ALTITUDE": "2",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Florian, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/GrotteDuSud/GrotteDuSud.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6615,8 +8537,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2486,
-        "_UID": 2486,
+        "_ID": 13060,
+        "_UID": 13060,
         "_NAME": "ENT_205029",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6625,15 +8547,15 @@ var pointsFixes =
         "_CONTINUA_": 0,
         "_COMMENT": "Cueva de la Madre",
         "_LENGTH": "532.0",
-        "_DEPTH": "-18-+20",
+        "_DEPTH": "-38",
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "205029",
         "_CAVENAME": "Cueva de la Madre",
         "_ALTITUDE": "28",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Florian, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/CuevaDeLaMadre/CuevaDeLaMadre.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6646,8 +8568,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2487,
-        "_UID": 2487,
+        "_ID": 13061,
+        "_UID": 13061,
         "_NAME": "ENT_205030",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6662,9 +8584,9 @@ var pointsFixes =
         "_CAD_NUM": "205030",
         "_CAVENAME": "Porche",
         "_ALTITUDE": "20",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Jean Francois H, Thomas, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Porche/Porche.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6677,8 +8599,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2488,
-        "_UID": 2488,
+        "_ID": 13062,
+        "_UID": 13062,
         "_NAME": "ENT_205031",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6693,9 +8615,9 @@ var pointsFixes =
         "_CAD_NUM": "205031",
         "_CAVENAME": "porche jef = gr audeline",
         "_ALTITUDE": "357",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/GrotteAudeline/GrotteAudeline.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6708,8 +8630,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2489,
-        "_UID": 2489,
+        "_ID": 13063,
+        "_UID": 13063,
         "_NAME": "ENT_205032",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6724,9 +8646,9 @@ var pointsFixes =
         "_CAD_NUM": "205032",
         "_CAVENAME": "Porche",
         "_ALTITUDE": "388",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Jean Francois H, Thomas, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Porche/Porche.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6739,8 +8661,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2490,
-        "_UID": 2490,
+        "_ID": 13064,
+        "_UID": 13064,
         "_NAME": "ENT_205033",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6755,9 +8677,9 @@ var pointsFixes =
         "_CAD_NUM": "205033",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "360",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Jean Francois H, Thomas, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6770,8 +8692,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2491,
-        "_UID": 2491,
+        "_ID": 13065,
+        "_UID": 13065,
         "_NAME": "ENT_205034",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6786,9 +8708,9 @@ var pointsFixes =
         "_CAD_NUM": "205034",
         "_CAVENAME": "Grotte Sueno",
         "_ALTITUDE": "423",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Jean Francois H, Thomas, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/205/GrotteSueno/GrotteSueno.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6801,8 +8723,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2492,
-        "_UID": 2492,
+        "_ID": 13066,
+        "_UID": 13066,
         "_NAME": "ENT_205035",
         "_SURVEY": "205.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6832,8 +8754,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2888,
-        "_UID": 2888,
+        "_ID": 13462,
+        "_UID": 13462,
         "_NAME": "ENT_206001",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6848,9 +8770,9 @@ var pointsFixes =
         "_CAD_NUM": "206001",
         "_CAVENAME": "Cueva Ayayema",
         "_ALTITUDE": "nan",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/CuevaAyayema/CuevaAyayema.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6863,8 +8785,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2889,
-        "_UID": 2889,
+        "_ID": 13463,
+        "_UID": 13463,
         "_NAME": "ENT_206002",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6879,9 +8801,9 @@ var pointsFixes =
         "_CAD_NUM": "206002",
         "_CAVENAME": "Grotte du Dyke",
         "_ALTITUDE": "nan",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/GrotteDuDyke/GrotteDuDyke.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6894,8 +8816,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2890,
-        "_UID": 2890,
+        "_ID": 13464,
+        "_UID": 13464,
         "_NAME": "ENT_206003",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6910,9 +8832,9 @@ var pointsFixes =
         "_CAD_NUM": "206003",
         "_CAVENAME": "JJP0",
         "_ALTITUDE": "433",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/JJP0/JJP0.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6925,8 +8847,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2891,
-        "_UID": 2891,
+        "_ID": 13465,
+        "_UID": 13465,
         "_NAME": "ENT_206004",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6941,9 +8863,9 @@ var pointsFixes =
         "_CAD_NUM": "206004",
         "_CAVENAME": "JJP1",
         "_ALTITUDE": "429",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/JJP1/JJP1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6956,8 +8878,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2892,
-        "_UID": 2892,
+        "_ID": 13466,
+        "_UID": 13466,
         "_NAME": "ENT_206005",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -6972,9 +8894,9 @@ var pointsFixes =
         "_CAD_NUM": "206005",
         "_CAVENAME": "JJP2",
         "_ALTITUDE": "444",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/JJP2/JJP2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -6987,8 +8909,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2893,
-        "_UID": 2893,
+        "_ID": 13467,
+        "_UID": 13467,
         "_NAME": "ENT_206006",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7003,9 +8925,9 @@ var pointsFixes =
         "_CAD_NUM": "206006",
         "_CAVENAME": "JJP3",
         "_ALTITUDE": "452",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/JJP3/JJP3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7018,8 +8940,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2894,
-        "_UID": 2894,
+        "_ID": 13468,
+        "_UID": 13468,
         "_NAME": "ENT_206007",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7034,9 +8956,9 @@ var pointsFixes =
         "_CAD_NUM": "206007",
         "_CAVENAME": "JJP8",
         "_ALTITUDE": "358",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/JJP8/JJP8.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7049,8 +8971,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2895,
-        "_UID": 2895,
+        "_ID": 13469,
+        "_UID": 13469,
         "_NAME": "ENT_206008",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7065,9 +8987,9 @@ var pointsFixes =
         "_CAD_NUM": "206008",
         "_CAVENAME": "UL04",
         "_ALTITUDE": "457",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/UL04/UL04.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7080,8 +9002,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2896,
-        "_UID": 2896,
+        "_ID": 13470,
+        "_UID": 13470,
         "_NAME": "ENT_206009",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7096,9 +9018,9 @@ var pointsFixes =
         "_CAD_NUM": "206009",
         "_CAVENAME": "UL07A",
         "_ALTITUDE": "373",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/UL07A/UL07A.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7111,8 +9033,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2897,
-        "_UID": 2897,
+        "_ID": 13471,
+        "_UID": 13471,
         "_NAME": "ENT_206010",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7127,9 +9049,9 @@ var pointsFixes =
         "_CAD_NUM": "206010",
         "_CAVENAME": "UL07B",
         "_ALTITUDE": "380",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/UL07B/UL07B.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7142,8 +9064,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2898,
-        "_UID": 2898,
+        "_ID": 13472,
+        "_UID": 13472,
         "_NAME": "ENT_206011",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7158,9 +9080,9 @@ var pointsFixes =
         "_CAD_NUM": "206011",
         "_CAVENAME": "UL05",
         "_ALTITUDE": "455",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/UL05/UL05.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7173,8 +9095,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2899,
-        "_UID": 2899,
+        "_ID": 13473,
+        "_UID": 13473,
         "_NAME": "ENT_206012",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7189,9 +9111,9 @@ var pointsFixes =
         "_CAD_NUM": "206012",
         "_CAVENAME": "Point32",
         "_ALTITUDE": "338",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/Point32/Point32.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7204,8 +9126,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2900,
-        "_UID": 2900,
+        "_ID": 13474,
+        "_UID": 13474,
         "_NAME": "ENT_206013",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7220,9 +9142,9 @@ var pointsFixes =
         "_CAD_NUM": "206013",
         "_CAVENAME": "Point30",
         "_ALTITUDE": "335",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/Point30/Point30.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7235,8 +9157,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2901,
-        "_UID": 2901,
+        "_ID": 13475,
+        "_UID": 13475,
         "_NAME": "ENT_206014",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7251,9 +9173,9 @@ var pointsFixes =
         "_CAD_NUM": "206014",
         "_CAVENAME": "Point001",
         "_ALTITUDE": "365",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/Point001/Point001.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7266,8 +9188,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2902,
-        "_UID": 2902,
+        "_ID": 13476,
+        "_UID": 13476,
         "_NAME": "ENT_206015",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7282,9 +9204,9 @@ var pointsFixes =
         "_CAD_NUM": "206015",
         "_CAVENAME": "Point31",
         "_ALTITUDE": "334",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/Point31/Point31.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7297,8 +9219,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2903,
-        "_UID": 2903,
+        "_ID": 13477,
+        "_UID": 13477,
         "_NAME": "ENT_206016",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7313,9 +9235,9 @@ var pointsFixes =
         "_CAD_NUM": "206016",
         "_CAVENAME": "GSLS01",
         "_ALTITUDE": "669",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/GSLS01/GSLS01.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7328,8 +9250,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2904,
-        "_UID": 2904,
+        "_ID": 13478,
+        "_UID": 13478,
         "_NAME": "ENT_206017",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7344,9 +9266,9 @@ var pointsFixes =
         "_CAD_NUM": "206017",
         "_CAVENAME": "GSLS02",
         "_ALTITUDE": "691",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/GSLS02/GSLS02.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7359,8 +9281,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2905,
-        "_UID": 2905,
+        "_ID": 13479,
+        "_UID": 13479,
         "_NAME": "ENT_206018",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7375,9 +9297,9 @@ var pointsFixes =
         "_CAD_NUM": "206018",
         "_CAVENAME": "GSLS03",
         "_ALTITUDE": "679",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/GSLS03/GSLS03.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7390,8 +9312,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2906,
-        "_UID": 2906,
+        "_ID": 13480,
+        "_UID": 13480,
         "_NAME": "ENT_206019",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7406,9 +9328,9 @@ var pointsFixes =
         "_CAD_NUM": "206019",
         "_CAVENAME": "GSLS04",
         "_ALTITUDE": "635",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/GSLS04/GSLS04.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7421,8 +9343,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2907,
-        "_UID": 2907,
+        "_ID": 13481,
+        "_UID": 13481,
         "_NAME": "ENT_206020",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7437,9 +9359,9 @@ var pointsFixes =
         "_CAD_NUM": "206020",
         "_CAVENAME": "GSLS05",
         "_ALTITUDE": "632",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/GSLS05/GSLS05.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7452,8 +9374,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2908,
-        "_UID": 2908,
+        "_ID": 13482,
+        "_UID": 13482,
         "_NAME": "ENT_206021",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7468,9 +9390,9 @@ var pointsFixes =
         "_CAD_NUM": "206021",
         "_CAVENAME": "GSLS06",
         "_ALTITUDE": "618",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/GSLS06/GSLS06.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7483,8 +9405,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2909,
-        "_UID": 2909,
+        "_ID": 13483,
+        "_UID": 13483,
         "_NAME": "ENT_206022",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7499,9 +9421,9 @@ var pointsFixes =
         "_CAD_NUM": "206022",
         "_CAVENAME": "GSLS07",
         "_ALTITUDE": "618",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/GSLS07/GSLS07.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7514,8 +9436,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2910,
-        "_UID": 2910,
+        "_ID": 13484,
+        "_UID": 13484,
         "_NAME": "ENT_206023",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7530,9 +9452,9 @@ var pointsFixes =
         "_CAD_NUM": "206023",
         "_CAVENAME": "GSLS08",
         "_ALTITUDE": "4426185",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/GSLS08/GSLS08.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7545,8 +9467,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2911,
-        "_UID": 2911,
+        "_ID": 13485,
+        "_UID": 13485,
         "_NAME": "ENT_206024",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7561,9 +9483,9 @@ var pointsFixes =
         "_CAD_NUM": "206024",
         "_CAVENAME": "Perte du Nothofagus Baobab",
         "_ALTITUDE": "214",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/PerteNothofagusBaobab/PerteNothofagusBaobab.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7576,8 +9498,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2912,
-        "_UID": 2912,
+        "_ID": 13486,
+        "_UID": 13486,
         "_NAME": "ENT_206025",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7592,9 +9514,9 @@ var pointsFixes =
         "_CAD_NUM": "206025",
         "_CAVENAME": "Glaciaire760",
         "_ALTITUDE": "759",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/Glaciaire 760/Glaciaire 760.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7607,8 +9529,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2913,
-        "_UID": 2913,
+        "_ID": 13487,
+        "_UID": 13487,
         "_NAME": "ENT_206026",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7623,9 +9545,9 @@ var pointsFixes =
         "_CAD_NUM": "206026",
         "_CAVENAME": "Grotte Sous La Glaciaire",
         "_ALTITUDE": "745",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/GrotteSousLaGlaciaire/GrotteSousLaGlaciaire.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7638,8 +9560,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2914,
-        "_UID": 2914,
+        "_ID": 13488,
+        "_UID": 13488,
         "_NAME": "ENT_206027",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7654,9 +9576,9 @@ var pointsFixes =
         "_CAD_NUM": "206027",
         "_CAVENAME": "GrotteCamp600",
         "_ALTITUDE": "600",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/GrotteCamp600/GrotteCamp600.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7669,8 +9591,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2915,
-        "_UID": 2915,
+        "_ID": 13489,
+        "_UID": 13489,
         "_NAME": "ENT_206028",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7685,9 +9607,9 @@ var pointsFixes =
         "_CAD_NUM": "206028",
         "_CAVENAME": "Pozo Del Contacto",
         "_ALTITUDE": "629",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/PozoDelContacto/PozoDelContacto.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7700,8 +9622,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2916,
-        "_UID": 2916,
+        "_ID": 13490,
+        "_UID": 13490,
         "_NAME": "ENT_206029",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7716,9 +9638,9 @@ var pointsFixes =
         "_CAD_NUM": "206029",
         "_CAVENAME": "UL02",
         "_ALTITUDE": "621",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/UL02/UL02.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7731,8 +9653,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2917,
-        "_UID": 2917,
+        "_ID": 13491,
+        "_UID": 13491,
         "_NAME": "ENT_206030",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7747,9 +9669,9 @@ var pointsFixes =
         "_CAD_NUM": "206030",
         "_CAVENAME": "UL03",
         "_ALTITUDE": "584",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/UL03/UL03.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7762,8 +9684,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2918,
-        "_UID": 2918,
+        "_ID": 13492,
+        "_UID": 13492,
         "_NAME": "ENT_206031",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7778,9 +9700,9 @@ var pointsFixes =
         "_CAD_NUM": "206031",
         "_CAVENAME": "AJPP01AB",
         "_ALTITUDE": "120",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/AJPP01AB/AJPP01AB.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7793,8 +9715,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2919,
-        "_UID": 2919,
+        "_ID": 13493,
+        "_UID": 13493,
         "_NAME": "ENT_206032",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7809,9 +9731,9 @@ var pointsFixes =
         "_CAD_NUM": "206032",
         "_CAVENAME": "AJPP02",
         "_ALTITUDE": "579",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/AJPP02/AJPP02.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7824,8 +9746,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2920,
-        "_UID": 2920,
+        "_ID": 13494,
+        "_UID": 13494,
         "_NAME": "ENT_206033",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7840,9 +9762,9 @@ var pointsFixes =
         "_CAD_NUM": "206033",
         "_CAVENAME": "Perte Du Moral",
         "_ALTITUDE": "360",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/Perte Du Moral/Perte Du Moral.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7855,8 +9777,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2921,
-        "_UID": 2921,
+        "_ID": 13495,
+        "_UID": 13495,
         "_NAME": "ENT_206034",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7871,9 +9793,9 @@ var pointsFixes =
         "_CAD_NUM": "206034",
         "_CAVENAME": "P85 Camp 400",
         "_ALTITUDE": "519",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/P85Camp400/P85Camp400.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7886,8 +9808,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2922,
-        "_UID": 2922,
+        "_ID": 13496,
+        "_UID": 13496,
         "_NAME": "ENT_206035",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7902,9 +9824,9 @@ var pointsFixes =
         "_CAD_NUM": "206035",
         "_CAVENAME": "Cueva Comete",
         "_ALTITUDE": "380",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/CuevaComete/CuevaComete.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7917,8 +9839,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2923,
-        "_UID": 2923,
+        "_ID": 13497,
+        "_UID": 13497,
         "_NAME": "ENT_206036",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7933,9 +9855,9 @@ var pointsFixes =
         "_CAD_NUM": "206036",
         "_CAVENAME": "Cueva 17",
         "_ALTITUDE": "398",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/Cueva17/Cueva17.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7948,8 +9870,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2924,
-        "_UID": 2924,
+        "_ID": 13498,
+        "_UID": 13498,
         "_NAME": "ENT_206037",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7964,9 +9886,9 @@ var pointsFixes =
         "_CAD_NUM": "206037",
         "_CAVENAME": "Cueva Pause Sac",
         "_ALTITUDE": "380",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/CuevaPauseSac/CuevaPauseSac.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -7979,8 +9901,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2925,
-        "_UID": 2925,
+        "_ID": 13499,
+        "_UID": 13499,
         "_NAME": "ENT_206038",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -7995,9 +9917,9 @@ var pointsFixes =
         "_CAD_NUM": "206038",
         "_CAVENAME": "Cueva Dalle",
         "_ALTITUDE": "396",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/CuevaDalle/CuevaDalle.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8010,8 +9932,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2926,
-        "_UID": 2926,
+        "_ID": 13500,
+        "_UID": 13500,
         "_NAME": "ENT_206039",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8026,9 +9948,9 @@ var pointsFixes =
         "_CAD_NUM": "206039",
         "_CAVENAME": "Big Pits",
         "_ALTITUDE": "382",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/BigPits/BigPits.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8041,8 +9963,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2927,
-        "_UID": 2927,
+        "_ID": 13501,
+        "_UID": 13501,
         "_NAME": "ENT_206040",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8057,9 +9979,9 @@ var pointsFixes =
         "_CAD_NUM": "206040",
         "_CAVENAME": "Perte de la Riviere",
         "_ALTITUDE": "120",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/PerteDeLaRiviere/PerteDeLaRiviere.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8072,8 +9994,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2928,
-        "_UID": 2928,
+        "_ID": 13502,
+        "_UID": 13502,
         "_NAME": "ENT_206041",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8088,9 +10010,9 @@ var pointsFixes =
         "_CAD_NUM": "206041",
         "_CAVENAME": "Passoire",
         "_ALTITUDE": "340",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/Passoire/Passoire.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8103,8 +10025,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2929,
-        "_UID": 2929,
+        "_ID": 13503,
+        "_UID": 13503,
         "_NAME": "ENT_206042",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8119,9 +10041,9 @@ var pointsFixes =
         "_CAD_NUM": "206042",
         "_CAVENAME": "Gouffre Petit Creux",
         "_ALTITUDE": "437",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/GouffrePetitCreux/GouffrePetitCreux.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8134,8 +10056,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2930,
-        "_UID": 2930,
+        "_ID": 13504,
+        "_UID": 13504,
         "_NAME": "ENT_206043",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8150,9 +10072,9 @@ var pointsFixes =
         "_CAD_NUM": "206043",
         "_CAVENAME": "Perte Du Temps",
         "_ALTITUDE": "140",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/PerteDuTemps/PerteDuTemps.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8165,8 +10087,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2931,
-        "_UID": 2931,
+        "_ID": 13505,
+        "_UID": 13505,
         "_NAME": "ENT_206044",
         "_SURVEY": "206.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8179,11 +10101,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "206044",
-        "_CAVENAME": "R\u00e9surgence du Champignon",
+        "_CAVENAME": "Resurgence du Champignon",
         "_ALTITUDE": "0",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/206/ResurgenceDuChampignon/ResurgenceDuChampignon.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8196,8 +10118,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2987,
-        "_UID": 2987,
+        "_ID": 13561,
+        "_UID": 13561,
         "_NAME": "ENT_207001",
         "_SURVEY": "207.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8212,9 +10134,9 @@ var pointsFixes =
         "_CAD_NUM": "207001",
         "_CAVENAME": " Syst\u00e8me des Condors",
         "_ALTITUDE": "141",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/207/SystemeCondors/SystemeCondors.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8227,8 +10149,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 2988,
-        "_UID": 2988,
+        "_ID": 13562,
+        "_UID": 13562,
         "_NAME": "ENT_207002",
         "_SURVEY": "207.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8243,9 +10165,9 @@ var pointsFixes =
         "_CAD_NUM": "207002",
         "_CAVENAME": "Resurgence des Lobos",
         "_ALTITUDE": "0",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/207/ResurgenceLobos/ResurgenceLobos.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8258,8 +10180,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3003,
-        "_UID": 3003,
+        "_ID": 13577,
+        "_UID": 13577,
         "_NAME": "ENT_208001",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8270,13 +10192,13 @@ var pointsFixes =
         "_LENGTH_TH": "341",
         "_DEPTH_TH": "30",
         "_LENGTH": "341.0",
-        "_DEPTH": "-7-+23",
+        "_DEPTH": "-30",
         "_CAD_NUM": "208001",
         "_CAVENAME": "Cueva 10H10",
         "_ALTITUDE": "80",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/208/Cueva10H10/Cueva10H10.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8289,8 +10211,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3004,
-        "_UID": 3004,
+        "_ID": 13578,
+        "_UID": 13578,
         "_NAME": "ENT_208002",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8303,11 +10225,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "208002",
-        "_CAVENAME": "R\u00e9surgence 9 plage de la Baleine",
+        "_CAVENAME": "Resurgence 9 plage de la Baleine",
         "_ALTITUDE": "40",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/208/R\u00e9surgence 9 plage de la Baleine/R\u00e9surgence 9 plage de la Baleine.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8320,8 +10242,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3005,
-        "_UID": 3005,
+        "_ID": 13579,
+        "_UID": 13579,
         "_NAME": "ENT_208003",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8336,9 +10258,9 @@ var pointsFixes =
         "_CAD_NUM": "208003",
         "_CAVENAME": "Grotte 20 plage de la Baleine",
         "_ALTITUDE": "20",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/208/Grotte20PlageDeLaBaleine/Grotte20PlageDeLaBaleine.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8351,8 +10273,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3006,
-        "_UID": 3006,
+        "_ID": 13580,
+        "_UID": 13580,
         "_NAME": "ENT_208004",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8367,9 +10289,9 @@ var pointsFixes =
         "_CAD_NUM": "208004",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "559",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Didier",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/208/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8382,8 +10304,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3007,
-        "_UID": 3007,
+        "_ID": 13581,
+        "_UID": 13581,
         "_NAME": "ENT_208005",
         "_SURVEY": "208.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8398,9 +10320,9 @@ var pointsFixes =
         "_CAD_NUM": "208005",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "561",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Didier",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/208/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8413,8 +10335,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3576,
-        "_UID": 3576,
+        "_ID": 14150,
+        "_UID": 14150,
         "_NAME": "ENT_209001",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8425,13 +10347,13 @@ var pointsFixes =
         "_LENGTH_TH": "505",
         "_DEPTH_TH": "87",
         "_LENGTH": "500.0",
-        "_DEPTH": "+45--34",
+        "_DEPTH": "79",
         "_CAD_NUM": "209001",
         "_CAVENAME": "Grotte du Plein Cintre",
         "_ALTITUDE": "215",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PleinCintre/PleinCintre.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8444,8 +10366,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3577,
-        "_UID": 3577,
+        "_ID": 14151,
+        "_UID": 14151,
         "_NAME": "ENT_209002",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8460,9 +10382,9 @@ var pointsFixes =
         "_CAD_NUM": "209002",
         "_CAVENAME": "Emergence du Barillet",
         "_ALTITUDE": "436",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/EmergenceBarillet/EmergenceBarillet.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8475,8 +10397,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3578,
-        "_UID": 3578,
+        "_ID": 14152,
+        "_UID": 14152,
         "_NAME": "ENT_209003",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8491,9 +10413,9 @@ var pointsFixes =
         "_CAD_NUM": "209003",
         "_CAVENAME": "Gouffre de la Gachette",
         "_ALTITUDE": "428",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/GouffreDeLaGachette/GouffreDeLaGachette.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8506,8 +10428,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3579,
-        "_UID": 3579,
+        "_ID": 14153,
+        "_UID": 14153,
         "_NAME": "ENT_209004",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8520,11 +10442,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209004",
-        "_CAVENAME": "Perte de l'Acharn\u00e9",
+        "_CAVENAME": "Perte de l'Acharne",
         "_ALTITUDE": "334",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Perte de l'Acharn\u00e9/Perte de l'Acharn\u00e9.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8537,8 +10459,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3580,
-        "_UID": 3580,
+        "_ID": 14154,
+        "_UID": 14154,
         "_NAME": "ENT_209005",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8553,9 +10475,9 @@ var pointsFixes =
         "_CAD_NUM": "209005",
         "_CAVENAME": "Perte n\u00b0 18",
         "_ALTITUDE": "422",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Perte n\u00b0 18/Perte n\u00b0 18.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8568,8 +10490,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3581,
-        "_UID": 3581,
+        "_ID": 14155,
+        "_UID": 14155,
         "_NAME": "ENT_209006",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8580,13 +10502,13 @@ var pointsFixes =
         "_LENGTH_TH": "378",
         "_DEPTH_TH": "52",
         "_LENGTH": "380.0",
-        "_DEPTH": "+25--28",
+        "_DEPTH": "53",
         "_CAD_NUM": "209006",
-        "_CAVENAME": "R\u00e9surgence de la plage",
+        "_CAVENAME": "Resurgence de la plage",
         "_ALTITUDE": "3",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/ResurgenceDeLaPlage/ResurgenceDeLaPlage.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8599,8 +10521,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3582,
-        "_UID": 3582,
+        "_ID": 14156,
+        "_UID": 14156,
         "_NAME": "ENT_209007",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8615,9 +10537,9 @@ var pointsFixes =
         "_CAD_NUM": "209007",
         "_CAVENAME": "Grotte de l'Evier",
         "_ALTITUDE": "195",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/GrotteEvier/GrotteEvier.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8630,8 +10552,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3583,
-        "_UID": 3583,
+        "_ID": 14157,
+        "_UID": 14157,
         "_NAME": "ENT_209008",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8646,9 +10568,9 @@ var pointsFixes =
         "_CAD_NUM": "209008",
         "_CAVENAME": "Bob l'Eponge",
         "_ALTITUDE": "200",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/BobLEponge/BobLEponge.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8661,8 +10583,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3584,
-        "_UID": 3584,
+        "_ID": 14158,
+        "_UID": 14158,
         "_NAME": "ENT_209009",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8677,9 +10599,9 @@ var pointsFixes =
         "_CAD_NUM": "209009",
         "_CAVENAME": "Cueva Gringa",
         "_ALTITUDE": "154",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CuevaGringa/CuevaGringa.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8692,8 +10614,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3585,
-        "_UID": 3585,
+        "_ID": 14159,
+        "_UID": 14159,
         "_NAME": "ENT_209010",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8708,9 +10630,9 @@ var pointsFixes =
         "_CAD_NUM": "209010",
         "_CAVENAME": "Doline Calafate",
         "_ALTITUDE": "250",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/DolineCalafate/DolineCalafate.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8723,8 +10645,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3586,
-        "_UID": 3586,
+        "_ID": 14160,
+        "_UID": 14160,
         "_NAME": "ENT_209011",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8737,11 +10659,11 @@ var pointsFixes =
         "_LENGTH": "nan",
         "_DEPTH": "-323",
         "_CAD_NUM": "209011",
-        "_CAVENAME": "Gouffre de la D\u00e9tente",
+        "_CAVENAME": "Gouffre de la Detente",
         "_ALTITUDE": "445",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/GouffreDeLaDetente/GouffreDeLaDetente.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8754,8 +10676,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3587,
-        "_UID": 3587,
+        "_ID": 14161,
+        "_UID": 14161,
         "_NAME": "ENT_209012",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8770,9 +10692,9 @@ var pointsFixes =
         "_CAD_NUM": "209012",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "450",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8785,8 +10707,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3588,
-        "_UID": 3588,
+        "_ID": 14162,
+        "_UID": 14162,
         "_NAME": "ENT_209013",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8801,9 +10723,9 @@ var pointsFixes =
         "_CAD_NUM": "209013",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "357",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8816,8 +10738,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3589,
-        "_UID": 3589,
+        "_ID": 14163,
+        "_UID": 14163,
         "_NAME": "ENT_209014",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8832,9 +10754,9 @@ var pointsFixes =
         "_CAD_NUM": "209014",
         "_CAVENAME": "Gouffre du Kit",
         "_ALTITUDE": "505",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Isa, Jos\u00e9, Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/GouffreDuKit/GouffreDuKit.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa, Jose, Serge",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8847,8 +10769,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3590,
-        "_UID": 3590,
+        "_ID": 14164,
+        "_UID": 14164,
         "_NAME": "ENT_209015",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8863,9 +10785,9 @@ var pointsFixes =
         "_CAD_NUM": "209015",
         "_CAVENAME": "Gouffre Cumple Anos",
         "_ALTITUDE": "412",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Jean Francois H, Didier, Laurent M, Florence, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/GouffreCumpleAnos/GouffreCumpleAnos.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8878,8 +10800,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3591,
-        "_UID": 3591,
+        "_ID": 14165,
+        "_UID": 14165,
         "_NAME": "ENT_209016",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8894,9 +10816,9 @@ var pointsFixes =
         "_CAD_NUM": "209016",
         "_CAVENAME": "La Marmotte",
         "_ALTITUDE": "nan",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9, Isa, Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/LaMarmotte/LaMarmotte.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose, Isa, Serge",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8909,8 +10831,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3592,
-        "_UID": 3592,
+        "_ID": 14166,
+        "_UID": 14166,
         "_NAME": "ENT_209017",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8925,9 +10847,9 @@ var pointsFixes =
         "_CAD_NUM": "209017",
         "_CAVENAME": "Aven Kinka 4",
         "_ALTITUDE": "428",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/AvenKinka4/AvenKinka4.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8940,8 +10862,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3593,
-        "_UID": 3593,
+        "_ID": 14167,
+        "_UID": 14167,
         "_NAME": "ENT_209018",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8956,9 +10878,9 @@ var pointsFixes =
         "_CAD_NUM": "209018",
         "_CAVENAME": "Perte",
         "_ALTITUDE": "nan",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Isa, Jos\u00e9",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Perte3/Perte3.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa, Jose",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -8971,8 +10893,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3594,
-        "_UID": 3594,
+        "_ID": 14168,
+        "_UID": 14168,
         "_NAME": "ENT_209019",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -8987,9 +10909,9 @@ var pointsFixes =
         "_CAD_NUM": "209019",
         "_CAVENAME": "Aven Kinka 3",
         "_ALTITUDE": "413",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9, Bruno, Fabien, Didier",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/AvenKinka3/AvenKinka3.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose, Bruno, Fabien, Didier",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9002,8 +10924,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3595,
-        "_UID": 3595,
+        "_ID": 14169,
+        "_UID": 14169,
         "_NAME": "ENT_209020",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9018,9 +10940,9 @@ var pointsFixes =
         "_CAD_NUM": "209020",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "nan",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9, Isa, Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Aven/Aven.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose, Isa, Serge",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9033,8 +10955,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3596,
-        "_UID": 3596,
+        "_ID": 14170,
+        "_UID": 14170,
         "_NAME": "ENT_209021",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9049,9 +10971,9 @@ var pointsFixes =
         "_CAD_NUM": "209021",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "nan",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Jos\u00e9, Isa, Serge",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Aven/Aven.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Jose, Isa, Serge",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9064,8 +10986,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3597,
-        "_UID": 3597,
+        "_ID": 14171,
+        "_UID": 14171,
         "_NAME": "ENT_209022",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9080,9 +11002,9 @@ var pointsFixes =
         "_CAD_NUM": "209022",
         "_CAVENAME": "Aven -20",
         "_ALTITUDE": "418",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Mulot",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Aven -20/Aven -20.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9095,8 +11017,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3598,
-        "_UID": 3598,
+        "_ID": 14172,
+        "_UID": 14172,
         "_NAME": "ENT_209023",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9111,9 +11033,9 @@ var pointsFixes =
         "_CAD_NUM": "209023",
         "_CAVENAME": "Gouffre",
         "_ALTITUDE": "nan",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Isa, Jos\u00e9",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Gouffre1/Gouffre1.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Isa, Jose",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9126,8 +11048,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3599,
-        "_UID": 3599,
+        "_ID": 14173,
+        "_UID": 14173,
         "_NAME": "ENT_209024",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9142,9 +11064,9 @@ var pointsFixes =
         "_CAD_NUM": "209024",
         "_CAVENAME": "Aven Kinka 2",
         "_ALTITUDE": "428",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Bruno, Didier, Jo, Fabien, Jos\u00e9",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/AvenKinka2/AvenKinka2.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Bruno, Didier, Jo, Fabien, Jose",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9157,8 +11079,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3600,
-        "_UID": 3600,
+        "_ID": 14174,
+        "_UID": 14174,
         "_NAME": "ENT_209025",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9173,9 +11095,9 @@ var pointsFixes =
         "_CAD_NUM": "209025",
         "_CAVENAME": "Aven Kinka 1",
         "_ALTITUDE": "451",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Fabien, Didier",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/AvenKinka1/AvenKinka1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9188,8 +11110,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3601,
-        "_UID": 3601,
+        "_ID": 14175,
+        "_UID": 14175,
         "_NAME": "ENT_209026",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9204,9 +11126,9 @@ var pointsFixes =
         "_CAD_NUM": "209026",
         "_CAVENAME": "Aven non descendu",
         "_ALTITUDE": "434",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Mulot",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Aven non descendu/Aven non descendu.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9219,8 +11141,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3602,
-        "_UID": 3602,
+        "_ID": 14176,
+        "_UID": 14176,
         "_NAME": "ENT_209027",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9235,9 +11157,9 @@ var pointsFixes =
         "_CAD_NUM": "209027",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "433",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Laurent M",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9250,8 +11172,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3603,
-        "_UID": 3603,
+        "_ID": 14177,
+        "_UID": 14177,
         "_NAME": "ENT_209028",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9266,9 +11188,9 @@ var pointsFixes =
         "_CAD_NUM": "209028",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "414",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Laurent M",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9281,8 +11203,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3604,
-        "_UID": 3604,
+        "_ID": 14178,
+        "_UID": 14178,
         "_NAME": "ENT_209029",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9297,9 +11219,9 @@ var pointsFixes =
         "_CAD_NUM": "209029",
         "_CAVENAME": "Grand Aven-Perte",
         "_ALTITUDE": "359",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/GrandAvenPerte/GrandAvenPerte.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9312,8 +11234,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3605,
-        "_UID": 3605,
+        "_ID": 14179,
+        "_UID": 14179,
         "_NAME": "ENT_209030",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9328,9 +11250,9 @@ var pointsFixes =
         "_CAD_NUM": "209030",
         "_CAVENAME": "TROU A",
         "_ALTITUDE": "433",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Mulot",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/TROUA/TROUA.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9343,8 +11265,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3606,
-        "_UID": 3606,
+        "_ID": 14180,
+        "_UID": 14180,
         "_NAME": "ENT_209031",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9359,9 +11281,9 @@ var pointsFixes =
         "_CAD_NUM": "209031",
         "_CAVENAME": "Grande Doline-Perte",
         "_ALTITUDE": "347",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/GrandeDolinePerte/GrandeDolinePerte.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9374,8 +11296,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3607,
-        "_UID": 3607,
+        "_ID": 14181,
+        "_UID": 14181,
         "_NAME": "ENT_209032",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9390,9 +11312,9 @@ var pointsFixes =
         "_CAD_NUM": "209032",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "466",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Mulot",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9405,8 +11327,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3608,
-        "_UID": 3608,
+        "_ID": 14182,
+        "_UID": 14182,
         "_NAME": "ENT_209033",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9421,9 +11343,9 @@ var pointsFixes =
         "_CAD_NUM": "209033",
         "_CAVENAME": "Perte Coipo",
         "_ALTITUDE": "370",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PerteCoipo/PerteCoipo.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9436,8 +11358,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3609,
-        "_UID": 3609,
+        "_ID": 14183,
+        "_UID": 14183,
         "_NAME": "ENT_209035",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9452,9 +11374,9 @@ var pointsFixes =
         "_CAD_NUM": "209035",
         "_CAVENAME": "CHIL",
         "_ALTITUDE": "0",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CHIL/CHIL.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9467,8 +11389,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3610,
-        "_UID": 3610,
+        "_ID": 14184,
+        "_UID": 14184,
         "_NAME": "ENT_209036",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9483,9 +11405,9 @@ var pointsFixes =
         "_CAD_NUM": "209036",
         "_CAVENAME": "Cueva Sorry Topo",
         "_ALTITUDE": "351",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CuevaSorryTopo/CuevaSorryTopo.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9498,8 +11420,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3611,
-        "_UID": 3611,
+        "_ID": 14185,
+        "_UID": 14185,
         "_NAME": "ENT_209037",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9513,10 +11435,10 @@ var pointsFixes =
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209037",
         "_CAVENAME": "Cueva De La Der",
-        "_ALTITUDE": " 393",
-        "_EXPED": "2006",
+        "_ALTITUDE": "393",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CuevaDeLaDer/CuevaDeLaDer.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9529,8 +11451,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3612,
-        "_UID": 3612,
+        "_ID": 14186,
+        "_UID": 14186,
         "_NAME": "ENT_209038",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9544,10 +11466,10 @@ var pointsFixes =
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209038",
         "_CAVENAME": "Trou Pres Du Camp",
-        "_ALTITUDE": " 405",
-        "_EXPED": "2006",
+        "_ALTITUDE": "405",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/TrouPresDuCamp/TrouPresDuCamp.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9560,8 +11482,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3613,
-        "_UID": 3613,
+        "_ID": 14187,
+        "_UID": 14187,
         "_NAME": "ENT_209039",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9575,10 +11497,10 @@ var pointsFixes =
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209039",
         "_CAVENAME": "Cueva P03",
-        "_ALTITUDE": " 368",
-        "_EXPED": "2006",
+        "_ALTITUDE": "368",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CuevaP03/CuevaP03.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9591,8 +11513,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3614,
-        "_UID": 3614,
+        "_ID": 14188,
+        "_UID": 14188,
         "_NAME": "ENT_209040",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9607,9 +11529,9 @@ var pointsFixes =
         "_CAD_NUM": "209040",
         "_CAVENAME": " Pozo Al rato",
         "_ALTITUDE": "380",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PozoAlRato/PozoAlRato.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9622,8 +11544,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3615,
-        "_UID": 3615,
+        "_ID": 14189,
+        "_UID": 14189,
         "_NAME": "ENT_209041",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9638,9 +11560,9 @@ var pointsFixes =
         "_CAD_NUM": "209041",
         "_CAVENAME": " Pozo de los Cinquetenos",
         "_ALTITUDE": "386",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PozoDeLosCinquetenos/PozoDeLosCinquetenos.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9653,8 +11575,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3616,
-        "_UID": 3616,
+        "_ID": 14190,
+        "_UID": 14190,
         "_NAME": "ENT_209042",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9668,10 +11590,10 @@ var pointsFixes =
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "209042",
         "_CAVENAME": "SoloNoSpit",
-        "_ALTITUDE": " 388",
-        "_EXPED": "2006",
+        "_ALTITUDE": "388",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Solo No Spit/Solo No Spit.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9684,8 +11606,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3617,
-        "_UID": 3617,
+        "_ID": 14191,
+        "_UID": 14191,
         "_NAME": "ENT_209043",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9700,9 +11622,9 @@ var pointsFixes =
         "_CAD_NUM": "209043",
         "_CAVENAME": "Cueva Vers Le Bout Du Monde",
         "_ALTITUDE": "nan",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CuevaVersLeBoutDuMonde/CuevaVersLeBoutDuMonde.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9715,8 +11637,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3618,
-        "_UID": 3618,
+        "_ID": 14192,
+        "_UID": 14192,
         "_NAME": "ENT_209044",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9731,9 +11653,9 @@ var pointsFixes =
         "_CAD_NUM": "209044",
         "_CAVENAME": "CuevaSalle",
         "_ALTITUDE": "392",
-        "_EXPED": NaN,
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Cueva Salle/Cueva Salle.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9746,8 +11668,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3620,
-        "_UID": 3620,
+        "_ID": 14194,
+        "_UID": 14194,
         "_NAME": "ENT_209045",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9762,9 +11684,9 @@ var pointsFixes =
         "_CAD_NUM": "209045",
         "_CAVENAME": "PerteLesJumeaux",
         "_ALTITUDE": "578",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Perte Les Jumeaux/Perte Les Jumeaux.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9777,8 +11699,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3621,
-        "_UID": 3621,
+        "_ID": 14195,
+        "_UID": 14195,
         "_NAME": "ENT_209046",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9793,9 +11715,9 @@ var pointsFixes =
         "_CAD_NUM": "209046",
         "_CAVENAME": "PuitsRBE01",
         "_ALTITUDE": "583",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Puits RBE01/Puits RBE01.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9808,8 +11730,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3622,
-        "_UID": 3622,
+        "_ID": 14196,
+        "_UID": 14196,
         "_NAME": "ENT_209047",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9824,9 +11746,9 @@ var pointsFixes =
         "_CAD_NUM": "209047",
         "_CAVENAME": "PuitsRBE02",
         "_ALTITUDE": "594",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/Puits RBE02/Puits RBE02.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9839,8 +11761,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3623,
-        "_UID": 3623,
+        "_ID": 14197,
+        "_UID": 14197,
         "_NAME": "ENT_209048",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9855,9 +11777,9 @@ var pointsFixes =
         "_CAD_NUM": "209048",
         "_CAVENAME": "SorryP20",
         "_ALTITUDE": "609",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/SorryP20/SorryP20.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9870,8 +11792,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3624,
-        "_UID": 3624,
+        "_ID": 14198,
+        "_UID": 14198,
         "_NAME": "ENT_209049",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9886,9 +11808,9 @@ var pointsFixes =
         "_CAD_NUM": "209049",
         "_CAVENAME": "SorryP15",
         "_ALTITUDE": "588",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/SorryP15/SorryP15.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9901,8 +11823,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3625,
-        "_UID": 3625,
+        "_ID": 14199,
+        "_UID": 14199,
         "_NAME": "ENT_209050",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9917,9 +11839,9 @@ var pointsFixes =
         "_CAD_NUM": "209050",
         "_CAVENAME": "Puits RBE03",
         "_ALTITUDE": "592",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PuitsRBE03/PuitsRBE03.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9932,8 +11854,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3626,
-        "_UID": 3626,
+        "_ID": 14200,
+        "_UID": 14200,
         "_NAME": "ENT_209051",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9948,9 +11870,9 @@ var pointsFixes =
         "_CAD_NUM": "209051",
         "_CAVENAME": "Puits RBE04",
         "_ALTITUDE": "599",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PuitsRBE04/PuitsRBE04.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9963,8 +11885,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3627,
-        "_UID": 3627,
+        "_ID": 14201,
+        "_UID": 14201,
         "_NAME": "ENT_209052",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -9979,9 +11901,9 @@ var pointsFixes =
         "_CAD_NUM": "209052",
         "_CAVENAME": "Puits RBE05",
         "_ALTITUDE": "573",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PuitsRBE05/PuitsRBE05.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -9994,8 +11916,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3628,
-        "_UID": 3628,
+        "_ID": 14202,
+        "_UID": 14202,
         "_NAME": "ENT_209053",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10010,9 +11932,9 @@ var pointsFixes =
         "_CAD_NUM": "209053",
         "_CAVENAME": " Cueva Torse Oublie",
         "_ALTITUDE": "444",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CuevaTorseOublie/CuevaTorseOublie.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10025,8 +11947,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3629,
-        "_UID": 3629,
+        "_ID": 14203,
+        "_UID": 14203,
         "_NAME": "ENT_209054",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10041,9 +11963,9 @@ var pointsFixes =
         "_CAD_NUM": "209054",
         "_CAVENAME": "Cueva de los Tres",
         "_ALTITUDE": "548",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/CueveDeLosTres/CueveDeLosTres.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10056,8 +11978,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3630,
-        "_UID": 3630,
+        "_ID": 14204,
+        "_UID": 14204,
         "_NAME": "ENT_209055",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10072,9 +11994,9 @@ var pointsFixes =
         "_CAD_NUM": "209055",
         "_CAVENAME": "Pozo Sin Nombre",
         "_ALTITUDE": "463",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PozoSinNombre/PozoSinNombre.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10087,8 +12009,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3631,
-        "_UID": 3631,
+        "_ID": 14205,
+        "_UID": 14205,
         "_NAME": "ENT_209056",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10103,9 +12025,9 @@ var pointsFixes =
         "_CAD_NUM": "209056",
         "_CAVENAME": "Le Tube",
         "_ALTITUDE": "673",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/LeTube/LeTube.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10118,8 +12040,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3632,
-        "_UID": 3632,
+        "_ID": 14206,
+        "_UID": 14206,
         "_NAME": "ENT_209057",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10134,9 +12056,9 @@ var pointsFixes =
         "_CAD_NUM": "209057",
         "_CAVENAME": "Pozo Del GPS Volando",
         "_ALTITUDE": "449",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PozoDelGPSVolando/PozoDelGPSVolando.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10149,8 +12071,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3633,
-        "_UID": 3633,
+        "_ID": 14207,
+        "_UID": 14207,
         "_NAME": "ENT_209058",
         "_SURVEY": "209.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10165,9 +12087,9 @@ var pointsFixes =
         "_CAD_NUM": "209058",
         "_CAVENAME": " Perte des Sabliers",
         "_ALTITUDE": "452",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/209/PerteDesSabliers/PerteDesSabliers.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10180,8 +12102,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3643,
-        "_UID": 3643,
+        "_ID": 14217,
+        "_UID": 14217,
         "_NAME": "ENT_210001",
         "_SURVEY": "210.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10196,9 +12118,9 @@ var pointsFixes =
         "_CAD_NUM": "210001",
         "_CAVENAME": "Surgencia fin del Seno",
         "_ALTITUDE": "0",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/210/ResurgenceFinDeSeno/ResurgenceFinDeSeno.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10211,8 +12133,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3892,
-        "_UID": 3892,
+        "_ID": 14466,
+        "_UID": 14466,
         "_NAME": "ENT_211001",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10227,9 +12149,9 @@ var pointsFixes =
         "_CAD_NUM": "211001",
         "_CAVENAME": "El Abrito del Viento",
         "_ALTITUDE": "407",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/AbrigoDelViento/AbrigoDelViento.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10242,8 +12164,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3893,
-        "_UID": 3893,
+        "_ID": 14467,
+        "_UID": 14467,
         "_NAME": "ENT_211002",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10258,9 +12180,9 @@ var pointsFixes =
         "_CAD_NUM": "211002",
         "_CAVENAME": "Sumidero Piquante",
         "_ALTITUDE": "191",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/SumideroPiquante/SumideroPiquante.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10273,8 +12195,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3894,
-        "_UID": 3894,
+        "_ID": 14468,
+        "_UID": 14468,
         "_NAME": "ENT_211003",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10289,9 +12211,9 @@ var pointsFixes =
         "_CAD_NUM": "211003",
         "_CAVENAME": "Gouffre d'Aguilucho",
         "_ALTITUDE": "73",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GouffreAguilucho/GouffreAguilucho.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10304,8 +12226,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3895,
-        "_UID": 3895,
+        "_ID": 14469,
+        "_UID": 14469,
         "_NAME": "ENT_211004",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10320,9 +12242,9 @@ var pointsFixes =
         "_CAD_NUM": "211004",
         "_CAVENAME": "Exurgence du Picaflor",
         "_ALTITUDE": "10",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/ExsurgencePicaflor/ExsurgencePicaflor.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10335,8 +12257,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3896,
-        "_UID": 3896,
+        "_ID": 14470,
+        "_UID": 14470,
         "_NAME": "ENT_211005",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10351,9 +12273,9 @@ var pointsFixes =
         "_CAD_NUM": "211005",
         "_CAVENAME": "Porche de l'Impatience",
         "_ALTITUDE": "30",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/PorcheDeLImpatience/PorcheDeLImpatience.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10366,8 +12288,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3897,
-        "_UID": 3897,
+        "_ID": 14471,
+        "_UID": 14471,
         "_NAME": "ENT_211006",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10382,9 +12304,9 @@ var pointsFixes =
         "_CAD_NUM": "211006",
         "_CAVENAME": "Sima del Col",
         "_ALTITUDE": "348",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/SimaDelCol/SimaDelCol.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10397,8 +12319,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3898,
-        "_UID": 3898,
+        "_ID": 14472,
+        "_UID": 14472,
         "_NAME": "ENT_211007",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10413,9 +12335,9 @@ var pointsFixes =
         "_CAD_NUM": "211007",
         "_CAVENAME": "MD-BDGS01",
         "_ALTITUDE": "192",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/MD-BDGS01/MD-BDGS01.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10428,8 +12350,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3899,
-        "_UID": 3899,
+        "_ID": 14473,
+        "_UID": 14473,
         "_NAME": "ENT_211008",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10444,9 +12366,9 @@ var pointsFixes =
         "_CAD_NUM": "211008",
         "_CAVENAME": "MD-BDGS02",
         "_ALTITUDE": "461",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/MD-BDGS02/MD-BDGS02.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10459,8 +12381,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3900,
-        "_UID": 3900,
+        "_ID": 14474,
+        "_UID": 14474,
         "_NAME": "ENT_211009",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10475,9 +12397,9 @@ var pointsFixes =
         "_CAD_NUM": "211009",
         "_CAVENAME": "MD-BDGS03",
         "_ALTITUDE": "71",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/MD-BDGS03/MD-BDGS03.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10490,8 +12412,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3901,
-        "_UID": 3901,
+        "_ID": 14475,
+        "_UID": 14475,
         "_NAME": "ENT_211010",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10506,9 +12428,9 @@ var pointsFixes =
         "_CAD_NUM": "211010",
         "_CAVENAME": "MD-BDGS04",
         "_ALTITUDE": "536",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/MD-BDGS04/MD-BDGS04.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10521,8 +12443,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3902,
-        "_UID": 3902,
+        "_ID": 14476,
+        "_UID": 14476,
         "_NAME": "ENT_211011",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10537,9 +12459,9 @@ var pointsFixes =
         "_CAD_NUM": "211011",
         "_CAVENAME": "MD-BDG05",
         "_ALTITUDE": "310",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/MD-BDG05/MD-BDG05.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10552,8 +12474,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3903,
-        "_UID": 3903,
+        "_ID": 14477,
+        "_UID": 14477,
         "_NAME": "ENT_211012",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10568,9 +12490,9 @@ var pointsFixes =
         "_CAD_NUM": "211012",
         "_CAVENAME": "Grotte Grande Soeur",
         "_ALTITUDE": "360",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrotteGrandeSoeur/GrotteGrandeSoeur.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10583,8 +12505,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3904,
-        "_UID": 3904,
+        "_ID": 14478,
+        "_UID": 14478,
         "_NAME": "ENT_211013",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10599,9 +12521,9 @@ var pointsFixes =
         "_CAD_NUM": "211013",
         "_CAVENAME": "Gouffre 36",
         "_ALTITUDE": "392",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Denis, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Gouffre36/Gouffre36.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10614,8 +12536,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3905,
-        "_UID": 3905,
+        "_ID": 14479,
+        "_UID": 14479,
         "_NAME": "ENT_211014",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10630,9 +12552,9 @@ var pointsFixes =
         "_CAD_NUM": "211014",
         "_CAVENAME": "Gouffre des Mousquetaires",
         "_ALTITUDE": "298",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Arnauld, Laurent C, C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GouffreDesMousquetaires/GouffreDesMousquetaires.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Arnauld, Laurent C, Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10645,8 +12567,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3906,
-        "_UID": 3906,
+        "_ID": 14480,
+        "_UID": 14480,
         "_NAME": "ENT_211015",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10661,9 +12583,9 @@ var pointsFixes =
         "_CAD_NUM": "211015",
         "_CAVENAME": "Gouffre de l'Arche",
         "_ALTITUDE": "310",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric, Arnault, Laurent C",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GouffreDeLArche/GouffreDeLArche.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric, Arnault, Laurent C",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10676,8 +12598,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3907,
-        "_UID": 3907,
+        "_ID": 14481,
+        "_UID": 14481,
         "_NAME": "ENT_211016",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10692,9 +12614,9 @@ var pointsFixes =
         "_CAD_NUM": "211016",
         "_CAVENAME": "Gouffre \u00e0 la t\u00eate d'Ours",
         "_ALTITUDE": "332",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GouffreALaTeteDOurs/GouffreALaTeteDOurs.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10707,8 +12629,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3908,
-        "_UID": 3908,
+        "_ID": 14482,
+        "_UID": 14482,
         "_NAME": "ENT_211017",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10723,9 +12645,9 @@ var pointsFixes =
         "_CAD_NUM": "211017",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "322",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Denis",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10738,8 +12660,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3909,
-        "_UID": 3909,
+        "_ID": 14483,
+        "_UID": 14483,
         "_NAME": "ENT_211018",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10754,9 +12676,9 @@ var pointsFixes =
         "_CAD_NUM": "211018",
         "_CAVENAME": "Grotte de Lobos Secos",
         "_ALTITUDE": "328",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Laurent C, Denis, Arnauld, C\u00e9dric, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrotteDeLobosSecos/GrotteDeLobosSecos.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Laurent C, Denis, Arnauld, Cedric, Olivier T",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10769,8 +12691,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3910,
-        "_UID": 3910,
+        "_ID": 14484,
+        "_UID": 14484,
         "_NAME": "ENT_211019",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10785,9 +12707,9 @@ var pointsFixes =
         "_CAD_NUM": "211019",
         "_CAVENAME": "Grotte Marion",
         "_ALTITUDE": "339",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Fabien Thomas",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrotteMarion/GrotteMarion.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10800,8 +12722,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3911,
-        "_UID": 3911,
+        "_ID": 14485,
+        "_UID": 14485,
         "_NAME": "ENT_211020",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10814,11 +12736,11 @@ var pointsFixes =
         "_LENGTH": "38.0",
         "_DEPTH": "-15",
         "_CAD_NUM": "211020",
-        "_CAVENAME": "M\u00e9andre des Sables",
+        "_CAVENAME": "Meandre des Sables",
         "_ALTITUDE": "384",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Fabien Thomas",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/MeandreDesSables/MeandreDesSables.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10831,8 +12753,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3912,
-        "_UID": 3912,
+        "_ID": 14486,
+        "_UID": 14486,
         "_NAME": "ENT_211021",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10847,9 +12769,9 @@ var pointsFixes =
         "_CAD_NUM": "211021",
         "_CAVENAME": "Grotte de la Conduite",
         "_ALTITUDE": "364",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric, Buldo",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrotteDeLaConduite/GrotteDeLaConduite.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric, Buldo",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10862,8 +12784,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3913,
-        "_UID": 3913,
+        "_ID": 14487,
+        "_UID": 14487,
         "_NAME": "ENT_211022",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10878,9 +12800,9 @@ var pointsFixes =
         "_CAD_NUM": "211022",
         "_CAVENAME": "Cueva del Agua",
         "_ALTITUDE": "352",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric, Arnauld",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/CuevaDelAgua/CuevaDelAgua.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric, Arnauld",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10893,8 +12815,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3914,
-        "_UID": 3914,
+        "_ID": 14488,
+        "_UID": 14488,
         "_NAME": "ENT_211023",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10909,9 +12831,9 @@ var pointsFixes =
         "_CAD_NUM": "211023",
         "_CAVENAME": "Aven de la Traverse",
         "_ALTITUDE": "353",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Fabien Thomas",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/AvenDeLaTraverse/AvenDeLaTraverse.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10924,8 +12846,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3915,
-        "_UID": 3915,
+        "_ID": 14489,
+        "_UID": 14489,
         "_NAME": "ENT_211024",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10940,9 +12862,9 @@ var pointsFixes =
         "_CAD_NUM": "211024",
         "_CAVENAME": "Grotte du Nomade",
         "_ALTITUDE": "354",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Arnauld, Denis, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrotteDuNomade/GrotteDuNomade.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10955,8 +12877,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3916,
-        "_UID": 3916,
+        "_ID": 14490,
+        "_UID": 14490,
         "_NAME": "ENT_211025",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -10971,9 +12893,9 @@ var pointsFixes =
         "_CAD_NUM": "211025",
         "_CAVENAME": "Grotte Filostik",
         "_ALTITUDE": "291",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Isa, Laurent C, Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrotteFilostik/GrotteFilostik.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -10986,8 +12908,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3917,
-        "_UID": 3917,
+        "_ID": 14491,
+        "_UID": 14491,
         "_NAME": "ENT_211026",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11002,9 +12924,9 @@ var pointsFixes =
         "_CAD_NUM": "211026",
         "_CAVENAME": "Porche de la Madre 2",
         "_ALTITUDE": "364",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric, Jean Phi",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/PorcheDeLaMadre2/PorcheDeLaMadre2.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric, Jean Phi",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11017,8 +12939,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3918,
-        "_UID": 3918,
+        "_ID": 14492,
+        "_UID": 14492,
         "_NAME": "ENT_211027",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11033,9 +12955,9 @@ var pointsFixes =
         "_CAD_NUM": "211027",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "294",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Denis",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11048,8 +12970,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3919,
-        "_UID": 3919,
+        "_ID": 14493,
+        "_UID": 14493,
         "_NAME": "ENT_211028",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11064,9 +12986,9 @@ var pointsFixes =
         "_CAD_NUM": "211028",
         "_CAVENAME": "Abri",
         "_ALTITUDE": "403",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Denis, Arnauld",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Abri3/Abri3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11079,8 +13001,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3920,
-        "_UID": 3920,
+        "_ID": 14494,
+        "_UID": 14494,
         "_NAME": "ENT_211029",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11095,9 +13017,9 @@ var pointsFixes =
         "_CAD_NUM": "211029",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "432",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Denis",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11110,8 +13032,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3921,
-        "_UID": 3921,
+        "_ID": 14495,
+        "_UID": 14495,
         "_NAME": "ENT_211030",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11126,9 +13048,9 @@ var pointsFixes =
         "_CAD_NUM": "211030",
         "_CAVENAME": "Grand Aven Triple",
         "_ALTITUDE": "365",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Fabien",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrandAvenTriple/GrandAvenTriple.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11141,8 +13063,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3922,
-        "_UID": 3922,
+        "_ID": 14496,
+        "_UID": 14496,
         "_NAME": "ENT_211031",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11155,11 +13077,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211031",
-        "_CAVENAME": "Perte Ensabl\u00e9e",
+        "_CAVENAME": "Perte Ensablee",
         "_ALTITUDE": "374",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Fabien",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/PerteEnsabl\u00e9e/PerteEnsabl\u00e9e.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11172,8 +13094,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3923,
-        "_UID": 3923,
+        "_ID": 14497,
+        "_UID": 14497,
         "_NAME": "ENT_211032",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11188,9 +13110,9 @@ var pointsFixes =
         "_CAD_NUM": "211032",
         "_CAVENAME": "Cueva 1",
         "_ALTITUDE": "581",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Cueva1/Cueva1.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11203,8 +13125,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3924,
-        "_UID": 3924,
+        "_ID": 14498,
+        "_UID": 14498,
         "_NAME": "ENT_211033",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11219,9 +13141,9 @@ var pointsFixes =
         "_CAD_NUM": "211033",
         "_CAVENAME": "Porche",
         "_ALTITUDE": "357",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Denis",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Porche/Porche.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11234,8 +13156,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3925,
-        "_UID": 3925,
+        "_ID": 14499,
+        "_UID": 14499,
         "_NAME": "ENT_211034",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11250,9 +13172,9 @@ var pointsFixes =
         "_CAD_NUM": "211034",
         "_CAVENAME": "AVEN ?",
         "_ALTITUDE": "309",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/AVEN ?/AVEN ?.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11265,8 +13187,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3926,
-        "_UID": 3926,
+        "_ID": 14500,
+        "_UID": 14500,
         "_NAME": "ENT_211035",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11281,9 +13203,9 @@ var pointsFixes =
         "_CAD_NUM": "211035",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "415",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Denis",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11296,8 +13218,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3927,
-        "_UID": 3927,
+        "_ID": 14501,
+        "_UID": 14501,
         "_NAME": "ENT_211036",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11312,9 +13234,9 @@ var pointsFixes =
         "_CAD_NUM": "211036",
         "_CAVENAME": "Lobos Matos",
         "_ALTITUDE": "303",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/LobosMatos/LobosMatos.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11327,8 +13249,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3928,
-        "_UID": 3928,
+        "_ID": 14502,
+        "_UID": 14502,
         "_NAME": "ENT_211037",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11343,9 +13265,9 @@ var pointsFixes =
         "_CAD_NUM": "211037",
         "_CAVENAME": "aven",
         "_ALTITUDE": "288",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/aven/aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11358,8 +13280,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3929,
-        "_UID": 3929,
+        "_ID": 14503,
+        "_UID": 14503,
         "_NAME": "ENT_211038",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11374,9 +13296,9 @@ var pointsFixes =
         "_CAD_NUM": "211038",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "389",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Denis",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11389,8 +13311,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3930,
-        "_UID": 3930,
+        "_ID": 14504,
+        "_UID": 14504,
         "_NAME": "ENT_211039",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11405,9 +13327,9 @@ var pointsFixes =
         "_CAD_NUM": "211039",
         "_CAVENAME": "aven",
         "_ALTITUDE": "298",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/aven/aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11420,8 +13342,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3931,
-        "_UID": 3931,
+        "_ID": 14505,
+        "_UID": 14505,
         "_NAME": "ENT_211040",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11436,9 +13358,9 @@ var pointsFixes =
         "_CAD_NUM": "211040",
         "_CAVENAME": "Aven",
         "_ALTITUDE": "287",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Olivier T, Denis",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Aven/Aven.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11451,8 +13373,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3932,
-        "_UID": 3932,
+        "_ID": 14506,
+        "_UID": 14506,
         "_NAME": "ENT_211041",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11467,9 +13389,9 @@ var pointsFixes =
         "_CAD_NUM": "211041",
         "_CAVENAME": "Cueva 5",
         "_ALTITUDE": "310",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Cueva5/Cueva5.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11482,8 +13404,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3933,
-        "_UID": 3933,
+        "_ID": 14507,
+        "_UID": 14507,
         "_NAME": "ENT_211042",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11498,9 +13420,9 @@ var pointsFixes =
         "_CAD_NUM": "211042",
         "_CAVENAME": "Cueva 6",
         "_ALTITUDE": "433",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "C\u00e9dric",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Cueva6/Cueva6.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Cedric",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11513,8 +13435,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3934,
-        "_UID": 3934,
+        "_ID": 14508,
+        "_UID": 14508,
         "_NAME": "ENT_211043",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11529,9 +13451,9 @@ var pointsFixes =
         "_CAD_NUM": "211043",
         "_CAVENAME": "Perte 1Lobos",
         "_ALTITUDE": "332",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/Perte1Lobos/Perte1Lobos.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11544,8 +13466,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3935,
-        "_UID": 3935,
+        "_ID": 14509,
+        "_UID": 14509,
         "_NAME": "ENT_211044",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11559,10 +13481,10 @@ var pointsFixes =
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "211044",
         "_CAVENAME": "Perte des Lobos",
-        "_ALTITUDE": "nan",
-        "_EXPED": NaN,
+        "_ALTITUDE": "330",
+        "_EXPED": "unknown",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/PerteDesLobos/PerteDesLobos.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11575,8 +13497,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3936,
-        "_UID": 3936,
+        "_ID": 14510,
+        "_UID": 14510,
         "_NAME": "ENT_211045",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11591,9 +13513,9 @@ var pointsFixes =
         "_CAD_NUM": "211045",
         "_CAVENAME": "El Culo de la Madre",
         "_ALTITUDE": "355",
-        "_EXPED": "2010",
-        "_EXPLORATEURS": "Sylvain, C\u00e9dric, Buldo",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/ElCuloDeLaMadre/ElCuloDeLaMadre.html"
+        "_EXPED": "UP2010",
+        "_EXPLORATEURS": "Sylvain, Cedric, Buldo",
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11606,8 +13528,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3937,
-        "_UID": 3937,
+        "_ID": 14511,
+        "_UID": 14511,
         "_NAME": "ENT_211046",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11622,9 +13544,9 @@ var pointsFixes =
         "_CAD_NUM": "211046",
         "_CAVENAME": "La Grotte",
         "_ALTITUDE": "331",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/LaGrotte/LaGrotte.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11637,8 +13559,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3938,
-        "_UID": 3938,
+        "_ID": 14512,
+        "_UID": 14512,
         "_NAME": "ENT_211047",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11653,9 +13575,9 @@ var pointsFixes =
         "_CAD_NUM": "211047",
         "_CAVENAME": "Igue Dedob",
         "_ALTITUDE": "nan",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/IgueDeDob/IgueDeDob.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11668,8 +13590,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3939,
-        "_UID": 3939,
+        "_ID": 14513,
+        "_UID": 14513,
         "_NAME": "ENT_211048",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11684,9 +13606,9 @@ var pointsFixes =
         "_CAD_NUM": "211048",
         "_CAVENAME": "Grotte Petite Soeur",
         "_ALTITUDE": "nan",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "Florian",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/GrottePetiteSoeur/GrottePetiteSoeur.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11699,8 +13621,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3940,
-        "_UID": 3940,
+        "_ID": 14514,
+        "_UID": 14514,
         "_NAME": "ENT_211049",
         "_SURVEY": "211.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11715,9 +13637,9 @@ var pointsFixes =
         "_CAD_NUM": "211049",
         "_CAVENAME": "Puits Octopus",
         "_ALTITUDE": "330",
-        "_EXPED": "2010",
+        "_EXPED": "UP2010",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/211/PuitsOctopus/PuitsOctopus.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11730,8 +13652,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3941,
-        "_UID": 3941,
+        "_ID": 14515,
+        "_UID": 14515,
         "_NAME": "ENT_212001",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11746,9 +13668,9 @@ var pointsFixes =
         "_CAD_NUM": "212001",
         "_CAVENAME": "Grotte de Tarlton",
         "_ALTITUDE": "30",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/212/GrotteDeTarlton/GrotteDeTarlton.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11761,8 +13683,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3942,
-        "_UID": 3942,
+        "_ID": 14516,
+        "_UID": 14516,
         "_NAME": "ENT_212002",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11777,9 +13699,9 @@ var pointsFixes =
         "_CAD_NUM": "212002",
         "_CAVENAME": "TAR01",
         "_ALTITUDE": "294",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/212/TAR01/TAR01.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11792,8 +13714,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3943,
-        "_UID": 3943,
+        "_ID": 14517,
+        "_UID": 14517,
         "_NAME": "ENT_212003",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11808,9 +13730,9 @@ var pointsFixes =
         "_CAD_NUM": "212003",
         "_CAVENAME": "TAR02",
         "_ALTITUDE": "380",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/212/TAR02/TAR02.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11823,8 +13745,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3944,
-        "_UID": 3944,
+        "_ID": 14518,
+        "_UID": 14518,
         "_NAME": "ENT_212004",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11839,9 +13761,9 @@ var pointsFixes =
         "_CAD_NUM": "212004",
         "_CAVENAME": "TAR03",
         "_ALTITUDE": "525",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/212/TAR03/TAR03.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11854,8 +13776,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3945,
-        "_UID": 3945,
+        "_ID": 14519,
+        "_UID": 14519,
         "_NAME": "ENT_212005",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11870,9 +13792,9 @@ var pointsFixes =
         "_CAD_NUM": "212005",
         "_CAVENAME": "TAR04",
         "_ALTITUDE": "476",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/212/TAR04/TAR04.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11885,8 +13807,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 3946,
-        "_UID": 3946,
+        "_ID": 14520,
+        "_UID": 14520,
         "_NAME": "ENT_212006",
         "_SURVEY": "212.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11901,9 +13823,9 @@ var pointsFixes =
         "_CAD_NUM": "212006",
         "_CAVENAME": "TAR05",
         "_ALTITUDE": "340",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/212/TAR05/TAR05.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11916,8 +13838,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4300,
-        "_UID": 4300,
+        "_ID": 14874,
+        "_UID": 14874,
         "_NAME": "ENT_213001",
         "_SURVEY": "213.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11932,9 +13854,9 @@ var pointsFixes =
         "_CAD_NUM": "213001",
         "_CAVENAME": "Perte du Masque et de la Plume",
         "_ALTITUDE": "90",
-        "_EXPED": "2008",
+        "_EXPED": "UP2008",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/213/LeMasqueEtLaPlume/LeMasqueEtLaPlume.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11947,8 +13869,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4301,
-        "_UID": 4301,
+        "_ID": 14875,
+        "_UID": 14875,
         "_NAME": "ENT_213002",
         "_SURVEY": "213.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11963,9 +13885,9 @@ var pointsFixes =
         "_CAD_NUM": "213002",
         "_CAVENAME": " Grotte du Finistere",
         "_ALTITUDE": "37",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/213/GrotteFinistere/GrotteFinistere.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -11978,8 +13900,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4302,
-        "_UID": 4302,
+        "_ID": 14876,
+        "_UID": 14876,
         "_NAME": "ENT_213003",
         "_SURVEY": "213.UltimaPatagonia",
         "_SURFACE": 1,
@@ -11994,9 +13916,9 @@ var pointsFixes =
         "_CAD_NUM": "213003",
         "_CAVENAME": " Perte Glaciaire",
         "_ALTITUDE": "100",
-        "_EXPED": "2006",
+        "_EXPED": "UP2006",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/213/PerteGlaciaire/PerteGlaciaire.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12009,8 +13931,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4434,
-        "_UID": 4434,
+        "_ID": 15008,
+        "_UID": 15008,
         "_NAME": "ENT_303001",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12025,9 +13947,9 @@ var pointsFixes =
         "_CAD_NUM": "303001",
         "_CAVENAME": "Trou 1 sur 3eme bloc calcaire",
         "_ALTITUDE": "186",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Trou 1 sur 3eme bloc calcaire/Trou 1 sur 3eme bloc calcaire.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12040,8 +13962,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4435,
-        "_UID": 4435,
+        "_ID": 15009,
+        "_UID": 15009,
         "_NAME": "ENT_303002",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12056,9 +13978,9 @@ var pointsFixes =
         "_CAD_NUM": "303002",
         "_CAVENAME": "Perte des Portes d'Abraham",
         "_ALTITUDE": "163",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/PerteDesPortesDAbraham/PerteDesPortesDAbraham.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12071,8 +13993,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4436,
-        "_UID": 4436,
+        "_ID": 15010,
+        "_UID": 15010,
         "_NAME": "ENT_303003",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12087,9 +14009,9 @@ var pointsFixes =
         "_CAD_NUM": "303003",
         "_CAVENAME": "Cueva Nutria",
         "_ALTITUDE": "20",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/CuevaNutria/CuevaNutria.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12102,8 +14024,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4437,
-        "_UID": 4437,
+        "_ID": 15011,
+        "_UID": 15011,
         "_NAME": "ENT_303004",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12118,9 +14040,9 @@ var pointsFixes =
         "_CAD_NUM": "303004",
         "_CAVENAME": "Le Raccourci",
         "_ALTITUDE": "274",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/LeRaccourci/LeRaccourci.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12133,8 +14055,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4438,
-        "_UID": 4438,
+        "_ID": 15012,
+        "_UID": 15012,
         "_NAME": "ENT_303005",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12147,11 +14069,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303005",
-        "_CAVENAME": "Le Raccourci V\u00e9g\u00e9tal",
+        "_CAVENAME": "Le Raccourci Vegetal",
         "_ALTITUDE": "55",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Le RaccourciVegetal/Le RaccourciVegetal.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12164,8 +14086,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4439,
-        "_UID": 4439,
+        "_ID": 15013,
+        "_UID": 15013,
         "_NAME": "ENT_303006",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12180,9 +14102,9 @@ var pointsFixes =
         "_CAD_NUM": "303006",
         "_CAVENAME": "Tortilla con Lemon",
         "_ALTITUDE": "253",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/CuevaTortillaConCitron/CuevaTortillaConCitron.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12195,8 +14117,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4440,
-        "_UID": 4440,
+        "_ID": 15014,
+        "_UID": 15014,
         "_NAME": "ENT_303007",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12211,9 +14133,9 @@ var pointsFixes =
         "_CAD_NUM": "303007",
         "_CAVENAME": "Gouffre de l'Erbra",
         "_ALTITUDE": "86",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/GouffreDeLErbra/GouffreDeLErbra.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12226,8 +14148,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4441,
-        "_UID": 4441,
+        "_ID": 15015,
+        "_UID": 15015,
         "_NAME": "ENT_303008",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12240,11 +14162,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303008",
-        "_CAVENAME": "Regard sur la r\u00e9surgence de l'Avenir",
+        "_CAVENAME": "Regard sur la resurgence de l'Avenir",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/RegardResurgenceAvenir/RegardResurgenceAvenir.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12257,8 +14179,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4442,
-        "_UID": 4442,
+        "_ID": 15016,
+        "_UID": 15016,
         "_NAME": "ENT_303009",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12273,9 +14195,9 @@ var pointsFixes =
         "_CAD_NUM": "303009",
         "_CAVENAME": "Cueva du Plateau",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/CuevaDuPlateau/CuevaDuPlateau.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12288,8 +14210,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4443,
-        "_UID": 4443,
+        "_ID": 15017,
+        "_UID": 15017,
         "_NAME": "ENT_303010",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12304,9 +14226,9 @@ var pointsFixes =
         "_CAD_NUM": "303010",
         "_CAVENAME": "Igue du Dike",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/IgueDuDike/IgueDuDike.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12319,8 +14241,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4444,
-        "_UID": 4444,
+        "_ID": 15018,
+        "_UID": 15018,
         "_NAME": "ENT_303011",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12335,9 +14257,9 @@ var pointsFixes =
         "_CAD_NUM": "303011",
         "_CAVENAME": "Pas de nom",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Pas de nom/Pas de nom.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12350,8 +14272,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4445,
-        "_UID": 4445,
+        "_ID": 15019,
+        "_UID": 15019,
         "_NAME": "ENT_303012",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12366,9 +14288,9 @@ var pointsFixes =
         "_CAD_NUM": "303012",
         "_CAVENAME": "P20",
         "_ALTITUDE": "301",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/P20/P20.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12381,8 +14303,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4446,
-        "_UID": 4446,
+        "_ID": 15020,
+        "_UID": 15020,
         "_NAME": "ENT_303013",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12397,9 +14319,9 @@ var pointsFixes =
         "_CAD_NUM": "303013",
         "_CAVENAME": "Pas de nom",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/Pas de nom/Pas de nom.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12412,8 +14334,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4447,
-        "_UID": 4447,
+        "_ID": 15021,
+        "_UID": 15021,
         "_NAME": "ENT_303014",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12426,11 +14348,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303014",
-        "_CAVENAME": "Gouffre SansD\u00e9conner",
+        "_CAVENAME": "Gouffre SansDeconner",
         "_ALTITUDE": "21",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/GouffreSansDeconner/GouffreSansDeconner.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12443,8 +14365,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4448,
-        "_UID": 4448,
+        "_ID": 15022,
+        "_UID": 15022,
         "_NAME": "ENT_303015",
         "_SURVEY": "303.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12457,11 +14379,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "303015",
-        "_CAVENAME": "R\u00e9surgence Oubli\u00e9e",
+        "_CAVENAME": "Resurgence Oubliee",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/303/ResurgenceOubliee/ResurgenceOubliee.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12469,13 +14391,13 @@ var pointsFixes =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.07547904995616,
-          -51.364860277327956
+          -75.07547902194135,
+          -51.36486021086265
         ]
       },
       "properties": {
-        "_ID": 4535,
-        "_UID": 4535,
+        "_ID": 15109,
+        "_UID": 15109,
         "_NAME": "ENTREE",
         "_SURVEY": "ResurgenceDeLAvenir.304.UltimaPatagonia",
         "_SURFACE": 0,
@@ -12505,8 +14427,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4644,
-        "_UID": 4644,
+        "_ID": 15218,
+        "_UID": 15218,
         "_NAME": "ENT_304001",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12521,9 +14443,9 @@ var pointsFixes =
         "_CAD_NUM": "304001",
         "_CAVENAME": "Perte de la Sucri\u00e8re",
         "_ALTITUDE": "399",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/PerteDeLaSucriere/PerteDeLaSucriere.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12536,8 +14458,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4645,
-        "_UID": 4645,
+        "_ID": 15219,
+        "_UID": 15219,
         "_NAME": "ENT_304002",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12552,9 +14474,9 @@ var pointsFixes =
         "_CAD_NUM": "304002",
         "_CAVENAME": "\u0152il du Diable (ex perte majeure)",
         "_ALTITUDE": "315",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/OjoDelDiablo/OjoDelDiablo.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12567,8 +14489,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4646,
-        "_UID": 4646,
+        "_ID": 15220,
+        "_UID": 15220,
         "_NAME": "ENT_304003",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12581,11 +14503,11 @@ var pointsFixes =
         "_LENGTH": "nan",
         "_DEPTH": "-84",
         "_CAD_NUM": "304003",
-        "_CAVENAME": "Perte de la Sucri\u00e8re inf\u00e9rieure",
+        "_CAVENAME": "Perte de la Sucri\u00e8re inferieure",
         "_ALTITUDE": "330",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/PerteDeLaSucriereInferieure/PerteDeLaSucriereInferieure.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12598,8 +14520,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4647,
-        "_UID": 4647,
+        "_ID": 15221,
+        "_UID": 15221,
         "_NAME": "ENT_304004",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12612,11 +14534,11 @@ var pointsFixes =
         "_LENGTH": "700.0",
         "_DEPTH": "12 - -39",
         "_CAD_NUM": "304004",
-        "_CAVENAME": "R\u00e9surgence de l'Avenir",
+        "_CAVENAME": "Resurgence de l'Avenir",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/ResurgenceDeLAvenir/ResurgenceDeLAvenir.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12629,8 +14551,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4648,
-        "_UID": 4648,
+        "_ID": 15222,
+        "_UID": 15222,
         "_NAME": "ENT_304005",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12645,9 +14567,9 @@ var pointsFixes =
         "_CAD_NUM": "304005",
         "_CAVENAME": "TC1",
         "_ALTITUDE": "484",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/TC1/TC1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12660,8 +14582,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4649,
-        "_UID": 4649,
+        "_ID": 15223,
+        "_UID": 15223,
         "_NAME": "ENT_304006",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12676,9 +14598,9 @@ var pointsFixes =
         "_CAD_NUM": "304006",
         "_CAVENAME": "TC2",
         "_ALTITUDE": "488",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/TC2/TC2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12691,8 +14613,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4650,
-        "_UID": 4650,
+        "_ID": 15224,
+        "_UID": 15224,
         "_NAME": "ENT_304007",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12707,9 +14629,9 @@ var pointsFixes =
         "_CAD_NUM": "304007",
         "_CAVENAME": "TC3",
         "_ALTITUDE": "544",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/TC3/TC3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12722,8 +14644,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4651,
-        "_UID": 4651,
+        "_ID": 15225,
+        "_UID": 15225,
         "_NAME": "ENT_304008",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12738,9 +14660,9 @@ var pointsFixes =
         "_CAD_NUM": "304008",
         "_CAVENAME": "TC4",
         "_ALTITUDE": "533",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/TC4/TC4.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12753,8 +14675,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4652,
-        "_UID": 4652,
+        "_ID": 15226,
+        "_UID": 15226,
         "_NAME": "ENT_304009",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12769,9 +14691,9 @@ var pointsFixes =
         "_CAD_NUM": "304009",
         "_CAVENAME": "TC5",
         "_ALTITUDE": "533",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/TC5/TC5.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12784,8 +14706,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4653,
-        "_UID": 4653,
+        "_ID": 15227,
+        "_UID": 15227,
         "_NAME": "ENT_304010",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12800,9 +14722,9 @@ var pointsFixes =
         "_CAD_NUM": "304010",
         "_CAVENAME": "TC6",
         "_ALTITUDE": "522",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/TC6/TC6.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12815,8 +14737,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4654,
-        "_UID": 4654,
+        "_ID": 15228,
+        "_UID": 15228,
         "_NAME": "ENT_304011",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12831,9 +14753,9 @@ var pointsFixes =
         "_CAD_NUM": "304011",
         "_CAVENAME": "Gouffre Pacifico",
         "_ALTITUDE": "386",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffrePacifico/GouffrePacifico.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12846,8 +14768,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4655,
-        "_UID": 4655,
+        "_ID": 15229,
+        "_UID": 15229,
         "_NAME": "ENT_304012",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12862,9 +14784,9 @@ var pointsFixes =
         "_CAD_NUM": "304012",
         "_CAVENAME": "Pas de nom",
         "_ALTITUDE": "372",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Pas de nom/Pas de nom.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12877,8 +14799,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4656,
-        "_UID": 4656,
+        "_ID": 15230,
+        "_UID": 15230,
         "_NAME": "ENT_304013",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12893,9 +14815,9 @@ var pointsFixes =
         "_CAD_NUM": "304013",
         "_CAVENAME": "Pas de nom",
         "_ALTITUDE": "344",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Pas de nom/Pas de nom.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12908,8 +14830,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4657,
-        "_UID": 4657,
+        "_ID": 15231,
+        "_UID": 15231,
         "_NAME": "ENT_304014",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12924,9 +14846,9 @@ var pointsFixes =
         "_CAD_NUM": "304014",
         "_CAVENAME": "Pas de nom",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Pas de nom/Pas de nom.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12939,8 +14861,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4658,
-        "_UID": 4658,
+        "_ID": 15232,
+        "_UID": 15232,
         "_NAME": "ENT_304015",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12955,9 +14877,9 @@ var pointsFixes =
         "_CAD_NUM": "304015",
         "_CAVENAME": "Perte du col 1",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/PerteDuCol1/PerteDuCol1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -12970,8 +14892,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4659,
-        "_UID": 4659,
+        "_ID": 15233,
+        "_UID": 15233,
         "_NAME": "ENT_304016",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -12986,9 +14908,9 @@ var pointsFixes =
         "_CAD_NUM": "304016",
         "_CAVENAME": "Perte du col 2",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/PerteduCol2/PerteduCol2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13001,8 +14923,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4660,
-        "_UID": 4660,
+        "_ID": 15234,
+        "_UID": 15234,
         "_NAME": "ENT_304017",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13017,9 +14939,9 @@ var pointsFixes =
         "_CAD_NUM": "304017",
         "_CAVENAME": "Igue du Midi",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/IgueDuMidi/IgueDuMidi.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13032,8 +14954,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4661,
-        "_UID": 4661,
+        "_ID": 15235,
+        "_UID": 15235,
         "_NAME": "ENT_304018",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13048,9 +14970,9 @@ var pointsFixes =
         "_CAD_NUM": "304018",
         "_CAVENAME": "Igue Enviluc",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/IgueEnviluc/IgueEnviluc.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13063,8 +14985,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4662,
-        "_UID": 4662,
+        "_ID": 15236,
+        "_UID": 15236,
         "_NAME": "ENT_304019",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13079,9 +15001,9 @@ var pointsFixes =
         "_CAD_NUM": "304019",
         "_CAVENAME": "Cueva de la Ma\u00f1ana",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/CuevaManana/CuevaManana.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13094,8 +15016,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4663,
-        "_UID": 4663,
+        "_ID": 15237,
+        "_UID": 15237,
         "_NAME": "ENT_304020",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13110,9 +15032,9 @@ var pointsFixes =
         "_CAD_NUM": "304020",
         "_CAVENAME": "Trou du Cairn",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/TrouDuCairn/TrouDuCairn.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13125,8 +15047,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4664,
-        "_UID": 4664,
+        "_ID": 15238,
+        "_UID": 15238,
         "_NAME": "ENT_304021",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13141,9 +15063,9 @@ var pointsFixes =
         "_CAD_NUM": "304021",
         "_CAVENAME": "Gouffre des Trois Arches",
         "_ALTITUDE": "483",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffreDesTroisArches/GouffreDesTroisArches.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13156,8 +15078,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4665,
-        "_UID": 4665,
+        "_ID": 15239,
+        "_UID": 15239,
         "_NAME": "ENT_304022",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13172,9 +15094,9 @@ var pointsFixes =
         "_CAD_NUM": "304022",
         "_CAVENAME": "Gouffre \"2 spits pour Rien\"",
         "_ALTITUDE": "358",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffreDeuxSpitsPourRien/GouffreDeuxSpitsPourRien.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13187,8 +15109,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4666,
-        "_UID": 4666,
+        "_ID": 15240,
+        "_UID": 15240,
         "_NAME": "ENT_304023",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13203,9 +15125,9 @@ var pointsFixes =
         "_CAD_NUM": "304023",
         "_CAVENAME": "Gouffre No Futur",
         "_ALTITUDE": "438",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffreNoFutur/GouffreNoFutur.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13218,8 +15140,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4667,
-        "_UID": 4667,
+        "_ID": 15241,
+        "_UID": 15241,
         "_NAME": "ENT_304024",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13234,9 +15156,9 @@ var pointsFixes =
         "_CAD_NUM": "304024",
         "_CAVENAME": "Gouffre Retour vers le Futur",
         "_ALTITUDE": "412",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffreRetourVersLeFutur/GouffreRetourVersLeFutur.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13249,8 +15171,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4668,
-        "_UID": 4668,
+        "_ID": 15242,
+        "_UID": 15242,
         "_NAME": "ENT_304025",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13265,9 +15187,9 @@ var pointsFixes =
         "_CAD_NUM": "304025",
         "_CAVENAME": "Arc 13",
         "_ALTITUDE": "325",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc13/Arc13.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13280,8 +15202,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4669,
-        "_UID": 4669,
+        "_ID": 15243,
+        "_UID": 15243,
         "_NAME": "ENT_304026",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13296,9 +15218,9 @@ var pointsFixes =
         "_CAD_NUM": "304026",
         "_CAVENAME": "Arc 12",
         "_ALTITUDE": "387",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc12/Arc12.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13311,8 +15233,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4670,
-        "_UID": 4670,
+        "_ID": 15244,
+        "_UID": 15244,
         "_NAME": "ENT_304027",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13327,9 +15249,9 @@ var pointsFixes =
         "_CAD_NUM": "304027",
         "_CAVENAME": "Arc 12bis",
         "_ALTITUDE": "387",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc12bis/Arc12bis.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13342,8 +15264,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4671,
-        "_UID": 4671,
+        "_ID": 15245,
+        "_UID": 15245,
         "_NAME": "ENT_304028",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13358,9 +15280,9 @@ var pointsFixes =
         "_CAD_NUM": "304028",
         "_CAVENAME": "Arc 3",
         "_ALTITUDE": "368",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc3/Arc3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13373,8 +15295,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4672,
-        "_UID": 4672,
+        "_ID": 15246,
+        "_UID": 15246,
         "_NAME": "ENT_304029",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13389,9 +15311,9 @@ var pointsFixes =
         "_CAD_NUM": "304029",
         "_CAVENAME": "Arc 4",
         "_ALTITUDE": "380",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc4/Arc4.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13404,8 +15326,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4673,
-        "_UID": 4673,
+        "_ID": 15247,
+        "_UID": 15247,
         "_NAME": "ENT_304030",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13420,9 +15342,9 @@ var pointsFixes =
         "_CAD_NUM": "304030",
         "_CAVENAME": "Gouffre Futur 1",
         "_ALTITUDE": "545",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/SumideroFuturo/SumideroFuturo.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13435,8 +15357,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4674,
-        "_UID": 4674,
+        "_ID": 15248,
+        "_UID": 15248,
         "_NAME": "ENT_304031",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13451,9 +15373,9 @@ var pointsFixes =
         "_CAD_NUM": "304031",
         "_CAVENAME": "Gouffre Futur 2",
         "_ALTITUDE": "562",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/SumideroFuturo/SumideroFuturo.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13466,8 +15388,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4675,
-        "_UID": 4675,
+        "_ID": 15249,
+        "_UID": 15249,
         "_NAME": "ENT_304032",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13482,9 +15404,9 @@ var pointsFixes =
         "_CAD_NUM": "304032",
         "_CAVENAME": "Gouffre N\u00b01 Sommet 3",
         "_ALTITUDE": "554",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Gouffre N\u00b01 Sommet 3/Gouffre N\u00b01 Sommet 3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13497,8 +15419,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4676,
-        "_UID": 4676,
+        "_ID": 15250,
+        "_UID": 15250,
         "_NAME": "ENT_304033",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13513,9 +15435,9 @@ var pointsFixes =
         "_CAD_NUM": "304033",
         "_CAVENAME": "Pas de nom",
         "_ALTITUDE": "557",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Pas de nom/Pas de nom.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13528,8 +15450,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4677,
-        "_UID": 4677,
+        "_ID": 15251,
+        "_UID": 15251,
         "_NAME": "ENT_304034",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13544,9 +15466,9 @@ var pointsFixes =
         "_CAD_NUM": "304034",
         "_CAVENAME": "Gouffre n\u00b03 sommet 3",
         "_ALTITUDE": "54",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Gouffre n\u00b03 sommet 3/Gouffre n\u00b03 sommet 3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13559,8 +15481,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4678,
-        "_UID": 4678,
+        "_ID": 15252,
+        "_UID": 15252,
         "_NAME": "ENT_304035",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13575,9 +15497,9 @@ var pointsFixes =
         "_CAD_NUM": "304035",
         "_CAVENAME": "Machu-Pichu",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GrotteMachuPichu/GrotteMachuPichu.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13590,8 +15512,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4679,
-        "_UID": 4679,
+        "_ID": 15253,
+        "_UID": 15253,
         "_NAME": "ENT_304036",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13606,9 +15528,9 @@ var pointsFixes =
         "_CAD_NUM": "304036",
         "_CAVENAME": "Gouffre \"Un cul de plus \u00e0 explorer\"",
         "_ALTITUDE": "399",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffreUnCulDePlusAExplorer/GouffreUnCulDePlusAExplorer.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13621,8 +15543,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4680,
-        "_UID": 4680,
+        "_ID": 15254,
+        "_UID": 15254,
         "_NAME": "ENT_304037",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13637,9 +15559,9 @@ var pointsFixes =
         "_CAD_NUM": "304037",
         "_CAVENAME": "Gouffre pr\u00e8s du camp du Futur",
         "_ALTITUDE": "407",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Gouffre pr\u00e8s du camp du Futur/Gouffre pr\u00e8s du camp du Futur.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13652,8 +15574,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4681,
-        "_UID": 4681,
+        "_ID": 15255,
+        "_UID": 15255,
         "_NAME": "ENT_304038",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13668,9 +15590,9 @@ var pointsFixes =
         "_CAD_NUM": "304038",
         "_CAVENAME": "Arc 14",
         "_ALTITUDE": "347",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc14/Arc14.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13683,8 +15605,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4682,
-        "_UID": 4682,
+        "_ID": 15256,
+        "_UID": 15256,
         "_NAME": "ENT_304039",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13699,9 +15621,9 @@ var pointsFixes =
         "_CAD_NUM": "304039",
         "_CAVENAME": "Cueva del Condor",
         "_ALTITUDE": "230",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/SystemaLosTubos/SystemaLosTubos.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13714,8 +15636,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4683,
-        "_UID": 4683,
+        "_ID": 15257,
+        "_UID": 15257,
         "_NAME": "ENT_304040",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13730,9 +15652,9 @@ var pointsFixes =
         "_CAD_NUM": "304040",
         "_CAVENAME": "Sumdiero Escondido",
         "_ALTITUDE": "106",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/SumideroEscondido/SumideroEscondido.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13745,8 +15667,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4684,
-        "_UID": 4684,
+        "_ID": 15258,
+        "_UID": 15258,
         "_NAME": "ENT_304041",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13761,9 +15683,9 @@ var pointsFixes =
         "_CAD_NUM": "304041",
         "_CAVENAME": "Surgencia Estrella",
         "_ALTITUDE": "65",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/SurgenciaEstrella/SurgenciaEstrella.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13776,8 +15698,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4685,
-        "_UID": 4685,
+        "_ID": 15259,
+        "_UID": 15259,
         "_NAME": "ENT_304042",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13792,9 +15714,9 @@ var pointsFixes =
         "_CAD_NUM": "304042",
         "_CAVENAME": "Cueva Estrella",
         "_ALTITUDE": "95",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/CuevaEstrella/CuevaEstrella.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13807,8 +15729,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4686,
-        "_UID": 4686,
+        "_ID": 15260,
+        "_UID": 15260,
         "_NAME": "ENT_304043",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13823,9 +15745,9 @@ var pointsFixes =
         "_CAD_NUM": "304043",
         "_CAVENAME": "Perte perdue",
         "_ALTITUDE": "106",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/PertePerdue/PertePerdue.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13838,8 +15760,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4687,
-        "_UID": 4687,
+        "_ID": 15261,
+        "_UID": 15261,
         "_NAME": "ENT_304044",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13852,11 +15774,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "304044",
-        "_CAVENAME": "Gouffre \"Explor\u00e9vitefait\"",
+        "_CAVENAME": "Gouffre \"Explorevitefait\"",
         "_ALTITUDE": "101",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffreExploreViteFait/GouffreExploreViteFait.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13869,8 +15791,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4688,
-        "_UID": 4688,
+        "_ID": 15262,
+        "_UID": 15262,
         "_NAME": "ENT_304045",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13885,9 +15807,9 @@ var pointsFixes =
         "_CAD_NUM": "304045",
         "_CAVENAME": "Puits 1 Jean-Phi",
         "_ALTITUDE": "250",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Puits1JeanPhi/Puits1JeanPhi.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13900,8 +15822,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4689,
-        "_UID": 4689,
+        "_ID": 15263,
+        "_UID": 15263,
         "_NAME": "ENT_304046",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13916,9 +15838,9 @@ var pointsFixes =
         "_CAD_NUM": "304046",
         "_CAVENAME": "Pozo Dyke (System de los Tubas)",
         "_ALTITUDE": "nan",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/SystemaLosTubos/SystemaLosTubos.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13931,8 +15853,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4690,
-        "_UID": 4690,
+        "_ID": 15264,
+        "_UID": 15264,
         "_NAME": "ENT_304047",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13947,9 +15869,9 @@ var pointsFixes =
         "_CAD_NUM": "304047",
         "_CAVENAME": "Arc 1",
         "_ALTITUDE": "276",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc1/Arc1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13962,8 +15884,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4691,
-        "_UID": 4691,
+        "_ID": 15265,
+        "_UID": 15265,
         "_NAME": "ENT_304048",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -13978,9 +15900,9 @@ var pointsFixes =
         "_CAD_NUM": "304048",
         "_CAVENAME": "Arc 11",
         "_ALTITUDE": "260",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc11/Arc11.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -13993,8 +15915,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4692,
-        "_UID": 4692,
+        "_ID": 15266,
+        "_UID": 15266,
         "_NAME": "ENT_304049",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14009,9 +15931,9 @@ var pointsFixes =
         "_CAD_NUM": "304049",
         "_CAVENAME": "Arc 111",
         "_ALTITUDE": "258",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc111/Arc111.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14024,8 +15946,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4693,
-        "_UID": 4693,
+        "_ID": 15267,
+        "_UID": 15267,
         "_NAME": "ENT_304050",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14040,9 +15962,9 @@ var pointsFixes =
         "_CAD_NUM": "304050",
         "_CAVENAME": "Arc 113",
         "_ALTITUDE": "299",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc113/Arc113.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14055,8 +15977,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4694,
-        "_UID": 4694,
+        "_ID": 15268,
+        "_UID": 15268,
         "_NAME": "ENT_304051",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14071,9 +15993,9 @@ var pointsFixes =
         "_CAD_NUM": "304051",
         "_CAVENAME": "Arc 114",
         "_ALTITUDE": "259",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc114/Arc114.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14086,8 +16008,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4695,
-        "_UID": 4695,
+        "_ID": 15269,
+        "_UID": 15269,
         "_NAME": "ENT_304052",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14102,9 +16024,9 @@ var pointsFixes =
         "_CAD_NUM": "304052",
         "_CAVENAME": "Arc 112 ; Les myst\u00e8res de l'ouest",
         "_ALTITUDE": "291",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc112/Arc112.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14117,8 +16039,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4696,
-        "_UID": 4696,
+        "_ID": 15270,
+        "_UID": 15270,
         "_NAME": "ENT_304053",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14133,9 +16055,9 @@ var pointsFixes =
         "_CAD_NUM": "304053",
         "_CAVENAME": "Gouffre du Robinet",
         "_ALTITUDE": "456",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/GouffreDuRobinet/GouffreDuRobinet.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14148,8 +16070,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4697,
-        "_UID": 4697,
+        "_ID": 15271,
+        "_UID": 15271,
         "_NAME": "ENT_304054",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14164,9 +16086,9 @@ var pointsFixes =
         "_CAD_NUM": "304054",
         "_CAVENAME": "Arc 20 ou gouffre du Soleil",
         "_ALTITUDE": "212",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/CuevaDelSol/CuevaDelSol.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14179,8 +16101,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4698,
-        "_UID": 4698,
+        "_ID": 15272,
+        "_UID": 15272,
         "_NAME": "ENT_304055",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14195,9 +16117,9 @@ var pointsFixes =
         "_CAD_NUM": "304055",
         "_CAVENAME": "Arc 19",
         "_ALTITUDE": "229",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc19/Arc19.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14210,8 +16132,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4699,
-        "_UID": 4699,
+        "_ID": 15273,
+        "_UID": 15273,
         "_NAME": "ENT_304056",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14226,9 +16148,9 @@ var pointsFixes =
         "_CAD_NUM": "304056",
         "_CAVENAME": "Arc 18",
         "_ALTITUDE": "224",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc18/Arc18.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14241,8 +16163,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4700,
-        "_UID": 4700,
+        "_ID": 15274,
+        "_UID": 15274,
         "_NAME": "ENT_304057",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14257,9 +16179,9 @@ var pointsFixes =
         "_CAD_NUM": "304057",
         "_CAVENAME": "Arc 17",
         "_ALTITUDE": "300",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/Arc17/Arc17.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14272,8 +16194,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4701,
-        "_UID": 4701,
+        "_ID": 15275,
+        "_UID": 15275,
         "_NAME": "ENT_304058",
         "_SURVEY": "304.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14288,9 +16210,9 @@ var pointsFixes =
         "_CAD_NUM": "304058",
         "_CAVENAME": "Perte Col 1",
         "_ALTITUDE": "482",
-        "_EXPED": "2014",
+        "_EXPED": "UP2014",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/304/PerteCol1/PerteCol1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14303,8 +16225,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4702,
-        "_UID": 4702,
+        "_ID": 15276,
+        "_UID": 15276,
         "_NAME": "ENT_401001",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14319,9 +16241,9 @@ var pointsFixes =
         "_CAD_NUM": "401001",
         "_CAVENAME": "Moulin R\u00eave Bleu",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/MoulinReveBleu/MoulinReveBleu.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14334,8 +16256,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4703,
-        "_UID": 4703,
+        "_ID": 15277,
+        "_UID": 15277,
         "_NAME": "ENT_401002",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14350,9 +16272,9 @@ var pointsFixes =
         "_CAD_NUM": "401002",
         "_CAVENAME": "Perte Saloude",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/PerteSaloude/PerteSaloude.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14365,8 +16287,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4704,
-        "_UID": 4704,
+        "_ID": 15278,
+        "_UID": 15278,
         "_NAME": "ENT_401003",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14381,9 +16303,9 @@ var pointsFixes =
         "_CAD_NUM": "401003",
         "_CAVENAME": "Moulin de glace",
         "_ALTITUDE": "122",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/MoulinDeGlace/MoulinDeGlace.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14396,8 +16318,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4705,
-        "_UID": 4705,
+        "_ID": 15279,
+        "_UID": 15279,
         "_NAME": "ENT_401004",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14412,9 +16334,9 @@ var pointsFixes =
         "_CAD_NUM": "401004",
         "_CAVENAME": "Lac 2",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Lac2/Lac2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14427,8 +16349,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4706,
-        "_UID": 4706,
+        "_ID": 15280,
+        "_UID": 15280,
         "_NAME": "ENT_401005",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14443,9 +16365,9 @@ var pointsFixes =
         "_CAD_NUM": "401005",
         "_CAVENAME": "Lac Tic et Tac",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/LacTicEtTac/LacTicEtTac.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14458,8 +16380,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4707,
-        "_UID": 4707,
+        "_ID": 15281,
+        "_UID": 15281,
         "_NAME": "ENT_401006",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14474,9 +16396,9 @@ var pointsFixes =
         "_CAD_NUM": "401006",
         "_CAVENAME": "Cueva Esperanza",
         "_ALTITUDE": "250",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/CuevaEsperanza/CuevaEsperanza.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14489,8 +16411,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4708,
-        "_UID": 4708,
+        "_ID": 15282,
+        "_UID": 15282,
         "_NAME": "ENT_401007",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14503,11 +16425,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401007",
-        "_CAVENAME": "Travers\u00e9e de la Cascade",
+        "_CAVENAME": "Traversee de la Cascade",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/TraverseeDeLaCascade/TraverseeDeLaCascade.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14520,8 +16442,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4709,
-        "_UID": 4709,
+        "_ID": 15283,
+        "_UID": 15283,
         "_NAME": "ENT_401008",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14536,9 +16458,9 @@ var pointsFixes =
         "_CAD_NUM": "401008",
         "_CAVENAME": "L'abri sous glace",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/AbriSousGlace/AbriSousGlace.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14551,8 +16473,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4710,
-        "_UID": 4710,
+        "_ID": 15284,
+        "_UID": 15284,
         "_NAME": "ENT_401009",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14567,9 +16489,9 @@ var pointsFixes =
         "_CAD_NUM": "401009",
         "_CAVENAME": "Salto del Agua",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/ SaltoDelAgua/ SaltoDelAgua.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14582,8 +16504,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4711,
-        "_UID": 4711,
+        "_ID": 15285,
+        "_UID": 15285,
         "_NAME": "ENT_401010",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14598,9 +16520,9 @@ var pointsFixes =
         "_CAD_NUM": "401010",
         "_CAVENAME": "Moulin Abou",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/ MoulinAbou/ MoulinAbou.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14613,8 +16535,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4712,
-        "_UID": 4712,
+        "_ID": 15286,
+        "_UID": 15286,
         "_NAME": "ENT_401011",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14629,9 +16551,9 @@ var pointsFixes =
         "_CAD_NUM": "401011",
         "_CAVENAME": "Moulin Tapis Volant",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/MoulinTapisVolant/MoulinTapisVolant.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14644,8 +16566,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4713,
-        "_UID": 4713,
+        "_ID": 15287,
+        "_UID": 15287,
         "_NAME": "ENT_401012",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14658,11 +16580,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401012",
-        "_CAVENAME": "Travers\u00e9e",
+        "_CAVENAME": "Traversee",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/Traversee/Traversee.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14675,8 +16597,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4714,
-        "_UID": 4714,
+        "_ID": 15288,
+        "_UID": 15288,
         "_NAME": "ENT_401013",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14691,9 +16613,9 @@ var pointsFixes =
         "_CAD_NUM": "401013",
         "_CAVENAME": "Moulin du Champignon",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/MoulinDuChampignon/MoulinDuChampignon.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14706,8 +16628,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4715,
-        "_UID": 4715,
+        "_ID": 15289,
+        "_UID": 15289,
         "_NAME": "ENT_401014",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14722,9 +16644,9 @@ var pointsFixes =
         "_CAD_NUM": "401014",
         "_CAVENAME": "Traversee du meandre 1",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/TraverseeDuMeandre1/TraverseeDuMeandre1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14737,8 +16659,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4716,
-        "_UID": 4716,
+        "_ID": 15290,
+        "_UID": 15290,
         "_NAME": "ENT_401015",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14753,9 +16675,9 @@ var pointsFixes =
         "_CAD_NUM": "401015",
         "_CAVENAME": "Traversee du meandre 2",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/TraverseeDuMeandre2/TraverseeDuMeandre2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14768,8 +16690,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4717,
-        "_UID": 4717,
+        "_ID": 15291,
+        "_UID": 15291,
         "_NAME": "ENT_401016",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14784,9 +16706,9 @@ var pointsFixes =
         "_CAD_NUM": "401016",
         "_CAVENAME": "Moulin de glace",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/MoulinDeGlace/MoulinDeGlace.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14799,8 +16721,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4718,
-        "_UID": 4718,
+        "_ID": 15292,
+        "_UID": 15292,
         "_NAME": "ENT_401017",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14815,9 +16737,9 @@ var pointsFixes =
         "_CAD_NUM": "401017",
         "_CAVENAME": "Moulin de la Conception",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/MoulinDeLaConception/MoulinDeLaConception.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14830,8 +16752,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4719,
-        "_UID": 4719,
+        "_ID": 15293,
+        "_UID": 15293,
         "_NAME": "ENT_401018",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14844,11 +16766,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401018",
-        "_CAVENAME": "Cueva Tempanos - Entr\u00e9e 1",
+        "_CAVENAME": "Cueva Tempanos - Entree 1",
         "_ALTITUDE": "48",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/CuevaTempanosEntree1/CuevaTempanosEntree1.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14861,8 +16783,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4720,
-        "_UID": 4720,
+        "_ID": 15294,
+        "_UID": 15294,
         "_NAME": "ENT_401019",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14875,11 +16797,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401019",
-        "_CAVENAME": "Cueva Tempanos - Entr\u00e9e 2",
+        "_CAVENAME": "Cueva Tempanos - Entree 2",
         "_ALTITUDE": "36",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/CuevaTempanosEntree2/CuevaTempanosEntree2.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14892,8 +16814,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4721,
-        "_UID": 4721,
+        "_ID": 15295,
+        "_UID": 15295,
         "_NAME": "ENT_401020",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14906,11 +16828,11 @@ var pointsFixes =
         "_LENGTH_TH": "NaN",
         "_DEPTH_TH": "NaN",
         "_CAD_NUM": "401020",
-        "_CAVENAME": "Cueva Tempanos - Entr\u00e9e 3",
+        "_CAVENAME": "Cueva Tempanos - Entree 3",
         "_ALTITUDE": "58",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/CuevaTempanosEntr\u00e9e3/CuevaTempanosEntr\u00e9e3.html"
+        "_URL": "https://tr1813.github.io/"
       }
     },
     {
@@ -14923,8 +16845,8 @@ var pointsFixes =
         ]
       },
       "properties": {
-        "_ID": 4722,
-        "_UID": 4722,
+        "_ID": 15296,
+        "_UID": 15296,
         "_NAME": "ENT_401021",
         "_SURVEY": "401.UltimaPatagonia",
         "_SURFACE": 1,
@@ -14939,9 +16861,102 @@ var pointsFixes =
         "_CAD_NUM": "401021",
         "_CAVENAME": "Fuite Prometteuse",
         "_ALTITUDE": "nan",
-        "_EXPED": "2019",
+        "_EXPED": "UP2019",
         "_EXPLORATEURS": "nan",
-        "_URL": "https://tr1813.github.io/ultima-patagonia-topo/therion/data/401/FuitePrometteuse/FuitePrometteuse.html"
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58796388532772,
+          -50.686135930496036
+        ]
+      },
+      "properties": {
+        "_ID": 15334,
+        "_UID": 15334,
+        "_NAME": "ENT_402007",
+        "_SURVEY": "402.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Moulin de la Science",
+        "_LENGTH_TH": "14",
+        "_DEPTH_TH": "8",
+        "_LENGTH": "0.0",
+        "_DEPTH": "0",
+        "_CAD_NUM": "402007",
+        "_CAVENAME": "CampHPS35Nord",
+        "_ALTITUDE": "468.9",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "nan",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57402712264593,
+          -50.691020608955746
+        ]
+      },
+      "properties": {
+        "_ID": 15335,
+        "_UID": 15335,
+        "_NAME": "ENT_402010",
+        "_SURVEY": "402.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Perte de Rascarcapak",
+        "_LENGTH": "50.0",
+        "_DEPTH": "50",
+        "_LENGTH_TH": "NaN",
+        "_DEPTH_TH": "NaN",
+        "_CAD_NUM": "402010",
+        "_CAVENAME": "Perte de Rascarcapac",
+        "_ALTITUDE": "491.8",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Tanguy Arnauld Lolo",
+        "_URL": "https://tr1813.github.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55520667089884,
+          -50.62568423862623
+        ]
+      },
+      "properties": {
+        "_ID": 15502,
+        "_UID": 15502,
+        "_NAME": "ENT_403008",
+        "_SURVEY": "403.UltimaPatagonia",
+        "_SURFACE": 1,
+        "_FIXED": 1,
+        "_ENTRANCE": 0,
+        "_CONTINUA_": 0,
+        "_COMMENT": "Grotte Lapis Lazuli",
+        "_LENGTH_TH": "80",
+        "_DEPTH_TH": "8",
+        "_LENGTH": "80.0",
+        "_DEPTH": "5",
+        "_CAD_NUM": "403008",
+        "_CAVENAME": "GrotteLapisLazuli",
+        "_ALTITUDE": "27",
+        "_EXPED": "UP2023",
+        "_EXPLORATEURS": "Serge Caillault",
+        "_URL": "https://tr1813.github.io/"
       }
     }
   ]

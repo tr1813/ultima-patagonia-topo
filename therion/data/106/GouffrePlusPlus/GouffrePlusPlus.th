@@ -1,29 +1,16 @@
-survey GouffrePlusPlus -title "GouffrePlusPlus" \
-            -attr cadnum 106023 \
-            -attr exped UP2023 \ 
-            -entrance 0@Entree
+encoding utf-8
+# created with SexyTopo 1.6.1
 
-            
-        	input Entree/Entree.th
-            input Suite/Suite.th
+survey GouffrePlusPlus -entrance 0@Entree -attr cad_num 106023 -attr exped UP2023
 
-            equate 0@Entree 1@Suite
+    input Entree/Entree.th
+    input Suite/Suite.th
 
-    map m-all-p -projection plan -title "Gouffre ++"
-        m-suite-p 
-        Entree
-    endmap
+    equate 0@Entree 1@Suite
 
-    map m-suite-p -projection plan
+	map m-all-p -projection plan -title "Gouffre ++"
         Suite-1p@Suite
-        break
-        Suite-2p@Suite
-        break
-        Suite-3p@Suite
-    endmap
-
-    map m-all-e -projection extended -title "Coupe"
-        Suite-1e@Suite
-    endmap
+		Suite-2p@Suite
+		Suite-3p@Suite
+     endmap
 endsurvey
-        

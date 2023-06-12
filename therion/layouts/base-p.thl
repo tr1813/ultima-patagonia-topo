@@ -70,6 +70,8 @@ layout base-p
   symbol-colour area water [0 10 70]
   symbol-colour area sump [0 10 70]
   symbol-colour point water-flow [0 10 70]
+  symbol-colour point spring [0 10 70]
+  symbol-colour point sink [0 10 70]
 
   ## formations
   symbol-assign point stalagmite MY

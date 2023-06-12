@@ -44,9 +44,8 @@ layout local-p
   endcode
 endlayout
 
-select m-ArchesSalinas-p@106
+#select m-ArchesSalinas-p@106
 lang en
-
-
+export map -o 106.pdf -layout local-p
 # OUTPUTS
-export model -o 106.lox
+#export model -o 106.lox

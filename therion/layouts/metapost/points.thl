@@ -59,6 +59,15 @@ layout custom_points
 	      thdraw (0,-.28u)--(0,0.15u);
 	    enddef;
 
+		def p_waterflow_MY (expr P,R,S,A)=
+	      U:=(.2u,.2u);
+	      T:=identity aligned A rotated R scaled S shifted P;
+	      pickup PenD;
+	      thfill (-.12u,.08u)--(0,.12u)--(.12u,.08u)--(0,.3u)--cycle;
+	      thfill (-.12u,.08u)--(0,.12u)--(.12u,.08u)--(.12u,-.28u)--(-.12u,-.28u)--cycle withcolor(1,1,1);
+	      thdraw (0,-.28u)--(0,0.15u);
+	    enddef;
+
 	    def p_gradient_MY (expr P,R,S,A)=
 	      U:=(.2u,.2u);
 	      T:=identity aligned A rotated R scaled S shifted P;
@@ -130,9 +139,8 @@ layout custom_points
 
 
 	    ## new definitions
-
 	    # a blue arrow for gradient on ice
-	    def p_u_gradice_MY (expr P,R,S,A)=
+	    def p_u_gradient_ice (expr P,R,S,A)=
 	       U:=(.2u,.2u);
 	       T:=identity aligned A rotated R scaled S shifted P;
 	       pickup PenD;
@@ -169,7 +177,7 @@ layout custom_points
 	    enddef;
 
 	    # green grass
-	    def p_u_grass_MY (expr P,R,S,A)=
+	    def p_u_grass (expr P,R,S,A)=
 	      U:=(.2u,.2u);
 	      T:=identity aligned A rotated R scaled S shifted P;
 	      pickup PenC;
@@ -247,27 +255,112 @@ layout custom_points
 				fi;
 			fi;
 		fi;
+	endgroup
+	enddef;
 
-		  	
+	def p_altitude(expr pos)=
+    T:=identity shifted pos;
+    pickup PenD;
+    p:=fullcircle scaled .2u;
+    thclean p;
+  	enddef;
+
+	vardef p_label@#(expr txt,pos,rot,mode) =
+    if mode=1:
+      thdrawoptions(withcolor .8red + .1blue);
+      p_altitude(pos);
+      % append "m" to label
+      picture txtm;
+      txtm:=image(
+        draw txt;
+        interim labeloffset:=0;
+        label.urt(btex \thtinysize \bf \thaltitude m etex, lrcorner txt);
+      );
+      % give extra offset in case of l/r/t/b alignment
+      pair ctmp;
+      ctmp:=center thelabel@#("x", (0,0));
+      if (xpart ctmp * ypart ctmp)=0:
+        interim labeloffset:=(.4u);
+      else: % diagonal alignment
+        interim labeloffset:=(.2u);
+      fi;
+      % draw label
+      lab:=thelabel@#(txtm, pos);
+      draw lab _thop_; % use color
+      thdrawoptions();
+      bboxmargin:=0.8bp;
+      write_circ_bbox((bbox lab) smoothed 2);
+    else:
+      if mode=7: interim labeloffset:=(u/8) fi;
+      lab:=thelabel@#(txt, pos);
+      if mode>1: pickup PenD fi;
+      if mode=2: process_uplabel;
+      elseif mode=3: process_downlabel;
+      elseif mode=4: process_updownlabel;
+      elseif mode=5:thdrawoptions(withcolor .8red + .1blue);
+					process_circledlabel;
+      elseif mode=6: process_boxedlabel;
+      elseif mode=7: process_label(pos,rot);  % station name
+      elseif mode=8: process_filledlabel(pos, rot);
+      else: process_label(pos,rot); fi;
+    fi;
+  enddef;
+
+  def p_u_gradient_rock (expr P,R,S,A)=
+	      U:=(.2u,.2u);
+	      T:=identity aligned A rotated R scaled S shifted P;
+	      pickup PenD;
+	      thfill (-.12u,.12u)--(0,.35u)--(.12u,.12u)--(.12u,-.3u)--(-.12u,-.3u)--cycle withcolor(1,1,1);
+		  thfill (-.1u,.08u)--(0,.12u)--(.1u,.08u)--(0,.3u)--cycle withcolor (0.3,0.3,0.3);
+	      thdraw (0,-.28u)--(0,0.15u) withcolor (0.3,0.3,0.3);
+	    enddef;
+
+	def p_u_target (expr P,R,S,A)=
+		U:=(.2u,.2u);
+	    T:=identity aligned A rotated R scaled S shifted P;
+	    pickup PenD;
+		p:= (-0.1u,0.12u)--(-0.1u,-0.12u)--(0.12u,-0.12u)--(0.12u,0.12u)--cycle;
+		thclean p scaled 2 shifted (0.5u,-0.3u) ;
+		p:= (-0.1u,0)..(0,-0.1u)..(0.1u,0)..(0,0.1u)..cycle;
+		thclean p scaled 2.2; thdraw p scaled 2.2; thdraw p scaled 1.7;
+		
+		p:= (0.1u,0)--(-0.1u,0);
+		thdraw p scaled 2.5 rotated 90; thdraw p scaled 2.5;
+		
+
+		begingroup
+		if known ATTR_text:
+		picture thetext; % make label either right, left, top or bottom aligned. 
+		thetext := thTEX("\thframed{ \thsmallsize\si " & ATTR_text & "}");
+		p_label.c(thetext,P shifted  (0.1u,-0.1u),0,0);
+
+		process_label(P,R);
+		fi;
+
 		endgroup 
-		enddef;
+	enddef;
 
 	    # initialise the symbols here
+	    initsymbol("p_u_gradient_rock");
+  
+	    # initialise the symbols here
+		initsymbol("p_water-flow_MY");
 
-	    initsymbol("p_u_gradice_MY");
+	    initsymbol("p_u_gradient_ice");
 	    initsymbol("p_u_sampled_MY");
 	    initsymbol("p_u_logger_MY");
 	    initsymbol("p_u_waterdrip_MY");
 	    initsymbol("p_u_grass_MY");
 		initsymbol("p_u_terminus");
-
+		initsymbol("p_u_altitude_MY");
+		initsymbol("p_u_target");
 	endcode
 
 endlayout
 
 ## add legend names for each new symbol definition
 
-text en "point u:gradice_MY"  "ice gradient"
+text en "point u:gradient_ice"  "ice gradient"
 text en "point u:sampled_MY"  "sampled"
 text en "point u:logger_MY"  "logger"
 text en "point u:waterdrip_MY" "water drips"
