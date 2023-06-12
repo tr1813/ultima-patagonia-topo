@@ -8,9 +8,12 @@ survey PorcheEden -title "Porche Eden" \
 
   centerline
     date 2023.03.01 
-    team "Flo R"
-    team "Natalia"
-    team "Sergio"
+    explo-date 2008.01.01
+    team "Florian Rives"
+    team "Natalia [Morata-Calvo]"
+    team "Serge Caillault"
+    explo-team "[Centre Terre]"
+
     units length meters
     units compass clino degrees
     data normal from to length compass clino
@@ -236,7 +239,7 @@ survey PorcheEden -title "Porche Eden" \
 input "PorcheEden-plans.th2"
 input "PorcheEden-planp.th2"
 
-   map m-all-s -projection extended
+   map m-all-e -projection extended
       PorcheEden-plans
    endmap
 

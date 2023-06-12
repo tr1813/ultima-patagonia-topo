@@ -930,7 +930,7 @@ point -425.75 233.61 station -name "16"
 point -312.83 6.90 station -name "17"
 point -209.40 -49.32 station -name "18"
 point -84.97 -121.20 station -name "19"
-point 90.56 -247.53 station -name "20"
+#point 90.56 -247.53 station -name "20"
 
 
 endscrap

@@ -25,7 +25,7 @@ layout local
 
   color map-bg transparent 
   cs UTM18S
-  grid-origin 488575 4451682 0 m
+  grid-origin 488575 4451682 -3 m
 endlayout
 
 layout plan
