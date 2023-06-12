@@ -33,6 +33,10 @@ chunk 1 . 5 points reference. CP 0, CP C30, CP28, CP27
 
 Glacier HPS 35. 
 
+-599000 -4384000
+
+
+
 Alignement des nuages de points vs chunk2. 
 
 GPS <-- Chunk 2 <-- Chunk 3  <-- Chunk 5 <-- Chunk 4 
