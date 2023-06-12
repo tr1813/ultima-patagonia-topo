@@ -3,6 +3,9 @@ survey 106  -title "106 Seno Egg"
 
 
   input CuevaPirates/CuevaPirates.th
+
+  input CuevaNoTime/CuevaNoTime.th
+  
   input CuevaDelZorro/CuevaDelZorro.th
 
   input AvenDesArchesPerdues/AvenDesArchesPerdues.th
@@ -16,6 +19,9 @@ survey 106  -title "106 Seno Egg"
     #input GouffreAuxCometes/GouffreAuxCometes.th
 
     #input CampAvance1Egg/CampAvance1Egg.th
+
+    input PerteSousLeLacTurquoise/PerteSousLeLacTurquoise.th
+
 
     #input PuitsLacTurquoise/PuitsLacTurquoise.th
 
@@ -79,15 +85,26 @@ survey 106  -title "106 Seno Egg"
 
     input GouffreDejaVu/GouffreDejaVu.th
      
-    #input PerteSousLeLac/PerteSousLeLac.th
 
     #input PerteDuDisto/PerteDuDisto.th
 
-    #input ElPozoGranizo/ElPozoGranizo.th
+    input ElPozoGranizo/ElPozoGranizo.th
 
-    #input PuitsdelArche/PuitsdelArche.th
+    input PuitsDeLArche/PuitsDeLArche.th
 
     input ResurgenceGolondrina/ResurgenceGolondrina.th
+
+     input GrandeFailleDuBoutDuMonde/GrandeFailleDuBoutDuMonde.th
+
+    input TraverseDeLIndecision/TraverseDeLIndecision.th
+    
+    input ReveEveille/ReveEveille.th
+
+    input PorcheEden/PorcheEden.th
+
+    input Casablanca/Casablanca.th
+
+    input ResurgencePirate/ResurgencePirate.th
                                                 
   centreline
     cs UTM18S
@@ -98,12 +115,13 @@ survey 106  -title "106 Seno Egg"
     
     ## connections
 
-    fix ENT_106001	490183	4452320	10
+    fix ENT_106001	490150	4452330	10 # bouge pour mieux s'accorder au DEM
     station	 ENT_106001	"Cueva Pirates"
     equate ENT_106001 44@a.Anglais2008.CuevaPirates
 
     fix ENT_106002	490289	4451286	35.0
-    station	 ENT_106002	"Cueva No Time" entrance continuation explored "640 m"
+    station	 ENT_106002	"Cueva No Time" continuation explored "640 m"
+    equate ENT_106002 0@CuevaNoTime 
 
     fix ENT_106003	490289	4451286	3.0
     station	 ENT_106003	"Résurgence NoTime" entrance
@@ -160,7 +178,6 @@ survey 106  -title "106 Seno Egg"
     station ENT_106021 "Cueva del Zorro"
     equate ENT_106021 1@a.CuevaDelZorro
 
-    
 
     fix ENT_106022	489704.0 4451405.0	358	
     station ENT_106022 "AvenDesArchesPerdues"
@@ -193,9 +210,8 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106028	488683.0 4451804.0	272	
-    station ENT_106028 "Perte sous le Lac" entrance continuation explored "50 m"
-    #equate ENT_106028 1@PerteSousLeLac
-    
+    station ENT_106028 "Perte sous le Lac Turquoise" continuation explored "50 m"
+    equate ENT_106028 0@PerteSousLeLacTurquoise    
 
     fix ENT_106029	489165.0 4451956.0	247	
     station ENT_106029 "PE11" entrance 
@@ -218,7 +234,7 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106033	488207.0 4452069.0	294	
-    station ENT_106033 "GouffreDuBowling" entrance
+    station ENT_106033 "GouffreDuBowling"
     equate ENT_106033 3A@Entree.GouffreDuBowling
     
 
@@ -329,7 +345,7 @@ survey 106  -title "106 Seno Egg"
 
     fix ENT_106056	487409.0 4451595.0	210	
     station ENT_106056 "PerteChampis"
-    equate ENT_106056 0@PerteChampis
+    equate ENT_106056 1@PerteChampis
     
 
     fix ENT_106057	488596.0 4451785.0	280 # selon ASTER S50 W76	
@@ -343,24 +359,65 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106059	487642.0 4450792.0	281	
-    station ENT_106059 "El Pozo Granizo" entrance continuation explored "80 m"
-    #equate ENT_106059 0@ElPozoGranizo
+    station ENT_106059 "El Pozo Granizo"
+    equate ENT_106059 0@ElPozoGranizo
     
     
     fix ENT_106060	489099.0 4452897.0	201	
-    station ENT_106060 "PuitsdelArche" entrance 
-    #equate ENT_106060 0@PuitsdelArche
+    station ENT_106060 "PuitsDeLArche" entrance 
+    equate ENT_106060 0@PuitsDeLArche
 
     fix ENT_106061	490025.9 4452629.9	0	
     station ENT_106061 "ResurgenceGolondrina"
     equate ENT_106061 0@ResurgenceGolondrina
+
+    fix ENT_106062	488459.0 4453880.0	244	
+    station ENT_106062 "GrandeFailleDuBoutDuMonde"
+    equate ENT_106062 0@GrandeFailleDuBoutDuMonde
     
-          endcentreline
+
+    fix ENT_106063	488092.0 4453227.0	280	
+    station ENT_106063 "Traverse_de_lindecision"
+    equate ENT_106063 0@Traverse_de_lindecision
 
 
-  map m-ArchesSalinas-p -projection plan 
+    fix ENT_106064	488605.0 4454050.0	145	
+    station ENT_106064 "Rêve éveillé"
+    equate ENT_106064 0@CPF.Reveeveille
+
+
+    fix ENT_106065	490023.0 4452633.0	5	
+    station ENT_106065 "Porche Eden"
+    equate ENT_106065 0@PorcheEden
+
+    fix ENT_106066	490551.0 4450456.0	10	
+    station ENT_106066 "Casablanca"
+    equate ENT_106066 0@Casablanca
+
+    fix ENT_106067	490177.0 4452360.0	0	
+    station ENT_106067 "Resurgence des Pirates"
+    equate ENT_106067 0@ResurgencePirate
+
+
+    
+    
+    endcentreline
+
+  map m-106-p -projection plan 
     m-all-p@CuevaPirates
     m-all-p@AvenDesArchesPerdues
+    m-all-p@GouffreDejaVu
+    m-all-p@GouffrePlusPlus
+    m-all-p@PerteChampis
+    CuevaNoTime
+    ResurgencePirate
+    Reveeveille
+    GrandeFailleDuBoutDuMonde
+    Traverse_de_lindecision
+    PorcheEden
+    ResurgenceGolondrina
+    Casablanca
   endmap
+
 endsurvey
 

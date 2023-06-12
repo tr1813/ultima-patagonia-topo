@@ -1,0 +1,17 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 302.00m (surface 0.00m, duplicated 0.00m)\nvertical range: 173.89m (from 3A@Entree.GouffreDuBowling at 160.08m to 26@MeandreB.GouffreDuBowling at -13.81m)\nnorth-south range: 46.20m (from 26@MeandreB.GouffreDuBowling at 27.54m to 15@Entree.GouffreDuBowling at -18.66m)\neast-west range: 60.54m (from 11@MeandreB.GouffreDuBowling at 30.72m to 3A@Entree.GouffreDuBowling at -29.82m)\nnumber of shots: 371\nnumber of stations: 373"
+xth_cp_data_tree_insert 20 1 1 GouffreDuBowling GouffreDuBowling "Gouffre du Bowling" "Gouffre du Bowling" "length: 302.00m (surface 0.00m, duplicated 0.00m)\nvertical range: 173.89m (from 3A@Entree.GouffreDuBowling at 160.08m to 26@MeandreB.GouffreDuBowling at -13.81m)\nnorth-south range: 46.20m (from 26@MeandreB.GouffreDuBowling at 27.54m to 15@Entree.GouffreDuBowling at -18.66m)\neast-west range: 60.54m (from 11@MeandreB.GouffreDuBowling at 30.72m to 3A@Entree.GouffreDuBowling at -29.82m)\nnumber of shots: 371\nnumber of stations: 373"
+xth_cp_data_tree_insert 22 20 2 Entree Entree.GouffreDuBowling "" "" "length: 195.86m (surface 0.00m, duplicated 0.00m)\nvertical range: 160.08m (from 3A@Entree.GouffreDuBowling at 160.08m to 18@Entree.GouffreDuBowling at 0.00m)\nnorth-south range: 18.66m (from 18@Entree.GouffreDuBowling at 0.00m to 15@Entree.GouffreDuBowling at -18.66m)\neast-west range: 29.82m (from 18@Entree.GouffreDuBowling at 0.00m to 3A@Entree.GouffreDuBowling at -29.82m)\nnumber of shots: 169\nnumber of stations: 170"
+xth_cp_data_tree_insert 577 20 2 MeandreB MeandreB.GouffreDuBowling "" "" "length: 106.14m (surface 0.00m, duplicated 0.00m)\nvertical range: 15.75m (from 5@MeandreB.GouffreDuBowling at 1.94m to 26@MeandreB.GouffreDuBowling at -13.81m)\nnorth-south range: 31.96m (from 26@MeandreB.GouffreDuBowling at 27.54m to 5@MeandreB.GouffreDuBowling at -4.42m)\neast-west range: 55.96m (from 11@MeandreB.GouffreDuBowling at 30.72m to 26@MeandreB.GouffreDuBowling at -25.24m)\nnumber of shots: 202\nnumber of stations: 203"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert projection 0 p2 {} 0 extended {} {} {}
+xth_cp_map_tree_insert map 1 574X1 p1 1 m-Entree-p m-Entree-p@Entree.GouffreDuBowling "" ""
+xth_cp_map_tree_insert map 1 581X1 p1 1 m-all-p m-all-p@GouffreDuBowling "" ""
+xth_cp_map_tree_insert map 1 582X1 p2 1 m-all-s m-all-s@GouffreDuBowling "" ""
+xth_cp_map_tree_create
+xth_cp_comp_stat 302 2
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1677720653
+

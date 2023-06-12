@@ -1,0 +1,74 @@
+
+## a survey compiled from Visual Topo Data using the visual_therion.py script
+
+survey SiphonAmont
+
+    centreline
+
+    explo-team "[Centre Terre]"
+        explo-date 2023.02.18
+        date 2023.02.18
+        team "Franck Bréhier"
+        explo-team "[Centre Terre]"
+        
+        data diving from to tape compass fromdepth todepth 
+        
+        0	1		11.00	55.00	-13.80 -17.70
+
+        1	2		4.00	100.00	-17.70 -19.30
+        2	3		7.00	130.00	-19.30 -20.00
+        3	4		10.00	115.00	-20.00 -22.50
+        4	5		15.00	110.00	-22.50 -19.30
+        5	6		8.00	85.00	-19.30 -15.90
+        6	7		21.00	95.00	-15.90 -8.20
+        7	8		8.00	140.00	-8.20 -4.70
+        8	9		11.00	120.00	-4.70 0.00
+
+
+        data dimensions station left right up down 
+        
+        0	2.0	2.0	2.0	0.0	
+        1	4.0	0.0	3.0	2.0	
+        2	2.0	0.0	4.0	0.0	
+        3	4.0	0.0	1.5	1.0	
+        4	2.0	1.0	1.0	0.5	
+        5	4.0	0.0	0.5	1.5	
+        6	4.0	4.0	1.0	0.0	
+        7	2.0	4.0	1.0	0.0	
+        8	2.5	1.5	0.0	1.0	
+
+        data normal from to tape compass clino 
+        0 . 2.00 - UP
+        1 . 3.00 - UP
+        1 . 2.00 - DOWN
+        2 . 4.00 - UP
+        2 . 0.00 - DOWN
+        3 . 1.50 - UP
+        3 . 1.00 - DOWN
+        4 . 1.00 - UP
+        4 . 0.50 - DOWN
+        5 . 0.50 - UP
+        5 . 1.500 - DOWN
+        6 . 1.00 - UP
+        6 . 0.00 - DOWN
+        7 . 1.00 - UP
+        7 . 0.00 - DOWN
+        8 . 0.00 - UP
+        8 . 1.00 - DOWN
+
+
+    endcentreline
+
+    input SiphonAmont-p.th2
+
+    map m-all-p -projection plan 
+        SiphonAmont-1p
+    endmap
+
+
+    input SiphonAmont-e.th2
+
+    map m-all-e -projection extended
+        SiphonAmont-1e
+    endmap
+endsurvey

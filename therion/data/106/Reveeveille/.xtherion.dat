@@ -1,0 +1,23 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 330.63m (surface 0.00m, duplicated 0.00m)\nvertical range: 124.50m (from 0@CPF.Reveeveille at 25.03m to 24@Suite.Reveeveille at -99.47m)\nnorth-south range: 148.61m (from 19@Suite.Reveeveille at 138.63m to 1@CPF.Reveeveille at -9.98m)\neast-west range: 111.64m (from 6@CPF.Reveeveille at 3.27m to 24@Suite.Reveeveille at -108.37m)\nnumber of shots: 1245\nnumber of stations: 1248"
+xth_cp_data_tree_insert 20 1 1 Reveeveille Reveeveille "Rêve éveillé" "Reve eveille" "length: 330.63m (surface 0.00m, duplicated 0.00m)\nvertical range: 124.50m (from 0@CPF.Reveeveille at 25.03m to 24@Suite.Reveeveille at -99.47m)\nnorth-south range: 148.61m (from 19@Suite.Reveeveille at 138.63m to 1@CPF.Reveeveille at -9.98m)\neast-west range: 111.64m (from 6@CPF.Reveeveille at 3.27m to 24@Suite.Reveeveille at -108.37m)\nnumber of shots: 1245\nnumber of stations: 1248"
+xth_cp_data_tree_insert 22 20 2 CPF CPF.Reveeveille "CPF" "CPF" "length: 34.68m (surface 0.00m, duplicated 0.00m)\nvertical range: 25.03m (from 0@CPF.Reveeveille at 25.03m to 7@CPF.Reveeveille at 0.00m)\nnorth-south range: 9.98m (from 7@CPF.Reveeveille at 0.00m to 1@CPF.Reveeveille at -9.98m)\neast-west range: 7.33m (from 6@CPF.Reveeveille at 3.27m to 0@CPF.Reveeveille at -4.06m)\nnumber of shots: 170\nnumber of stations: 171"
+xth_cp_data_tree_insert 113 20 2 cpff cpff.Reveeveille "cpff" "cpff" "length: 155.62m (surface 0.00m, duplicated 0.00m)\nvertical range: 50.31m (from 48@cpff.Reveeveille at 0.00m to 0@cpff.Reveeveille at -50.31m)\nnorth-south range: 92.42m (from 1@cpff.Reveeveille at 92.42m to 48@cpff.Reveeveille at 0.00m)\neast-west range: 43.43m (from 45@cpff.Reveeveille at 1.06m to 0@cpff.Reveeveille at -42.37m)\nnumber of shots: 758\nnumber of stations: 759"
+xth_cp_data_tree_insert 835 20 2 Suite Suite.Reveeveille "rêve éveillé suite" "reve eveille suite" "length: 140.33m (surface 0.00m, duplicated 0.00m)\nvertical range: 49.16m (from 0@Suite.Reveeveille at -50.31m to 24@Suite.Reveeveille at -99.47m)\nnorth-south range: 46.43m (from 19@Suite.Reveeveille at 138.63m to 0@Suite.Reveeveille at 92.20m)\neast-west range: 67.82m (from 1@Suite.Reveeveille at -40.55m to 24@Suite.Reveeveille at -108.37m)\nnumber of shots: 317\nnumber of stations: 318"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert projection 0 p2 {} 0 extended {} {} {}
+xth_cp_map_tree_insert map 0 1017X1 p1 1 m-all-p m-all-p@Reveeveille "" ""
+xth_cp_map_tree_insert map 1 110X1 1017X1 2 m-CPF-p m-CPF-p@CPF.Reveeveille "" ""
+xth_cp_map_tree_insert map 1 832X1 1017X1 2 m-cpff-p m-cpff-p@cpff.Reveeveille "" ""
+xth_cp_map_tree_insert map 1 1014X1 1017X1 2 m-Suite-p m-Suite-p@Suite.Reveeveille "" ""
+xth_cp_map_tree_insert map 0 1018X1 p2 1 m-all-s m-all-s@Reveeveille "" ""
+xth_cp_map_tree_insert map 1 111X1 1018X1 2 m-CPF-s m-CPF-s@CPF.Reveeveille "" ""
+xth_cp_map_tree_insert map 1 833X1 1018X1 2 m-cpff-s m-cpff-s@cpff.Reveeveille "" ""
+xth_cp_map_tree_insert map 1 1015X1 1018X1 2 m-Suite-s m-Suite-s@Suite.Reveeveille "" ""
+xth_cp_map_tree_create
+xth_cp_comp_stat 331 6
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1678911165
+

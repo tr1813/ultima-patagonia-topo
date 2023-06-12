@@ -1,5 +1,5 @@
 survey GouffreDejaVu -title "Gouffre Déjà Vu" \
-            -attr cadnum 106057 \
+            -attr cad_num 106057 \
             -attr exped UP2023
 
 	input GouffreDejaVu-p.th2

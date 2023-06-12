@@ -3,8 +3,12 @@
 
 survey "Entree" -title "Entree des Arches Perdues"
     input Entree-e.th2
+    input Entree-p.th2
 
-    
+    map m-all-p -projection plan 
+        Entree-1p 
+    endmap
+
     centreline
  
         explo-date 2023.01.29

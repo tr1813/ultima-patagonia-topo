@@ -1,0 +1,61 @@
+source ../402.th
+
+input ../../../layouts/detailed-p.thl
+
+layout local
+  copy detailed-p
+  scale 1 500
+  legend off
+  map-header 0 0 off
+  symbol-show point label
+  #symbol-show point passage-height
+  symbol-hide point station-name
+
+  symbol-color point station:fixed [70 0 0]
+  symbol-hide line survey 
+  symbol-hide point station:temporary
+  symbol-assign line survey AUT
+
+  color map-bg transparent
+ 
+endlayout
+
+layout plan
+    copy local
+     code tex-map
+  #\framethickness=0.5mm
+  \def\xcenter{30}
+  \def\ycenter{125}
+  \def\yscale{3}
+  \def\numcad{402003}
+
+  # change this
+
+  \def\customheader{
+  \size[13]\bf \the\cavename{} / \numcad \ss
+  \si \par \size[12]Glacier HPS-35, Estero Calvo, \par Parque Nacional Bernardo O’Higgins  \ss
+     \par{ \quad}  
+  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 600145  \par  Y : 4384573  \par Z : 446 m}  \ss
+  \par{ \quad} 
+  \par \si Développement :\ss{ \the\cavelength}
+  \par \si Dénivellation :\ss{ \the\cavedepth}
+  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques :\ss{  Carlos Placido}
+  \par \si Report et dessins :\ss{  Tanguy Racine}}
+
+  \def\maplayout{
+
+  \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter +6*\yscale\relax}{N}{\customheader}
+  %\legendbox{\the\numexpr\xcenter+80\relax}{\the\numexpr\ycenter - 10*\yscale\relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter-5\relax}{\the\numexpr\ycenter - 45*\yscale\relax}{N}{\scalebar}
+  %\legendbox{-10}{\the\numexpr\ycenter - 25*\yscale\relax}{NW} {\hbox{\loadpicture{outputs/Perte5-HPS35-ee.pdf}}}
+  \legendbox{\the\numexpr\xcenter +15\relax}{\the\numexpr\ycenter + 6*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
+  }
+  endcode
+endlayout
+
+# OUTPUTS
+
+select m-all-e@Perte5-HPS35.402
+
+export map -o outputs/Perte5-HPS35.pdf -projection extended -layout plan

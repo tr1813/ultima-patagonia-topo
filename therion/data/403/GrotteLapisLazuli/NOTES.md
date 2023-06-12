@@ -89,3 +89,41 @@ GPS <-- Chunk1 <-- Chunk 6
 -0.462300717831 0.686693847179 0.005864397623 73.893524169922
 0.101993858814 0.061668939888 0.819206297398 -14.111657142639
 0.000000000000 0.000000000000 0.000000000000 1.000000000000
+
+
+chunk1 357, 357/357 481 800 faces.
+chunk2 380, 354/380 aligned, modele a 591 866 faces.
+chunk3 348, 347/348 589 948 faces
+
+## Relevé 3D de la grotte Lapis Lazuli. 
+
+La grotte Lapis Lazuli s'ouvre au pied du glacier Hielo Patagonico-Sur-31 (HPS-31), à une altitude de 27 mètres au dessus du niveau de la mer.  
+L'exploration de cette cavité a été menée par Serge et Marie, suivi de Richard, qui à l'aide de son compas prend quelques mesures de ses dimensions le 30 janvier.
+Le soir, il apparait clairement que c'est un objectif scientifique et photographique majeur et une équipe est désignée pour lever une topographie précise du site. 
+C'est aussi l'occasion de réaliser un relevé photogrammétrique de cette cavité sous-glaciaire.
+
+Le lendemain 31 janvier, une équipe composée de Charlotte et Raphaël lève la topographie au distoX: la cavité se développe sur 80 m direction plein nord, gagnant un dénivelé modeste de 5 m. 
+Elle comprend deux "lacs", et un puits de lumière dans la salle terminale où l'on peut également apercevoir des affleurements de roche métamorphique striées et polies par le mouvement du glacier sus-jacent.
+
+Le relevé photogrammétrique se fait en quatre temps.
+Charlotte place tout d'abord une vingtaine de cibles imprimées au préalable, que Raphaël perment de resituer grâce au disto afin de pouvoir orienter un futur relevé photogrammetrique.
+Un deuxième équipe, composée de Serge et Tanguy commencent dans un second temps le relevé photographique dense avec un appareil Nikon-Z5 (focal fixe de 20 mm) et un flash Yongnuo-560-III déporté de 30 cm horizontalement sur une armature.
+Un diffuseur, ainsi qu'un filtre polarisant à la fois sur le flash et sur l'objectif réduisent les reflets indésirables des parois de glace de la cavité.
+La séance nécessite au final un peu plus de 4 heures, avec 1058 clichés retenus pour le calcul du modèle 3D. 
+Dans un troisième temps, on constuit le modèle par corrélation d'images en utilisant l'algorithme SfM (structure from motion). 
+Enfin, le modèle est orienté et mis à l'échelle en utilisant les coordonnées des points fixes repérés par topographie classique. 
+
+En raison de ses 80 m de développement et du nombre important de clichés, le traitement des données de la grotte Lapis Lazuli a été divisé en trois zones: entrée (357 images), 1er lac (380 images), salle terminale (348 images). 
+Les images ont été correlées sur le logiciel Metashape à l'université d'Innbruck afin de produire trois modeles à haute resolution comprenant plus de 450 000 faces chacun.
+Les coordonnees géographiques des points de contrôle ont été calculées grâce au logiciel Therion à partir du report de la topographie au disto, permettant ensuite d'aligner les nuages de points denses et les modèles. 
+L'erreur moyenne respective (RMS) de l'alignement atteignant 0.05 m (5 points), 0.06 m (8 points) et 0.09 m (6 points) pour la zone d'entrée, celle du lac, et la salle terminale.
+
+L'alignement des photos comprenant des surfaces comme celle des lacs est un problème majeur de la méthode photogrammétrique: il y a peu de point .  Les résultats sur les parois de glace sont probants. 
+On peut alors interroger le modèle 3D ainsi conçu, notamment en séparant le sol des parois pour réveler la répartition spatiale des différents remplissages. 
+La vue en plan du sol de la cavité est alors décalquée sur le report topographique.
+
+
+
+
+
+

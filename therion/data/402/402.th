@@ -1,8 +1,43 @@
-survey 402 -title "402 Glaciar Peel Sud"
+survey 402 -title "402 HPS-35"
+  
+  input Perte3-HPS35/Perte3-HPS35.th 
+
+  input Perte5-HPS35/Perte5-HPS35.th 
+
+  input Perte7-HPS35/Perte7-HPS35.th 
+
+  input MoulinDeLaScience/MoulinDeLaScience.th
+
+  input PerteDeRascarcapac/PerteDeRascarcapac.th
 
 
   centreline
+  cs UTM18S
 
+  fix ENT_402001 600151 4384623 439.4 
+  station ENT_402001 "Perte 3 du HPS35"
+  equate ENT_402001 TOP@Perte3-HPS35
+
+  fix ENT_402003 600145 4384573 446.1
+  station ENT_402003 "Perte 5 du HPS35"
+  equate ENT_402003 TOP@Perte5-HPS35
+
+  fix ENT_402005 600144 4384403 459.5
+  station ENT_402005 "Perte 7 du HPS35"
+  equate ENT_402005 TOP@Perte7-HPS35
+
+   # moulin de la Science 
+
+  fix ENT_402007 599747 4384126 494 
+  station ENT_402007 "Moulin de la Science"
+  equate ENT_402007 0@MoulinDeLaScience
+
+
+     # perte de rascarcapak 
+
+  fix ENT_402010 600721.0 4383564.0 491.8
+  station ENT_402010 "Perte de Rascarcapak"
+  equate ENT_402007 top@PerteDeRascarcapac
 
   endcentreline
 endsurvey

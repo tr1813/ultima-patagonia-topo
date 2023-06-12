@@ -1,0 +1,2028 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust 0 0 500.000000 1000.000000
+##XTHERION## xth_me_area_zoom_to 100
+
+scrap GouffreDuBowling-1e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
+
+point 313.876 670.344 station -name 0@Entree
+point 346.556 610.422 station -name 1@Entree
+point 368.106 550.502 station -name 2@Entree
+point 387.406 399.872 station -name 3@Entree
+point 370.732 397.43 station -name 4@Entree
+point 397.688 198.06 station -name 5@Entree
+point 424.572 189.636 station -name 6@Entree
+point 258.03 698.77 station -name 1A@Entree
+point 245.218 848.218 station -name 2A@Entree
+point 231.202 872.548 station -name 3A@Entree
+point 436.428 66.4865 station -name 7@Entree
+point 417.704 49.4785 station -name 8@Entree
+point 417.704 -27.3715 station -name 9@Entree
+point 429.668 -36.3475 station -name 10@Entree
+point 485.586 -150.994 station -name 11@Entree
+point 475.642 -183.514 station -name 12@Entree
+point 455.386 -191.152 station -name 13@Entree
+point 407.468 -300.364 station -name 14@Entree
+point 365.266 -319.578 station -name 15@Entree
+point 387.834 -325.718 station -name 16@Entree
+point 471.498 -375.562 station -name 17@Entree
+point 531.33 -387.924 station -name 18@Entree
+point 581.272 -408.948 station -name 5@MeandreB
+point 726.372 -420.916 station -name 20@Entree
+point 624.44 -424.222 station -name 6@MeandreB
+point 713.494 -424.46 station -name 7@MeandreB
+point 782.762 -424.46 station -name 8@MeandreB
+point 857.71 -452.49 station -name 9@MeandreB
+point 873.204 -465.09 station -name 10@MeandreB
+point 986.532 -506.664 station -name 11@MeandreB
+point 1007.21 -519.262 station -name 12@MeandreB
+point 602.602 -416.742 station -name 13@MeandreB
+point 621.806 -424.538 station -name 14@MeandreB
+point 640.226 -430.758 station -name 15@MeandreB
+point 660.958 -438.396 station -name 16@MeandreB
+point 700.308 -449.97 station -name 17@MeandreB
+point 739.168 -460.364 station -name 18@MeandreB
+point 764.28 -467.608 station -name 19@MeandreB
+point 794.53 -478.632 station -name 20@MeandreB
+point 828.814 -485.876 station -name 21@MeandreB
+point 860.21 -501.624 station -name 22@MeandreB
+point 878.376 -519.734 station -name 23@MeandreB
+point 894.694 -519.34 station -name 24@MeandreB
+point 901.014 -520.916 station -name 25@MeandreB
+point 942.842 -532.964 station -name 26@MeandreB
+line survey 
+  313.876 670.3445
+  346.556 610.4225
+endline
+
+line survey 
+  346.556 610.4225
+  382.02 613.1005
+endline
+
+line survey 
+  346.556 610.4225
+  360.708 611.8405
+endline
+
+line survey 
+  346.556 610.4225
+  356.18 611.9185
+endline
+
+line survey 
+  346.556 610.4225
+  334.4 610.6605
+endline
+
+line survey 
+  346.556 610.4225
+  329.926 612.8645
+endline
+
+line survey 
+  346.556 610.4225
+  310.408 611.4465
+endline
+
+line survey 
+  346.556 610.4225
+  334.55 668.6905
+endline
+
+line survey 
+  346.556 610.4225
+  356.924 641.6825
+endline
+
+line survey 
+  346.556 610.4225
+  373.106 625.6205
+endline
+
+line survey 
+  346.556 610.4225
+  369.49 548.6905
+endline
+
+line survey 
+  346.556 610.4225
+  370.752 544.9905
+endline
+
+line survey 
+  346.556 610.4225
+  369.578 549.0845
+endline
+
+line survey 
+  346.556 610.4225
+  368.106 550.5025
+endline
+
+line survey 
+  368.106 550.5025
+  384.422 399.9505
+endline
+
+line survey 
+  368.106 550.5025
+  412.26 547.5885
+endline
+
+line survey 
+  368.106 550.5025
+  386.024 550.3445
+endline
+
+line survey 
+  368.106 550.5025
+  376.15 551.2105
+endline
+
+line survey 
+  368.106 550.5025
+  342.528 550.4225
+endline
+
+line survey 
+  368.106 550.5025
+  387.406 399.8725
+endline
+
+line survey 
+  387.406 399.8725
+  370.826 397.4305
+endline
+
+line survey 
+  387.406 399.8725
+  370.732 397.4305
+endline
+
+line survey 
+  387.406 399.8725
+  387.34 396.3285
+endline
+
+line survey 
+  387.406 399.8725
+  389.162 399.0065
+endline
+
+line survey 
+  387.406 399.8725
+  380.286 398.4545
+endline
+
+line survey 
+  387.406 399.8725
+  371.586 398.2965
+endline
+
+line survey 
+  387.406 399.8725
+  363.254 424.0445
+endline
+
+line survey 
+  387.406 399.8725
+  381.816 413.8885
+endline
+
+line survey 
+  387.406 399.8725
+  385.338 400.7385
+endline
+
+line survey 
+  387.406 399.8725
+  372.232 409.4005
+endline
+
+line survey 
+  387.406 399.8725
+  394.412 367.9045
+endline
+
+line survey 
+  387.406 399.8725
+  401.59 369.4785
+endline
+
+line survey 
+  387.406 399.8725
+  389.494 354.3605
+endline
+
+line survey 
+  387.406 399.8725
+  393.042 365.3845
+endline
+
+line survey 
+  370.732 397.4305
+  397.688 198.0605
+endline
+
+line survey 
+  397.688 198.0605
+  398.838 233.9665
+endline
+
+line survey 
+  397.688 198.0605
+  383.79 245.6985
+endline
+
+line survey 
+  397.688 198.0605
+  377.716 246.0925
+endline
+
+line survey 
+  397.688 198.0605
+  377.624 226.5645
+endline
+
+line survey 
+  397.688 198.0605
+  404.932 219.3205
+endline
+
+line survey 
+  397.688 198.0605
+  412.964 227.0365
+endline
+
+line survey 
+  397.688 198.0605
+  384.806 203.8085
+endline
+
+line survey 
+  397.688 198.0605
+  375.81 200.8965
+endline
+
+line survey 
+  397.688 198.0605
+  408.618 199.5565
+endline
+
+line survey 
+  397.688 198.0605
+  433.252 201.4465
+endline
+
+line survey 
+  397.688 198.0605
+  424.572 189.6365
+endline
+
+line survey 
+  424.572 189.6365
+  426.192 188.8485
+endline
+
+line survey 
+  424.572 189.6365
+  418.148 189.0845
+endline
+
+line survey 
+  424.572 189.6365
+  416.878 190.3445
+endline
+
+line survey 
+  424.572 189.6365
+  420.618 232.0765
+endline
+
+line survey 
+  424.572 189.6365
+  419.33 249.8725
+endline
+
+line survey 
+  424.572 189.6365
+  429.724 157.1165
+endline
+
+line survey 
+  424.572 189.6365
+  426.1 162.3925
+endline
+
+line survey 
+  424.572 189.6365
+  413.762 154.7545
+endline
+
+line survey 
+  424.572 189.6365
+  417.56 161.9185
+endline
+
+line survey 
+  424.572 189.6365
+  414.588 65.4625
+endline
+
+line survey 
+  424.572 189.6365
+  423.908 65.4625
+endline
+
+line survey 
+  424.572 189.6365
+  443.666 43.7305
+endline
+
+line survey 
+  424.572 189.6365
+  435.588 93.1005
+endline
+
+line survey 
+  313.876 670.3445
+  258.03 698.7705
+endline
+
+line survey 
+  258.03 698.7705
+  268.6 702.4705
+endline
+
+line survey 
+  258.03 698.7705
+  274.15 703.3365
+endline
+
+line survey 
+  258.03 698.7705
+  245.216 699.1625
+endline
+
+line survey 
+  258.03 698.7705
+  226.296 713.4945
+endline
+
+line survey 
+  245.218 848.2185
+  268.068 707.4305
+endline
+
+line survey 
+  245.218 848.2185
+  258.03 698.7705
+endline
+
+line survey 
+  231.202 872.5485
+  245.218 848.2185
+endline
+
+line survey 
+  424.572 189.6365
+  436.428 66.4865
+endline
+
+line survey 
+  436.428 66.4865
+  425.486 71.9985
+endline
+
+line survey 
+  436.428 66.4865
+  438.386 73.0225
+endline
+
+line survey 
+  436.428 66.4865
+  440.718 68.3765
+endline
+
+line survey 
+  436.428 66.4865
+  424.714 66.4085
+endline
+
+line survey 
+  436.428 66.4865
+  416.17 65.0685
+endline
+
+line survey 
+  436.428 66.4865
+  416.086 114.7545
+endline
+
+line survey 
+  436.428 66.4865
+  432.47 118.6125
+endline
+
+line survey 
+  436.428 66.4865
+  428.296 114.5965
+endline
+
+line survey 
+  436.428 66.4865
+  411.004 114.7545
+endline
+
+line survey 
+  436.428 66.4865
+  408.548 116.1705
+endline
+
+line survey 
+  436.428 66.4865
+  417.214 48.8485
+endline
+
+line survey 
+  436.428 66.4865
+  417.704 49.4785
+endline
+
+line survey 
+  417.704 49.4785
+  404.536 46.4085
+endline
+
+line survey 
+  417.704 49.4785
+  397.052 42.3925
+endline
+
+line survey 
+  417.704 49.4785
+  415.244 49.3205
+endline
+
+line survey 
+  417.704 49.4785
+  409.954 18.6905
+endline
+
+line survey 
+  417.704 49.4785
+  415.456 15.9345
+endline
+
+line survey 
+  417.704 49.4785
+  415.356 -3.3555
+endline
+
+line survey 
+  417.704 49.4785
+  424.876 -1.0735
+endline
+
+line survey 
+  417.704 49.4785
+  421.518 22.8645
+endline
+
+line survey 
+  417.704 49.4785
+  417.704 -27.3715
+endline
+
+line survey 
+  417.704 -27.3715
+  429.668 -36.3475
+endline
+
+line survey 
+  429.668 -36.3475
+  411.64 -35.3255
+endline
+
+line survey 
+  429.668 -36.3475
+  421.13 -35.3255
+endline
+
+line survey 
+  429.668 -36.3475
+  422.5 -35.9555
+endline
+
+line survey 
+  429.668 -36.3475
+  431.214 -35.8755
+endline
+
+line survey 
+  429.668 -36.3475
+  509.384 -26.5055
+endline
+
+line survey 
+  429.668 -36.3475
+  485.586 -150.9935
+endline
+
+line survey 
+  485.586 -150.9935
+  490.568 -150.2855
+endline
+
+line survey 
+  485.586 -150.9935
+  483.516 -150.3635
+endline
+
+line survey 
+  485.586 -150.9935
+  475.622 -147.6075
+endline
+
+line survey 
+  485.586 -150.9935
+  481.822 -150.6795
+endline
+
+line survey 
+  485.586 -150.9935
+  505.744 -156.1115
+endline
+
+line survey 
+  485.586 -150.9935
+  487.598 -121.5455
+endline
+
+line survey 
+  485.586 -150.9935
+  528.656 -108.6315
+endline
+
+line survey 
+  485.586 -150.9935
+  493.176 -131.5455
+endline
+
+line survey 
+  485.586 -150.9935
+  478.604 -134.0655
+endline
+
+line survey 
+  485.586 -150.9935
+  468.646 -84.1435
+endline
+
+line survey 
+  485.586 -150.9935
+  487.132 -104.7735
+endline
+
+line survey 
+  485.586 -150.9935
+  482.598 -185.9555
+endline
+
+line survey 
+  485.586 -150.9935
+  475.642 -183.5135
+endline
+
+line survey 
+  475.642 -183.5135
+  470.782 -175.4035
+endline
+
+line survey 
+  475.642 -183.5135
+  484.34 -180.3635
+endline
+
+line survey 
+  475.642 -183.5135
+  486.948 -179.8135
+endline
+
+line survey 
+  475.642 -183.5135
+  463.232 -181.3095
+endline
+
+line survey 
+  475.642 -183.5135
+  470.364 -182.8835
+endline
+
+line survey 
+  475.642 -183.5135
+  482.164 -181.3095
+endline
+
+line survey 
+  475.642 -183.5135
+  517.744 -179.7335
+endline
+
+line survey 
+  475.642 -183.5135
+  489.204 -200.7575
+endline
+
+line survey 
+  475.642 -183.5135
+  468.628 -196.5055
+endline
+
+line survey 
+  475.642 -183.5135
+  455.386 -191.1515
+endline
+
+line survey 
+  455.386 -191.1515
+  455.528 -192.8055
+endline
+
+line survey 
+  455.386 -191.1515
+  459.474 -191.1515
+endline
+
+line survey 
+  455.386 -191.1515
+  454.444 -192.5695
+endline
+
+line survey 
+  455.386 -191.1515
+  471.744 -188.1595
+endline
+
+line survey 
+  455.386 -191.1515
+  440.868 -235.0095
+endline
+
+line survey 
+  455.386 -191.1515
+  447.286 -209.1835
+endline
+
+line survey 
+  455.386 -191.1515
+  407.468 -300.3635
+endline
+
+line survey 
+  407.468 -300.3635
+  365.266 -319.5775
+endline
+
+line survey 
+  365.266 -319.5775
+  396.802 -306.2695
+endline
+
+line survey 
+  365.266 -319.5775
+  405.448 -317.2935
+endline
+
+line survey 
+  365.266 -319.5775
+  409.116 -333.0415
+endline
+
+line survey 
+  365.266 -319.5775
+  389.376 -331.2295
+endline
+
+line survey 
+  365.266 -319.5775
+  373.328 -322.8055
+endline
+
+line survey 
+  365.266 -319.5775
+  365.06 -320.4435
+endline
+
+line survey 
+  365.266 -319.5775
+  364.924 -312.7255
+endline
+
+line survey 
+  365.266 -319.5775
+  370.056 -304.9315
+endline
+
+line survey 
+  365.266 -319.5775
+  388.408 -292.8835
+endline
+
+line survey 
+  365.266 -319.5775
+  372.9 -305.0095
+endline
+
+line survey 
+  365.266 -319.5775
+  381.51 -308.0815
+endline
+
+line survey 
+  365.266 -319.5775
+  382.32 -312.7255
+endline
+
+line survey 
+  365.266 -319.5775
+  387.834 -325.7175
+endline
+
+line survey 
+  387.834 -325.7175
+  391.19 -325.5615
+endline
+
+line survey 
+  387.834 -325.7175
+  388.872 -340.3635
+endline
+
+line survey 
+  387.834 -325.7175
+  389.726 -321.7815
+endline
+
+line survey 
+  387.834 -325.7175
+  396.238 -318.8675
+endline
+
+line survey 
+  387.834 -325.7175
+  406.742 -336.4275
+endline
+
+line survey 
+  387.834 -325.7175
+  429.628 -348.9475
+endline
+
+line survey 
+  387.834 -325.7175
+  443.94 -370.2075
+endline
+
+line survey 
+  387.834 -325.7175
+  430.44 -344.9315
+endline
+
+line survey 
+  387.834 -325.7175
+  450.194 -359.1835
+endline
+
+line survey 
+  387.834 -325.7175
+  411.804 -335.4815
+endline
+
+line survey 
+  387.834 -325.7175
+  471.498 -375.5615
+endline
+
+line survey 
+  471.498 -375.5615
+  480.672 -377.6075
+endline
+
+line survey 
+  471.498 -375.5615
+  488.632 -378.4735
+endline
+
+line survey 
+  471.498 -375.5615
+  498.748 -380.3635
+endline
+
+line survey 
+  471.498 -375.5615
+  518.982 -381.5455
+endline
+
+line survey 
+  471.498 -375.5615
+  519.722 -377.7655
+endline
+
+line survey 
+  471.498 -375.5615
+  489.508 -372.5695
+endline
+
+line survey 
+  471.498 -375.5615
+  481.228 -370.0495
+endline
+
+line survey 
+  471.498 -375.5615
+  463.396 -367.5295
+endline
+
+line survey 
+  471.498 -375.5615
+  481.574 -365.0895
+endline
+
+line survey 
+  471.498 -375.5615
+  474.746 -369.8135
+endline
+
+line survey 
+  471.498 -375.5615
+  473.28 -388.0815
+endline
+
+line survey 
+  471.498 -375.5615
+  531.33 -387.9235
+endline
+
+line survey 
+  531.33 -387.9235
+  542.022 -390.9155
+endline
+
+line survey 
+  531.33 -387.9235
+  563.39 -398.2375
+endline
+
+line survey 
+  531.33 -387.9235
+  577.432 -404.3015
+endline
+
+line survey 
+  531.33 -387.9235
+  558.228 -399.7335
+endline
+
+line survey 
+  531.33 -387.9235
+  553.918 -391.3095
+endline
+
+line survey 
+  531.33 -387.9235
+  542.108 -398.7115
+endline
+
+line survey 
+  531.33 -387.9235
+  581.272 -408.9475
+endline
+
+line survey 
+  581.272 -408.9475
+  588.246 -407.9235
+endline
+
+line survey 
+  581.272 -408.9475
+  578.06 -425.7975
+endline
+
+line survey 
+  581.272 -408.9475
+  614.744 -416.8995
+endline
+
+line survey 
+  581.272 -408.9475
+  603.868 -414.9315
+endline
+
+line survey 
+  581.272 -408.9475
+  609.038 -434.4595
+endline
+
+line survey 
+  581.272 -408.9475
+  624.94 -435.9555
+endline
+
+line survey 
+  581.272 -408.9475
+  615.2 -417.2935
+endline
+
+line survey 
+  581.272 -408.9475
+  606.924 -409.7335
+endline
+
+line survey 
+  581.272 -408.9475
+  613.392 -414.8515
+endline
+
+line survey 
+  581.272 -408.9475
+  629.294 -409.2615
+endline
+
+line survey 
+  581.272 -408.9475
+  711.678 -419.8915
+endline
+
+line survey 
+  581.272 -408.9475
+  726.392 -420.5995
+endline
+
+line survey 
+  581.272 -408.9475
+  711.696 -419.6555
+endline
+
+line survey 
+  581.272 -408.9475
+  726.372 -420.9155
+endline
+
+line survey 
+  581.272 -408.9475
+  624.44 -424.2215
+endline
+
+line survey 
+  624.44 -424.2215
+  653.514 -438.8675
+endline
+
+line survey 
+  624.44 -424.2215
+  617.43 -422.0955
+endline
+
+line survey 
+  624.44 -424.2215
+  612.912 -416.6635
+endline
+
+line survey 
+  624.44 -424.2215
+  617.116 -414.0655
+endline
+
+line survey 
+  624.44 -424.2215
+  624.068 -420.6795
+endline
+
+line survey 
+  624.44 -424.2215
+  713.494 -424.4595
+endline
+
+line survey 
+  713.494 -424.4595
+  712.718 -407.7655
+endline
+
+line survey 
+  713.494 -424.4595
+  721.352 -391.7815
+endline
+
+line survey 
+  713.494 -424.4595
+  701.924 -410.9155
+endline
+
+line survey 
+  713.494 -424.4595
+  664.028 -412.5695
+endline
+
+line survey 
+  713.494 -424.4595
+  635.928 -416.8995
+endline
+
+line survey 
+  713.494 -424.4595
+  693.168 -424.3795
+endline
+
+line survey 
+  713.494 -424.4595
+  704.484 -407.2935
+endline
+
+line survey 
+  713.494 -424.4595
+  693.666 -429.1835
+endline
+
+line survey 
+  713.494 -424.4595
+  782.762 -424.4595
+endline
+
+line survey 
+  782.762 -424.4595
+  782.326 -421.7815
+endline
+
+line survey 
+  782.762 -424.4595
+  782.98 -433.5915
+endline
+
+line survey 
+  782.762 -424.4595
+  777.208 -440.7575
+endline
+
+line survey 
+  782.762 -424.4595
+  761.62 -430.3635
+endline
+
+line survey 
+  782.762 -424.4595
+  755.73 -420.6795
+endline
+
+line survey 
+  782.762 -424.4595
+  742.938 -410.9935
+endline
+
+line survey 
+  782.762 -424.4595
+  765.282 -412.4895
+endline
+
+line survey 
+  782.762 -424.4595
+  746.866 -420.9155
+endline
+
+line survey 
+  782.762 -424.4595
+  760.56 -426.1915
+endline
+
+line survey 
+  782.762 -424.4595
+  858.11 -453.7495
+endline
+
+line survey 
+  782.762 -424.4595
+  855.422 -452.9635
+endline
+
+line survey 
+  782.762 -424.4595
+  855.622 -452.8835
+endline
+
+line survey 
+  782.762 -424.4595
+  780.674 -403.9075
+endline
+
+line survey 
+  782.762 -424.4595
+  745.838 -403.1195
+endline
+
+line survey 
+  782.762 -424.4595
+  759.426 -411.0735
+endline
+
+line survey 
+  782.762 -424.4595
+  765.198 -397.3715
+endline
+
+line survey 
+  782.762 -424.4595
+  769.842 -411.3095
+endline
+
+line survey 
+  782.762 -424.4595
+  797.982 -420.4435
+endline
+
+line survey 
+  782.762 -424.4595
+  802.284 -423.9855
+endline
+
+line survey 
+  782.762 -424.4595
+  803.518 -407.8435
+endline
+
+line survey 
+  782.762 -424.4595
+  785.956 -415.3255
+endline
+
+line survey 
+  782.762 -424.4595
+  882.64 -446.6635
+endline
+
+line survey 
+  782.762 -424.4595
+  883.054 -448.7115
+endline
+
+line survey 
+  782.762 -424.4595
+  882.122 -449.1835
+endline
+
+line survey 
+  782.762 -424.4595
+  782.844 -415.5615
+endline
+
+line survey 
+  782.762 -424.4595
+  778.384 -411.6235
+endline
+
+line survey 
+  782.762 -424.4595
+  774.96 -423.4355
+endline
+
+line survey 
+  782.762 -424.4595
+  778.808 -438.5535
+endline
+
+line survey 
+  782.762 -424.4595
+  872.944 -419.8135
+endline
+
+line survey 
+  782.762 -424.4595
+  870.218 -419.8135
+endline
+
+line survey 
+  782.762 -424.4595
+  873.596 -420.2075
+endline
+
+line survey 
+  782.762 -424.4595
+  782.408 -439.4195
+endline
+
+line survey 
+  782.762 -424.4595
+  793.692 -427.8435
+endline
+
+line survey 
+  782.762 -424.4595
+  797.794 -425.8755
+endline
+
+line survey 
+  782.762 -424.4595
+  877.424 -416.5055
+endline
+
+line survey 
+  782.762 -424.4595
+  868.074 -416.8995
+endline
+
+line survey 
+  782.762 -424.4595
+  867.936 -416.8995
+endline
+
+line survey 
+  782.762 -424.4595
+  771.138 -394.0655
+endline
+
+line survey 
+  782.762 -424.4595
+  783.918 -409.4195
+endline
+
+line survey 
+  782.762 -424.4595
+  765.102 -413.5915
+endline
+
+line survey 
+  782.762 -424.4595
+  794.498 -419.8915
+endline
+
+line survey 
+  782.762 -424.4595
+  790.936 -422.1755
+endline
+
+line survey 
+  782.762 -424.4595
+  857.71 -452.4895
+endline
+
+line survey 
+  857.71 -452.4895
+  856.844 -446.3475
+endline
+
+line survey 
+  857.71 -452.4895
+  858.658 -452.2535
+endline
+
+line survey 
+  857.71 -452.4895
+  858.684 -438.9475
+endline
+
+line survey 
+  857.71 -452.4895
+  859.422 -451.1515
+endline
+
+line survey 
+  857.71 -452.4895
+  970.372 -467.2155
+endline
+
+line survey 
+  857.71 -452.4895
+  971.462 -467.4515
+endline
+
+line survey 
+  857.71 -452.4895
+  970.106 -467.3715
+endline
+
+line survey 
+  857.71 -452.4895
+  873.204 -465.0895
+endline
+
+line survey 
+  873.204 -465.0895
+  986.532 -506.6635
+endline
+
+line survey 
+  986.532 -506.6635
+  1053.608 -533.9075
+endline
+
+line survey 
+  986.532 -506.6635
+  1052.948 -533.8295
+endline
+
+line survey 
+  986.532 -506.6635
+  1052.644 -533.9075
+endline
+
+line survey 
+  986.532 -506.6635
+  986.434 -506.7415
+endline
+
+line survey 
+  986.532 -506.6635
+  985.274 -526.7415
+endline
+
+line survey 
+  986.532 -506.6635
+  959.114 -498.7115
+endline
+
+line survey 
+  986.532 -506.6635
+  981.846 -503.8295
+endline
+
+line survey 
+  986.532 -506.6635
+  980.236 -506.0335
+endline
+
+line survey 
+  986.532 -506.6635
+  1007.21 -519.2615
+endline
+
+line survey 
+  1007.21 -519.2615
+  1007.318 -517.1355
+endline
+
+line survey 
+  1007.21 -519.2615
+  1007.322 -511.7815
+endline
+
+line survey 
+  1007.21 -519.2615
+  1004.868 -519.8915
+endline
+
+line survey 
+  1007.21 -519.2615
+  1002.476 -532.1755
+endline
+
+line survey 
+  1007.21 -519.2615
+  1023.036 -525.8755
+endline
+
+line survey 
+  1007.21 -519.2615
+  1022.82 -526.0335
+endline
+
+line survey 
+  1007.21 -519.2615
+  1022.796 -526.0335
+endline
+
+line survey 
+  1007.21 -519.2615
+  1007.122 -516.9775
+endline
+
+line survey 
+  1007.21 -519.2615
+  997.564 -514.7735
+endline
+
+line survey 
+  1007.21 -519.2615
+  988.812 -510.7575
+endline
+
+line survey 
+  1007.21 -519.2615
+  1001.38 -521.3875
+endline
+
+line survey 
+  1007.21 -519.2615
+  1001.91 -529.1835
+endline
+
+line survey 
+  1007.21 -519.2615
+  1007.294 -521.3095
+endline
+
+line survey 
+  1007.21 -519.2615
+  1007.574 -520.9935
+endline
+
+line survey 
+  1007.21 -519.2615
+  1007.64 -520.9935
+endline
+
+line survey 
+  1007.21 -519.2615
+  1007.168 -515.8755
+endline
+
+line survey 
+  1007.21 -519.2615
+  1008.206 -539.1035
+endline
+
+line survey 
+  1007.21 -519.2615
+  1010.93 -519.1835
+endline
+
+line survey 
+  1007.21 -519.2615
+  1021.362 -518.6315
+endline
+
+line survey 
+  1007.21 -519.2615
+  1039.246 -533.8295
+endline
+
+line survey 
+  1007.21 -519.2615
+  1039.186 -533.8295
+endline
+
+line survey 
+  1007.21 -519.2615
+  1038.564 -533.4355
+endline
+
+line survey 
+  1007.21 -519.2615
+  1009.516 -515.6395
+endline
+
+line survey 
+  1007.21 -519.2615
+  1013.972 -520.4435
+endline
+
+line survey 
+  1007.21 -519.2615
+  1008.004 -538.7115
+endline
+
+line survey 
+  1007.21 -519.2615
+  1026.746 -525.7175
+endline
+
+line survey 
+  1007.21 -519.2615
+  1026.534 -525.7175
+endline
+
+line survey 
+  1007.21 -519.2615
+  1026.378 -525.7175
+endline
+
+line survey 
+  1007.21 -519.2615
+  1007.068 -516.0335
+endline
+
+line survey 
+  1007.21 -519.2615
+  1007.672 -527.7655
+endline
+
+line survey 
+  1007.21 -519.2615
+  1006.618 -533.5135
+endline
+
+line survey 
+  1007.21 -519.2615
+  1006.716 -527.3715
+endline
+
+line survey 
+  1007.21 -519.2615
+  1007.102 -519.1035
+endline
+
+line survey 
+  1007.21 -519.2615
+  1007.652 -516.8215
+endline
+
+line survey 
+  581.272 -408.9475
+  602.602 -416.7415
+endline
+
+line survey 
+  602.602 -416.7415
+  603.408 -410.3635
+endline
+
+line survey 
+  602.602 -416.7415
+  605.838 -413.3555
+endline
+
+line survey 
+  602.602 -416.7415
+  604.446 -415.7975
+endline
+
+line survey 
+  602.602 -416.7415
+  602.776 -424.1435
+endline
+
+line survey 
+  602.602 -416.7415
+  602.148 -431.2295
+endline
+
+line survey 
+  602.602 -416.7415
+  623.834 -432.8835
+endline
+
+line survey 
+  602.602 -416.7415
+  621.806 -424.5375
+endline
+
+line survey 
+  621.806 -424.5375
+  623.738 -431.8595
+endline
+
+line survey 
+  621.806 -424.5375
+  626.052 -424.4595
+endline
+
+line survey 
+  621.806 -424.5375
+  623.312 -422.4115
+endline
+
+line survey 
+  621.806 -424.5375
+  640.226 -430.7575
+endline
+
+line survey 
+  640.226 -430.7575
+  636.832 -408.7115
+endline
+
+line survey 
+  640.226 -430.7575
+  641.782 -416.7415
+endline
+
+line survey 
+  640.226 -430.7575
+  647.59 -427.5295
+endline
+
+line survey 
+  640.226 -430.7575
+  621.724 -429.1835
+endline
+
+line survey 
+  640.226 -430.7575
+  623.73 -445.6395
+endline
+
+line survey 
+  640.226 -430.7575
+  678.69 -452.8835
+endline
+
+line survey 
+  640.226 -430.7575
+  678.52 -452.8835
+endline
+
+line survey 
+  640.226 -430.7575
+  678.858 -452.4895
+endline
+
+line survey 
+  640.226 -430.7575
+  643.344 -422.5695
+endline
+
+line survey 
+  640.226 -430.7575
+  644.394 -430.9935
+endline
+
+line survey 
+  640.226 -430.7575
+  642.984 -440.9155
+endline
+
+line survey 
+  640.226 -430.7575
+  642.938 -445.2455
+endline
+
+line survey 
+  640.226 -430.7575
+  660.14 -442.7255
+endline
+
+line survey 
+  640.226 -430.7575
+  659.906 -442.7255
+endline
+
+line survey 
+  640.226 -430.7575
+  659.972 -442.6475
+endline
+
+line survey 
+  640.226 -430.7575
+  642.56 -420.9935
+endline
+
+line survey 
+  640.226 -430.7575
+  644.714 -430.5215
+endline
+
+line survey 
+  640.226 -430.7575
+  639.718 -447.6075
+endline
+
+line survey 
+  640.226 -430.7575
+  660.958 -438.3955
+endline
+
+line survey 
+  660.958 -438.3955
+  658.014 -425.0895
+endline
+
+line survey 
+  660.958 -438.3955
+  658.166 -456.5055
+endline
+
+line survey 
+  660.958 -438.3955
+  658.836 -437.4515
+endline
+
+line survey 
+  660.958 -438.3955
+  666.234 -428.3955
+endline
+
+line survey 
+  660.958 -438.3955
+  700.308 -449.9695
+endline
+
+line survey 
+  700.308 -449.9695
+  697.946 -461.3875
+endline
+
+line survey 
+  700.308 -449.9695
+  704.014 -470.5215
+endline
+
+line survey 
+  700.308 -449.9695
+  707.438 -442.0175
+endline
+
+line survey 
+  700.308 -449.9695
+  710.506 -441.3095
+endline
+
+line survey 
+  700.308 -449.9695
+  704.798 -448.1595
+endline
+
+line survey 
+  700.308 -449.9695
+  744.452 -468.6315
+endline
+
+line survey 
+  700.308 -449.9695
+  743.384 -468.3955
+endline
+
+line survey 
+  700.308 -449.9695
+  743.258 -468.3175
+endline
+
+line survey 
+  700.308 -449.9695
+  704.066 -446.3475
+endline
+
+line survey 
+  700.308 -449.9695
+  695.324 -450.0495
+endline
+
+line survey 
+  700.308 -449.9695
+  693.776 -455.5615
+endline
+
+line survey 
+  700.308 -449.9695
+  739.168 -460.3635
+endline
+
+line survey 
+  739.168 -460.3635
+  740.382 -452.9635
+endline
+
+line survey 
+  739.168 -460.3635
+  736.988 -478.3955
+endline
+
+line survey 
+  739.168 -460.3635
+  735.03 -459.9695
+endline
+
+line survey 
+  739.168 -460.3635
+  742.774 -456.1915
+endline
+
+line survey 
+  739.168 -460.3635
+  764.28 -467.6075
+endline
+
+line survey 
+  764.28 -467.6075
+  766.376 -462.0175
+endline
+
+line survey 
+  764.28 -467.6075
+  773.546 -465.0895
+endline
+
+line survey 
+  764.28 -467.6075
+  768.674 -467.6075
+endline
+
+line survey 
+  764.28 -467.6075
+  761.834 -483.9855
+endline
+
+line survey 
+  764.28 -467.6075
+  794.53 -478.6315
+endline
+
+line survey 
+  794.53 -478.6315
+  794.526 -473.7495
+endline
+
+line survey 
+  794.53 -478.6315
+  792.604 -478.1595
+endline
+
+line survey 
+  794.53 -478.6315
+  801.008 -494.3795
+endline
+
+line survey 
+  794.53 -478.6315
+  801.024 -494.4595
+endline
+
+line survey 
+  794.53 -478.6315
+  801.374 -494.5375
+endline
+
+line survey 
+  794.53 -478.6315
+  796.282 -473.9075
+endline
+
+line survey 
+  794.53 -478.6315
+  800.264 -472.5695
+endline
+
+line survey 
+  794.53 -478.6315
+  798.064 -478.0815
+endline
+
+line survey 
+  794.53 -478.6315
+  794.484 -504.9315
+endline
+
+line survey 
+  794.53 -478.6315
+  828.814 -485.8755
+endline
+
+line survey 
+  828.814 -485.8755
+  829.57 -482.0955
+endline
+
+line survey 
+  828.814 -485.8755
+  824.948 -486.0335
+endline
+
+line survey 
+  828.814 -485.8755
+  824.924 -489.8915
+endline
+
+line survey 
+  828.814 -485.8755
+  825.066 -493.3555
+endline
+
+line survey 
+  828.814 -485.8755
+  860.21 -501.6235
+endline
+
+line survey 
+  860.21 -501.6235
+  862.144 -496.5855
+endline
+
+line survey 
+  860.21 -501.6235
+  868.898 -494.1435
+endline
+
+line survey 
+  860.21 -501.6235
+  866.892 -498.4735
+endline
+
+line survey 
+  860.21 -501.6235
+  857.096 -514.3795
+endline
+
+line survey 
+  860.21 -501.6235
+  878.376 -519.7335
+endline
+
+line survey 
+  878.376 -519.7335
+  884.376 -501.2295
+endline
+
+line survey 
+  878.376 -519.7335
+  875.906 -527.3715
+endline
+
+line survey 
+  878.376 -519.7335
+  874.622 -521.5455
+endline
+
+line survey 
+  878.376 -519.7335
+  894.694 -519.3395
+endline
+
+line survey 
+  894.694 -519.3395
+  896.616 -508.1595
+endline
+
+line survey 
+  894.694 -519.3395
+  891.492 -505.7975
+endline
+
+line survey 
+  894.694 -519.3395
+  898.384 -519.8915
+endline
+
+line survey 
+  894.694 -519.3395
+  896.274 -532.8055
+endline
+
+line survey 
+  894.694 -519.3395
+  901.014 -520.9155
+endline
+
+line survey 
+  901.014 -520.9155
+  908.556 -510.3635
+endline
+
+line survey 
+  901.014 -520.9155
+  896.794 -521.5455
+endline
+
+line survey 
+  901.014 -520.9155
+  905.58 -533.9855
+endline
+
+line survey 
+  901.014 -520.9155
+  942.842 -532.9635
+endline
+
+point 313.876 670.3444 station-name -align tr -scale xs -text 0@Entree
+point 346.556 610.4224 station-name -align tr -scale xs -text 1@Entree
+point 368.106 550.5024 station-name -align tr -scale xs -text 2@Entree
+point 387.406 399.8724 station-name -align tr -scale xs -text 3@Entree
+point 370.732 397.4305 station-name -align tr -scale xs -text 4@Entree
+point 397.688 198.0605 station-name -align tr -scale xs -text 5@Entree
+point 424.572 189.6365 station-name -align tr -scale xs -text 6@Entree
+point 258.03 698.7704 station-name -align tr -scale xs -text 1A@Entree
+point 245.218 848.2184 station-name -align tr -scale xs -text 2A@Entree
+point 231.202 872.5485 station-name -align tr -scale xs -text 3A@Entree
+point 436.428 66.4865 station-name -align tr -scale xs -text 7@Entree
+point 417.704 49.4785 station-name -align tr -scale xs -text 8@Entree
+point 417.704 -27.3715 station-name -align tr -scale xs -text 9@Entree
+point 429.668 -36.3475 station-name -align tr -scale xs -text 10@Entree
+point 485.586 -150.9935 station-name -align tr -scale xs -text 11@Entree
+point 475.642 -183.5136 station-name -align tr -scale xs -text 12@Entree
+point 455.3861 -191.1515 station-name -align tr -scale xs -text 13@Entree
+point 407.468 -300.3636 station-name -align tr -scale xs -text 14@Entree
+point 365.2661 -319.5775 station-name -align tr -scale xs -text 15@Entree
+point 387.834 -325.7175 station-name -align tr -scale xs -text 16@Entree
+point 471.498 -375.5615 station-name -align tr -scale xs -text 17@Entree
+point 531.33 -387.9235 station-name -align tr -scale xs -text 18@Entree
+point 581.272 -408.9476 station-name -align tr -scale xs -text 5@MeandreB
+point 726.372 -420.9155 station-name -align tr -scale xs -text 20@Entree
+point 624.44 -424.2216 station-name -align tr -scale xs -text 6@MeandreB
+point 713.494 -424.4595 station-name -align tr -scale xs -text 7@MeandreB
+point 782.762 -424.4595 station-name -align tr -scale xs -text 8@MeandreB
+point 857.71 -452.4896 station-name -align tr -scale xs -text 9@MeandreB
+point 873.204 -465.0895 station-name -align tr -scale xs -text 10@MeandreB
+point 986.532 -506.6635 station-name -align tr -scale xs -text 11@MeandreB
+point 1007.21 -519.2615 station-name -align tr -scale xs -text 12@MeandreB
+point 602.602 -416.7415 station-name -align tr -scale xs -text 13@MeandreB
+point 621.806 -424.5375 station-name -align tr -scale xs -text 14@MeandreB
+point 640.226 -430.7576 station-name -align tr -scale xs -text 15@MeandreB
+point 660.958 -438.3956 station-name -align tr -scale xs -text 16@MeandreB
+point 700.308 -449.9695 station-name -align tr -scale xs -text 17@MeandreB
+point 739.168 -460.3635 station-name -align tr -scale xs -text 18@MeandreB
+point 764.28 -467.6075 station-name -align tr -scale xs -text 19@MeandreB
+point 794.53 -478.6315 station-name -align tr -scale xs -text 20@MeandreB
+point 828.814 -485.8755 station-name -align tr -scale xs -text 21@MeandreB
+point 860.21 -501.6235 station-name -align tr -scale xs -text 22@MeandreB
+point 878.376 -519.7335 station-name -align tr -scale xs -text 23@MeandreB
+point 894.694 -519.3395 station-name -align tr -scale xs -text 24@MeandreB
+point 901.014 -520.9155 station-name -align tr -scale xs -text 25@MeandreB
+point 942.842 -532.9636 station-name -align tr -scale xs -text 26@MeandreB
+endscrap
+

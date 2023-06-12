@@ -1,0 +1,5 @@
+source outputs/TroisEntreesPlusUne2019.th
+
+export model -o outputs/TroisEntreesPlusUne2019.3d
+
+export map -o outputs/TroisEntreesPlusUne.pdf -projection plan

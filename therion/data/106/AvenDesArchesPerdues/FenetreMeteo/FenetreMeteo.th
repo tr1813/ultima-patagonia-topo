@@ -2,11 +2,14 @@
 
 survey FenetreMeteo -title "Fenetre Meteo"
   input FenetreMeteo-1p.th2
+  input FenetreMeteo-e.th2
 
   map m-FenetreMeteo-p -projection plan 
     FenetreMeteo-1p
     FenetreMeteo-2p
+    FenetreMeteo-3p
   endmap
+
 
 
   centerline
@@ -50,7 +53,7 @@ survey FenetreMeteo -title "Fenetre Meteo"
     0 . 4.30 222.3 72.8
     0 . 3.70 270.5 48.0
     0 . 4.38 278.9 55.2
-    extend left
+    extend right
     0 1 4.21 250.0 30.9
     # extend auto
     1 . 2.11 321.8 43.4
@@ -59,7 +62,7 @@ survey FenetreMeteo -title "Fenetre Meteo"
     1 . 1.63 133.2 19.2
     1 . 1.12 125.6 -18.8
     1 . 0.22 163.4 -59.0
-    extend left
+    extend right
     1 2 7.12 253.9 14.2
     # extend auto
     2 . 0.52 180.1 1.5
@@ -101,7 +104,7 @@ survey FenetreMeteo -title "Fenetre Meteo"
     3 . 3.47 203.7 1.2
     3 . 2.15 214.5 27.1
     3 . 1.81 241.5 40.8
-    extend left
+    extend right
     3 4 4.87 218.3 -0.5
     # extend auto
     4 . 0.20 185.5 11.3
@@ -135,7 +138,7 @@ survey FenetreMeteo -title "Fenetre Meteo"
     5 . 3.24 220.2 34.4
     5 . 3.28 224.4 15.8
     5 . 1.85 253.3 4.2
-    extend left
+    extend right
     5 6 5.69 230.9 23.9
     # extend auto
     6 . 0.46 167.0 14.1
@@ -179,7 +182,7 @@ survey FenetreMeteo -title "Fenetre Meteo"
     7 . 8.18 95.7 -4.0
     7 . 6.61 86.8 -4.9
     7 . 7.50 78.5 -12.7
-    extend left
+    extend right
     7 8 5.62 245.0 19.5
     # extend auto
     8 . 5.78 203.7 33.0
@@ -645,7 +648,7 @@ survey FenetreMeteo -title "Fenetre Meteo"
     31 . 0.81 215.8 -0.8
     31 . 0.85 252.9 1.1
     31 . 1.97 282.1 -6.4
-    extend right
+    extend left
     31 32 1.67 282.4 32.9
     # extend auto
     32 . 0.94 64.0 -0.2
@@ -656,7 +659,7 @@ survey FenetreMeteo -title "Fenetre Meteo"
     32 . 0.62 16.2 81.4
     32 . 2.15 336.4 -78.7
     32 . 3.02 317.6 7.8
-    extend right
+    extend left
     32 33 2.62 316.5 -2.0
     # extend auto
     33 . 2.63 157.5 10.9
@@ -758,7 +761,7 @@ survey FenetreMeteo -title "Fenetre Meteo"
     40 . 0.72 326.5 -59.1
     40 . 3.40 39.2 -69.4
     40 . 4.85 209.5 6.9
-    extend ignore
+    extend left
     40 41 4.86 209.4 7.0
     # extend auto
     40 . 4.86 207.5 6.6
@@ -785,7 +788,7 @@ survey FenetreMeteo -title "Fenetre Meteo"
     extend vertical
     42 43 3.72 267.5 33.6
     extend left
-    44 43 3.17 48.4 15.3
+    43 44 3.17 48.4 15.3
     # extend auto
     44 . 1.52 112.1 75.0
     44 . 1.98 51.0 50.8
@@ -817,7 +820,7 @@ survey FenetreMeteo -title "Fenetre Meteo"
     45 . 2.15 232.8 -5.2
     45 . 4.26 241.5 -8.6
     45 . 4.26 243.5 -8.8
-    extend ignore
+    extend left
     45 46 4.26 243.4 -8.8
     # extend auto
     46 . 0.52 115.4 -79.7
@@ -914,7 +917,7 @@ survey FenetreMeteo -title "Fenetre Meteo"
     53 . 1.91 121.4 0.4
     53 . 3.30 115.5 -2.4
     53 . 3.30 115.0 -3.8
-    extend ignore
+    extend left
     53 54 3.30 115.4 -4.0
     # extend auto
     54 . 0.91 286.2 72.3
@@ -952,7 +955,7 @@ survey FenetreMeteo -title "Fenetre Meteo"
     55 . 0.39 178.7 22.4
     55 . 2.50 68.7 71.5
     55 . 2.77 117.9 -5.7
-    extend ignore
+    extend left
     55 56 2.77 117.3 -5.8
     # extend auto
     55 . 2.77 115.8 -6.7
@@ -970,7 +973,7 @@ survey FenetreMeteo -title "Fenetre Meteo"
     56 . 6.99 173.3 2.7
     56 . 1.34 159.3 -2.0
     56 . 5.09 159.4 -2.1
-    extend ignore
+    extend left
     56 57 5.09 159.3 -2.1
     # extend auto
     57 . 6.03 291.4 79.0

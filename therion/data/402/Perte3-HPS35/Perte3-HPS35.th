@@ -1,0 +1,29 @@
+survey Perte3-HPS35 -title "Perte 3 du HPS 35" \
+            -attr cadnum 402001 \
+            -attr exped UP2023 \
+			-entrance TOP
+
+			input Perte3-HPS35-e.th2
+
+        	centreline
+
+        	#explo-date UP2023
+        	#team "Tanguy Arnauld Laurence"
+			team "Bernard Tourte"
+			team "Kateryna Medvedeva"
+			explo-team "Centre Terre"
+
+        	units length meters
+        	units compass clino degrees
+        	data normal from to tape compass clino
+        	TOP BOTTOM 20 0 DOWN
+			BOTTOM SUMP 10 0 0
+
+        	endcentreline
+	
+			map m-all-e -projection extended 
+				Perte3-HPS35-1e
+			endmap
+
+endsurvey
+        

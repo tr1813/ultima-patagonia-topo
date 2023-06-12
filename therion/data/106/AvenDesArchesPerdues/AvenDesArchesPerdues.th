@@ -1,14 +1,44 @@
 
 ## a survey compiled from Visual Topo Data using the visual_therion.py script
 
-survey AvenDesArchesPerdues -entrance 0@Entree -attr cadnum 106022 -attr exped UP2023
+survey AvenDesArchesPerdues -entrance 0@Entree -attr cad_num 106022 -attr exped UP2023
+
     input Entree/Entree.th
-    input FenetreMeteo/FenetreMeteo.th 
+    input FenetreMeteo/FenetreMeteo.th
+    input Panthere/Panthere.th
+    input Collecteur/Collecteur.th 
+    input Arches_Perdues_55/Arches_Perdues_55.th
+    input Arches_Perdues_last/Arches_Perdues_last.th
+    input Arches_Perdues_Siphon_2/Arches_Perdues_Siphon_2.th
 
     equate 8.0@Entree 57@FenetreMeteo
+    equate 17@FenetreMeteo 17@Panthere
+    equate 33@Panthere 33@Collecteur
+    equate 55@Collecteur 0@Arches_Perdues_55
+    equate 64@Collecteur 0@Arches_Perdues_last
+    equate 21@Arches_Perdues_last 25@Panthere
+    equate 6@Arches_Perdues_Siphon_2 60@Collecteur 
+
 
     map m-all-p -projection plan 
-        Entree # le releve topo # quand l'entree est dessinee sur inkscape. 
+        m-all-p@Entree # le releve topo # quand l'entree est dessinee sur inkscape. 
         m-FenetreMeteo-p@FenetreMeteo #
+        m-Collecteur-p@Collecteur
+        m-Panthere-p@Panthere
+        m-Arches_Perdues_55-p@Arches_Perdues_55
+        m-Arches_Perdues_last-p@Arches_Perdues_last
+        m-Arches_Perdues_Siphon_2-p@Arches_Perdues_Siphon_2
     endmap
+
+    map m-all-e -projection extended
+        Entree-1e@Entree
+        Entree-2e@Entree
+        FenetreMeteo-1e@FenetreMeteo
+        Panthere-1e@Panthere
+        Collecteur-1e@Collecteur
+        Arches_Perdues_55-1e@Arches_Perdues_55
+        Arches_Perdues_last-1e@Arches_Perdues_last
+        Arches_Perdues_Siphon_2-1e@Arches_Perdues_Siphon_2
+    endmap
+
 endsurvey

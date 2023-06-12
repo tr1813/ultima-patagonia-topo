@@ -7,14 +7,20 @@ layout custom_areas
 		# blueish water area
 		def a_water_MY (expr p) =
 			T:=identity;
-			thfill p withcolor (26/255,26/255,225/255);
+			thfill p withcolor (102/255,204/255,255/255);
 		enddef;
 
 		# darker blue sump area
 		def a_sump_MY (expr p) =
 			T:=identity;
-			thfill p withcolor (0/255,0/255,128/255);
+			thfill p withcolor (0/255,153/255,2555/255);
 		enddef;
+
+		def a_u_bedrock (expr p) =
+			T:=identity;
+			thfill p withcolor (204/255,204/255,204/255);
+		enddef;
+
 
 		# define an ice pattern
 		beginpattern(pattern_ice_MY);
@@ -129,12 +135,12 @@ layout custom_areas
 			pair z;
 			pair za;
 			tmp_pebblea := image (
-			draw (((-.12u,0)..(.05u,0)..(.007u,0.003u)..(-0.004u,0.005u)--cycle) scaled 0.035u) withcolor(0.5,0.5,0.5);
+			draw (((-.12u,0)..(.05u,0)..(.007u,0.003u)..(-0.004u,0.005u)--cycle) scaled 0.035u) withcolor(0.3,0.3,0.3);
 			fill (((-.12u,0)..(.05u,0)..(.007u,0.003u)..(-0.004u,0.005u)--cycle) scaled 0.035u) withcolor(0.95,0.95,0.95);
 			);
 
 			tmp_pebbleb := image (
-			draw (((((-.12u,0)..(.05u,0)..(.007u,0.003u)..(-0.004u,0.005u)--cycle)rotated 35)  scaled 0.025u) shifted (0.2u,0.2u)) withcolor(0.5,0.5,0.5);
+			draw (((((-.12u,0)..(.05u,0)..(.007u,0.003u)..(-0.004u,0.005u)--cycle)rotated 35)  scaled 0.025u) shifted (0.2u,0.2u)) withcolor(0.3,0.3,0.3);
 			fill (((((-.12u,0)..(.05u,0)..(.007u,0.003u)..(-0.004u,0.005u)--cycle)rotated 35) scaled 0.025u) shifted (0.2u,0.2u)) withcolor(0.95,0.95,0.95);
 			);
 			tmp_pic := image(
@@ -217,6 +223,7 @@ layout custom_areas
 
 		# initialise redefined symbols
 		initsymbol("a_u_smallblocks");
+		initsymbol("a_u_bedrock");
 	endcode
 endlayout
 
