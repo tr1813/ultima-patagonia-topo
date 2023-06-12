@@ -1854,6 +1854,18 @@ endscrap
 
 scrap Perte25MetresNageLibre-1e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 
+line water-flow 
+  1513.0861 1249.8512
+  1513.0861 1249.8512 1543.9305 1242.9969 1548.5 1242.9969
+  1553.0695 1242.9969 1567.3493 1242.4257 1567.3493 1242.4257
+endline
+
+line water-flow 
+  1477.1011 1324.1061
+  1477.1011 1324.1061 1477.6723 1292.1194 1477.6723 1286.4075
+  1477.6723 1280.6956 1488.5249 1264.131 1488.5249 1264.131
+endline
+
 line rock-border -clip off -close on
   1076.0405 1534.385
   1076.9732 1531.5871
@@ -1911,7 +1923,7 @@ line rock-border -clip off -close on
   1162.5437 1473.5297
 endline
 
-point 1699.6681 1254.6706 label -align l -scale xs -text "<centre>100 m méandre non topo<br>arrêt aval sur étroiture<br> affluent 30 m avec amont siphonnant"
+point 1689.7217 1263.2277 label -align bl -scale xs -text "<centre>100 m méandre non topo<br><bf>aval :<ss> arrêt sur lamnoir bas aquatique<br> <bf>amont : <ss> affluent 30 m siphonnant"
 line wall -clip off -outline none
   1101.6346 1565.5552
   1102.4283 1572.3015
@@ -1946,9 +1958,9 @@ line water-flow
   1465.5035 1334.9245
 endline
 
-point 1302.1737 1364.3621 spring -orientation 35.81190499430852
-point 1305.8615 1370.0247 water-flow -orientation 39.48385774941781
-point 1032.9836 1333.4034 label -align tr -scale l -text "<bf>COUPE DÉVELOPPÉE"
+point 1302.17 1364.36 spring -orientation 35.81190499430852
+point 1305.86 1370.02 water-flow -orientation 39.48385774941781
+point 1032.98 1333.4 label -align tr -scale l -text "<bf>COUPE DÉVELOPPÉE"
 line u:texture 
   1148.7655 1511.5826
   1146.453 1506.3794
@@ -2060,11 +2072,11 @@ line wall -subtype sand
   1104.8267 1529.5051 1105.2815 1526.9131 1105.2815 1526.9131
 endline
 
-point 1133.8514 1523.1729 label -align tr -scale xs -text "<bf>R2"
-point 1002.2679 1544.2516 label -align tr -scale xs -text "sable dolomitique"
-point 1224.8048 1374.2831 label -align tr -scale xs -text galets
-point 1185.2119 1418.9645 label -align tr -scale xs -text "<bf>R5"
-point 1533.6834 1305.8887 label -align tr -scale xs -text "<bf>P12"
+point 1133.85 1523.17 label -align tr -scale xs -text "<bf>R2"
+point 1002.27 1544.25 label -align tr -scale xs -text "sable dolomitique"
+point 1224.8 1374.28 label -align tr -scale xs -text galets
+point 1185.21 1418.96 label -align tr -scale xs -text "<bf>R5"
+point 1533.68 1305.89 label -align tr -scale xs -text "<bf>P12"
 line wall -subtype presumed
   1507.7383 1239.0112
   1566.2938 1238.1375
@@ -2187,30 +2199,30 @@ line wall -subtype blocks
   1506.2392 1238.9173
 endline
 
-point 1076.716 1567.568 entrance -orientation 127.12314587457999 -scale l
-point 1022.96 1553.051 station -name 0
-point 1107.54 1530.691 station -name 1
-point 1117.99 1528.091 station -name 2
-point 1128.9 1507.621 station -name 3
-point 1161.51 1486.991 station -name 4
-point 1177.24 1471.321 station -name 5
-point 1202.72 1447.381 station -name 6
-point 1219.89 1431.321 station -name 7
-point 1239.68 1400.611 station -name 8
-point 1253.48 1395.261 station -name 9
-point 1271.97 1391.001 station -name 10
-point 1286.74 1388.091 station -name 11
-point 1304.09 1382.661 station -name 12
-point 1340.17 1375.571 station -name 13
-point 1365.63 1366.831 station -name 14
-point 1375.29 1366.121 station -name 15
-point 1393.16 1358.881 station -name 16
-point 1406.63 1353.921 station -name 17
-point 1426.17 1357.381 station -name 18
-point 1432.69 1351.481 station -name 19
-point 1446.83 1347.071 station -name 20
-point 1479.79 1331.161 station -name 21
-point 1495.95 1254.471 station -name 22
+point 1076.72 1567.57 entrance -orientation 127.12314587457999 -scale l
+point 1022.96 1553.05 station -name 0
+point 1107.54 1530.69 station -name 1
+point 1117.99 1528.09 station -name 2
+point 1128.9 1507.62 station -name 3
+point 1161.51 1486.99 station -name 4
+point 1177.24 1471.32 station -name 5
+point 1202.72 1447.38 station -name 6
+point 1219.89 1431.32 station -name 7
+point 1239.68 1400.61 station -name 8
+point 1253.48 1395.26 station -name 9
+point 1271.97 1391.0 station -name 10
+point 1286.74 1388.09 station -name 11
+point 1304.09 1382.66 station -name 12
+point 1340.17 1375.57 station -name 13
+point 1365.63 1366.83 station -name 14
+point 1375.29 1366.12 station -name 15
+point 1393.16 1358.88 station -name 16
+point 1406.63 1353.92 station -name 17
+point 1426.17 1357.38 station -name 18
+point 1432.69 1351.48 station -name 19
+point 1446.83 1347.07 station -name 20
+point 1479.79 1331.16 station -name 21
+point 1495.95 1254.47 station -name 22
 line survey 
   1022.96 1553.051
   1107.54 1530.691
@@ -3691,28 +3703,28 @@ line survey
   1506.18 1252.421
 endline
 
-point 1022.96 1553.051 station-name -align tr -scale xs -text 0
-point 1107.54 1530.691 station-name -align tr -scale xs -text 1
-point 1117.99 1528.091 station-name -align tr -scale xs -text 2
-point 1128.9 1507.621 station-name -align tr -scale xs -text 3
-point 1161.51 1486.991 station-name -align tr -scale xs -text 4
-point 1177.24 1471.321 station-name -align tr -scale xs -text 5
-point 1202.72 1447.381 station-name -align tr -scale xs -text 6
-point 1219.89 1431.321 station-name -align tr -scale xs -text 7
-point 1239.68 1400.611 station-name -align tr -scale xs -text 8
-point 1253.48 1395.261 station-name -align tr -scale xs -text 9
-point 1271.97 1391.001 station-name -align tr -scale xs -text 10
-point 1286.74 1388.091 station-name -align tr -scale xs -text 11
-point 1304.09 1382.661 station-name -align tr -scale xs -text 12
-point 1340.17 1375.571 station-name -align tr -scale xs -text 13
-point 1365.63 1366.831 station-name -align tr -scale xs -text 14
-point 1375.29 1366.121 station-name -align tr -scale xs -text 15
-point 1393.16 1358.881 station-name -align tr -scale xs -text 16
-point 1406.63 1353.921 station-name -align tr -scale xs -text 17
-point 1426.17 1357.381 station-name -align tr -scale xs -text 18
-point 1432.69 1351.481 station-name -align tr -scale xs -text 19
-point 1446.83 1347.071 station-name -align tr -scale xs -text 20
-point 1479.79 1331.161 station-name -align tr -scale xs -text 21
-point 1495.95 1254.471 station-name -align tr -scale xs -text 22
+point 1022.96 1553.05 station-name -align tr -scale xs -text 0
+point 1107.54 1530.69 station-name -align tr -scale xs -text 1
+point 1117.99 1528.09 station-name -align tr -scale xs -text 2
+point 1128.9 1507.62 station-name -align tr -scale xs -text 3
+point 1161.51 1486.99 station-name -align tr -scale xs -text 4
+point 1177.24 1471.32 station-name -align tr -scale xs -text 5
+point 1202.72 1447.38 station-name -align tr -scale xs -text 6
+point 1219.89 1431.32 station-name -align tr -scale xs -text 7
+point 1239.68 1400.61 station-name -align tr -scale xs -text 8
+point 1253.48 1395.26 station-name -align tr -scale xs -text 9
+point 1271.97 1391.0 station-name -align tr -scale xs -text 10
+point 1286.74 1388.09 station-name -align tr -scale xs -text 11
+point 1304.09 1382.66 station-name -align tr -scale xs -text 12
+point 1340.17 1375.57 station-name -align tr -scale xs -text 13
+point 1365.63 1366.83 station-name -align tr -scale xs -text 14
+point 1375.29 1366.12 station-name -align tr -scale xs -text 15
+point 1393.16 1358.88 station-name -align tr -scale xs -text 16
+point 1406.63 1353.92 station-name -align tr -scale xs -text 17
+point 1426.17 1357.38 station-name -align tr -scale xs -text 18
+point 1432.69 1351.48 station-name -align tr -scale xs -text 19
+point 1446.83 1347.07 station-name -align tr -scale xs -text 20
+point 1479.79 1331.16 station-name -align tr -scale xs -text 21
+point 1495.95 1254.47 station-name -align tr -scale xs -text 22
 endscrap
 

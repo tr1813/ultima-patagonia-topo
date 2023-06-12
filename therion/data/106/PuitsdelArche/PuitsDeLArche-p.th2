@@ -4,7 +4,14 @@ encoding  utf-8
 
 scrap PuitsDeLArche-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
-point 75.4522 315.8184 continuation 
+point -8.2598 235.6178 label -align tr -scale xs -text "arrêt sur trémie"
+point 63.8834 321.9625 narrow-end 
+line water-flow 
+  249.0853 346.341
+  249.0853 346.341 189.3299 302.3108 166.0568 301.6818
+  142.7837 301.0528 84.2864 316.7779 84.2864 316.7779
+endline
+
 line ceiling-step 
   299.5243 407.4724
   299.5243 407.4724 300.3294 388.9534 318.0432 390.1611
@@ -30,8 +37,8 @@ line u:wallstep -outline out
 endline
 
 point 418.893 365.113 entrance -orientation 234.298180644849 -scale l
-point 317.0844 366.385 label -align tr -scale xs -text "<bf>P7"
-point 258.4244 168.8231 label -align tr -scale xs -text "<bf>P12"
+point 317.084 366.385 label -align tr -scale xs -text "<bf>P7"
+point 258.424 168.823 label -align tr -scale xs -text "<bf>P12"
 point 373.465 250.574 label -align tr -scale xs -text arche
 line border -close on -id PuitsDeLArche-1p_u_smallblocks_1 -visibility off
   289.401 208.3122
@@ -64,10 +71,11 @@ line u:wallstep
 endline
 
 point 336.338 430.108 spring -orientation 227.149176013029
-point -232.0127 195.8566 label -align tr -scale l -text "<bf>PLAN"
+point -232.013 195.857 label -align tr -scale l -text "<bf>PLAN"
 line wall 
-  100.0 301.02
-  108.4815 299.0736 116.7281 296.5261 124.8851 293.5043
+  94.6967 310.2311
+  98.2607 309.4132 101.1108 300.1149 106.0886 298.1226
+  112.9568 295.3736 120.1558 295.2563 124.8851 293.5043
   130.5589 290.9686 136.1471 288.22 142.5546 288.9329
   147.9333 286.6113 152.8044 282.6493 158.08 279.86
   163.9806 280.1931 170.4447 279.7612 175.7825 282.478
@@ -166,7 +174,7 @@ line wall
   159.832 306.6733 155.3255 308.4593 151.7021 309.2966
   146.505 311.9138 140.6127 309.9753 135.3512 311.9993
   129.1274 315.3672 122.0215 312.2976 115.5869 314.671
-  109.7983 314.9243 106.0275 319.2828 101.74 322.59
+  109.7983 314.9243 104.911 316.4916 100.6235 319.7988
 endline
 
 point 157.94 290.95 station -name 6

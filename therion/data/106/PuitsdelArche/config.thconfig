@@ -53,7 +53,9 @@ layout plan
   \par \si Dénivellation :\ss{ \the\cavedepth}
   \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
   \par \si Relevés topographiques :\ss{ }Lionel Ruiz, Olivier Guérard
-  \par \si Report et dessins :\ss{  Lionel Ruiz, Tanguy Racine}}
+  \par \si Report et dessins :\ss{  Lionel Ruiz, Tanguy Racine}
+  \par{ \quad} 
+  \par \si Longueurs estimées à la corde, relevés boussole et inclinomètre au téléphone }
 
   \def\maplayout{
 

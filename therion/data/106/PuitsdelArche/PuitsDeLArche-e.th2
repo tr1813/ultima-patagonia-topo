@@ -4,9 +4,10 @@ encoding  utf-8
 
 scrap PuitsDeLArche-1e -projection extended -scale [0 0 39.3701 0 0 0 1 0 m]
 
-point 347.0134 11.9589 label -align tr -scale l -text "<bf>COUPE DÉVELOPPÉE"
-point 213.8054 136.8967 continuation 
-point 614.915 1110.0927 entrance -orientation 223.3159457633374 -scale l
+point 209.9844 134.6905 narrow-end 
+point 136.2681 81.1449 label -align tr -scale xs -text "arrêt sur trémie"
+point 347.013 11.9589 label -align tr -scale l -text "<bf>COUPE DÉVELOPPÉE"
+point 614.915 1110.09 entrance -orientation 223.3159457633374 -scale l
 line water-flow 
   668.4016 457.933
   668.4016 457.933 648.3361 379.6778 632.2838 367.6385
@@ -26,9 +27,9 @@ line water-flow
   378.379 748.8818 377.0083 609.1929 377.0083 609.1929
 endline
 
-point 452.0753 320.5887 label -align tr -scale xs -text "<bf>P7"
-point 446.5602 718.0443 label -align tr -scale xs -text "<bf>P12"
-point 473.7411 1114.0321 label -align tr -scale xs -text arche
+point 452.075 320.589 label -align tr -scale xs -text "<bf>P7"
+point 446.56 718.044 label -align tr -scale xs -text "<bf>P12"
+point 473.741 1114.03 label -align tr -scale xs -text arche
 line rock-border -close on
   386.0254 535.2698
   386.649 551.4841
@@ -320,7 +321,7 @@ endline
 point 319.374 117.08 station -name 7
 point 398.114 117.08 station -name 6
 point 398.114 195.82 station -name 5
-point 555.5944 195.82 station -name 4
+point 555.594 195.82 station -name 4
 point 556.13 392.67 station -name 3
 point 394.14 615.63 station -name 2
 point 343.629 926.71 station -name 1
