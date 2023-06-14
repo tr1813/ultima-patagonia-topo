@@ -4,7 +4,7 @@ encoding  utf-8
 
 scrap SiphonAmont-1e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 
-point 207.7599 367.2268 u:terminus -attr text UP2023 -attr side 0 -orientation 300
+point 207.76 367.227 u:terminus -attr text UP2023 -attr side 0 -orientation 300.0000115675761
 point 120.362 307.19 water-flow -orientation 249.08932773668516
 point 864.819 262.549 water-flow -orientation 249.08932773668516
 point 479.296 91.6127 label -align tr -scale l -text "Siphon Amont"
@@ -225,5 +225,226 @@ area sump
   SiphonAmont-1e_sump_1
 endarea
 
+point 1667.59 359.476 station -name 10
+point 1595.78 327.196 station -name 11
+point 1533.5 317.746 station -name 12
+point 1487.96 305.146 station -name 13
+point 1415.46 274.436 station -name 14
+point 1333.18 227.976 station -name 15
+point 1278.34 222.466 station -name 16
+point 1210.04 203.566 station -name 17
+point 1162.9 200.416 station -name 18
+point 1063.12 177.586 station -name 19
+point 1003.03 196.486 station -name 20
+point 906.987 231.916 station -name 21
+point 861.917 246.086 station -name 22
+line survey 
+  1667.587 359.4764
+  1595.777 327.1964
+endline
+
+line survey 
+  1595.777 327.1964
+  1533.497 317.7464
+endline
+
+line survey 
+  1533.497 317.7464
+  1487.957 305.1464
+endline
+
+line survey 
+  1487.957 305.1464
+  1415.457 274.4364
+endline
+
+line survey 
+  1415.457 274.4364
+  1333.177 227.9764
+endline
+
+line survey 
+  1333.177 227.9764
+  1278.337 222.4664
+endline
+
+line survey 
+  1278.337 222.4664
+  1210.037 203.5664
+endline
+
+line survey 
+  1210.037 203.5664
+  1162.897 200.4164
+endline
+
+line survey 
+  1162.897 200.4164
+  1063.117 177.5864
+endline
+
+line survey 
+  1063.117 177.5864
+  1003.027 196.4864
+endline
+
+line survey 
+  1003.027 196.4864
+  906.987 231.9164
+endline
+
+line survey 
+  906.987 231.9164
+  861.917 246.0864
+endline
+
+line survey 
+  861.917 246.0864
+  830.777 241.3664
+endline
+
+line survey 
+  1667.587 359.4764
+  1667.587 371.2864
+endline
+
+line survey 
+  1667.587 359.4764
+  1667.587 359.4764
+endline
+
+line survey 
+  1595.777 327.1964
+  1595.777 335.0664
+endline
+
+line survey 
+  1595.777 327.1964
+  1595.777 327.1964
+endline
+
+line survey 
+  1533.497 317.7464
+  1533.497 325.6164
+endline
+
+line survey 
+  1533.497 317.7464
+  1533.497 317.7464
+endline
+
+line survey 
+  1487.957 305.1464
+  1487.957 313.0164
+endline
+
+line survey 
+  1487.957 305.1464
+  1487.957 305.1464
+endline
+
+line survey 
+  1415.457 274.4364
+  1415.457 282.3064
+endline
+
+line survey 
+  1415.457 274.4364
+  1415.457 274.4364
+endline
+
+line survey 
+  1333.177 227.9764
+  1333.177 239.7964
+endline
+
+line survey 
+  1333.177 227.9764
+  1333.177 227.9764
+endline
+
+line survey 
+  1278.337 222.4664
+  1278.337 238.2164
+endline
+
+line survey 
+  1278.337 222.4664
+  1278.337 222.4664
+endline
+
+line survey 
+  1210.037 203.5664
+  1210.037 219.3164
+endline
+
+line survey 
+  1210.037 203.5664
+  1210.037 203.5664
+endline
+
+line survey 
+  1162.897 200.4164
+  1162.897 216.1664
+endline
+
+line survey 
+  1162.897 200.4164
+  1162.897 200.4164
+endline
+
+line survey 
+  1063.117 177.5864
+  1063.117 193.3364
+endline
+
+line survey 
+  1063.117 177.5864
+  1063.117 177.5864
+endline
+
+line survey 
+  1003.027 196.4864
+  1003.027 212.2364
+endline
+
+line survey 
+  1003.027 196.4864
+  1003.027 196.4864
+endline
+
+line survey 
+  906.987 231.9164
+  906.987 247.6664
+endline
+
+line survey 
+  906.987 231.9164
+  906.987 231.9164
+endline
+
+line survey 
+  861.917 246.0864
+  861.917 257.9064
+endline
+
+line survey 
+  861.917 246.0864
+  861.917 246.0864
+endline
+
+point 1667.587 359.4764 station-name -align tr -scale xs -text 10
+point 1595.777 327.1964 station-name -align tr -scale xs -text 11
+point 1533.4971 317.7464 station-name -align tr -scale xs -text 12
+point 1487.957 305.1464 station-name -align tr -scale xs -text 13
+point 1415.457 274.4364 station-name -align tr -scale xs -text 14
+point 1333.177 227.9764 station-name -align tr -scale xs -text 15
+point 1278.337 222.4664 station-name -align tr -scale xs -text 16
+point 1210.037 203.5664 station-name -align tr -scale xs -text 17
+point 1162.897 200.4164 station-name -align tr -scale xs -text 18
+point 1063.1171 177.5864 station-name -align tr -scale xs -text 19
+point 1003.0271 196.4864 station-name -align tr -scale xs -text 20
+point 906.987 231.9164 station-name -align tr -scale xs -text 21
+point 861.917 246.0864 station-name -align tr -scale xs -text 22
 endscrap
 
