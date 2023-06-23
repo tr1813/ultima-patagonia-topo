@@ -48,7 +48,7 @@ line u:unknown
   250.0585 221.6325 251.5519 220.9142 252.96 220.0983
 endline
 
-point 391.9643 266.6176 label -align l -scale l -text PLAN
+point 401.9643 266.6176 label -align l -scale l -text PLAN
 line arrow 
   377.1774 97.593
   383.0922 127.6216
@@ -65,7 +65,7 @@ line arrow
 endline
 
 point 289.822 160.38 entrance -orientation 345.00000507213025
-point 83.9436 284.134 remark -align l -scale s -text "siphon continue sur 2 m<br>non plongé"
+point 83.9436 284.134 remark -align l -scale s -text "siphon continuant sur 2 m<br>non plongé"
 point 376.267 91.9153 remark -align b -scale s -text "<bf>P4"
 point 288.494 127.005 remark -align br -scale s -text "<bf>P5"
 point 215.991 166.9 remark -align l -scale s -text "broches à glace<br> placées dans la bédière"

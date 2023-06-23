@@ -4,6 +4,17 @@ encoding  utf-8
 
 scrap perte_8_HPS_35-1s -projection extended -scale [0 0 39.3701 0 0 0 1 0 m]
 
+line rock-edge 
+  368.0995 290.5294
+  368.0995 151.3173
+endline
+
+line rock-edge 
+  363.3989 306.35
+  368.0995 290.5294
+  375.862 304.0813
+endline
+
 line border -close on -id perte_8_HPS_35-1s_water_1 -visibility on
   348.7001 143.6272
   304.9676 143.6272
@@ -20,7 +31,7 @@ area water
   perte_8_HPS_35-1s_water_1
 endarea
 
-point 125.3339 76.8403 continuation -align l
+point 125.334 76.8403 continuation -align l
 line water-flow 
   346.018 278.6346
   346.018 278.6346 342.2621 275.3573 337.8987 253.9073
@@ -47,10 +58,10 @@ area sump
   perte_8_HPS_35-1s_sump_1
 endarea
 
-point 373.1852 340.2576 entrance -orientation 215
-point 148.3792 242.7843 label -align l -scale l -text COUPE
-point 374.362 304.0813 anchor -scale xs
-point 361.8989 306.35 anchor -scale xs
+point 373.185 340.258 entrance -orientation 214.9999809758059
+point 148.379 242.784 label -align l -scale l -text COUPE
+point 374.362 304.081 anchor -scale xs
+point 361.899 306.35 anchor -scale xs
 line wall:invisible 
   205.5441 340.9202
   285.9439 366.36
@@ -438,7 +449,7 @@ endline
 point 317.209 202.18 station -name 2
 point 387.309 215.35 station -name 1
 point 533.939 203.77 station -name 4
-point 215.7289 117.73 station -name 3
+point 215.729 117.73 station -name 3
 point 343.819 158.75 station -name 5
 point 354.939 156.12 station -name 6
 point 315.409 321.92 station -name 0

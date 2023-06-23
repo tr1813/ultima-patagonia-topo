@@ -1,6 +1,6 @@
 # 2023.03.01 created by TopoDroid v 5.1.40
 
-survey Traverse_de_lindecision -title "Traversée de l'Indécision" \
+survey TraverseDeLIndecision -title "Traversée de l'Indécision" \
            -attr cad_num 106063 \
            -attr exped UP2023 \
 			  -entrance 0
@@ -8,10 +8,14 @@ survey Traverse_de_lindecision -title "Traversée de l'Indécision" \
 
   centerline
     date 2023.02.27 
-    team "Flo.R"
-    team "Jules"
-    team "Alex.H"
-    team "David"
+    team "Florian Rives"
+    team "Jules Clouzeau"
+    team "Alexandre Honiat"
+    team "David Meunier"
+    
+    explo-date 2023.02.27 
+    explo-team ["Centre Terre"]
+
     units length meters
     units compass clino degrees
     data normal from to length compass clino
@@ -425,10 +429,10 @@ survey Traverse_de_lindecision -title "Traversée de l'Indécision" \
  input "TraverseDeLIndecision-1s.th2"
  
     map m-all-p -projection plan 
-       Traverse_de_lindecision-1p
+       TraverseDeLIndecision-1p
     endmap
    map m-all-s -projection extended
-       Traverse_de_lindecision-1s
+       TraverseDeLIndecision-1s
     endmap
 
 

@@ -15,9 +15,8 @@ input Panthere-e.th2
     team "Alexandre Honiat" 
     team "Jules Clouzeau" 
     explo-team "Alexandre Honiat" 
-    explo-team "Jules Clouzeau"
-    explo-team "Natalia Morata"
-    explo-team "Franck Brehier" 
+    explo-date 2023.02.22
+    explo-team "[Centre Terre]"
     units length meters
     units compass clino degrees
     data normal from to length compass clino

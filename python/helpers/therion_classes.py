@@ -87,6 +87,11 @@ class Centreline:
     def add_LRUDdataline(self, line: LineLRUD) -> None:
         self.lrud_data+= [line]
 
+    def add_Date(self, date: str) -> None:
+        DATE = date.split(".")
+        self.date = Date(year=int(DATE[0]),month=int(DATE[0]),day=int(DATE[2]))
+        self.explo_date = Date(year=int(DATE[0]),month=int(DATE[1]),day=int(DATE[2]))
+
     def update_type(self, type: str):
         self.type = type
         self.__post_init__()
@@ -200,14 +205,61 @@ def join(l : list[str])-> str:
 
     return newstr
 
-def find_entrance_stn(data: list[str]) -> str:
-    """Search the visual topo file for the entrance station"""
-    for c,l in enumerate(data):
-        if 'Entree' in l:
-            entrance_stations = re.findall(r"(?<=Entree\s).+",l)
+def find_entrance_stn(data: list[str], format : str) -> str:
+    if format == "tro":
+        """Search the visual topo file for the entrance station"""
+        for c,l in enumerate(data):
+            if 'Entree' in l:
+                entrance_stations = re.findall(r"(?<=Entree\s).+",l)
+    else: 
+        for c,l in enumerate(data):
+            if '<Entree>' in l:
+                entrance_stations = re.findall(r"(?<=<Entree>)[0-9a-z]+",l)
+    
     return entrance_stations[0] # type: ignore
 
-def return_centreline_params(data):
+
+def return_centreline_params(data: list[str], fmt: str):
+    if fmt == "tro":
+        return return_centreline_params_tro(data)
+    else: 
+        return return_centreline_params_trox(data)
+
+def return_centreline_params_trox(data):
+    start,end = [],[]
+    survey_dates = []
+    surveyor_groups = []
+
+    for c,l in enumerate(data):
+        if ('Param' in l) and ('/Param' not in l):
+            if 'Comment' in data[c+1]:
+                if len(start) >= 1:
+                    end.append(c-1)
+                start.append(c+2)
+            else:
+                if len(start) >= 1:
+                    end.append(c-1)
+                start.append(c+1)
+
+            reg_explodate = re.findall(r'(?<=Date\=")\d\d\/\d\d\/\d\d\d\d', l)
+            reg_explodate = [elem for elem in reg_explodate[0].split("/")]
+            explodate = "{yyyy}.{mm}.{dd}".format(yyyy =reg_explodate[2], mm =reg_explodate[1], dd = reg_explodate[0])
+            if len(explodate) == 0:
+                survey_dates.append('')
+            else:
+                survey_dates.append(re.sub(r"/",".",explodate))
+            tp = re.findall(r"(?<=Topo réalisée par )[\w+\s]*",l)
+            if len(tp) == 0:
+                surveyor_groups.append('')
+            else:
+                surveyor_groups.append(tp[0].split(' '))
+        elif 'Configuration' in l:
+            end.append(c-1)
+
+    return surveyor_groups,survey_dates,start,end
+
+
+def return_centreline_params_tro(data):
     # find the parameters of the file.
     start,end = [],[]
     survey_dates = []
@@ -257,73 +309,133 @@ def parse_CommentedStations(lines : list[str]) -> list[StationWithComment]:
             stations_list.append(station)
     return stations_list
 
-def parse_LRUDS(lines: list[str]) -> list[LineLRUD]:
-    LRUDlines = [[elem for elem in line.split(" ") if elem != ""] for line in lines[1:]]
-
+def parse_LRUDS(lines: list[str], format : str) -> list[LineLRUD]:
+    if format == "tro":
+        LRUDlines = [[elem for elem in line.split(" ") if elem != ""] for line in lines[:]]
+    elif format == "trox":
+        print("parsing a trox file")
+        LRUDlines = []
+        LRUDlines.append([elem.split("=")[-1].strip('"') for elem in lines[0].split(" ")[1:] if elem != ""])
+        LRUDlines = LRUDlines + [["*"]+[elem.split("=")[-1].strip('"') for elem in line.split(" ")[1:] if elem != ""] for line in lines[:]]
+    else:
+        LRUDlines = [[]]
     lrud_lines = []
 
+
     for c,line in enumerate(LRUDlines):
-        if "*" in line[0]:
-            LRUDline =LineLRUD(LRUDlines[c-1][1],parseFloat(line[5]),parseFloat(line[6]),parseFloat(line[7]),parseFloat(line[8]))    
-        else: 
-            LRUDline =LineLRUD(line[0],parseFloat(line[5]),parseFloat(line[6]),parseFloat(line[7]),parseFloat(line[8]))
-        if line[0] != line[1]:
+        if "*" in line[0] and len(line) >=9:
+            LRUDline =LineLRUD(LRUDlines[c][1],parseFloat(line[5]),parseFloat(line[6]),parseFloat(line[7]),parseFloat(line[8])) 
+        elif len(line) >=9:
+            LRUDline =LineLRUD(line[1],parseFloat(line[5]),parseFloat(line[6]),parseFloat(line[7]),parseFloat(line[8]))
+        else:
+            print("skipping empty line {}".format(c))
+        if len(line) >=9:
+            if line[0] != line[1]:
             #check there is no asterisk 
-            
-            lrud_lines.append(LRUDline)
+                lrud_lines.append(LRUDline) # type:ignore
 
     return lrud_lines
 
-def parse_normal_data(lines: list[str]) -> list[NormalDataLine]:
+def parse_normal_data(lines: list[str], format: str ) -> list[NormalDataLine]:
 
-    datalines = [[elem for elem in line.split(" ") if elem != ""] for line in lines[1:]]
+    if format == "tro":
+        datalines = [[elem for elem in line.split(" ") if elem != ""] for line in lines[1:]]
+    elif format == "trox":
+        print("parsing a trox file")
+        datalines: list = []
+        datalines.append([elem.split("=")[-1].strip('"') for elem in lines[0].split(" ")[1:] if elem != ""])
+
+        for line in lines[1:]:
+            if "Dep=" in line: 
+                datalines.append([elem.split("=")[-1].strip('"') for elem in line.split(" ")[1:] if elem != ""])
+            else: 
+                datalines.append(["*"]+[elem.split("=")[-1].strip('"') for elem in line.split(" ")[1:] if elem != ""])
+    else:
+        datalines = [[]]
+    
     dataLines = []
 
     for c,line in enumerate(datalines):
-        if "*" in line[0]:
+        if "*" in line[0] and len(line) >=9:
             dataLine = NormalDataLine(datalines[c-1][1],line[1],float(line[2]),float(line[3]),float(line[4]))
-        else:
+            print(line)
+        elif len(line) >=9:
             dataLine = NormalDataLine(line[0],line[1],float(line[2]),float(line[3]),float(line[4]))
-        
-        if dataLine.tape != 0:
-            dataLines.append(dataLine)
+        else:
+            print("skipping empty line {}".format(c))
+        if dataLine.tape != 0:  # type:ignore
+            dataLines.append(dataLine) # type:ignore
 
     return dataLines
 
-def parse_diving_data(lines: list[str]) -> list[DivingDataLine]:
+def parse_diving_data(lines: list[str], format: str) -> list[DivingDataLine]:
 
-    datalines = [[elem for elem in line.split(" ") if elem != ""] for line in lines[1:]]
+    if format == "tro":
+        datalines = [[elem for elem in line.split(" ") if elem != ""] for line in lines[1:]]
+    elif format == "trox":
+        print("parsing a trox file")
+        datalines = []
+        datalines.append([elem.split("=")[-1].strip('"') for elem in lines[0].split(" ")[1:] if elem != ""])
+        datalines = datalines + [["*"]+[elem.split("=")[-1].strip('"') for elem in line.split(" ")[1:] if elem != ""] for line in lines[1:]]
+    else:
+        print("oops empty")
+        datalines = [[]]
+
+
     dataLines = []
 
-    for c,line in enumerate(datalines[1:]): # keep and index and ignore the first one.
-        dataLine = DivingDataLine(from_depth= float(datalines[c][4]),
-        from_station= line[0],
-        to_depth= float(line[4]),
-        to_station=line[1],
-        tape= float(line[2]),
-        compass =float(line[3]))
-        if dataLine.tape != 0:
-            dataLines.append(dataLine)
+    for c,line in enumerate(datalines[:]): # keep and index and ignore the first one.
+        if len(line) >=9:
+            if "*" in line and len(datalines[c-1]) > 9:
+                dataLine = DivingDataLine(from_depth= float(datalines[c][4]),
+                from_station= datalines[c-1][1],
+                to_depth= float(line[4]),
+                to_station=line[1],
+                tape= float(line[2]),
+                compass =float(line[3]))
+            else:
+                dataLine = DivingDataLine(from_depth= float(datalines[c][4]),
+                from_station= line[0],
+                to_depth= float(line[4]),
+                to_station=line[1],
+                tape= float(line[2]),
+                compass =float(line[3]))
+        
+            if dataLine.tape != 0:
+                dataLines.append(dataLine)
 
     return dataLines
 
-def make_centrelines_list(data : list[str]) -> list[Centreline]:
+def make_centrelines_list(data : list[str], format: str ) -> list[Centreline]:
     
-    surveyor_groups,survey_dates,starts,ends = return_centreline_params(data)
+    surveyor_groups,survey_dates,starts,ends = return_centreline_params(data, fmt= format) # type:ignore
 
     centrelines : list[Centreline] = []
 
-    for start,end in zip(starts,ends):
+    for start,end,date in zip(starts,ends,survey_dates):
         newCentreline = Centreline()
+        newCentreline.add_Date(date)
+        if format == "tro":
+            header = data[start-1]
+        else:
+            if "Comment" in data[start-1]:
+                header = ""
+                for elem in data[start-2].split(" ")[1:]:
+                    header += elem.split("=")[-1].strip('"')+" "
+            else:
+                header = ""
+                for elem in data[start-1].split(" ")[1:]:
+                    header += elem.split("=")[-1].strip('"')+" "
 
-        header = data[start-1]
+        print("data header:    ", newCentreline.data_header)
         strategy = StrategyParser(header)
+
         newCentreline.update_type(strategy.strategy_name)
         station_lines = parse_CommentedStations(data[start:end])
 
         if "normal" in strategy.strategy_name:
-            lrudLines = parse_LRUDS(data[start:end])
-            dataLines = parse_normal_data(data[start:end])
+            lrudLines = parse_LRUDS(data[start:end], format = format)
+            dataLines = parse_normal_data(data[start:end], format= format)
 
             for dataLine,lrudLine in zip(dataLines,lrudLines):
                 newCentreline.add_dataline(dataLine)
@@ -331,8 +443,8 @@ def make_centrelines_list(data : list[str]) -> list[Centreline]:
             
 
         elif "diving" in strategy.strategy_name:
-            lrudLines = parse_LRUDS(data[start:end])
-            dataLines = parse_diving_data(data[start:end])
+            lrudLines = parse_LRUDS(data[start:end], format = format)
+            dataLines = parse_diving_data(data[start:end], format = format)
 
             for dataLine,lrudLine in zip(dataLines,lrudLines):
                 newCentreline.add_dataline(dataLine)

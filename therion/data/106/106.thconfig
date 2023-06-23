@@ -1,0 +1,3 @@
+source 106.th
+
+export database -o 106.sql

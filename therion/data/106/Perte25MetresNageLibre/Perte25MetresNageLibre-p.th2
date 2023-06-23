@@ -106,7 +106,7 @@ line contour
   940.2086 322.0157 987.0888 352.401 977.5391 378.4456
 endline
 
-point 167.436 878.816 label -align bl -scale xs -text "<centre>100 m méandre non topo<br><bf>aval :<ss> arrêt sur lamnoir bas aquatique<br> <bf>amont : <ss> affluent 30 m siphonnant"
+point 47.436 878.816 label -align bl -scale xs -text "<centre>100 m méandre non topo<br><bf>aval :<ss> arrêt sur laminoir bas aquatique<br> <bf>amont : <ss> affluent 30 m siphonnant"
 line wall -subtype invisible
   1241.0075 -12.4404
   1241.0075 -12.4404 1340.6064 65.6636 1374.1425 157.0495
@@ -114,7 +114,7 @@ line wall -subtype invisible
 endline
 
 point 1376.37 148.263 label -align tr -scale xs -text "sable dolomitique"
-point 691.648 554.233 label -align tr -scale xs -text galets
+point 507.648 534.233 label -align tr -scale xs -text "placage de galets<br>cimentés sur paroi"
 point 924.464 251.147 label -align tr -scale xs -text "<bf>R2"
 point 936.646 600.532 label -align tr -scale xs -text "<bf>R5"
 point 338.235 1041.8 label -align tr -scale xs -text "<bf>P12"

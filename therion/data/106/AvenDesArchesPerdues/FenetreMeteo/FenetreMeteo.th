@@ -18,10 +18,11 @@ survey FenetreMeteo -title "Fenetre Meteo"
     team "Jessica [Morin Buote]"
     team "Tanguy Racine"
     team "Charlotte Honiat" 
-    explo-team "Alexandre Honiat" 
-    explo-team "Jessica [Morin Buote]"
-    explo-team "Tanguy Racine"
-    explo-team "Charlotte Honiat" 
+    explo-date 2023.02.12 
+    explo-team "[Centre Terre]" 
+    #explo-team "Jessica [Morin Buote]"
+    #explo-team "Tanguy Racine"
+    #explo-team "Charlotte Honiat" 
     units length meters
     units compass clino degrees
     data normal from to length compass clino

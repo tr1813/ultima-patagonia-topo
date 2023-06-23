@@ -8,8 +8,10 @@ survey Perte7-HPS35 -title "Perte 7 du glacier HPS35" \
 
     centreline
 
+            explo-date 2023.03.02
+            date 2023.03.02
 			team "Bernard Tourte"
-			explo-team "Centre Terre"
+			explo-team "[Centre Terre]"
 
         	units length meters
         	units compass clino degrees

@@ -8,8 +8,7 @@ survey Rhinalto -title "Rhinalto"
     team "Alexandre Honiat" insts dog
 
     explo-date 2023.03.02 
-    explo-team "Jules Clouzeau"
-    explo-team "Alexandre Honiat"
+    explo-team "[Centre Terre]"
 
     units length meters
     units compass clino degrees

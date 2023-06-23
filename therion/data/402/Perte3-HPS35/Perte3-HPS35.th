@@ -9,9 +9,10 @@ survey Perte3-HPS35 -title "Perte 3 du HPS 35" \
 
         	#explo-date UP2023
         	#team "Tanguy Arnauld Laurence"
+			explo-date 2023.02.02
 			team "Bernard Tourte"
-			team "Kateryna Medvedeva"
-			explo-team "Centre Terre"
+			team "Kateryna Medvedieva"
+			explo-team "[Centre Terre]"
 
         	units length meters
         	units compass clino degrees

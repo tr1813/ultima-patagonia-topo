@@ -7,10 +7,12 @@ survey CPF -title "CPF" \
 
   centerline
     date 2023.02.28 
-    team "Alex"
-    team "Flo"
-    team "David"
-    team "Jules"
+    explo-date 2023.02.28
+    team "Alexandre Honiat"
+    team "Florian Rives"
+    team "David Meunier"
+    team "Jules Clouzeau"
+    explo-team ["Centre Terre"]
     units length meters
     units compass clino degrees
     data normal from to length compass clino

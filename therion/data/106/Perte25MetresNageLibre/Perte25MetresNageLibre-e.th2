@@ -1854,6 +1854,9 @@ endscrap
 
 scrap Perte25MetresNageLibre-1e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 
+point 1220.45 1413.76 pebbles 
+point 1354.51 1370.09 pebbles 
+point 1261.09 1390.71 pebbles 
 line water-flow 
   1513.0861 1249.8512
   1513.0861 1249.8512 1543.9305 1242.9969 1548.5 1242.9969
@@ -1923,7 +1926,7 @@ line rock-border -clip off -close on
   1162.5437 1473.5297
 endline
 
-point 1689.7217 1263.2277 label -align bl -scale xs -text "<centre>100 m méandre non topo<br><bf>aval :<ss> arrêt sur lamnoir bas aquatique<br> <bf>amont : <ss> affluent 30 m siphonnant"
+point 1781.72 1263.23 label -align bl -scale xs -text "<centre>100 m méandre non topo<br><bf>aval :<ss> arrêt sur laminoir bas aquatique<br> <bf>amont : <ss> affluent 30 m siphonnant"
 line wall -clip off -outline none
   1101.6346 1565.5552
   1102.4283 1572.3015
@@ -1958,8 +1961,8 @@ line water-flow
   1465.5035 1334.9245
 endline
 
-point 1302.17 1364.36 spring -orientation 35.81190499430852
-point 1305.86 1370.02 water-flow -orientation 39.48385774941781
+point 1318.63 1392.04 water-flow -orientation 187.48201488158676
+point 1319.0 1419.01 water-flow -orientation 171.56287106381302
 point 1032.98 1333.4 label -align tr -scale l -text "<bf>COUPE DÉVELOPPÉE"
 line u:texture 
   1148.7655 1511.5826
@@ -2074,7 +2077,7 @@ endline
 
 point 1133.85 1523.17 label -align tr -scale xs -text "<bf>R2"
 point 1002.27 1544.25 label -align tr -scale xs -text "sable dolomitique"
-point 1224.8 1374.28 label -align tr -scale xs -text galets
+point 1189.34 1364.28 label -align tr -scale xs -text "placage de galets<br>cimentés sur paroi"
 point 1185.21 1418.96 label -align tr -scale xs -text "<bf>R5"
 point 1533.68 1305.89 label -align tr -scale xs -text "<bf>P12"
 line wall -subtype presumed
@@ -2096,16 +2099,16 @@ line wall
   1205.9053 1412.1302 1205.9053 1411.195 1205.9053 1411.195
 endline
 
-line wall:pebbles 
+line wall 
   1205.7482 1409.624
   1229.7523 1393.4267
   1229.7523 1393.4267 1227.8819 1391.0888 1233.493 1390.6212
   1239.104 1390.1536 1267.1592 1378.9315 1269.0296 1378.9315
   1270.8999 1378.9315 1276.9786 1377.0611 1276.9786 1377.0611
-  1276.9786 1377.0611 1295.6821 1372.8529 1298.4876 1372.8529
+  1276.9786 1377.0611 1309.4378 1368.3823 1312.2433 1368.3823
 endline
 
-line wall:pebbles 
+line wall 
   1312.4893 1368.4986
   1320.9059 1365.2255 1349.9222 1363.9687 1352.7277 1362.0983
   1355.5332 1360.228 1356.0008 1354.6169 1362.0795 1354.6169
@@ -2163,8 +2166,12 @@ line wall
   1363.1771 1414.0643 1355.2677 1410.5051 1355.2677 1410.5051
   1355.2677 1410.5051 1344.172 1408.1323 1340.6128 1409.3187
   1337.0535 1410.5051 1322.0484 1410.5051 1322.0484 1410.5051
-  1322.0484 1410.5051 1320.4665 1413.2734 1317.6983 1414.0643
-  1314.93 1414.8552 1314.139 1406.5504 1310.5798 1411.296
+  1322.0484 1410.5051 1324.1226 1418.9657 1321.3544 1419.7566
+endline
+
+line wall 
+  1315.3544 1419.7566
+  1312.5861 1420.5475 1314.139 1406.5504 1310.5798 1411.296
   1307.0206 1416.0416 1288.0381 1423.5555 1288.0381 1423.5555
   1282.5016 1423.1601
   1274.5922 1418.4144

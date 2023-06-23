@@ -50,7 +50,7 @@ layout local
   \par \si Relevés topographiques :\ss{ } Alexandre Andrieu, Laurence Boudoux d'Hautefeuille, Franck Bréhier,
   \par  Marta Candel Urena, Clément Chaput, Jules Clouzeau, Tim Guilford,
   \par  Simon Headford, Alexandre Honiat, Charlotte Honiat, Ben Lovett, 
-  \par Christine Magot, Arnauld Malard, Lou Maurice, Kateryna Medvedeva, 
+  \par Christine Magot, Arnauld Malard, Lou Maurice, Kateryna Medvedieva, 
   \par Natalia Morata-Calvo, Rick Padfield, Jérémie Prieur-Drévon, Tanguy Racine, 
   \par Cédric Roques, Raphaël Seguin, Bernard Tourte, Joël Trémoulet, Enrique Ogando Lastra. 
   \par{ \quad} 
@@ -109,7 +109,7 @@ layout extended
   \par \si Relevés topographiques :\ss{ } Alexandre Andrieu, Laurence Boudoux d'Hautefeuille, Franck Bréhier,
   \par  Marta Candel Urena, Clément Chaput, Jules Clouzeau, Tim Guilford,
   \par  Simon Headford, Alexandre Honiat, Charlotte Honiat, Ben Lovett, 
-  \par Christine Magot, Arnauld Malard, Lou Maurice, Kateryna Medvedeva, 
+  \par Christine Magot, Arnauld Malard, Lou Maurice, Kateryna Medvedieva, 
   \par Natalia Morata-Calvo, Rick Padfield, Jérémie Prieur-Drévon, Tanguy Racine, 
   \par Cédric Roques, Raphaël Seguin, Bernard Tourte, Joël Trémoulet, Enrique Ogando Lastra. 
   \par{ \quad} 
@@ -144,7 +144,6 @@ select mappirates
 select mappirates-e
 
 # OUTPUTS
-
 
 
 export model -o outputs/CuevaPirates.3d -fmt survex

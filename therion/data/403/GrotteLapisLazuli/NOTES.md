@@ -118,7 +118,7 @@ Les images ont été correlées sur le logiciel Metashape à l'université d'Inn
 Les coordonnees géographiques des points de contrôle ont été calculées grâce au logiciel Therion à partir du report de la topographie au disto, permettant ensuite d'aligner les nuages de points denses et les modèles. 
 L'erreur moyenne respective (RMS) de l'alignement atteignant 0.05 m (5 points), 0.06 m (8 points) et 0.09 m (6 points) pour la zone d'entrée, celle du lac, et la salle terminale.
 
-L'alignement des photos comprenant des surfaces comme celle des lacs est un problème majeur de la méthode photogrammétrique: il y a peu de point .  Les résultats sur les parois de glace sont probants. 
+L'alignement des photos comprenant en grande partie une surfaces plane et transparente comme celle des petits lacs est un problème majeur de la méthode photogrammétrique: il y a peu de points distincts. Cependant les résultats sur les parois de glace, pourtant transparente et en grande partie lisse sont probants. 
 On peut alors interroger le modèle 3D ainsi conçu, notamment en séparant le sol des parois pour réveler la répartition spatiale des différents remplissages. 
 La vue en plan du sol de la cavité est alors décalquée sur le report topographique.
 

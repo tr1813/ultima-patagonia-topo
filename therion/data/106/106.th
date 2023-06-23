@@ -377,13 +377,13 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106063	488092.0 4453227.0	280	
-    station ENT_106063 "Traverse_de_lindecision"
-    equate ENT_106063 0@Traverse_de_lindecision
+    station ENT_106063 "TraverseDeLIndecision"
+    equate ENT_106063 0@TraverseDeLIndecision
 
 
     fix ENT_106064	488605.0 4454050.0	145	
     station ENT_106064 "Rêve éveillé"
-    equate ENT_106064 0@CPF.Reveeveille
+    equate ENT_106064 0@CPF.ReveEveille
 
 
     fix ENT_106065	490023.0 4452633.0	5	
@@ -411,9 +411,9 @@ survey 106  -title "106 Seno Egg"
     m-all-p@PerteChampis
     CuevaNoTime
     ResurgencePirate
-    Reveeveille
+    ReveEveille
     GrandeFailleDuBoutDuMonde
-    Traverse_de_lindecision
+    TraverseDeLIndecision
     PorcheEden
     ResurgenceGolondrina
     Casablanca
