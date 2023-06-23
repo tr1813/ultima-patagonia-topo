@@ -1,22 +1,79 @@
-encoding  utf-8
-
 source TraverseDeLIndecision.th
 
+input ../../../layouts/detailed-p.thl
+input ../../../layouts/detailed-e.thl
+
 layout local
-    scale 1 500 
-    symbol-color point station [70 0 0]
-    symbol-assign point station AUT
-    symbol-assign line survey AUT
-    symbol-color line survey [70 0 0]
-    map-header 0 100 se
+  copy detailed-p
+  scale 1 500
+  legend off
+  map-header 0 0 off
+  symbol-show point label
+  symbol-hide point passage-height
+  symbol-assign line wall:blocks MYEE
+  
+  symbol-hide point station-name 
+  symbol-hide line survey
+  symbol-hide point station
+  color map-bg transparent
+
+  fonts-setup 6 8 10 12 14
+
+  #grid bottom
+  #grid-size 10 10 10 m 
+  cs UTM18S
+  grid-origin 488092 4453227 280 m 
 endlayout 
 
-lang fr
+layout plan 
+    copy local 
+      grid off
+    color map-bg [85 85 85]
+      symbol-assign line wall:blocks MY
+
+  code tex-map
+  #\framethickness=0.5mm
+  \def\xcenter{0}
+  \def\ycenter{0}
+  \def\yscale{1}
+  \def\cadnum{106063}
+  \legendwidth=5cm
+  # change this
+  \def\customheader{
+  \size[13]\bf \the\cavename{} / \cadnum \ss
+  \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
+  \par{ \quad} 
+  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 488092 \par Y : 4453227 \par Z : 280 m}  \ss
+  \par{ \quad} 
+  \par \si Développement :\ss{ \the\cavelength}
+  \par \si Dénivellation :\ss{ \the\cavedepth}
+  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques :\ss{ }Alexandre Honiat, David Meunier
+  \par \si Report et dessins :\ss{ Alexandre Honiat}}
+  
+  \def\maplayout{
+  \legendbox{\the\numexpr\xcenter-30\relax}{\the\numexpr\ycenter +100*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter - 40*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter-55\relax}{\the\numexpr\ycenter -25*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/TraverseDeLIndecision-ee.pdf"}}}
+  \legendbox{\the\numexpr\xcenter-30\relax}{\the\numexpr\ycenter + 100*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+   \legendbox{\the\numexpr\xcenter-50\relax}{\the\numexpr\ycenter - 5*\yscale \relax}{N}{\northarrow}
+ }
+  endcode
+endlayout
+
+
+
+
+# OUTPUTS
 
 select m-all-p@TraverseDeLIndecision
-select m-all-s@TraverseDeLIndecision
+select m-all-e@TraverseDeLIndecision
 
-# OUTPUTS 
-export model -o outputs/TraverseDeLIndecision.3d 
-export map -o outputs/TraverseDeLIndecision-p.pdf -projection plan -layout-debug station-names -layout local
-export map -o outputs/TraverseDeLIndecision-s.pdf -projection extended -layout-debug station-names -layout local
+#export model -o outputs/TraverseDeLIndecision.3d -fmt survex
+#export model -o outputs/TraverseDeLIndecision.lox
+
+#export atlas -o outputs/TraverseDeLIndecision.pdf -projection plan -layout local-p
+export map -o outputs/TraverseDeLIndecision-ee.pdf -projection extended -layout local
+export map -o outputs/TraverseDeLIndecision.pdf -projection plan -layout plan
+encoding  utf-8
+
