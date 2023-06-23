@@ -16,9 +16,10 @@ survey GrotteLapisLazuli -title "Lapis Lazuli" \
     team "Raphaël Seguin"
     team "Serge Caillault"
 
-    explo-team "Serge Caillault"
-    explo-team "Marie Eveillard-Buchoux"
-    explo-team "Richard Maire"
+    explo-team "[Centre Terre]"
+    #explo-team "Serge Caillault"
+    #explo-team "Marie Eveillard-Buchoux"
+    #explo-team "Richard Maire"
 
     units length meters
     units compass clino degrees

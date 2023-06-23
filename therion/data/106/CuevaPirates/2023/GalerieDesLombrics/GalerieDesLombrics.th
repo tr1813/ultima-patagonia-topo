@@ -10,9 +10,7 @@ survey GalerieDesLombrics -title "GalerieDesLombrics"
     team "Franck Bréhier" dog
 
     explo-date 2023.02.21 
-    explo-team "Jules Clouzeau"
-    explo-team "Alexandre Honiat"
-    explo-team "Franck Bréhier"
+    explo-team "[Centre Terre]"
 
     units length meters
     units compass clino degrees

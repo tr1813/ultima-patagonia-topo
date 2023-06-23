@@ -15,6 +15,7 @@ layout local
   symbol-hide line survey 
   symbol-hide point station:temporary
   symbol-assign line survey AUT
+  symbol-hide line u:wall_ice
 
   color map-bg transparent
  
@@ -22,6 +23,8 @@ endlayout
 
 layout plan
     copy local
+      symbol-hide line u:wall_ice
+
      code tex-map
   #\framethickness=0.5mm
   \def\xcenter{30}
@@ -46,18 +49,18 @@ layout plan
   \def\maplayout{
 
   \legendbox{\the\numexpr\xcenter+5\relax}{\the\numexpr\ycenter +3*\yscale\relax}{N}{\customheader}
-  \legendbox{\the\numexpr\xcenter+80\relax}{\the\numexpr\ycenter - 10*\yscale\relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter+85\relax}{\the\numexpr\ycenter - 10*\yscale\relax}{N}{\northarrow}
   \legendbox{\the\numexpr\xcenter+20\relax}{\the\numexpr\ycenter - 50*\yscale\relax}{N}{\scalebar}
-  \legendbox{-10}{\the\numexpr\ycenter - 25*\yscale\relax}{NW} {\hbox{\loadpicture{outputs/MoulinDeLaScience-ee.pdf}}}
-  \legendbox{\the\numexpr\xcenter+25\relax}{\the\numexpr\ycenter + 3*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
+  \legendbox{-10}{\the\numexpr\ycenter - 25*\yscale\relax}{NW} {\hbox{\loadpicture{"/outputs/MoulinDeLaScience-ee.pdf"}}}
+  \legendbox{\the\numexpr\xcenter+25\relax}{\the\numexpr\ycenter + 3*\yscale\relax}{NW} {\hbox{\loadpicture{"/../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
   }
   endcode
 endlayout
 
 # OUTPUTS
 
-select m-all-p@MoulinDeLaScience
-select m-all-e@MoulinDeLaScience
+select m-all-p@MoulinDeLaScience.402
+select m-all-e@MoulinDeLaScience.402
 
 export map -o outputs/MoulinDeLaScience-ee.pdf -projection extended -layout local
 export map -o outputs/MoulinDeLaScience.pdf -projection plan -layout plan

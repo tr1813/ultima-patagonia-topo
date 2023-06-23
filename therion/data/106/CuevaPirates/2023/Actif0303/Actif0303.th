@@ -8,8 +8,7 @@ survey Actif0303 -title "Actif0303"
     team "Natalia [Morata-Calvo]"
 
     explo-date 2023.03.05 
-    explo-team "Franck Bréhier"
-    explo-team "Natalia [Morata-Calvo]"
+    explo-team "[Centre Terre]"
 
     units length meters
     units compass clino degrees

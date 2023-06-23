@@ -4,10 +4,12 @@ survey Casablanca -title "Casablanca" -entrance 0 -attr cad_num 106066 -attr exp
 
   centerline
     date 2023.03.03 
-    team "Mehdi"
-    team "Caro"
-    team "Serge"
-    team "Jerem"
+    team "Mehdi Boukhtal"
+    team "Caroline Boghossian"
+    team "Serge Caillault"
+    team "Jérémie [Prieur-Drévon]"
+    explo-team "[Centre Terre]"
+    explo-date 2023.03.03
     units length meters
     units compass clino degrees
     data normal from to length compass clino

@@ -1,0 +1,112 @@
+
+## a survey compiled from Visual Topo Data using the visual_therion.py script
+
+survey "SiphonAmont" -entrance 0
+
+    centreline
+    
+        explo-date 2000.01.01
+        date 2000.01.01
+
+        
+        datax normalx fromx tox tapex compassx clinox 
+        
+        			<Visee	1	11.0	55.0	-17.7	
+        			<Visee	2	4.0	100.0	-19.3	
+        			<Visee	3	7.0	130.0	-20.0	
+        			<Visee	4	10.0	115.0	-22.5	
+        			<Visee	5	15.0	110.0	-19.3	
+        			<Visee	6	8.0	85.0	-15.9	
+        			<Visee	7	21.0	95.0	-8.2	
+        			<Visee	8	8.0	140.0	-4.7	
+
+        datax dimensionsx stationx leftx rightx upx downx 
+        
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+
+        
+
+    endcentreline
+
+    centreline
+    
+        explo-date 2000.01.01
+        date 2000.01.01
+
+        
+        datax normalx fromx tox tapex compassx clinox 
+        
+
+        datax dimensionsx stationx leftx rightx upx downx 
+        
+
+        
+
+    endcentreline
+
+    centreline
+    
+        explo-date 2000.01.01
+        date 2000.01.01
+
+        
+        datax normalx fromx tox tapex compassx clinox 
+        
+        			<Visee	10	10.0	0.0	0.0	
+        			<Visee	11	10.0	15.0	-2.9	
+        			<Visee	12	8.0	60.0	-4.1	
+        			<Visee	13	6.0	15.0	-5.7	
+        			<Visee	14	10.0	35.0	-9.6	
+        			<Visee	15	12.0	10.0	-15.5	
+        			<Visee	156	7.0	350.0	-16.2	
+        			<Visee	17	9.0	5.0	-18.6	
+        			<Visee	18	6.0	50.0	-19.0	
+        			<Visee	19	13.0	85.0	-21.9	
+        			<Visee	20	8.0	140.0	-19.5	
+        			<Visee	21	13.0	150.0	-15.0	
+        			<Visee	22	6.0	85.0	-13.2	
+
+        datax dimensionsx stationx leftx rightx upx downx 
+        
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+        			<Visee	0.0	0.0	0.0	0.0	
+
+        
+
+    endcentreline
+
+    centreline
+    
+        explo-date 2000.01.01
+        date 2000.01.01
+
+        
+        datax normalx fromx tox tapex compassx clinox 
+        
+
+        datax dimensionsx stationx leftx rightx upx downx 
+        
+
+        
+
+    endcentreline
+
+endsurvey

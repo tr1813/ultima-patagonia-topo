@@ -4,10 +4,14 @@ survey Suite -title "rêve éveillé suite"
 
   centerline
     date 2023.03.08 
-    team "Flo"
-    team "buldo"
-    team "Katia"
-    team "Jules"
+    team "Florian Rives"
+    team "Bernard Tourte"
+    team "Kateryna Medviedeva"
+    team "Jules Clouzeau"
+
+    explo-team ["Centre Terre"]
+    explo-date 2023.03.08 
+
     units length meters
     units compass clino degrees
     data normal from to length compass clino

@@ -24,6 +24,8 @@ layout local
   symbol-colour point passage-height [70 0 70]
 
   color map-bg transparent 
+
+  fonts-setup 6 8 10 12 14
  
 endlayout
 
@@ -60,8 +62,8 @@ layout plan
   \legendbox{\the\numexpr\xcenter+5\relax}{\the\numexpr\ycenter +15*\yscale\relax}{N}{\customheader}
   \legendbox{\the\numexpr\xcenter-20\relax}{\the\numexpr\ycenter - 27*\yscale\relax}{N}{\northarrow}
   \legendbox{\the\numexpr\xcenter-5\relax}{\the\numexpr\ycenter - 63*\yscale\relax}{N}{\scalebar}
-  \legendbox{100}{\the\numexpr -1*\yscale\relax}{NE} {\hbox{\loadpicture{outputs/PerteChampis-ee.pdf}}}
-  \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter + 4*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
+  \legendbox{100}{\the\numexpr -1*\yscale\relax}{NE} {\hbox{\loadpicture{"/outputs/PerteChampis-ee.pdf"}}}
+  \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter + 4*\yscale\relax}{NW} {\hbox{\loadpicture{"/../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
   }
   endcode
 endlayout

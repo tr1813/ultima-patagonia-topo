@@ -12,7 +12,7 @@ survey PiratesJonction -title "Pirates-1"
     team "Tanguy Racine" 
     team "Joël Trémoulet"
     team "Franck Bréhier"
-    team "Katia Medvedeva" 
+    team "Katia Medvedieva" 
     explo-team "[Centre Terre]"
     units length meters
     units compass clino degrees

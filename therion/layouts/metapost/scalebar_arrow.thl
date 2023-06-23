@@ -68,7 +68,7 @@ layout custom_arrow
 				p:= (0,6.5cm)--(0,8cm)--(0.25cm,6.2cm)--cycle;
 				thdraw p rotated -MagDecl; thfill p rotated -MagDecl;
 
-				label.lrt(thTEX("\size[6] \bf Nmag (2023) " & decimal (MagDecl) & "\thinspace"), (0,-1cm) shifted (0.35cm,6.4cm) rotated -magdecl scaled defaultscale);
+				label.lrt(thTEX("\size[6] \bf Nmag (2023) " & decimal (MagDecl) & "\thinspace"), (0,-1cm) shifted (0.35cm,6.8cm) rotated -magdecl scaled defaultscale);
 		  	endgroup;
 		enddef;
 endlayout

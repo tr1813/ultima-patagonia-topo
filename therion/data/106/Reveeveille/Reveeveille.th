@@ -1,7 +1,7 @@
 
 ## a survey compiled from Visual Topo Data using the visual_therion.py script
 
-survey Reveeveille  -title "Rêve éveillé" \
+survey ReveEveille  -title "Rêve éveillé" \
                     -attr cad_num 106064 \
                     -attr exped UP2023 \
 			        -entrance 0@CPF

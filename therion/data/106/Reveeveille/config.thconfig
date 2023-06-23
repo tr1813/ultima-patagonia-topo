@@ -1,6 +1,6 @@
 encoding  utf-8
 
-source Reveeveille.th
+source ReveEveille.th
 
 layout local
     scale 1 500 
@@ -13,10 +13,10 @@ endlayout
 
 lang fr
 
-select m-all-p@Reveeveille
-select m-all-s@Reveeveille
+select m-all-p@ReveEveille
+select m-all-s@ReveEveille
 
 # OUTPUTS 
-export model -o outputs/Reveeveille.3d 
-export map -o outputs/Reveeveille-p.pdf -projection plan -layout-debug station-names -layout local
-export map -o outputs/Reveeveille-s.pdf -projection extended -layout-debug station-names -layout local
+export model -o outputs/ReveEveille.3d 
+export map -o outputs/ReveEveille-p.pdf -projection plan -layout-debug station-names -layout local
+export map -o outputs/ReveEveille-s.pdf -projection extended -layout-debug station-names -layout local

@@ -9,6 +9,7 @@ survey PincemiActif -title "Pincemi Actif"
     team "Alexandre Honiat"
     team "Jules Clouzeau"
     team "Franck Bréhier"
+    explo-team "[Centre Terre]"
     units length meters
     units compass clino degrees
     data normal from to length compass clino

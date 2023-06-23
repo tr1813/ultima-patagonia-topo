@@ -1,12 +1,12 @@
 set xth(ctrl,cp,datlist) {}
-xth_cp_data_tree_insert 1 {} 0   "" "" "length: 107.72m (surface 0.00m, duplicated 0.00m)\nvertical range: 19.25m (from 0@Traverse_de_lindecision at 0.00m to 23@Traverse_de_lindecision at -19.25m)\nnorth-south range: 34.06m (from 2@Traverse_de_lindecision at 1.06m to 17@Traverse_de_lindecision at -33.00m)\neast-west range: 58.80m (from 0@Traverse_de_lindecision at 0.00m to 23@Traverse_de_lindecision at -58.80m)\nnumber of shots: 359\nnumber of stations: 360"
-xth_cp_data_tree_insert 20 1 1 Traverse_de_lindecision Traverse_de_lindecision "Traversée de l'Indécision" "Traversee de l'Indecision" "length: 107.72m (surface 0.00m, duplicated 0.00m)\nvertical range: 19.25m (from 0@Traverse_de_lindecision at 0.00m to 23@Traverse_de_lindecision at -19.25m)\nnorth-south range: 34.06m (from 2@Traverse_de_lindecision at 1.06m to 17@Traverse_de_lindecision at -33.00m)\neast-west range: 58.80m (from 0@Traverse_de_lindecision at 0.00m to 23@Traverse_de_lindecision at -58.80m)\nnumber of shots: 359\nnumber of stations: 360"
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 107.72m (surface 0.00m, duplicated 0.00m)\nvertical range: 19.25m (from 0@TraverseDeLIndecision at 0.00m to 23@TraverseDeLIndecision at -19.25m)\nnorth-south range: 34.06m (from 2@TraverseDeLIndecision at 1.06m to 17@TraverseDeLIndecision at -33.00m)\neast-west range: 58.80m (from 0@TraverseDeLIndecision at 0.00m to 23@TraverseDeLIndecision at -58.80m)\nnumber of shots: 359\nnumber of stations: 360"
+xth_cp_data_tree_insert 20 1 1 TraverseDeLIndecision TraverseDeLIndecision "Traversée de l'Indécision" "Traversee de l'Indecision" "length: 107.72m (surface 0.00m, duplicated 0.00m)\nvertical range: 19.25m (from 0@TraverseDeLIndecision at 0.00m to 23@TraverseDeLIndecision at -19.25m)\nnorth-south range: 34.06m (from 2@TraverseDeLIndecision at 1.06m to 17@TraverseDeLIndecision at -33.00m)\neast-west range: 58.80m (from 0@TraverseDeLIndecision at 0.00m to 23@TraverseDeLIndecision at -58.80m)\nnumber of shots: 359\nnumber of stations: 360"
 xth_cp_data_tree_create
 set xth(ctrl,cp,maplist) {}
 xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
 xth_cp_map_tree_insert projection 0 p2 {} 0 extended {} {} {}
-xth_cp_map_tree_insert map 1 342X1 p1 1 m-all-p m-all-p@Traverse_de_lindecision "" ""
-xth_cp_map_tree_insert map 1 343X1 p2 1 m-all-s m-all-s@Traverse_de_lindecision "" ""
+xth_cp_map_tree_insert map 1 342X1 p1 1 m-all-p m-all-p@TraverseDeLIndecision "" ""
+xth_cp_map_tree_insert map 1 343X1 p2 1 m-all-s m-all-s@TraverseDeLIndecision "" ""
 xth_cp_map_tree_create
 xth_cp_comp_stat 108 2
 set xth(th_exit_state) 2
