@@ -4,7 +4,7 @@ encoding  utf-8
 
 scrap GrandeFailleDuBoutDuMonde-1s -projection extended -scale [0 0 39.3701 0 0 0 1 0 m]
 
-point 326.2129 636.3344 label -align tr -scale xl -text "COUPE <br>DEVELOPEE<br>"
+point 326.2129 636.3344 label -align tr -scale xl -text "COUPE <br>DÉVELOPPÉE"
 line rope 
   309.322 459.7458
   299.1261 343.0879

@@ -5,9 +5,11 @@ survey Arches_Perdues_55 -title "Arches Perdues 55"
 
   centerline
     date 2023.03.08 
-    team "Alex"
-    team "Cha"
-    team "Medhi"
+    team "Alexandre Honiat"
+    team "Charlotte Honiat"
+    team "Medhi Boukhtal"
+    explo-date 2023.03.08 
+    explo-team "[Centre Terre]" 
     units length meters
     units compass clino degrees
     data normal from to length compass clino

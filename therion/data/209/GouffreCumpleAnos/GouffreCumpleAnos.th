@@ -12,13 +12,13 @@ endmap
 
 centreline
 date 2010.01.24
-explo-team "[Jean François] Hayet"
-explo-team "Didier Gignoux"
-explo-team "Laurent Masselin"
-explo-team "Florence Rivaud"
-explo-team "Olivier Testa"
-
+team "[Jean François] Hayet"
+team "Didier Gignoux"
+team "Laurent Masselin"
+team "Florence Rivaud"
 team "Olivier Testa"
+explo-team "[Centre Terre]"
+explo-date 2010.01.24
 
 units length meters
 units compass clino degrees

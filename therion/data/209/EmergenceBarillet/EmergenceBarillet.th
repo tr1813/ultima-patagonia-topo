@@ -3,6 +3,7 @@ survey EmergenceBarillet -title "Emergence du Barillet" -entrance 0 -attr cad_nu
 
 centreline
 
+	explo-team ["Centre Terre"]
 
 	units length meters
 	units compass clino degrees

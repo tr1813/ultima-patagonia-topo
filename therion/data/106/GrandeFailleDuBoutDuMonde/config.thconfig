@@ -54,8 +54,8 @@ layout plan
   \def\maplayout{
   \legendbox{\the\numexpr\xcenter+35\relax}{\the\numexpr\ycenter +200*\yscale\relax}{N}{\customheader}
   \legendbox{\the\numexpr\xcenter+115\relax}{\the\numexpr\ycenter +40*\yscale\relax}{N}{\scalebar}
-  \legendbox{\the\numexpr\xcenter+100\relax}{\the\numexpr\ycenter +210*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/GrandeFailleDuBoutDuMonde-ee.pdf"}}}
-  \legendbox{\the\numexpr\xcenter+90\relax}{\the\numexpr\ycenter +201*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+  \legendbox{\the\numexpr\xcenter+100\relax}{\the\numexpr\ycenter +210*\yscale\relax}{NW} {\hbox{\loadpicture{"/outputs/GrandeFailleDuBoutDuMonde-ee.pdf"}}}
+  \legendbox{\the\numexpr\xcenter+90\relax}{\the\numexpr\ycenter +201*\yscale\relax}{NW} {\hbox{\loadpicture{"/../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
    \legendbox{\the\numexpr\xcenter+50\relax}{\the\numexpr\ycenter -10*\yscale \relax}{N}{\northarrow}
  }
   endcode
@@ -69,7 +69,7 @@ endlayout
 select m-all-p@GrandeFailleDuBoutDuMonde
 select m-all-e@GrandeFailleDuBoutDuMonde
 
-#export model -o outputs/GrandeFailleDuBoutDuMonde.3d -fmt survex
+export model -o outputs/GrandeFailleDuBoutDuMonde.3d -fmt survex
 #export model -o outputs/GrandeFailleDuBoutDuMonde.lox
 
 #export atlas -o outputs/GrandeFailleDuBoutDuMonde.pdf -projection plan -layout local-p

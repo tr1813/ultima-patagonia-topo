@@ -4,7 +4,8 @@ survey GouffreDeLaDetente -title GouffreDeLaDetente -entrance GD-d -attr cad_num
 
 
 centreline
-
+	explo-date 2006.02.21
+	explo-team ["Centre Terre"]
 
 	units length meters
 	units compass clino degrees
@@ -84,9 +85,9 @@ centreline
 endcentreline
 
 centreline
-date 2020.02.23
-
-
+	date 2006.02.23
+	explo-date 2006.02.23
+	explo-team ["Centre Terre"]	
 	units length meters
 	units compass clino degrees
 	data normal from to tape compass clino
@@ -170,7 +171,9 @@ date 2020.02.23
 endcentreline
 
 centreline
-
+	date 2006.02.25
+	explo-team ["Centre Terre"]	
+	explo-date 2006.02.25
 	units length meters
 	units compass clino degrees
 	data normal from to tape compass clino
@@ -293,7 +296,9 @@ centreline
 endcentreline
 
 centreline
-
+	date 2006.02.27
+	explo-team ["Centre Terre"]	
+	explo-date 2006.02.27
 
 	units length meters
 	units compass clino degrees
@@ -392,7 +397,9 @@ centreline
 endcentreline
 
 centreline
-
+	date 2006.03.01
+	explo-date 2006.03.01
+	explo-team "[Centre Terre]"
 
 	units length meters
 	units compass clino degrees

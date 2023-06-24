@@ -12,8 +12,8 @@ survey PerteDeRascarcapac -title "Perte de Rascar-capak" \
 
 			explo-team ["Centre Terre"]
             #explo-team "Tanguy Racine"
-			#explo-team "Arnauld Malard"
-			#explo-team  "Laurence [Boudoux d'Hautefeuille]"
+			team "Arnauld Malard"
+			team  "Laurence [Boudoux d'Hautefeuille]"
 			#explo-team "Charlotte Honiat"
 			team "Tanguy Racine" insts
 			team "Charlotte Honiat" notes

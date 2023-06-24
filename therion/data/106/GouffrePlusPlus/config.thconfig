@@ -54,8 +54,8 @@ layout plan
   \def\maplayout{
   \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
   \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter - 8*\yscale\relax}{N}{\scalebar}
-  \legendbox{\the\numexpr\xcenter+3*\xscale\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/GouffrePlusPlus-ee.pdf"}}}
-  \legendbox{\the\numexpr\xcenter+45\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+  \legendbox{\the\numexpr\xcenter+3*\xscale\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{NW} {\hbox{\loadpicture{"/outputs/GouffrePlusPlus-ee.pdf"}}}
+  \legendbox{\the\numexpr\xcenter+45\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{NW} {\hbox{\loadpicture{"/../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
    \legendbox{\the\numexpr\xcenter+65\relax}{\the\numexpr\ycenter - 2*\yscale \relax}{N}{\northarrow}
  }
   endcode

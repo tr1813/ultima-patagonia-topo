@@ -96,7 +96,7 @@ survey 106  -title "106 Seno Egg"
 
      input GrandeFailleDuBoutDuMonde/GrandeFailleDuBoutDuMonde.th
 
-    input TraverseDeLIndecision/TraverseDeLIndecision.th
+    input TraverseeDeLIndecision/TraverseeDeLIndecision.th
     
     input ReveEveille/ReveEveille.th
 
@@ -377,8 +377,8 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106063	488092.0 4453227.0	280	
-    station ENT_106063 "TraverseDeLIndecision"
-    equate ENT_106063 0@TraverseDeLIndecision
+    station ENT_106063 "TraverseeDeLIndecision"
+    equate ENT_106063 0@TraverseeDeLIndecision
 
 
     fix ENT_106064	488605.0 4454050.0	145	
@@ -413,7 +413,7 @@ survey 106  -title "106 Seno Egg"
     ResurgencePirate
     ReveEveille
     GrandeFailleDuBoutDuMonde
-    TraverseDeLIndecision
+    TraverseeDeLIndecision
     PorcheEden
     ResurgenceGolondrina
     Casablanca

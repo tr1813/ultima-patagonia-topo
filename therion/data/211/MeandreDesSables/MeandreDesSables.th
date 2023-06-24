@@ -4,6 +4,8 @@ survey MeandreDesSables -title "Méandre Des Sables" -entrance 9 -attr cad_num 2
 centreline
 	date 2010.01.24
 	team "Fabien Hobléa"
+	explo-date 2010.01.24
+	explo-team "[Centre Terre]"
 	units length meters
 	units compass clino degrees
 	data normal from to tape compass clino

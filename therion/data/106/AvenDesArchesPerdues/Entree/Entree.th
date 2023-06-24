@@ -16,9 +16,8 @@ survey "Entree" -title "Entree des Arches Perdues"
         team "Alexandre Honiat"
         team "Olivier Gerard"
         team "Jessica [Morin Buote]"
-        explo-team "Alexandre Honiat"
-        explo-team "Olivier Gerard"
-        explo-team "Jessica [Morin Buote]"
+        explo-team "[Centre Terre]"
+
         
         data normal from to tape backcompass backclino 
         units clino grad
@@ -149,8 +148,9 @@ survey "Entree" -title "Entree des Arches Perdues"
         explo-date 2023.02.03
         date 2023.02.03
         units clino grad
-        explo-team "Olivier Gerard"
-        explo-team "Joel Tremoulet"
+        team "Olivier Guérard"
+        team "Joël Trémoulet"
+        explo-team "[Centre Terre]"
         units compass grad
         data normal from to tape compass clino 
         
@@ -173,8 +173,9 @@ survey "Entree" -title "Entree des Arches Perdues"
     centreline
         explo-date 2023.02.03
         date 2023.02.03
-        explo-team "Olivier Gerard"
-        explo-team "Joel Tremoulet"
+        team "Olivier Guérard"
+        team "Joël Trémoulet"
+        explo-team "[Centre Terre]"
         units clino grad
         units compass grad
         data normal from to tape backcompass backclino

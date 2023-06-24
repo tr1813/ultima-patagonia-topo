@@ -11,9 +11,7 @@ centreline
 
 	team "Fabien Hobléa"
 	team "Thomas Fischer"
-	explo-team "Fabien Hobléa"
-	explo-team "Thomas Fischer"
-
+	explo-team "[Centre Terre]"
 
 	units length meters
 	units compass clino degrees

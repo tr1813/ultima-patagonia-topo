@@ -10136,7 +10136,7 @@ insert into SCRAPS values (22578, 22575, 'GrandeFailleDuBoutDuMonde-1p', 1, 2.33
  insert into MAPITEMS values (22682, 4, 22578);
  insert into MAPS values (22683, 22575, 'm-all-s', NULL, 2, 55.600, -43.040);
  insert into MAPITEMS values (22683, 4, 22630);
- insert into SURVEY values (22685, 17, 'TraverseDeLIndecision', 'TraverseDeLIndecision.106', 'Traversee de l''Indecision');
+ insert into SURVEY values (22685, 17, 'TraverseeDeLIndecision', 'TraverseeDeLIndecision.106', 'Traversee de l''Indecision');
  insert into CENTRELINE values (22686, 22685, NULL, NULL, NULL, 0.00, 0.00, 0.00);
  insert into CENTRELINE values (22687, 22685, NULL, '2023-02-27', NULL, 107.72, 0.00, 0.00);
  insert into PERSON values (46, NULL, 'Alex.H');
@@ -10504,8 +10504,8 @@ insert into SHOT values (9523, 9568, 9570, 22687, 0.270, 319.17, 63.40, 0.269, 3
 insert into SHOT values (9524, 9568, 9571, 22687, 0.500, 24.47, 21.20, 0.495, 24.34, 21.33, 0.005, 215.82, -8.73);
 insert into SHOT values (9525, 9568, 9572, 22687, 0.630, 157.97, 51.00, 0.632, 157.93, 50.83, 0.003, 152.47, 8.12);
 insert into SHOT values (9526, 9568, 9573, 22687, 4.130, 270.77, -13.70, 4.128, 270.71, -13.73, 0.005, 151.66, -22.45);
-insert into SCRAPS values (22688, 22685, 'TraverseDeLIndecision-1p', 1, 0.58631, 0.02930);
- insert into SCRAPS values (22958, 22685, 'TraverseDeLIndecision-1s', 2, 0.31595, 0.01625);
+insert into SCRAPS values (22688, 22685, 'TraverseeDeLIndecision-1p', 1, 0.58631, 0.02930);
+ insert into SCRAPS values (22958, 22685, 'TraverseeDeLIndecision-1s', 2, 0.31595, 0.01625);
  insert into MAPS values (23007, 22685, 'm-all-p', NULL, 1, 107.720, -19.250);
  insert into MAPITEMS values (23007, 4, 22688);
  insert into MAPS values (23008, 22685, 'm-all-s', NULL, 2, 107.720, -19.250);
