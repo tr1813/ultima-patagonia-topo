@@ -10,11 +10,13 @@ survey GouffreDuBowling -title "Gouffre du Bowling" \
 
     map m-all-p -projection plan -title "Gouffre du Bowling, plan"
         m-Entree-p@Entree
+        m-all-p@MeandreB
     endmap
 
-    map m-all-s -projection extended -title "Gouffre du Bowling, coupe"
+    map m-all-e -projection extended -title "Gouffre du Bowling, coupe"
         m-Entree-s@Entree
+        m-all-e@MeandreB
     endmap
 
-        endsurvey
+endsurvey
         

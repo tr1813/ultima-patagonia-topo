@@ -1,7 +1,7 @@
 # 2023.02.13 created by TopoDroid v 5.1.40
 
 survey Entree 
-  input Entree-1p.th2 
+  input Entree-1p_CR.th2 
   input Entree-1s.th2
 
 
@@ -13,8 +13,12 @@ survey Entree
     Entree-1s
   endmap
   centerline
+  
     date 2023.02.12 
-    # team Franck, bt, ced 
+    team "Franck Bréhier"
+    team "Bernard Tourte" 
+    team "Cédric Roques"
+     
     units length meters
     units compass clino degrees
     data normal from to length compass clino

@@ -27,4 +27,13 @@ bin-release/
 *-satellite-1m.tif
 *-satellite.tif
 
+*.prj
+*.dbf
+*.shp
+*.shx
+*.aux.xml
+*.tif
+
+therion/data/gis/*
+therion/outputs
 therion/data/gis/DEM/*

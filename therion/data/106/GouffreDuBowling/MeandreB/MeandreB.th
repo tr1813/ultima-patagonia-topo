@@ -1,11 +1,30 @@
 encoding utf-8
 
 survey MeandreB
+	input MeandreB-e.th2 
+
+	map m-all-e -projection extended
+		MeandreB-1e
+	endmap
+
+	input MeandreB-p.th2 
+
+
+	map m-all-p -projection plan -title "Méandre et galerie fossile"
+		MeandreB-1p
+	endmap
 
 	centreline
-
 		date 2023.02.18
-		#team: Mehdi Boukhal, David Meunier, Natalia Morata 
+		team "Mehdi Boukhal"
+		team "David Meunier"
+		team  "Natalia [Morata-Calvo]" 
+
+		explo-date 2023.02.18
+		explo-team "Mehdi Boukhal"
+		explo-team "David Meunier"
+		explo-team  "Natalia [Morata-Calvo]" 
+
 		units length meters
 		units compass clino degrees
 		data normal from to length compass clino
