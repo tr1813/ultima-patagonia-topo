@@ -26,54 +26,8 @@ layout local
   grid-origin  488459.0  4453880.0  244 m
 endlayout 
 
-layout plan 
-    copy local 
-      grid off
-    color map-bg [85 85 85]
-      symbol-assign line wall:blocks MY
-
-  code tex-map
-  #\framethickness=0.5mm
-  \def\xcenter{0}
-  \def\ycenter{0}
-  \def\yscale{1}
-  \def\cadnum{106062}
-  \legendwidth=5.5cm
-  \def\customheader{
-  \size[13]\bf \the\cavename{} / \cadnum \ss
-  \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
-  \par{ \quad} 
-  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 488459 \par Y : 4453880 \par Z : 244 m}  \ss
-  \par{ \quad} 
-  \par \si Développement :\ss{ \the\cavelength}
-  \par \si Dénivellation :\ss{ \the\cavedepth}
-  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
-  \par \si Relevés topographiques :\ss{ }Alexandre Honiat, Jules Clouzeau, Florian Rives
-  \par \si Report et dessins :\ss{ Alexandre Honiat}}
-  
-  \def\maplayout{
-  \legendbox{\the\numexpr\xcenter+35\relax}{\the\numexpr\ycenter +200*\yscale\relax}{N}{\customheader}
-  \legendbox{\the\numexpr\xcenter+115\relax}{\the\numexpr\ycenter +40*\yscale\relax}{N}{\scalebar}
-  \legendbox{\the\numexpr\xcenter+100\relax}{\the\numexpr\ycenter +210*\yscale\relax}{NW} {\hbox{\loadpicture{"/outputs/GrandeFailleDuBoutDuMonde-ee.pdf"}}}
-  \legendbox{\the\numexpr\xcenter+90\relax}{\the\numexpr\ycenter +201*\yscale\relax}{NW} {\hbox{\loadpicture{"/../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
-   \legendbox{\the\numexpr\xcenter+50\relax}{\the\numexpr\ycenter -10*\yscale \relax}{N}{\northarrow}
- }
-  endcode
-endlayout
-
-
-
-
-# OUTPUTS
+lang fr
 
 select m-all-p@GrandeFailleDuBoutDuMonde
-select m-all-e@GrandeFailleDuBoutDuMonde
-
-export model -o outputs/GrandeFailleDuBoutDuMonde.3d -fmt survex
-#export model -o outputs/GrandeFailleDuBoutDuMonde.lox
-
-#export atlas -o outputs/GrandeFailleDuBoutDuMonde.pdf -projection plan -layout local-p
-export map -o outputs/GrandeFailleDuBoutDuMonde-ee.pdf -projection extended -layout local
-export map -o outputs/GrandeFailleDuBoutDuMonde.pdf -projection plan -layout plan
-encoding  utf-8
+select m-all-s@GrandeFailleDuBoutDuMonde
 
