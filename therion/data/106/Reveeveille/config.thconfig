@@ -2,14 +2,73 @@ encoding  utf-8
 
 source ReveEveille.th
 
+input ../../../layouts/detailed-p.thl
+
 layout local
-    scale 1 500 
-    symbol-color point station [70 0 0]
-    symbol-assign point station AUT
-    symbol-assign line survey AUT
-    symbol-color line survey [70 0 0]
-    map-header 0 100 se
-endlayout 
+copy detailed-p
+scale 1 500
+legend off
+map-header 0 0 off
+symbol-show point label
+#symbol-show point passage-height
+#symbol-hide point station-name
+#symbol-assign area water AUT
+symbol-hide line survey 
+#symbol-hide point station:temporary
+symbol-assign line survey UIS
+symbol-assign point station MY
+symbol-colour point station [70 0 0]
+symbol-colour point u:target [70 0 70]
+symbol-hide point u:target
+symbol-assign line wall:blocks MYEE
+
+symbol-colour line survey:cave [70 0 0]
+symbol-colour point passage-height [70 0 70]
+
+color map-bg transparent 
+    cs UTM18S 
+    grid-origin 488605 4454050	145 m
+rotate 120
+endlayout
+
+layout plan
+    copy local
+    grid off
+    color map-bg [85 85 85]
+    symbol-assign line wall:blocks MY
+    
+    code tex-map
+
+\def\xcenter{0}
+\def\ycenter{0}
+\def\yscale{1}
+\def\cadnum{106064}
+
+# change this
+
+\def\customheader{
+\size[13]\bf \the\cavename{} / \cadnum \ss
+\si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
+\par{ \quad} 
+\size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 488605  \par  Y : 4454050  \par Z : 145 m}  \ss
+\par{ \quad} 
+\par \si Développement :\ss{ \the\cavelength}
+\par \si Dénivellation :\ss{ \the\cavedepth}
+\par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+\par \si Relevés topographiques :\ss{ }Alexandre Honiat, Jules Clouzeau, Florian Rives,
+\par  David Meunier, Bernard Tourte, Kateryna Medvedieva
+\par \si Report et dessins :\ss{Alexandre Honiat, Tanguy Racine}}
+
+\def\maplayout{
+
+\legendbox{\the\numexpr\xcenter-10\relax}{\the\numexpr\ycenter +150*\yscale\relax}{SW}{\customheader}
+\legendbox{\the\numexpr\xcenter+100\relax}{\the\numexpr\ycenter +160*\yscale\relax}{S}{\northarrow}
+\legendbox{\the\numexpr\xcenter+100\relax}{\the\numexpr\ycenter +150*\yscale\relax}{N}{\scalebar}
+\legendbox{20}{200}{NW}{\hbox{\loadpicture{"outputsReveEveille-s.pdf"}}}
+%\legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter + 4*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
+}
+endcode
+endlayout
 
 lang fr
 
@@ -18,5 +77,7 @@ select m-all-s@ReveEveille
 
 # OUTPUTS 
 export model -o outputs/ReveEveille.3d 
-export map -o outputs/ReveEveille-p.pdf -projection plan -layout-debug station-names -layout local
-export map -o outputs/ReveEveille-s.pdf -projection extended -layout-debug station-names -layout local
+export model -o outputs/ReveEveille.lox
+#export atlas -o outputs/ReveEveille.pdf -projection plan -layout local-p
+export map -o outputsReveEveille-s.pdf -projection extended -layout local
+export map -o outputsReveEveille-p.pdf -projection plan -layout plan

@@ -1080,12 +1080,9 @@ survey CuevaNoTime -title "Cueva No Time" \
 
    map m-all-p -projection plan
      CuevaNoTime-1p
-     CuevaNoTime-2p
-     CuevaNoTime-3p
    endmap
 
-  join CuevaNoTime-1p CuevaNoTime-2p
-  join CuevaNoTime-2p CuevaNoTime-3p
+
 
 
   input "CuevaNoTime-e.th2"
