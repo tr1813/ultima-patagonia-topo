@@ -1,5 +1,5 @@
 survey 106  -title "106 Seno Egg"
-  input ../gis/images/106-dem-1m.th
+  #input ../gis/images/106-dem-1m.th
 
 
   input CuevaPirates/CuevaPirates.th

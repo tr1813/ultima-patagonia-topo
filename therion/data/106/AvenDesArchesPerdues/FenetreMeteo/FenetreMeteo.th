@@ -10,7 +10,7 @@ survey FenetreMeteo -title "Fenetre Meteo"
     FenetreMeteo-3p
   endmap
 
-
+  join FenetreMeteo-2p FenetreMeteo-3p
 
   centerline
     date 2023.02.12 
