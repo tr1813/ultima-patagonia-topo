@@ -4,7 +4,7 @@ encoding  utf-8
 
 scrap Collecteur-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
-point 1270.3822 695.5699 label -align tr -scale l -text "<bf>P12"
+point 1270.3822 715.5699 label -align tr -scale l -text "<bf>P12"
 point 915.4226 337.6324 label -align r -scale l -text "<bf>P7"
 point 223.856 1015.23 gradient -orientation 284.65055389183465
 point 256.448 797.577 gradient -orientation 65.55372172245765
