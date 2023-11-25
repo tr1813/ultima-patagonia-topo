@@ -1,3 +1,4 @@
+encoding  utf-8
 source 106.th
 
 export database -o 106.sql
