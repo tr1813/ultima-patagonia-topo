@@ -4,11 +4,11 @@ encoding  utf-8
 
 scrap TraverseeDeLIndecision-1s -projection extended -scale [0 0 39.3701 0 0 0 1 0 m]
 
-point 2492.5515 -200.4689 label -align tr -scale xl -text "COUPE DÉVELOPPÉE" 
-point 3920.7542 1125.1155 label -align tr -scale m -text "Entrée 1"
-point 962.6474 508.8288 label -align tr -scale m -text "Entrée 2"
-point 254.1527 364.9658 label -align tr -scale m -text "Entrée 3"
-point -306.7286 -177.8396 label -align tr -scale m -text "Étroiture dans <br>galets et eau"
+point 2492.55 -200.469 label -align tr -scale xl -text "COUPE DÉVELOPPÉE"
+point 3920.75 1125.12 label -align tr -text "Entrée 1"
+point 962.647 508.829 label -align tr -text "Entrée 2"
+point 254.153 364.966 label -align tr -text "Entrée 3"
+point -179.8358 -44.9043 label -align tr -scale xs -text "Étroiture dans <br>galets et eau"
 line rock-border -close on
   1341.4063 261.3438
   1341.4063 261.3438 1340.625 271.5 1342.1875 274.2344
@@ -803,34 +803,34 @@ line rock-border -close on
   3707.8912 602.484
 endline
 
-point 3813.3426 908.1541 water-flow -orientation 177.21116231934278
-point 3832.2488 745.7683 water-flow -orientation 184.28409971097798
-point 4100.1276 842.4263 water-flow -orientation 217.83372697835034
-point 3668.1736 680.5846 water-flow -orientation 181.9752904158092
-point 3583.1065 671.2034 water-flow -orientation 172.94396804739955
-point 3936.0681 715.9242 water-flow -orientation 206.12173560757174
-point 3806.4984 636.9162 water-flow -orientation 223.70011117830458
-point 3672.2294 582.7841 water-flow -orientation 241.59466305642732
-point 3508.6995 536.0888 water-flow -orientation 228.63023468115045
-point 3438.5908 474.7829 water-flow -orientation 217.63131228787674
-point 3218.1663 452.9568 water-flow -orientation 219.96310401502168
-point 3098.7988 427.2867 water-flow -orientation 250.01500396579615
-point 2763.4823 412.3621 water-flow -orientation 242.64277484235043
-point 2461.8488 385.5767 water-flow -orientation 250.01500396579615
-point 1369.0661 306.7472 water-flow -orientation 229.72010136978835
-point 1559.6861 316.5172 water-flow -orientation 229.72010136978835
-point 1792.8961 341.3772 water-flow -orientation 229.72010136978835
-point 1062.5488 277.5767 water-flow -orientation 250.01500396579615
-point 878.3607 245.5281 water-flow -orientation 223.7739855272413
-point 557.0737 203.0066 water-flow -orientation 260.6678252884607
-point 330.9908 188.4155 water-flow -orientation 146.75720487483633
-point 247.734 162.9455 water-flow -orientation 243.8979696247166
-point 131.7374 120.4085 water-flow -orientation 233.17901002945132
-point -28.1125 141.0564 continuation 
+point 3813.34 908.154 water-flow -orientation 177.21116231934278
+point 3832.25 745.768 water-flow -orientation 184.28409971097798
+point 4100.13 842.426 water-flow -orientation 217.83372697835034
+point 3668.17 680.585 water-flow -orientation 181.9752904158092
+point 3583.11 671.203 water-flow -orientation 172.94396100918618
+point 3936.07 715.924 water-flow -orientation 206.12173560757174
+point 3806.5 636.916 water-flow -orientation 223.70011117830458
+point 3672.23 582.784 water-flow -orientation 241.59466305642732
+point 3508.7 536.089 water-flow -orientation 228.63023468115045
+point 3438.59 474.783 water-flow -orientation 217.63131228787674
+point 3218.17 452.957 water-flow -orientation 219.96310401502168
+point 3098.8 427.287 water-flow -orientation 250.01500396579615
+point 2763.48 412.362 water-flow -orientation 242.64277484235043
+point 2461.85 385.577 water-flow -orientation 250.01500396579615
+point 1369.07 306.747 water-flow -orientation 229.72010136978835
+point 1559.69 316.517 water-flow -orientation 229.72010136978835
+point 1792.9 341.377 water-flow -orientation 229.72010136978835
+point 1062.55 277.577 water-flow -orientation 250.01500396579615
+point 878.361 245.528 water-flow -orientation 223.7739855272413
+point 557.074 203.007 water-flow -orientation 260.6678252884607
+point 330.991 188.416 water-flow -orientation 146.75720487483633
+point 247.734 162.946 water-flow -orientation 243.8979696247166
+point 131.737 120.409 water-flow -orientation 233.17901002945132
+point -28.1125 141.056 continuation 
 point -28.9025 83.2188 low-end 
-point 338.673 291.4218 entrance -orientation 183.33514063404363
-point 1032.4854 427.0903 entrance -orientation 191.69594729588385
-point 3994.9238 1010.9534 entrance -orientation 197.30817583528045
+point 338.673 291.422 entrance -orientation 183.33514063404363
+point 1032.49 427.09 entrance -orientation 191.69594729588385
+point 3994.92 1010.95 entrance -orientation 197.30817583528045
 line u:texture 
   78.0462 110.1963
   81.872 114.7872
