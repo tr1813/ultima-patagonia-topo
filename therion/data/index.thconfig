@@ -7,6 +7,6 @@ lang fr
 #
 #select m-all-p@UltimaPatagonia
 #export map -o gis -fmt esri
-export model -o gis -fmt esri
+#export model -o gis -fmt esri
 #export database -o ../outputs/ultima-patagonia.sql
-#export cave-list
+export cave-list

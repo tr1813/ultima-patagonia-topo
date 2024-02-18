@@ -8,12 +8,12 @@ survey CuevaDelDragon -attr exped "ITA003" -attr cad_num "106020"
     centreline
     declination 0 degrees
     explo-date 2003.01.01
-    
+
     data cartesian from to northing easting altitude
     flags duplicate
     ENT END 110 698 -219
     flags not duplicate
 
-    station ENT "entrance" continuation "explored 1122 m"
+    station ENT "entrance" continuation explored "1122"
     endcentreline
 endsurvey
