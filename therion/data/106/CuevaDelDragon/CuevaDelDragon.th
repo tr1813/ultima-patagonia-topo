@@ -1,0 +1,19 @@
+survey CuevaDelDragon -attr exped "ITA003" -attr cad_num "106020"
+    input CuevaDelDragon-p.th2
+
+    map m-all-p -projection plan
+        CuevaDelDragon-1p
+    endmap
+
+    centreline
+    declination 0 degrees
+    explo-date 2003.01.01
+    
+    data cartesian from to northing easting altitude
+    flags duplicate
+    ENT END 110 698 -219
+    flags not duplicate
+
+    station ENT "entrance" continuation "explored 1122 m"
+    endcentreline
+endsurvey

@@ -11,11 +11,11 @@ layout local
   legend off
   map-header 0 0 off
   symbol-show point label
-  #symbol-show point passage-height
-  #symbol-hide point station-name
+  symbol-show point passage-height
+  symbol-hide point station-name
   #symbol-assign area water AUT
   symbol-hide line survey 
-  #symbol-hide point station:temporary
+  symbol-hide point station:temporary
   symbol-assign line survey UIS
   symbol-assign point station MY
   symbol-colour point station [70 0 0]
@@ -57,8 +57,7 @@ layout plan
   \par \si Développement :\ss{ \the\cavelength}
   \par \si Dénivellation :\ss{ \the\cavedepth}
   \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
-  \par \si Relevés topographiques :\ss{ }Bernard Tourte, Alexandre Honiat,
-  \par Jules Clouzeau
+  \par \si Relevés topographiques :\ss{ }Bernard Tourte, Alexandre Honiat, Jules Clouzeau
   \par \si Report et dessins :\ss{  Alexandre Honiat, Tanguy Racine}}
 
   \def\maplayout{
@@ -66,8 +65,8 @@ layout plan
   \legendbox{\the\numexpr\xcenter-10\relax}{\the\numexpr\ycenter +100*\yscale\relax}{SW}{\customheader}
   \legendbox{\the\numexpr\xcenter+50\relax}{\the\numexpr\ycenter +28*\yscale\relax}{S}{\northarrow}
   \legendbox{\the\numexpr\xcenter+50\relax}{\the\numexpr\ycenter + 25*\yscale\relax}{N}{\scalebar}
-  \legendbox{-10}{30}{NW}{\hbox{\loadpicture{"/outputs/CuevaNoTime-ee.pdf"}}}
-  %\legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter + 4*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
+  \legendbox{-6}{33}{NW}{\hbox{\loadpicture{"/outputs/CuevaNoTime-ee.pdf"}}}
+  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter + 104*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
   }
   endcode
 endlayout

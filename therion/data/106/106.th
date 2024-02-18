@@ -9,6 +9,8 @@ survey 106  -title "106 Seno Egg"
   
   input CuevaDelZorro/CuevaDelZorro.th
 
+  input CuevaDelDragon/CuevaDelDragon.th
+
   input AvenDesArchesPerdues/AvenDesArchesPerdues.th
 
   input GouffrePlusPlus/GouffrePlusPlus.th
@@ -117,7 +119,7 @@ survey 106  -title "106 Seno Egg"
     ## connections
 
     fix ENT_106001  490150  4452330  10 # bouge pour mieux s'accorder au DEM
-    station   ENT_106001  "Cueva Pirates"
+    station   ENT_106001  "Cueva<br>Pirates"
     equate ENT_106001 44@a.Anglais2008.CuevaPirates
 
     fix ENT_106002  490289  4451286  35.0
@@ -137,7 +139,7 @@ survey 106  -title "106 Seno Egg"
     station   ENT_106006  "Grotte" entrance
 
     fix ENT_106008   490080  4452381  96
-    station   ENT_106008   "Caracara" entrance
+    station   ENT_106008   "Cueva de Caracara" entrance
 
     fix ENT_106009  488815 4453011 186
     station   ENT_106009 "Plateau Egg 1, non descendu à cause de blocs instables" entrance
@@ -172,8 +174,9 @@ survey 106  -title "106 Seno Egg"
     fix ENT_106019   488833   4451227  325
     station   ENT_106019 "Los tres Rios" entrance
 
-    fix ENT_106020   489409   4452098  187
+    fix ENT_106020   488811   4451760  287
     station   ENT_106020   "Cueva del Dragon" entrance
+    equate ENT_106020 ENT@CuevaDelDragon
 
     fix ENT_106021   490088   4452354  105  ## Zorro
     station ENT_106021 "Cueva del Zorro"
@@ -181,12 +184,12 @@ survey 106  -title "106 Seno Egg"
 
 
     fix ENT_106022  489704.0 4451405.0  358  
-    station ENT_106022 "AvenDesArchesPerdues"
+    station ENT_106022 "Aven des<br>Arches Perdues"
     equate ENT_106022 0@Entree.AvenDesArchesPerdues
     
 
     fix ENT_106023  487708.0 4451733.0  238  
-    station ENT_106023 "GouffrePlusPlus"
+    station ENT_106023 "Gouffre ++"
     equate ENT_106023 0@Entree.GouffrePlusPlus
     
 
@@ -235,7 +238,7 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106033  488207.0 4452069.0  294  
-    station ENT_106033 "GouffreDuBowling"
+    station ENT_106033 "Gouffre Du Bowling"
     equate ENT_106033 3A@Entree.GouffreDuBowling
     
 
@@ -350,7 +353,7 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106057  488596.0 4451785.0  280 # selon ASTER S50 W76  
-    station ENT_106057 "Gouffre Déjà Vu" 
+    station ENT_106057 "Gouffre Deja Vu" 
     equate ENT_106057 1@GouffreDejaVu
     
 
@@ -378,12 +381,12 @@ survey 106  -title "106 Seno Egg"
     
 
     fix ENT_106063  488092.0 4453227.0  280  
-    station ENT_106063 "TraverseeDeLIndecision"
+    station ENT_106063 "Traversee de<br>l'indecision"
     equate ENT_106063 0@TraverseeDeLIndecision
 
 
     fix ENT_106064  488605.0 4454050.0  145  
-    station ENT_106064 "Rêve éveillé"
+    station ENT_106064 "Reve<br>eveille"
     equate ENT_106064 0@CPF.ReveEveille
 
 
@@ -399,10 +402,7 @@ survey 106  -title "106 Seno Egg"
     station ENT_106067 "Resurgence des Pirates"
     equate ENT_106067 0@ResurgencePirate
 
-
-    
-    
-    endcentreline
+  endcentreline
 
   map m-106-p -projection plan 
     m-all-p@CuevaPirates
@@ -410,13 +410,14 @@ survey 106  -title "106 Seno Egg"
     m-all-p@GouffreDejaVu
     m-all-p@GouffrePlusPlus
     m-all-p@PerteChampis
-    CuevaNoTime
+    m-all-p@CuevaNoTime
     ResurgencePirate
-    ReveEveille
-    GrandeFailleDuBoutDuMonde
-    TraverseeDeLIndecision
-    PorcheEden
-    ResurgenceGolondrina
+    m-all-p@ReveEveille
+    m-all-p@GrandeFailleDuBoutDuMonde
+    m-all-p@TraverseeDeLIndecision
+    m-all-p@PorcheEden
+    m-all-p@ResurgenceGolondrina
+    m-all-p@CuevaDelDragon
     Casablanca
   endmap
 
