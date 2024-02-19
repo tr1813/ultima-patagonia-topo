@@ -1088,10 +1088,17 @@ survey CuevaNoTime -title "Cueva No Time" \
   input "CuevaNoTime-e.th2"
 
    map m-all-e -projection extended
-     CuevaNoTime-1e
-     CuevaNoTime-2e
-     CuevaNoTime-3e
+     m1e
+     m2e [-220 0 m] none
    endmap
+
+   map m1e -projection extended 
+      CuevaNoTime-1e
+   endmap
+
+   map m2e -projection extended 
+      CuevaNoTime-2e
+   endmap 
 
   #join CuevaNoTime-1e CuevaNoTime-2e
   #join CuevaNoTime-2e CuevaNoTime-3e
