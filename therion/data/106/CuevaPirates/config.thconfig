@@ -42,7 +42,7 @@ layout local
    \size[12]\par \bf \si Coordonnées de l'entrée Résurgence (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z : 0 m}  \ss
   \par{ \quad} 
   \par \si Développement :\ss{ \the\cavelength}
-  \par \si Dénivellation :\ss{+120/-33 m}
+  \par \si Dénivellation :\ss{ \the\cavedepth} (+\the\cavemaxz { m} / \the\caveminz { m})
   \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2008  \& 2023, 
   \par Oxford University Caving Club  - Madre de Dios 2008} 
     \par{ \quad} 

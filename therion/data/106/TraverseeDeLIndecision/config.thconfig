@@ -74,6 +74,6 @@ select m-all-e@TraverseeDeLIndecision
 
 #export atlas -o outputs/TraverseeDeLIndecision.pdf -projection plan -layout local-p
 export map -o outputs/TraverseeDeLIndecision-ee.pdf -projection extended -layout local
-export map -o outputs/TraverseeDeLIndecision.pdf -projection plan -layout plan
+export map -o outputs/TraverseeDeLIndecision-plan_ee.pdf -projection plan -layout plan
 encoding  utf-8
 

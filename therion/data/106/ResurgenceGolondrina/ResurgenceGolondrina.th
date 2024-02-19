@@ -3,6 +3,27 @@ encoding  utf-8
 ## a survey compiled from Visual Topo Data using the visual_therion.py script
 
 survey "ResurgenceGolondrina" -entrance 0 -title "Résurgence Golondrinas" -attr cad_num 106061 -attr exped UP2023
+    input ResurgenceGolondrina-e.th2
+    input ResurgenceGolondrina-p.th2
+    
+    map m-all-e -projection extended 
+        ResurgenceGolondrina-1e
+        break
+        ResurgenceGolondrina-2e
+    endmap
+
+    map m-all-p -projection plan
+        ResurgenceGolondrina-4p
+        break
+        ResurgenceGolondrina-1p
+        break
+        ResurgenceGolondrina-2p
+        break
+        ResurgenceGolondrina-3p
+    endmap
+
+    join ResurgenceGolondrina-1p ResurgenceGolondrina-4p
+    join ResurgenceGolondrina-1p ResurgenceGolondrina-3p
 
     centreline
     
@@ -10,10 +31,13 @@ survey "ResurgenceGolondrina" -entrance 0 -title "Résurgence Golondrinas" -attr
         date 2023.02.16
 
         team "Franck Bréhier"
-        team "Jeremie [Prieur-Drévon]"
-        
+        team "Jérémie [Prieur-Drévon]"
+
+        explo-team "Franck Bréhier"
+        explo-team "Jérémie [Prieur-Drévon]"
+
         data diving from to tape compass fromdepth todepth 
-        
+        extend left
         0  1  15.0  340.0 0   -9.5  
         1  2  7.0  320.0  -9.5 -15.2  
         2  3  7.0  330.0  -15.2 -18.5  
@@ -62,9 +86,16 @@ survey "ResurgenceGolondrina" -entrance 0 -title "Résurgence Golondrinas" -attr
         explo-date 2023.02.18
         date 2023.02.18
 
+        team "Franck Bréhier"
+        team "Jérémie [Prieur-Drévon]"
+
+        explo-team "Franck Bréhier"
+        explo-team "Jérémie [Prieur-Drévon]"
         
+        units compass grads 
+        units clino grads
         data normal from to tape compass clino 
-        
+        extend left
         15  16  11.19  346.0  18.4  
         16  17  11.79  300.5  11.7  
         17  18  17.55  266.7  -3.1  
@@ -72,20 +103,27 @@ survey "ResurgenceGolondrina" -entrance 0 -title "Résurgence Golondrinas" -attr
         19  20  5.87  311.16  23.5  
         20  21  11.74  293.0  37.9  
         21  22  6.91  262.4  28.5  
+        extend ignore
         22  23  9.49  223.1  8.5  
+        extend left
         23  24  5.85  370.8  81.1  
+        extend left
         23  25  4.61  58.1  -4.3  
         25  26  6.9  116.5  36.2  
         26  27  11.54  269.5  33.9  
         27  28  6.38  308.1  43.0  
         28  29  4.51  327.7  73.6  
         29  30  4.36  291.8  60.5  
+        extend right
         25  31  4.21  149.0  -73.0  
         31  32  2.85  106.5  -59.0  
+        extend left
         32  33  11.17  221.1  2.1  
         33  34  15.98  154.1  -59.0  
+        extend right
         32  35  5.84  31.0  42.6  
         35  22  5.9  339.7  14.4  
+        extend left
         16  36  10.73  398.4  10.5  
         36  37  4.41  308.1  64.7  
         37  38  12.23  325.6  44.7  
@@ -131,12 +169,90 @@ survey "ResurgenceGolondrina" -entrance 0 -title "Résurgence Golondrinas" -attr
         station 26 "retombe sur les deux puits remontants."
         station 29 "� droite, continue � 4 pattes, explor� sur 20 m environ."
         station 32 "Vasque avec les syncarides"
-        station 33 "Siphon (plongeable, mais acc�s difficile)."
+        station 33 "Siphon (plongeable, mais accès difficile)."
         station 35 "Bouclage."
-        station 36 "On est sur une faille. La topo a �t� faite en hauteur, au-dessus des blocs. Ca passe aussi par le bas."
-        station 42 "Arr�t topo du 18 f�vrier, fin sur du gros."
+        station 36 "On est sur une faille. La topo a été faite en hauteur, au-dessus des blocs. Ca passe aussi par le bas."
+        station 42 "Arrêt topo du 18 février, fin sur du gros."
 
     endcentreline
 
+    centreline
+
+        explo-date 2023.03.01
+        date 2023.03.01
+
+        team "Franck Bréhier"
+        team "Jérémie [Prieur-Drévon]"
+
+        explo-team "Franck Bréhier"
+        explo-team "Jérémie [Prieur-Drévon]"
+        
+        data normal from to tape compass clino 
+        extend left
+        42	43	8.46	279.5	-0.1
+        43	44	10.32	225.6	-5.1
+        44	45	9.77	270.7	1.2
+        45	46	9.39	268.9	-17.4
+        46	47	10.09	313.7	-2.2
+        47	48	10.28	251.5	-6.4
+        48	49	14.26	336.2	-6.2
+        49	50	6.99	305.5	0.9
+        50	51	19.85	338.2	-16.5
+        51	52	10.56	290.5	2.1
+        52	53	12.37	306.9	-4.9
+        53	54	7.95	326.2	-10.2
+        54	55	2.19	312.7	3.7
+        55	56	13.53	6.2	-31
+        56	57	5.67	15.5	10.1
+        57	58	2.35	354.4	30.2
+        58	59	4.09	76.4	9.1
+        59	60	3.86	97.1	30.5
+        48	61	10.52	254	7.4
+        61	62	7.86	235.6	11
+        62	63	5.31	230.3	30.7
+        63	64	4.59	184.2	4.4
+        64	65	13.37	192.9	4.1
+        65	66	6.19	263.1	40
+        66	67	4.63	214.5	-2.5
+        67	68	9.75	315.7	19.6
+        68	69	10.53	275.4	0.8
+        69	70	14.86	339	2.8
+        70	71	6.92	272.8	-4.5
+
+        data dimensions station left right up down 
+        43	6	1.3	1.2	0
+        44	0	3.2	0.6	1.4
+        45	2.6	2.4	0.5	1.7
+        46	1.6	3.4	1.5	1.15
+        47	3	2.4	1.5	0.4
+        48	5.2	0.7	0.1	1.2
+        49	6.8	2.6	0.9	0.4
+        50	2.3	2.9	0	2.1
+        51	6.7	1.3	0.6	0.8
+        52	3.2	3.1	0	1.2
+        53	7.5	2	0.1	0.8
+        54	3.5	2.7	0.7	0.3
+        55	1.1	4.6	0	1.5
+        56	5	3.36	0.4	0.2
+        57	0.9	1.5	0.65	0.15
+        58	2.6	1.4	0.5	0.9
+        59	2.9	0.5	0.75	0.25
+        60	0.3	1.2	0.2	0.9
+        61	1.4	2.3	1.15	0
+        62	1.6	1	1	0.2
+        63	0	1.35	0.35	0.5
+        64	1.51	1	0	0.7
+        65	1.5	2	2	0.2
+        66	1.3	0.6	1.25	0.25
+        67	0	2.9	1.55	1.75
+        68	1.9	0	1	1.2
+        69	0.5	3.5	2.4	1
+        70	3.2	1.6	0	1.5
+        71	1.6	2.7	1.2	0.4
+
+        station 57 "siphon"
+        station 71 "arrêt sur rien, bon courant d'air"
+
+    endcentreline
 endsurvey
 

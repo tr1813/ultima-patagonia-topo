@@ -9,14 +9,11 @@ layout local
   map-header 0 0 off
   symbol-show point label
   #symbol-show point passage-height
-  #symbol-hide point station-name
+  symbol-hide point station-name
   #symbol-assign area water AUT
   symbol-hide line survey 
-  #symbol-hide point station:temporary
-  symbol-assign line survey UIS
-  symbol-assign point station MY
-  symbol-colour point station [70 0 0]
-  symbol-colour point u:target [70 0 70]
+  symbol-hide point station:temporary
+
   symbol-hide point u:target
   symbol-assign line wall:blocks MYEE
 
@@ -62,8 +59,8 @@ layout plan
   \legendbox{\the\numexpr\xcenter-10\relax}{\the\numexpr\ycenter +100*\yscale\relax}{SW}{\customheader}
   \legendbox{\the\numexpr\xcenter+155\relax}{\the\numexpr\ycenter +28*\yscale\relax}{S}{\northarrow}
   \legendbox{\the\numexpr\xcenter+150\relax}{\the\numexpr\ycenter + 25*\yscale\relax}{N}{\scalebar}
-  \legendbox{-10}{30}{NW}{\hbox{\loadpicture{"/outputs/PorcheEden-ee.pdf"}}}
-  %\legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter + 4*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
+  %\legendbox{-10}{30}{NW}{\hbox{\loadpicture{"/outputs/PorcheEden-ee.pdf"}}}
+  \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter + 10*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
   }
   endcode
 endlayout

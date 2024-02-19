@@ -1,8 +1,73 @@
 source ResurgenceGolondrina.th
 
+input ../../../layouts/detailed-p.thl
 
-layout local 
-    colour map-fg [90 95 0]
+layout local
+  copy detailed-p
+  scale 1 1000
+  legend off
+  map-header 0 0 off
+  symbol-show point label
+  #symbol-show point passage-height
+  symbol-hide point station-name
+  #symbol-assign area water AUT
+  symbol-hide line survey 
+  symbol-hide point station:temporary
+  symbol-show point altitude
+
+  symbol-hide point u:target
+  symbol-assign line wall:blocks MYEE
+
+  symbol-colour line survey:cave [70 0 0]
+  symbol-colour point passage-height [70 0 70]
+
+  color map-bg transparent 
+    cs UTM18S 
+    grid-origin  490023 4452633	0 m
 endlayout
-export map -o outputs/ResurgenceGolondrina-plan.xvi -layout-debug station-names -layout local
-export map -o outputs/ResurgenceGolondrina-ee.xvi -layout-debug station-names -layout local -projection extended
+
+layout plan
+    copy local
+    grid off
+    color map-bg [85 85 85]
+    symbol-assign line wall:blocks MY
+    
+    code tex-map
+
+  \def\xcenter{0}
+  \def\ycenter{0}
+  \def\yscale{1}
+  \def\cadnum{106061}
+
+  # change this
+
+  \def\customheader{
+  \size[13]\bf \the\cavename{} / \cadnum \ss
+  \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
+  \par{ \quad} 
+  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 490023 \par  Y : 4452633	 \par Z : 0 m}  \ss
+  \par{ \quad} 
+  \par \si Développement :\ss{ \the\cavelength}
+  \par \si Dénivellation :\ss{ \the\cavedepth} (+\the\cavemaxz { m} / \the\caveminz { m})
+  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques :\ss{ } Franck Bréhier, Jérémie Prieur-Drévon
+  \par \si Report et dessins :\ss{  Franck Bréhier, Tanguy Racine}}
+
+  \def\maplayout{
+
+  \legendbox{\the\numexpr\xcenter-50\relax}{\the\numexpr\ycenter +80*\yscale\relax}{SW}{\customheader}
+  \legendbox{\the\numexpr\xcenter-5\relax}{\the\numexpr\ycenter +28*\yscale\relax}{S}{\northarrow}
+  \legendbox{\the\numexpr\xcenter-7\relax}{\the\numexpr\ycenter + 25*\yscale\relax}{N}{\scalebar}
+  \legendbox{-55}{0}{NW}{\hbox{\loadpicture{"/outputs/ResurgenceGolondrina-ee.pdf"}}}
+  \legendbox{\the\numexpr\xcenter-10\relax}{\the\numexpr\ycenter + 102*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
+  }
+  endcode
+endlayout
+
+# OUTPUTS
+select m-all-p@ResurgenceGolondrina
+select m-all-e@ResurgenceGolondrina
+export model -o outputs/ResurgenceGolondrina.lox
+export model -o outputs/ResurgenceGolondrina.3d -fmt survex 
+export map -o outputs/ResurgenceGolondrina-ee.pdf -projection extended -layout local
+export map -o outputs/ResurgenceGolondrina.pdf -projection plan -layout plan -layout-debug station-names
