@@ -29,7 +29,7 @@ layout plan
     color map-bg [85 85 85]
       symbol-assign line wall:blocks MY
 
-    rotate 135 
+    rotate 115 
 
   code tex-map
   #\framethickness=0.5mm
@@ -54,11 +54,11 @@ layout plan
   \par \si Report et dessins :\ss{Alexandre Honiat, Tanguy Racine}}
   
   \def\maplayout{
-  \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter +10*\yscale\relax}{N}{\customheader}
-  \legendbox{\the\numexpr\xcenter+20\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\scalebar}
-  \legendbox{\the\numexpr\xcenter-4*\xscale\relax}{\the\numexpr\ycenter + 5*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/AvenDesArchesPerdues-ee.pdf"}}}
-  \legendbox{\the\numexpr\xcenter-13\relax}{\the\numexpr\ycenter +10*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
-   \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter +55 \relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter+20\relax}{\the\numexpr\ycenter -4*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter+20\relax}{\the\numexpr\ycenter +2*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter-3*\xscale\relax}{\the\numexpr\ycenter + 10*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/AvenDesArchesPerdues-ee.pdf"}}}
+  \legendbox{\the\numexpr\xcenter-17\relax}{\the\numexpr\ycenter -5*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+   \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter +60 \relax}{N}{\northarrow}
  }
   endcode
 endlayout

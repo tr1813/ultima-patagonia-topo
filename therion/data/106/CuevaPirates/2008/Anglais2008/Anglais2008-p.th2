@@ -194,7 +194,7 @@ line floor-step
   195.0945 -7.5699 182.6419 24.803 182.6419 24.803
 endline
 
-point 415.216 -145.743 label -align tl -text "Muddy Hollows"
+point 425.216 -155.743 label -align tl -text "Muddy Hollows"
 point 413.03 -397.91 station -name 2@a
 point 470.91 -432.4 station -name 1@b
 point 401.22 -311.61 station -name 3@a
@@ -3725,7 +3725,7 @@ line floor-step
   114.6716 212.6589 137.7119 210.8051 137.7119 210.8051
 endline
 
-point 220.977 301.346 label -align tl -text "Sump of Doom"
+point 225.977 311.346 label -align tl -text "Sump of Doom"
 point 135.39 554.06 station -name 200@e
 point 133.27 490.28 station -name 201@e
 point 67.91 488.07 station -name 202@e

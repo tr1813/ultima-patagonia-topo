@@ -78,8 +78,7 @@ endsource
 
 export model -o 107.3d
 select localmap
-#export map -o outputs/GrotteDeLAncien.pdf -projection plan -layout plan
-
-#export map -o outputs/GrotteDeLAncien-ee.pdf -projection extended -layout local
+export map -o outputs/GrotteDeLAncien-plan.pdf -projection plan -layout plan
+export map -o outputs/GrotteDeLAncien-ee.pdf -projection extended -layout local
 
 

@@ -4,6 +4,12 @@ encoding  utf-8
 
 scrap FenetreMeteo-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
+line water-flow 
+  1657.854 3129.9837
+  1616.4843 3177.4823 19.1398 5011.9149 -735.462 6004.4145
+  -1345.5142 6806.7934 -2457.3328 8490.162 -2457.3328 8490.162
+endline
+
 line border -close on -id FenetreMeteo-1p_u_smallblocks_1 -visibility off
   2263.8441 4872.8755
   2266.1424 4877.4722 2280.6984 4892.0282 2307.5121 4895.8587

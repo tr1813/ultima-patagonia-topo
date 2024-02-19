@@ -14,6 +14,11 @@ survey ReveEveille  -title "Rêve éveillé" \
     equate 7@CPF 48@cpff
     equate 0@cpff 0@Suite
 
+    join CPF1@CPF:0 CPFF1@cpff:end
+    join CPF1@CPF:end CPFF1@cpff:0
+
+    join CPF-1p@CPF cpff-1p@cpff
+
     map m-all-p -projection plan 
     
         m-CPF-p@CPF 
