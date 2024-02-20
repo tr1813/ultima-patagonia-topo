@@ -1,7 +1,7 @@
 
 ## a survey compiled from Visual Topo Data using the visual_therion.py script
 
-survey AvenDesArchesPerdues -entrance 0@Entree -attr cad_num 106022 -attr exped UP2023
+survey AvenDesArchesPerdues -title "Aven des Arches Perdues" -entrance 0@Entree -attr cad_num 106022 -attr exped UP2023
 
     input Entree/Entree.th
     input FenetreMeteo/FenetreMeteo.th

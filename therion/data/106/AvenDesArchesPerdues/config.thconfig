@@ -44,7 +44,7 @@ layout plan
   \size[18]\bf \the\cavename{} / \cadnum \ss
   \si \par \size[14]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
   \par{ \quad} 
-  \size[14]\par \bf \si Coordonnées / Coordenadas(UTM 18S, WGS 84) :{\bf \par X : 489704 \par  Y : 4451405 \par Z : 358 m}  \ss
+  \size[14]\par \bf \si Coordonnées / Coordenadas (UTM 18S, WGS 84) :{\bf \par X : 489704 \par  Y : 4451405 \par Z : 358 m}  \ss
   \par{ \quad} 
   \par \si Développement / Desarollo :\ss { \the\cavelength}
   \par \si Dénivellation / Desnivel :\ss { \the\cavedepth}

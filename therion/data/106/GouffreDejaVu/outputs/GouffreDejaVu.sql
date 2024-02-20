@@ -1,4 +1,4 @@
-create table SURVEY (ID integer, PARENT_ID integer, NAME varchar(16), FULL_NAME varchar(13), TITLE varchar(17));
+create table SURVEY (ID integer, PARENT_ID integer, NAME varchar(16), FULL_NAME varchar(13), TITLE varchar(19));
 create table CENTRELINE (ID integer, SURVEY_ID integer, TITLE varchar(4), TOPO_DATE date, EXPLO_DATE date, LENGTH real, SURFACE_LENGTH real, DUPLICATE_LENGTH real);
 create table PERSON (ID integer, NAME varchar(10), SURNAME varchar(25));
 create table EXPLO (PERSON_ID integer, CENTRELINE_ID integer);
@@ -7,12 +7,12 @@ create table STATION (ID integer, NAME varchar(4), SURVEY_ID integer, X real, Y 
 create table STATION_FLAG (STATION_ID integer, FLAG char(3));
 create table SHOT (ID integer, FROM_ID integer, TO_ID integer, CENTRELINE_ID integer, LENGTH real, BEARING real, GRADIENT real, ADJ_LENGTH real, ADJ_BEARING real, ADJ_GRADIENT real, ERR_LENGTH real, ERR_BEARING real, ERR_GRADIENT real);
 create table SHOT_FLAG (SHOT_ID integer, FLAG char(3));
-create table MAPS (ID integer, SURVEY_ID integer, NAME varchar(16), TITLE varchar(17), PROJID integer, LENGTH real, DEPTH real);
+create table MAPS (ID integer, SURVEY_ID integer, NAME varchar(16), TITLE varchar(19), PROJID integer, LENGTH real, DEPTH real);
 create table SCRAPS (ID integer, SURVEY_ID integer, NAME varchar(16), PROJID integer, MAX_DISTORTION real, AVG_DISTORTION real);
 create table MAPITEMS (ID integer, TYPE integer, ITEMID integer);
 insert into SURVEY values (1, 0, '', '', NULL);
  insert into CENTRELINE values (2, 1, NULL, NULL, NULL, 0.00, 0.00, 0.00);
- insert into SURVEY values (44, 1, 'GouffreDejaVu', 'GouffreDejaVu', 'Gouffre Deja Vu');
+ insert into SURVEY values (44, 1, 'GouffreDejaVu', 'GouffreDejaVu', 'Gouffre Déjà Vu');
  insert into CENTRELINE values (45, 44, NULL, NULL, NULL, 0.00, 0.00, 0.00);
  insert into SCRAPS values (46, 44, 'GouffreDejaVu-1p', 1, 1.99659, 0.03198);
  insert into SCRAPS values (268, 44, 'GouffreDejaVu-2p', 1, 2.47150, 0.04197);

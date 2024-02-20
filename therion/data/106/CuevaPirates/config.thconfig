@@ -22,7 +22,6 @@ layout local
 
   layout plan
   copy local
-  legend on
   code tex-map
   #\framethickness=0.5mm
   \def\xcenter{-20}

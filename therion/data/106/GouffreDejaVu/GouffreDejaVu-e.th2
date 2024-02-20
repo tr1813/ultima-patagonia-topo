@@ -1165,7 +1165,7 @@ endline
 point 4394.068 677.9661 continuation 
 point 3605.9323 -33.8983 continuation 
 point 3050.8475 -114.4068 continuation 
-point 1512.5424 -55.6779 label -align r -scale xl -text COUPE
+point 1512.5424 -55.6779 label -align r -scale xl -text "COUPE DÉVELOPPÉE"
 point 233.0508 542.3729 label -align l -scale s -text "puits principal"
 point 132.6852 959.1252 label -align tl -scale s -text a
 point 860.1695 1063.5593 label -align t -scale s -text b
