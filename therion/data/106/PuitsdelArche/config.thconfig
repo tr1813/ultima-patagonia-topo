@@ -47,13 +47,13 @@ layout plan
   \size[13]\bf \the\cavename{} / \cadnum \ss
   \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
   \par{ \quad} 
-  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 489099 \par  Y :  4452897 \par Z : 201 m}  \ss
+  \size[9]\par \bf \si Coordonnées / Coordenadas (UTM 18S, WGS 84) :{\bf \par X : 489099 \par  Y :  4452897 \par Z : 201 m}  \ss
   \par{ \quad} 
-  \par \si Développement :\ss{ \the\cavelength}
-  \par \si Dénivellation :\ss{ \the\cavedepth}
-  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
-  \par \si Relevés topographiques :\ss{ }Lionel Ruiz, Olivier Guérard
-  \par \si Report et dessins :\ss{  Lionel Ruiz, Tanguy Racine}
+  \par \si Développement / Desarollo :\ss { \the\cavelength}
+  \par \si Dénivellation / Desnivel :\ss { \the\cavedepth}
+  \par \si{ Exploration et topographie / Exploracíon y topografía :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques / Mediciones topográficas :\ss{ }Lionel Ruiz, Olivier Guérard
+  \par \si Report et dessins / Descripción y dibujos :\ss{  Lionel Ruiz, Tanguy Racine}
   \par{ \quad} 
   \par \si Longueurs estimées à la corde, relevés boussole et inclinomètre au téléphone }
 

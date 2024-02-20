@@ -41,13 +41,13 @@ layout plan
   \size[13]\bf \the\cavename{} / \numcad \ss
   \si \par \size[12]Estero Calvo, Glacier HPS-31 \ss
      \par{ \quad}  
-  \size[9]\par \si Coordonnées (UTM 18S, WGS 84) :\ss{  \bf \par X : 602192  \par Y : 4390803  \par Z : 27 m} 
+  \size[9]\par \si Coordonnées / Coordenadas (UTM 18S, WGS 84) :\ss{  \bf \par X : 602192  \par Y : 4390803  \par Z : 27 m} 
     \par{ \quad}  
-  \par \si Développement:\ss{ \the\cavelength}
-  \par \si Dénivelé:\ss{ \the\cavedepth}
-  \par \si{ Exploration et topographie:}\ss{ Centre Terre -  Ultima Patagonia 2023} 
-  \par \si Relevés topographiques:\ss{  Charlotte Honiat, Raphaël Seguin, Serge Caillault, Tanguy Racine}
-  \par \si Report et dessins:\ss{ Tanguy Racine}}
+  \par \si Développement / Desarollo:\ss{ \the\cavelength}
+  \par \si Dénivelé / Desnivel :\ss{ \the\cavedepth}
+  \par \si{ Exploration et topographie / Exploración y topografía :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques / Mediciones topográficas:\ss{  Charlotte Honiat, Raphaël Seguin, Serge Caillault, Tanguy Racine}
+  \par \si Report et dessins / Descripción y dibujos :\ss{ Tanguy Racine}}
 
   \def\maplayout{
 

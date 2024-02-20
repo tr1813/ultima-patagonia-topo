@@ -44,14 +44,14 @@ layout plan
   \size[18]\bf \the\cavename{} / \cadnum \ss
   \si \par \size[14]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
   \par{ \quad} 
-  \size[14]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 489704 \par  Y : 4451405 \par Z : 358 m}  \ss
+  \size[14]\par \bf \si Coordonnées / Coordenadas(UTM 18S, WGS 84) :{\bf \par X : 489704 \par  Y : 4451405 \par Z : 358 m}  \ss
   \par{ \quad} 
-  \par \si Développement :\ss{ \the\cavelength}
-  \par \si Dénivellation :\ss{ \the\cavedepth}
-  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
-  \par \si Relevés topographiques :\ss{ } Alexandre Honiat, Jules Clouzeau, Charlotte Honiat, Tanguy Racine, 
+  \par \si Développement / Desarollo :\ss { \the\cavelength}
+  \par \si Dénivellation / Desnivel :\ss { \the\cavedepth}
+  \par \si{ Exploration et topographie / Exploracíon y topografía :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques / Mediciones topográficas :\ss{ } Alexandre Honiat, Jules Clouzeau, Charlotte Honiat, Tanguy Racine, 
   \par Olivier Guerard, Jessica Morin-Buote, Joël Tremoulet, Natalia Morata, Franck Brehier, Medhi Boukhal 
-  \par \si Report et dessins :\ss{Alexandre Honiat, Tanguy Racine}}
+  \par \si Report et dessins / Descripción y dibujos :\ss{Alexandre Honiat, Tanguy Racine}}
   
   \def\maplayout{
   \legendbox{\the\numexpr\xcenter+20\relax}{\the\numexpr\ycenter -4*\yscale\relax}{N}{\customheader}
