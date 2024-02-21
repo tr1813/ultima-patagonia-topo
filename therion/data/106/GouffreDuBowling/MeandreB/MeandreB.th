@@ -5,6 +5,7 @@ survey MeandreB
 
 	map m-all-e -projection extended
 		MeandreB-1e
+		MeandreB-2e
 	endmap
 
 	input MeandreB-p.th2 

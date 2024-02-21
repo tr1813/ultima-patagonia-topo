@@ -1,7 +1,7 @@
 # 2023.02.13 created by TopoDroid v 5.1.40
 
 survey Entree 
-  input Entree-1p_CR.th2 
+  input Entree-1p.th2 
   input Entree-1s.th2
 
 
@@ -49,7 +49,7 @@ survey Entree
     2 3 19.29 20.7 -82.7
     # extend auto
     3 . 2.13 134.9 -8.4
-    extend left
+    extend right
     3 4 2.14 132.8 -8.3
     # extend auto
     3 . 4.56 222.5 -5.7

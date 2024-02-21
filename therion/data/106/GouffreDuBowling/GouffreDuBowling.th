@@ -18,5 +18,13 @@ survey GouffreDuBowling -title "Gouffre du Bowling" \
         m-all-e@MeandreB
     endmap
 
+    centreline 
+    extend right 3@Entree 4@Entree
+    extend right 1@Entree 2@Entree
+    endcentreline
+
+    join Entree-1s@Entree MeandreB-1e@MeandreB
+    join Entree-1s@Entree MeandreB-2e@MeandreB
+
 endsurvey
         

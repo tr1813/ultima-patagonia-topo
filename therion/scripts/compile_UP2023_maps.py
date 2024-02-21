@@ -56,3 +56,14 @@ for name in BASENAMES_402:
     os.chdir(name)
     subprocess.check_output("therion config.thconfig", shell=True)
     os.chdir("..")
+
+
+# %%
+path_to = os.path.normpath('../403')
+os.chdir(path_to)
+
+for name in BASENAMES_403:
+    print(os.getcwd())
+    os.chdir(name)
+    subprocess.check_output("therion config.thconfig", shell=True)
+    os.chdir("..")

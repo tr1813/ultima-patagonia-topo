@@ -29,7 +29,7 @@ layout plan
 
   code tex-map
   #\framethickness=0.5mm
-  \def\xcenter{-99}
+  \def\xcenter{0}
   \def\ycenter{75}
   \def\xscale{40}
   \def\yscale{40}
@@ -50,11 +50,12 @@ layout plan
   \par \si Report et dessins / Descripción y dibujos :\ss{ Cédric Roques, Natalia Morata-Calvo}}
   
   \def\maplayout{
-  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}
-  \legendbox{\the\numexpr\xcenter+55\relax}{\the\numexpr\ycenter - 3*\yscale\relax}{N}{\scalebar}
-  \legendbox{\the\numexpr\xcenter-\xscale\relax}{\the\numexpr\ycenter - 1*\yscale\relax}{NW} {\hbox{\loadpicture{"/outputs/GouffreDuBowling-ee.pdf"}}}
-  \legendbox{\the\numexpr\xcenter+65\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{NW} {\hbox{\loadpicture{"/../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
-   \legendbox{\the\numexpr\xcenter+205\relax}{\the\numexpr\ycenter -10 \relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +5*\yscale\relax}{NW}{\customheader}
+  \legendbox{\the\numexpr\xcenter+85\relax}{\the\numexpr\ycenter + 5*\yscale\relax}{NW} {\hbox{\loadpicture{"/../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+  \legendbox{\the\numexpr\xcenter+18\relax}{\the\numexpr\ycenter + 110 \relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter + 60 \relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter-35\relax}{\the\numexpr\ycenter - 4*\yscale\relax}{S} {\hbox{\loadpicture{"/outputs/GouffreDuBowling-ee.pdf"}}}
+
  }
   endcode
 endlayout
