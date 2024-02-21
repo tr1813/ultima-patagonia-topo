@@ -2284,7 +2284,7 @@ endscrap
 
 scrap Textes -projection plan -scale [0 0 96 0 0 0 500 0 inch]
 
-point 416.2957 95.4328 label -align tr -scale xl -text "COUPE DEVELOPPEE"
+point 416.2957 95.4328 label -align tr -scale xl -text "COUPE DÉVELOPPÉE"
 point 62.1395 848.1858 label -align tr -scale l -text Nm
 point 72.1011 958.8306 label -align tr -scale xl -text PLAN
 line u:area -close on

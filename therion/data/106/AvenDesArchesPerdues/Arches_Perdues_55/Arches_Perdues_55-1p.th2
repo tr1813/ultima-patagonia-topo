@@ -16,7 +16,7 @@ line wall:invisible
   2724.8277 4616.5438
 endline
 
-point 1466.45 -4004.05 label -align tr -scale xl -text "<bf>PLAN"
+point 1466.45 -1504.05 label -align tr -scale xl -text "<bf>PLAN"
 point 1976.4979 4441.6294 label -align tl -scale l -text "Salle de la rampe de lancement"
 point 2583.65 4753.62 gradient -orientation 37.31185877550851
 point 2274.06 4343.08 gradient -orientation 37.31185877550851

@@ -46,14 +46,14 @@ layout plan
   \size[13]\bf \the\cavename{} / \cadnum \ss
   \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
   \par{ \quad} 
-  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 482166   \par  Y :  4447844 \par Z : 330 m}  \ss
+  \size[9]\par \bf \si Coordonnées / Coordenadas (UTM 18S, WGS 84) :{\bf \par X : 482166   \par  Y :  4447844 \par Z : 330 m}  \ss
   \par{ \quad} 
-  \par \si Développement :\ss{ \the\cavelength}
-  \par \si Dénivellation :\ss{ \the\cavedepth}
-  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
-  \par \si Relevés topographiques :\ss{ }Laurent Mestre, Kateryna Medvedieva
+  \par \si Développement / Desarollo :\ss { \the\cavelength}
+  \par \si Dénivellation / Desnivel :\ss { \the\cavedepth}
+  \par \si{ Exploration et topographie / Exploracíon y topografía :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques / Mediciones topográficas : \ss{ }Laurent Mestre, Kateryna Medvedieva
   \par Bernard Tourte, Christophe Rognon
-  \par \si Report et dessins :\ss{  Kateryna Medvedieva}}
+  \par \si Report et dessins / Descripción y dibujos :\ss{  Kateryna Medvedieva}}
 
   \def\maplayout{
 
@@ -78,8 +78,7 @@ endsource
 
 export model -o 107.3d
 select localmap
-#export map -o outputs/GrotteDeLAncien.pdf -projection plan -layout plan
-
-#export map -o outputs/GrotteDeLAncien-ee.pdf -projection extended -layout local
+export map -o outputs/GrotteDeLAncien-plan.pdf -projection plan -layout plan
+export map -o outputs/GrotteDeLAncien-ee.pdf -projection extended -layout local
 
 

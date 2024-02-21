@@ -22,7 +22,6 @@ layout local
 
   layout plan
   copy local
-  legend on
   code tex-map
   #\framethickness=0.5mm
   \def\xcenter{-20}
@@ -37,17 +36,17 @@ layout local
   \size[18]\bf \the\cavename{} / \cadnum \ss
   \si \par \size[14]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
   \par{ \quad} 
-  \size[12]\par \bf \si Coordonnées de l'entrée Porche (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z : 10 m}  \ss
+  \size[12]\par \bf \si Coordonnées du Porche d'entrée / Coordenadas de l'entrada (UTM 18S, WGS 84) :{\bf \par X : 490150  \par  Y : 4452330 \par Z : 10 m}  \ss
   \par{ \quad} 
-   \size[12]\par \bf \si Coordonnées de l'entrée Résurgence (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z : 0 m}  \ss
+   \size[12]\par \bf \si Coordonnées de la Résurgence / Coordenadas del Resurgimiento (UTM 18S, WGS 84) :{\bf \par X :  490177 \par  Y : 4452360 \par Z : 0 m}  \ss
   \par{ \quad} 
-  \par \si Développement :\ss{ \the\cavelength}
-  \par \si Dénivellation :\ss{ \the\cavedepth} (+\the\cavemaxz { m} / \the\caveminz { m})
-  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2008  \& 2023, 
+  \par \si Développement / Desarollo :\ss { \the\cavelength}
+  \par \si Dénivellation / Desnivel :\ss { \the\cavedepth} (+\the\cavemaxz { m} / \the\caveminz { m})
+  \par \si{ Exploration et topographie / Exploracíon y topografía :}\ss{ Centre Terre -  Ultima Patagonia 2008  \& 2023, 
   \par Oxford University Caving Club  - Madre de Dios 2008} 
     \par{ \quad} 
 
-  \par \si Relevés topographiques :\ss{ } Alexandre Andrieu, Laurence Boudoux d'Hautefeuille, Franck Bréhier,
+  \par \si Relevés topographiques / Mediciones topográficas :\ss{ } Alexandre Andrieu, Laurence Boudoux d'Hautefeuille, Franck Bréhier,
   \par  Marta Candel Urena, Clément Chaput, Jules Clouzeau, Tim Guilford,
   \par  Simon Headford, Alexandre Honiat, Charlotte Honiat, Ben Lovett, 
   \par Christine Magot, Arnauld Malard, Lou Maurice, Kateryna Medvedieva, 
@@ -55,13 +54,13 @@ layout local
   \par Cédric Roques, Raphaël Seguin, Bernard Tourte, Joël Trémoulet, Enrique Ogando Lastra. 
   \par{ \quad} 
 
-  \par \si Report et dessins :\ss{Tanguy Racine, Alexandre Honiat}}
+  \par \si Report et dessins / Descripción y dibujos :\ss{Tanguy Racine, Alexandre Honiat}}
   \formattedlegend 
   \def\maplayout{
-  \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter +3*\yscale\relax}{N}{\customheader}
+  \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter -4*\yscale\relax}{N}{\customheader}
   \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter -3*\yscale\relax}{N}{\iflegend\insertlegend\fi}
-  \legendbox{\the\numexpr\xcenter-12\relax}{\the\numexpr\ycenter - 10*\yscale\relax}{N}{\northarrow}
-  \legendbox{\the\numexpr\xcenter-12\relax}{\the\numexpr\ycenter - 15*\yscale\relax}{N}{\scalebar}
+  \legendbox{\the\numexpr\xcenter-12\relax}{\the\numexpr\ycenter - 25*\yscale\relax}{N}{\northarrow}
+  \legendbox{\the\numexpr\xcenter-12\relax}{\the\numexpr\ycenter - 30*\yscale\relax}{N}{\scalebar}
   %\legendbox{\the\numexpr\xcenter+\xscale\relax}{\the\numexpr\ycenter + 1*\yscale\relax}{E} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
   }
   endcode
@@ -100,13 +99,13 @@ layout extended
   \par{ \quad} 
    \size[12]\par \bf \si Coordonnées de l'entrée Résurgence (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z : 0 m}  \ss
   \par{ \quad} 
-  \par \si Développement :\ss{ \the\cavelength}
-  \par \si Dénivellation :\ss{ +120/-33 m}
-  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2008  \& 2023, 
+  \par \si Développement / Desarollo :\ss { \the\cavelength}
+  \par \si Dénivellation / Desnivel :\ss { +120/-33 m}
+  \par \si{ Exploration et topographie / Exploracíon y topografía :}\ss{ Centre Terre -  Ultima Patagonia 2008  \& 2023, 
   \par Oxford University Caving Club  - Madre de Dios 2008} 
     \par{ \quad} 
 
-  \par \si Relevés topographiques :\ss{ } Alexandre Andrieu, Laurence Boudoux d'Hautefeuille, Franck Bréhier,
+  \par \si Relevés topographiques / Mediciones topográficas :\ss{ } Alexandre Andrieu, Laurence Boudoux d'Hautefeuille, Franck Bréhier,
   \par  Marta Candel Urena, Clément Chaput, Jules Clouzeau, Tim Guilford,
   \par  Simon Headford, Alexandre Honiat, Charlotte Honiat, Ben Lovett, 
   \par Christine Magot, Arnauld Malard, Lou Maurice, Kateryna Medvedieva, 
@@ -114,7 +113,7 @@ layout extended
   \par Cédric Roques, Raphaël Seguin, Bernard Tourte, Joël Trémoulet, Enrique Ogando Lastra. 
   \par{ \quad} 
 
-  \par \si Report et dessins :\ss{Tanguy Racine, Alexandre Honiat}}
+  \par \si Report et dessins / Descripción y dibujos :\ss{Tanguy Racine, Alexandre Honiat}}
   \formattedlegend 
   \def\maplayout{
   \legendbox{\the\numexpr\xcenter+10\relax}{\the\numexpr\ycenter +20*\yscale\relax}{N}{\customheader}

@@ -9,7 +9,7 @@ point 1097.3135 -1434.9861 label -align tr -scale xs -text "<bf>P8"
 point 214.0107 -677.1022 label -align tr -scale xs -text "<bf>P8"
 point 847.2027 -1031.9299 label -align tr -scale xs -text "<bf>P12"
 point 1352.2145 -2036.8672 label -align tr -scale xs -text "<bf>P20"
-point 1219.6669 -861.8934 label -align tr -scale xl -text COUPE
+point 1219.6669 -861.8934 label -align tr -scale xl -text "COUPE DÉVELOPPÉE"
 point 594.4293 932.5119 entrance -orientation 220
 line rock-border -clip off -close on
   1412.0637 -2420.564

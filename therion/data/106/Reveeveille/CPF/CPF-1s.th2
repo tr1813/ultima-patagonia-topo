@@ -4,6 +4,8 @@ encoding  utf-8
 
 scrap CPF-1s -projection extended -scale [0 0 39.3701 0 0 0 1 0 m]
 
+point -3.2028 999.472 label -align t -text "<bf>P19"
+point 187.9698 1273.137 entrance -orientation 168.8025349673325 -scale xl
 line rope 
   171.6005 1155.3144
   171.6005 1155.3144 183.6046 1138.6264 185.0421 1151.4327
@@ -182,11 +184,11 @@ point 137.909 677.534 water-flow -orientation 165.61335991349637
 point 83.777 769.968 water-flow -orientation 123.18108830911622
 point -28.5463 804.265 water-flow -orientation 123.18108830911622
 line wall 
-  2.3036 860.5365
+  31.7446 852.2326
   -34.9098 866.1451
 endline
 
-line rock-edge -close on
+line rock-border -clip off -close on
   24.1591 843.6837
   33.3642 852.7151
   33.3642 852.7151 36.4903 853.9309 38.5746 853.9309
@@ -240,7 +242,7 @@ line wall
   129.5657 813.6936 111.1556 816.8198 109.7661 817.5146
   108.3767 818.2093 110.1135 817.8619 104.0347 820.4671
   97.9559 823.0723 85.1035 836.2721 85.1035 836.2721
-  75.142 846.0512
+  49.8529 844.9189
 endline
 
 line wall 
@@ -436,7 +438,7 @@ line wall
   480.1899 1011.938 485.348 1049.5181 485.348 1049.5181
 endline
 
-line rock-border -close on
+line rock-border -clip off -close on
   454.1383 1045.7671
   463.925 1043.0778
   474.2198 1046.7789
@@ -621,7 +623,7 @@ line rock-border -close on
   162.0528 479.3035
 endline
 
-line rock-border -close on
+line rock-border -clip off -close on
   451.9811 1051.3989
   447.4011 1043.1789
   449.2511 1033.5189
@@ -632,7 +634,7 @@ line rock-border -close on
   451.9811 1051.3989
 endline
 
-line rock-border -close on
+line rock-border -clip off -close on
   480.855 1060.405
   476.275 1052.185
   478.125 1042.525
@@ -654,7 +656,7 @@ line rock-border -close on
   183.5528 479.1135
 endline
 
-line rock-border -close on
+line rock-border -clip off -close on
   463.9239 1044.6779
   468.8939 1034.6679
   481.6439 1033.1279
@@ -804,7 +806,7 @@ line rock-border -close on
   220.1228 484.2635
 endline
 
-line rock-border -close on
+line rock-border -clip off -close on
   441.1855 1059.5161
   443.7555 1045.8861
   453.2055 1042.6961

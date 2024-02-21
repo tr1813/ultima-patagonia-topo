@@ -40,14 +40,14 @@ layout plan
   \size[13]\bf \the\cavename{} / \cadnum \ss
   \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
   \par{ \quad} 
-  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 488207 \par  Y : 4452069\par Z : 294 m}  \ss
+  \size[9]\par \bf \si Coordonnées / Coordenadas (UTM 18S, WGS 84) :{\bf \par X : 488207 \par  Y : 4452069\par Z : 294 m}  \ss
   \par{ \quad} 
-  \par \si Développement :\ss{ \the\cavelength}
-  \par \si Dénivellation :\ss{ \the\cavedepth}
-  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
-  \par \si Relevés topographiques :\ss{ }Cédric Roques, Natalia Morata-Calvo, 
+  \par \si Développement / Desarollo :\ss { \the\cavelength}
+  \par \si Dénivellation / Desnivel :\ss { \the\cavedepth}
+  \par \si{ Exploration et topographie / Exploracíon y topografía :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques / Mediciones topográficas :\ss{ }Cédric Roques, Natalia Morata-Calvo, 
   \par David Meunier, Bernard Tourte, Franck Bréhier, Mehdi Boukhal
-  \par \si Report et dessins :\ss{ Cédric Roques, Natalia Morata-Calvo}}
+  \par \si Report et dessins / Descripción y dibujos :\ss{ Cédric Roques, Natalia Morata-Calvo}}
   
   \def\maplayout{
   \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +1*\yscale\relax}{N}{\customheader}

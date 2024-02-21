@@ -1589,7 +1589,6 @@ line wall
   1075.8957 2509.7026 1090.9167 2456.5474 1126.1 2421.2904
 endline
 
-point 0.0 0.0 water-flow 
 line border -close on -id CuevaNoTime-1p_water_1 -visibility on
   786.73 2338.74
   793.69 2352.65
@@ -3587,20 +3586,15 @@ point 219.77 966.3 station -name 57
 point 303.79 956.84 station -name 58
 point 6600.94 7805.52 entrance -orientation 310.29339708415387
 point 6709.59 7970.56 entrance -orientation 284.0998884191993
-point 0.0 0.0 entrance 
-point 0.0 0.0 entrance 
+
 point 6250.0 7390.6 continuation 
 point 6103.82 8502.77 continuation 
 point 6439.82 8223.77 continuation 
 point 5885.82 7449.77 continuation 
 point 5631.0 7817.6 continuation 
 point 5562.64 7729.3 continuation 
-point 0.0 0.0 continuation 
-point 0.0 0.0 continuation 
-point 0.0 0.0 continuation 
-point 0.0 0.0 continuation 
+
 point 5151.0 8271.6 continuation 
-point 0.0 0.0 scallop 
 point 5161.39 6994.64 continuation 
 point 4225.76 7521.88 continuation 
 point 4079.48 7011.07 continuation 

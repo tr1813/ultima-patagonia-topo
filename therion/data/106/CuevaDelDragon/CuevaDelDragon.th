@@ -14,6 +14,6 @@ survey CuevaDelDragon -attr exped "ITA003" -attr cad_num "106020"
     ENT END 110 698 -219
     flags not duplicate
 
-    station ENT "entrance" continuation explored "1122"
+    station ENT "entrance" continuation explored "1122 m"
     endcentreline
 endsurvey

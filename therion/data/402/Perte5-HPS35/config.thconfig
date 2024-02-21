@@ -35,13 +35,13 @@ layout plan
   \size[13]\bf \the\cavename{} / \numcad \ss
   \si \par \size[12]Glacier HPS-35, Estero Calvo, \par Parque Nacional Bernardo O’Higgins  \ss
      \par{ \quad}  
-  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 600145  \par  Y : 4384573  \par Z : 446 m}  \ss
+  \size[9]\par \bf \si Coordonnées / Coordenadas (UTM 18S, WGS 84) :{\bf \par X : 600145  \par  Y : 4384573  \par Z : 446 m}  \ss
   \par{ \quad} 
-  \par \si Développement :\ss{ \the\cavelength}
-  \par \si Dénivellation :\ss{ \the\cavedepth}
-  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
-  \par \si Relevés topographiques :\ss{  Carlos Placido}
-  \par \si Report et dessins :\ss{  Tanguy Racine}}
+  \par \si Développement / Desarollo :\ss { \the\cavelength}
+  \par \si Dénivellation / Desnivel :\ss { \the\cavedepth}
+  \par \si{ Exploration et topographie / Exploracíon y topografía :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques / Mediciones topográficas :\ss{  Carlos Placido}
+  \par \si Report et dessins / Descripción y dibujos :\ss{  Tanguy Racine}}
 
   \def\maplayout{
 
@@ -59,3 +59,4 @@ endlayout
 select m-all-e@Perte5-HPS35.402
 
 export map -o outputs/Perte5-HPS35.pdf -projection extended -layout plan
+export model -o outputs/Perte5-HPS35.3d

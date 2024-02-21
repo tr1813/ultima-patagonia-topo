@@ -52,13 +52,13 @@ layout plan
   \size[13]\bf \the\cavename{} / \cadnum \ss
   \si \par \size[12]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
   \par{ \quad} 
-  \size[9]\par \bf \si Coordonnées (UTM 18S, WGS 84) :{\bf \par X : 490289  \par  Y : 4451286  \par Z : 35 m}  \ss
+  \size[9]\par \bf \si Coordonnées / Coordenadas (UTM 18S, WGS 84) :{\bf \par X : 490289  \par  Y : 4451286  \par Z : 35 m}  \ss
   \par{ \quad} 
-  \par \si Développement :\ss{ \the\cavelength}
-  \par \si Dénivellation :\ss{ \the\cavedepth}
-  \par \si{ Exploration et topographie :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
-  \par \si Relevés topographiques :\ss{ }Bernard Tourte, Alexandre Honiat, Jules Clouzeau
-  \par \si Report et dessins :\ss{  Alexandre Honiat, Tanguy Racine}}
+  \par \si Développement / Desarollo :\ss { \the\cavelength}
+  \par \si Dénivellation / Desnivel :\ss { \the\cavedepth}
+  \par \si{ Exploration et topographie / Exploracíon y topografía :}\ss{ Centre Terre -  Ultima Patagonia 2023} 
+  \par \si Relevés topographiques / Mediciones topográficas :\ss{ }Bernard Tourte, Alexandre Honiat, Jules Clouzeau
+  \par \si Report et dessins / Descripción y dibujos :\ss{  Alexandre Honiat, Tanguy Racine}}
 
   \def\maplayout{
 
@@ -66,7 +66,7 @@ layout plan
   \legendbox{\the\numexpr\xcenter+50\relax}{\the\numexpr\ycenter +28*\yscale\relax}{S}{\northarrow}
   \legendbox{\the\numexpr\xcenter+50\relax}{\the\numexpr\ycenter + 25*\yscale\relax}{N}{\scalebar}
   \legendbox{-6}{33}{NW}{\hbox{\loadpicture{"/outputs/CuevaNoTime-ee.pdf"}}}
-  \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter + 104*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
+  \legendbox{\the\numexpr\xcenter+17\relax}{\the\numexpr\ycenter + 114*\yscale\relax}{NW} {\hbox{\loadpicture{../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg}}}
   }
   endcode
 endlayout
