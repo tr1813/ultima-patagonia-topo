@@ -672,3 +672,13 @@ text en "line u:mine_MY" "mine addit"
 text en "line u:dripline" "dripline"
 text en "line u:oldsnow_MY" "old snow level"
 text en "line u:icepit_MY" "ice pit"
+
+
+text fr "line u:flowstone" "paroi (concrétion)"
+text fr "line u:texture" "texture de paroi"
+text fr "line u:icepit_MY" "puits (glace)"
+text fr "line u:icepresumed" "paroi présumée (glace)"
+text fr "line u:deviation" "déviation"
+text fr "line u:wallbigpit" "puits (entrée)"
+text fr "line u:bigpit_MY" "puits"
+text fr "line u:icestep_MY" "escarpement (glace)"

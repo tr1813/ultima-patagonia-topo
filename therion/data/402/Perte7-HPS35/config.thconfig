@@ -17,7 +17,12 @@ layout local
   symbol-assign line survey AUT
 
   color map-bg transparent
- 
+    symbol-colour point anchor [70 10 0]
+  symbol-color line survey:cave [70 0 0]
+  symbol-color point passage-height [70 0 70]
+   symbol-color line rope [70 10 0]
+  symbol-color line u:deviation [70 0 0]
+
 endlayout
 
 layout plan

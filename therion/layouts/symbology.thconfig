@@ -1,0 +1,230 @@
+source
+	
+	survey symbology -title "Symbologie"
+		
+		centreline
+			units length meters
+			units compass clino degrees
+			data normal from to length compass clino
+			flags duplicate
+			1 1a 1 0 90
+			1a 2a 100 0 0
+			2a 2 1 0 -90
+			flags not duplicate
+		endcentreline
+		
+		map m-symbology-ice -projection plan
+			symbology-ice
+		endmap
+
+
+		scrap symbology-ice -scale [10 0 50 0 0 0 1 0 m] -projection plan
+        point 1 0 entrance
+        point 2 0 water-flow
+        point 3 0 station
+        point 4 0 station:fixed
+        point 5 0 gradient
+        point 6 0 u:gradient_ice
+        point 8 0 u:grass
+        point 9 0 continuation
+        point 10 0 narrow-end
+        point 11 0 low-end
+        point 8 0 anchor
+        point 8 0 map-connection
+        point 12 0 air-draught
+        point 13 0 altitude
+        point 14 0 scallop
+        point 14 0 helictite
+        point 14 0 stalagmite
+        point 15 0 soda-straw
+        point 16 0 curtain
+        point 17 0 pillar
+        point 18 0 stalactite 
+        point 19 0 karren
+        point 20 0 u:terminus -attr text "UP2019" -attr side 1 -orientation 340.0
+
+        line wall
+        1 1
+        2 1
+        endline
+
+        line u:icepresumed
+        1 1
+        2 1
+        endline
+
+        line floor-step
+        1 1
+        2 1
+        endline
+
+        line u:wallbigpit
+        1 2
+        2 2
+        endline
+
+        line u:bigpit_MY
+        1 3
+        2 3
+        endline
+
+        line wall:presumed
+        1 4
+        2 4
+        endline
+
+        line wall:ice
+        1 5
+        2 5
+        endline
+
+        line u:icepit_MY
+        1 6
+        2 6
+        endline
+        
+        line u:icestep_MY
+        1 7
+        2 7
+        endline
+
+        line water-flow
+        1 8
+        2 8
+        endline
+
+        line survey
+        1 9
+        2 9
+        endline
+
+        line u:deviation
+        2 1
+        3 1
+        endline
+
+        line rope
+        2 5
+        3 5
+        endline
+
+        line u:wallbigpit
+        2 2
+        3 2
+        endline
+
+        line u:texture
+        2 3
+        3 3
+        endline
+
+        line arrow
+        2 4
+        3 4
+        endline
+
+        line contour
+        2 5
+        3 5
+        endline
+
+        line rock-border -close on -id area1
+        42 5
+        43 5
+        43 4
+        42 4
+        endline
+        area water
+            area1 
+        endarea
+        area sump
+            area1 
+        endarea
+        area pebbles
+            area1
+        endarea
+        area u:iceoutside
+            area1
+        endarea
+
+        area u:iceinside
+            area1
+        endarea
+
+        area u:smallblocks
+            area1
+        endarea
+
+        area sand
+            area1
+        endarea
+
+        area bedrock
+            area1
+        endarea
+
+        area clay
+            area1
+        endarea
+
+        point 0 0 station -name 1 -visibility off
+		point 0 20 station -name 2 -visibility off
+        endscrap
+
+	
+		
+	endsurvey
+	
+endsource
+
+input ./metapost/connection_marker.thl
+input ./metapost/lines.thl
+input ./metapost/areas.thl
+input ./metapost/points.thl
+input detailed-p.thl
+
+
+layout local
+	copy detailed-p
+	
+	scale 1 500
+  legend on
+  map-header 0 0 ne
+  symbol-show point label
+  symbol-show point passage-height
+  #symbol-hide point station-name
+  #symbol-hide line survey 
+  #symbol-hide point station:temporary
+  symbol-assign line survey UIS
+  symbol-assign area bedrock MY
+  symbol-assign point station MY
+  symbol-color point station [70 0 0]
+  symbol-color point u:target [70 0 70]
+  symbol-hide point u:target
+  #symbol-hide point label
+  symbol-colour line rope [70 10 0]
+  symbol-colour line u:deviation [70 10 0]
+  symbol-colour point anchor [70 10 0]
+  symbol-color line survey:cave [70 0 0]
+
+  legend-width 40 cm
+  legend-columns 4
+
+  color map-bg transparent 
+ 
+	
+	fonts-setup 10 10 10 10 10
+	
+	#code tex-map
+	#	\framethickness=0mm
+	#	\def\maplayout{
+	#	\legendbox{1}{101}{NW}{\size[14]\the\cavename}
+	#	}
+	#endcode
+
+endlayout
+
+lang es
+select m-symbology-ice@symbology
+
+export map -o ../outputs/symbology_es.pdf -projection plan -layout local

@@ -4,22 +4,33 @@ encoding  utf-8
 
 scrap Entree-1p -projection plan -scale [0 0 39.3701 0 0 0 1 0 m]
 
-point 778.5924 638.3964 gradient -orientation 79.55310716210343
-point 813.0135 656.5619 gradient -orientation 75.63915192130493
-point 458.2042 362.5967 gradient -orientation 37.03925276288564
-point 416.0263 322.0176 gradient -orientation 35.526887784514315
-point 1105.8898 684.6783 gradient -orientation 82.1183720938626
-point 347.0072 185.2589 gradient -orientation 334.9629025369803
-point 298.4401 156.1775 gradient -orientation 312.9100961820997
-point 1048.6932 666.784 gradient -orientation 75.21758942559866
-point 1106.5237 510.8588 gradient -orientation 218.53108972253602
-point 1142.9497 542.9703 gradient -orientation 205.3754999687679
-point 1319.156 338.7138 label -align tr -text "<bf>P17"
-point 1373.8501 657.5025 label -align tr -text "<bf>P30"
-point 745.9489 707.9905 label -align tr -text "<bf>P15"
-point 517.7634 532.16 label -align tr -text "<bf>P62"
-point 247.8851 721.2589 label -align tr -scale xl -text PLAN
-point 199.7317 324.4511 label -align tr -text "<bf>P21"
+line wall -id alt006
+  1397.8235 281.3671
+  altitude .
+  1381.2107 287.0428
+endline
+
+line wall -id alt005
+  337.91 305.62
+  328.44 305.8
+endline
+
+point 778.592 638.396 gradient -orientation 79.55310716210343
+point 813.014 656.562 gradient -orientation 75.63915192130493
+point 458.204 362.597 gradient -orientation 37.03925276288564
+point 416.026 322.018 gradient -orientation 35.526887784514315
+point 1105.89 684.678 gradient -orientation 82.11836423706464
+point 347.007 185.259 gradient -orientation 334.9629025369803
+point 298.44 156.178 gradient -orientation 312.9100961820997
+point 1048.69 666.784 gradient -orientation 75.21758942559866
+point 1106.52 510.859 gradient -orientation 218.53108972253602
+point 1142.95 542.97 gradient -orientation 205.3754999687679
+point 1319.16 338.714 label -align tr -text "<bf>P17"
+point 1373.85 657.503 label -align tr -text "<bf>P30"
+point 745.949 707.99 label -align tr -text "<bf>P15"
+point 517.763 532.16 label -align tr -text "<bf>P62"
+point 247.885 721.259 label -align tr -scale xl -text PLAN
+point 199.732 324.451 label -align tr -text "<bf>P21"
 line u:wallbigpit 
   403.7563 266.3843
   403.7563 267.7399 408.2751 272.4847 399.2375 283.1039
@@ -194,7 +205,11 @@ line wall
   1516.5987 163.5622 1500.0245 173.6154 1497.1522 198.2244
   1494.0858 223.4933 1509.3014 240.7273 1489.0398 260.4844
   1464.586 278.1454 1429.1087 272.6336 1397.8235 281.3671
-  1368.906 289.9065 1377.7171 291.4591 1355.243 298.834
+endline
+
+line wall 
+  1381.2107 287.0428
+  1371.3847 291.1821 1371.6035 293.4653 1355.243 298.834
   1331.9149 306.0537 1317.9413 304.307 1296.0106 313.7391
   1275.2055 323.8312 1277.4841 334.0587 1265.6454 345.4705
   1254.8547 356.4941 1261.4892 353.3332 1252.5229 368.5489
@@ -262,7 +277,6 @@ line wall
   356.59 311.66
   347.94 308.82
   337.91 305.62
-  328.44 305.8
 endline
 
 line wall 

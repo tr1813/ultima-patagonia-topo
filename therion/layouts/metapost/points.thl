@@ -203,8 +203,9 @@ layout custom_points
 			
 		begingroup
 		picture thetext; % make label either right, left, top or bottom aligned. 
-		thetext := thTEX("\thframed{ \thtinysize\si " & ATTR_text & "}");
+		
 		if known ATTR_text:
+			thetext := thTEX("\thframed{ \thtinysize\si " & ATTR_text & "}");
 			if known ATTR_side: 
 				side := scantokens(ATTR_side);
 				if side = 0:
@@ -256,6 +257,12 @@ layout custom_points
 			fi;
 		fi;
 	endgroup
+	enddef;
+
+	def p_u_terminus_legend =
+		string ATTR_text;
+		ATTR_text:="EXPE";
+		p_u_terminus((0.,0.) inscale,0.0,1.0,(0,0))
 	enddef;
 
 	def p_altitude(expr pos)=
@@ -361,7 +368,16 @@ endlayout
 ## add legend names for each new symbol definition
 
 text en "point u:gradient_ice"  "ice gradient"
+text en "point u:gradient_rock"  "bedrock gradient"
 text en "point u:sampled_MY"  "sampled"
 text en "point u:logger_MY"  "logger"
 text en "point u:waterdrip_MY" "water drips"
 text en "point u:grass_MY" "grass"
+
+text fr "point u:gradient_ice"  "pente (glace)"
+text fr "point u:gradient_rock"  "pente (roche)"
+text fr "point u:sampled_MY"  "échantillon"
+text fr "point u:logger"  "logger"
+text fr "point u:waterdrip_MY" "égouttement"
+text fr "point u:grass" "végétation"
+text fr "point u:terminus" "reprise d'exploration"

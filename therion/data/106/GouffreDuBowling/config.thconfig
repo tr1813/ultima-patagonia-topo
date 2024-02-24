@@ -17,7 +17,7 @@ layout local
   symbol-hide point station
   color map-bg transparent
   cs UTM18S
-  grid-origin 488207 4452069 0 m 
+  grid-origin 488207 4452069 157 m 
 
   fonts-setup 6 8 10 12 14
 endlayout 

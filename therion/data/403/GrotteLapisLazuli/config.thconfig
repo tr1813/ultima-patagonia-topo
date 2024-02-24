@@ -9,15 +9,15 @@ layout local
   map-header 0 0 off
   symbol-show point label
   symbol-show point passage-height
-  symbol-hide point station-name
-  symbol-hide line survey 
-  symbol-hide point station:temporary
+  #symbol-hide point station-name
+  #symbol-hide line survey 
+  #symbol-hide point station:temporary
   symbol-assign line survey UIS
   symbol-assign point station MY
   symbol-color point station [70 0 0]
   symbol-color point u:target [70 0 70]
   symbol-hide point u:target
-  symbol-hide point label
+  #symbol-hide point label
 
   symbol-color line survey:cave [70 0 0]
   symbol-color point passage-height [70 0 70]
