@@ -4,6 +4,10 @@ encoding  utf-8
 
 scrap SiphonAmont-1p -projection plan -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 
+point -648.676 218.189 water-flow -orientation 48.97297027792503
+point 388.181 485.374 water-flow -orientation 48.97297027792503
+point 397.016 490.153 continuation 
+point -638.764 207.918 continuation 
 line wall 
   -626.4273 219.6059
   -626.8497 220.6619 -617.5568 278.7426 -606.3631 289.3028
@@ -313,14 +317,18 @@ point -367.49 674.99 station-name -align tr -scale xs -text 19
 point -328.91 628.93 station-name -align tr -scale xs -text 20
 point -280.87 545.78 station-name -align tr -scale xs -text 21
 point -235.99 549.72 station-name -align tr -scale xs -text 22
-point -228.091 537.092 continuation 
-point -383.868 484.0025 label -align br -scale l -text "Siphon Amont"
+point -383.868 484.002 label -align br -scale l -text "Siphon Amont"
 point -203.791 553.331 station -name 0
 point 330.31 361.257 u:terminus -attr text UP2023 -attr side 11 -orientation 300.0000115675761
 line wall 
   401.7772 435.2538
-  401.7772 435.2538 370.0819 443.8595 367.5287 449.6043
-  366.394 452.1572 363.5939 462.2732 358.996 473.4545
+  401.7772 435.2538 370.0821 443.8596 367.5287 449.6043
+  366.8684 451.0899 384.8259 477.1583 384.8259 477.1583
+endline
+
+line wall 
+  381.111 486.1393
+  381.111 486.1393 359.9385 471.1625 358.996 473.4545
   353.2473 487.4342 344.6882 503.0792 333.0599 507.6906
   308.222 517.5404 191.9932 521.7334 171.5672 521.0951
   151.1413 520.4568 123.6939 496.8393 112.2043 501.9458
@@ -504,6 +512,9 @@ line border -close on -id SiphonAmont-1p_sump_1 -visibility off
   406.3257 392.3767
   414.3814 446.0815
   373.5209 454.4105
+  390.1852 481.0324
+  384.1319 490.5177
+  360.7933 479.3552
   341.5442 517.0813
   189.5616 530.9111
   115.4 524.1691

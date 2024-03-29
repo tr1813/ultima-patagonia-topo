@@ -21,6 +21,9 @@ symbol-colour point station [70 0 0]
 symbol-colour point u:target [70 0 70]
 symbol-hide point u:target
 symbol-assign line wall:blocks MYEE
+symbol-colour point anchor [70 10 0]
+symbol-colour line u:deviation [70 10 0]
+symbol-colour line rope [70 10 0]
 
 symbol-colour line survey:cave [70 0 0]
 symbol-colour point passage-height [70 0 70]

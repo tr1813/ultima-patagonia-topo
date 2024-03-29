@@ -19,7 +19,7 @@ Vous trouverez ici les informations attenantes aux prospections et explorations 
 
 Un résumé des cavités explorées est accessible sur ce lien:
 
-![Synthèse des cavités explorées](../data/table.html)
+[Synthèse des cavités explorées](../data/table.html)
 
 ## Contribuer
 

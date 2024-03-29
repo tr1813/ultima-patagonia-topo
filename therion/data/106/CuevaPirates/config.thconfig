@@ -14,10 +14,11 @@ layout local
   statistics topo-length off
   color map-bg [85 85 85]
   symbol-hide point station-name 
+  symbol-color point station [70 10 0]
   symbol-hide line survey
   #color map-bg transparent
   symbol-assign line wall:clay MYEE
-  symbol-colour point u:terminus [70 10 0]
+
   endlayout
 
   layout plan
@@ -36,7 +37,7 @@ layout local
   \size[18]\bf \the\cavename{} / \cadnum \ss
   \si \par \size[14]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
   \par{ \quad} 
-  \size[12]\par \bf \si Coordonnées du Porche d'entrée / Coordenadas de l'entrada (UTM 18S, WGS 84) :{\bf \par X : 490150  \par  Y : 4452330 \par Z : 10 m}  \ss
+  \size[12]\par \bf \si Coordonnées du Porche d'entrée / Coordenadas del Porche de entrada (UTM 18S, WGS 84) :{\bf \par X : 490150  \par  Y : 4452330 \par Z : 10 m}  \ss
   \par{ \quad} 
    \size[12]\par \bf \si Coordonnées de la Résurgence / Coordenadas del Resurgimiento (UTM 18S, WGS 84) :{\bf \par X :  490177 \par  Y : 4452360 \par Z : 0 m}  \ss
   \par{ \quad} 
@@ -89,18 +90,18 @@ layout extended
   \def\xscale{1}
   \def\yscale{1}
   \def\cadnum{106001}
-  \legendwidth=5cm
+
+  # change this
   \def\customheader{
   \size[18]\bf \the\cavename{} / \cadnum \ss
   \si \par \size[14]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
   \par{ \quad} 
-  
-  \size[12]\par \bf \si Coordonnées de l'entrée Porche (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z : 10 m}  \ss
+  \size[12]\par \bf \si Coordonnées du Porche d'entrée / Coordenadas del Porche de entrada (UTM 18S, WGS 84) :{\bf \par X : 490150  \par  Y : 4452330 \par Z : 10 m}  \ss
   \par{ \quad} 
-   \size[12]\par \bf \si Coordonnées de l'entrée Résurgence (UTM 18S, WGS 84) :{\bf \par X : \par  Y :  \par Z : 0 m}  \ss
+   \size[12]\par \bf \si Coordonnées de la Résurgence / Coordenadas del Resurgimiento (UTM 18S, WGS 84) :{\bf \par X :  490177 \par  Y : 4452360 \par Z : 0 m}  \ss
   \par{ \quad} 
   \par \si Développement / Desarollo :\ss { \the\cavelength}
-  \par \si Dénivellation / Desnivel :\ss { +120/-33 m}
+  \par \si Dénivellation / Desnivel :\ss { \the\cavedepth} (+\the\cavemaxz { m} / \the\caveminz { m})
   \par \si{ Exploration et topographie / Exploracíon y topografía :}\ss{ Centre Terre -  Ultima Patagonia 2008  \& 2023, 
   \par Oxford University Caving Club  - Madre de Dios 2008} 
     \par{ \quad} 
@@ -135,7 +136,7 @@ source
   map mappirates-e -projection extended -title "Système de la grotte des Pirates"
     m-all-e@CuevaPirates.106 [100 0 m] none
     m-all-e@ResurgencePirate.106
-    m-all-e@AvenDesArchesPerdues.106 [1400 0 m] none
+    #m-all-e@AvenDesArchesPerdues.106 [1400 0 m] none
   endmap
 endsource 
 
@@ -146,8 +147,8 @@ select mappirates-e
 
 
 export model -o outputs/CuevaPirates.3d -fmt survex
-#export model -o outputs/CuevaPirates.kml
+export model -o outputs/CuevaPirates.kml
 #export model -o outputs/CuevaPirates.lox
 #export atlas -o outputs/CuevaPirates.pdf -projection plan -layout local-p
-export map -o outputs/CuevaPiratesmap.pdf -projection plan -layout plan 
-export map -o outputs/CuevaPirates-coupe.pdf -projection extended -layout extended
+export map -o outputs/CuevaPiratesPlanReady.pdf -projection plan -layout plan 
+export map -o outputs/CuevaPiratesCoupeReady.pdf -projection extended -layout extended

@@ -29,12 +29,12 @@ line rope
   270.2621 463.1
 endline
 
-point 277.714 824.613 anchor 
-point 257.714 826.613 anchor 
-point 255.714 1109.61 anchor 
-point 234.714 1110.61 anchor 
-point 181.714 1151.61 anchor 
-point 168.714 1155.61 anchor 
+point 277.714 824.613 anchor -scale xs
+point 257.714 826.613 anchor -scale xs
+point 255.714 1109.61 anchor -scale xs
+point 234.714 1110.61 anchor -scale xs
+point 181.714 1151.61 anchor -scale xs
+point 168.714 1155.61 anchor -scale xs
 line rock-edge 
   284.4296 1057.378
   284.4296 1057.378 287.3771 1031.8334 284.4296 1022.4997
