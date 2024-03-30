@@ -396,6 +396,8 @@ endcode
  symbol-colour point pillar [85 45 10]
  symbol-colour point stalagmite [85 45 10]
  symbol-colour point stalactite [85 45 10]
+  symbol-colour point stalagmites [85 45 10]
+ symbol-colour point stalactites [85 45 10]
  symbol-colour point curtain [85 45 10]
  symbol-colour point helictite [85 45 10]
  symbol-colour point soda-straw [85 45 10]

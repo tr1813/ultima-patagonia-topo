@@ -1,5 +1,18 @@
 
 survey Topo2019
+    input Topo2019-e.th2
+    input Topo2019-p.th2
+
+    map m-2019-e -projection extended
+        Topo2019-1e
+    endmap
+
+    map m-2019-p -projection plan
+        Topo2019-1p
+        Topo2019-2p
+        Topo2019-3p
+        Topo2019-4p 
+    endmap
 
   centreline
     
