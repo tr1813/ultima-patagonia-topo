@@ -57,8 +57,8 @@ def getDepthLength(CAD_NUM):
             f.close()
         try : 
             subprocess.check_output("therion temp.thconfig", shell = True)
-            subprocess.check_output("rm temp.thconfig", shell = True)
-            subprocess.check_output("rm temp.3d", shell = True)
+            subprocess.check_output("del temp.thconfig", shell = True)
+            subprocess.check_output("del temp.3d", shell = True)
         
         # open the log and get the depth.
             with open("therion.log", 'r') as f:
