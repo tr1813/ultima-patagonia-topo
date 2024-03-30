@@ -5,7 +5,7 @@ input ../../../layouts/detailed-e.thl
 
 layout local
   copy detailed-p
-  scale 1 500
+  scale 1 1000
   legend off
   map-header 0 0 off
   symbol-show point label
@@ -22,6 +22,7 @@ layout local
   symbol-colour line u:deviation [70 10 0]
   symbol-colour point anchor [70 10 0]
     color map-bg [85 85 85]
+    fonts-setup 8 8 10 11 14
 
 endlayout 
 
@@ -29,8 +30,9 @@ layout plan
     copy local 
     color map-bg [85 85 85]
       symbol-assign line wall:blocks MY
-    rotate 130
+    rotate 120
     symbol-hide line border
+    fonts-setup 8 8 10 11 14
 
   code tex-map
   #\framethickness=0.5mm
@@ -38,27 +40,28 @@ layout plan
   \def\ycenter{0}
   \def\xscale{10}
   \def\yscale{10}
-  \def\cadnum{107000}
+  \def\cadnum{107028}
   \legendwidth=5cm
   # change this
   \def\customheader{
   \size[18]\bf \the\cavename{} / \cadnum \ss
   \si \par \size[14]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
   \par{ \quad} 
-  \size[14]\par \bf \si Coordonnées / Coordenadas (UTM 18S, WGS 84) :{\bf \par X :   \par  Y :   \par Z :  m}  \ss
+  \size[14]\par \bf \si Coordonnées / Coordenadas (UTM 18S, WGS 84) :{\bf \par X : 482804  \par  Y : 4447950  \par Z : 369 m}  \ss
   \par{ \quad} 
   \par \si Développement / Desarollo :\ss { \the\cavelength}
   \par \si Dénivellation / Desnivel :\ss { \the\cavedepth}
   \par \si{ Exploration et topographie / Exploracíon y topografía :}\ss{ Centre Terre -  Ultima Patagonia 2019--2023} 
-  \par \si Relevés topographiques / Mediciones topográficas :\ss{ } 
+  \par \si Relevés topographiques / Mediciones topográficas :\ss{ \the\topoteam}  
   \par \si Report et dessins / Descripción y dibujos :\ss{Laurence Boudoux d'Hautefeuille, Amandine Laborde}}
   
   \def\maplayout{
-  \legendbox{\the\numexpr\xcenter+20\relax}{\the\numexpr\ycenter +6*\yscale\relax}{N}{\customheader}
-  \legendbox{\the\numexpr\xcenter+20\relax}{\the\numexpr\ycenter +5*\yscale\relax}{N}{\scalebar}
-  \legendbox{\the\numexpr\xcenter-3*\xscale\relax}{\the\numexpr\ycenter +1*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/GouffreJackpot-ee.pdf"}}}
+  \legendbox{0}{-100}{NW}{\customheader}
+  \legendbox{50}{\the\numexpr\ycenter +6*\yscale\relax}{N}{\scalebar}
+  \legendbox{50}{\the\numexpr\ycenter +10*\yscale\relax}{N}{\northarrow}
+
+  \legendbox{0}{\the\numexpr\ycenter +3*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/GouffreJackpot-ee.pdf"}}}
   %\legendbox{\the\numexpr\xcenter-17\relax}{\the\numexpr\ycenter -5*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
-   \legendbox{\the\numexpr\xcenter+15\relax}{\the\numexpr\ycenter +60 \relax}{N}{\northarrow}
  }
   endcode
 endlayout
@@ -68,7 +71,7 @@ endlayout
 
 
 #export model -o outputs/GouffreJackpot.3d -fmt survex
-export model -o outputs/GouffreJackpot.lox
-#export map -o outputs/GouffreJackpot-ee.pdf -projection extended -layout local
+#export model -o outputs/GouffreJackpot.lox
+export map -o outputs/GouffreJackpot-ee.pdf -projection extended -layout local
 
 export map -o outputs/GouffreJackpot.pdf -projection plan -layout plan

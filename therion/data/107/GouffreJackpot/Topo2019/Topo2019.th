@@ -1,13 +1,14 @@
 
-survey Topo2019
+survey Topo2019 -title "Gouffre du Jackpot (2019)"
     input Topo2019-e.th2
     input Topo2019-p.th2
 
-    map m-2019-e -projection extended
+    map m-2019-e -projection extended  -title "Gouffre du Jackpot (UP2019)"
         Topo2019-1e
     endmap
 
-    map m-2019-p -projection plan
+    map m-2019-p -projection plan -title "Gouffre du Jackpot (UP2019)"
+        Topo2019-0p
         Topo2019-1p
         Topo2019-2p
         Topo2019-3p
@@ -17,9 +18,10 @@ survey Topo2019
   centreline
     
         explo-date 2019.02.24
-        date 2019.02.24
-
-    
+        date 2019.02.24 
+        units length metres
+        units compass degrees
+        units clino degrees
         data normal from to tape compass clino 
         extend left
         0	1	4.13	310.0	0.0	
