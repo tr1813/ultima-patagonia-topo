@@ -68,7 +68,7 @@ endlayout
 
 
 #export model -o outputs/GouffreJackpot.3d -fmt survex
-#export model -o outputs/GouffreJackpot.lox
+export model -o outputs/GouffreJackpot.lox
 #export map -o outputs/GouffreJackpot-ee.pdf -projection extended -layout local
 
 export map -o outputs/GouffreJackpot.pdf -projection plan -layout plan

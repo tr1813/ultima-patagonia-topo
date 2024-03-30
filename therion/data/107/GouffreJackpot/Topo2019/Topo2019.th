@@ -9,6 +9,9 @@ survey Topo2019
 
     map m-2019-p -projection plan
         Topo2019-1p
+        Topo2019-2p
+        Topo2019-3p
+        Topo2019-4p 
     endmap
 
   centreline
