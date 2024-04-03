@@ -2,4 +2,7 @@
 survey GouffreJackpot -title "<lang:fr>Gouffre du Jackpot<lang:es>Sima del Jackpot" -entrance 0@Topo2019 -attr cad_num 107028
 
 	input Topo2019/Topo2019.th
+	input Topo2023/Topo2023.th 
+
+	equate 29@Topo2023 34C@Topo2019
 endsurvey
