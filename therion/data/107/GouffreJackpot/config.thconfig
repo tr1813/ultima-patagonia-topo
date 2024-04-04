@@ -17,7 +17,7 @@ layout local
   symbol-hide point station
   color map-bg transparent
   cs UTM18S
-  grid-origin 488596 4451785 0 m 
+  grid-origin 488596 4451785 265 m 
   symbol-colour line rope [70 10 0]
   symbol-colour line u:deviation [70 10 0]
   symbol-colour point anchor [70 10 0]
@@ -45,7 +45,7 @@ layout plan
   # change this
   \def\customheader{
   \size[18]\bf \the\cavename{} / \cadnum \ss
-  \si \par \size[14]Estero Egg, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
+  \si \par \size[14]Barros Luco, Bien Nacional Protegido \par Archipiélago Madre de Dios  \ss
   \par{ \quad} 
   \size[14]\par \bf \si Coordonnées / Coordenadas (UTM 18S, WGS 84) :{\bf \par X : 482804  \par  Y : 4447950  \par Z : 369 m}  \ss
   \par{ \quad} 
@@ -56,12 +56,13 @@ layout plan
   \par \si Report et dessins / Descripción y dibujos :\ss{Laurence Boudoux d'Hautefeuille, Amandine Laborde}}
   
   \def\maplayout{
-  \legendbox{0}{-100}{NW}{\customheader}
-  \legendbox{50}{\the\numexpr\ycenter +6*\yscale\relax}{N}{\scalebar}
+  \legendbox{0}{-45}{NW}{\customheader}
+  \legendbox{9}{-45}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+
+  \legendbox{50}{\the\numexpr\ycenter +8*\yscale\relax}{N}{\scalebar}
   \legendbox{50}{\the\numexpr\ycenter +10*\yscale\relax}{N}{\northarrow}
 
-  \legendbox{0}{\the\numexpr\ycenter +3*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/GouffreJackpot-ee.pdf"}}}
-  %\legendbox{\the\numexpr\xcenter-17\relax}{\the\numexpr\ycenter -5*\yscale\relax}{NW} {\hbox{\loadpicture{"../../../logo/CT-LOGO-150x150-BLACK-ALPHA-FR.jpg"}}}
+  \legendbox{0}{\the\numexpr\ycenter +5*\yscale\relax}{NW} {\hbox{\loadpicture{"outputs/GouffreJackpot-ee.pdf"}}}
  }
   endcode
 endlayout
@@ -69,6 +70,8 @@ endlayout
 
 # OUTPUTS
 
+select m-all-e@GouffreJackpot
+select m-all-p@GouffreJackpot
 
 export model -o outputs/GouffreJackpot.3d -fmt survex
 export model -o outputs/GouffreJackpot.lox

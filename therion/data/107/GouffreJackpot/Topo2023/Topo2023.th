@@ -1,7 +1,25 @@
 survey Topo2023
+input Topo2023-p.th2
+map m-2023-p -projection plan
+    Topo2023-1p
+endmap
+
+input Topo2023-e.th2
+map m-2023-e -projection extended
+    Topo2023-1e
+endmap
 
 centreline
 date 2023.03.01
+explo-team "Charlotte Honiat"
+explo-team "Kateryna Medvedieva"
+explo-team "Gwladys Fontanieu"
+explo-team "Christophe Rognon"
+
+team "Charlotte Honiat"
+team "Kateryna Medvedieva"
+team "Gwladys Fontanieu"
+team "Christophe Rognon"
 
 explo-date 2023.03.01
 units length metres
@@ -9,7 +27,7 @@ units compass degrees
 units clino degrees
 data normal from to length compass clino
 # generated from dxf files (back calculation by Tanguy on 03 / 04 / 2024)
-0  1 5.77 326.74 36.6
+0  1 5.77 146.74 36.6
 1  2 3.01 163.32 -1.4
 2  3 3.84 141.46 8.7
 3  4 4.09 164.72 15.1
@@ -25,7 +43,7 @@ data normal from to length compass clino
 13  14 6.49 147.46 21.3
 14  15 4.46 103.19 44.4
 15  16 5.06 16.76 21.7
-16  17 7.1 16.76 -84.0
+16  17 0.05 - DOWN
 15  18 3.42 168.02 19.9
 18  19 13.27 132.81 4.4
 19  20 11.43 153.08 2.6
@@ -38,6 +56,24 @@ data normal from to length compass clino
 26  27 9.9 145.59 15.7
 27  28 11.37 135.94 18.2
 28  29 0.04 - DOWN
+endcentreline
+
+centreline
+date 2023.03.07
+explo-team "Charlotte Honiat"
+explo-team "Amandine Laborde"
+explo-team "Nicolas Fouilland"
+
+team "Charlotte Honiat"
+team "Amandine Laborde"
+team "Nicolas Fouilland"
+
+explo-date 2023.03.07
+units length metres
+units compass degrees
+units clino degrees
+data normal from to length compass clino
+# generated from dxf files (back calculation by Tanguy on 03 / 04 / 2024)
 17  17.1 5.01 343.37 4.4
 17.1  17.2 3.73 318.55 -15.7
 17.2  17.3 2.85 355.24 6.8

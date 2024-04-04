@@ -42,3 +42,7 @@ therion/data/gis/*
 
 therion/outputs
 therion/data/gis/DEM/*
+
+
+*.ai
+*Illustrator/*
