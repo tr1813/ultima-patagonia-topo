@@ -1,5 +1,6 @@
-source outputs/TroisEntreesPlusUne2019.th
+source TroisEntreesPlusUne.th
 
-export model -o outputs/TroisEntreesPlusUne2019.3d
+export model -o outputs/TroisEntreesPlusUne.3d
+export model -o outputs/TroisEntreesPlusUne.lox
 
 export map -o outputs/TroisEntreesPlusUne.pdf -projection plan

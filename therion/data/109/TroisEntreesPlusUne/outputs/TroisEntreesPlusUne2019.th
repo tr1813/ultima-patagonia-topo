@@ -1,14 +1,13 @@
 
 ## a survey compiled from Visual Topo Data using the visual_therion.py script
 
-survey "TroisEntreesPlusUne" -entrance E12
+survey "TroisEntreesPlusUne" -entrance E11
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+        explo-date 2017.01.27
+        date 2017.01.27
 
-        
         data normal from to tape compass clino 
         
         E12	J1	11.35	330.4	7.5	
@@ -56,7 +55,7 @@ survey "TroisEntreesPlusUne" -entrance E12
         B2	B21	7.89	40.0	-41.4	
         B2	B3	2.06	327.4	-6.5	
         B3	B4	8.23	315.5	10.7	
-        B4	J21	1.08	78.4	-18.3	
+        B4	J21a	1.08	78.4	-18.3	
 
         data dimensions station left right up down 
         
@@ -83,7 +82,7 @@ survey "TroisEntreesPlusUne" -entrance E12
         J18	2.6	0.0	2.8	1.0	
         J19	2.3	2.9	1.0	1.7	
         J20	1.7	1.8	1.35	1.0	
-        J21	1.5	0.7	0.4	1.4	
+        J21a	1.5	0.7	0.4	1.4	
         J22	1.7	0.9	3.6	5.5	
         J23	1.0	0.0	3.4	1.6	
         J24	1.25	0.5	2.7	1.3	
@@ -115,9 +114,10 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
-
+        explo-date 2017.01.28
+        date 2017.01.28
+        team "Arnauld Malard"
+        team "Laurence [Boudoux d'Hautefeuille]"
         
         data normal from to tape compass clino 
         
@@ -141,15 +141,16 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
-
+        explo-date 2017.01.31
+        date 2017.01.31
+        team "Stéphane Jaillet"
+        team "Laurent Morel"
         
         data normal from to tape compass clino 
         
         J17	171	9.34	131.0	23.0	
-        171	172	8.08	167.0	29.0	
-        172	173	4.09	64.0	-14.0	
+        171	172a	8.08	167.0	29.0	
+        172a	173	4.09	64.0	-14.0	
         173	174	4.96	141.0	-14.0	
         174	175	8.12	122.0	-17.0	
         175	176	3.55	110.0	-38.0	
@@ -180,11 +181,11 @@ survey "TroisEntreesPlusUne" -entrance E12
         187	172	12.73	59.0	-33.0	
         172	189	5.2	217.0	23.0	
         189	190	5.42	173.0	13.0	
-        190	181	5.8	298.0	-25.0	
-        181	181B	5.92	304.0	-2.0	
+        190	181a	5.8	298.0	-25.0	
+        181a	181B	5.92	304.0	-2.0	
         181B	181C	5.71	268.0	1.0	
         181C	181D	6.6	322.0	-15.0	
-        181C	184	5.1	242.0	35.0	
+        181C	181E	5.1	242.0	35.0	
         190	191	8.7	198.0	29.0	
         191	192	6.25	153.0	8.0	
         192	193	8.88	226.0	18.0	
@@ -233,7 +234,7 @@ survey "TroisEntreesPlusUne" -entrance E12
         181	2.0	0.2	0.4	0.4	
         181B	1.0	1.5	0.4	0.4	
         181C	0.4	0.4	0.2	0.2	
-        181C	2.0	2.0	2.0	1.5	
+        181E	2.0	2.0	2.0	1.5	
         190	2.0	1.0	1.5	0.5	
         191	2.0	2.0	2.0	0.2	
         192	4.0	0.0	1.0	0.2	
@@ -249,8 +250,11 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+        explo-date 2017.01.31
+        date 2017.01.31
+
+        team "Stéphane Jaillet"
+        team "Laurent Morel"
 
         
         data normal from to tape compass clino 
@@ -268,8 +272,8 @@ survey "TroisEntreesPlusUne" -entrance E12
         E10	E12	11.29	231.0	33.0	
         E12	E13	7.69	320.0	6.0	
         E12	E14	12.97	35.0	-16.0	
-        E12	J1	14.0	341.0	-4.0	
-        E12	E16	11.31	192.0	31.0	
+        E11	J1	14.0	341.0	-4.0	
+        E11	E16	11.31	192.0	31.0	
         E16	E17	6.2	197.0	32.0	
         E17	E18	9.15	200.0	35.0	
         E17	E19	11.4	278.0	35.0	
@@ -301,12 +305,12 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+        explo-date 2017.01.31
+        date 2017.01.31
 
         
         data normal from to tape compass clino 
-        
+        flags surface
         E6	601	5.2	135.0	-15.0	
         601	602	6.15	110.0	-20.0	
         602	603	8.95	113.0	-35.0	
@@ -322,7 +326,7 @@ survey "TroisEntreesPlusUne" -entrance E12
         612	vasque	6.05	340.0	-43.0	
         610	seuil	6.1	147.0	3.0	
         seuil	mer	6.0	152.0	-21.0	
-
+        flags not surface
         data dimensions station left right up down 
         
         E6	4.0	0.0	0.0	0.0	
@@ -347,9 +351,11 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
-
+        explo-date 2017.01.31
+        date 2017.01.31
+        team "Bernard Tourte"
+        team "José Mulot"
+        team "Natalia [Morata Calvo]"
         
         data normal from to tape compass clino 
         
@@ -397,8 +403,10 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+        explo-date 2017.02.02
+        date 2017.02.02
+        team "Stéphane Jaillet"
+        team "Laurent Morel"
 
         
         data normal from to tape compass clino 
@@ -507,14 +515,16 @@ survey "TroisEntreesPlusUne" -entrance E12
         254	3.0	4.0	4.0	1.8	
         255	0.0	0.0	0.0	0.0	
 
-        
-
+    
     endcentreline
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+        explo-date 2017.02.02
+        date 2017.02.02
+        team "Bernard Tourte"
+        team "Laurence [Boudoux d'Hautefeuille]"
+
 
         
         data normal from to tape compass clino 
@@ -565,8 +575,10 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+     explo-date 2017.02.02
+        date 2017.02.02
+        team "Bernard Tourte"
+        team "Laurence [Boudoux d'Hautefeuille]"
 
         
         data normal from to tape compass clino 
@@ -632,8 +644,11 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+             explo-date 2017.02.19
+        date 2017.02.19
+        team "Yannick"
+        team "Anthony"
+
 
         
         data normal from to tape compass clino 
@@ -670,8 +685,11 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+        explo-date 2017.02.18
+        date 2017.02.18
+        team "Bernard Tourte"
+        team "Natalia [Morata Calvo]"
+        team "Angel"
 
         
         data normal from to tape compass clino 
@@ -729,8 +747,11 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+        explo-date 2017.02.19
+        date 2017.02.19
+        team "Lionel Ruiz"
+        team "Franck Bréhier"
+
 
         
         data normal from to tape compass clino 
@@ -811,10 +832,11 @@ survey "TroisEntreesPlusUne" -entrance E12
     equate 1000 3000
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+        explo-date 2017.02.19
+        date 2017.02.19
+        team "Yann"
+        team "Anthony"
 
-        
         data normal from to tape compass clino 
         
         4000	4001	12.35	7.0	17.0	
@@ -885,8 +907,10 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+        explo-date 2017.02.20
+        date 2017.02.20
+        team "Yannick"
+        team "Yann"
 
         
         data normal from to tape compass clino 
@@ -903,8 +927,8 @@ survey "TroisEntreesPlusUne" -entrance E12
         7002	7003	6.45	313.0	10.5	
         7003	7004	3.18	17.5	-21.0	
         7002	4021a	5.85	132.0	49.0	
-        4021a	4021	1.84	69.0	8.0	
-        7002	4019	13.68	165.0	34.0	
+        4021a	4021b	1.84	69.0	8.0	
+        7002	4019a	13.68	165.0	34.0	
         4024	AF1	1.12	163.8	-30.2	
         AF1	AF2	1.08	123.7	5.4	
 
@@ -938,8 +962,11 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+        explo-date 2017.02.20
+        date 2017.02.20
+        team "Yannick"
+        team "Gelo"
+        team "Franck Bréhier"
 
         
         data normal from to tape compass clino 
@@ -974,8 +1001,11 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+        explo-date 2017.02.22
+        date 2017.02.22
+        team "Natalia [Morata Calvo]"
+        team "Bernard Tourte"
+        team "Angel"
 
         
         data normal from to tape compass clino 
@@ -1031,8 +1061,10 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+        explo-date 2017.02.22
+        date 2017.02.22
+        team "Lionel Ruiz"
+        team "Denis Morales"
 
         
         data normal from to tape compass clino 
@@ -1066,9 +1098,11 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
-
+        explo-date 2019.02.25
+        date 2019.02.25
+        team "Bernard Tourte"
+        team "Laurence [Boudoux d'Hautefeuille]"
+        team "Lionel Ruiz"    
         
         data normal from to tape compass clino 
         
@@ -1125,8 +1159,11 @@ survey "TroisEntreesPlusUne" -entrance E12
 
     centreline
     
-        explo-date 2000.01.01
-        date 2000.01.01
+        explo-date 2019.02.25
+        date 2019.02.25
+        team "Bernard Tourte"
+        team "Laurence [Boudoux d'Hautefeuille]"
+        team "Lionel Ruiz"    
 
         
         data normal from to tape compass clino 
@@ -1146,6 +1183,31 @@ survey "TroisEntreesPlusUne" -entrance E12
         station LBH5.1 "Bas escalade"
         station LBH5.2 "Jonction topo sur point 4028 de UP2017 (Yann et Antho le 19.02.2017)"
 
+    endcentreline
+
+    centreline
+    explo-date 2023.02.18
+    date 2023.02.18
+
+    units clino grads
+    units compass grads
+    data normal from to tape compass clino left right up down 
+    4030	4031			9.24	306.50	-21.20	4.37	10.50	3.20	0.20
+    4031	4032			5.15	290.00	10.60	2.35	4.42	8.20	2.00
+    4032	4033			5.34	221.80	-5.80	2.90	2.70	6.00	1.20
+    4033	4034			3.67	284.80	-67.50	0.00	8.00	13.60	3.60
+    4034	4035			15.50	64.90	-90.00	3.70	15.50	13.50	15.50
+    4035	4036			8.10	172.80	2.80	4.80	1.00	0.10	30.00
+    4036	4037			10.07	163.50	-0.20	5.00	4.00	3.00	1.80
+    4037	4038			9.53	108.70	-50.00	1.40	3.00	5.00	1.80
+    4038	4039			3.07	85.80	-56.80	3.00	4.50	7.30	0.00
+    4039	4040			8.10	148.10	-3.30	0.00	1.20	6.00	6.00
+    4040	4041			5.10	125.00	26.10	0.90	3.30	0.00	1.20
+    4041	4042			9.65	203.30	16.10	0.00	11.70	4.00	2.00
+    4042	4043			9.95	159.60	-9.80	1.50	0.00	0.50	0.50
+    4043	4044			6.55	153.50	-35.20	0.80	0.20	1.50	2.20
+    4044	4045			13.05	129.10	-17.50	2.00	0.80	3.00	0.00
+    4045	LBH15			3.97	0.01	-38.80	0.00    0.00    0.00    0.00			
     endcentreline
 
 endsurvey
