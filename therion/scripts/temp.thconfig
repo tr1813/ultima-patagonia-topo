@@ -1,0 +1,3 @@
+
+source ../data/403/GrotteLapisLazuli/GrotteLapisLazuli.th
+export model -fmt survex -o temp.3d

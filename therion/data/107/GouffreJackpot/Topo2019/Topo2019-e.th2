@@ -5,18 +5,42 @@ encoding  utf-8
 
 scrap Topo2019-1e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 
-point 2868.5405 126.0746 water-flow -orientation 104.77903406270349
-point 966.5075 513.4446 water-flow -orientation 104.77903406270349
-point 577.1685 715.6446 water-flow -orientation 104.77903406270349 -scale xl
-point 2758.1305 136.9246 water-flow -orientation 104.77903406270349 -scale xl
-point 2682.5005 170.9846 water-flow -orientation 104.77903406270349
-point 1663.642 455.6126 water-flow -orientation 176.5615997483094
-point 1538.4995 476.6096 water-flow -orientation 178.16970770601793
-point 1417.6927 459.6502 water-flow -orientation 106.27398548397363
-point 1363.5066 488.569 water-flow -orientation 190.0335033394118
-point 1256.0527 478.7002 water-flow -orientation 106.27398548397363
-point 1020.6156 575.6623 water-flow -orientation 171.21582191343185
-point 1060.9677 502.7002 water-flow -orientation 106.27398548397363
+point 1333.3921 339.4349 label -align br -scale xl -text "COUPE DÉVELOPPÉE"
+line water-flow 
+  604.2874 701.0429
+  604.2874 701.0429 660.197 663.9629 661.6454 662.8042
+  663.0939 661.6454 752.6072 602.2596 752.6072 602.2596
+  792.0046 581.1124
+endline
+
+point 889.025 574.036 water-flow -orientation 190.0335033394118
+line wall:invisible 
+  3320.2491 -42.0046
+  3337.6304 -41.1356
+  3337.6304 -41.1356 3340.9618 -33.314 3340.9618 -31.4311
+  3340.9618 -29.5481 3339.9479 22.0162 3339.9479 22.0162
+endline
+
+line water-flow 
+  2110.6687 253.564
+  2110.6687 253.564 2131.972 245.7801 2154.5044 241.6833
+  2177.0368 237.5865 2354.0183 230.6219 2357.7054 230.6219
+  2361.3925 230.6219 2375.3216 232.2607 2375.3216 232.2607
+endline
+
+point 2868.54 126.075 water-flow -orientation 104.77903352549492
+point 966.508 513.445 water-flow -orientation 104.77903352549492
+point 577.168 715.645 water-flow -orientation 104.77903352549492 -scale xl
+point 2754.03 137.334 water-flow -orientation 104.77903352549492 -scale xl
+point 2682.5 170.985 water-flow -orientation 104.77903352549492
+point 1663.64 455.613 water-flow -orientation 176.5615997483094
+point 1538.5 476.61 water-flow -orientation 178.16970770601793
+point 1417.69 459.65 water-flow -orientation 106.27398548397363
+point 1228.83 504.511 water-flow -orientation 190.0335033394118
+point 1363.51 488.569 water-flow -orientation 190.0335033394118
+point 1256.05 478.7 water-flow -orientation 106.27398548397363
+point 1020.62 575.662 water-flow -orientation 171.21582191343185
+point 1060.97 502.7 water-flow -orientation 106.27398548397363
 line wall -clip off -outline none
   1222.3349 920.336
   1225.0145 921.712 1230.5185 923.8123 1232.1118 924.0295
@@ -119,7 +143,7 @@ line water-flow
   3113.2679 35.8846 3125.1985 32.3877 3125.1985 32.3877
 endline
 
-point 2054.03 322.713 label -align tr -text "<bf>P28"
+point 2043.3783 319.2307 label -align tr -text "<bf>P28"
 line water-flow 
   1262.6549 938.6264
   1243.1212 932.0042
@@ -128,22 +152,22 @@ line water-flow
 endline
 
 point 1217.91 975.13 entrance -orientation 218.22846135978017 -scale xl
-point 2037.48 261.048 label -align tr -text "Impénétrable"
+point 1982.9927 256.1318 label -align tr -text "Impénétrable"
 point 680.725 689.918 label -align tr -text "<bf>P5"
-point 945.6319 785.5692 label -align tr -text "Suite dans rivière<br>Etroit sur 10 m environ<br>puis arrêt sur P5 à équiper<br>Non topographié"
-point 822.97 871.785 label -align tr -text "Galerie non topographiée"
-point 927.78 906.942 label -align tr -text "Affluent étroit<br>continue"
-point 1030.7258 830.8189 label -align tr -text "Galerie<br>impénétrable"
-point 1218.32 933.113 label -align tr -text Perte
-point 1118.12 987.56 label -align tr -text "Massif calcaire"
-point 1228.6 979.858 label -align tr -scale xl -text "Entrée du Jackpot"
-point 1987.58 378.466 label -align tr -text "Shunt<br>chaos+<br>boue"
+point 907.4664 754.8439 label -align tr -text "Suite dans rivière<br>Etroit sur 10 m environ<br>puis arrêt sur P5 à équiper<br>Non topographié"
+point 813.2115 872.7294 label -align tr -text "Galerie non <br>topographiée"
+point 926.6212 900.2792 label -align tr -text "Affluent étroit<br>continue"
+point 1030.73 830.819 label -align tr -text "Galerie<br>impénétrable"
+point 1235.991 907.6205 label -align tr -text Perte
+point 1086.8339 979.4488 label -align tr -text "Massif calcaire"
+point 1228.6 979.858 label -align tr -scale l -text "Entrée du Jackpot"
+point 1945.3831 345.6916 label -align tr -text "Shunt<br>chaos+<br>boue"
 point 2379.43 278.393 label -align tr -text "<bf>P12"
 point 1069.25 527.757 label -align tr -text "Zone <br>concrétionnée"
-point 1189.85 508.35 label -align tr -text Shunt
-point 1212.03 521.288 label -align tr -text "Affluent <br>impénétrable"
-point 1340.02 493.563 label -align tr -text "Affluent impénétrable"
-point 1271.17 506.964 label -align tr -text "Arrivée en plafond"
+point 1170.1854 463.2853 label -align tr -text Shunt
+point 1179.9174 528.8902 label -align tr -text "Affluent <br>impénétrable"
+point 1334.6942 512.4083 label -align tr -text "Affluent <br>impénétrable"
+point 1263.3861 517.6157 label -align tr -text "Arrivée <br>en plafond"
 point 701.299 676.589 stalagmites -clip on -scale xs
 point 713.096 675.893 stalagmites -clip on -scale xs
 point 730.327 680.521 stalagmites -clip on -scale xs
@@ -151,28 +175,26 @@ point 729.664 686.043 stalactites -clip on -scale xs
 point 718.839 685.911 stalactites -clip on -scale xs
 point 704.834 683.172 stalactites -clip on -scale xs
 point 728.807 658.436 label -align tr -text "Salle concrétionnée"
-point 773.251 676.955 label -align tr -text "A voir"
-point 566.231 612.099 label -align tr -scale xl -text "Salle du Bingo<br>"
+point 767.1058 676.5453 label -align tr -text "A voir"
+point 534.3654 605.7259 label -align tr -scale l -text "Salle du Bingo<br>"
 point 695.445 584.922 label -align tr -text "Rivière"
-point 567.901 682.305 label -align tr -text "Rivière"
-point 515.8994 730.0966 label -align tr -text "Affluent <br>Importante arrivée d'eau"
-point 978.601 542.387 label -align tr -text Shunt
+point 515.899 730.097 label -align tr -text "Affluent <br>Importante arrivée d'eau"
+point 969.6207 538.3314 label -align tr -text Shunt
 point 1005.47 586.74 label -align tr -text Affluent
-point 956.379 552.675 label -align tr -text Affluent
-point 897.531 569.959 label -align tr -text Affluent
-point 830.453 586.831 label -align tr -text "Shunt non topographié"
+point 927.9897 550.3575 label -align tr -text Affluent
+point 882.3225 581.4016 label -align tr -text Affluent
+point 805.5399 596.6804 label -align tr -text "Shunt non topographié"
 point 922.839 488.352 label -align tr -text "Rivière"
 point 1041.77 473.125 label -align tr -text "Rivière"
 point 1501.44 424.977 label -align tr -text "Rivière"
-point 1415.64 512.757 label -align tr -text "Arrivée en plafond"
-point 1523.46 483.951 label -align tr -text "Affluent méandre"
-point 1756.7727 418.8802 water-flow -orientation 106.27398548397363
-point 1653.8634 476.8721 label -align tr -text "Affluent <br>+/- 6m"
+point 1414.8206 518.0828 label -align tr -text "Arrivée <br>en plafond"
+point 1506.6631 487.2284 label -align tr -text "Affluent méandre"
+point 1756.77 418.88 water-flow -orientation 106.27398548397363
+point 1653.86 476.872 label -align tr -text "Affluent <br>+/- 6m"
 point 1620.78 409.751 label -align tr -text "Rivière"
-point 1726.54 398.64 label -align tr -text "Rivière"
-point 1764.2588 446.3526 label -align tr -text "Petite Salle"
+point 1761.391 452.0881 label -align tr -text "Petite Salle"
 point 1827.26 389.998 label -align tr -text "Rivière"
-point 1839.458 463.8812 label -align tr -scale xl -text "Salle du Rugby<br>(avec le ballon!)<br>"
+point 1840.2773 445.036 label -align tr -scale l -text "Salle du Rugby<br>(avec le ballon!)<br>"
 point 2068.72 404.527 label -align tr -text Cairn
 line border -close on -id Topo2019-1e_sand_1 -visibility off
   2247.8054 247.0451
@@ -194,24 +216,17 @@ area sand -clip off
   Topo2019-1e_sand_1
 endarea
 
-point 2489.9 247.211 label -align tr -text "Galerie à gauche<br>A voir"
 point 2426.71 250.915 label -align tr -text Affluent
-point 3079.48 -14.9693 label -align tr -text "Petites cascades"
-point 3206.46 -45.5516 label -align tr -text "Rivière"
-point 3072.07 8.0796 label -align tr -text "Rivière"
-point 2973.7 41.0064 label -align tr -text "Main courante<br>pour traverser <br>le lac"
-point 2900.85 70.6405 label -align tr -text "Dépot de matériel"
-point 2887.27 89.5734 label -align tr -text "Petites cascades"
+point 3089.3123 -27.0436 label -align tr -text "Petites cascades"
+point 2981.2854 23.224 label -align tr -text "Main courante<br>pour traverser <br>le lac"
+point 2868.4854 71.0502 label -align tr -text "Dépot de matériel"
 point 2842.41 107.683 label -align tr -text "Rivière"
-point 2645.67 116.738 label -align tr -text "Arrivée gros affluent (rivière)<br>par grosse galerie<br>A voir"
-point 2664.6 150.9 label -align tr -text "Rivière"
+point 2603.4729 91.7476 label -align tr -text "Arrivée gros affluent (rivière)<br>par grosse galerie<br>A voir"
 point 2570.76 163.659 label -align tr -text "Shunt fossile"
-point 2560.88 306.89 label -align tr -text "Puits<br><bf>P25"
-point 2471.16 197.409 label -align tr -text "Passage très bas"
-point 2342.33 217.165 label -align tr -text "Retour dans rivière<br>sur grès"
-point 2090.03 223.506 label -align tr -text Lac
-point 2282.65 263.14 label -align tr -text "Galerie fossile"
-point 2193.75 219.802 label -align tr -text "Retour <br>sur grès"
+point 2560.4702 311.3965 label -align tr -text "Puits<br><bf>P25"
+point 2336.1848 192.9939 label -align tr -text "Retour dans rivière<br>sur grès"
+point 2078.0706 229.9785 label -align tr -text Lac
+point 2290.4338 252.4883 label -align tr -text "Galerie <br>fossile"
 point 2169.52 320.473 label -align tr -text Affluent
 line wall -subtype invisible
   2269.7574 277.6635
@@ -8974,72 +8989,72 @@ line wall
 endline
 
 line wall 
-  3319.1731 -41.0027
-  3316.6731 -41.0027
-  3312.8398 -41.336
-  3310.0065 -41.0027
-  3305.6731 -39.836
   3299.6731 -36.336
+  3305.6731 -39.836
+  3310.0065 -41.0027
+  3312.8398 -41.336
+  3316.6731 -41.0027
+  3319.1731 -41.0027
 endline
 
 line wall 
-  3261.5594 -19.0007
-  3259.5594 -18.89
-  3258.0034 -19.4447
-  3255.226 -20.0007
-  3251.226 -19.778
-  3246.114 -19.1114
-  3241.0034 -18.1114
-  3235.0034 -17.334
-  3231.4474 -18.002
-  3227.7807 -19.2234
-  3220.5594 -18.6687
-  3216.4474 -17.6687
-  3211.8927 -14.3354
-  3208.3367 -10.5567
-  3206.0034 -8.1127
-  3202.226 -7.3354
-  3199.9474 -8.2234
-  3197.17 -8.0007
-  3195.0034 -6.89
   3191.67 -3.6673
+  3195.0034 -6.89
+  3197.17 -8.0007
+  3199.9474 -8.2234
+  3202.226 -7.3354
+  3206.0034 -8.1127
+  3208.3367 -10.5567
+  3211.8927 -14.3354
+  3216.4474 -17.6687
+  3220.5594 -18.6687
+  3227.7807 -19.2234
+  3231.4474 -18.002
+  3235.0034 -17.334
+  3241.0034 -18.1114
+  3246.114 -19.1114
+  3251.226 -19.778
+  3255.226 -20.0007
+  3258.0034 -19.4447
+  3259.5594 -18.89
+  3261.5594 -19.0007
 endline
 
 line wall 
-  3187.6688 -0.1673
-  3184.8355 0.3327
-  3183.0022 -0.6673
-  3178.3355 -0.5006
-  3171.6688 0.166
-  3166.5022 -0.0006
-  3161.1688 -0.0006
-  3157.5022 0.4994
-  3155.5022 1.4994
-  3155.5022 1.4994 3154.1688 6.166 3154.1688 7.166
-  3154.1688 8.166 3153.8355 11.166 3153.8355 11.166
-  3153.5022 20.3327
-  3152.5022 23.1661
-  3151.3355 24.3327
   3149.0022 24.8327
+  3151.3355 24.3327
+  3152.5022 23.1661
+  3153.5022 20.3327
+  3153.8355 11.166
+  3153.8355 11.166 3154.1688 8.166 3154.1688 7.166
+  3154.1688 6.166 3155.5022 1.4994 3155.5022 1.4994
+  3157.5022 0.4994
+  3161.1688 -0.0006
+  3166.5022 -0.0006
+  3171.6688 0.166
+  3178.3355 -0.5006
+  3183.0022 -0.6673
+  3184.8355 0.3327
+  3187.6688 -0.1673
 endline
 
 line wall 
-  3129.0069 27.6656
-  3125.6735 28.0829
-  3120.2562 28.2496
-  3113.7562 28.4989
-  3109.0896 29.2496
-  3107.6736 30.0829
-  3106.9229 31.6656
-  3106.9229 33.6656
-  3106.4229 36.1656
-  3105.5896 38.6656
-  3105.5896 42.3323
-  3105.7562 48.8323
-  3105.6736 53.1656
-  3105.1736 55.5829
-  3103.6736 56.8323
   3102.0896 56.9163
+  3103.6736 56.8323
+  3105.1736 55.5829
+  3105.6736 53.1656
+  3105.7566 48.8323
+  3105.59 42.3323
+  3105.59 38.6656
+  3106.4233 36.1656
+  3106.9233 33.6656
+  3106.9233 31.6656
+  3107.674 30.0829
+  3109.09 29.2496
+  3113.7566 28.4989
+  3120.2566 28.2496
+  3125.6739 28.0829
+  3129.0073 27.6656
 endline
 
 line wall 
@@ -9353,16 +9368,6 @@ line wall
   921.2813 820.777
   931.92 815.4997
   938.2533 812.749
-endline
-
-line wall 
-  746.4448 695.1944
-  748.5835 694.6664
-endline
-
-line wall 
-  755.1429 717.1103
-  757.3655 716.6663
 endline
 
 line wall 
@@ -9820,13 +9825,13 @@ line wall
 endline
 
 line wall 
-  763.0035 732.1657
-  756.5595 728.2777
-  755.0862 716.9164
-  746.3369 695.3324
-  737.5595 685.111
-  760.6702 679.999
-  760.6702 682.8884
+  763.5671 679.9915
+  760.6702 679.9985
+  737.5595 685.1105
+  746.3369 695.3319
+  755.0862 716.9159
+  756.5595 728.2772
+  763.0035 732.1652
 endline
 
 line wall -subtype invisible
@@ -9857,20 +9862,16 @@ endline
 line wall 
   732.2544 689.4994
   733.1704 686.8327
-  754.5597 741.6661
+  753.9482 743.0552
+  755.114 740.4443
+  788.67 761.7777
+  836.226 788.8884
+  834.67 792.2217
 endline
 
 line wall 
   835.8376 790.1657
   869.6709 822.5831
-endline
-
-line wall 
-  834.67 792.2217
-  836.226 788.8884
-  788.67 761.7777
-  755.114 740.4443
-  753.3366 744.4443
 endline
 
 line wall 

@@ -22,7 +22,7 @@ layout local
   symbol-colour line u:deviation [70 10 0]
   symbol-colour point anchor [70 10 0]
     color map-bg [85 85 85]
-    fonts-setup 8 8 10 11 14
+    fonts-setup 8 8 10 12 24
 
 endlayout 
 
@@ -32,7 +32,7 @@ layout plan
       symbol-assign line wall:blocks MY
     rotate 120
     symbol-hide line border
-    fonts-setup 8 8 10 11 14
+    fonts-setup 8 8 10 12 24
 
   code tex-map
   #\framethickness=0.5mm

@@ -9,14 +9,14 @@ line wall -id alt007
   2227.4166 -1026.2522
 endline
 
-point 2263.8687 -973.0953 stalactite -scale s
-point 2247.1757 -960.1681 stalactite -scale s
-point 2224.4713 -959.3713 stalactite -scale s
-point 2236.0588 -971.1761 stalactite -scale s
-point 2250.2897 -974.4352 stalagmite -scale s
-point 2264.1222 -963.3545 stalagmite -scale s
-point 2242.1061 -962.0872 stalagmite -scale s
-point 2224.2541 -970.5605 stalagmite -scale s
+point 2263.87 -973.095 stalactite -scale s
+point 2247.18 -960.168 stalactite -scale s
+point 2224.47 -959.371 stalactite -scale s
+point 2236.06 -971.176 stalactite -scale s
+point 2250.29 -974.435 stalagmite -scale s
+point 2264.12 -963.355 stalagmite -scale s
+point 2242.11 -962.087 stalagmite -scale s
+point 2224.25 -970.561 stalagmite -scale s
 line floor-step 
   2495.2202 -1027.7375
   2495.1472 -1026.9409 2494.2063 -1025.4201 2495.365 -1023.6095
@@ -87,10 +87,10 @@ line floor-step
   2223.433 -972.4019 2218.2095 -973.3236 2218.2095 -968.3051
 endline
 
-point 2221.7078 -1046.9891 gradient -orientation 357.83040625561796
-point 2193.1795 -1008.1438 gradient -orientation 351.25280533765306
-point 2189.8503 -1048.0888 gradient -orientation 343.9187646655661
-point 2167.1362 -931.1408 gradient -orientation 343.9187646655661
+point 2221.71 -1046.99 gradient -orientation 357.83040625561796
+point 2193.18 -1008.14 gradient -orientation 351.25280533765306
+point 2189.85 -1048.09 gradient -orientation 343.9187646655661
+point 2167.14 -931.141 gradient -orientation 343.9187646655661
 line border -close on -id Topo2019-1p_u_smallblocks_1 -visibility off
   2141.657 -873.117
   2141.657 -871.5238 2146.5817 -857.7636 2146.5817 -857.7636
@@ -228,7 +228,7 @@ line wall
   2106.8336 -761.1674
 endline
 
-point 2219.0996 -990.069 label -align tr -text "<bf>P5"
+point 2226.6316 -997.0215 label -align tr -text "<bf>P5"
 line floor-step 
   2514.8671 -1028.2089
   2516.1508 -1024.8245
@@ -288,12 +288,11 @@ line wall -outline in -subtype presumed
   2482.619 -1017.2283
 endline
 
-point 2155.1536 -784.8738 label -align tr -text Affluent
-point 2182.2288 -855.9889 label -align tr -text Affluent
-point 2198.5256 -888.1261 label -align tr -text "Shunt <br>non topographié"
-point 2456.4751 -985.4478 label -align tr -text "Galerie non topographiée"
-point 2369.6531 -1020.335 label -align tr -text Affluent
-point 2256.0667 -997.3351 label -align tr -text "Salle concrétionnée"
+point 2155.15 -784.874 label -align tr -text Affluent
+point 2182.23 -855.989 label -align tr -text Affluent
+point 2464.6687 -967.4219 label -align tr -text "Galerie <br>non topographiée"
+point 2369.65 -1020.34 label -align tr -text Affluent
+point 2270.9727 -1029.1665 label -align tr -text "Salle <br>concrétionnée"
 line rock-edge 
   2178.8878 -1017.3349
   2180.4638 -1018.6696
@@ -2905,7 +2904,7 @@ point 2109.71 -788.94 station-name -align tr -scale xs -text 42A
 point 2114.97 -805.171 station-name -align tr -scale xs -text 43A
 point 2114.59 -826.438 station-name -align tr -scale xs -text 44A
 point 2126.13 -835.442 station-name -align tr -scale xs -text 45A
-point 2112.0859 -1058.0 label -align tr -scale xl -text "Salle du Bingo"
+point 2114.52 -1020.1519 label -align tr -scale l -text "Salle du Bingo"
 endscrap
 
 
@@ -3252,13 +3251,13 @@ line wall -subtype presumed
   2594.9992 -1091.1665
 endline
 
-point 2620.24 -1257.49 label -align tr -scale xl -text "Entrée du Jackpot"
-point 2631.5427 -1082.5109 label -align tr -text "Deuxième entrée"
-point 2135.0127 -1110.173 label -align tr -text "Affluent<br>Importante arrivée d'eau"
-point 2563.1489 -1040.8011 label -align tr -text "Affluent étroit <br>mais continue"
-point 2477.2227 -1111.33 label -align tr -text "<bf>P8"
-point 2472.137 -1091.8199 label -align tr -text "<bf>P5"
-point 2434.4287 -1058.8162 label -align tr -text "Galerie impénétrable"
+point 2624.3369 -1282.0708 label -align tr -scale l -text "Entrée du Jackpot"
+point 2628.6458 -1078.0748 label -align tr -text "Deuxième <br>entrée"
+point 2135.01 -1110.17 label -align tr -text "Affluent<br>Importante arrivée d'eau"
+point 2569.7039 -1024.4139 label -align tr -text "Affluent étroit <br>mais continue"
+point 2477.22 -1111.33 label -align tr -text "<bf>P8"
+point 2472.14 -1091.82 label -align tr -text "<bf>P5"
+point 2444.741 -1045.2179 label -align tr -text "Galerie <br>impénétrable"
 line rock-edge 
   2523.94 -1113.49
   2523.94 -1113.49 2524.027 -1114.4473 2523.568 -1114.922
@@ -14345,7 +14344,7 @@ endline
 
 point 1989.51 -532.352 continuation 
 point 2097.66 -691.359 continuation 
-point 2016.8 -559.021 continuation 
+point 2017.38 -559.021 narrow-end 
 line wall -subtype invisible
   2014.0194 -564.5361
   2011.8898 -561.7227
@@ -15236,17 +15235,16 @@ line water-flow
   1366.9562 223.869
 endline
 
-point 1529.629 -23.0022 label -align tr -text "Shunt <br>chaos+ boue"
+point 1529.63 -23.0022 label -align tr -text "Shunt <br>chaos+ boue"
 point 1467.07 58.959 label -align tr -text Lac
 point 1537.86 90.957 label -align tr -text "Impénétrable"
-point 1607.3018 -102.67 label -align br -scale xl -text "Salle du Rugby<br>(avec le ballon)"
-point 1629.97 -0.19 label -align tr -text "Rivière disparait"
-point 1914.4872 -287.6041 label -align tr -text "Affluent méandre"
-point 1939.786 -409.3306 label -align tr -text "Arrivée en plafond"
-point 1990.0623 -523.1256 label -align tr -text "Arrivée en plafond"
-point 2037.8003 -563.6994 label -align tr -text "Affluent <br>impénétrable"
-point 2062.3682 -657.6897 label -align tr -text "Zone concrétionnée"
-point 2104.1868 -686.0516 label -align tr -text Affluent
+point 1607.3 -102.67 label -align br -scale l -text "Salle du Rugby<br>(avec le ballon)"
+point 1643.5853 -1.3487 label -align tr -text "Rivière disparait"
+point 1914.49 -287.604 label -align tr -text "Affluent méandre"
+point 1939.79 -409.331 label -align tr -text "Arrivée en plafond"
+point 2010.5051 -513.7818 label -align tr -id center2 -text "Arrivée<br>en plafond"
+point 1995.4504 -718.0938 label -align tr -text "Zone <br>concrétionnée"
+point 2104.19 -686.052 label -align tr -text Affluent
 line rock-edge 
   2107.6845 -748.3871
   2108.0605 -748.7284
@@ -19593,8 +19591,9 @@ endscrap
 
 scrap Topo2019-3p -projection plan -scale [0 0 96 0 0 0 500 0 inch]
 
+point 1520.4229 101.3905 narrow-end 
 point 1380.32 275.998 water-flow -orientation 292.8754930535205
-line chimney -close on
+line chimney -clip off -close on
   1292.4449 390.0721
   1294.0836 391.3011 1294.9968 397.976 1295.2017 399.4099
   1295.4065 400.8438 1290.3879 405.043 1289.7734 404.9406
@@ -19766,14 +19765,15 @@ line floor-step
   1373.9842 230.4285
 endline
 
-point 1394.2897 258.8958 label -align br -text "<bf>P12"
-point 1299.5634 414.9773 label -align tr -text "<bf>P25<bf> en plafond"
-point 1276.6945 330.7648 label -align tr -text Galerie
-point 1364.5444 329.9816 label -align tr -text "Passage très bas"
-point 1392.5703 284.063 label -align br -text "Arrivée en plafond<br>d'un affluent"
-point 1291.069 264.3127 label -align r -text "Retour dans rivière<br>sur grès"
-point 1431.1531 212.9079 label -align br -text "Galerie fossile"
-point 1504.7661 163.2054 label -align br -text "Arrivée d'un affluent<br>par une cheminée"
+point 1394.29 258.896 label -align br -text "<bf>P12"
+point 1301.6118 418.2547 label -align tr -text "<bf>P25<ss> en plafond"
+point 1275.0558 316.8357 label -align tr -text Galerie
+point 1364.54 329.982 label -align tr -text "Passage très bas"
+point 1403.2887 286.9599 label -align br -text "Arrivée en plafond<br>d'un affluent"
+point 1264.1282 248.0902 label -align r -text "Retour dans rivière<br>sur grès"
+point 1416.1063 237.6307 label -align br -text "Galerie fossile"
+point 1820.3829 -894.6578 label -align br -scale xl -text PLAN
+point 1503.6074 179.4279 label -align br -text "Arrivée d'un affluent<br>par une cheminée"
 line rock-edge 
   1301.6675 393.3326
   1301.7195 392.8953
@@ -22681,7 +22681,7 @@ line wall -id alt001
   840.5832 883.0826
 endline
 
-point 1293.6142 338.3164 continuation 
+point 1290.75 332.581 continuation 
 point 1098.85 478.943 water-flow -orientation 314.544574733844
 point 1009.65 593.96 water-flow -orientation 314.544574733844
 point 1172.46 397.888 water-flow -orientation 329.3180486377745 -scale xl
@@ -23062,8 +23062,7 @@ line wall -subtype presumed
   1219.4178 412.9163
 endline
 
-point 1123.5081 381.8374 label -align tr -text "Arrivée d'un gros affluent<br>(rivière) par une grosse <br>galerie <br>A voir"
-point 1231.8228 377.617 label -align tr -text "Shunt fossile"
+point 1075.9852 374.4632 label -align tr -text "Arrivée d'un gros affluent<br>(rivière) par une grosse <br>galerie <br>A voir"
 line rock-edge 
   1253.172 404.7577
   1253.492 404.4537
