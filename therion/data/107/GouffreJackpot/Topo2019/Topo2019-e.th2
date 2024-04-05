@@ -5,7 +5,7 @@ encoding  utf-8
 
 scrap Topo2019-1e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 
-point 1333.3921 339.4349 label -align br -scale xl -text "COUPE DÉVELOPPÉE"
+point 1333.39 339.435 label -align br -scale xl -text "COUPE DÉVELOPPÉE"
 line water-flow 
   604.2874 701.0429
   604.2874 701.0429 660.197 663.9629 661.6454 662.8042
@@ -143,7 +143,7 @@ line water-flow
   3113.2679 35.8846 3125.1985 32.3877 3125.1985 32.3877
 endline
 
-point 2043.3783 319.2307 label -align tr -text "<bf>P28"
+point 2043.38 319.231 label -align tr -text "<bf>P28"
 line water-flow 
   1262.6549 938.6264
   1243.1212 932.0042
@@ -152,22 +152,22 @@ line water-flow
 endline
 
 point 1217.91 975.13 entrance -orientation 218.22846135978017 -scale xl
-point 1982.9927 256.1318 label -align tr -text "Impénétrable"
+point 1982.99 256.132 label -align tr -text "Impénétrable"
 point 680.725 689.918 label -align tr -text "<bf>P5"
-point 907.4664 754.8439 label -align tr -text "Suite dans rivière<br>Etroit sur 10 m environ<br>puis arrêt sur P5 à équiper<br>Non topographié"
-point 813.2115 872.7294 label -align tr -text "Galerie non <br>topographiée"
-point 926.6212 900.2792 label -align tr -text "Affluent étroit<br>continue"
+point 907.466 734.844 label -align tr -text "Suite dans rivière<br>Etroit sur 10 m environ<br>puis arrêt sur P5 à équiper<br>Non topographié"
+point 813.212 872.729 label -align tr -text "Galerie non <br>topographiée"
+point 926.621 900.279 label -align tr -text "Affluent étroit<br>continue"
 point 1030.73 830.819 label -align tr -text "Galerie<br>impénétrable"
-point 1235.991 907.6205 label -align tr -text Perte
-point 1086.8339 979.4488 label -align tr -text "Massif calcaire"
+point 1235.99 907.62 label -align tr -text Perte
+point 1086.83 979.449 label -align tr -text "Massif calcaire"
 point 1228.6 979.858 label -align tr -scale l -text "Entrée du Jackpot"
-point 1945.3831 345.6916 label -align tr -text "Shunt<br>chaos+<br>boue"
+point 1945.38 345.692 label -align tr -text "Shunt<br>chaos+<br>boue"
 point 2379.43 278.393 label -align tr -text "<bf>P12"
 point 1069.25 527.757 label -align tr -text "Zone <br>concrétionnée"
-point 1170.1854 463.2853 label -align tr -text Shunt
-point 1179.9174 528.8902 label -align tr -text "Affluent <br>impénétrable"
-point 1334.6942 512.4083 label -align tr -text "Affluent <br>impénétrable"
-point 1263.3861 517.6157 label -align tr -text "Arrivée <br>en plafond"
+point 1170.19 463.285 label -align tr -text Shunt
+point 1179.92 528.89 label -align tr -text "Affluent <br>impénétrable"
+point 1334.69 512.408 label -align tr -text "Affluent <br>impénétrable"
+point 1263.39 517.616 label -align tr -text "Arrivée <br>en plafond"
 point 701.299 676.589 stalagmites -clip on -scale xs
 point 713.096 675.893 stalagmites -clip on -scale xs
 point 730.327 680.521 stalagmites -clip on -scale xs
@@ -175,41 +175,45 @@ point 729.664 686.043 stalactites -clip on -scale xs
 point 718.839 685.911 stalactites -clip on -scale xs
 point 704.834 683.172 stalactites -clip on -scale xs
 point 728.807 658.436 label -align tr -text "Salle concrétionnée"
-point 767.1058 676.5453 label -align tr -text "A voir"
-point 534.3654 605.7259 label -align tr -scale l -text "Salle du Bingo<br>"
+point 767.106 676.545 label -align tr -text "A voir"
+point 534.365 605.726 label -align tr -scale l -text "Salle du Bingo<br>"
 point 695.445 584.922 label -align tr -text "Rivière"
 point 515.899 730.097 label -align tr -text "Affluent <br>Importante arrivée d'eau"
-point 969.6207 538.3314 label -align tr -text Shunt
+point 969.621 538.331 label -align tr -text Shunt
 point 1005.47 586.74 label -align tr -text Affluent
-point 927.9897 550.3575 label -align tr -text Affluent
-point 882.3225 581.4016 label -align tr -text Affluent
-point 805.5399 596.6804 label -align tr -text "Shunt non topographié"
+point 927.99 550.357 label -align tr -text Affluent
+point 882.322 581.402 label -align tr -text Affluent
+point 805.54 596.68 label -align tr -text "Shunt non topographié"
 point 922.839 488.352 label -align tr -text "Rivière"
 point 1041.77 473.125 label -align tr -text "Rivière"
 point 1501.44 424.977 label -align tr -text "Rivière"
-point 1414.8206 518.0828 label -align tr -text "Arrivée <br>en plafond"
-point 1506.6631 487.2284 label -align tr -text "Affluent méandre"
+point 1414.82 518.083 label -align tr -text "Arrivée <br>en plafond"
+point 1506.66 487.228 label -align tr -text "Affluent méandre"
 point 1756.77 418.88 water-flow -orientation 106.27398548397363
 point 1653.86 476.872 label -align tr -text "Affluent <br>+/- 6m"
 point 1620.78 409.751 label -align tr -text "Rivière"
-point 1761.391 452.0881 label -align tr -text "Petite Salle"
+point 1761.39 452.088 label -align tr -text "Petite Salle"
 point 1827.26 389.998 label -align tr -text "Rivière"
-point 1840.2773 445.036 label -align tr -scale l -text "Salle du Rugby<br>(avec le ballon!)<br>"
+point 1840.28 445.036 label -align tr -scale l -text "Salle du Rugby<br>(avec le ballon!)<br>"
 point 2068.72 404.527 label -align tr -text Cairn
 line border -close on -id Topo2019-1e_sand_1 -visibility off
-  2247.8054 247.0451
-  2259.6271 258.9044
+  2241.7626 245.8161
+  2246.031 251.0792
+  2248.3176 254.1938
+  2252.5093 257.9198
+  2256.0424 258.3923
+  2258.3588 263.093
+  2259.1565 271.1173
   2262.1399 273.251
   2302.4691 297.5309
   2351.8519 283.9506
   2363.3745 274.8971
   2378.6008 239.9177
-  2362.7457 241.2697
-  2362.7457 241.2697 2352.5867 265.084 2342.3035 271.6701
+  2378.6008 239.9177 2367.317 238.5794 2362.7457 241.2697
+  2352.2216 247.4634 2352.5867 265.084 2342.3035 271.6701
   2329.8536 279.6439 2312.6022 283.2597 2298.5198 278.7575
-  2283.698 274.0189 2265.3114 245.9481 2265.3114 245.9481
-  2247.8054 247.0451
-  2247.8054 247.0451
+  2283.698 274.0189 2279.689 251.8998 2265.3114 245.9481
+  2258.0586 242.9457 2241.7626 245.8161 2241.7626 245.8161
 endline
 
 area sand -clip off
@@ -217,16 +221,16 @@ area sand -clip off
 endarea
 
 point 2426.71 250.915 label -align tr -text Affluent
-point 3089.3123 -27.0436 label -align tr -text "Petites cascades"
-point 2981.2854 23.224 label -align tr -text "Main courante<br>pour traverser <br>le lac"
-point 2868.4854 71.0502 label -align tr -text "Dépot de matériel"
+point 3089.31 -27.0436 label -align tr -text "Petites cascades"
+point 2981.29 23.224 label -align tr -text "Main courante<br>pour traverser <br>le lac"
+point 2868.49 71.0502 label -align tr -text "Dépôt de matériel"
 point 2842.41 107.683 label -align tr -text "Rivière"
-point 2603.4729 91.7476 label -align tr -text "Arrivée gros affluent (rivière)<br>par grosse galerie<br>A voir"
+point 2603.47 91.7476 label -align tr -text "Arrivée gros affluent (rivière)<br>par grosse galerie<br>A voir"
 point 2570.76 163.659 label -align tr -text "Shunt fossile"
-point 2560.4702 311.3965 label -align tr -text "Puits<br><bf>P25"
-point 2336.1848 192.9939 label -align tr -text "Retour dans rivière<br>sur grès"
-point 2078.0706 229.9785 label -align tr -text Lac
-point 2290.4338 252.4883 label -align tr -text "Galerie <br>fossile"
+point 2560.47 311.397 label -align tr -text "Puits<br><bf>P25"
+point 2336.18 192.994 label -align tr -text "Retour dans rivière<br>sur grès"
+point 2078.07 229.978 label -align tr -text Lac
+point 2290.43 252.488 label -align tr -text "Galerie <br>fossile"
 point 2169.52 320.473 label -align tr -text Affluent
 line wall -subtype invisible
   2269.7574 277.6635
@@ -258,14 +262,14 @@ line wall -outline in -subtype invisible
   866.616 566.6406
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   861.7666 569.7716
   861.0026 570.4276
   861.1839 571.0582
   861.3026 571.4796
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   868.1457 566.5662
   865.6243 567.7328
   864.0843 569.0089
@@ -280,18 +284,18 @@ line rock-edge -clip off
   854.4537 567.5128
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1900.0624 401.3812
   1900.0624 401.3812 1899.3918 403.7452 1900.0038 405.1106
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   804.3309 571.1643
   804.3309 571.1643 804.0282 571.119 803.8696 571.215
   803.7122 571.311 803.4802 571.387 803.4802 571.387
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   804.6379 570.4917
   804.6125 570.7584
   804.6125 570.7584 804.4432 570.885 804.4059 570.9784
@@ -301,14 +305,14 @@ line rock-edge -clip off
   805.0219 571.8557
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   804.8057 569.5866
   805.1711 569.8119
   805.1711 569.8119 805.5084 570.0093 805.5911 570.0386
   805.6737 570.0666 805.7511 570.0186 805.7511 570.0186
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   804.9304 569.1441
   804.6371 569.1868
   804.6371 569.1868 804.5798 569.1308 804.5131 569.3135
@@ -316,14 +320,14 @@ line rock-edge -clip off
   804.3584 569.7548 804.3198 569.9388 804.3198 569.9388
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   806.0 568.349
   806.372 568.8744
   806.372 568.8744 806.7147 569.3344 806.7974 569.4024
   806.8814 569.4717 806.9574 569.361 806.9574 569.361
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   806.1151 567.3363
   805.8231 567.427
   805.8231 567.427 805.7645 567.299 805.7018 567.7136
@@ -331,19 +335,19 @@ line rock-edge -clip off
   805.5591 568.723 805.5231 569.1416 805.5231 569.1416
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   807.7267 568.9327
   807.6427 568.8034 807.5534 567.8021 807.4987 568.0007
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   901.5087 542.4168
   900.8527 542.7448
   900.9061 543.1035
   900.9407 543.3435
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   906.6887 540.9573
   904.6554 541.4786
   903.3407 542.1106
@@ -358,14 +362,14 @@ line rock-edge -clip off
   896.3514 540.7906
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   802.0431 572.5964
   802.7431 572.1804
   802.7431 572.1804 803.3711 571.7898 803.4897 571.6764
   803.6084 571.5631 803.5791 571.3938 803.5791 571.3938
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   801.3332 572.0022
   801.1786 572.5248
   801.1786 572.5248 801.0319 572.5742 801.3119 572.8422
@@ -373,13 +377,13 @@ line rock-edge -clip off
   801.9986 573.4795 802.3012 573.7048 802.3012 573.7048
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1203.2056 482.1778
   1203.2056 482.1778 1201.0309 482.6218 1200.2843 483.2565
   1199.5389 483.8925 1198.2429 484.6058 1198.2429 484.6058
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1203.0665 479.2932
   1203.7638 480.2492
   1203.7638 480.2492 1203.0345 481.0132 1203.0878 481.4012
@@ -389,14 +393,14 @@ line rock-edge -clip off
   1210.0492 483.1718
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   993.4826 516.7565
   991.6146 517.3112
   991.2759 518.7285
   991.0479 519.6738
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1006.8211 516.6499
   1001.6504 516.4939
   997.9318 517.5112
@@ -411,13 +415,13 @@ line rock-edge -clip off
   984.1051 505.1992
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   759.8884 729.8967
   759.8884 729.8967 759.0857 729.6194 758.7111 729.7274
   758.3351 729.8367 757.7644 729.8607 757.7644 729.8607
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   760.4448 728.6543
   760.4728 729.2037
   760.4728 729.2037 760.0754 729.3717 760.0141 729.545
@@ -427,19 +431,19 @@ line rock-edge -clip off
   761.9194 731.7757
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   593.6103 703.1305
   593.6103 703.1305 594.9516 702.6278 595.7783 703.1611
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   600.3347 701.0555
   599.696 701.5169
   599.776 702.0809
   599.8293 702.4569
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   605.4523 699.1617
   603.4377 699.8244
   602.155 700.7124
@@ -454,14 +458,14 @@ line rock-edge -clip off
   595.003 698.1484
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   589.3511 704.0375
   590.6685 702.9922
   590.6685 702.9922 591.8538 702.0148 592.0845 701.7428
   592.3178 701.4722 592.2965 701.0935 592.2965 701.0935
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   588.2048 702.8177
   587.8355 704.0124
   587.8355 704.0124 587.5648 704.147 588.0115 704.703
@@ -469,13 +473,13 @@ line rock-edge -clip off
   589.1088 706.0257 589.6035 706.479 589.6035 706.479
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   584.5213 706.1216
   584.5213 706.1216 582.9773 707.2989 582.7173 708.1656
   582.4559 709.0336 581.7879 710.1669 581.7879 710.1669
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   582.7994 703.4033
   583.9061 704.078
   583.9061 704.078 583.7301 705.066 583.9941 705.4127
@@ -485,14 +489,14 @@ line rock-edge -clip off
   590.7207 704.6967
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   623.5536 683.2713
   623.6242 685.8833
   623.6242 685.8833 623.7522 688.2513 623.9082 688.7539
   624.0602 689.2579 624.7029 689.4099 624.7029 689.4099
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   626.9589 682.0476
   625.4723 680.8663
   625.4723 680.8663 625.5856 680.373 624.1296 680.809
@@ -500,14 +504,14 @@ line rock-edge -clip off
   620.6203 681.9036 619.2683 682.4676 619.2683 682.4676
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   608.4068 693.0012
   609.1348 692.8306
   609.6535 692.1799
   610.0002 691.7466
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   604.33 692.4156
   605.8527 692.7356
   607.2753 692.4343
@@ -522,14 +526,14 @@ line rock-edge -clip off
   607.8553 698.8863
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   616.3783 692.2162
   613.985 692.3002
   613.985 692.3002 611.8036 692.4216 611.3183 692.5416
   610.833 692.6616 610.581 693.1376 610.581 693.1376
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   616.8963 694.7144
   618.2336 693.6024
   618.2336 693.6024 618.6643 693.6798 618.5216 692.6104
@@ -537,13 +541,13 @@ line rock-edge -clip off
   618.1416 690.0318 617.8643 689.0411 617.8643 689.0411
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   630.8967 678.9676
   630.8967 678.9676 629.5207 680.093 629.3474 680.8516
   629.1714 681.609 628.6274 682.6276 628.6274 682.6276
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   629.0213 676.7937
   630.1373 677.2777
   630.1373 677.2777 630.0547 678.1324 630.336 678.4071
@@ -553,13 +557,13 @@ line rock-edge -clip off
   636.7093 677.2591
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   636.0 674.2215
   636.0 674.2215 634.624 675.3469 634.4506 676.1055
   634.2746 676.8629 633.7306 677.8815 633.7306 677.8815
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   634.1246 672.0476
   635.2406 672.5316
   635.2406 672.5316 635.1579 673.3863 635.4393 673.661
@@ -569,13 +573,13 @@ line rock-edge -clip off
   641.8126 672.513
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   666.7826 654.0654
   666.7826 654.0654 667.0906 652.6588 666.5946 651.9948
   666.1 651.3294 665.7266 650.3214 665.7266 650.3214
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   670.4182 655.0724
   668.9582 655.1111
   668.9582 655.1111 668.2969 654.4084 667.7929 654.2911
@@ -585,13 +589,13 @@ line rock-edge -clip off
   662.8502 657.5951
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   657.8375 661.6662
   657.8375 661.6662 659.7549 660.7835 660.3095 659.9995
   660.8682 659.2195 661.9162 658.2489 661.9162 658.2489
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   658.5618 664.4916
   657.7178 663.6902
   657.7178 663.6902 658.2351 662.7836 658.1004 662.4129
@@ -601,18 +605,18 @@ line rock-edge -clip off
   651.2964 662.0836
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   653.2906 665.4812
   653.2906 665.4812 647.9013 665.8919 645.6946 668.0252
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   699.666 633.9286
   699.666 633.9286 698.8594 634.9632 698.9674 635.7019
   699.074 636.4392 698.95 637.4139 698.95 637.4139
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   697.2967 631.685
   698.4287 632.2223
   698.4287 632.2223 698.6487 633.0583 698.9873 633.3476
@@ -622,19 +626,19 @@ line rock-edge -clip off
   704.1153 632.561
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   693.757 635.2612
   693.757 635.2612 695.0983 634.7586 695.925 635.2906
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   685.1429 643.3861
   684.5669 643.8395
   684.6455 644.4021
   684.6989 644.7795
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   689.7857 641.5553
   687.959 642.1926
   686.803 643.0646
@@ -649,14 +653,14 @@ line rock-edge -clip off
   680.2617 640.4206
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   690.5579 638.0967
   692.0125 637.11
   692.0125 637.11 693.3152 636.1807 693.5619 635.9167
   693.8112 635.6527 693.7579 635.262 693.7579 635.262
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   689.1238 636.7554
   688.7878 637.966
   688.7878 637.966 688.4851 638.086 689.0491 638.6914
@@ -664,13 +668,13 @@ line rock-edge -clip off
   690.4344 640.134 691.0478 640.6394 691.0478 640.6394
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   673.9867 646.5137
   673.9867 646.5137 672.452 647.7044 672.2533 648.6577
   672.0507 649.611 671.4413 650.8284 671.4413 650.8284
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   671.9243 643.3021
   673.1576 644.1594
   673.1576 644.1594 673.0589 645.2554 673.3683 645.6701
@@ -680,14 +684,14 @@ line rock-edge -clip off
   680.4442 645.4541
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   721.7194 617.9877
   722.8074 616.8557
   722.8074 616.8557 723.7754 615.801 723.9434 615.5197
   724.1128 615.2397 723.9954 614.8943 723.9954 614.8943
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   720.223 617.0086
   720.1483 618.1606
   720.1483 618.1606 719.9057 618.3179 720.5083 618.7739
@@ -695,14 +699,14 @@ line rock-edge -clip off
   721.9763 619.8539 722.603 620.2112 722.603 620.2112
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   718.2181 617.698
   718.5795 620.0913
   718.5795 620.0913 718.9595 622.2686 719.1488 622.7446
   719.3368 623.2233 719.8981 623.4353 719.8981 623.4353
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   720.9616 616.9721
   719.5656 615.7227
   719.5656 615.7227 719.6043 615.2841 718.4203 615.5161
@@ -710,14 +714,14 @@ line rock-edge -clip off
   715.571 616.1107 714.4896 616.4721 714.4896 616.4721
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   706.1171 627.3655
   706.7224 627.1015
   707.2317 626.4468
   707.5744 626.0082
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   702.9755 627.4707
   704.1342 627.5201
   705.3102 627.0361
@@ -732,13 +736,13 @@ line rock-edge -clip off
   704.7795 632.6641
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   710.7167 623.7695
   710.7167 623.7695 709.5234 624.7575 709.2861 625.4002
   709.0461 626.0442 708.4927 626.9162 708.4927 626.9162
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   709.6136 622.0006
   710.3842 622.3726
   710.3842 622.3726 710.2002 623.0926 710.3722 623.3166
@@ -748,13 +752,13 @@ line rock-edge -clip off
   715.3242 622.154
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   727.1153 612.2216
   727.1153 612.2216 725.7393 613.347 725.5659 614.1056
   725.3899 614.863 724.8459 615.8816 724.8459 615.8816
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   725.2351 610.0477
   726.3511 610.5317
   726.3511 610.5317 726.2685 611.3864 726.5498 611.6611
@@ -764,13 +768,13 @@ line rock-edge -clip off
   732.9231 610.5131
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   758.5262 594.7463
   758.5262 594.7463 758.8342 593.3396 758.3382 592.6756
   757.8436 592.0103 757.4702 591.0023 757.4702 591.0023
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   762.157 595.7533
   760.697 595.7919
   760.697 595.7919 760.0357 595.0893 759.5317 594.9719
@@ -780,13 +784,13 @@ line rock-edge -clip off
   754.589 598.2759
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   749.4277 600.1722
   749.4277 600.1722 751.353 600.0922 752.0917 599.6468
   752.8317 599.2042 754.0517 598.7695 754.0517 598.7695
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   749.0727 602.6728
   748.6327 601.7554
   748.6327 601.7554 749.3821 601.1981 749.3941 600.8568
@@ -796,18 +800,18 @@ line rock-edge -clip off
   743.7501 598.3648
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   745.2309 602.5604
   745.2309 602.5604 741.5002 603.0924 739.8589 604.367
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   735.2978 607.2613
   735.2978 607.2613 734.3271 607.1466 733.8018 607.528
   733.2751 607.9093 732.5191 608.2306 732.5191 608.2306
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   736.3961 604.7146
   736.2694 605.7092
   736.2694 605.7092 735.7001 606.2079 735.5654 606.5586
@@ -817,13 +821,13 @@ line rock-edge -clip off
   737.4028 609.7146
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   796.9638 574.8491
   796.9638 574.8491 796.1571 575.8838 796.2651 576.6225
   796.3718 577.3598 796.2478 578.3345 796.2478 578.3345
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   794.5992 572.6056
   795.7312 573.1429
   795.7312 573.1429 795.9512 573.9789 796.2899 574.2682
@@ -833,19 +837,19 @@ line rock-edge -clip off
   801.4179 573.4816
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   791.2226 577.4319
   791.5533 577.3079 793.8 577.7266 793.3906 577.4612
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   781.9226 584.3754
   781.2839 584.8368
   781.3639 585.4008
   781.4173 585.7768
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   787.045 582.4811
   785.0304 583.1438
   783.7477 584.0318
@@ -860,14 +864,14 @@ line rock-edge -clip off
   776.5957 581.4678
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   773.5195 587.2109
   774.8368 586.1655
   774.8368 586.1655 776.0221 585.1882 776.2528 584.9162
   776.4861 584.6455 776.4648 584.2669 776.4648 584.2669
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   772.3732 585.9916
   772.0038 587.1862
   772.0038 587.1862 771.7332 587.3209 772.1798 587.8769
@@ -875,14 +879,14 @@ line rock-edge -clip off
   773.2772 589.1996 773.7718 589.6529 773.7718 589.6529
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   787.8556 579.0173
   789.3103 578.0306
   789.3103 578.0306 790.613 577.1013 790.8596 576.8373
   791.109 576.5733 791.0556 576.1826 791.0556 576.1826
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   786.4215 577.6759
   786.0855 578.8866
   786.0855 578.8866 785.7829 579.0066 786.3469 579.6119
@@ -890,13 +894,13 @@ line rock-edge -clip off
   787.7322 581.0546 788.3455 581.5599 788.3455 581.5599
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   766.1092 589.441
   766.1092 589.441 764.5652 590.6183 764.3052 591.485
   764.0439 592.353 763.3759 593.4863 763.3759 593.4863
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   764.3873 586.7228
   765.494 587.3974
   765.494 587.3974 765.318 588.3854 765.582 588.7321
@@ -906,19 +910,19 @@ line rock-edge -clip off
   772.3087 588.0161
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2612.3346 201.2288
   2612.3346 201.2288 2611.6959 199.8101 2610.7386 199.5315
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2595.466 199.2129
   2596.4473 199.5956
   2596.4473 199.5956 2597.358 199.9303 2597.5886 199.9769
   2597.814 200.0263 2598.0486 199.9396 2598.0486 199.9396
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2595.9552 198.4409
   2595.1072 198.5222
   2595.1072 198.5222 2594.9579 198.4249 2594.7139 198.7422
@@ -926,14 +930,14 @@ line rock-edge -clip off
   2594.1472 199.5142 2593.9805 199.8342 2593.9805 199.8342
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2605.5814 199.0827
   2606.5067 199.7974
   2606.5067 199.7974 2607.3814 200.4427 2607.6254 200.5761
   2607.868 200.7121 2608.2107 200.7507 2608.2107 200.7507
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2606.6893 198.7248
   2605.6133 198.4155
   2605.6133 198.4155 2605.4973 198.2795 2604.992 198.4088
@@ -941,14 +945,14 @@ line rock-edge -clip off
   2603.7853 198.7342 2603.3707 198.9008 2603.3707 198.9008
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2600.5021 200.045
   2599.8408 199.297
   2599.8408 199.297 2599.2074 198.6197 2599.0208 198.4757
   2598.8288 198.3304 2598.5154 198.2837 2598.5154 198.2837
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2599.3174 200.3823
   2600.2507 200.725
   2600.2507 200.725 2600.3201 200.8663 2600.8454 200.7476
@@ -956,14 +960,14 @@ line rock-edge -clip off
   2602.1081 200.449 2602.5574 200.2943 2602.5574 200.2943
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2089.7772 260.6205
   2090.5305 259.8885
   2090.5305 259.8885 2091.1999 259.2071 2091.3052 259.0218
   2091.4145 258.8338 2091.2759 258.5791 2091.2759 258.5791
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2088.4592 259.8042
   2088.5325 260.6216
   2088.5325 260.6216 2088.3472 260.7216 2088.8885 261.0962
@@ -971,13 +975,13 @@ line rock-edge -clip off
   2090.1965 261.9776 2090.7432 262.2842 2090.7432 262.2842
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2014.4852 383.915
   2014.4852 383.915 2013.9572 384.4137 2013.9359 384.8324
   2013.9066 385.243 2013.7439 385.771 2013.7439 385.771
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2013.4904 382.4968
   2014.0224 382.8888
   2014.0224 382.8888 2014.0478 383.3608 2014.1984 383.5408
@@ -987,14 +991,14 @@ line rock-edge -clip off
   2016.9504 383.5195
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2018.3341 383.2823
   2019.2968 383.8436
   2019.2968 383.8436 2020.1821 384.3343 2020.4061 384.393
   2020.6314 384.453 2020.8648 384.253 2020.8648 384.253
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2018.8668 381.7795
   2018.0228 382.0542
   2018.0228 382.0542 2017.8708 381.8995 2017.6108 382.5235
@@ -1002,14 +1006,14 @@ line rock-edge -clip off
   2017.0082 384.0329 2016.8215 384.6475 2016.8215 384.6475
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3324.9257 -41.1451
   3329.5603 -40.4477
   3329.5603 -40.4477 3333.8136 -39.8584 3334.9416 -39.7891
   3336.0643 -39.7184 3337.383 -39.9757 3337.383 -39.9757
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3328.4989 -43.0379
   3324.0069 -42.6766
   3324.0069 -42.6766 3323.3042 -42.8713 3321.6176 -42.0779
@@ -1017,13 +1021,13 @@ line rock-edge -clip off
   3317.6762 -40.1686 3316.3749 -39.3926 3316.3749 -39.3926
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3297.721 -34.7074
   3297.721 -34.7074 3297.761 -35.7927 3297.293 -36.4661
   3296.8424 -37.1354 3296.4224 -38.0554 3296.4224 -38.0554
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3300.5557 -33.0403
   3299.4677 -33.351
   3299.4677 -33.351 3298.8837 -34.0844 3298.493 -34.2817
@@ -1033,14 +1037,14 @@ line rock-edge -clip off
   3295.2823 -32.6723
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3292.9199 -33.7033
   3291.8559 -32.894
   3291.8559 -32.894 3290.9026 -32.1367 3290.7266 -31.906
   3290.5533 -31.6873 3290.6306 -31.322 3290.6306 -31.322
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3294.1718 -32.4014
   3294.3304 -33.4814
   3294.3304 -33.4814 3294.5664 -33.5734 3294.0611 -34.1534
@@ -1048,14 +1052,14 @@ line rock-edge -clip off
   3292.8451 -35.5521 3292.3131 -36.0587 3292.3131 -36.0587
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3285.7159 -33.3334
   3287.2092 -32.6907
   3287.2092 -32.6907 3288.5826 -32.1241 3288.9426 -32.0534
   3289.2999 -31.9801 3289.7106 -32.1867 3289.7106 -32.1867
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3283.0635 -31.9306
   3283.0635 -31.9306 3283.4515 -32.5826 3283.6889 -33.1332
   3283.9222 -33.6906 3284.1289 -33.5226 3284.6409 -34.1786
@@ -1063,14 +1067,14 @@ line rock-edge -clip off
   3286.7915 -34.9212
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3282.3201 -28.5964
   3281.8081 -26.8551
   3281.8081 -26.8551 3281.3748 -25.2764 3281.3588 -24.9151
   3281.3455 -24.5498 3281.7068 -24.3258 3281.7068 -24.3258
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3284.6607 -28.7021
   3284.0007 -29.7741
   3284.0007 -29.7741 3284.1794 -30.0875 3283.1927 -30.1008
@@ -1078,14 +1082,14 @@ line rock-edge -clip off
   3280.8234 -30.0875 3279.87 -29.9995 3279.87 -29.9995
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3269.0056 -23.1196
   3269.6989 -24.1303
   3269.6989 -24.1303 3270.3136 -25.0636 3270.4149 -25.3143
   3270.5123 -25.565 3270.3896 -25.8743 3270.3896 -25.8743
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3267.8161 -24.0276
   3267.8734 -22.9903
   3267.8734 -22.9903 3267.7068 -22.8436 3268.1948 -22.4196
@@ -1093,14 +1097,14 @@ line rock-edge -clip off
   3269.3774 -21.425 3269.8708 -21.085 3269.8708 -21.085
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3263.9071 -19.2859
   3263.8991 -21.1579
   3263.8991 -21.1579 3263.8685 -22.8485 3263.7885 -23.2059
   3263.7125 -23.5672 3263.3605 -23.6539 3263.3605 -23.6539
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3262.003 -18.3481
   3262.811 -17.5387
   3262.811 -17.5387 3262.7443 -17.1694 3263.5603 -17.5121
@@ -1108,13 +1112,13 @@ line rock-edge -clip off
   3265.5083 -18.3668 3266.271 -18.7894 3266.271 -18.7894
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3274.9098 -25.4833
   3274.9098 -25.4833 3274.8085 -26.2753 3274.3658 -26.4766
   3273.9352 -26.6846 3273.4952 -27.09 3273.4952 -27.09
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3277.3176 -25.9637
   3276.4349 -25.5464
   3276.4349 -25.5464 3275.8922 -25.7237 3275.5656 -25.6331
@@ -1124,13 +1128,13 @@ line rock-edge -clip off
   3273.2589 -22.6104
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3186.1159 -3.1283
   3186.1159 -3.1283 3184.4893 -2.6123 3183.7959 -1.9296
   3183.0946 -1.2603 3182.0066 -0.4896 3182.0066 -0.4896
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3186.7634 -6.0632
   3187.0008 -5.1005
   3187.0008 -5.1005 3186.2914 -4.3019 3186.2514 -3.9139
@@ -1140,14 +1144,14 @@ line rock-edge -clip off
   3190.6861 -2.3459
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3176.672 0.4994
   3176.432 -1.0753
   3176.432 -1.0753 3176.1787 -2.482 3176.0334 -2.7753
   3175.8867 -3.074 3175.436 -3.122 3175.436 -3.122
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3174.413 1.4266
   3175.5263 2.0386
   3175.5263 2.0386 3175.4876 2.3612 3176.465 2.0132
@@ -1155,13 +1159,13 @@ line rock-edge -clip off
   3178.809 1.1532 3179.7076 0.7399 3179.7076 0.7399
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3140.9492 27.2819
   3140.9492 27.2819 3140.9345 26.3499 3140.4425 25.7472
   3139.9665 25.1472 3139.5092 24.3366 3139.5092 24.3366
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3143.8222 28.8563
   3142.7342 28.5363
   3142.7342 28.5363 3142.1262 27.8763 3141.7315 27.6883
@@ -1171,14 +1175,14 @@ line rock-edge -clip off
   3138.6462 28.9203
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3144.6711 26.1102
   3145.3031 25.0195
   3145.3031 25.0195 3145.8391 24.0288 3145.8831 23.7915
   3145.9298 23.5488 3145.6244 23.3582 3145.6244 23.3582
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3142.5463 25.9002
   3143.0463 26.6869
   3143.0463 26.6869 3142.8517 26.8776 3143.7437 27.0029
@@ -1186,14 +1190,14 @@ line rock-edge -clip off
   3145.8983 27.2842 3146.7663 27.3389 3146.7663 27.3389
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3134.9058 27.967
   3134.0458 29.2657
   3134.0458 29.2657 3133.3138 30.4483 3133.2378 30.743
   3133.1578 31.043 3133.5112 31.3163 3133.5112 31.3163
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3137.4479 28.4666
   3136.9199 27.4226
   3136.9199 27.4226 3137.1679 27.2053 3136.1039 26.9466
@@ -1201,14 +1205,14 @@ line rock-edge -clip off
   3133.5372 26.356 3132.4945 26.1906 3132.4945 26.1906
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3098.1086 57.5893
   3098.666 57.976
   3098.666 57.976 3099.182 58.324 3099.322 58.3907
   3099.4633 58.4547 3099.6486 58.4347 3099.6486 58.4347
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3096.9 57.744
   3096.9 57.744 3097.1146 57.5734 3097.26 57.4187
   3097.4026 57.2614 3097.4746 57.3414 3097.7386 57.1827
@@ -1216,13 +1220,13 @@ line rock-edge -clip off
   3098.6853 57.1894
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3100.1758 57.1791
   3100.1758 57.1791 3100.4918 57.0871 3100.5798 56.9137
   3100.6692 56.7431 3100.8385 56.5551 3100.8385 56.5551
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3100.3149 58.0126
   3100.1723 57.7233
   3100.1723 57.7233 3100.2523 57.5139 3100.2256 57.4059
@@ -1232,14 +1236,14 @@ line rock-edge -clip off
   3099.0896 56.7913
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3101.6627 56.8629
   3102.1067 56.7829
   3102.1067 56.7829 3102.5107 56.7043 3102.5933 56.6643
   3102.6773 56.6283 3102.6933 56.5176 3102.6933 56.5176
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3101.3941 56.3393
   3101.2168 56.6126
   3101.2168 56.6126 3101.1288 56.6059 3101.2274 56.8313
@@ -1247,13 +1251,13 @@ line rock-edge -clip off
   3101.4674 57.3766 3101.5848 57.5859 3101.5848 57.5859
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3096.075 59.1776
   3096.075 59.1776 3095.6163 59.3896 3095.5243 59.6749
   3095.4243 59.9563 3095.2097 60.2829 3095.2097 60.2829
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3095.6817 57.9276
   3095.963 58.3422
   3095.963 58.3422 3095.887 58.6782 3095.955 58.8409
@@ -1263,14 +1267,14 @@ line rock-edge -clip off
   3097.815 59.5316
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3089.2211 62.9811
   3088.7664 62.2838
   3088.7664 62.2838 3088.3317 61.6571 3088.1851 61.5304
   3088.0357 61.4024 3087.7357 61.4011 3087.7357 61.4011
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3087.9405 63.5019
   3088.7738 63.7299
   3088.7738 63.7299 3088.8085 63.8752 3089.3725 63.6726
@@ -1278,14 +1282,14 @@ line rock-edge -clip off
   3090.7125 63.1806 3091.2125 62.9526 3091.2125 62.9526
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3093.0581 60.4786
   3094.0061 60.9159
   3094.0061 60.9159 3094.8795 61.3053 3095.1101 61.3693
   3095.3408 61.4293 3095.6141 61.3453 3095.6141 61.3453
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3091.2787 61.0474
   3091.2787 61.0474 3091.556 60.7287 3091.7294 60.4514
   3091.9027 60.1714 3092.0294 60.2754 3092.3867 59.9607
@@ -1293,14 +1297,14 @@ line rock-edge -clip off
   3093.8134 59.7074
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3099.0535 67.4096
   3103.3882 65.3043
   3103.3882 65.3043 3107.2855 63.3083 3108.1228 62.627
   3108.9788 61.943 3109.2348 60.5936 3109.2348 60.5936
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3097.1877 61.7037
   3095.1957 65.477
   3095.1957 65.477 3094.3384 65.649 3095.0024 68.165
@@ -1308,13 +1312,13 @@ line rock-edge -clip off
   3096.6637 74.161 3097.8357 76.3317 3097.8357 76.3317
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3079.8971 68.7183
   3079.8971 68.7183 3080.3064 68.421 3080.3451 68.1236
   3080.3891 67.8276 3080.5397 67.4676 3080.5397 67.4676
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3080.5206 69.8694
   3080.1659 69.5161
   3080.1659 69.5161 3080.1766 69.1707 3080.0806 69.0254
@@ -1324,14 +1328,14 @@ line rock-edge -clip off
   3078.1246 68.6961
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3086.444 63.8132
   3087.024 64.4132
   3087.024 64.4132 3087.5667 64.9479 3087.7347 65.0425
   3087.9054 65.1399 3088.2014 65.0839 3088.2014 65.0839
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3087.5999 63.0609
   3086.7386 62.9942
   3086.7386 62.9942 3086.6773 62.8582 3086.1626 63.1635
@@ -1339,14 +1343,14 @@ line rock-edge -clip off
   3084.9399 63.8995 3084.4919 64.2169 3084.4919 64.2169
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3083.149 66.9941
   3082.1343 66.7434
   3082.1343 66.7434 3081.2036 66.5261 3080.9636 66.5087
   3080.7276 66.4914 3080.4743 66.6247 3080.4743 66.6247
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3084.7893 66.101
   3084.7893 66.101 3084.5786 66.4663 3084.4586 66.7703
   3084.3426 67.0783 3084.1973 67.0023 3083.9066 67.377
@@ -1354,14 +1358,14 @@ line rock-edge -clip off
   3082.552 67.8943
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3077.2016 69.8382
   3076.5069 70.6208
   3076.5069 70.6208 3075.8962 71.3435 3075.8042 71.5408
   3075.7082 71.7435 3075.8522 72.0062 3075.8522 72.0062
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3078.5013 70.6659
   3078.396 69.8113
   3078.396 69.8113 3078.572 69.7006 3078.0347 69.3206
@@ -1369,14 +1373,14 @@ line rock-edge -clip off
   3076.7387 68.4206 3076.1974 68.1113 3076.1974 68.1113
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3073.6715 70.6659
   3073.0635 71.1219
   3073.0635 71.1219 3072.5195 71.5446 3072.4208 71.6699
   3072.3248 71.7873 3072.3835 71.9699 3072.3835 71.9699
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3074.4629 71.2674
   3074.5215 70.7168
   3074.5215 70.7168 3074.6589 70.6594 3074.3389 70.3888
@@ -1384,14 +1388,14 @@ line rock-edge -clip off
   3073.5642 69.7381 3073.2295 69.5061 3073.2295 69.5061
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3069.7145 71.8511
   3070.8159 72.1618
   3070.8159 72.1618 3071.8265 72.4351 3072.0865 72.4591
   3072.3479 72.4871 3072.6292 72.3511 3072.6292 72.3511
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3067.8919 72.7769
   3067.8919 72.7769 3068.1359 72.3809 3068.2773 72.0516
   3068.4159 71.7183 3068.5706 71.8063 3068.9026 71.4049
@@ -1399,14 +1403,14 @@ line rock-edge -clip off
   3070.4026 70.8823
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3066.2804 73.3837
   3066.0044 74.4157
   3066.0044 74.4157 3065.7764 75.3517 3065.783 75.561
   3065.7924 75.773 3066.063 75.8877 3066.063 75.8877
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3067.9447 73.2208
   3067.418 72.6275
   3067.418 72.6275 3067.5287 72.4355 3066.8234 72.4702
@@ -1414,14 +1418,14 @@ line rock-edge -clip off
   3065.1314 72.5768 3064.4554 72.6688 3064.4554 72.6688
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3057.3784 77.4827
   3057.8211 76.8653
   3057.8211 76.8653 3058.2131 76.2973 3058.2718 76.148
   3058.3291 75.9987 3058.2264 75.824 3058.2264 75.824
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3056.4815 77.0022
   3056.5749 77.6036
   3056.5749 77.6036 3056.4642 77.6956 3056.8349 77.9209
@@ -1429,14 +1433,14 @@ line rock-edge -clip off
   3057.7322 78.4502 3058.1015 78.6262 3058.1015 78.6262
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3053.9299 79.9198
   3053.8286 78.8332
   3053.8286 78.8332 3053.7192 77.8532 3053.6446 77.6465
   3053.5712 77.4412 3053.3152 77.4052 3053.3152 77.4052
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3052.6205 80.5439
   3053.2405 80.9812
   3053.2405 80.9812 3053.2098 81.1959 3053.7765 80.9639
@@ -1444,13 +1448,13 @@ line rock-edge -clip off
   3055.1258 80.3879 3055.6485 80.1092 3055.6485 80.1092
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3061.4793 75.8603
   3061.4793 75.8603 3061.3673 75.4043 3061.0393 75.3069
   3060.7219 75.2043 3060.3873 74.9883 3060.3873 74.9883
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3063.1772 75.4798
   3062.5678 75.7584
   3062.5678 75.7584 3062.1705 75.6784 3061.9412 75.7438
@@ -1460,14 +1464,14 @@ line rock-edge -clip off
   3060.4492 77.5984
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2767.2838 145.7857
   2766.9825 146.527
   2766.9825 146.527 2766.7332 147.2004 2766.7198 147.363
   2766.7052 147.5297 2766.8918 147.6617 2766.8918 147.6617
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2768.5069 145.9514
   2768.1802 145.4074
   2768.1802 145.4074 2768.2789 145.2794 2767.7616 145.1821
@@ -1475,14 +1479,14 @@ line rock-edge -clip off
   2766.5202 144.9674 2766.0216 144.9221 2766.0216 144.9221
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2352.8178 282.1986
   2353.8111 282.54
   2353.8111 282.54 2354.7231 282.836 2354.9578 282.8733
   2355.1938 282.908 2355.4498 282.7986 2355.4498 282.7986
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2353.4504 281.3353
   2352.5424 281.482
   2352.5424 281.482 2352.3904 281.3913 2352.0864 281.7527
@@ -1490,13 +1494,13 @@ line rock-edge -clip off
   2351.3744 282.6233 2351.1451 282.9753 2351.1451 282.9753
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2329.2262 290.5541
   2329.2262 290.5541 2329.6902 290.3555 2329.7929 290.0728
   2329.9009 289.7941 2330.1262 289.4741 2330.1262 289.4741
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2329.5821 291.8148
   2329.3141 291.3934
   2329.3141 291.3934 2329.3995 291.0574 2329.3368 290.8948
@@ -1506,14 +1510,14 @@ line rock-edge -clip off
   2327.4995 290.1454
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2336.6874 287.1989
   2337.1207 287.9109
   2337.1207 287.9109 2337.5354 288.5509 2337.678 288.6802
   2337.8234 288.8122 2338.1247 288.8229 2338.1247 288.8229
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2337.979 286.717
   2337.1537 286.465
   2337.1537 286.465 2337.1217 286.317 2336.5537 286.5023
@@ -1521,14 +1525,14 @@ line rock-edge -clip off
   2335.199 286.9543 2334.6923 287.1663 2334.6923 287.1663
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2332.7731 289.5827
   2331.8384 289.1161
   2331.8384 289.1161 2330.9771 288.7014 2330.7478 288.6307
   2330.5211 288.5627 2330.2451 288.6374 2330.2451 288.6374
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2334.5703 289.0687
   2334.5703 289.0687 2334.2836 289.3793 2334.1009 289.6513
   2333.9209 289.926 2333.7956 289.8193 2333.4303 290.122
@@ -1536,14 +1540,14 @@ line rock-edge -clip off
   2331.9943 290.33
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2321.6769 291.6846
   2322.1102 292.3966
   2322.1102 292.3966 2322.5249 293.0366 2322.6675 293.1659
   2322.8129 293.2979 2323.1142 293.3086 2323.1142 293.3086
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2322.9685 291.2027
   2322.1432 290.9507
   2322.1432 290.9507 2322.1112 290.8027 2321.5432 290.988
@@ -1551,14 +1555,14 @@ line rock-edge -clip off
   2320.1885 291.44 2319.6818 291.652 2319.6818 291.652
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2317.7626 294.0684
   2316.8279 293.6018
   2316.8279 293.6018 2315.9666 293.1871 2315.7373 293.1164
   2315.5106 293.0484 2315.2346 293.1231 2315.2346 293.1231
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2319.5598 293.5544
   2319.5598 293.5544 2319.2731 293.865 2319.0904 294.137
   2318.9104 294.4117 2318.7851 294.305 2318.4198 294.6077
@@ -1566,13 +1570,13 @@ line rock-edge -clip off
   2316.9838 294.8157
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2314.7237 295.1715
   2314.7237 295.1715 2314.2677 295.3861 2314.1757 295.6728
   2314.0783 295.9555 2313.8637 296.2821 2313.8637 296.2821
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2314.3241 293.9238
   2314.6081 294.3358
   2314.6081 294.3358 2314.5335 294.6745 2314.6015 294.8358
@@ -1582,14 +1586,14 @@ line rock-edge -clip off
   2316.4641 295.5171
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2312.5495 295.9983
   2311.8935 296.2209
   2311.8935 296.2209 2311.3002 296.4343 2311.1842 296.5169
   2311.0655 296.5903 2311.0655 296.7636 2311.0655 296.7636
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2313.0713 296.7415
   2313.2753 296.2802
   2313.2753 296.2802 2313.4113 296.2695 2313.2087 295.9468
@@ -1597,14 +1601,14 @@ line rock-edge -clip off
   2312.718 295.1642 2312.4913 294.8708 2312.4913 294.8708
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2308.6952 296.0987
   2309.5632 296.6774
   2309.5632 296.6774 2310.3672 297.1947 2310.5859 297.2934
   2310.8032 297.3894 2311.0872 297.3507 2311.0872 297.3507
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2306.8486 296.386
   2306.8486 296.386 2307.1713 296.1126 2307.3846 295.866
   2307.5993 295.6166 2307.71 295.738 2308.11 295.4793
@@ -1612,13 +1616,13 @@ line rock-edge -clip off
   2309.5606 295.454
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2343.7509 285.3276
   2343.7509 285.3276 2344.2149 285.129 2344.3175 284.8463
   2344.4255 284.5676 2344.6509 284.2476 2344.6509 284.2476
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2344.1068 286.5883
   2343.8388 286.1669
   2343.8388 286.1669 2343.9241 285.8309 2343.8614 285.6682
@@ -1628,14 +1632,14 @@ line rock-edge -clip off
   2342.0241 284.9189
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2345.9543 284.5786
   2346.6183 284.38
   2346.6183 284.38 2347.217 284.1866 2347.3383 284.1093
   2347.4596 284.04 2347.465 283.8666 2347.465 283.8666
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2345.4593 283.8172
   2345.238 284.2705
   2345.238 284.2705 2345.102 284.2758 2345.294 284.6065
@@ -1643,14 +1647,14 @@ line rock-edge -clip off
   2345.7553 285.4052 2345.9713 285.7078 2345.9713 285.7078
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2349.81 284.6166
   2348.962 284.0073
   2348.962 284.0073 2348.178 283.4606 2347.9634 283.3553
   2347.75 283.2513 2347.4647 283.2793 2347.4647 283.2793
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2351.6653 284.3951
   2351.6653 284.3951 2351.3333 284.6565 2351.1106 284.8951
   2350.8879 285.1378 2350.7813 285.0125 2350.3719 285.2551
@@ -1658,14 +1662,14 @@ line rock-edge -clip off
   2348.9213 285.2298
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2374.9441 246.5633
   2375.8934 247.6647
   2375.8934 247.6647 2376.7801 248.646 2377.0428 248.8473
   2377.3054 249.0513 2377.7214 249.0687 2377.7214 249.0687
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2376.4621 245.8273
   2375.2088 245.434
   2375.2088 245.434 2375.0928 245.2087 2374.4088 245.4887
@@ -1673,14 +1677,14 @@ line rock-edge -clip off
   2372.7928 246.1833 2372.2115 246.5087 2372.2115 246.5087
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2360.9974 279.3171
   2360.3787 280.0504
   2360.3787 280.0504 2359.8414 280.7251 2359.7627 280.9051
   2359.6841 281.0891 2359.8361 281.3184 2359.8361 281.3184
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2362.2852 279.9969
   2362.1359 279.2395
   2362.1359 279.2395 2362.2959 279.1329 2361.7612 278.8155
@@ -1688,13 +1692,13 @@ line rock-edge -clip off
   2360.4746 278.0755 2359.9399 277.8235 2359.9399 277.8235
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2372.9594 253.0322
   2372.9594 253.0322 2372.9794 252.1922 2372.5967 251.6669
   2372.2274 251.1429 2371.8807 250.4269 2371.8807 250.4269
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2375.2525 254.3548
   2374.3752 254.1028
   2374.3752 254.1028 2373.8992 253.5281 2373.5845 253.3721
@@ -1704,14 +1708,14 @@ line rock-edge -clip off
   2371.0258 254.5828
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2340.3033 285.6543
   2341.054 286.4423
   2341.054 286.4423 2341.7553 287.1463 2341.9593 287.2943
   2342.1633 287.445 2342.474 287.473 2342.474 287.473
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2341.4036 285.2157
   2340.4542 284.897
   2340.4542 284.897 2340.3596 284.7384 2339.8609 284.901
@@ -1719,14 +1723,14 @@ line rock-edge -clip off
   2338.6862 285.3077 2338.2662 285.5064 2338.2662 285.5064
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2370.2265 256.8876
   2371.1758 257.9889
   2371.1758 257.9889 2372.0625 258.9703 2372.3251 259.1716
   2372.5878 259.3756 2373.0038 259.3929 2373.0038 259.3929
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2371.745 256.1516
   2370.4916 255.7583
   2370.4916 255.7583 2370.3756 255.5329 2369.6916 255.8129
@@ -1734,14 +1738,14 @@ line rock-edge -clip off
   2368.0756 256.5076 2367.4943 256.8329 2367.4943 256.8329
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2356.6122 283.9632
   2357.4042 283.1792
   2357.4042 283.1792 2358.0948 282.4552 2358.2015 282.2539
   2358.3122 282.0486 2358.1535 281.7726 2358.1535 281.7726
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2355.1642 283.062
   2355.2735 283.946
   2355.2735 283.946 2355.0762 284.054 2355.6722 284.4673
@@ -1749,14 +1753,14 @@ line rock-edge -clip off
   2357.1162 285.4406 2357.7175 285.7806 2357.7175 285.7806
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2368.9075 262.5321
   2367.9781 263.1441
   2367.9781 263.1441 2367.1568 263.7187 2367.0128 263.8947
   2366.8648 264.0734 2366.9661 264.3761 2366.9661 264.3761
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2370.1497 263.7
   2370.2177 262.812
   2370.2177 262.812 2370.4324 262.744 2369.9284 262.2227
@@ -1764,14 +1768,14 @@ line rock-edge -clip off
   2368.7044 260.984 2368.1804 260.532 2368.1804 260.532
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2365.2186 268.8434
   2364.4066 267.538
   2364.4066 267.538 2363.6453 266.3594 2363.4106 266.1047
   2363.172 265.854 2362.7453 265.7807 2362.7453 265.7807
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2368.023 269.2623
   2368.023 269.2623 2367.3724 269.5356 2366.895 269.8156
   2366.415 270.105 2366.3457 269.8636 2365.6004 270.0716
@@ -1779,14 +1783,14 @@ line rock-edge -clip off
   2363.5337 269.437
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2361.56 272.9995
   2363.1414 273.5462
   2363.1414 273.5462 2364.5947 274.0275 2364.976 274.0862
   2365.352 274.1488 2365.776 273.9688 2365.776 273.9688
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2358.8045 274.2246
   2358.8045 274.2246 2359.1979 273.6606 2359.4352 273.1846
   2359.6659 272.6993 2359.8885 272.8446 2360.4085 272.2739
@@ -1794,14 +1798,14 @@ line rock-edge -clip off
   2362.6499 271.6233
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2326.3489 291.0581
   2325.4983 291.6701
   2325.4983 291.6701 2324.7476 292.2421 2324.6129 292.4154
   2324.4756 292.5901 2324.5583 292.8781 2324.5583 292.8781
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2327.4358 292.1506
   2327.5198 291.2932
   2327.5198 291.2932 2327.7144 291.2239 2327.2744 290.7346
@@ -1809,14 +1813,14 @@ line rock-edge -clip off
   2326.2051 289.5746 2325.7451 289.1546 2325.7451 289.1546
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2270.7498 278.8602
   2271.0564 277.9468
   2271.0564 277.9468 2271.3218 277.1108 2271.3391 276.8988
   2271.3538 276.6868 2271.1671 276.4655 2271.1671 276.4655
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2272.0088 280.2914
   2272.0088 280.2914 2271.5061 280.1154 2271.0928 280.0194
   2270.6728 279.926 2270.7714 279.794 2270.2554 279.5474
@@ -1824,14 +1828,14 @@ line rock-edge -clip off
   2269.5141 278.3567
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2251.4892 256.915
   2250.6933 257.4497
   2250.6933 257.4497 2249.9919 257.951 2249.8679 258.1057
   2249.7399 258.2603 2249.8253 258.5217 2249.8253 258.5217
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2252.5425 257.92
   2252.6052 257.1507
   2252.6052 257.1507 2252.7892 257.0907 2252.3612 256.6414
@@ -1839,14 +1843,14 @@ line rock-edge -clip off
   2251.3252 255.576 2250.8812 255.188 2250.8812 255.188
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2246.6105 253.8782
   2246.9025 252.8622
   2246.9025 252.8622 2247.1531 251.9329 2247.1678 251.6956
   2247.1798 251.4596 2246.9878 251.2076 2246.9878 251.2076
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2247.8954 255.4997
   2247.8954 255.4997 2247.3887 255.2957 2246.974 255.181
   2246.55 255.069 2246.6474 254.9223 2246.126 254.6383
@@ -1854,14 +1858,14 @@ line rock-edge -clip off
   2245.3634 253.2943
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2296.5793 294.1986
   2296.1873 294.9359
   2296.1873 294.9359 2295.8486 295.6159 2295.8099 295.8066
   2295.7699 295.9986 2295.9153 296.264 2295.9153 296.264
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2297.6522 295.0648
   2297.4495 294.2261
   2297.4495 294.2261 2297.5602 294.1248 2297.1109 293.7288
@@ -1869,14 +1873,14 @@ line rock-edge -clip off
   2296.0309 292.7941 2295.5909 292.4675 2295.5909 292.4675
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2298.6484 296.5839
   2299.1071 296.3412
   2299.1071 296.3412 2299.5124 296.1079 2299.5844 296.0146
   2299.6524 295.9172 2299.5924 295.6826 2299.5924 295.6826
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2297.9697 295.4876
   2297.9617 296.1063
   2297.9617 296.1063 2297.8564 296.1089 2298.1324 296.5889
@@ -1884,13 +1888,13 @@ line rock-edge -clip off
   2298.8044 297.7303 2299.0857 298.1623 2299.0857 298.1623
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2302.0274 297.9329
   2302.0274 297.9329 2302.0541 297.4649 2301.8687 297.1809
   2301.6914 296.8969 2301.5287 296.5049 2301.5287 296.5049
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2303.1665 298.6257
   2302.7265 298.5004
   2302.7265 298.5004 2302.4958 298.191 2302.3385 298.1097
@@ -1900,14 +1904,14 @@ line rock-edge -clip off
   2301.0172 298.831
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2304.2265 296.6651
   2305.1372 296.8491
   2305.1372 296.8491 2305.9705 297.0024 2306.1772 296.9944
   2306.3812 296.9891 2306.5665 296.8051 2306.5665 296.8051
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2303.0312 297.8955
   2303.0312 297.8955 2303.1312 297.4421 2303.1672 297.0728
   2303.1979 296.6995 2303.3379 296.7728 2303.5032 296.2995
@@ -1915,13 +1919,13 @@ line rock-edge -clip off
   2304.5379 295.5448
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2288.108 287.8484
   2288.108 287.8484 2288.5574 288.0764 2288.8414 287.9751
   2289.124 287.8791 2289.5134 287.8484 2289.5134 287.8484
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2287.367 288.9279
   2287.519 288.4519
   2287.519 288.4519 2287.8323 288.3026 2287.9177 288.1506
@@ -1931,14 +1935,14 @@ line rock-edge -clip off
   2287.3163 286.2599
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2290.0937 289.0605
   2290.6724 289.4432
   2290.6724 289.4432 2291.203 289.7792 2291.3404 289.8232
   2291.471 289.8712 2291.6084 289.7645 2291.6084 289.7645
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2290.3618 288.1933
   2289.8725 288.3133
   2289.8725 288.3133 2289.7805 288.2133 2289.6498 288.5707
@@ -1946,14 +1950,14 @@ line rock-edge -clip off
   2289.3312 289.4373 2289.2365 289.796 2289.2365 289.796
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2292.5336 292.0463
   2292.4576 291.005
   2292.4576 291.005 2292.3776 290.053 2292.3203 289.8197
   2292.2629 289.589 2292.0589 289.389 2292.0589 289.389
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2293.8919 293.33
   2293.8919 293.33 2293.4772 293.2433 2293.1519 293.2233
   2292.8226 293.2073 2292.8519 293.046 2292.4039 292.886
@@ -1961,14 +1965,14 @@ line rock-edge -clip off
   2291.4932 291.7567
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2285.518 285.7038
   2284.6954 286.2225
   2284.6954 286.2225 2283.966 286.7051 2283.8407 286.8505
   2283.714 286.9985 2283.826 287.2425 2283.826 287.2425
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2286.7353 286.6272
   2286.7487 285.9045
   2286.7487 285.9045 2286.9407 285.8458 2286.446 285.4325
@@ -1976,14 +1980,14 @@ line rock-edge -clip off
   2285.2447 284.4525 2284.734 284.0965 2284.734 284.0965
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2277.6809 281.7028
   2278.3596 281.5655
   2278.3596 281.5655 2278.9729 281.4295 2279.1036 281.3655
   2279.2342 281.3002 2279.2729 281.1202 2279.2729 281.1202
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2277.3734 280.8275
   2277.0668 281.2862
   2277.0668 281.2862 2276.9361 281.2782 2277.0454 281.6595
@@ -1991,13 +1995,13 @@ line rock-edge -clip off
   2277.3214 282.5688 2277.4588 282.9142 2277.4588 282.9142
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2281.4321 283.1585
   2281.4321 283.1585 2281.6374 282.7852 2281.4774 282.5159
   2281.3281 282.2492 2281.2374 281.8985 2281.2374 281.8985
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2282.8057 283.9551
   2282.2231 283.7631
   2282.2231 283.7631 2282.0071 283.4644 2281.8124 283.3671
@@ -2007,14 +2011,14 @@ line rock-edge -clip off
   2279.6671 283.6804
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2275.1623 279.6298
   2276.3943 279.9658
   2276.3943 279.9658 2277.5263 280.2618 2277.8237 280.2978
   2278.117 280.3352 2278.4477 280.2245 2278.4477 280.2245
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2273.0155 280.3822
   2273.0155 280.3822 2273.3209 280.0355 2273.5062 279.7435
   2273.6862 279.4462 2273.8595 279.5342 2274.2662 279.1848
@@ -2022,13 +2026,13 @@ line rock-edge -clip off
   2276.0115 278.7848
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2235.9996 246.7248
   2235.9996 246.7248 2235.6356 247.0701 2235.6343 247.3714
   2235.6263 247.6688 2235.5249 248.0461 2235.5249 248.0461
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2235.2365 245.6621
   2235.6325 245.9661
   2235.6325 245.9661 2235.6658 246.3087 2235.7805 246.4434
@@ -2038,14 +2042,14 @@ line rock-edge -clip off
   2237.7645 246.5194
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2235.0039 248.6959
   2234.4479 249.1106
   2234.4479 249.1106 2233.9506 249.4959 2233.8626 249.6093
   2233.7732 249.7159 2233.8266 249.8813 2233.8266 249.8813
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2235.7276 249.2431
   2235.781 248.7418
   2235.781 248.7418 2235.9076 248.6898 2235.6143 248.4431
@@ -2053,14 +2057,14 @@ line rock-edge -clip off
   2234.9076 247.8511 2234.601 247.6405 2234.601 247.6405
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2230.8057 249.0841
   2231.811 249.3668
   2231.811 249.3668 2232.7337 249.6134 2232.9724 249.6374
   2233.2097 249.6628 2233.467 249.5388 2233.467 249.5388
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2229.138 249.9253
   2229.138 249.9253 2229.3607 249.5653 2229.49 249.2667
   2229.6153 248.9627 2229.758 249.044 2230.0607 248.6773
@@ -2068,14 +2072,14 @@ line rock-edge -clip off
   2231.4313 248.204
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2228.8109 251.7159
   2228.5589 252.6545
   2228.5589 252.6545 2228.3496 253.5052 2228.3562 253.6959
   2228.3642 253.8905 2228.6122 253.9945 2228.6122 253.9945
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2230.3318 251.5684
   2229.8518 251.0284
   2229.8518 251.0284 2229.9531 250.855 2229.3078 250.8857
@@ -2083,14 +2087,14 @@ line rock-edge -clip off
   2227.7611 250.983 2227.1438 251.0657 2227.1438 251.0657
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2238.9882 246.032
   2239.6708 245.332
   2239.6708 245.332 2240.2735 244.6867 2240.3615 244.5147
   2240.4522 244.3413 2240.2828 244.1387 2240.2828 244.1387
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2237.5675 245.4603
   2237.7288 246.1536
   2237.7288 246.1536 2237.5542 246.2563 2238.1408 246.5243
@@ -2098,13 +2102,13 @@ line rock-edge -clip off
   2239.5542 247.1523 2240.1395 247.363 2240.1395 247.363
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2214.2263 258.7771
   2214.2263 258.7771 2214.4676 259.1304 2214.7783 259.1091
   2215.0836 259.0958 2215.4383 259.1744 2215.4383 259.1744
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2212.8944 259.6428
   2213.3277 259.2108
   2213.3277 259.2108 2213.693 259.1522 2213.8677 259.0228
@@ -2114,14 +2118,14 @@ line rock-edge -clip off
   2214.5584 256.9682
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2220.3761 255.1139
   2220.7815 254.5539
   2220.7815 254.5539 2221.1388 254.0365 2221.1921 253.9019
   2221.2441 253.7645 2221.1508 253.6059 2221.1508 253.6059
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2219.556 254.6791
   2219.6413 255.2244
   2219.6413 255.2244 2219.54 255.3084 2219.8786 255.5138
@@ -2129,14 +2133,14 @@ line rock-edge -clip off
   2220.6973 255.9938 2221.0346 256.1538 2221.0346 256.1538
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2217.2264 257.3315
   2217.1344 256.3435
   2217.1344 256.3435 2217.0331 255.4515 2216.9664 255.2648
   2216.8997 255.0782 2216.6651 255.0448 2216.6651 255.0448
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2216.0273 257.8994
   2216.594 258.2967
   2216.594 258.2967 2216.566 258.4927 2217.0833 258.2807
@@ -2144,13 +2148,13 @@ line rock-edge -clip off
   2218.3153 257.7567 2218.7927 257.5034 2218.7927 257.5034
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2224.1196 253.6399
   2224.1196 253.6399 2224.017 253.2253 2223.717 253.1359
   2223.4263 253.0426 2223.121 252.8453 2223.121 252.8453
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2225.6688 253.294
   2225.1115 253.5474
   2225.1115 253.5474 2224.7502 253.4754 2224.5395 253.5354
@@ -2160,14 +2164,14 @@ line rock-edge -clip off
   2223.1768 255.2194
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2211.7639 260.5398
   2212.1386 259.9731
   2212.1386 259.9731 2212.4706 259.4531 2212.5199 259.3144
   2212.5706 259.1771 2212.4826 259.0158 2212.4826 259.0158
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2211.009 260.1021
   2211.0876 260.6514
   2211.0876 260.6514 2210.9916 260.7368 2211.3036 260.9421
@@ -2175,14 +2179,14 @@ line rock-edge -clip off
   2212.0543 261.4248 2212.3663 261.5848 2212.3663 261.5848
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2143.1691 276.5739
   2143.6171 275.7125
   2143.6171 275.7125 2144.0025 274.9245 2144.0358 274.7365
   2144.0705 274.5459 2143.8518 274.3899 2143.8518 274.3899
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2141.6521 276.3927
   2142.0067 277.0247
   2142.0067 277.0247 2141.8694 277.1714 2142.5067 277.2781
@@ -2190,14 +2194,14 @@ line rock-edge -clip off
   2144.0387 277.5141 2144.6587 277.5647 2144.6587 277.5647
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2167.5948 276.0958
   2168.6054 276.4358
   2168.6054 276.4358 2169.5321 276.7332 2169.7708 276.7638
   2170.0094 276.7945 2170.2641 276.6558 2170.2641 276.6558
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2165.9357 277.0476
   2165.9357 277.0476 2166.1544 276.6342 2166.2797 276.2902
   2166.4024 275.9409 2166.5451 276.0355 2166.8437 275.6169
@@ -2205,14 +2209,14 @@ line rock-edge -clip off
   2168.2091 275.0849
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2138.7652 275.356
   2139.7825 275.776
   2139.7825 275.776 2140.7158 276.144 2140.9545 276.184
   2141.1932 276.2253 2141.4465 276.0627 2141.4465 276.0627
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2139.3657 274.1636
   2138.4577 274.3996
   2138.4577 274.3996 2138.299 274.2796 2138.0057 274.7756
@@ -2220,14 +2224,14 @@ line rock-edge -clip off
   2137.3323 275.9756 2137.119 276.4636 2137.119 276.4636
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2125.5451 270.1468
   2126.3251 270.6388
   2126.3251 270.6388 2127.0411 271.0681 2127.2225 271.1201
   2127.4051 271.1748 2127.5918 271.0028 2127.5918 271.0028
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2125.9643 268.8496
   2125.2843 269.0816
   2125.2843 269.0816 2125.1603 268.9456 2124.955 269.487
@@ -2235,14 +2239,14 @@ line rock-edge -clip off
   2124.479 270.7883 2124.331 271.3203 2124.331 271.3203
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2121.5608 267.1672
   2122.8035 266.8432
   2122.8035 266.8432 2123.9222 266.5259 2124.1462 266.3899
   2124.3742 266.2552 2124.3782 265.9019 2124.3782 265.9019
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2120.6404 265.5049
   2120.2284 266.4169
   2120.2284 266.4169 2119.9738 266.4129 2120.3284 267.1369
@@ -2250,13 +2254,13 @@ line rock-edge -clip off
   2121.1991 268.8609 2121.6004 269.5183 2121.6004 269.5183
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2118.4567 263.5347
   2118.4567 263.5347 2118.0473 263.9601 2118.1247 264.4161
   2118.1913 264.8627 2118.1513 265.4054 2118.1513 265.4054
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2117.1377 261.7327
   2117.7577 262.2913
   2117.7577 262.2913 2117.8924 262.8193 2118.0844 263.054
@@ -2266,14 +2270,14 @@ line rock-edge -clip off
   2120.8137 263.6833
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2115.7693 260.1583
   2116.552 260.6063
   2116.552 260.6063 2117.2706 260.997 2117.4533 261.0436
   2117.636 261.0916 2117.8266 260.9316 2117.8266 260.9316
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2116.2015 258.9592
   2115.5148 259.1778
   2115.5148 259.1778 2115.3921 259.0538 2115.1801 259.5525
@@ -2281,14 +2285,14 @@ line rock-edge -clip off
   2114.6908 260.7578 2114.5388 261.2485 2114.5388 261.2485
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2113.6637 260.4033
   2113.1077 260.818
   2113.1077 260.818 2112.6104 261.2033 2112.5224 261.3167
   2112.4331 261.4233 2112.4864 261.5887 2112.4864 261.5887
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2114.3875 260.9501
   2114.4408 260.4487
   2114.4408 260.4487 2114.5675 260.3967 2114.2742 260.15
@@ -2296,13 +2300,13 @@ line rock-edge -clip off
   2113.5675 259.558 2113.2608 259.3474 2113.2608 259.3474
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2072.9854 368.9148
   2072.9854 368.9148 2072.4574 369.4135 2072.436 369.8321
   2072.4067 370.2428 2072.244 370.7708 2072.244 370.7708
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2071.9906 367.4971
   2072.5226 367.8891
   2072.5226 367.8891 2072.5479 368.3611 2072.6986 368.5411
@@ -2312,14 +2316,14 @@ line rock-edge -clip off
   2075.4506 368.5197
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2068.6677 368.8653
   2069.6304 369.4267
   2069.6304 369.4267 2070.5157 369.9173 2070.7397 369.976
   2070.9651 370.036 2071.1984 369.836 2071.1984 369.836
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1210.8653 481.3602
   1211.1706 481.3322
   1211.1706 481.3322 1211.3306 481.4469 1211.44 481.4576
@@ -2329,14 +2333,14 @@ line rock-edge -clip off
   1212.3546 480.7989
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   890.3813 543.3041
   890.8093 542.9121
   890.8093 542.9121 891.1827 542.5535 891.232 542.4708
   891.2813 542.3868 891.1533 542.3268 891.1533 542.3268
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   889.3597 543.2859
   889.5157 543.5472
   889.5157 543.5472 889.4037 543.6139 889.8264 543.6366
@@ -2344,14 +2348,14 @@ line rock-edge -clip off
   890.8544 543.6806 891.2744 543.6766 891.2744 543.6766
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1063.4846 889.7461
   1063.1259 890.3487
   1063.1259 890.3487 1062.8193 890.8994 1062.7873 891.0261
   1062.7553 891.1514 1062.9046 891.2314 1062.9046 891.2314
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1064.5686 889.6999
   1064.3432 889.3279
   1064.3432 889.3279 1064.4446 889.2226 1063.9939 889.2213
@@ -2359,13 +2363,13 @@ line rock-edge -clip off
   1062.9019 889.2293 1062.4606 889.2653 1062.4606 889.2653
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1064.4295 891.7835
   1064.4295 891.7835 1064.4601 892.3489 1064.6601 892.5542
   1064.8561 892.7595 1065.0481 893.1035 1065.0481 893.1035
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1063.3119 891.76
   1063.7253 891.6
   1063.7253 891.6 1063.9719 891.8013 1064.1266 891.7987
@@ -2375,13 +2379,13 @@ line rock-edge -clip off
   1065.2519 890.0493
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1067.1058 891.1455
   1067.1058 891.1455 1066.9071 891.6349 1067.0418 891.9162
   1067.1765 892.1975 1067.2458 892.5909 1067.2458 892.5909
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1065.8779 890.4912
   1066.4006 890.5925
   1066.4006 890.5925 1066.5926 890.9005 1066.7659 890.9845
@@ -2391,14 +2395,14 @@ line rock-edge -clip off
   1068.7393 890.1699
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1065.7772 895.4813
   1066.8106 894.3067
   1066.8106 894.3067 1067.7172 893.2213 1067.8466 892.9507
   1067.9746 892.68 1067.7172 892.408 1067.7172 892.408
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1063.5805 894.9404
   1063.8392 895.9337
   1063.8392 895.9337 1063.5805 896.1151 1064.4845 896.3871
@@ -2406,13 +2410,13 @@ line rock-edge -clip off
   1066.6818 897.0217 1067.5885 897.2031 1067.5885 897.2031
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1054.0167 863.0269
   1054.0167 863.0269 1053.95 863.2669 1054.0514 863.4042
   1054.1527 863.5402 1054.2274 863.7336 1054.2274 863.7336
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1053.2637 862.7156
   1053.569 862.7623
   1053.569 862.7623 1053.705 862.9116 1053.809 862.9489
@@ -2422,14 +2426,14 @@ line rock-edge -clip off
   1054.8463 862.5383
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1055.4124 863.3723
   1055.6591 863.0003
   1055.6591 863.0003 1055.8778 862.655 1055.9124 862.5697
   1055.9498 862.483 1055.9111 862.399 1055.9111 862.399
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1055.0143 863.209
   1055.0237 863.5197
   1055.0237 863.5197 1054.965 863.5783 1055.1263 863.661
@@ -2437,14 +2441,14 @@ line rock-edge -clip off
   1055.5223 863.8517 1055.6877 863.905 1055.6877 863.905
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1056.247 863.0221
   1056.4003 862.6861
   1056.4003 862.6861 1056.5296 862.3794 1056.539 862.3128
   1056.5483 862.2448 1056.467 862.2141 1056.467 862.2141
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1055.6906 863.1168
   1055.8279 863.2968
   1055.8279 863.2968 1055.7799 863.3581 1056.0133 863.3274
@@ -2452,13 +2456,13 @@ line rock-edge -clip off
   1056.5799 863.2514 1056.8079 863.2034 1056.8079 863.2034
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1057.6811 863.5573
   1057.6811 863.5573 1057.6144 863.7973 1057.7157 863.9346
   1057.8157 864.0693 1057.8917 864.264 1057.8917 864.264
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1056.928 863.2465
   1057.232 863.2931
   1057.232 863.2931 1057.368 863.4425 1057.4734 863.4798
@@ -2468,14 +2472,14 @@ line rock-edge -clip off
   1058.5107 863.0691
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1059.0768 863.9032
   1059.3235 863.5299
   1059.3235 863.5299 1059.5421 863.1859 1059.5768 863.1005
   1059.6141 863.0139 1059.5755 862.9299 1059.5755 862.9299
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1058.6787 863.7399
   1058.688 864.0505
   1058.688 864.0505 1058.6294 864.1092 1058.792 864.1919
@@ -2483,14 +2487,14 @@ line rock-edge -clip off
   1059.1867 864.3825 1059.352 864.4359 1059.352 864.4359
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1053.1534 862.3034
   1052.7867 862.5754
   1052.7867 862.5754 1052.456 862.8287 1052.392 862.8981
   1052.3254 862.9674 1052.332 863.0581 1052.332 863.0581
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1053.4699 862.5849
   1053.5739 862.2903
   1053.5739 862.2903 1053.6499 862.2543 1053.5272 862.1236
@@ -2498,7 +2502,7 @@ line rock-edge -clip off
   1053.2246 861.8183 1053.0886 861.7156 1053.0886 861.7156
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1125.1314 942.5142
   1125.2421 942.7582
   1125.2421 942.7582 1125.1741 942.8195 1125.4408 942.8382
@@ -2548,7 +2552,7 @@ area water
   Topo2019-1e_water_2
 endarea
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   868.1457 566.5662
   868.0137 563.8915
   868.0137 563.8915 867.227 563.3635 865.1643 563.9142
@@ -2565,7 +2569,7 @@ line rock-edge -clip off -close on
   868.1457 566.5662
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1902.1675 403.1545
   1902.5889 404.0158 1901.8209 407.3572 1900.6582 407.5825
   1899.8835 407.7332 1900.0102 405.9252 1899.1955 405.4492
@@ -2574,7 +2578,7 @@ line rock-edge -clip off
   1901.0115 401.1998 1901.7409 402.2891 1902.1675 403.1545
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   805.0264 571.2416
   805.2797 571.7176
   804.8784 571.9203
@@ -2591,7 +2595,7 @@ line rock-edge -clip off -close on
   805.0264 571.2416
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   804.8297 570.6416
   804.8297 570.6416 804.4017 570.3096 804.3351 570.1483
   804.2711 569.9896 804.4964 569.7869 804.4964 569.7869
@@ -2606,7 +2610,7 @@ line rock-edge -clip off
   805.0217 570.7003 804.8297 570.6416 804.8297 570.6416
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   806.0528 570.768
   806.0528 570.768 805.6154 569.996 805.5461 569.6253
   805.4768 569.256 805.6981 568.8 805.6981 568.8
@@ -2621,7 +2625,7 @@ line rock-edge -clip off
   806.2474 570.9093 806.0528 570.768 806.0528 570.768
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   808.2687 568.2822
   808.3487 568.0209 807.926 567.2569 807.5593 567.3129
   807.314 567.3502 807.454 567.7942 807.2313 567.9929
@@ -2630,7 +2634,7 @@ line rock-edge -clip off
   808.0273 568.8876 808.1847 568.5396 808.2687 568.2822
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   906.6887 540.9573
   906.9394 539.4613
   906.9394 539.4613 906.4221 539.128 904.8101 539.3293
@@ -2647,7 +2651,7 @@ line rock-edge -clip off -close on
   906.6887 540.9573
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   803.9904 573.4612
   803.9904 573.4612 803.0437 573.8879 802.6984 573.8585
   802.3517 573.8305 802.1624 573.2799 802.1624 573.2799
@@ -2662,7 +2666,7 @@ line rock-edge -clip off
   804.2517 573.1932 803.9904 573.4612 803.9904 573.4612
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1208.0786 481.0822
   1211.312 482.2009
   1209.288 483.6782
@@ -2679,7 +2683,7 @@ line rock-edge -clip off -close on
   1208.0786 481.0822
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1006.8211 516.6499
   1009.2758 511.2432
   1009.2758 511.2432 1008.5504 509.4392 1004.7211 508.5178
@@ -2696,7 +2700,7 @@ line rock-edge -clip off -close on
   1006.8211 516.6499
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   761.7062 730.4742
   762.5315 731.6355
   761.5649 731.8262
@@ -2713,7 +2717,7 @@ line rock-edge -clip off -close on
   761.7062 730.4742
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   594.7566 704.9114
   595.2872 705.2781 597.1912 704.7114 597.2579 703.7594
   597.3086 703.118 596.2579 703.186 595.9379 702.5007
@@ -2722,7 +2726,7 @@ line rock-edge -clip off
   593.5539 703.9154 594.2326 704.534 594.7566 704.9114
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   605.4523 699.1617
   605.5963 696.8524
   605.5963 696.8524 605.0497 696.295 603.4377 696.491
@@ -2739,7 +2743,7 @@ line rock-edge -clip off -close on
   605.4523 699.1617
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   592.6462 705.6656
   592.6462 705.6656 590.8915 706.7736 590.2849 706.763
   589.6769 706.7536 589.4435 705.5496 589.4435 705.5496
@@ -2754,7 +2758,7 @@ line rock-edge -clip off
   593.1609 705.023 592.6462 705.6656 592.6462 705.6656
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   587.9266 703.3812
   591.2173 703.3306
   590.3746 705.4452
@@ -2771,7 +2775,7 @@ line rock-edge -clip off -close on
   587.9266 703.3812
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   616.8292 687.708
   616.8292 687.708 617.1972 684.3679 617.9625 683.4053
   618.7292 682.4439 620.9825 682.6639 620.9825 682.6639
@@ -2786,7 +2790,7 @@ line rock-edge -clip off
   617.2412 688.8453 616.8292 687.708 616.8292 687.708
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   604.33 692.4156
   602.0007 694.8396
   602.0007 694.8396 601.6913 695.7236 602.5807 696.3396
@@ -2803,7 +2807,7 @@ line rock-edge -clip off -close on
   604.33 692.4156
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   613.5149 687.303
   613.5149 687.303 616.4936 687.535 617.2362 688.0896
   617.9776 688.6443 617.3816 690.311 617.3816 690.311
@@ -2818,7 +2822,7 @@ line rock-edge -clip off
   612.4056 687.6203 613.5149 687.303 613.5149 687.303
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   633.9184 676.3657
   637.061 676.0577
   636.437 677.9243
@@ -2835,7 +2839,7 @@ line rock-edge -clip off -close on
   633.9184 676.3657
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   639.0264 671.6191
   642.1691 671.3111
   641.5451 673.1778
@@ -2852,7 +2856,7 @@ line rock-edge -clip off -close on
   639.0264 671.6191
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   666.2214 657.2535
   663.5575 658.6789
   662.5228 656.9682
@@ -2869,7 +2873,7 @@ line rock-edge -clip off -close on
   666.2214 657.2535
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   653.5592 663.7483
   650.3352 663.3017
   651.8966 661.427
@@ -2886,7 +2890,7 @@ line rock-edge -clip off -close on
   653.5592 663.7483
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   651.6071 670.7457
   650.2458 672.1617 642.7938 673.083 641.2858 671.0297
   640.2858 669.6657 644.0551 668.6217 644.2791 666.731
@@ -2895,7 +2899,7 @@ line rock-edge -clip off
   654.5125 667.1537 652.9725 669.3177 651.6071 670.7457
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   701.3975 631.5269
   704.0162 631.3949
   704.1135 633.2029
@@ -2912,7 +2916,7 @@ line rock-edge -clip off -close on
   701.3975 631.5269
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   694.9033 637.0426
   695.4327 637.4093 697.338 636.8413 697.4047 635.8906
   697.4553 635.2493 696.4047 635.316 696.0847 634.632
@@ -2921,7 +2925,7 @@ line rock-edge -clip off
   693.702 636.0466 694.3793 636.6666 694.9033 637.0426
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   689.7857 641.5553
   689.8897 639.2499
   689.8897 639.2499 689.3857 638.6886 687.9203 638.8646
@@ -2938,7 +2942,7 @@ line rock-edge -clip off -close on
   689.7857 641.5553
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   694.5292 640.0107
   694.5292 640.0107 692.5705 641.0334 691.8612 640.98
   691.1532 640.9267 690.7825 639.6667 690.7825 639.6667
@@ -2953,7 +2957,7 @@ line rock-edge -clip off
   695.0785 639.3814 694.5292 640.0107 694.5292 640.0107
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   677.3585 643.7272
   680.8465 643.9592
   680.1371 646.2672
@@ -2970,7 +2974,7 @@ line rock-edge -clip off -close on
   677.3585 643.7272
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   725.5229 619.0701
   725.5229 619.0701 724.0002 620.3167 723.3736 620.3847
   722.7456 620.4541 722.1949 619.3741 722.1949 619.3741
@@ -2985,7 +2989,7 @@ line rock-edge -clip off
   725.8869 618.4101 725.5229 619.0701 725.5229 619.0701
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   713.0285 620.9759
   713.0285 620.9759 712.9565 617.9692 713.4952 617.1772
   714.0339 616.3879 715.9712 616.8479 715.9712 616.8479
@@ -3000,7 +3004,7 @@ line rock-edge -clip off
   713.5085 622.0612 713.0285 620.9759 713.0285 620.9759
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   702.9755 627.4707
   700.7555 629.9747
   700.7555 629.9747 700.3728 630.8067 700.9862 631.2161
@@ -3017,7 +3021,7 @@ line rock-edge -clip off -close on
   702.9755 627.4707
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   713.3547 621.488
   715.7614 621.1334
   715.0267 622.7227
@@ -3034,7 +3038,7 @@ line rock-edge -clip off -close on
   713.3547 621.488
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   730.1369 609.6192
   733.2796 609.3112
   732.6556 611.1779
@@ -3051,7 +3055,7 @@ line rock-edge -clip off -close on
   730.1369 609.6192
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   757.9651 597.9344
   755.3011 599.3597
   754.2664 597.649
@@ -3068,7 +3072,7 @@ line rock-edge -clip off -close on
   757.9651 597.9344
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   745.0918 600.4388
   742.5171 599.0255
   744.4811 598.0348
@@ -3085,7 +3089,7 @@ line rock-edge -clip off -close on
   745.0918 600.4388
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   743.7728 605.4909
   742.7542 606.3309 737.5768 607.2576 736.6568 606.2389
   736.0475 605.5629 738.7008 604.7829 738.9648 603.7523
@@ -3094,7 +3098,7 @@ line rock-edge -clip off
   745.9782 603.3896 744.7942 604.6429 743.7728 605.4909
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   737.5184 607.4338
   738.2544 609.1578
   736.9278 609.9804
@@ -3111,7 +3115,7 @@ line rock-edge -clip off -close on
   737.5184 607.4338
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   798.6953 572.4475
   801.3139 572.3155
   801.4113 574.1235
@@ -3128,7 +3132,7 @@ line rock-edge -clip off -close on
   798.6953 572.4475
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   792.3689 579.2133
   792.8983 579.58 794.8036 579.012 794.8703 578.0613
   794.9209 577.42 793.8703 577.4866 793.5503 576.8026
@@ -3137,7 +3141,7 @@ line rock-edge -clip off
   791.1676 578.2173 791.8449 578.8373 792.3689 579.2133
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   787.045 582.4811
   787.189 580.1718
   787.189 580.1718 786.6424 579.6145 785.0304 579.8105
@@ -3154,7 +3158,7 @@ line rock-edge -clip off -close on
   787.045 582.4811
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   776.8097 588.8395
   776.8097 588.8395 775.0551 589.9475 774.4484 589.9368
   773.8404 589.9275 773.6071 588.7235 773.6071 588.7235
@@ -3169,7 +3173,7 @@ line rock-edge -clip off
   777.3244 588.1968 776.8097 588.8395 776.8097 588.8395
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   791.827 580.9313
   791.827 580.9313 789.8683 581.9539 789.159 581.9006
   788.451 581.8473 788.0803 580.5873 788.0803 580.5873
@@ -3184,7 +3188,7 @@ line rock-edge -clip off
   792.3763 580.3019 791.827 580.9313 791.827 580.9313
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   769.5146 586.7007
   772.8052 586.65
   771.9626 588.7647
@@ -3201,7 +3205,7 @@ line rock-edge -clip off -close on
   769.5146 586.7007
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2610.3057 201.5752
   2609.6751 201.4178 2608.6697 199.5098 2609.2644 198.7818
   2609.6604 198.2978 2610.3751 199.1712 2611.0671 198.9432
@@ -3210,7 +3214,7 @@ line rock-edge -clip off
   2611.8471 201.8232 2610.9364 201.7285 2610.3057 201.5752
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2595.2406 201.0438
   2595.2406 201.0438 2594.1112 200.4745 2593.9712 200.1985
   2593.8232 199.9225 2594.5326 199.5665 2594.5326 199.5665
@@ -3225,7 +3229,7 @@ line rock-edge -clip off
   2595.7739 201.1412 2595.2406 201.0438 2595.2406 201.0438
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2604.0753 200.3458
   2604.0753 200.3458 2603.0993 199.4324 2603.1113 199.1644
   2603.1247 198.8991 2604.218 198.9391 2604.218 198.9391
@@ -3240,7 +3244,7 @@ line rock-edge -clip off
   2604.654 200.6524 2604.0753 200.3458 2604.0753 200.3458
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2602.3487 198.8027
   2602.3487 198.8027 2602.998 199.7587 2602.898 200.0307
   2602.7993 200.3013 2601.7647 200.2293 2601.7647 200.2293
@@ -3255,7 +3259,7 @@ line rock-edge -clip off
   2601.894 198.476 2602.3487 198.8027 2602.3487 198.8027
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2092.9816 261.6947
   2092.9816 261.6947 2091.8869 262.468 2091.3843 262.4774
   2090.8869 262.4707 2090.3163 261.648 2090.3163 261.648
@@ -3270,7 +3274,7 @@ line rock-edge -clip off
   2093.1963 261.248 2092.9816 261.6947 2092.9816 261.6947
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2015.6401 382.7337
   2017.0188 382.875
   2016.8788 383.871
@@ -3287,7 +3291,7 @@ line rock-edge -clip off -close on
   2015.6401 382.7337
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2018.0048 386.7077
   2018.0048 386.7077 2016.9155 385.8197 2016.7782 385.3277
   2016.6608 384.837 2017.3862 384.069 2017.3862 384.069
@@ -3302,7 +3306,7 @@ line rock-edge -clip off
   2018.5315 386.8104 2018.0048 386.7077 2018.0048 386.7077
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3321.3092 -36.8213
   3321.3092 -36.8213 3316.2039 -37.9199 3315.7666 -38.5359
   3315.4372 -39.1493 3319.6106 -40.1279 3319.6106 -40.1279
@@ -3317,7 +3321,7 @@ line rock-edge -clip off
   3323.9439 -36.6999 3321.3092 -36.8213 3321.3092 -36.8213
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3297.745 -32.1852
   3295.9624 -31.6185
   3294.9624 -33.2652
@@ -3334,7 +3338,7 @@ line rock-edge -clip off -close on
   3297.745 -32.1852
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3289.6201 -35.7019
   3289.6201 -35.7019 3291.0774 -36.5019 3291.6441 -36.4179
   3292.2094 -36.3179 3292.6068 -35.1446 3292.6068 -35.1446
@@ -3349,7 +3353,7 @@ line rock-edge -clip off
   3289.2361 -35.1592 3289.6201 -35.7019 3289.6201 -35.7019
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3284.7087 -29.6678
   3284.7087 -29.6678 3283.054 -30.6678 3282.8967 -31.2025
   3282.7727 -31.7331 3284.0633 -32.5265 3284.0633 -32.5265
@@ -3364,7 +3368,7 @@ line rock-edge -clip off
   3285.5513 -29.5385 3284.7087 -29.6678 3284.7087 -29.6678
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3277.26 -27.0543
   3277.26 -27.0543 3278.208 -29.173 3278.8774 -29.6676
   3279.548 -30.1276 3280.884 -29.513 3280.884 -29.513
@@ -3379,7 +3383,7 @@ line rock-edge -clip off
   3277.276 -26.2236 3277.26 -27.0543 3277.26 -27.0543
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3271.9121 -22.0675
   3271.9121 -22.0675 3270.9068 -20.9675 3270.4521 -20.9075
   3269.9975 -20.8635 3269.4895 -21.8622 3269.4895 -21.8622
@@ -3394,7 +3398,7 @@ line rock-edge -clip off
   3272.1121 -22.6582 3271.9121 -22.0675 3271.9121 -22.0675
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3267.6962 -22.5816
   3267.6962 -22.5816 3267.4375 -20.1896 3267.0069 -19.4736
   3266.5615 -18.7842 3265.3122 -18.8962 3265.3122 -18.8962
@@ -3409,7 +3413,7 @@ line rock-edge -clip off
   3267.4775 -23.3829 3267.6962 -22.5816 3267.6962 -22.5816
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3275.236 -23.7106
   3273.9146 -22.2612
   3272.936 -22.8399
@@ -3426,7 +3430,7 @@ line rock-edge -clip off -close on
   3275.236 -23.7106
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3189.8331 -4.4082
   3191.8077 -3.3762
   3190.0197 -1.8095
@@ -3443,7 +3447,7 @@ line rock-edge -clip off -close on
   3189.8331 -4.4082
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3181.0127 -2.5436
   3181.0127 -2.5436 3180.99 -0.5143 3180.5447 0.1164
   3180.0793 0.7257 3178.4927 0.7177 3178.4927 0.7177
@@ -3458,7 +3462,7 @@ line rock-edge -clip off
   3180.6407 -3.1996 3181.0127 -2.5436 3181.0127 -2.5436
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3141.0931 29.4592
   3139.3651 29.8619
   3138.3011 28.3952
@@ -3475,7 +3479,7 @@ line rock-edge -clip off -close on
   3141.0931 29.4592
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3149.4051 25.7052
   3149.4051 25.7052 3148.3477 26.9945 3147.6997 27.2385
   3147.0451 27.4625 3145.8904 26.8958 3145.8904 26.8958
@@ -3490,7 +3494,7 @@ line rock-edge -clip off
   3149.4691 25.1545 3149.4051 25.7052 3149.4051 25.7052
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3129.1695 27.9487
   3129.1695 27.9487 3130.5588 26.4487 3131.3628 26.2141
   3132.1695 26.0061 3133.5081 26.8474 3133.5081 26.8474
@@ -3505,7 +3509,7 @@ line rock-edge -clip off
   3129.0428 28.6341 3129.1695 27.9487 3129.1695 27.9487
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3097.3796 58.6842
   3097.3796 58.6842 3096.7876 58.1602 3096.7676 57.9656
   3096.7636 57.7749 3097.3583 57.6629 3097.3583 57.6629
@@ -3520,7 +3524,7 @@ line rock-edge -clip off
   3097.7143 58.8242 3097.3796 58.6842 3097.3796 58.6842
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3099.4756 57.4226
   3098.9356 57.0506
   3099.1849 56.6573
@@ -3537,7 +3541,7 @@ line rock-edge -clip off -close on
   3099.4756 57.4226
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3102.5212 57.8497
   3102.5212 57.8497 3101.9466 57.8737 3101.7706 57.7737
   3101.5932 57.6711 3101.5986 57.2977 3101.5986 57.2977
@@ -3552,7 +3556,7 @@ line rock-edge -clip off
   3102.7106 57.7524 3102.5212 57.8497 3102.5212 57.8497
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3097.0822 58.6492
   3097.9849 59.1025
   3097.6942 59.7625
@@ -3569,7 +3573,7 @@ line rock-edge -clip off -close on
   3097.0822 58.6492
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3091.4274 61.4082
   3091.4274 61.4082 3091.798 62.3269 3091.634 62.6322
   3091.45 62.9295 3090.4287 62.9962 3090.4287 62.9962
@@ -3584,7 +3588,7 @@ line rock-edge -clip off
   3091.0634 61.1309 3091.4274 61.4082 3091.4274 61.4082
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3092.2667 62.3508
   3092.2667 62.3508 3091.2281 61.7135 3091.1427 61.4201
   3091.0841 61.1308 3091.9521 60.7975 3091.9521 60.7975
@@ -3599,7 +3603,7 @@ line rock-edge -clip off
   3092.8107 62.4748 3092.2667 62.3508 3092.2667 62.3508
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3106.0657 77.2131
   3106.0657 77.2131 3100.5604 78.9718 3098.9804 78.2518
   3097.4644 77.4491 3097.9417 72.8585 3097.9417 72.8585
@@ -3614,7 +3618,7 @@ line rock-edge -clip off
   3107.951 75.5571 3106.0657 77.2131 3106.0657 77.2131
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3079.005 69.4265
   3078.033 69.1518
   3078.1956 68.4491
@@ -3631,7 +3635,7 @@ line rock-edge -clip off -close on
   3079.005 69.4265
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3084.5735 65.7743
   3084.5735 65.7743 3084.0361 64.941 3084.1401 64.6116
   3084.2655 64.2863 3085.2548 64.0263 3085.2548 64.0263
@@ -3646,7 +3650,7 @@ line rock-edge -clip off
   3084.9841 65.9783 3084.5735 65.7743 3084.5735 65.7743
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3083.571 65.0071
   3083.571 65.0071 3084.711 65.4364 3084.8484 65.7084
   3084.9617 65.9804 3084.1737 66.4737 3084.1737 66.4737
@@ -3661,7 +3665,7 @@ line rock-edge -clip off
   3083.0137 64.9884 3083.571 65.0071 3083.571 65.0071
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3074.0744 68.7769
   3074.0744 68.7769 3075.097 67.9449 3075.5757 67.9209
   3076.0517 67.9183 3076.6357 68.7716 3076.6357 68.7716
@@ -3676,7 +3680,7 @@ line rock-edge -clip off
   3073.885 69.2476 3074.0744 68.7769 3074.0744 68.7769
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3071.633 69.8055
   3071.633 69.8055 3072.477 69.3362 3072.8184 69.3535
   3073.1597 69.3802 3073.437 69.9522 3073.437 69.9522
@@ -3691,7 +3695,7 @@ line rock-edge -clip off
   3071.4197 70.0962 3071.633 69.8055 3071.633 69.8055
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3069.1821 74.0203
   3069.1821 74.0203 3067.9475 73.5083 3067.8088 73.2043
   3067.6928 72.9016 3068.5741 72.3869 3068.5741 72.3869
@@ -3706,7 +3710,7 @@ line rock-edge -clip off
   3069.7915 74.0589 3069.1821 74.0203 3069.1821 74.0203
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3062.7407 74.4877
   3062.7407 74.4877 3063.31 73.2184 3063.762 72.9024
   3064.2167 72.6077 3065.2047 72.909 3065.2047 72.909
@@ -3721,7 +3725,7 @@ line rock-edge -clip off
   3062.794 74.969 3062.7407 74.4877 3062.7407 74.4877
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3059.5128 77.9722
   3059.5128 77.9722 3058.8515 78.6522 3058.5288 78.7069
   3058.2075 78.7495 3057.7901 78.1909 3057.7901 78.1909
@@ -3736,7 +3740,7 @@ line rock-edge -clip off
   3059.6248 77.6189 3059.5128 77.9722 3059.5128 77.9722
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   3056.4719 77.8459
   3056.4719 77.8459 3056.4106 79.2472 3056.1399 79.6805
   3055.8573 80.0992 3054.9573 80.0859 3054.9573 80.0859
@@ -3751,7 +3755,7 @@ line rock-edge -clip off
   3056.2759 77.3912 3056.4719 77.8459 3056.4719 77.8459
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3061.8006 76.8773
   3060.9313 77.7747
   3060.202 77.48
@@ -3768,7 +3772,7 @@ line rock-edge -clip off -close on
   3061.8006 76.8773
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2764.6075 146.0153
   2764.6075 146.0153 2765.1382 145.1433 2765.4942 144.982
   2765.8568 144.8353 2766.5462 145.2353 2766.5462 145.2353
@@ -3783,7 +3787,7 @@ line rock-edge -clip off
   2764.5995 146.3927 2764.6075 146.0153 2764.6075 146.0153
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2352.3017 284.1895
   2352.3017 284.1895 2351.1884 283.6602 2351.0684 283.3722
   2350.9657 283.0842 2351.7751 282.6482 2351.7751 282.6482
@@ -3798,7 +3802,7 @@ line rock-edge -clip off
   2352.8551 284.2535 2352.3017 284.1895 2352.3017 284.1895
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2328.2018 291.0514
   2327.3138 290.5714
   2327.6244 289.9194
@@ -3815,7 +3819,7 @@ line rock-edge -clip off -close on
   2328.2018 291.0514
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2334.4321 288.7026
   2334.4321 288.7026 2334.0881 287.7733 2334.2628 287.4733
   2334.4561 287.1826 2335.4775 287.1466 2335.4775 287.1466
@@ -3830,7 +3834,7 @@ line rock-edge -clip off
   2334.7881 288.9919 2334.4321 288.7026 2334.4321 288.7026
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2333.6211 287.735
   2333.6211 287.735 2334.6411 288.4044 2334.7144 288.7004
   2334.7651 288.9897 2333.8891 289.2977 2333.8891 289.2977
@@ -3845,7 +3849,7 @@ line rock-edge -clip off
   2333.0811 287.5964 2333.6211 287.735 2333.6211 287.735
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2319.4216 293.1883
   2319.4216 293.1883 2319.0776 292.259 2319.2523 291.959
   2319.4456 291.6683 2320.467 291.6323 2320.467 291.6323
@@ -3860,7 +3864,7 @@ line rock-edge -clip off
   2319.7776 293.4776 2319.4216 293.1883 2319.4216 293.1883
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2318.6106 292.2207
   2318.6106 292.2207 2319.6306 292.8901 2319.7039 293.1861
   2319.7546 293.4754 2318.8786 293.7834 2318.8786 293.7834
@@ -3875,7 +3879,7 @@ line rock-edge -clip off
   2318.0706 292.0821 2318.6106 292.2207 2318.6106 292.2207
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2315.7304 294.6377
   2316.6357 295.0857
   2316.3477 295.7471
@@ -3892,7 +3896,7 @@ line rock-edge -clip off -close on
   2315.7304 294.6377
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2311.018 294.6776
   2311.018 294.6776 2311.882 294.5109 2312.174 294.6216
   2312.4647 294.7403 2312.5447 295.3163 2312.5447 295.3163
@@ -3907,7 +3911,7 @@ line rock-edge -clip off
   2310.7527 294.8723 2311.018 294.6776 2311.018 294.6776
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2307.6247 297.8263
   2307.6247 297.8263 2306.6967 297.0343 2306.6567 296.7329
   2306.6447 296.4383 2307.5513 296.2423 2307.5513 296.2423
@@ -3922,7 +3926,7 @@ line rock-edge -clip off
   2308.1433 298.0303 2307.6247 297.8263 2307.6247 297.8263
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2342.7264 285.8249
   2341.8384 285.3449
   2342.1491 284.6929
@@ -3939,7 +3943,7 @@ line rock-edge -clip off -close on
   2342.7264 285.8249
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2347.4373 285.9527
   2347.4373 285.9527 2346.568 286.0887 2346.28 285.9673
   2345.9946 285.838 2345.9346 285.2607 2345.9346 285.2607
@@ -3954,7 +3958,7 @@ line rock-edge -clip off
   2347.7093 285.7687 2347.4373 285.9527 2347.4373 285.9527
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2350.941 282.9279
   2350.941 282.9279 2351.841 283.7519 2351.8677 284.0559
   2351.8703 284.3492 2350.957 284.5132 2350.957 284.5132
@@ -3969,7 +3973,7 @@ line rock-edge -clip off
   2350.4303 282.7052 2350.941 282.9279 2350.941 282.9279
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2372.6313 248.8718
   2372.6313 248.8718 2371.6927 247.4424 2371.7807 246.9798
   2371.8967 246.5331 2373.27 246.4798 2373.27 246.4798
@@ -3984,7 +3988,7 @@ line rock-edge -clip off
   2373.2593 249.3198 2372.6313 248.8718 2372.6313 248.8718
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2357.9532 278.5167
   2357.9532 278.5167 2358.8799 277.7247 2359.3359 277.682
   2359.7905 277.6567 2360.3959 278.3927 2360.3959 278.3927
@@ -3999,7 +4003,7 @@ line rock-edge -clip off
   2357.8012 278.946 2357.9532 278.5167 2357.9532 278.5167
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2373.004 254.988
   2371.5813 255.4067
   2370.76 254.1227
@@ -4016,7 +4020,7 @@ line rock-edge -clip off -close on
   2373.004 254.988
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2338.6745 287.1326
   2338.6745 287.1326 2337.9185 286.1206 2337.9651 285.8099
   2338.0331 285.5099 2339.0531 285.5299 2339.0531 285.5299
@@ -4031,7 +4035,7 @@ line rock-edge -clip off
   2339.1598 287.4632 2338.6745 287.1326 2338.6745 287.1326
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2367.9142 259.196
   2367.9142 259.196 2366.9755 257.7667 2367.0635 257.304
   2367.1795 256.8574 2368.5528 256.804 2368.5528 256.804
@@ -4046,7 +4050,7 @@ line rock-edge -clip off
   2368.5422 259.644 2367.9142 259.196 2367.9142 259.196
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2360.1077 285.1715
   2360.1077 285.1715 2358.9517 285.9928 2358.413 285.9995
   2357.8784 285.9848 2357.2344 285.0835 2357.2344 285.0835
@@ -4061,7 +4065,7 @@ line rock-edge -clip off
   2360.3264 284.6928 2360.1077 285.1715 2360.1077 285.1715
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2365.7175 260.6599
   2365.7175 260.6599 2367.0135 260.0812 2367.5415 260.1812
   2368.0641 260.2999 2368.5188 261.3105 2368.5188 261.3105
@@ -4076,7 +4080,7 @@ line rock-edge -clip off
   2365.4095 261.0865 2365.7175 260.6599 2365.7175 260.6599
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2367.9621 266.6647
   2367.9621 266.6647 2368.7048 268.3273 2368.5408 268.8113
   2368.3488 269.2753 2366.9315 269.154 2366.9315 269.154
@@ -4091,7 +4095,7 @@ line rock-edge -clip off
   2367.3808 266.1033 2367.9621 266.6647 2367.9621 266.6647
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2360.583 276.1674
   2360.583 276.1674 2358.8257 275.3141 2358.647 274.8514
   2358.507 274.3954 2359.843 273.7047 2359.843 273.7047
@@ -4106,7 +4110,7 @@ line rock-edge -clip off
   2361.4697 276.2754 2360.583 276.1674 2360.583 276.1674
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2323.5297 289.3391
   2323.5297 289.3391 2324.7083 288.7511 2325.1803 288.8325
   2325.647 288.9338 2326.0297 289.8938 2326.0297 289.8938
@@ -4121,7 +4125,7 @@ line rock-edge -clip off
   2323.2417 289.7565 2323.5297 289.3391 2323.5297 289.3391
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2273.4505 279.1715
   2273.4505 279.1715 2272.9039 280.2022 2272.5399 280.3328
   2272.1759 280.4422 2271.4865 279.7568 2271.4865 279.7568
@@ -4136,7 +4140,7 @@ line rock-edge -clip off
   2273.4599 278.6755 2273.4505 279.1715 2273.4505 279.1715
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2248.7798 255.3118
   2248.7798 255.3118 2249.8878 254.8038 2250.3385 254.8878
   2250.7825 254.9878 2251.1638 255.8598 2251.1638 255.8598
@@ -4151,7 +4155,7 @@ line rock-edge -clip off
   2248.5158 255.6825 2248.7798 255.3118 2248.7798 255.3118
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2249.3228 254.2717
   2249.3228 254.2717 2248.7921 255.4157 2248.4294 255.5557
   2248.0668 255.6717 2247.3641 254.8944 2247.3641 254.8944
@@ -4166,7 +4170,7 @@ line rock-edge -clip off
   2249.3228 253.717 2249.3228 254.2717 2249.3228 254.2717
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2294.1365 293.0254
   2294.1365 293.0254 2294.7605 292.2561 2295.1085 292.2534
   2295.4552 292.2721 2296.0072 293.1321 2296.0072 293.1321
@@ -4181,7 +4185,7 @@ line rock-edge -clip off
   2294.0685 293.4788 2294.1365 293.0254 2294.1365 293.0254
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2300.354 298.5945
   2300.354 298.5945 2299.706 298.7331 2299.4313 298.5491
   2299.154 298.3531 2298.886 297.5331 2298.886 297.5331
@@ -4196,7 +4200,7 @@ line rock-edge -clip off
   2300.498 298.3518 2300.354 298.5945 2300.354 298.5945
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2302.013 299.0192
   2301.2823 299.2792
   2300.8903 298.5805
@@ -4213,7 +4217,7 @@ line rock-edge -clip off -close on
   2302.013 299.0192
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2304.2941 299.0451
   2304.2941 299.0451 2303.2368 298.6678 2303.0621 298.3598
   2302.9088 298.0544 2303.4714 297.3904 2303.4714 297.3904
@@ -4228,7 +4232,7 @@ line rock-edge -clip off
   2304.7688 299.0064 2304.2941 299.0451 2304.2941 299.0451
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2287.0687 287.3795
   2286.87 286.3902
   2287.5687 286.2115
@@ -4245,7 +4249,7 @@ line rock-edge -clip off -close on
   2287.0687 287.3795
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2289.9882 291.0788
   2289.9882 291.0788 2289.3269 290.4974 2289.2362 290.2001
   2289.1522 289.8974 2289.5575 289.4828 2289.5575 289.4828
@@ -4260,7 +4264,7 @@ line rock-edge -clip off
   2290.3029 291.1708 2289.9882 291.0788 2289.9882 291.0788
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2294.5547 291.834
   2294.5547 291.834 2294.4987 293.0526 2294.2827 293.2673
   2294.0587 293.4593 2293.3481 292.862 2293.3481 292.862
@@ -4275,7 +4279,7 @@ line rock-edge -clip off
   2294.4001 291.2993 2294.5547 291.834 2294.5547 291.834
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2282.4623 284.2505
   2282.4623 284.2505 2283.6263 283.7545 2284.1236 283.8239
   2284.6116 283.9092 2285.089 284.7212 2285.089 284.7212
@@ -4290,7 +4294,7 @@ line rock-edge -clip off
   2282.2023 284.6052 2282.4623 284.2505 2282.4623 284.2505
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2278.8099 283.3512
   2278.8099 283.3512 2277.9473 283.3952 2277.6966 283.2325
   2277.4526 283.0618 2277.5179 282.4312 2277.5179 282.4312
@@ -4305,7 +4309,7 @@ line rock-edge -clip off
   2279.1033 283.1845 2278.8099 283.3512 2278.8099 283.3512
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2281.0205 284.0372
   2279.8845 284.0985
   2279.5779 283.4505
@@ -4322,7 +4326,7 @@ line rock-edge -clip off -close on
   2281.0205 284.0372
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2274.4012 281.575
   2274.4012 281.575 2273.0318 281.051 2272.8932 280.767
   2272.7838 280.487 2273.8252 280.063 2273.8252 280.063
@@ -4337,7 +4341,7 @@ line rock-edge -clip off
   2275.0932 281.6417 2274.4012 281.575 2274.4012 281.575
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2236.7943 245.9056
   2237.793 246.0536
   2237.7237 246.771
@@ -4354,7 +4358,7 @@ line rock-edge -clip off -close on
   2236.7943 245.9056
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2233.1405 247.9124
   2233.1405 247.9124 2233.9112 247.487 2234.2232 247.5017
   2234.5352 247.5257 2234.7872 248.0484 2234.7872 248.0484
@@ -4369,7 +4373,7 @@ line rock-edge -clip off
   2232.9459 248.1764 2233.1405 247.9124 2233.1405 247.9124
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2230.3203 251.0567
   2230.3203 251.0567 2229.1923 250.5914 2229.0656 250.3141
   2228.959 250.0394 2229.7643 249.5727 2229.7643 249.5727
@@ -4384,7 +4388,7 @@ line rock-edge -clip off
   2230.8763 251.0927 2230.3203 251.0567 2230.3203 251.0567
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2225.5792 252.7209
   2225.5792 252.7209 2226.0992 251.5662 2226.5112 251.2796
   2226.9285 251.0116 2227.8298 251.2849 2227.8298 251.2849
@@ -4399,7 +4403,7 @@ line rock-edge -clip off
   2225.6285 253.1582 2225.5792 252.7209 2225.5792 252.7209
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2242.3355 246.6402
   2242.3355 246.6402 2241.3102 247.4082 2240.8062 247.4642
   2240.3048 247.5069 2239.6408 246.8589 2239.6408 246.8589
@@ -4414,7 +4418,7 @@ line rock-edge -clip off
   2242.5088 246.2349 2242.3355 246.6402 2242.3355 246.6402
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2213.6273 258.0137
   2214.0886 256.9724
   2214.8059 256.991
@@ -4431,7 +4435,7 @@ line rock-edge -clip off -close on
   2213.6273 258.0137
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2222.3225 255.5592
   2222.3225 255.5592 2221.7185 256.1779 2221.4238 256.2272
   2221.1291 256.2672 2220.7491 255.7592 2220.7491 255.7592
@@ -4446,7 +4450,7 @@ line rock-edge -clip off
   2222.4251 255.2392 2222.3225 255.5592 2222.3225 255.5592
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2219.5464 255.4459
   2219.5464 255.4459 2219.4904 256.7192 2219.2424 257.1139
   2218.985 257.4939 2218.1637 257.4819 2218.1637 257.4819
@@ -4461,7 +4465,7 @@ line rock-edge -clip off
   2219.3664 255.0312 2219.5464 255.4459 2219.5464 255.4459
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2224.4137 254.5648
   2223.619 255.3794
   2222.9537 255.1114
@@ -4478,7 +4482,7 @@ line rock-edge -clip off -close on
   2224.4137 254.5648
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2213.5544 260.9827
   2213.5544 260.9827 2212.9944 261.6081 2212.7224 261.6587
   2212.453 261.6987 2212.1037 261.1907 2212.1037 261.1907
@@ -4493,7 +4497,7 @@ line rock-edge -clip off
   2213.6517 260.6587 2213.5544 260.9827 2213.5544 260.9827
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2146.5414 276.2822
   2146.5414 276.2822 2145.7881 277.3009 2145.3227 277.4902
   2144.8574 277.6636 2144.0361 277.2049 2144.0361 277.2049
@@ -4508,7 +4512,7 @@ line rock-edge -clip off
   2146.5854 275.8449 2146.5414 276.2822 2146.5414 276.2822
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2167.1338 278.3721
   2167.1338 278.3721 2165.9978 277.8201 2165.8685 277.4974
   2165.7592 277.1774 2166.5578 276.6481 2166.5578 276.6481
@@ -4523,7 +4527,7 @@ line rock-edge -clip off
   2167.6912 278.4214 2167.1338 278.3721 2167.1338 278.3721
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2138.3397 278.0569
   2138.3397 278.0569 2137.1944 277.3822 2137.0584 276.9969
   2136.9437 276.6156 2137.7371 275.9969 2137.7371 275.9969
@@ -4538,7 +4542,7 @@ line rock-edge -clip off
   2138.8984 278.1249 2138.3397 278.0569 2138.3397 278.0569
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2125.2991 273.11
   2125.2991 273.11 2124.4137 272.334 2124.3004 271.9073
   2124.2031 271.4807 2124.7844 270.822 2124.7844 270.822
@@ -4553,7 +4557,7 @@ line rock-edge -clip off
   2125.7231 273.2007 2125.2991 273.11 2125.2991 273.11
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2124.3408 270.239
   2124.3408 270.239 2122.7101 270.4003 2122.1674 270.1083
   2121.6421 269.8017 2121.5234 268.583 2121.5234 268.583
@@ -4568,7 +4572,7 @@ line rock-edge -clip off
   2124.8381 269.8963 2124.3408 270.239 2124.3408 270.239
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2119.3291 262.5047
   2120.7318 262.9874
   2120.8238 264.0527
@@ -4585,7 +4589,7 @@ line rock-edge -clip off -close on
   2119.3291 262.5047
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2115.5007 262.8914
   2115.5007 262.8914 2114.614 262.1834 2114.5034 261.7901
   2114.4087 261.3981 2114.998 260.7861 2114.998 260.7861
@@ -4600,7 +4604,7 @@ line rock-edge -clip off
   2115.9274 262.9741 2115.5007 262.8914 2115.5007 262.8914
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2111.8004 259.6193
   2111.8004 259.6193 2112.571 259.1939 2112.883 259.2086
   2113.195 259.2326 2113.447 259.7553 2113.447 259.7553
@@ -4615,7 +4619,7 @@ line rock-edge -clip off
   2111.6057 259.8833 2111.8004 259.6193 2111.8004 259.6193
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2074.1403 367.7339
   2075.519 367.8753
   2075.379 368.8713
@@ -4632,7 +4636,7 @@ line rock-edge -clip off -close on
   2074.1403 367.7339
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   2068.3382 372.2912
   2068.3382 372.2912 2067.2489 371.4032 2067.1116 370.9112
   2066.9942 370.4205 2067.7196 369.6525 2067.7196 369.6525
@@ -4647,7 +4651,7 @@ line rock-edge -clip off
   2068.8649 372.3939 2068.3382 372.2912 2068.3382 372.2912
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1392.2278 462.4129
   1392.2278 462.4129 1391.9398 462.7182 1391.7811 462.7689
   1391.6238 462.8169 1391.3838 462.6649 1391.3838 462.6649
@@ -4662,7 +4666,7 @@ line rock-edge -clip off
   1392.2651 462.2769 1392.2278 462.4129 1392.2278 462.4129
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1211.6615 480.9109
   1212.1681 480.6189
   1212.4415 480.9043
@@ -4679,7 +4683,7 @@ line rock-edge -clip off -close on
   1211.6615 480.9109
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   892.7507 543.0438
   892.7507 543.0438 892.0934 543.5171 891.7454 543.6144
   891.3974 543.7104 890.8947 543.5451 890.8947 543.5451
@@ -4694,7 +4698,7 @@ line rock-edge -clip off
   892.8454 542.8491 892.7507 543.0438 892.7507 543.0438
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1061.5517 891.1715
   1061.5517 891.1715 1062.3037 891.2861 1062.5917 891.4528
   1062.8797 891.6195 1063.077 892.0755 1063.077 892.0755
@@ -4709,7 +4713,7 @@ line rock-edge -clip off
   1061.353 891.2421 1061.5517 891.1715 1061.5517 891.1715
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1061.0577 890.2976
   1061.0577 890.2976 1061.6363 889.5589 1061.979 889.3896
   1062.3217 889.2229 1062.891 889.4309 1062.891 889.4309
@@ -4724,7 +4728,7 @@ line rock-edge -clip off
   1061.0017 890.5869 1061.0577 890.2976 1061.0577 890.2976
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1064.3191 890.5123
   1064.9578 889.7057
   1065.3965 890.255
@@ -4741,7 +4745,7 @@ line rock-edge -clip off -close on
   1064.3191 890.5123
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1067.5135 890.0276
   1068.5561 889.7196
   1068.8161 890.4249
@@ -4758,7 +4762,7 @@ line rock-edge -clip off -close on
   1067.5135 890.0276
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1067.6766 889.8979
   1067.6766 889.8979 1067.0192 890.2819 1066.6899 890.3325
   1066.3619 890.3832 1065.9232 890.1525 1065.9232 890.1525
@@ -4773,7 +4777,7 @@ line rock-edge -clip off
   1067.7872 889.7192 1067.6766 889.8979 1067.6766 889.8979
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1070.9476 895.6634
   1070.9476 895.6634 1069.397 897.0208 1068.621 897.2021
   1067.8476 897.3821 1066.8116 896.5661 1066.8116 896.5661
@@ -4788,7 +4792,7 @@ line rock-edge -clip off
   1071.2076 895.0301 1070.9476 895.6634 1070.9476 895.6634
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1054.1414 862.4773
   1054.7001 862.32
   1054.9121 862.6626
@@ -4805,7 +4809,7 @@ line rock-edge -clip off -close on
   1054.1414 862.4773
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1056.3957 863.4108
   1056.3957 863.4108 1056.041 863.8428 1055.8863 863.9014
   1055.729 863.9614 1055.565 863.7108 1055.565 863.7108
@@ -4820,7 +4824,7 @@ line rock-edge -clip off
   1056.4717 863.2121 1056.3957 863.4108 1056.3957 863.4108
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1057.4796 862.5763
   1057.4796 862.5763 1057.2196 862.9976 1057.0503 863.1069
   1056.8823 863.2149 1056.5756 863.1483 1056.5756 863.1483
@@ -4835,7 +4839,7 @@ line rock-edge -clip off
   1057.4916 862.4229 1057.4796 862.5763 1057.4796 862.5763
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1057.8058 863.0072
   1058.3644 862.8512
   1058.5764 863.1925
@@ -4852,7 +4856,7 @@ line rock-edge -clip off -close on
   1057.8058 863.0072
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1060.06 863.9412
   1060.06 863.9412 1059.7054 864.3732 1059.5507 864.4318
   1059.3934 864.4918 1059.2294 864.2412 1059.2294 864.2412
@@ -4867,7 +4871,7 @@ line rock-edge -clip off
   1060.136 863.7425 1060.06 863.9412 1060.06 863.9412
 endline
 
-line rock-edge -clip off
+line rock-border -clip off
   1052.2469 861.9527
   1052.2469 861.9527 1052.7362 861.6607 1052.9029 861.6554
   1053.0722 861.6487 1053.1349 861.938 1053.1349 861.938
@@ -4882,7 +4886,7 @@ line rock-edge -clip off
   1052.1042 862.1167 1052.2469 861.9527 1052.2469 861.9527
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   868.1457 566.5662
   868.0137 563.8915
   868.0137 563.8915 867.227 563.3635 865.1643 563.9142
@@ -4899,7 +4903,7 @@ line rock-edge -clip off -close on
   868.1457 566.5662
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1902.1675 403.1545
   1902.5889 404.0158 1901.8209 407.3572 1900.6582 407.5825
   1899.8835 407.7332 1900.0102 405.9252 1899.1955 405.4492
@@ -4908,7 +4912,7 @@ line rock-edge -clip off -close on
   1901.0115 401.1998 1901.7409 402.2891 1902.1675 403.1545
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   805.0264 571.2416
   805.2797 571.7176
   804.8784 571.9203
@@ -4925,7 +4929,7 @@ line rock-edge -clip off -close on
   805.0264 571.2416
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   804.8297 570.6416
   804.8297 570.6416 804.4017 570.3096 804.3351 570.1483
   804.2711 569.9896 804.4964 569.7869 804.4964 569.7869
@@ -4940,7 +4944,7 @@ line rock-edge -clip off -close on
   805.0217 570.7003 804.8297 570.6416 804.8297 570.6416
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   806.0528 570.768
   806.0528 570.768 805.6154 569.996 805.5461 569.6253
   805.4768 569.256 805.6981 568.8 805.6981 568.8
@@ -4955,7 +4959,7 @@ line rock-edge -clip off -close on
   806.2474 570.9093 806.0528 570.768 806.0528 570.768
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   808.2687 568.2822
   808.3487 568.0209 807.926 567.2569 807.5593 567.3129
   807.314 567.3502 807.454 567.7942 807.2313 567.9929
@@ -4964,7 +4968,7 @@ line rock-edge -clip off -close on
   808.0273 568.8876 808.1847 568.5396 808.2687 568.2822
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   906.6887 540.9573
   906.9394 539.4613
   906.9394 539.4613 906.4221 539.128 904.8101 539.3293
@@ -4981,7 +4985,7 @@ line rock-edge -clip off -close on
   906.6887 540.9573
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   803.9904 573.4612
   803.9904 573.4612 803.0437 573.8879 802.6984 573.8585
   802.3517 573.8305 802.1624 573.2799 802.1624 573.2799
@@ -4996,7 +5000,7 @@ line rock-edge -clip off -close on
   804.2517 573.1932 803.9904 573.4612 803.9904 573.4612
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1208.0786 481.0822
   1211.312 482.2009
   1209.288 483.6782
@@ -5013,7 +5017,7 @@ line rock-edge -clip off -close on
   1208.0786 481.0822
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1006.8211 516.6499
   1009.2758 511.2432
   1009.2758 511.2432 1008.5504 509.4392 1004.7211 508.5178
@@ -5030,7 +5034,7 @@ line rock-edge -clip off -close on
   1006.8211 516.6499
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   761.7062 730.4742
   762.5315 731.6355
   761.5649 731.8262
@@ -5047,7 +5051,7 @@ line rock-edge -clip off -close on
   761.7062 730.4742
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   594.7566 704.9114
   595.2872 705.2781 597.1912 704.7114 597.2579 703.7594
   597.3086 703.118 596.2579 703.186 595.9379 702.5007
@@ -5056,7 +5060,7 @@ line rock-edge -clip off -close on
   593.5539 703.9154 594.2326 704.534 594.7566 704.9114
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   605.4523 699.1617
   605.5963 696.8524
   605.5963 696.8524 605.0497 696.295 603.4377 696.491
@@ -5073,7 +5077,7 @@ line rock-edge -clip off -close on
   605.4523 699.1617
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   592.6462 705.6656
   592.6462 705.6656 590.8915 706.7736 590.2849 706.763
   589.6769 706.7536 589.4435 705.5496 589.4435 705.5496
@@ -5088,7 +5092,7 @@ line rock-edge -clip off -close on
   593.1609 705.023 592.6462 705.6656 592.6462 705.6656
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   587.9266 703.3812
   591.2173 703.3306
   590.3746 705.4452
@@ -5105,7 +5109,7 @@ line rock-edge -clip off -close on
   587.9266 703.3812
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   616.8292 687.708
   616.8292 687.708 617.1972 684.3679 617.9625 683.4053
   618.7292 682.4439 620.9825 682.6639 620.9825 682.6639
@@ -5120,7 +5124,7 @@ line rock-edge -clip off -close on
   617.2412 688.8453 616.8292 687.708 616.8292 687.708
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   604.33 692.4156
   602.0007 694.8396
   602.0007 694.8396 601.6913 695.7236 602.5807 696.3396
@@ -5137,7 +5141,7 @@ line rock-edge -clip off -close on
   604.33 692.4156
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   613.5149 687.303
   613.5149 687.303 616.4936 687.535 617.2362 688.0896
   617.9776 688.6443 617.3816 690.311 617.3816 690.311
@@ -5152,7 +5156,7 @@ line rock-edge -clip off -close on
   612.4056 687.6203 613.5149 687.303 613.5149 687.303
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   633.9184 676.3657
   637.061 676.0577
   636.437 677.9243
@@ -5169,7 +5173,7 @@ line rock-edge -clip off -close on
   633.9184 676.3657
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   639.0264 671.6191
   642.1691 671.3111
   641.5451 673.1778
@@ -5186,7 +5190,7 @@ line rock-edge -clip off -close on
   639.0264 671.6191
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   666.2214 657.2535
   663.5575 658.6789
   662.5228 656.9682
@@ -5203,7 +5207,7 @@ line rock-edge -clip off -close on
   666.2214 657.2535
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   653.5592 663.7483
   650.3352 663.3017
   651.8966 661.427
@@ -5220,7 +5224,7 @@ line rock-edge -clip off -close on
   653.5592 663.7483
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   651.6071 670.7457
   650.2458 672.1617 642.7938 673.083 641.2858 671.0297
   640.2858 669.6657 644.0551 668.6217 644.2791 666.731
@@ -5229,7 +5233,7 @@ line rock-edge -clip off -close on
   654.5125 667.1537 652.9725 669.3177 651.6071 670.7457
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   701.3975 631.5269
   704.0162 631.3949
   704.1135 633.2029
@@ -5246,7 +5250,7 @@ line rock-edge -clip off -close on
   701.3975 631.5269
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   694.9033 637.0426
   695.4327 637.4093 697.338 636.8413 697.4047 635.8906
   697.4553 635.2493 696.4047 635.316 696.0847 634.632
@@ -5255,7 +5259,7 @@ line rock-edge -clip off -close on
   693.702 636.0466 694.3793 636.6666 694.9033 637.0426
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   689.7857 641.5553
   689.8897 639.2499
   689.8897 639.2499 689.3857 638.6886 687.9203 638.8646
@@ -5272,7 +5276,7 @@ line rock-edge -clip off -close on
   689.7857 641.5553
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   694.5292 640.0107
   694.5292 640.0107 692.5705 641.0334 691.8612 640.98
   691.1532 640.9267 690.7825 639.6667 690.7825 639.6667
@@ -5287,7 +5291,7 @@ line rock-edge -clip off -close on
   695.0785 639.3814 694.5292 640.0107 694.5292 640.0107
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   677.3585 643.7272
   680.8465 643.9592
   680.1371 646.2672
@@ -5304,7 +5308,7 @@ line rock-edge -clip off -close on
   677.3585 643.7272
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   725.5229 619.0701
   725.5229 619.0701 724.0002 620.3167 723.3736 620.3847
   722.7456 620.4541 722.1949 619.3741 722.1949 619.3741
@@ -5319,7 +5323,7 @@ line rock-edge -clip off -close on
   725.8869 618.4101 725.5229 619.0701 725.5229 619.0701
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   713.0285 620.9759
   713.0285 620.9759 712.9565 617.9692 713.4952 617.1772
   714.0339 616.3879 715.9712 616.8479 715.9712 616.8479
@@ -5334,7 +5338,7 @@ line rock-edge -clip off -close on
   713.5085 622.0612 713.0285 620.9759 713.0285 620.9759
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   702.9755 627.4707
   700.7555 629.9747
   700.7555 629.9747 700.3728 630.8067 700.9862 631.2161
@@ -5351,7 +5355,7 @@ line rock-edge -clip off -close on
   702.9755 627.4707
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   713.3547 621.488
   715.7614 621.1334
   715.0267 622.7227
@@ -5368,7 +5372,7 @@ line rock-edge -clip off -close on
   713.3547 621.488
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   730.1369 609.6192
   733.2796 609.3112
   732.6556 611.1779
@@ -5385,7 +5389,7 @@ line rock-edge -clip off -close on
   730.1369 609.6192
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   757.9651 597.9344
   755.3011 599.3597
   754.2664 597.649
@@ -5402,7 +5406,7 @@ line rock-edge -clip off -close on
   757.9651 597.9344
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   745.0918 600.4388
   742.5171 599.0255
   744.4811 598.0348
@@ -5419,7 +5423,7 @@ line rock-edge -clip off -close on
   745.0918 600.4388
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   743.7728 605.4909
   742.7542 606.3309 737.5768 607.2576 736.6568 606.2389
   736.0475 605.5629 738.7008 604.7829 738.9648 603.7523
@@ -5428,7 +5432,7 @@ line rock-edge -clip off -close on
   745.9782 603.3896 744.7942 604.6429 743.7728 605.4909
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   737.5184 607.4338
   738.2544 609.1578
   736.9278 609.9804
@@ -5445,7 +5449,7 @@ line rock-edge -clip off -close on
   737.5184 607.4338
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   798.6953 572.4475
   801.3139 572.3155
   801.4113 574.1235
@@ -5462,7 +5466,7 @@ line rock-edge -clip off -close on
   798.6953 572.4475
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   792.3689 579.2133
   792.8983 579.58 794.8036 579.012 794.8703 578.0613
   794.9209 577.42 793.8703 577.4866 793.5503 576.8026
@@ -5471,7 +5475,7 @@ line rock-edge -clip off -close on
   791.1676 578.2173 791.8449 578.8373 792.3689 579.2133
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   787.045 582.4811
   787.189 580.1718
   787.189 580.1718 786.6424 579.6145 785.0304 579.8105
@@ -5488,7 +5492,7 @@ line rock-edge -clip off -close on
   787.045 582.4811
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   776.8097 588.8395
   776.8097 588.8395 775.0551 589.9475 774.4484 589.9368
   773.8404 589.9275 773.6071 588.7235 773.6071 588.7235
@@ -5503,7 +5507,7 @@ line rock-edge -clip off -close on
   777.3244 588.1968 776.8097 588.8395 776.8097 588.8395
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   791.827 580.9313
   791.827 580.9313 789.8683 581.9539 789.159 581.9006
   788.451 581.8473 788.0803 580.5873 788.0803 580.5873
@@ -5518,7 +5522,7 @@ line rock-edge -clip off -close on
   792.3763 580.3019 791.827 580.9313 791.827 580.9313
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   769.5146 586.7007
   772.8052 586.65
   771.9626 588.7647
@@ -5535,7 +5539,7 @@ line rock-edge -clip off -close on
   769.5146 586.7007
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2610.3057 201.5752
   2609.6751 201.4178 2608.6697 199.5098 2609.2644 198.7818
   2609.6604 198.2978 2610.3751 199.1712 2611.0671 198.9432
@@ -5544,7 +5548,7 @@ line rock-edge -clip off -close on
   2611.8471 201.8232 2610.9364 201.7285 2610.3057 201.5752
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2595.2406 201.0438
   2595.2406 201.0438 2594.1112 200.4745 2593.9712 200.1985
   2593.8232 199.9225 2594.5326 199.5665 2594.5326 199.5665
@@ -5559,7 +5563,7 @@ line rock-edge -clip off -close on
   2595.7739 201.1412 2595.2406 201.0438 2595.2406 201.0438
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2604.0753 200.3458
   2604.0753 200.3458 2603.0993 199.4324 2603.1113 199.1644
   2603.1247 198.8991 2604.218 198.9391 2604.218 198.9391
@@ -5574,7 +5578,7 @@ line rock-edge -clip off -close on
   2604.654 200.6524 2604.0753 200.3458 2604.0753 200.3458
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2602.3487 198.8027
   2602.3487 198.8027 2602.998 199.7587 2602.898 200.0307
   2602.7993 200.3013 2601.7647 200.2293 2601.7647 200.2293
@@ -5589,7 +5593,7 @@ line rock-edge -clip off -close on
   2601.894 198.476 2602.3487 198.8027 2602.3487 198.8027
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2092.9816 261.6947
   2092.9816 261.6947 2091.8869 262.468 2091.3843 262.4774
   2090.8869 262.4707 2090.3163 261.648 2090.3163 261.648
@@ -5604,7 +5608,7 @@ line rock-edge -clip off -close on
   2093.1963 261.248 2092.9816 261.6947 2092.9816 261.6947
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2015.6401 382.7337
   2017.0188 382.875
   2016.8788 383.871
@@ -5621,7 +5625,7 @@ line rock-edge -clip off -close on
   2015.6401 382.7337
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2018.0048 386.7077
   2018.0048 386.7077 2016.9155 385.8197 2016.7782 385.3277
   2016.6608 384.837 2017.3862 384.069 2017.3862 384.069
@@ -5636,7 +5640,7 @@ line rock-edge -clip off -close on
   2018.5315 386.8104 2018.0048 386.7077 2018.0048 386.7077
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3321.3092 -36.8213
   3321.3092 -36.8213 3316.2039 -37.9199 3315.7666 -38.5359
   3315.4372 -39.1493 3319.6106 -40.1279 3319.6106 -40.1279
@@ -5651,7 +5655,7 @@ line rock-edge -clip off -close on
   3323.9439 -36.6999 3321.3092 -36.8213 3321.3092 -36.8213
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3297.745 -32.1852
   3295.9624 -31.6185
   3294.9624 -33.2652
@@ -5668,7 +5672,7 @@ line rock-edge -clip off -close on
   3297.745 -32.1852
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3289.6201 -35.7019
   3289.6201 -35.7019 3291.0774 -36.5019 3291.6441 -36.4179
   3292.2094 -36.3179 3292.6068 -35.1446 3292.6068 -35.1446
@@ -5683,7 +5687,7 @@ line rock-edge -clip off -close on
   3289.2361 -35.1592 3289.6201 -35.7019 3289.6201 -35.7019
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3284.7087 -29.6678
   3284.7087 -29.6678 3283.054 -30.6678 3282.8967 -31.2025
   3282.7727 -31.7331 3284.0633 -32.5265 3284.0633 -32.5265
@@ -5698,7 +5702,7 @@ line rock-edge -clip off -close on
   3285.5513 -29.5385 3284.7087 -29.6678 3284.7087 -29.6678
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3277.26 -27.0543
   3277.26 -27.0543 3278.208 -29.173 3278.8774 -29.6676
   3279.548 -30.1276 3280.884 -29.513 3280.884 -29.513
@@ -5713,7 +5717,7 @@ line rock-edge -clip off -close on
   3277.276 -26.2236 3277.26 -27.0543 3277.26 -27.0543
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3271.9121 -22.0675
   3271.9121 -22.0675 3270.9068 -20.9675 3270.4521 -20.9075
   3269.9975 -20.8635 3269.4895 -21.8622 3269.4895 -21.8622
@@ -5728,7 +5732,7 @@ line rock-edge -clip off -close on
   3272.1121 -22.6582 3271.9121 -22.0675 3271.9121 -22.0675
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3267.6962 -22.5816
   3267.6962 -22.5816 3267.4375 -20.1896 3267.0069 -19.4736
   3266.5615 -18.7842 3265.3122 -18.8962 3265.3122 -18.8962
@@ -5743,7 +5747,7 @@ line rock-edge -clip off -close on
   3267.4775 -23.3829 3267.6962 -22.5816 3267.6962 -22.5816
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3275.236 -23.7106
   3273.9146 -22.2612
   3272.936 -22.8399
@@ -5760,7 +5764,7 @@ line rock-edge -clip off -close on
   3275.236 -23.7106
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3189.8331 -4.4082
   3191.8077 -3.3762
   3190.0197 -1.8095
@@ -5777,7 +5781,7 @@ line rock-edge -clip off -close on
   3189.8331 -4.4082
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3181.0127 -2.5436
   3181.0127 -2.5436 3180.99 -0.5143 3180.5447 0.1164
   3180.0793 0.7257 3178.4927 0.7177 3178.4927 0.7177
@@ -5792,7 +5796,7 @@ line rock-edge -clip off -close on
   3180.6407 -3.1996 3181.0127 -2.5436 3181.0127 -2.5436
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3141.0931 29.4592
   3139.3651 29.8619
   3138.3011 28.3952
@@ -5809,7 +5813,7 @@ line rock-edge -clip off -close on
   3141.0931 29.4592
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3149.4051 25.7052
   3149.4051 25.7052 3148.3477 26.9945 3147.6997 27.2385
   3147.0451 27.4625 3145.8904 26.8958 3145.8904 26.8958
@@ -5824,7 +5828,7 @@ line rock-edge -clip off -close on
   3149.4691 25.1545 3149.4051 25.7052 3149.4051 25.7052
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3129.1695 27.9487
   3129.1695 27.9487 3130.5588 26.4487 3131.3628 26.2141
   3132.1695 26.0061 3133.5081 26.8474 3133.5081 26.8474
@@ -5839,7 +5843,7 @@ line rock-edge -clip off -close on
   3129.0428 28.6341 3129.1695 27.9487 3129.1695 27.9487
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3097.3796 58.6842
   3097.3796 58.6842 3096.7876 58.1602 3096.7676 57.9656
   3096.7636 57.7749 3097.3583 57.6629 3097.3583 57.6629
@@ -5854,7 +5858,7 @@ line rock-edge -clip off -close on
   3097.7143 58.8242 3097.3796 58.6842 3097.3796 58.6842
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3099.4756 57.4226
   3098.9356 57.0506
   3099.1849 56.6573
@@ -5871,7 +5875,7 @@ line rock-edge -clip off -close on
   3099.4756 57.4226
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3102.5212 57.8497
   3102.5212 57.8497 3101.9466 57.8737 3101.7706 57.7737
   3101.5932 57.6711 3101.5986 57.2977 3101.5986 57.2977
@@ -5886,7 +5890,7 @@ line rock-edge -clip off -close on
   3102.7106 57.7524 3102.5212 57.8497 3102.5212 57.8497
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3097.0822 58.6492
   3097.9849 59.1025
   3097.6942 59.7625
@@ -5903,7 +5907,7 @@ line rock-edge -clip off -close on
   3097.0822 58.6492
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3091.4274 61.4082
   3091.4274 61.4082 3091.798 62.3269 3091.634 62.6322
   3091.45 62.9295 3090.4287 62.9962 3090.4287 62.9962
@@ -5918,7 +5922,7 @@ line rock-edge -clip off -close on
   3091.0634 61.1309 3091.4274 61.4082 3091.4274 61.4082
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3092.2667 62.3508
   3092.2667 62.3508 3091.2281 61.7135 3091.1427 61.4201
   3091.0841 61.1308 3091.9521 60.7975 3091.9521 60.7975
@@ -5933,7 +5937,7 @@ line rock-edge -clip off -close on
   3092.8107 62.4748 3092.2667 62.3508 3092.2667 62.3508
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3106.0657 77.2131
   3106.0657 77.2131 3100.5604 78.9718 3098.9804 78.2518
   3097.4644 77.4491 3097.9417 72.8585 3097.9417 72.8585
@@ -5948,7 +5952,7 @@ line rock-edge -clip off -close on
   3107.951 75.5571 3106.0657 77.2131 3106.0657 77.2131
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3079.005 69.4265
   3078.033 69.1518
   3078.1956 68.4491
@@ -5965,7 +5969,7 @@ line rock-edge -clip off -close on
   3079.005 69.4265
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3084.5735 65.7743
   3084.5735 65.7743 3084.0361 64.941 3084.1401 64.6116
   3084.2655 64.2863 3085.2548 64.0263 3085.2548 64.0263
@@ -5980,7 +5984,7 @@ line rock-edge -clip off -close on
   3084.9841 65.9783 3084.5735 65.7743 3084.5735 65.7743
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3083.571 65.0071
   3083.571 65.0071 3084.711 65.4364 3084.8484 65.7084
   3084.9617 65.9804 3084.1737 66.4737 3084.1737 66.4737
@@ -5995,7 +5999,7 @@ line rock-edge -clip off -close on
   3083.0137 64.9884 3083.571 65.0071 3083.571 65.0071
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3074.0744 68.7769
   3074.0744 68.7769 3075.097 67.9449 3075.5757 67.9209
   3076.0517 67.9183 3076.6357 68.7716 3076.6357 68.7716
@@ -6010,7 +6014,7 @@ line rock-edge -clip off -close on
   3073.885 69.2476 3074.0744 68.7769 3074.0744 68.7769
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3071.633 69.8055
   3071.633 69.8055 3072.477 69.3362 3072.8184 69.3535
   3073.1597 69.3802 3073.437 69.9522 3073.437 69.9522
@@ -6025,7 +6029,7 @@ line rock-edge -clip off -close on
   3071.4197 70.0962 3071.633 69.8055 3071.633 69.8055
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3069.1821 74.0203
   3069.1821 74.0203 3067.9475 73.5083 3067.8088 73.2043
   3067.6928 72.9016 3068.5741 72.3869 3068.5741 72.3869
@@ -6040,7 +6044,7 @@ line rock-edge -clip off -close on
   3069.7915 74.0589 3069.1821 74.0203 3069.1821 74.0203
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3062.7407 74.4877
   3062.7407 74.4877 3063.31 73.2184 3063.762 72.9024
   3064.2167 72.6077 3065.2047 72.909 3065.2047 72.909
@@ -6055,7 +6059,7 @@ line rock-edge -clip off -close on
   3062.794 74.969 3062.7407 74.4877 3062.7407 74.4877
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3059.5128 77.9722
   3059.5128 77.9722 3058.8515 78.6522 3058.5288 78.7069
   3058.2075 78.7495 3057.7901 78.1909 3057.7901 78.1909
@@ -6070,7 +6074,7 @@ line rock-edge -clip off -close on
   3059.6248 77.6189 3059.5128 77.9722 3059.5128 77.9722
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3056.4719 77.8459
   3056.4719 77.8459 3056.4106 79.2472 3056.1399 79.6805
   3055.8573 80.0992 3054.9573 80.0859 3054.9573 80.0859
@@ -6085,7 +6089,7 @@ line rock-edge -clip off -close on
   3056.2759 77.3912 3056.4719 77.8459 3056.4719 77.8459
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3061.8006 76.8773
   3060.9313 77.7747
   3060.202 77.48
@@ -6102,7 +6106,7 @@ line rock-edge -clip off -close on
   3061.8006 76.8773
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2764.6075 146.0153
   2764.6075 146.0153 2765.1382 145.1433 2765.4942 144.982
   2765.8568 144.8353 2766.5462 145.2353 2766.5462 145.2353
@@ -6117,7 +6121,7 @@ line rock-edge -clip off -close on
   2764.5995 146.3927 2764.6075 146.0153 2764.6075 146.0153
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2352.3017 284.1895
   2352.3017 284.1895 2351.1884 283.6602 2351.0684 283.3722
   2350.9657 283.0842 2351.7751 282.6482 2351.7751 282.6482
@@ -6132,7 +6136,7 @@ line rock-edge -clip off -close on
   2352.8551 284.2535 2352.3017 284.1895 2352.3017 284.1895
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2328.2018 291.0514
   2327.3138 290.5714
   2327.6244 289.9194
@@ -6149,7 +6153,7 @@ line rock-edge -clip off -close on
   2328.2018 291.0514
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2334.4321 288.7026
   2334.4321 288.7026 2334.0881 287.7733 2334.2628 287.4733
   2334.4561 287.1826 2335.4775 287.1466 2335.4775 287.1466
@@ -6164,7 +6168,7 @@ line rock-edge -clip off -close on
   2334.7881 288.9919 2334.4321 288.7026 2334.4321 288.7026
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2333.6211 287.735
   2333.6211 287.735 2334.6411 288.4044 2334.7144 288.7004
   2334.7651 288.9897 2333.8891 289.2977 2333.8891 289.2977
@@ -6179,7 +6183,7 @@ line rock-edge -clip off -close on
   2333.0811 287.5964 2333.6211 287.735 2333.6211 287.735
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2319.4216 293.1883
   2319.4216 293.1883 2319.0776 292.259 2319.2523 291.959
   2319.4456 291.6683 2320.467 291.6323 2320.467 291.6323
@@ -6194,7 +6198,7 @@ line rock-edge -clip off -close on
   2319.7776 293.4776 2319.4216 293.1883 2319.4216 293.1883
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2318.6106 292.2207
   2318.6106 292.2207 2319.6306 292.8901 2319.7039 293.1861
   2319.7546 293.4754 2318.8786 293.7834 2318.8786 293.7834
@@ -6209,7 +6213,7 @@ line rock-edge -clip off -close on
   2318.0706 292.0821 2318.6106 292.2207 2318.6106 292.2207
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2315.7304 294.6377
   2316.6357 295.0857
   2316.3477 295.7471
@@ -6226,7 +6230,7 @@ line rock-edge -clip off -close on
   2315.7304 294.6377
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2311.018 294.6776
   2311.018 294.6776 2311.882 294.5109 2312.174 294.6216
   2312.4647 294.7403 2312.5447 295.3163 2312.5447 295.3163
@@ -6241,7 +6245,7 @@ line rock-edge -clip off -close on
   2310.7527 294.8723 2311.018 294.6776 2311.018 294.6776
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2307.6247 297.8263
   2307.6247 297.8263 2306.6967 297.0343 2306.6567 296.7329
   2306.6447 296.4383 2307.5513 296.2423 2307.5513 296.2423
@@ -6256,7 +6260,7 @@ line rock-edge -clip off -close on
   2308.1433 298.0303 2307.6247 297.8263 2307.6247 297.8263
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2342.7264 285.8249
   2341.8384 285.3449
   2342.1491 284.6929
@@ -6273,7 +6277,7 @@ line rock-edge -clip off -close on
   2342.7264 285.8249
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2347.4373 285.9527
   2347.4373 285.9527 2346.568 286.0887 2346.28 285.9673
   2345.9946 285.838 2345.9346 285.2607 2345.9346 285.2607
@@ -6288,7 +6292,7 @@ line rock-edge -clip off -close on
   2347.7093 285.7687 2347.4373 285.9527 2347.4373 285.9527
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2350.941 282.9279
   2350.941 282.9279 2351.841 283.7519 2351.8677 284.0559
   2351.8703 284.3492 2350.957 284.5132 2350.957 284.5132
@@ -6303,7 +6307,7 @@ line rock-edge -clip off -close on
   2350.4303 282.7052 2350.941 282.9279 2350.941 282.9279
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2372.6313 248.8718
   2372.6313 248.8718 2371.6927 247.4424 2371.7807 246.9798
   2371.8967 246.5331 2373.27 246.4798 2373.27 246.4798
@@ -6318,7 +6322,7 @@ line rock-edge -clip off -close on
   2373.2593 249.3198 2372.6313 248.8718 2372.6313 248.8718
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2357.9532 278.5167
   2357.9532 278.5167 2358.8799 277.7247 2359.3359 277.682
   2359.7905 277.6567 2360.3959 278.3927 2360.3959 278.3927
@@ -6333,7 +6337,7 @@ line rock-edge -clip off -close on
   2357.8012 278.946 2357.9532 278.5167 2357.9532 278.5167
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2373.004 254.988
   2371.5813 255.4067
   2370.76 254.1227
@@ -6350,7 +6354,7 @@ line rock-edge -clip off -close on
   2373.004 254.988
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2338.6745 287.1326
   2338.6745 287.1326 2337.9185 286.1206 2337.9651 285.8099
   2338.0331 285.5099 2339.0531 285.5299 2339.0531 285.5299
@@ -6365,7 +6369,7 @@ line rock-edge -clip off -close on
   2339.1598 287.4632 2338.6745 287.1326 2338.6745 287.1326
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2367.9142 259.196
   2367.9142 259.196 2366.9755 257.7667 2367.0635 257.304
   2367.1795 256.8574 2368.5528 256.804 2368.5528 256.804
@@ -6380,7 +6384,7 @@ line rock-edge -clip off -close on
   2368.5422 259.644 2367.9142 259.196 2367.9142 259.196
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2360.1077 285.1715
   2360.1077 285.1715 2358.9517 285.9928 2358.413 285.9995
   2357.8784 285.9848 2357.2344 285.0835 2357.2344 285.0835
@@ -6395,7 +6399,7 @@ line rock-edge -clip off -close on
   2360.3264 284.6928 2360.1077 285.1715 2360.1077 285.1715
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2365.7175 260.6599
   2365.7175 260.6599 2367.0135 260.0812 2367.5415 260.1812
   2368.0641 260.2999 2368.5188 261.3105 2368.5188 261.3105
@@ -6410,7 +6414,7 @@ line rock-edge -clip off -close on
   2365.4095 261.0865 2365.7175 260.6599 2365.7175 260.6599
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2367.9621 266.6647
   2367.9621 266.6647 2368.7048 268.3273 2368.5408 268.8113
   2368.3488 269.2753 2366.9315 269.154 2366.9315 269.154
@@ -6425,7 +6429,7 @@ line rock-edge -clip off -close on
   2367.3808 266.1033 2367.9621 266.6647 2367.9621 266.6647
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2360.583 276.1674
   2360.583 276.1674 2358.8257 275.3141 2358.647 274.8514
   2358.507 274.3954 2359.843 273.7047 2359.843 273.7047
@@ -6440,7 +6444,7 @@ line rock-edge -clip off -close on
   2361.4697 276.2754 2360.583 276.1674 2360.583 276.1674
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2323.5297 289.3391
   2323.5297 289.3391 2324.7083 288.7511 2325.1803 288.8325
   2325.647 288.9338 2326.0297 289.8938 2326.0297 289.8938
@@ -6455,7 +6459,7 @@ line rock-edge -clip off -close on
   2323.2417 289.7565 2323.5297 289.3391 2323.5297 289.3391
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2273.4505 279.1715
   2273.4505 279.1715 2272.9039 280.2022 2272.5399 280.3328
   2272.1759 280.4422 2271.4865 279.7568 2271.4865 279.7568
@@ -6470,7 +6474,7 @@ line rock-edge -clip off -close on
   2273.4599 278.6755 2273.4505 279.1715 2273.4505 279.1715
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2248.7798 255.3118
   2248.7798 255.3118 2249.8878 254.8038 2250.3385 254.8878
   2250.7825 254.9878 2251.1638 255.8598 2251.1638 255.8598
@@ -6485,7 +6489,7 @@ line rock-edge -clip off -close on
   2248.5158 255.6825 2248.7798 255.3118 2248.7798 255.3118
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2249.3228 254.2717
   2249.3228 254.2717 2248.7921 255.4157 2248.4294 255.5557
   2248.0668 255.6717 2247.3641 254.8944 2247.3641 254.8944
@@ -6500,7 +6504,7 @@ line rock-edge -clip off -close on
   2249.3228 253.717 2249.3228 254.2717 2249.3228 254.2717
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2294.1365 293.0254
   2294.1365 293.0254 2294.7605 292.2561 2295.1085 292.2534
   2295.4552 292.2721 2296.0072 293.1321 2296.0072 293.1321
@@ -6515,7 +6519,7 @@ line rock-edge -clip off -close on
   2294.0685 293.4788 2294.1365 293.0254 2294.1365 293.0254
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2300.354 298.5945
   2300.354 298.5945 2299.706 298.7331 2299.4313 298.5491
   2299.154 298.3531 2298.886 297.5331 2298.886 297.5331
@@ -6530,7 +6534,7 @@ line rock-edge -clip off -close on
   2300.498 298.3518 2300.354 298.5945 2300.354 298.5945
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2302.013 299.0192
   2301.2823 299.2792
   2300.8903 298.5805
@@ -6547,7 +6551,7 @@ line rock-edge -clip off -close on
   2302.013 299.0192
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2304.2941 299.0451
   2304.2941 299.0451 2303.2368 298.6678 2303.0621 298.3598
   2302.9088 298.0544 2303.4714 297.3904 2303.4714 297.3904
@@ -6562,7 +6566,7 @@ line rock-edge -clip off -close on
   2304.7688 299.0064 2304.2941 299.0451 2304.2941 299.0451
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2287.0687 287.3795
   2286.87 286.3902
   2287.5687 286.2115
@@ -6579,7 +6583,7 @@ line rock-edge -clip off -close on
   2287.0687 287.3795
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2289.9882 291.0788
   2289.9882 291.0788 2289.3269 290.4974 2289.2362 290.2001
   2289.1522 289.8974 2289.5575 289.4828 2289.5575 289.4828
@@ -6594,7 +6598,7 @@ line rock-edge -clip off -close on
   2290.3029 291.1708 2289.9882 291.0788 2289.9882 291.0788
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2294.5547 291.834
   2294.5547 291.834 2294.4987 293.0526 2294.2827 293.2673
   2294.0587 293.4593 2293.3481 292.862 2293.3481 292.862
@@ -6609,7 +6613,7 @@ line rock-edge -clip off -close on
   2294.4001 291.2993 2294.5547 291.834 2294.5547 291.834
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2282.4623 284.2505
   2282.4623 284.2505 2283.6263 283.7545 2284.1236 283.8239
   2284.6116 283.9092 2285.089 284.7212 2285.089 284.7212
@@ -6624,7 +6628,7 @@ line rock-edge -clip off -close on
   2282.2023 284.6052 2282.4623 284.2505 2282.4623 284.2505
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2278.8099 283.3512
   2278.8099 283.3512 2277.9473 283.3952 2277.6966 283.2325
   2277.4526 283.0618 2277.5179 282.4312 2277.5179 282.4312
@@ -6639,7 +6643,7 @@ line rock-edge -clip off -close on
   2279.1033 283.1845 2278.8099 283.3512 2278.8099 283.3512
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2281.0205 284.0372
   2279.8845 284.0985
   2279.5779 283.4505
@@ -6656,7 +6660,7 @@ line rock-edge -clip off -close on
   2281.0205 284.0372
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2274.4012 281.575
   2274.4012 281.575 2273.0318 281.051 2272.8932 280.767
   2272.7838 280.487 2273.8252 280.063 2273.8252 280.063
@@ -6671,7 +6675,7 @@ line rock-edge -clip off -close on
   2275.0932 281.6417 2274.4012 281.575 2274.4012 281.575
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2236.7943 245.9056
   2237.793 246.0536
   2237.7237 246.771
@@ -6688,7 +6692,7 @@ line rock-edge -clip off -close on
   2236.7943 245.9056
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2233.1405 247.9124
   2233.1405 247.9124 2233.9112 247.487 2234.2232 247.5017
   2234.5352 247.5257 2234.7872 248.0484 2234.7872 248.0484
@@ -6703,7 +6707,7 @@ line rock-edge -clip off -close on
   2232.9459 248.1764 2233.1405 247.9124 2233.1405 247.9124
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2230.3203 251.0567
   2230.3203 251.0567 2229.1923 250.5914 2229.0656 250.3141
   2228.959 250.0394 2229.7643 249.5727 2229.7643 249.5727
@@ -6718,7 +6722,7 @@ line rock-edge -clip off -close on
   2230.8763 251.0927 2230.3203 251.0567 2230.3203 251.0567
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2225.5792 252.7209
   2225.5792 252.7209 2226.0992 251.5662 2226.5112 251.2796
   2226.9285 251.0116 2227.8298 251.2849 2227.8298 251.2849
@@ -6733,7 +6737,7 @@ line rock-edge -clip off -close on
   2225.6285 253.1582 2225.5792 252.7209 2225.5792 252.7209
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2242.3355 246.6402
   2242.3355 246.6402 2241.3102 247.4082 2240.8062 247.4642
   2240.3048 247.5069 2239.6408 246.8589 2239.6408 246.8589
@@ -6748,7 +6752,7 @@ line rock-edge -clip off -close on
   2242.5088 246.2349 2242.3355 246.6402 2242.3355 246.6402
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2213.6273 258.0137
   2214.0886 256.9724
   2214.8059 256.991
@@ -6765,7 +6769,7 @@ line rock-edge -clip off -close on
   2213.6273 258.0137
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2222.3225 255.5592
   2222.3225 255.5592 2221.7185 256.1779 2221.4238 256.2272
   2221.1291 256.2672 2220.7491 255.7592 2220.7491 255.7592
@@ -6780,7 +6784,7 @@ line rock-edge -clip off -close on
   2222.4251 255.2392 2222.3225 255.5592 2222.3225 255.5592
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2219.5464 255.4459
   2219.5464 255.4459 2219.4904 256.7192 2219.2424 257.1139
   2218.985 257.4939 2218.1637 257.4819 2218.1637 257.4819
@@ -6795,7 +6799,7 @@ line rock-edge -clip off -close on
   2219.3664 255.0312 2219.5464 255.4459 2219.5464 255.4459
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2224.4137 254.5648
   2223.619 255.3794
   2222.9537 255.1114
@@ -6812,7 +6816,7 @@ line rock-edge -clip off -close on
   2224.4137 254.5648
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2213.5544 260.9827
   2213.5544 260.9827 2212.9944 261.6081 2212.7224 261.6587
   2212.453 261.6987 2212.1037 261.1907 2212.1037 261.1907
@@ -6827,7 +6831,7 @@ line rock-edge -clip off -close on
   2213.6517 260.6587 2213.5544 260.9827 2213.5544 260.9827
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2146.5414 276.2822
   2146.5414 276.2822 2145.7881 277.3009 2145.3227 277.4902
   2144.8574 277.6636 2144.0361 277.2049 2144.0361 277.2049
@@ -6842,7 +6846,7 @@ line rock-edge -clip off -close on
   2146.5854 275.8449 2146.5414 276.2822 2146.5414 276.2822
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2167.1338 278.3721
   2167.1338 278.3721 2165.9978 277.8201 2165.8685 277.4974
   2165.7592 277.1774 2166.5578 276.6481 2166.5578 276.6481
@@ -6857,7 +6861,7 @@ line rock-edge -clip off -close on
   2167.6912 278.4214 2167.1338 278.3721 2167.1338 278.3721
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2138.3397 278.0569
   2138.3397 278.0569 2137.1944 277.3822 2137.0584 276.9969
   2136.9437 276.6156 2137.7371 275.9969 2137.7371 275.9969
@@ -6872,7 +6876,7 @@ line rock-edge -clip off -close on
   2138.8984 278.1249 2138.3397 278.0569 2138.3397 278.0569
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2125.2991 273.11
   2125.2991 273.11 2124.4137 272.334 2124.3004 271.9073
   2124.2031 271.4807 2124.7844 270.822 2124.7844 270.822
@@ -6887,7 +6891,7 @@ line rock-edge -clip off -close on
   2125.7231 273.2007 2125.2991 273.11 2125.2991 273.11
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2124.3408 270.239
   2124.3408 270.239 2122.7101 270.4003 2122.1674 270.1083
   2121.6421 269.8017 2121.5234 268.583 2121.5234 268.583
@@ -6902,7 +6906,7 @@ line rock-edge -clip off -close on
   2124.8381 269.8963 2124.3408 270.239 2124.3408 270.239
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2119.3291 262.5047
   2120.7318 262.9874
   2120.8238 264.0527
@@ -6919,7 +6923,7 @@ line rock-edge -clip off -close on
   2119.3291 262.5047
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2115.5007 262.8914
   2115.5007 262.8914 2114.614 262.1834 2114.5034 261.7901
   2114.4087 261.3981 2114.998 260.7861 2114.998 260.7861
@@ -6934,7 +6938,7 @@ line rock-edge -clip off -close on
   2115.9274 262.9741 2115.5007 262.8914 2115.5007 262.8914
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2111.8004 259.6193
   2111.8004 259.6193 2112.571 259.1939 2112.883 259.2086
   2113.195 259.2326 2113.447 259.7553 2113.447 259.7553
@@ -6949,7 +6953,7 @@ line rock-edge -clip off -close on
   2111.6057 259.8833 2111.8004 259.6193 2111.8004 259.6193
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2074.1403 367.7339
   2075.519 367.8753
   2075.379 368.8713
@@ -6966,7 +6970,7 @@ line rock-edge -clip off -close on
   2074.1403 367.7339
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2068.3382 372.2912
   2068.3382 372.2912 2067.2489 371.4032 2067.1116 370.9112
   2066.9942 370.4205 2067.7196 369.6525 2067.7196 369.6525
@@ -6981,7 +6985,7 @@ line rock-edge -clip off -close on
   2068.8649 372.3939 2068.3382 372.2912 2068.3382 372.2912
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1392.2278 462.4129
   1392.2278 462.4129 1391.9398 462.7182 1391.7811 462.7689
   1391.6238 462.8169 1391.3838 462.6649 1391.3838 462.6649
@@ -6996,7 +7000,7 @@ line rock-edge -clip off -close on
   1392.2651 462.2769 1392.2278 462.4129 1392.2278 462.4129
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1211.6615 480.9109
   1212.1681 480.6189
   1212.4415 480.9043
@@ -7013,7 +7017,7 @@ line rock-edge -clip off -close on
   1211.6615 480.9109
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   892.7507 543.0438
   892.7507 543.0438 892.0934 543.5171 891.7454 543.6144
   891.3974 543.7104 890.8947 543.5451 890.8947 543.5451
@@ -7028,7 +7032,7 @@ line rock-edge -clip off -close on
   892.8454 542.8491 892.7507 543.0438 892.7507 543.0438
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1061.5517 891.1715
   1061.5517 891.1715 1062.3037 891.2861 1062.5917 891.4528
   1062.8797 891.6195 1063.077 892.0755 1063.077 892.0755
@@ -7043,7 +7047,7 @@ line rock-edge -clip off -close on
   1061.353 891.2421 1061.5517 891.1715 1061.5517 891.1715
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1061.0577 890.2976
   1061.0577 890.2976 1061.6363 889.5589 1061.979 889.3896
   1062.3217 889.2229 1062.891 889.4309 1062.891 889.4309
@@ -7058,7 +7062,7 @@ line rock-edge -clip off -close on
   1061.0017 890.5869 1061.0577 890.2976 1061.0577 890.2976
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1064.3191 890.5123
   1064.9578 889.7057
   1065.3965 890.255
@@ -7075,7 +7079,7 @@ line rock-edge -clip off -close on
   1064.3191 890.5123
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1067.5135 890.0276
   1068.5561 889.7196
   1068.8161 890.4249
@@ -7092,7 +7096,7 @@ line rock-edge -clip off -close on
   1067.5135 890.0276
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1067.6766 889.8979
   1067.6766 889.8979 1067.0192 890.2819 1066.6899 890.3325
   1066.3619 890.3832 1065.9232 890.1525 1065.9232 890.1525
@@ -7107,7 +7111,7 @@ line rock-edge -clip off -close on
   1067.7872 889.7192 1067.6766 889.8979 1067.6766 889.8979
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1070.9476 895.6634
   1070.9476 895.6634 1069.397 897.0208 1068.621 897.2021
   1067.8476 897.3821 1066.8116 896.5661 1066.8116 896.5661
@@ -7122,7 +7126,7 @@ line rock-edge -clip off -close on
   1071.2076 895.0301 1070.9476 895.6634 1070.9476 895.6634
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1054.1414 862.4773
   1054.7001 862.32
   1054.9121 862.6626
@@ -7139,7 +7143,7 @@ line rock-edge -clip off -close on
   1054.1414 862.4773
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1056.3957 863.4108
   1056.3957 863.4108 1056.041 863.8428 1055.8863 863.9014
   1055.729 863.9614 1055.565 863.7108 1055.565 863.7108
@@ -7154,7 +7158,7 @@ line rock-edge -clip off -close on
   1056.4717 863.2121 1056.3957 863.4108 1056.3957 863.4108
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1057.4796 862.5763
   1057.4796 862.5763 1057.2196 862.9976 1057.0503 863.1069
   1056.8823 863.2149 1056.5756 863.1483 1056.5756 863.1483
@@ -7169,7 +7173,7 @@ line rock-edge -clip off -close on
   1057.4916 862.4229 1057.4796 862.5763 1057.4796 862.5763
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1057.8058 863.0072
   1058.3644 862.8512
   1058.5764 863.1925
@@ -7186,7 +7190,7 @@ line rock-edge -clip off -close on
   1057.8058 863.0072
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1060.06 863.9412
   1060.06 863.9412 1059.7054 864.3732 1059.5507 864.4318
   1059.3934 864.4918 1059.2294 864.2412 1059.2294 864.2412
@@ -7201,7 +7205,7 @@ line rock-edge -clip off -close on
   1060.136 863.7425 1060.06 863.9412 1060.06 863.9412
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   1052.2469 861.9527
   1052.2469 861.9527 1052.7362 861.6607 1052.9029 861.6554
   1053.0722 861.6487 1053.1349 861.938 1053.1349 861.938
@@ -7216,7 +7220,7 @@ line rock-edge -clip off -close on
   1052.1042 862.1167 1052.2469 861.9527 1052.2469 861.9527
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   2091.7327 260.2078
   2110.754 259.6105
   2109.67 258.6651
@@ -7232,7 +7236,7 @@ line rock-edge -clip off -close on
   2091.7327 260.2078
 endline
 
-line rock-edge -clip off -close on
+line rock-border -clip off -close on
   3005.281 79.61
   3051.3357 79.9993
   3046.6277 79.3326

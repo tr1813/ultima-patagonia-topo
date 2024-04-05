@@ -4,7 +4,7 @@ encoding  utf-8
 
 scrap Topo2023-1p -projection plan -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 
-point 507.8221 23.8987 water-flow -orientation 315.5790799448538
+point 507.822 23.8987 water-flow -orientation 315.5790799448538
 line wall -id alt011
   181.2355 828.5052
   altitude .
@@ -18,348 +18,348 @@ line wall -id alt010
 endline
 
 point 782.88 -998.841 u:terminus -align r -attr text UP2023 -attr side 11 -orientation 329.9999884324239
-line rock-edge -close on
+line rock-border -close on
   616.676 -371.164
   617.8741 -370.9779 618.0715 -369.8108 616.8029 -369.7544
   615.5314 -369.7009 614.322 -369.7826 614.1444 -370.0025
   613.9584 -370.2168 615.4328 -371.3501 616.676 -371.164
 endline
 
-line rock-edge 
+line rock-border 
   616.676 -371.164
 endline
 
-line rock-edge 
+line rock-border 
   616.676 -371.164
   617.8741 -370.9779 618.0715 -369.8108 616.8029 -369.7544
   615.5314 -369.7009 614.322 -369.7826 614.1444 -370.0025
   613.9584 -370.2168 615.4328 -371.3501 616.676 -371.164
 endline
 
-line rock-edge 
+line rock-border 
   616.676 -371.164
 endline
 
-line rock-edge -close on
+line rock-border -close on
   616.426 -372.191
   616.426 -372.191 615.5746 -371.0042 613.7619 -371.1479
   611.9521 -371.2973 609.4656 -372.3601 610.3367 -372.3996
   611.1994 -372.4447 614.4357 -372.8591 616.426 -372.191
 endline
 
-line rock-edge 
+line rock-border 
   616.426 -372.191
 endline
 
-line rock-edge 
+line rock-border 
   616.426 -372.191
   616.426 -372.191 615.5746 -371.0042 613.7619 -371.1479
   611.9521 -371.2973 609.4656 -372.3601 610.3367 -372.3996
   611.1994 -372.4447 614.4357 -372.8591 616.426 -372.191
 endline
 
-line rock-edge 
+line rock-border 
   616.426 -372.191
 endline
 
-line rock-edge -close on
+line rock-border -close on
   611.28 -370.489
   612.4105 -371.112 615.4128 -371.0021 614.725 -370.0943
   614.0399 -369.1978 614.7813 -366.8298 612.4809 -367.7573
   610.1721 -368.6876 610.7303 -370.1817 611.28 -370.489
 endline
 
-line rock-edge 
+line rock-border 
   611.28 -370.489
 endline
 
-line rock-edge 
+line rock-border 
   611.28 -370.489
   612.4105 -371.112 615.4128 -371.0021 614.725 -370.0943
   614.0399 -369.1978 614.7813 -366.8298 612.4809 -367.7573
   610.1721 -368.6876 610.7303 -370.1817 611.28 -370.489
 endline
 
-line rock-edge 
+line rock-border 
   611.28 -370.489
 endline
 
-line rock-edge -close on
+line rock-border -close on
   615.074 -374.228
   616.2129 -373.9743 617.0502 -371.6964 615.4856 -371.8966
   613.921 -372.0911 613.3543 -371.9727 613.281 -372.7
   613.1993 -373.4189 614.5666 -374.3436 615.074 -374.228
 endline
 
-line rock-edge 
+line rock-border 
   615.074 -374.228
 endline
 
-line rock-edge 
+line rock-border 
   615.074 -374.228
   616.2129 -373.9743 617.0502 -371.6964 615.4856 -371.8966
   613.921 -372.0911 613.3543 -371.9727 613.281 -372.7
   613.1993 -373.4189 614.5666 -374.3436 615.074 -374.228
 endline
 
-line rock-edge 
+line rock-border 
   615.074 -374.228
 endline
 
-line rock-edge -close on
+line rock-border -close on
   619.289 -374.856
   619.289 -374.856 618.6744 -372.2342 617.7892 -372.285
   616.8956 -372.3301 615.8074 -374.171 616.25 -374.3908
   616.6926 -374.6107 618.3897 -375.9526 619.289 -374.856
 endline
 
-line rock-edge 
+line rock-border 
   619.289 -374.856
 endline
 
-line rock-edge 
+line rock-border 
   619.289 -374.856
   619.289 -374.856 618.6744 -372.2342 617.7892 -372.285
   616.8956 -372.3301 615.8074 -374.171 616.25 -374.3908
   616.6926 -374.6107 618.3897 -375.9526 619.289 -374.856
 endline
 
-line rock-edge 
+line rock-border 
   619.289 -374.856
 endline
 
-line rock-edge -close on
+line rock-border -close on
   612.197 -377.325
   613.3444 -378.3483 614.7737 -377.6266 615.7604 -376.6653
   616.7442 -375.704 617.5279 -374.4692 615.174 -374.9964
   612.82 -375.5236 611.464 -376.671 612.197 -377.325
 endline
 
-line rock-edge 
+line rock-border 
   612.197 -377.325
 endline
 
-line rock-edge 
+line rock-border 
   612.197 -377.325
   613.3444 -378.3483 614.7737 -377.6266 615.7604 -376.6653
   616.7442 -375.704 617.5279 -374.4692 615.174 -374.9964
   612.82 -375.5236 611.464 -376.671 612.197 -377.325
 endline
 
-line rock-edge 
+line rock-border 
   612.197 -377.325
 endline
 
-line rock-edge -close on
+line rock-border -close on
   608.907 -373.809
   608.8393 -374.1755 606.6179 -376.1686 608.907 -376.163
   611.1961 -376.1601 612.9665 -375.8641 613.1639 -375.0212
   613.3584 -374.1755 608.907 -373.809 608.907 -373.809
 endline
 
-line rock-edge 
+line rock-border 
   608.907 -373.809
 endline
 
-line rock-edge 
+line rock-border 
   608.907 -373.809
   608.8393 -374.1755 606.6179 -376.1686 608.907 -376.163
   611.1961 -376.1601 612.9665 -375.8641 613.1639 -375.0212
   613.3584 -374.1755 608.907 -373.809 608.907 -373.809
 endline
 
-line rock-edge 
+line rock-border 
   608.907 -373.809
 endline
 
-line rock-edge -close on
+line rock-border -close on
   591.519 -275.829
   592.1195 -276.3844 592.8355 -275.9953 592.3337 -275.2962
   591.8291 -274.597 591.2822 -273.9881 591.0905 -273.9853
   590.8932 -273.9797 590.896 -275.2454 591.519 -275.829
 endline
 
-line rock-edge 
+line rock-border 
   591.519 -275.829
 endline
 
-line rock-edge 
+line rock-border 
   591.519 -275.829
   592.1195 -276.3844 592.8355 -275.9953 592.3337 -275.2962
   591.8291 -274.597 591.2822 -273.9881 591.0905 -273.9853
   590.8932 -273.9797 590.896 -275.2454 591.519 -275.829
 endline
 
-line rock-edge 
+line rock-border 
   591.519 -275.829
 endline
 
-line rock-edge -close on
+line rock-border -close on
   590.855 -276.132
   590.855 -276.132 591.1454 -275.1735 590.3081 -274.2714
   589.4708 -273.3693 587.8583 -272.4982 588.1994 -272.9774
   588.5349 -273.4567 589.6625 -275.3567 590.855 -276.132
 endline
 
-line rock-edge 
+line rock-border 
   590.855 -276.132
 endline
 
-line rock-edge 
+line rock-border 
   590.855 -276.132
   590.855 -276.132 591.1454 -275.1735 590.3081 -274.2714
   589.4708 -273.3693 587.8583 -272.4982 588.1994 -272.9774
   588.5349 -273.4567 589.6625 -275.3567 590.855 -276.132
 endline
 
-line rock-edge 
+line rock-border 
   590.855 -276.132
 endline
 
-line rock-edge -close on
+line rock-border -close on
   589.628 -272.668
   589.7633 -273.5363 591.0798 -275.084 591.28 -274.3341
   591.4802 -273.5842 593.073 -272.9753 591.607 -272.1436
   590.1411 -271.3148 589.566 -272.2451 589.628 -272.668
 endline
 
-line rock-edge 
+line rock-border 
   589.628 -272.668
 endline
 
-line rock-edge 
+line rock-border 
   589.628 -272.668
   589.7633 -273.5363 591.0798 -275.084 591.28 -274.3341
   591.4802 -273.5842 593.073 -272.9753 591.607 -272.1436
   590.1411 -271.3148 589.566 -272.2451 589.628 -272.668
 endline
 
-line rock-edge 
+line rock-border 
   589.628 -272.668
 endline
 
-line rock-edge -close on
+line rock-border -close on
   589.19 -276.278
   589.8017 -276.777 591.3861 -276.2526 590.6249 -275.5056
   589.8609 -274.7557 589.6918 -274.4033 589.2661 -274.6739
   588.8432 -274.9361 588.9137 -276.0553 589.19 -276.278
 endline
 
-line rock-edge 
+line rock-border 
   589.19 -276.278
 endline
 
-line rock-edge 
+line rock-border 
   589.19 -276.278
   589.8017 -276.777 591.3861 -276.2526 590.6249 -275.5056
   589.8609 -274.7557 589.6918 -274.4033 589.2661 -274.6739
   588.8432 -274.9361 588.9137 -276.0553 589.19 -276.278
 endline
 
-line rock-edge 
+line rock-border 
   589.19 -276.278
 endline
 
-line rock-edge -close on
+line rock-border -close on
   590.61 -278.788
   590.61 -278.788 591.7715 -277.3474 591.374 -276.8936
   590.9793 -276.4397 589.5246 -276.6427 589.5923 -276.9725
   589.6571 -277.3023 589.6402 -278.7739 590.61 -278.788
 endline
 
-line rock-edge 
+line rock-border 
   590.61 -278.788
 endline
 
-line rock-edge 
+line rock-border 
   590.61 -278.788
   590.61 -278.788 591.7715 -277.3474 591.374 -276.8936
   590.9793 -276.4397 589.5246 -276.6427 589.5923 -276.9725
   589.6571 -277.3023 589.6402 -278.7739 590.61 -278.788
 endline
 
-line rock-edge 
+line rock-border 
   590.61 -278.788
 endline
 
-line rock-edge -close on
+line rock-border -close on
   589.104 -281.976
   590.2514 -282.9993 591.6807 -282.2776 592.6674 -281.3163
   593.6512 -280.355 594.4349 -279.1202 592.081 -279.6474
   589.727 -280.1746 588.371 -281.322 589.104 -281.976
 endline
 
-line rock-edge 
+line rock-border 
   589.104 -281.976
 endline
 
-line rock-edge 
+line rock-border 
   589.104 -281.976
   590.2514 -282.9993 591.6807 -282.2776 592.6674 -281.3163
   593.6512 -280.355 594.4349 -279.1202 592.081 -279.6474
   589.727 -280.1746 588.371 -281.322 589.104 -281.976
 endline
 
-line rock-edge 
+line rock-border 
   589.104 -281.976
 endline
 
-line rock-edge -close on
+line rock-border -close on
   587.599 -280.322
   586.0259 -280.2431 585.5862 -282.1854 587.0605 -282.2785
   588.5321 -282.3687 589.22 -283.6796 589.9586 -283.5893
   590.6944 -283.4963 589.0706 -280.3953 587.599 -280.322
 endline
 
-line rock-edge 
+line rock-border 
   587.599 -280.322
 endline
 
-line rock-edge 
+line rock-border 
   587.599 -280.322
   586.0259 -280.2431 585.5862 -282.1854 587.0605 -282.2785
   588.5321 -282.3687 589.22 -283.6796 589.9586 -283.5893
   590.6944 -283.4963 589.0706 -280.3953 587.599 -280.322
 endline
 
-line rock-edge 
+line rock-border 
   587.599 -280.322
 endline
 
-line rock-edge -close on
+line rock-border -close on
   585.814 -278.461
   585.7463 -278.8275 583.5249 -280.8206 585.814 -280.815
   588.1031 -280.8121 589.8735 -280.5161 590.0709 -279.6732
   590.2654 -278.8275 585.814 -278.461 585.814 -278.461
 endline
 
-line rock-edge 
+line rock-border 
   585.814 -278.461
 endline
 
-line rock-edge 
+line rock-border 
   585.814 -278.461
   585.7463 -278.8275 583.5249 -280.8206 585.814 -280.815
   588.1031 -280.8121 589.8735 -280.5161 590.0709 -279.6732
   590.2654 -278.8275 585.814 -278.461 585.814 -278.461
 endline
 
-line rock-edge 
+line rock-border 
   585.814 -278.461
 endline
 
-line rock-edge 
+line rock-border 
   636.19 -419.43
   636.1477 -417.6681
   636.1477 -417.6681 636.159 -416.0724 636.2464 -415.7539
   636.3366 -415.4353 636.7566 -415.4212 636.7566 -415.4212
 endline
 
-line rock-edge 
+line rock-border 
   636.19 -419.43
 endline
 
-line rock-edge 
+line rock-border 
   638.499 -420.724
   637.5405 -421.3188
   637.5405 -421.3188 637.6335 -421.6769 636.6525 -421.1835
@@ -367,11 +367,11 @@ line rock-edge
   634.2732 -419.9628 633.3569 -419.3877 633.3569 -419.3877
 endline
 
-line rock-edge 
+line rock-border 
   638.499 -420.724
 endline
 
-line rock-edge -close on
+line rock-border -close on
   631.565 -415.503
   631.565 -415.503 631.9202 -417.8203 632.4643 -418.5815
   633.0027 -419.3342 634.4997 -419.4977 634.4997 -419.4977
@@ -386,11 +386,11 @@ line rock-edge -close on
   631.8046 -414.7869 631.565 -415.503 631.565 -415.503
 endline
 
-line rock-edge 
+line rock-border 
   631.565 -415.503
 endline
 
-line rock-edge 
+line rock-border 
   631.565 -415.503
   631.565 -415.503 631.9202 -417.8203 632.4643 -418.5815
   633.0027 -419.3342 634.4997 -419.4977 634.4997 -419.4977
@@ -405,22 +405,22 @@ line rock-edge
   631.8046 -414.7869 631.565 -415.503 631.565 -415.503
 endline
 
-line rock-edge 
+line rock-border 
   631.565 -415.503
 endline
 
-line rock-edge 
+line rock-border 
   639.959 -449.314
   642.8176 -449.7735
   642.8176 -449.7735 645.3942 -450.2669 645.896 -450.5065
   646.3978 -450.7489 646.3612 -451.434 646.3612 -451.434
 endline
 
-line rock-edge 
+line rock-border 
   639.959 -449.314
 endline
 
-line rock-edge 
+line rock-border 
   637.511 -452.677
   636.6935 -450.9432
   636.6935 -450.9432 636.1043 -450.9884 637.0515 -449.5421
@@ -428,11 +428,11 @@ line rock-edge
   639.3913 -446.0465 640.4598 -444.7271 640.4598 -444.7271
 endline
 
-line rock-edge 
+line rock-border 
   637.511 -452.677
 endline
 
-line rock-edge -close on
+line rock-border -close on
   647.022 -442.979
   647.022 -442.979 643.2218 -442.8634 641.9081 -443.5175
   640.6029 -444.163 640.1124 -446.548 640.1124 -446.548
@@ -447,11 +447,11 @@ line rock-edge -close on
   648.1468 -443.5823 647.022 -442.979 647.022 -442.979
 endline
 
-line rock-edge 
+line rock-border 
   647.022 -442.979
 endline
 
-line rock-edge 
+line rock-border 
   647.022 -442.979
   647.022 -442.979 643.2218 -442.8634 641.9081 -443.5175
   640.6029 -444.163 640.1124 -446.548 640.1124 -446.548
@@ -466,22 +466,22 @@ line rock-edge
   648.1468 -443.5823 647.022 -442.979 647.022 -442.979
 endline
 
-line rock-edge 
+line rock-border 
   647.022 -442.979
 endline
 
-line rock-edge 
+line rock-border 
   650.891 -484.103
   650.8487 -482.3411
   650.8487 -482.3411 650.86 -480.7454 650.9474 -480.4269
   651.0376 -480.1083 651.4576 -480.0942 651.4576 -480.0942
 endline
 
-line rock-edge 
+line rock-border 
   650.891 -484.103
 endline
 
-line rock-edge 
+line rock-border 
   653.201 -485.397
   652.2425 -485.9918
   652.2425 -485.9918 652.3355 -486.3499 651.3545 -485.8565
@@ -489,11 +489,11 @@ line rock-edge
   648.9752 -484.6358 648.0589 -484.0607 648.0589 -484.0607
 endline
 
-line rock-edge 
+line rock-border 
   653.201 -485.397
 endline
 
-line rock-edge -close on
+line rock-border -close on
   646.266 -480.176
   646.266 -480.176 646.6212 -482.4933 647.1653 -483.2545
   647.7037 -484.0072 649.2007 -484.1707 649.2007 -484.1707
@@ -508,11 +508,11 @@ line rock-edge -close on
   646.5056 -479.4599 646.266 -480.176 646.266 -480.176
 endline
 
-line rock-edge 
+line rock-border 
   646.266 -480.176
 endline
 
-line rock-edge 
+line rock-border 
   646.266 -480.176
   646.266 -480.176 646.6212 -482.4933 647.1653 -483.2545
   647.7037 -484.0072 649.2007 -484.1707 649.2007 -484.1707
@@ -527,22 +527,22 @@ line rock-edge
   646.5056 -479.4599 646.266 -480.176 646.266 -480.176
 endline
 
-line rock-edge 
+line rock-border 
   646.266 -480.176
 endline
 
-line rock-edge 
+line rock-border 
   652.795 -517.741
   649.4487 -518.1554
   649.4487 -518.1554 646.3646 -518.4571 645.6486 -518.3922
   644.9297 -518.3302 644.4166 -517.7354 644.4166 -517.7354
 endline
 
-line rock-edge 
+line rock-border 
   652.795 -517.741
 endline
 
-line rock-edge 
+line rock-border 
   652.617 -514.19
   654.8723 -515.436
   654.8723 -515.436 655.4502 -515.2331 655.6363 -516.73
@@ -550,11 +550,11 @@ line rock-edge
   656.0338 -520.3639 655.9915 -521.7903 655.9915 -521.7903
 endline
 
-line rock-edge 
+line rock-border 
   652.617 -514.19
 endline
 
-line rock-edge -close on
+line rock-border -close on
   650.579 -525.121
   650.579 -525.121 654.6301 -524.154 655.4645 -523.2266
   656.3018 -522.3075 654.8753 -520.1425 654.8753 -520.1425
@@ -569,11 +569,11 @@ line rock-edge -close on
   648.9185 -524.9237 650.579 -525.121 650.579 -525.121
 endline
 
-line rock-edge 
+line rock-border 
   650.579 -525.121
 endline
 
-line rock-edge 
+line rock-border 
   650.579 -525.121
   650.579 -525.121 654.6301 -524.154 655.4645 -523.2266
   656.3018 -522.3075 654.8753 -520.1425 654.8753 -520.1425
@@ -588,22 +588,22 @@ line rock-edge
   648.9185 -524.9237 650.579 -525.121 650.579 -525.121
 endline
 
-line rock-edge 
+line rock-border 
   650.579 -525.121
 endline
 
-line rock-edge 
+line rock-border 
   663.843 -562.142
   661.9316 -559.9685
   661.9316 -559.9685 660.2599 -557.9472 660.0259 -557.4425
   659.7919 -556.9351 660.2571 -556.4333 660.2571 -556.4333
 endline
 
-line rock-edge 
+line rock-border 
   663.843 -562.142
 endline
 
-line rock-edge 
+line rock-border 
   667.87 -561.11
   667.3992 -562.9678
   667.3992 -562.9678 667.8785 -563.3061 666.2293 -563.8192
@@ -611,11 +611,11 @@ line rock-edge
   662.198 -565.0257 660.5347 -565.3612 660.5347 -565.3612
 endline
 
-line rock-edge 
+line rock-border 
   667.87 -561.11
 endline
 
-line rock-edge -close on
+line rock-border -close on
   654.363 -562.528
   654.363 -562.528 657.2188 -565.0398 658.6509 -565.3697
   660.0661 -565.7051 661.9605 -564.1772 661.9605 -564.1772
@@ -630,11 +630,11 @@ line rock-edge -close on
   653.8809 -561.3468 654.363 -562.528 654.363 -562.528
 endline
 
-line rock-edge 
+line rock-border 
   654.363 -562.528
 endline
 
-line rock-edge 
+line rock-border 
   654.363 -562.528
   654.363 -562.528 657.2188 -565.0398 658.6509 -565.3697
   660.0661 -565.7051 661.9605 -564.1772 661.9605 -564.1772
@@ -649,22 +649,22 @@ line rock-edge
   653.8809 -561.3468 654.363 -562.528 654.363 -562.528
 endline
 
-line rock-edge 
+line rock-border 
   654.363 -562.528
 endline
 
-line rock-edge 
+line rock-border 
   711.39 -684.116
   709.4786 -681.9425
   709.4786 -681.9425 707.8069 -679.9212 707.5729 -679.4165
   707.3389 -678.9091 707.8041 -678.4073 707.8041 -678.4073
 endline
 
-line rock-edge 
+line rock-border 
   711.39 -684.116
 endline
 
-line rock-edge 
+line rock-border 
   715.418 -683.083
   714.9472 -684.9408
   714.9472 -684.9408 715.4265 -685.2791 713.7773 -685.7922
@@ -672,11 +672,11 @@ line rock-edge
   709.746 -686.9987 708.0827 -687.3342 708.0827 -687.3342
 endline
 
-line rock-edge 
+line rock-border 
   715.418 -683.083
 endline
 
-line rock-edge -close on
+line rock-border -close on
   701.91 -684.501
   701.91 -684.501 704.7658 -687.0128 706.1979 -687.3427
   707.6131 -687.6781 709.5075 -686.1502 709.5075 -686.1502
@@ -691,11 +691,11 @@ line rock-edge -close on
   701.4279 -683.3198 701.91 -684.501 701.91 -684.501
 endline
 
-line rock-edge 
+line rock-border 
   701.91 -684.501
 endline
 
-line rock-edge 
+line rock-border 
   701.91 -684.501
   701.91 -684.501 704.7658 -687.0128 706.1979 -687.3427
   707.6131 -687.6781 709.5075 -686.1502 709.5075 -686.1502
@@ -710,22 +710,22 @@ line rock-edge
   701.4279 -683.3198 701.91 -684.501 701.91 -684.501
 endline
 
-line rock-edge 
+line rock-border 
   701.91 -684.501
 endline
 
-line rock-edge 
+line rock-border 
   740.411 -750.717
   737.761 -746.0091
   737.761 -746.0091 735.3986 -741.6141 734.9814 -740.4921
   734.5613 -739.3644 734.801 -738.1381 734.801 -738.1381
 endline
 
-line rock-edge 
+line rock-border 
   740.411 -750.717
 endline
 
-line rock-edge 
+line rock-border 
   743.791 -747.736
   744.0757 -752.0746
   744.0757 -752.0746 744.6621 -752.785 743.3118 -754.2087
@@ -733,11 +733,11 @@ line rock-edge
   739.9993 -757.586 738.5672 -758.6093 738.5672 -758.6093
 endline
 
-line rock-edge 
+line rock-border 
   743.791 -747.736
 endline
 
-line rock-edge -close on
+line rock-border -close on
   731.658 -753.035
   731.658 -753.035 735.3257 -758.3716 736.8001 -758.9185
   738.2632 -759.471 739.4416 -755.6765 739.4416 -755.6765
@@ -752,11 +752,11 @@ line rock-edge -close on
   730.739 -750.3935 731.658 -753.035 731.658 -753.035
 endline
 
-line rock-edge 
+line rock-border 
   731.658 -753.035
 endline
 
-line rock-edge 
+line rock-border 
   731.658 -753.035
   731.658 -753.035 735.3257 -758.3716 736.8001 -758.9185
   738.2632 -759.471 739.4416 -755.6765 739.4416 -755.6765
@@ -771,22 +771,22 @@ line rock-edge
   730.739 -750.3935 731.658 -753.035 731.658 -753.035
 endline
 
-line rock-edge 
+line rock-border 
   731.658 -753.035
 endline
 
-line rock-edge 
+line rock-border 
   764.426 -770.122
   764.4852 -767.2268
   764.4852 -767.2268 764.6177 -764.605 764.784 -764.075
   764.9532 -763.545 765.6382 -763.4886 765.6382 -763.4886
 endline
 
-line rock-edge 
+line rock-border 
   764.426 -770.122
 endline
 
-line rock-edge 
+line rock-border 
   768.095 -772.081
   766.4937 -773.1325
   766.4937 -773.1325 766.6178 -773.7076 765.0532 -772.969
@@ -794,11 +794,11 @@ line rock-edge
   761.2699 -771.1366 759.8125 -770.2599 759.8125 -770.2599
 endline
 
-line rock-edge 
+line rock-border 
   768.095 -772.081
 endline
 
-line rock-edge -close on
+line rock-border -close on
   757.175 -764.003
   757.175 -764.003 757.5866 -767.7834 758.4182 -768.9956
   759.2358 -770.1966 761.6658 -770.3516 761.6658 -770.3516
@@ -813,11 +813,11 @@ line rock-edge -close on
   757.6176 -762.8077 757.175 -764.003 757.175 -764.003
 endline
 
-line rock-edge 
+line rock-border 
   757.175 -764.003
 endline
 
-line rock-edge 
+line rock-border 
   757.175 -764.003
   757.175 -764.003 757.5866 -767.7834 758.4182 -768.9956
   759.2358 -770.1966 761.6658 -770.3516 761.6658 -770.3516
@@ -832,22 +832,22 @@ line rock-edge
   757.6176 -762.8077 757.175 -764.003 757.175 -764.003
 endline
 
-line rock-edge 
+line rock-border 
   757.175 -764.003
 endline
 
-line rock-edge 
+line rock-border 
   815.959 -844.51
   812.6127 -844.9244
   812.6127 -844.9244 809.5286 -845.2261 808.8126 -845.1612
   808.0937 -845.0992 807.5806 -844.5044 807.5806 -844.5044
 endline
 
-line rock-edge 
+line rock-border 
   815.959 -844.51
 endline
 
-line rock-edge 
+line rock-border 
   815.782 -840.959
   818.0373 -842.205
   818.0373 -842.205 818.6152 -842.0021 818.8013 -843.499
@@ -855,11 +855,11 @@ line rock-edge
   819.1988 -847.1329 819.1565 -848.5593 819.1565 -848.5593
 endline
 
-line rock-edge 
+line rock-border 
   815.782 -840.959
 endline
 
-line rock-edge -close on
+line rock-border -close on
   813.743 -851.89
   813.743 -851.89 817.7941 -850.923 818.6285 -849.9956
   819.4658 -849.0765 818.0393 -846.9115 818.0393 -846.9115
@@ -874,11 +874,11 @@ line rock-edge -close on
   812.0825 -851.6927 813.743 -851.89 813.743 -851.89
 endline
 
-line rock-edge 
+line rock-border 
   813.743 -851.89
 endline
 
-line rock-edge 
+line rock-border 
   813.743 -851.89
   813.743 -851.89 817.7941 -850.923 818.6285 -849.9956
   819.4658 -849.0765 818.0393 -846.9115 818.0393 -846.9115
@@ -893,22 +893,22 @@ line rock-edge
   812.0825 -851.6927 813.743 -851.89 813.743 -851.89
 endline
 
-line rock-edge 
+line rock-border 
   813.743 -851.89
 endline
 
-line rock-edge 
+line rock-border 
   809.807 -878.352
   809.8662 -875.4568
   809.8662 -875.4568 809.9987 -872.835 810.165 -872.305
   810.3342 -871.775 811.0192 -871.7186 811.0192 -871.7186
 endline
 
-line rock-edge 
+line rock-border 
   809.807 -878.352
 endline
 
-line rock-edge 
+line rock-border 
   813.476 -880.311
   811.8747 -881.3625
   811.8747 -881.3625 811.9988 -881.9376 810.4342 -881.199
@@ -916,11 +916,11 @@ line rock-edge
   806.6509 -879.3666 805.1935 -878.4899 805.1935 -878.4899
 endline
 
-line rock-edge 
+line rock-border 
   813.476 -880.311
 endline
 
-line rock-edge -close on
+line rock-border -close on
   802.556 -872.233
   802.556 -872.233 802.9676 -876.0134 803.7992 -877.2256
   804.6168 -878.4266 807.0468 -878.5816 807.0468 -878.5816
@@ -935,11 +935,11 @@ line rock-edge -close on
   802.9986 -871.0377 802.556 -872.233 802.556 -872.233
 endline
 
-line rock-edge 
+line rock-border 
   802.556 -872.233
 endline
 
-line rock-edge 
+line rock-border 
   802.556 -872.233
   802.556 -872.233 802.9676 -876.0134 803.7992 -877.2256
   804.6168 -878.4266 807.0468 -878.5816 807.0468 -878.5816
@@ -954,22 +954,22 @@ line rock-edge
   802.9986 -871.0377 802.556 -872.233 802.556 -872.233
 endline
 
-line rock-edge 
+line rock-border 
   802.556 -872.233
 endline
 
-line rock-edge 
+line rock-border 
   824.184 -911.687
   824.1417 -909.9251
   824.1417 -909.9251 824.153 -908.3294 824.2404 -908.0109
   824.3306 -907.6923 824.7506 -907.6782 824.7506 -907.6782
 endline
 
-line rock-edge 
+line rock-border 
   824.184 -911.687
 endline
 
-line rock-edge 
+line rock-border 
   826.494 -912.981
   825.5355 -913.5758
   825.5355 -913.5758 825.6285 -913.9339 824.6475 -913.4405
@@ -977,11 +977,11 @@ line rock-edge
   822.2682 -912.2198 821.3519 -911.6447 821.3519 -911.6447
 endline
 
-line rock-edge 
+line rock-border 
   826.494 -912.981
 endline
 
-line rock-edge -close on
+line rock-border -close on
   819.559 -907.76
   819.559 -907.76 819.9142 -910.0773 820.4583 -910.8385
   820.9967 -911.5912 822.4937 -911.7547 822.4937 -911.7547
@@ -996,11 +996,11 @@ line rock-edge -close on
   819.7986 -907.0439 819.559 -907.76 819.559 -907.76
 endline
 
-line rock-edge 
+line rock-border 
   819.559 -907.76
 endline
 
-line rock-edge 
+line rock-border 
   819.559 -907.76
   819.559 -907.76 819.9142 -910.0773 820.4583 -910.8385
   820.9967 -911.5912 822.4937 -911.7547 822.4937 -911.7547
@@ -1015,22 +1015,22 @@ line rock-edge
   819.7986 -907.0439 819.559 -907.76 819.559 -907.76
 endline
 
-line rock-edge 
+line rock-border 
   819.559 -907.76
 endline
 
-line rock-edge 
+line rock-border 
   838.246 -883.572
   838.3052 -880.6768
   838.3052 -880.6768 838.4377 -878.055 838.604 -877.525
   838.7732 -876.995 839.4582 -876.9386 839.4582 -876.9386
 endline
 
-line rock-edge 
+line rock-border 
   838.246 -883.572
 endline
 
-line rock-edge 
+line rock-border 
   841.915 -885.531
   840.3137 -886.5825
   840.3137 -886.5825 840.4378 -887.1576 838.8732 -886.419
@@ -1038,11 +1038,11 @@ line rock-edge
   835.0899 -884.5866 833.6325 -883.7099 833.6325 -883.7099
 endline
 
-line rock-edge 
+line rock-border 
   841.915 -885.531
 endline
 
-line rock-edge -close on
+line rock-border -close on
   830.995 -877.453
   830.995 -877.453 831.4066 -881.2334 832.2382 -882.4456
   833.0558 -883.6466 835.4858 -883.8016 835.4858 -883.8016
@@ -1057,11 +1057,11 @@ line rock-edge -close on
   831.4376 -876.2577 830.995 -877.453 830.995 -877.453
 endline
 
-line rock-edge 
+line rock-border 
   830.995 -877.453
 endline
 
-line rock-edge 
+line rock-border 
   830.995 -877.453
   830.995 -877.453 831.4066 -881.2334 832.2382 -882.4456
   833.0558 -883.6466 835.4858 -883.8016 835.4858 -883.8016
@@ -1076,22 +1076,22 @@ line rock-edge
   831.4376 -876.2577 830.995 -877.453 830.995 -877.453
 endline
 
-line rock-edge 
+line rock-border 
   830.995 -877.453
 endline
 
-line rock-edge 
+line rock-border 
   814.126 -891.535
   818.8367 -892.5527
   818.8367 -892.5527 823.1951 -893.5535 824.2381 -893.8918
   825.284 -894.2301 826.1636 -894.9038 826.1636 -894.9038
 endline
 
-line rock-edge 
+line rock-border 
   814.126 -891.535
 endline
 
-line rock-edge 
+line rock-border 
   815.222 -894.409
   811.6868 -892.5202
   811.6868 -892.5202 810.9059 -892.4497 810.2829 -891.1924
@@ -1099,11 +1099,11 @@ line rock-edge
   808.8508 -888.1647 808.5745 -887.0596 808.5745 -887.0596
 endline
 
-line rock-edge 
+line rock-border 
   815.222 -894.409
 endline
 
-line rock-edge -close on
+line rock-border -close on
   815.562 -886.604
   815.562 -886.604 809.9745 -885.7414 808.9907 -886.1388
   808.0068 -886.5251 810.5665 -888.8057 810.5665 -888.8057
@@ -1118,11 +1118,11 @@ line rock-edge -close on
   817.9893 -887.4272 815.562 -886.604 815.562 -886.604
 endline
 
-line rock-edge 
+line rock-border 
   815.562 -886.604
 endline
 
-line rock-edge 
+line rock-border 
   815.562 -886.604
   815.562 -886.604 809.9745 -885.7414 808.9907 -886.1388
   808.0068 -886.5251 810.5665 -888.8057 810.5665 -888.8057
@@ -1137,22 +1137,22 @@ line rock-edge
   817.9893 -887.4272 815.562 -886.604 815.562 -886.604
 endline
 
-line rock-edge 
+line rock-border 
   815.562 -886.604
 endline
 
-line rock-edge 
+line rock-border 
   851.257 -895.309
   847.9107 -895.7234
   847.9107 -895.7234 844.8266 -896.0251 844.1106 -895.9602
   843.3917 -895.8982 842.8786 -895.3034 842.8786 -895.3034
 endline
 
-line rock-edge 
+line rock-border 
   851.257 -895.309
 endline
 
-line rock-edge 
+line rock-border 
   851.08 -891.758
   853.3353 -893.004
   853.3353 -893.004 853.9132 -892.8011 854.0993 -894.298
@@ -1160,11 +1160,11 @@ line rock-edge
   854.4968 -897.9319 854.4545 -899.3583 854.4545 -899.3583
 endline
 
-line rock-edge 
+line rock-border 
   851.08 -891.758
 endline
 
-line rock-edge -close on
+line rock-border -close on
   849.041 -902.689
   849.041 -902.689 853.0921 -901.722 853.9265 -900.7946
   854.7638 -899.8755 853.3373 -897.7105 853.3373 -897.7105
@@ -1179,11 +1179,11 @@ line rock-edge -close on
   847.3805 -902.4917 849.041 -902.689 849.041 -902.689
 endline
 
-line rock-edge 
+line rock-border 
   849.041 -902.689
 endline
 
-line rock-edge 
+line rock-border 
   849.041 -902.689
   849.041 -902.689 853.0921 -901.722 853.9265 -900.7946
   854.7638 -899.8755 853.3373 -897.7105 853.3373 -897.7105
@@ -1198,22 +1198,22 @@ line rock-edge
   847.3805 -902.4917 849.041 -902.689 849.041 -902.689
 endline
 
-line rock-edge 
+line rock-border 
   849.041 -902.689
 endline
 
-line rock-edge 
+line rock-border 
   862.355 -951.324
   860.579 -949.8158
   860.579 -949.8158 858.9862 -948.3865 858.6986 -948.0003
   858.4054 -947.6084 858.5182 -947.0756 858.5182 -947.0756
 endline
 
-line rock-edge 
+line rock-border 
   862.355 -951.324
 endline
 
-line rock-edge 
+line rock-border 
   864.366 -949.607
   864.6676 -951.3182
   864.6676 -951.3182 865.051 -951.5184 864.2532 -952.2993
@@ -1221,11 +1221,11 @@ line rock-edge
   862.294 -954.1655 861.4285 -954.7942 861.4285 -954.7942
 endline
 
-line rock-edge 
+line rock-border 
   864.366 -949.607
 endline
 
-line rock-edge -close on
+line rock-border -close on
   856.988 -953.578
   856.988 -953.578 859.4096 -955.1849 860.3456 -955.1849
   861.2674 -955.1905 861.8904 -953.4737 861.8904 -953.4737
@@ -1240,11 +1240,11 @@ line rock-edge -close on
   856.3424 -952.6477 856.988 -953.578 856.988 -953.578
 endline
 
-line rock-edge 
+line rock-border 
   856.988 -953.578
 endline
 
-line rock-edge 
+line rock-border 
   856.988 -953.578
   856.988 -953.578 859.4096 -955.1849 860.3456 -955.1849
   861.2674 -955.1905 861.8904 -953.4737 861.8904 -953.4737
@@ -1259,22 +1259,22 @@ line rock-edge
   856.3424 -952.6477 856.988 -953.578 856.988 -953.578
 endline
 
-line rock-edge 
+line rock-border 
   856.988 -953.578
 endline
 
-line rock-edge 
+line rock-border 
   873.723 -928.839
   871.947 -927.3308
   871.947 -927.3308 870.3542 -925.9015 870.0666 -925.5153
   869.7734 -925.1234 869.8862 -924.5906 869.8862 -924.5906
 endline
 
-line rock-edge 
+line rock-border 
   873.723 -928.839
 endline
 
-line rock-edge 
+line rock-border 
   875.734 -927.122
   876.0356 -928.8332
   876.0356 -928.8332 876.419 -929.0334 875.6212 -929.8143
@@ -1282,11 +1282,11 @@ line rock-edge
   873.662 -931.6805 872.7965 -932.3092 872.7965 -932.3092
 endline
 
-line rock-edge 
+line rock-border 
   875.734 -927.122
 endline
 
-line rock-edge -close on
+line rock-border -close on
   868.356 -931.092
   868.356 -931.092 870.7776 -932.6989 871.7136 -932.6989
   872.6354 -932.7045 873.2584 -930.9877 873.2584 -930.9877
@@ -1301,11 +1301,11 @@ line rock-edge -close on
   867.7104 -930.1617 868.356 -931.092 868.356 -931.092
 endline
 
-line rock-edge 
+line rock-border 
   868.356 -931.092
 endline
 
-line rock-edge 
+line rock-border 
   868.356 -931.092
   868.356 -931.092 870.7776 -932.6989 871.7136 -932.6989
   872.6354 -932.7045 873.2584 -930.9877 873.2584 -930.9877
@@ -1320,22 +1320,22 @@ line rock-edge
   867.7104 -930.1617 868.356 -931.092 868.356 -931.092
 endline
 
-line rock-edge 
+line rock-border 
   868.356 -931.092
 endline
 
-line rock-edge 
+line rock-border 
   847.256 -936.865
   843.3374 -933.9472
   843.3374 -933.9472 839.8333 -931.1732 839.2103 -930.4064
   838.5788 -929.6312 838.8889 -928.5289 838.8889 -928.5289
 endline
 
-line rock-edge 
+line rock-border 
   847.256 -936.865
 endline
 
-line rock-edge 
+line rock-border 
   852.028 -933.15
   852.5495 -936.6288
   852.5495 -936.6288 853.4094 -937.0009 851.5065 -938.6811
@@ -1343,11 +1343,11 @@ line rock-edge
   846.838 -942.6983 844.8026 -944.0741 844.8026 -944.0741
 endline
 
-line rock-edge 
+line rock-border 
   852.028 -933.15
 endline
 
-line rock-edge -close on
+line rock-border -close on
   834.754 -942.012
   834.754 -942.012 840.1441 -945.0707 842.281 -944.9777
   844.3897 -944.9016 845.9853 -941.3185 845.9853 -941.3185
@@ -1362,11 +1362,11 @@ line rock-edge -close on
   833.3642 -940.1655 834.754 -942.012 834.754 -942.012
 endline
 
-line rock-edge 
+line rock-border 
   834.754 -942.012
 endline
 
-line rock-edge 
+line rock-border 
   834.754 -942.012
   834.754 -942.012 840.1441 -945.0707 842.281 -944.9777
   844.3897 -944.9016 845.9853 -941.3185 845.9853 -941.3185
@@ -1381,22 +1381,22 @@ line rock-edge
   833.3642 -940.1655 834.754 -942.012 834.754 -942.012
 endline
 
-line rock-edge 
+line rock-border 
   834.754 -942.012
 endline
 
-line rock-edge 
+line rock-border 
   641.298 -419.704
   645.397 -422.3483
   645.397 -422.3483 649.1238 -424.8714 649.9019 -425.6016
   650.68 -426.3345 650.8717 -427.4481 650.8717 -427.4481
 endline
 
-line rock-edge 
+line rock-border 
   641.298 -419.704
 endline
 
-line rock-edge 
+line rock-border 
   639.135 -423.697
   637.3843 -420.2718
   637.3843 -420.2718 636.5922 -419.956 637.3731 -418.1659
@@ -1404,11 +1404,11 @@ line rock-edge
   639.338 -413.8809 640.3331 -412.3839 640.3331 -412.3839
 endline
 
-line rock-edge 
+line rock-border 
   639.135 -423.697
 endline
 
-line rock-edge -close on
+line rock-border -close on
   648.742 -413.79
   648.742 -413.79 643.4646 -411.0949 641.8916 -411.3233
   640.327 -411.5375 640.513 -415.1911 640.513 -415.1911
@@ -1423,11 +1423,11 @@ line rock-edge -close on
   650.5068 -415.5378 648.742 -413.79 648.742 -413.79
 endline
 
-line rock-edge 
+line rock-border 
   648.742 -413.79
 endline
 
-line rock-edge 
+line rock-border 
   648.742 -413.79
   648.742 -413.79 643.4646 -411.0949 641.8916 -411.3233
   640.327 -411.5375 640.513 -415.1911 640.513 -415.1911
@@ -1442,22 +1442,22 @@ line rock-edge
   650.5068 -415.5378 648.742 -413.79 648.742 -413.79
 endline
 
-line rock-edge 
+line rock-border 
   648.742 -413.79
 endline
 
-line rock-edge 
+line rock-border 
   623.94 -410.951
   624.6983 -406.1303
   624.6983 -406.1303 625.4933 -401.7015 625.8457 -400.6951
   626.2009 -399.6887 627.1425 -399.06 627.1425 -399.06
 endline
 
-line rock-edge 
+line rock-border 
   623.94 -410.951
 endline
 
-line rock-edge 
+line rock-border 
   628.467 -411.31
   626.0426 -414.2983
   626.0426 -414.2983 626.0764 -415.1524 624.1228 -415.1609
@@ -1465,11 +1465,11 @@ line rock-edge
   619.412 -415.1017 617.6388 -414.8001 617.6388 -414.8001
 endline
 
-line rock-edge 
+line rock-border 
   628.467 -411.31
 endline
 
-line rock-edge -close on
+line rock-border -close on
   615.519 -406.54
   615.519 -406.54 615.192 -412.4573 616.0377 -413.802
   616.8694 -415.1467 620.1339 -413.4947 620.1339 -413.4947
@@ -1484,11 +1484,11 @@ line rock-edge -close on
   616.3986 -404.2199 615.519 -406.54 615.519 -406.54
 endline
 
-line rock-edge 
+line rock-border 
   615.519 -406.54
 endline
 
-line rock-edge 
+line rock-border 
   615.519 -406.54
   615.519 -406.54 615.192 -412.4573 616.0377 -413.802
   616.8694 -415.1467 620.1339 -413.4947 620.1339 -413.4947
@@ -1503,22 +1503,22 @@ line rock-edge
   616.3986 -404.2199 615.519 -406.54 615.519 -406.54
 endline
 
-line rock-edge 
+line rock-border 
   615.519 -406.54
 endline
 
-line rock-edge 
+line rock-border 
   680.43 -627.336
   681.1601 -630.4934
   681.1601 -630.4934 681.724 -633.3689 681.6845 -633.975
   681.6394 -634.5839 680.8952 -634.7756 680.8952 -634.7756
 endline
 
-line rock-edge 
+line rock-border 
   680.43 -627.336
 endline
 
-line rock-edge 
+line rock-border 
   675.813 -625.901
   677.3071 -624.4548
   677.3071 -624.4548 677.0111 -623.8515 678.9507 -624.3589
@@ -1526,11 +1526,11 @@ line rock-edge
   683.6699 -625.636 685.5305 -626.3126 685.5305 -626.3126
 endline
 
-line rock-edge 
+line rock-border 
   675.813 -625.901
 endline
 
-line rock-edge -close on
+line rock-border -close on
   690.177 -632.614
   690.177 -632.614 688.6857 -628.5827 687.4284 -627.4212
   686.188 -626.271 683.4421 -626.5642 683.4421 -626.5642
@@ -1545,11 +1545,11 @@ line rock-edge -close on
   690.0107 -633.9982 690.177 -632.614 690.177 -632.614
 endline
 
-line rock-edge 
+line rock-border 
   690.177 -632.614
 endline
 
-line rock-edge 
+line rock-border 
   690.177 -632.614
   690.177 -632.614 688.6857 -628.5827 687.4284 -627.4212
   686.188 -626.271 683.4421 -626.5642 683.4421 -626.5642
@@ -1564,22 +1564,22 @@ line rock-edge
   690.0107 -633.9982 690.177 -632.614 690.177 -632.614
 endline
 
-line rock-edge 
+line rock-border 
   690.177 -632.614
 endline
 
-line rock-edge 
+line rock-border 
   763.194 -795.837
   763.9241 -798.9944
   763.9241 -798.9944 764.488 -801.8699 764.4485 -802.476
   764.4034 -803.0849 763.6592 -803.2766 763.6592 -803.2766
 endline
 
-line rock-edge 
+line rock-border 
   763.194 -795.837
 endline
 
-line rock-edge 
+line rock-border 
   758.578 -794.402
   760.0721 -792.9558
   760.0721 -792.9558 759.7761 -792.3525 761.7157 -792.8599
@@ -1587,11 +1587,11 @@ line rock-edge
   766.4349 -794.137 768.2955 -794.8136 768.2955 -794.8136
 endline
 
-line rock-edge 
+line rock-border 
   758.578 -794.402
 endline
 
-line rock-edge -close on
+line rock-border -close on
   772.941 -801.115
   772.941 -801.115 771.4497 -797.0837 770.1924 -795.9222
   768.952 -794.772 766.2061 -795.0652 766.2061 -795.0652
@@ -1606,11 +1606,11 @@ line rock-edge -close on
   772.7747 -802.4992 772.941 -801.115 772.941 -801.115
 endline
 
-line rock-edge 
+line rock-border 
   772.941 -801.115
 endline
 
-line rock-edge 
+line rock-border 
   772.941 -801.115
   772.941 -801.115 771.4497 -797.0837 770.1924 -795.9222
   768.952 -794.772 766.2061 -795.0652 766.2061 -795.0652
@@ -1625,22 +1625,22 @@ line rock-edge
   772.7747 -802.4992 772.941 -801.115 772.941 -801.115
 endline
 
-line rock-edge 
+line rock-border 
   772.941 -801.115
 endline
 
-line rock-edge 
+line rock-border 
   823.019 -864.203
   818.359 -862.7483
   818.359 -862.7483 814.0909 -861.3134 813.1521 -860.8172
   812.2049 -860.3211 811.72 -859.2949 811.72 -859.2949
 endline
 
-line rock-edge 
+line rock-border 
   823.019 -864.203
 endline
 
-line rock-edge 
+line rock-border 
   824.034 -859.774
   826.636 -862.61
   826.636 -862.61 827.4874 -862.7002 827.2083 -864.6341
@@ -1648,11 +1648,11 @@ line rock-edge
   826.4613 -869.2885 825.9031 -870.9969 825.9031 -870.9969
 endline
 
-line rock-edge 
+line rock-border 
   824.034 -859.774
 endline
 
-line rock-edge -close on
+line rock-border -close on
   817.424 -871.889
   817.424 -871.889 823.2285 -873.0758 824.686 -872.4359
   826.135 -871.8129 824.9792 -868.3397 824.9792 -868.3397
@@ -1667,11 +1667,11 @@ line rock-edge -close on
   815.2589 -870.6768 817.424 -871.889 817.424 -871.889
 endline
 
-line rock-edge 
+line rock-border 
   817.424 -871.889
 endline
 
-line rock-edge 
+line rock-border 
   817.424 -871.889
   817.424 -871.889 823.2285 -873.0758 824.686 -872.4359
   826.135 -871.8129 824.9792 -868.3397 824.9792 -868.3397
@@ -1686,22 +1686,22 @@ line rock-edge
   815.2589 -870.6768 817.424 -871.889 817.424 -871.889
 endline
 
-line rock-edge 
+line rock-border 
   817.424 -871.889
 endline
 
-line rock-edge 
+line rock-border 
   796.496 -847.785
   795.6277 -851.1848
   795.6277 -851.1848 794.7397 -854.2436 794.3958 -854.8328
   794.0462 -855.4248 793.223 -855.3543 793.223 -855.3543
 endline
 
-line rock-edge 
+line rock-border 
   796.496 -847.785
 endline
 
-line rock-edge 
+line rock-border 
   792.692 -844.737
   794.8796 -843.8236
   794.8796 -843.8236 794.8937 -843.1188 796.5401 -844.3029
@@ -1709,11 +1709,11 @@ line rock-edge
   800.5207 -847.2291 802.0063 -848.5541 802.0063 -848.5541
 endline
 
-line rock-edge 
+line rock-border 
   792.692 -844.737
 endline
 
-line rock-edge -close on
+line rock-border -close on
   803.398 -856.461
   803.398 -856.461 803.959 -851.9251 803.3078 -850.3294
   802.6707 -848.7479 799.8346 -848.0741 799.8346 -848.0741
@@ -1728,11 +1728,11 @@ line rock-edge -close on
   802.541 -857.7803 803.398 -856.461 803.398 -856.461
 endline
 
-line rock-edge 
+line rock-border 
   803.398 -856.461
 endline
 
-line rock-edge 
+line rock-border 
   803.398 -856.461
   803.398 -856.461 803.959 -851.9251 803.3078 -850.3294
   802.6707 -848.7479 799.8346 -848.0741 799.8346 -848.0741
@@ -1747,22 +1747,22 @@ line rock-edge
   802.541 -857.7803 803.398 -856.461 803.398 -856.461
 endline
 
-line rock-edge 
+line rock-border 
   803.398 -856.461
 endline
 
-line rock-edge 
+line rock-border 
   791.14 -825.615
   792.2592 -822.9143
   792.2592 -822.9143 793.3389 -820.5321 793.6716 -820.1375
   794.0099 -819.7456 794.5906 -820.1347 794.5906 -820.1347
 endline
 
-line rock-edge 
+line rock-border 
   791.14 -825.615
 endline
 
-line rock-edge 
+line rock-border 
   793.423 -829.826
   791.7203 -829.7865
   791.7203 -829.7865 791.6103 -830.4124 790.6039 -828.7068
@@ -1770,11 +1770,11 @@ line rock-edge
   788.1795 -824.5345 787.3084 -822.7698 787.3084 -822.7698
 endline
 
-line rock-edge 
+line rock-border 
   793.423 -829.826
 endline
 
-line rock-edge -close on
+line rock-border -close on
   787.464 -815.16
   787.464 -815.16 786.4012 -818.994 786.6352 -820.6742
   786.8607 -822.3346 788.7946 -824.0458 788.7946 -824.0458
@@ -1789,11 +1789,11 @@ line rock-edge -close on
   788.2703 -814.3171 787.464 -815.16 787.464 -815.16
 endline
 
-line rock-edge 
+line rock-border 
   787.464 -815.16
 endline
 
-line rock-edge 
+line rock-border 
   787.464 -815.16
   787.464 -815.16 786.4012 -818.994 786.6352 -820.6742
   786.8607 -822.3346 788.7946 -824.0458 788.7946 -824.0458
@@ -1808,163 +1808,163 @@ line rock-edge
   788.2703 -814.3171 787.464 -815.16 787.464 -815.16
 endline
 
-line rock-edge 
+line rock-border 
   787.464 -815.16
 endline
 
-line rock-edge 
+line rock-border 
   -743.368 -5952.03
   -738.5755 -5952.03
 endline
 
-line rock-edge 
+line rock-border 
   -743.368 -5952.03
 endline
 
-line rock-edge -close on
+line rock-border -close on
   566.437 -215.913
   568.5746 -215.9247 569.3968 -213.8615 569.5338 -211.9471
   569.6747 -210.0444 569.3498 -208.0399 567.3884 -210.7569
   565.4269 -213.47 565.0707 -215.9091 566.437 -215.913
 endline
 
-line rock-edge 
+line rock-border 
   566.437 -215.913
 endline
 
-line rock-edge 
+line rock-border 
   566.437 -215.913
   568.5746 -215.9247 569.3968 -213.8615 569.5338 -211.9471
   569.6747 -210.0444 569.3498 -208.0399 567.3884 -210.7569
   565.4269 -213.47 565.0707 -215.9091 566.437 -215.913
 endline
 
-line rock-edge 
+line rock-border 
   566.437 -215.913
 endline
 
-line rock-edge -close on
+line rock-border -close on
   563.347 -215.581
   561.6361 -216.9473 562.9672 -219.3708 564.5842 -218.1101
   566.2011 -216.8495 568.1233 -217.5816 568.8085 -216.8064
   569.4858 -216.0312 564.9443 -214.3047 563.347 -215.581
 endline
 
-line rock-edge 
+line rock-border 
   563.347 -215.581
 endline
 
-line rock-edge 
+line rock-border 
   563.347 -215.581
   561.6361 -216.9473 562.9672 -219.3708 564.5842 -218.1101
   566.2011 -216.8495 568.1233 -217.5816 568.8085 -216.8064
   569.4858 -216.0312 564.9443 -214.3047 563.347 -215.581
 endline
 
-line rock-edge 
+line rock-border 
   563.347 -215.581
 endline
 
-line rock-edge -close on
+line rock-border -close on
   559.78 -215.286
   560.0423 -215.7284 559.5686 -219.847 561.945 -217.7329
   564.3254 -215.6227 565.8953 -213.6887 565.3198 -212.6277
   564.7482 -211.5706 559.78 -215.286 559.78 -215.286
 endline
 
-line rock-edge 
+line rock-border 
   559.78 -215.286
 endline
 
-line rock-edge 
+line rock-border 
   559.78 -215.286
   560.0423 -215.7284 559.5686 -219.847 561.945 -217.7329
   564.3254 -215.6227 565.8953 -213.6887 565.3198 -212.6277
   564.7482 -211.5706 559.78 -215.286 559.78 -215.286
 endline
 
-line rock-edge 
+line rock-border 
   559.78 -215.286
 endline
 
-line rock-edge -close on
+line rock-border -close on
   561.428 -210.603
   563.0214 -212.0242 565.0063 -211.0219 566.3766 -209.6869
   567.743 -208.3519 568.8313 -206.6371 565.5623 -207.3692
   562.2932 -208.1013 560.4101 -209.6947 561.428 -210.603
 endline
 
-line rock-edge 
+line rock-border 
   561.428 -210.603
 endline
 
-line rock-edge 
+line rock-border 
   561.428 -210.603
   563.0214 -212.0242 565.0063 -211.0219 566.3766 -209.6869
   567.743 -208.3519 568.8313 -206.6371 565.5623 -207.3692
   562.2932 -208.1013 560.4101 -209.6947 561.428 -210.603
 endline
 
-line rock-edge 
+line rock-border 
   561.428 -210.603
 endline
 
-line rock-edge -close on
+line rock-border -close on
   559.337 -208.305
   557.1524 -208.1954 556.5417 -210.8928 558.5892 -211.022
   560.6329 -211.1473 561.5881 -212.9678 562.6139 -212.8425
   563.6357 -212.7133 561.3807 -208.4068 559.337 -208.305
 endline
 
-line rock-edge 
+line rock-border 
   559.337 -208.305
 endline
 
-line rock-edge 
+line rock-border 
   559.337 -208.305
   557.1524 -208.1954 556.5417 -210.8928 558.5892 -211.022
   560.6329 -211.1473 561.5881 -212.9678 562.6139 -212.8425
   563.6357 -212.7133 561.3807 -208.4068 559.337 -208.305
 endline
 
-line rock-edge 
+line rock-border 
   559.337 -208.305
 endline
 
-line rock-edge -close on
+line rock-border -close on
   556.859 -205.72
   556.765 -206.229 553.68 -208.9969 556.859 -208.9891
   560.038 -208.9851 562.4967 -208.5741 562.7707 -207.4035
   563.0408 -206.229 556.859 -205.72 556.859 -205.72
 endline
 
-line rock-edge 
+line rock-border 
   556.859 -205.72
 endline
 
-line rock-edge 
+line rock-border 
   556.859 -205.72
   556.765 -206.229 553.68 -208.9969 556.859 -208.9891
   560.038 -208.9851 562.4967 -208.5741 562.7707 -207.4035
   563.0408 -206.229 556.859 -205.72 556.859 -205.72
 endline
 
-line rock-edge 
+line rock-border 
   556.859 -205.72
 endline
 
-line rock-edge 
+line rock-border 
   451.352 -57.289
   452.6042 -56.1348
   452.6042 -56.1348 453.7665 -55.1249 454.0524 -54.9861
   454.3436 -54.85 454.6213 -55.1412 454.6213 -55.1412
 endline
 
-line rock-edge 
+line rock-border 
   451.352 -57.289
 endline
 
-line rock-edge 
+line rock-border 
   451.886 -59.7892
   450.8434 -59.4734
   450.8434 -59.4734 450.642 -59.7701 450.3752 -58.7439
@@ -1972,11 +1972,11 @@ line rock-edge
   449.7437 -56.2395 449.5749 -55.2079 449.5749 -55.2079
 endline
 
-line rock-edge 
+line rock-border 
   451.886 -59.7892
 endline
 
-line rock-edge -close on
+line rock-border -close on
   451.251 -51.4315
   451.251 -51.4315 449.7974 -53.1655 449.5932 -54.0447
   449.3891 -54.9158 450.2275 -56.1054 450.2275 -56.1054
@@ -1991,11 +1991,11 @@ line rock-edge -close on
   451.9261 -51.1484 451.251 -51.4315 451.251 -51.4315
 endline
 
-line rock-edge 
+line rock-border 
   451.251 -51.4315
 endline
 
-line rock-edge 
+line rock-border 
   451.251 -51.4315
   451.251 -51.4315 449.7974 -53.1655 449.5932 -54.0447
   449.3891 -54.9158 450.2275 -56.1054 450.2275 -56.1054
@@ -2010,83 +2010,52 @@ line rock-edge
   451.9261 -51.1484 451.251 -51.4315 451.251 -51.4315
 endline
 
-line rock-edge 
+line rock-border 
   451.251 -51.4315
 endline
 
-line rock-edge 
+line rock-border 
   472.963 -85.8597
   477.4246 -87.9285
   477.4246 -87.9285 481.5241 -89.913 482.4496 -90.4982
   483.3942 -91.0944 483.9958 -92.0498 483.9958 -92.0498
 endline
 
-line rock-edge 
+line rock-border 
   472.963 -85.8597
 endline
 
-line rock-edge 
-  472.761 -89.4575
-  469.9436 -86.572
-  469.9436 -86.572 469.1569 -86.3488 469.0943 -84.7482
-  469.0371 -83.134 468.2613 -82.9135 468.637 -81.909
-  469.0208 -80.9046 469.2549 -79.5489 469.2549 -79.5489
-endline
-
-line rock-edge 
+line rock-border 
   472.761 -89.4575
 endline
 
-line rock-edge -close on
-  476.793 -80.297
-  476.793 -80.297 471.3379 -78.25 470.1211 -78.5385
-  468.9124 -78.8189 470.5158 -81.9793 470.5158 -81.9793
+line rock-border 
+  469.6191 -79.7029
+  469.4836 -80.6854 470.5158 -81.9793 470.5158 -81.9793
   470.5158 -81.9793 473.1726 -85.6024 473.0065 -86.3483
-  472.865 -87.1078 472.7615 -89.457 472.7615 -89.457
-  476.5643 -92.2961
-  479.9207 -92.3152
-  482.6265 -91.9804
-  482.6265 -91.9804 484.6654 -92.4214 483.9958 -90.9433
-  483.3288 -89.4815 483.4976 -88.7438 482.2699 -86.7974
-  481.0504 -84.8566 479.9425 -83.8957 479.4498 -82.7986
-  478.9516 -81.718 476.793 -80.297 476.793 -80.297
+  472.865 -87.1078 473.2685 -89.2759 473.2685 -89.2759
 endline
 
-line rock-edge 
+line rock-border 
   476.793 -80.297
 endline
 
-line rock-edge 
-  476.793 -80.297
-  476.793 -80.297 471.3379 -78.25 470.1211 -78.5385
-  468.9124 -78.8189 470.5158 -81.9793 470.5158 -81.9793
-  470.5158 -81.9793 473.1726 -85.6024 473.0065 -86.3483
-  472.865 -87.1078 472.7615 -89.457 472.7615 -89.457
-  476.5643 -92.2961
-  479.9207 -92.3152
-  482.6265 -91.9804
-  482.6265 -91.9804 484.6654 -92.4214 483.9958 -90.9433
-  483.3288 -89.4815 483.4976 -88.7438 482.2699 -86.7974
-  481.0504 -84.8566 479.9425 -83.8957 479.4498 -82.7986
-  478.9516 -81.718 476.793 -80.297 476.793 -80.297
-endline
-
-line rock-edge 
+line rock-border 
   476.793 -80.297
 endline
 
-line rock-edge 
+line rock-border 
   478.435 -116.654
   481.4375 -108.4985
   481.4375 -108.4985 484.3393 -100.9773 485.2349 -99.2569
   486.1468 -97.5065 487.7338 -96.2952 487.7338 -96.2952
 endline
 
-line rock-edge 
+line rock-border 
   478.435 -116.654
 endline
 
-line rock-edge 
+line rock-border 
   484.727 -116.404
   480.0858 -121.8238
   480.0858 -121.8238 479.7972 -123.2393 477.0179 -123.6149
@@ -2094,11 +2063,11 @@ line rock-edge
   470.3351 -124.3989 467.9396 -124.2192 467.9396 -124.2192
 endline
 
-line rock-edge 
+line rock-border 
   484.727 -116.404
 endline
 
-line rock-edge -close on
+line rock-border -close on
   468.222 -110.89
   468.222 -110.89 465.391 -120.7877 466.0634 -122.8701
   466.7112 -124.9362 472.0058 -121.5989 472.0058 -121.5989
@@ -2113,11 +2082,11 @@ line rock-edge -close on
   470.4051 -106.864 468.222 -110.89 468.222 -110.89
 endline
 
-line rock-edge 
+line rock-border 
   468.222 -110.89
 endline
 
-line rock-edge 
+line rock-border 
   468.222 -110.89
   468.222 -110.89 465.391 -120.7877 466.0634 -122.8701
   466.7112 -124.9362 472.0058 -121.5989 472.0058 -121.5989
@@ -2132,22 +2101,22 @@ line rock-edge
   470.4051 -106.864 468.222 -110.89 468.222 -110.89
 endline
 
-line rock-edge 
+line rock-border 
   468.222 -110.89
 endline
 
-line rock-edge 
+line rock-border 
   460.833 -94.4088
   465.6158 -93.2601
   465.6158 -93.2601 470.061 -92.2692 471.1499 -92.1522
   472.2605 -92.0351 473.3249 -92.4108 473.3249 -92.4108
 endline
 
-line rock-edge 
+line rock-border 
   460.833 -94.4088
 endline
 
-line rock-edge 
+line rock-border 
   462.909 -97.3541
   458.9075 -96.8423
   458.9075 -96.8423 458.1507 -97.1554 457.1109 -95.9386
@@ -2155,11 +2124,11 @@ line rock-edge
   454.6664 -92.9742 454.0076 -91.7656 454.0076 -91.7656
 endline
 
-line rock-edge 
+line rock-border 
   462.909 -97.3541
 endline
 
-line rock-edge -close on
+line rock-border -close on
   460.381 -87.6699
   460.381 -87.6699 454.8333 -89.4529 454.0602 -90.4356
   453.2871 -91.4047 456.5074 -92.8882 456.5074 -92.8882
@@ -2174,11 +2143,11 @@ line rock-edge -close on
   462.9561 -87.444 460.381 -87.6699 460.381 -87.6699
 endline
 
-line rock-edge 
+line rock-border 
   460.381 -87.6699
 endline
 
-line rock-edge 
+line rock-border 
   460.381 -87.6699
   460.381 -87.6699 454.8333 -89.4529 454.0602 -90.4356
   453.2871 -91.4047 456.5074 -92.8882 456.5074 -92.8882
@@ -2193,22 +2162,22 @@ line rock-edge
   462.9561 -87.444 460.381 -87.6699 460.381 -87.6699
 endline
 
-line rock-edge 
+line rock-border 
   460.381 -87.6699
 endline
 
-line rock-edge 
+line rock-border 
   463.192 -84.6578
   464.3489 -81.462
   464.3489 -81.462 465.4813 -78.5385 465.8515 -77.9015
   466.2272 -77.2509 466.9431 -76.9351 466.9431 -76.9351
 endline
 
-line rock-edge 
+line rock-border 
   463.192 -84.6578
 endline
 
-line rock-edge 
+line rock-border 
   466.198 -85.413
   464.1591 -87.1715
   464.1591 -87.1715 464.072 -87.7568 462.7518 -87.5417
@@ -2216,11 +2185,11 @@ line rock-edge
   459.5805 -86.9673 458.4263 -86.5563 458.4263 -86.5563
 endline
 
-line rock-edge 
+line rock-border 
   466.198 -85.413
 endline
 
-line rock-edge -close on
+line rock-border -close on
   458.104 -80.7023
   458.104 -80.7023 457.0886 -84.6902 457.4806 -85.7029
   457.8645 -86.7073 460.2844 -85.9587 460.2844 -85.9587
@@ -2235,11 +2204,11 @@ line rock-edge -close on
   459.0105 -79.2242 458.104 -80.7023 458.104 -80.7023
 endline
 
-line rock-edge 
+line rock-border 
   458.104 -80.7023
 endline
 
-line rock-edge 
+line rock-border 
   458.104 -80.7023
   458.104 -80.7023 457.0886 -84.6902 457.4806 -85.7029
   457.8645 -86.7073 460.2844 -85.9587 460.2844 -85.9587
@@ -2254,83 +2223,45 @@ line rock-edge
   459.0105 -79.2242 458.104 -80.7023 458.104 -80.7023
 endline
 
-line rock-edge 
+line rock-border 
   458.104 -80.7023
 endline
 
-line rock-edge 
+line rock-border 
   480.152 -71.4661
   480.2173 -66.5635
   480.2173 -66.5635 480.416 -62.121 480.691 -61.2336
-  480.9741 -60.3353 482.1337 -60.2509 482.1337 -60.2509
+  480.9741 -60.3353 481.6216 -60.0461 481.6216 -60.0461
 endline
 
-line rock-edge 
+line rock-border 
   480.152 -71.4661
 endline
 
-line rock-edge 
-  486.399 -74.8288
-  483.6878 -76.5873
-  483.6878 -76.5873 483.911 -77.57 481.2487 -76.3042
-  478.5647 -75.0166 478.7879 -75.9884 476.798 -74.5729
-  474.8054 -73.152 472.3283 -71.6466 472.3283 -71.6466
-endline
-
-line rock-edge 
+line rock-border 
   486.399 -74.8288
 endline
 
-line rock-edge -close on
-  467.783 -61.0188
-  467.783 -61.0188 468.5207 -67.4294 469.9471 -69.4901
-  471.3517 -71.5371 475.473 -71.8284 475.473 -71.8284
-  475.473 -71.8284 479.5535 -70.9328 480.9418 -71.8148
-  482.341 -72.675 486.3996 -74.8282 486.3996 -74.8282
-  488.2725 -71.5616
-  485.7164 -66.5556
-  483.0678 -62.2329
-  483.0678 -62.2329 482.2402 -59.5597 480.2585 -59.3066
-  478.2931 -59.0589 476.913 -58.1769 474.5693 -58.3566
-  472.2173 -58.5281 471.4497 -59.3719 469.9743 -59.1759
-  468.5207 -58.9963 467.783 -61.0188 467.783 -61.0188
-endline
-
-line rock-edge 
+line rock-border 
   467.783 -61.0188
 endline
 
-line rock-edge 
-  467.783 -61.0188
-  467.783 -61.0188 468.5207 -67.4294 469.9471 -69.4901
-  471.3517 -71.5371 475.473 -71.8284 475.473 -71.8284
-  475.473 -71.8284 479.5535 -70.9328 480.9418 -71.8148
-  482.341 -72.675 486.3996 -74.8282 486.3996 -74.8282
-  488.2725 -71.5616
-  485.7164 -66.5556
-  483.0678 -62.2329
-  483.0678 -62.2329 482.2402 -59.5597 480.2585 -59.3066
-  478.2931 -59.0589 476.913 -58.1769 474.5693 -58.3566
-  472.2173 -58.5281 471.4497 -59.3719 469.9743 -59.1759
-  468.5207 -58.9963 467.783 -61.0188 467.783 -61.0188
-endline
-
-line rock-edge 
+line rock-border 
   467.783 -61.0188
 endline
 
-line rock-edge 
+line rock-border 
   503.801 -124.726
   499.4456 -120.5013
   499.4456 -120.5013 495.4931 -116.5161 494.69 -115.4517
   493.8734 -114.3656 493.721 -112.9746 493.721 -112.9746
 endline
 
-line rock-edge 
+line rock-border 
   503.801 -124.726
 endline
 
-line rock-edge 
+line rock-border 
   506.379 -120.453
   508.113 -125.0289
   508.113 -125.0289 508.9732 -125.606 508.0204 -127.5659
@@ -2338,11 +2269,11 @@ line rock-edge
   505.6386 -132.2453 504.4653 -133.7969 504.4653 -133.7969
 endline
 
-line rock-edge 
+line rock-border 
   506.379 -120.453
 endline
 
-line rock-edge -close on
+line rock-border -close on
   495.331 -129.982
   495.331 -129.982 500.9713 -134.5633 502.708 -134.6858
   504.4284 -134.8111 504.4229 -130.3658 504.4229 -130.3658
@@ -2357,11 +2288,11 @@ line rock-edge -close on
   493.4881 -127.4286 495.331 -129.982 495.331 -129.982
 endline
 
-line rock-edge 
+line rock-border 
   495.331 -129.982
 endline
 
-line rock-edge 
+line rock-border 
   495.331 -129.982
   495.331 -129.982 500.9713 -134.5633 502.708 -134.6858
   504.4284 -134.8111 504.4229 -130.3658 504.4229 -130.3658
@@ -2376,22 +2307,22 @@ line rock-edge
   493.4881 -127.4286 495.331 -129.982 495.331 -129.982
 endline
 
-line rock-edge 
+line rock-border 
   495.331 -129.982
 endline
 
-line rock-edge 
+line rock-border 
   419.702 -55.4243
   420.8589 -52.2285
   420.8589 -52.2285 421.9913 -49.305 422.3615 -48.668
   422.7372 -48.0174 423.4531 -47.7016 423.4531 -47.7016
 endline
 
-line rock-edge 
+line rock-border 
   419.702 -55.4243
 endline
 
-line rock-edge 
+line rock-border 
   422.708 -56.1792
   420.6691 -57.9377
   420.6691 -57.9377 420.582 -58.523 419.2618 -58.3079
@@ -2399,11 +2330,11 @@ line rock-edge
   416.0905 -57.7335 414.9363 -57.3225 414.9363 -57.3225
 endline
 
-line rock-edge 
+line rock-border 
   422.708 -56.1792
 endline
 
-line rock-edge -close on
+line rock-border -close on
   414.613 -51.4688
   414.613 -51.4688 413.5976 -55.4567 413.9896 -56.4694
   414.3735 -57.4738 416.7934 -56.7252 416.7934 -56.7252
@@ -2418,11 +2349,11 @@ line rock-edge -close on
   415.5195 -49.9907 414.613 -51.4688 414.613 -51.4688
 endline
 
-line rock-edge 
+line rock-border 
   414.613 -51.4688
 endline
 
-line rock-edge 
+line rock-border 
   414.613 -51.4688
   414.613 -51.4688 413.5976 -55.4567 413.9896 -56.4694
   414.3735 -57.4738 416.7934 -56.7252 416.7934 -56.7252
@@ -2437,22 +2368,22 @@ line rock-edge
   415.5195 -49.9907 414.613 -51.4688 414.613 -51.4688
 endline
 
-line rock-edge 
+line rock-border 
   414.613 -51.4688
 endline
 
-line rock-edge 
+line rock-border 
   431.659 -56.6444
   432.0592 -53.4595
   432.0592 -53.4595 432.5083 -50.5632 432.7506 -49.967
   432.9956 -49.3627 433.736 -49.2212 433.736 -49.2212
 endline
 
-line rock-edge 
+line rock-border 
   431.659 -56.6444
 endline
 
-line rock-edge 
+line rock-border 
   435.375 -58.3683
   433.5267 -59.7076
   433.5267 -59.7076 433.5974 -60.3282 432.0023 -59.7021
@@ -2460,11 +2391,11 @@ line rock-edge
   428.1423 -58.1288 426.6805 -57.3339 426.6805 -57.3339
 endline
 
-line rock-edge 
+line rock-border 
   435.375 -58.3683
 endline
 
-line rock-edge -close on
+line rock-border -close on
   424.576 -50.7722
   424.576 -50.7722 424.576 -54.8772 425.33 -56.1103
   426.0704 -57.3325 428.6619 -57.2209 428.6619 -57.2209
@@ -2479,11 +2410,11 @@ line rock-edge -close on
   425.1939 -49.4057 424.576 -50.7722 424.576 -50.7722
 endline
 
-line rock-edge 
+line rock-border 
   424.576 -50.7722
 endline
 
-line rock-edge 
+line rock-border 
   424.576 -50.7722
   424.576 -50.7722 424.576 -54.8772 425.33 -56.1103
   426.0704 -57.3325 428.6619 -57.2209 428.6619 -57.2209
@@ -2498,22 +2429,22 @@ line rock-edge
   425.1939 -49.4057 424.576 -50.7722 424.576 -50.7722
 endline
 
-line rock-edge 
+line rock-border 
   424.576 -50.7722
 endline
 
-line rock-edge 
+line rock-border 
   425.214 -69.0377
   423.6814 -67.2411
   423.6814 -67.2411 422.3177 -65.5561 422.0917 -65.1206
   421.8631 -64.6768 422.0618 -64.1624 422.0618 -64.1624
 endline
 
-line rock-edge 
+line rock-border 
   425.214 -69.0377
 endline
 
-line rock-edge 
+line rock-border 
   427.485 -67.6421
   427.5149 -69.406
   427.5149 -69.406 427.8661 -69.6701 426.9515 -70.3234
@@ -2521,11 +2452,11 @@ line rock-edge
   424.7057 -71.8777 423.7502 -72.3704 423.7502 -72.3704
 endline
 
-line rock-edge 
+line rock-border 
   427.485 -67.6421
 endline
 
-line rock-edge -close on
+line rock-border -close on
   419.518 -70.4333
   419.518 -70.4333 421.6821 -72.4368 422.6103 -72.5865
   423.525 -72.7362 424.4178 -71.122 424.4178 -71.122
@@ -2540,11 +2471,11 @@ line rock-edge -close on
   419.0226 -69.3962 419.518 -70.4333 419.518 -70.4333
 endline
 
-line rock-edge 
+line rock-border 
   419.518 -70.4333
 endline
 
-line rock-edge 
+line rock-border 
   419.518 -70.4333
   419.518 -70.4333 421.6821 -72.4368 422.6103 -72.5865
   423.525 -72.7362 424.4178 -71.122 424.4178 -71.122
@@ -2559,22 +2490,22 @@ line rock-edge
   419.0226 -69.3962 419.518 -70.4333 419.518 -70.4333
 endline
 
-line rock-edge 
+line rock-border 
   419.518 -70.4333
 endline
 
-line rock-edge 
+line rock-border 
   448.664 -68.3784
   449.644 -65.561
   449.644 -65.561 450.6076 -62.9804 450.9288 -62.4197
   451.2527 -61.8507 451.887 -61.5758 451.887 -61.5758
 endline
 
-line rock-edge 
+line rock-border 
   448.664 -68.3784
 endline
 
-line rock-edge 
+line rock-border 
   451.354 -69.0959
   449.5656 -70.6257
   449.5656 -70.6257 449.4948 -71.1457 448.3188 -70.9333
@@ -2582,11 +2513,11 @@ line rock-edge
   445.4824 -70.3726 444.448 -69.9915 444.448 -69.9915
 endline
 
-line rock-edge 
+line rock-border 
   451.354 -69.0959
 endline
 
-line rock-edge -close on
+line rock-border -close on
   444.069 -64.7868
   444.069 -64.7868 443.2251 -68.312 443.5926 -69.2184
   443.9492 -70.1167 446.0915 -69.4906 446.0915 -69.4906
@@ -2601,11 +2532,11 @@ line rock-edge -close on
   444.8557 -63.4856 444.069 -64.7868 444.069 -64.7868
 endline
 
-line rock-edge 
+line rock-border 
   444.069 -64.7868
 endline
 
-line rock-edge 
+line rock-border 
   444.069 -64.7868
   444.069 -64.7868 443.2251 -68.312 443.5926 -69.2184
   443.9492 -70.1167 446.0915 -69.4906 446.0915 -69.4906
@@ -2620,22 +2551,22 @@ line rock-edge
   444.8557 -63.4856 444.069 -64.7868 444.069 -64.7868
 endline
 
-line rock-edge 
+line rock-border 
   444.069 -64.7868
 endline
 
-line rock-edge 
+line rock-border 
   459.986 -60.6081
   460.4923 -58.2997
   460.4923 -58.2997 461.0122 -56.1982 461.2246 -55.7545
   461.4396 -55.3054 461.9704 -55.153 461.9704 -55.153
 endline
 
-line rock-edge 
+line rock-border 
   459.986 -60.6081
 endline
 
-line rock-edge 
+line rock-border 
   462.47 -61.5769
   461.079 -62.6658
   461.079 -62.6658 461.0844 -63.1067 460.0092 -62.7692
@@ -2643,11 +2574,11 @@ line rock-edge
   457.415 -61.9172 456.4459 -61.4544 456.4459 -61.4544
 endline
 
-line rock-edge 
+line rock-border 
   462.47 -61.5769
 endline
 
-line rock-edge -close on
+line rock-border -close on
   455.435 -56.9103
   455.435 -56.9103 455.1437 -59.8475 455.5847 -60.675
   456.0175 -61.4971 457.8441 -61.233 457.8441 -61.233
@@ -2662,11 +2593,11 @@ line rock-edge -close on
   455.9631 -55.8895 455.435 -56.9103 455.435 -56.9103
 endline
 
-line rock-edge 
+line rock-border 
   455.435 -56.9103
 endline
 
-line rock-edge 
+line rock-border 
   455.435 -56.9103
   455.435 -56.9103 455.1437 -59.8475 455.5847 -60.675
   456.0175 -61.4971 457.8441 -61.233 457.8441 -61.233
@@ -2681,18 +2612,18 @@ line rock-edge
   455.9631 -55.8895 455.435 -56.9103 455.435 -56.9103
 endline
 
-line rock-edge 
+line rock-border 
   455.435 -56.9103
 endline
 
-line rock-edge 
+line rock-border 
   404.103 58.6604
   406.7459 58.7941
   406.7459 58.7941 409.1911 58.8755 409.7755 58.8174
   410.3657 58.7592 410.8629 58.4045 410.8629 58.4045
 endline
 
-line rock-edge 
+line rock-border 
   404.7432 56.6246
   402.7487 57.4038
   402.7487 57.4038 402.3097 57.3049 401.9521 58.1685
@@ -2700,7 +2631,7 @@ line rock-edge
   401.1206 60.256 400.9577 61.0672 400.9577 61.0672
 endline
 
-line rock-edge -close on
+line rock-border -close on
   404.8597 62.8085
   404.8597 62.8085 401.7255 62.3782 401.1818 61.8723
   400.6381 61.3722 402.086 60.0929 402.086 60.0929
@@ -2715,14 +2646,14 @@ line rock-edge -close on
   406.2262 62.6457 404.8597 62.8085 404.8597 62.8085
 endline
 
-line rock-edge 
+line rock-border 
   415.6887 51.0722
   416.2964 52.6422
   416.2964 52.6422 416.8953 54.0436 417.0872 54.2966
   417.2878 54.5524 417.6658 54.4332 417.6658 54.4332
 endline
 
-line rock-edge 
+line rock-border 
   417.2847 49.2039
   416.209 48.98
   416.209 48.98 416.1626 48.6369 415.4617 49.3783
@@ -2730,7 +2661,7 @@ line rock-edge
   413.7754 51.2042 413.1649 52.0009 413.1649 52.0009
 endline
 
-line rock-edge -close on
+line rock-border -close on
   412.983 55.9928
   412.983 55.9928 412.451 53.8384 412.6603 52.9923
   412.8638 52.1608 414.149 51.5473 414.149 51.5473
@@ -2747,14 +2678,14 @@ line rock-edge -close on
 endline
 
 point 214.55 441.398 air-draught -orientation 159.53691285281417
-line rock-edge 
+line rock-border 
   271.4857 560.3605
   272.7919 564.1159
   272.7919 564.1159 274.0764 567.5557 274.5045 568.3031
   274.9363 569.0614 275.7818 569.4279 275.7818 569.4279
 endline
 
-line rock-edge 
+line rock-border 
   275.0713 559.4036
   272.6874 557.3645
   272.6874 557.3645 272.593 556.6714 271.0256 556.9544
@@ -2762,7 +2693,7 @@ line rock-edge
   267.2448 557.7019 265.8659 558.2099 265.8659 558.2099
 endline
 
-line rock-edge -close on
+line rock-border -close on
   265.3611 565.1474
   265.3611 565.1474 264.2362 560.4486 264.7261 559.2403
   265.2014 558.0429 268.057 558.8775 268.057 558.8775
@@ -2777,14 +2708,14 @@ line rock-edge -close on
   266.4097 566.8817 265.3611 565.1474 265.3611 565.1474
 endline
 
-line rock-edge 
+line rock-border 
   136.9508 866.4147
   136.3013 863.4986
   136.3013 863.4986 135.6306 860.8688 135.3549 860.3625
   135.0739 859.8508 134.3687 859.9012 134.3687 859.9012
 endline
 
-line rock-edge 
+line rock-border 
   133.628 868.957
   135.4678 869.7708
   135.4678 869.7708 135.4578 870.3779 136.894 869.3917
@@ -2792,7 +2723,7 @@ line rock-edge
   140.3615 866.9581 141.6579 865.8474 141.6579 865.8474
 endline
 
-line rock-edge -close on
+line rock-border -close on
   143.0578 859.1245
   143.0578 859.1245 143.4131 863.0082 142.814 864.3601
   142.2281 865.6962 139.7998 866.2264 139.7998 866.2264
@@ -2807,14 +2738,14 @@ line rock-edge -close on
   142.3659 857.9819 143.0578 859.1245 143.0578 859.1245
 endline
 
-line rock-edge 
+line rock-border 
   161.4683 836.6144
   161.0203 839.2919
   161.0203 839.2919 160.6757 841.7467 160.7208 842.2981
   160.7659 842.8575 161.3093 843.1889 161.3093 843.1889
 endline
 
-line rock-edge 
+line rock-border 
   164.7615 836.3387
   163.6481 834.7137
   163.6481 834.7137 163.8495 834.2338 162.4604 834.263
@@ -2822,7 +2753,7 @@ line rock-edge
   159.0963 834.3769 157.7735 834.5784 157.7735 834.5784
 endline
 
-line rock-edge -close on
+line rock-border -close on
   154.5745 839.215
   154.5745 839.215 155.5554 835.9225 156.4329 835.159
   157.3024 834.3982 159.2827 835.2598 159.2827 835.2598
@@ -2838,14 +2769,14 @@ line rock-edge -close on
   154.5745 839.215
 endline
 
-line rock-edge 
+line rock-border 
   159.9515 845.3531
   163.7159 845.8621
   163.7159 845.8621 167.2073 846.2677 168.045 846.2465
   168.8933 846.2286 169.6303 845.7508 169.6303 845.7508
 endline
 
-line rock-edge 
+line rock-border 
   161.0206 842.3644
   158.1125 843.3081
   158.1125 843.3081 157.4921 843.1067 156.9142 844.3632
@@ -2853,7 +2784,7 @@ line rock-edge
   155.5702 847.4119 155.2759 848.6128 155.2759 848.6128
 endline
 
-line rock-edge -close on
+line rock-border -close on
   160.719 851.6869
   160.719 851.6869 156.2706 850.6768 155.5336 849.8497
   154.794 849.0359 156.9599 847.2756 156.9599 847.2756
@@ -2869,14 +2800,14 @@ line rock-edge -close on
   160.719 851.6869
 endline
 
-line rock-edge 
+line rock-border 
   152.629 847.1523
   152.7617 850.1373
   152.7617 850.1373 152.9658 852.8413 153.1513 853.3901
   153.3396 853.9415 154.0421 854.0157 154.0421 854.0157
 endline
 
-line rock-edge -close on
+line rock-border -close on
   145.3491 853.2724
   145.3491 853.2724 145.6752 849.386 146.497 848.1586
   147.3055 846.9445 149.7921 846.8438 149.7921 846.8438
@@ -2918,13 +2849,13 @@ line contour
 endline
 
 line contour 
-  301.0858 217.1859
-  304.0931 230.2203 306.9022 236.5845 313.9863 237.2198
+  300.2819 213.3962
+  303.2892 226.4306 306.0983 232.7948 313.1824 233.4301
 endline
 
 line contour 
-  318.1445 184.6295
-  321.1284 196.0 327.1663 205.1646 337.1089 204.6343
+  316.6516 183.9405
+  319.6355 195.311 325.6734 204.4756 335.616 203.9453
 endline
 
 line contour 
@@ -2947,7 +2878,7 @@ line contour
   514.5988 -158.4961 512.1014 -144.6981 529.6761 -149.4743
 endline
 
-line rock-edge -close on
+line rock-border -close on
   883.332 -966.842
   885.695 -964.9543 888.3373 -961.9763 888.101 -965.2469
   887.8621 -968.5203 889.3658 -972.0138 887.7117 -973.7781
@@ -2958,11 +2889,11 @@ line rock-edge -close on
   883.332 -966.842
 endline
 
-line rock-edge 
+line rock-border 
   885.332 -978.842
 endline
 
-line rock-edge 
+line rock-border 
   888.101 -963.099
   881.4657 -968.2225
   876.8605 -959.2832
@@ -2970,11 +2901,11 @@ line rock-edge
   871.3745 -946.7242 871.7209 -944.8606 871.7209 -944.8606
 endline
 
-line rock-edge 
+line rock-border 
   890.101 -975.099
 endline
 
-line rock-edge -close on
+line rock-border -close on
   864.737 -971.545
   864.737 -971.545 871.2192 -981.7463 873.9582 -982.9091
   876.673 -984.0852 879.2213 -977.2351 879.2213 -977.2351
@@ -2990,7 +2921,7 @@ line rock-edge -close on
   863.2306 -966.5934 864.737 -971.545 864.737 -971.545
 endline
 
-line rock-edge 
+line rock-border 
   866.737 -983.545
 endline
 
@@ -3192,14 +3123,14 @@ line wall
   896.0827 -989.0849 905.602 -988.4967 907.6606 -991.6582
 endline
 
-line rock-edge 
+line rock-border 
   344.4797 322.4204
   345.6742 323.5215
   345.6742 323.5215 346.7831 324.4849 347.0557 324.6173
   347.3336 324.7472 347.5984 324.4693 347.5984 324.4693
 endline
 
-line rock-edge 
+line rock-border 
   344.9892 320.0353
   343.9946 320.3365
   343.9946 320.3365 343.8024 320.0534 343.5479 321.0324
@@ -3207,7 +3138,7 @@ line rock-edge
   342.9455 323.4215 342.7845 324.4057 342.7845 324.4057
 endline
 
-line rock-edge -close on
+line rock-border -close on
   344.3831 328.0082
   344.3831 328.0082 342.9964 326.3541 342.8016 325.5153
   342.6069 324.6843 343.4067 323.5495 343.4067 323.5495
@@ -3223,14 +3154,14 @@ line rock-edge -close on
   344.3831 328.0082
 endline
 
-line rock-edge 
+line rock-border 
   338.6482 317.3813
   339.583 320.069
   339.583 320.069 340.5023 322.5308 340.8087 323.0658
   341.1177 323.6085 341.7228 323.8708 341.7228 323.8708
 endline
 
-line rock-edge 
+line rock-border 
   341.2145 316.6968
   339.5084 315.2374
   339.5084 315.2374 339.4408 314.7414 338.3191 314.944
@@ -3238,7 +3169,7 @@ line rock-edge
   335.6132 315.4789 334.6264 315.8424 334.6264 315.8424
 endline
 
-line rock-edge 
+line rock-border 
   334.2649 320.8076
   334.2649 320.8076 333.4599 317.4447 333.8104 316.5799
   334.1506 315.723 336.1943 316.3203 336.1943 316.3203
@@ -3253,14 +3184,14 @@ line rock-edge
   335.0154 322.0488 334.2649 320.8076 334.2649 320.8076
 endline
 
-line rock-edge 
+line rock-border 
   363.3722 338.4183
   363.8319 340.1426
   363.8319 340.1426 364.2915 341.7163 364.4629 342.0513
   364.6395 342.3914 365.0316 342.5265 365.0316 342.5265
 endline
 
-line rock-edge 
+line rock-border 
   365.1528 337.7972
   364.0933 336.9402
   364.0933 336.9402 364.0797 336.6156 363.3064 336.8234
@@ -3268,7 +3199,7 @@ line rock-edge
   361.4419 337.3505 360.7512 337.657 360.7512 337.657
 endline
 
-line rock-edge -close on
+line rock-border -close on
   360.186 340.9759
   360.186 340.9759 359.8614 338.7946 360.1523 338.1999
   360.4379 337.6105 361.7805 337.8753 361.7805 337.8753
@@ -3859,6 +3790,46 @@ endline
 area water 
   Topo2023-1p_water_1
 endarea
+
+line rock-border -close on
+  469.9436 -86.572
+  469.9436 -86.572 469.1569 -86.3488 469.0943 -84.7482
+  469.0371 -83.134 468.2613 -82.9135 468.637 -81.909
+  469.0208 -80.9046 469.469 -79.3187 469.469 -79.3187
+  469.722 -78.8066 469.8517 -78.601 470.1211 -78.5385
+  471.3379 -78.25 476.793 -80.297 476.793 -80.297
+  476.793 -80.297 478.9516 -81.718 479.4498 -82.7986
+  479.9425 -83.8957 481.0504 -84.8566 482.2699 -86.7974
+  483.4976 -88.7438 483.3288 -89.4815 483.9958 -90.9433
+  484.6654 -92.4214 482.6265 -91.9804 482.6265 -91.9804
+  479.9207 -92.3152
+  476.5643 -92.2961
+  473.1234 -90.1815
+  469.9436 -86.572
+endline
+
+line rock-border 
+  470.4197 -69.4081
+  471.8243 -71.4551 475.473 -71.8284 475.473 -71.8284
+  475.473 -71.8284 478.939 -70.4207 480.3273 -71.3027
+  481.7265 -72.1629 485.7851 -74.3161 485.7851 -74.3161
+endline
+
+line rock-border -close on
+  467.783 -61.0188
+  467.783 -61.0188 468.5207 -58.9963 469.9743 -59.1759
+  471.4497 -59.3719 472.2173 -58.5281 474.5693 -58.3566
+  476.913 -58.1769 478.2931 -59.0589 480.2585 -59.3066
+  482.2402 -59.5597 483.0678 -62.2329 483.0678 -62.2329
+  485.7164 -66.5556
+  488.2725 -71.5616
+  486.5913 -74.6109
+  483.6878 -76.5873
+  483.6878 -76.5873 483.911 -77.57 481.2487 -76.3042
+  478.5647 -75.0166 478.7879 -75.9884 476.798 -74.5729
+  474.8054 -73.152 469.9727 -69.7234 469.9727 -69.7234
+  468.5207 -67.4294 467.783 -61.0188 467.783 -61.0188
+endline
 
 endscrap
 
