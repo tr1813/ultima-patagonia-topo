@@ -2926,6 +2926,7 @@ line rock-border
 endline
 
 point 81.603 1107.24 label -align r -text "Terminus topographique<br>Ultima Patagonia 2023"
+point 195.996 443.272 continuation 
 point 120.374 888.422 continuation 
 line wall -clip off -subtype presumed
   349.7914 274.8899

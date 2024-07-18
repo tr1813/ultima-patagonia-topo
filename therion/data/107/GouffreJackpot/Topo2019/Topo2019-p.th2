@@ -8389,7 +8389,7 @@ line survey
   2556.03 -1048.6339
 endline
 
-point 2597.0647 -1192.0554 station-name -align tr -scale xs -text 0
+point 2597.06 -1192.06 station-name -align tr -scale xs -text 0
 point 2575.18 -1172.92 station-name -align tr -scale xs -text 1
 point 2558.64 -1147.46 station-name -align tr -scale xs -text 2
 point 2533.63 -1124.94 station-name -align tr -scale xs -text 3
@@ -8405,6 +8405,7 @@ endscrap
 
 scrap Topo2019-2p -projection plan -scale [0 0 96 0 0 0 500 0 inch]
 
+point 1503.8021 67.642 stalagmite -scale l
 line wall -id alt006
   2066.9135 -723.086
   altitude .

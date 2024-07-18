@@ -1917,7 +1917,7 @@ point 705.695 -1002.52 station -name 25
 point 747.425 -1072.59 station -name 26
 point 646.245 -1072.59 station -name 27
 point 688.765 -1230.47 station -name 28
-point 503.335 -1297.4 station -name 30
+point 503.335 -1297.4 station -name 29
 point 596.645 -1328.11 station -name 31
 point 584.435 -1414.72 station -name 32
 point 629.715 -1487.56 station -name 33
@@ -1946,7 +1946,7 @@ point 705.695 -1002.52 station-name -align tr -scale xs -text 25
 point 747.425 -1072.59 station-name -align tr -scale xs -text 26
 point 646.245 -1072.59 station-name -align tr -scale xs -text 27
 point 688.765 -1230.47 station-name -align tr -scale xs -text 28
-point 503.335 -1297.4 station-name -align tr -scale xs -text 30
+point 503.335 -1297.4 station-name -align tr -scale xs -text 29
 point 596.645 -1328.11 station-name -align tr -scale xs -text 31
 point 584.435 -1414.72 station-name -align tr -scale xs -text 32
 point 629.715 -1487.56 station-name -align tr -scale xs -text 33
